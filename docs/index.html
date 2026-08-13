@@ -493,7 +493,10 @@ function render(tree) {
         total += filtered.length;
         const pouleLabel = poule ? `${slug} – ${region} – ${poule}` : `${slug} – ${region}`;
         const rows = filtered.map(t => `
-          <div class="team-row" onclick="openPreview(${JSON.stringify(esc(t.nom))}, ${JSON.stringify(esc(pouleLabel))}, ${JSON.stringify(esc(t.fichier))})">
+          <div class="team-row" onclick="openPreview(this)"
+            data-nom="${esc(t.nom)}"
+            data-subtitle="${esc(pouleLabel)}"
+            data-fichier="${esc(t.fichier)}">
             <span class="team-name">${t.nom}</span>
             <span class="btn-preview">Voir les matchs</span>
           </div>`).join("");
@@ -572,11 +575,10 @@ function fmtDate(d) {
 }
 
 // ── Prévisualisation ─────────────────────────────────────────────────────────
-async function openPreview(nom, subtitle, fichier) {
-  // Décoder les entités HTML éventuelles
-  nom      = nom.replace(/&quot;/g, '"');
-  subtitle = subtitle.replace(/&quot;/g, '"');
-  fichier  = fichier.replace(/&quot;/g, '"');
+async function openPreview(el) {
+  const nom      = el.dataset.nom;
+  const subtitle = el.dataset.subtitle;
+  const fichier  = el.dataset.fichier;
 
   document.getElementById("modal-team").textContent     = nom;
   document.getElementById("modal-subtitle").textContent = subtitle;

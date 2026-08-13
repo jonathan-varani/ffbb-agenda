@@ -299,22 +299,44 @@
       border-top: 1px solid var(--border);
       flex-shrink: 0;
     }
-    .btn-subscribe-final {
-      display: block;
-      width: 100%;
-      padding: 14px;
+    #sub-form {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+    #sub-email {
+      flex: 1;
+      padding: 11px 14px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      font-size: .9rem;
+      outline: none;
+      color: var(--navy);
+    }
+    #sub-email:focus { border-color: var(--orange); }
+    #sub-form button {
+      flex-shrink: 0;
       background: var(--orange);
       color: #fff;
       border: none;
       border-radius: var(--radius);
-      font-size: .95rem;
+      padding: 11px 16px;
+      font-size: .85rem;
       font-weight: 700;
-      text-align: center;
-      text-decoration: none;
       cursor: pointer;
-      -webkit-tap-highlight-color: transparent;
+      white-space: nowrap;
     }
-    .btn-subscribe-final:active { opacity: .85; }
+    #sub-form button:active { opacity: .85; }
+    #sub-success {
+      text-align: center;
+      padding: 12px;
+      background: #F0FDF4;
+      border-radius: var(--radius);
+      color: var(--green);
+      font-weight: 600;
+      font-size: .9rem;
+      margin-bottom: 8px;
+    }
     .modal-close-btn {
       display: block;
       width: 100%;
@@ -411,7 +433,14 @@
       <div class="match-loading">⏳ Chargement…</div>
     </div>
     <div class="modal-footer">
-      <a id="btn-subscribe-final" class="btn-subscribe-final" href="#">📅 S'abonner au calendrier</a>
+      <div id="sub-form">
+        <input type="email" id="sub-email" placeholder="votre@email.com" autocomplete="email">
+        <button onclick="submitSubscribe()">Recevoir le lien 📨</button>
+      </div>
+      <div id="sub-success" style="display:none">
+        ✅ Lien envoyé ! Vérifiez votre boîte mail.
+      </div>
+      <div id="sub-error" style="display:none;color:#DC2626;font-size:.82rem;margin-bottom:8px"></div>
       <button class="modal-close-btn" onclick="closeModal()">Fermer</button>
     </div>
   </div>
@@ -421,6 +450,8 @@
 // ── Plateforme ───────────────────────────────────────────────────────────────
 const isIOS     = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 const isAndroid = /Android/.test(navigator.userAgent);
+const DEVICE    = isIOS ? "ios" : isAndroid ? "android" : "desktop";
+const WORKER    = "https://ffbb-agenda.jonathan-varani.workers.dev";
 
 const BASE = (() => {
   const href = window.location.href.split("?")[0];
@@ -597,16 +628,23 @@ function fmtDate(d) {
   };
 }
 
+// ── État courant du modal ─────────────────────────────────────────────────────
+let currentPreview = {};
+
 // ── Prévisualisation ─────────────────────────────────────────────────────────
 async function openPreview(el) {
   const nom      = el.dataset.nom;
   const subtitle = el.dataset.subtitle;
   const fichier  = el.dataset.fichier;
+  currentPreview = { nom, subtitle, fichier };
 
   document.getElementById("modal-team").textContent     = nom;
   document.getElementById("modal-subtitle").textContent = subtitle;
-  document.getElementById("match-list").innerHTML       = '<div class="match-loading">⏳ Chargement…</div>';
-  document.getElementById("btn-subscribe-final").href   = subUrl(fichier);
+  document.getElementById("match-list").innerHTML = '<div class="match-loading">⏳ Chargement…</div>';
+  document.getElementById("sub-email").value      = "";
+  document.getElementById("sub-form").style.display    = "flex";
+  document.getElementById("sub-success").style.display = "none";
+  document.getElementById("sub-error").style.display   = "none";
   document.getElementById("modal").classList.add("open");
 
   try {
@@ -665,6 +703,50 @@ function matchCard(e, isPast) {
       </div>
       ${scoreHtml}
     </div>`;
+}
+
+// ── Envoi abonnement ─────────────────────────────────────────────────────────
+async function submitSubscribe() {
+  const email = document.getElementById("sub-email").value.trim();
+  if (!email || !email.includes("@")) {
+    showSubError("Merci de saisir une adresse email valide.");
+    return;
+  }
+
+  const btn = document.querySelector("#sub-form button");
+  btn.textContent = "Envoi…";
+  btn.disabled = true;
+
+  try {
+    const res = await fetch(`${WORKER}/subscribe`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        email,
+        equipe:   currentPreview.nom,
+        comp_nom: currentPreview.subtitle,
+        fichier:  currentPreview.fichier,
+        device:   DEVICE,
+      }),
+    });
+    const data = await res.json();
+    if (!res.ok || data.error) throw new Error(data.error || "Erreur serveur");
+
+    document.getElementById("sub-form").style.display    = "none";
+    document.getElementById("sub-success").style.display = "block";
+    document.getElementById("sub-error").style.display   = "none";
+  } catch(e) {
+    showSubError("Erreur : " + e.message);
+  } finally {
+    btn.textContent = "Recevoir le lien 📨";
+    btn.disabled = false;
+  }
+}
+
+function showSubError(msg) {
+  const el = document.getElementById("sub-error");
+  el.textContent = msg;
+  el.style.display = "block";
 }
 
 function closeModal() {

@@ -327,6 +327,21 @@
       cursor: pointer;
     }
 
+    /* ── How-to ── */
+    .howto {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px 8px;
+      padding: 10px 16px;
+      background: #EFF6FF;
+      border-bottom: 1px solid #BFDBFE;
+      font-size: .78rem;
+      color: #1E40AF;
+    }
+    .howto-step { white-space: nowrap; }
+    .howto-arrow { color: #93C5FD; font-weight: 700; }
+
     /* ── États ── */
     .state-msg {
       text-align: center;
@@ -363,6 +378,14 @@
 </div>
 
 <div class="region-tabs" id="region-tabs"></div>
+
+<div class="howto">
+  <span class="howto-step">1️⃣ Cherche ton équipe</span>
+  <span class="howto-arrow">→</span>
+  <span class="howto-step">2️⃣ Clique sur <strong>Voir les matchs</strong></span>
+  <span class="howto-arrow">→</span>
+  <span class="howto-step">3️⃣ Clique sur <strong>S'abonner</strong> pour l'avoir dans ton appli Calendrier</span>
+</div>
 
 <main id="content">
   <div class="state-msg">

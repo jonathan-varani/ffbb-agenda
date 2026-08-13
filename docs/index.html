@@ -13,6 +13,7 @@
       --light:  #F5F6FA;
       --gray:   #6B7280;
       --border: #E5E7EB;
+      --green:  #16A34A;
       --radius: 12px;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -104,7 +105,6 @@
       letter-spacing: .06em;
       margin-bottom: 8px;
     }
-
     .poule-block {
       background: #fff;
       border-radius: var(--radius);
@@ -120,7 +120,6 @@
       color: var(--navy);
       border-bottom: 1px solid var(--border);
     }
-
     .team-row {
       display: flex;
       align-items: center;
@@ -128,15 +127,17 @@
       padding: 12px 14px;
       border-bottom: 1px solid var(--border);
       gap: 8px;
+      cursor: pointer;
     }
     .team-row:last-child { border-bottom: none; }
+    .team-row:active { background: var(--light); }
     .team-name {
       font-size: .88rem;
       font-weight: 500;
       flex: 1;
       line-height: 1.3;
     }
-    .btn-subscribe {
+    .btn-preview {
       flex-shrink: 0;
       background: var(--orange);
       color: #fff;
@@ -148,10 +149,185 @@
       cursor: pointer;
       white-space: nowrap;
       -webkit-tap-highlight-color: transparent;
+      text-decoration: none;
     }
-    .btn-subscribe:active { opacity: .8; }
+    .btn-preview:active { opacity: .8; }
 
-    /* ── États vides / loading ── */
+    /* ── Modal ── */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,.55);
+      z-index: 200;
+      align-items: flex-end;
+      justify-content: center;
+    }
+    .modal-overlay.open { display: flex; }
+
+    .modal-sheet {
+      background: #fff;
+      border-radius: 20px 20px 0 0;
+      width: 100%;
+      max-width: 520px;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      animation: slideUp .22s ease;
+      padding-bottom: env(safe-area-inset-bottom, 0);
+    }
+    @keyframes slideUp {
+      from { transform: translateY(100%); }
+      to   { transform: translateY(0); }
+    }
+
+    .modal-header {
+      padding: 16px 20px 12px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .modal-handle {
+      width: 40px; height: 4px;
+      background: var(--border);
+      border-radius: 2px;
+      margin: 0 auto 14px;
+    }
+    .modal-team {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--navy);
+      text-align: center;
+    }
+    .modal-subtitle {
+      font-size: .78rem;
+      color: var(--gray);
+      text-align: center;
+      margin-top: 3px;
+    }
+
+    /* ── Liste des matchs ── */
+    .match-list {
+      overflow-y: auto;
+      flex: 1;
+      padding: 8px 0;
+    }
+
+    .match-separator {
+      font-size: .7rem;
+      font-weight: 700;
+      color: var(--gray);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      padding: 10px 16px 4px;
+    }
+
+    .match-card {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--border);
+    }
+    .match-card:last-child { border-bottom: none; }
+    .match-card.past { opacity: .65; }
+
+    .match-date {
+      flex-shrink: 0;
+      text-align: center;
+      width: 48px;
+    }
+    .match-date .day {
+      font-size: .75rem;
+      font-weight: 700;
+      color: var(--navy);
+      text-transform: uppercase;
+    }
+    .match-date .num {
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: var(--navy);
+      line-height: 1;
+    }
+    .match-date .month {
+      font-size: .68rem;
+      color: var(--gray);
+      text-transform: uppercase;
+    }
+    .match-date .time {
+      font-size: .68rem;
+      color: var(--orange);
+      font-weight: 600;
+      margin-top: 2px;
+    }
+
+    .match-info { flex: 1; min-width: 0; }
+    .match-teams {
+      font-size: .88rem;
+      font-weight: 600;
+      color: var(--navy);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .match-venue {
+      font-size: .72rem;
+      color: var(--gray);
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .match-score {
+      flex-shrink: 0;
+      font-size: .85rem;
+      font-weight: 700;
+      color: var(--green);
+      text-align: right;
+    }
+
+    .match-loading {
+      text-align: center;
+      padding: 30px;
+      color: var(--gray);
+      font-size: .9rem;
+    }
+
+    /* ── Footer modal ── */
+    .modal-footer {
+      padding: 12px 16px;
+      border-top: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .btn-subscribe-final {
+      display: block;
+      width: 100%;
+      padding: 14px;
+      background: var(--orange);
+      color: #fff;
+      border: none;
+      border-radius: var(--radius);
+      font-size: .95rem;
+      font-weight: 700;
+      text-align: center;
+      text-decoration: none;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .btn-subscribe-final:active { opacity: .85; }
+    .modal-close-btn {
+      display: block;
+      width: 100%;
+      margin-top: 8px;
+      padding: 10px;
+      background: none;
+      border: none;
+      color: var(--gray);
+      font-size: .88rem;
+      cursor: pointer;
+    }
+
+    /* ── États ── */
     .state-msg {
       text-align: center;
       padding: 60px 20px;
@@ -200,21 +376,38 @@
   Mise à jour automatique · Projet non officiel
 </footer>
 
+<!-- Modal prévisualisation -->
+<div class="modal-overlay" id="modal" onclick="handleOverlayClick(event)">
+  <div class="modal-sheet">
+    <div class="modal-header">
+      <div class="modal-handle"></div>
+      <div class="modal-team" id="modal-team"></div>
+      <div class="modal-subtitle" id="modal-subtitle"></div>
+    </div>
+    <div class="match-list" id="match-list">
+      <div class="match-loading">⏳ Chargement…</div>
+    </div>
+    <div class="modal-footer">
+      <a id="btn-subscribe-final" class="btn-subscribe-final" href="#">📅 S'abonner au calendrier</a>
+      <button class="modal-close-btn" onclick="closeModal()">Fermer</button>
+    </div>
+  </div>
+</div>
 
 <script>
-// ── Détection plateforme ─────────────────────────────────────────────────────
+// ── Plateforme ───────────────────────────────────────────────────────────────
 const isIOS     = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 const isAndroid = /Android/.test(navigator.userAgent);
 
-// ── Base URL (pointe vers le dossier qui contient index.html) ────────────────
 const BASE = (() => {
   const href = window.location.href.split("?")[0];
   return href.endsWith("/") ? href.slice(0, -1) : href.replace(/\/[^\/]+$/, "");
 })();
 
-function icsUrl(fichier)    { return `${BASE}/${fichier}`; }
-function webcalUrl(fichier) { return icsUrl(fichier).replace(/^https?:\/\//, "webcal://"); }
-function gcalUrl(fichier)   { return `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(icsUrl(fichier))}`; }
+function icsUrl(f)    { return `${BASE}/${f}`; }
+function webcalUrl(f) { return icsUrl(f).replace(/^https?:\/\//, "webcal://"); }
+function gcalUrl(f)   { return `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(icsUrl(f))}`; }
+function subUrl(f)    { return isAndroid ? gcalUrl(f) : webcalUrl(f); }
 
 // ── Données ──────────────────────────────────────────────────────────────────
 let DATA = null;
@@ -229,14 +422,12 @@ async function loadData() {
     init();
   } catch(e) {
     document.getElementById("content").innerHTML = `
-      <div class="state-msg">
-        <div class="icon">❌</div>
-        <p>Impossible de charger les calendriers.<br>${e.message}</p>
-      </div>`;
+      <div class="state-msg"><div class="icon">❌</div>
+      <p>Impossible de charger les calendriers.<br>${e.message}</p></div>`;
   }
 }
 
-// ── Arbre région → slug → poule ──────────────────────────────────────────────
+// ── Arbre ────────────────────────────────────────────────────────────────────
 function buildTree() {
   const tree = {};
   for (const eq of DATA.equipes) {
@@ -251,24 +442,19 @@ function buildTree() {
   return tree;
 }
 
-// ── Init ─────────────────────────────────────────────────────────────────────
 function init() {
   const tree    = buildTree();
   const regions = Object.keys(tree).sort();
-
-  // Tabs région
-  const tabsEl = document.getElementById("region-tabs");
+  const tabsEl  = document.getElementById("region-tabs");
   tabsEl.innerHTML = "";
   regions.forEach(r => {
     const btn = document.createElement("button");
-    btn.className      = "region-tab";
+    btn.className = "region-tab";
     btn.dataset.region = r;
-    btn.textContent    = r;
-    btn.onclick        = () => setRegion(r);
+    btn.textContent = r;
+    btn.onclick = () => setRegion(r);
     tabsEl.appendChild(btn);
   });
-
-  // Auto-select première région
   if (regions.length) setRegion(regions[0]);
   else render(tree);
 }
@@ -286,70 +472,183 @@ document.getElementById("search").addEventListener("input", e => {
   render(buildTree());
 });
 
-// ── Rendu ────────────────────────────────────────────────────────────────────
 function esc(s) { return (s || "").replace(/"/g, "&quot;"); }
 
 function render(tree) {
   if (!tree) return;
   const content = document.getElementById("content");
-  let html  = "";
-  let total = 0;
-
+  let html = ""; let total = 0;
   const regionsToShow = currentRegion ? [currentRegion] : Object.keys(tree).sort();
 
   regionsToShow.forEach(region => {
     const champs = tree[region];
     if (!champs) return;
-
     Object.entries(champs).sort().forEach(([slug, poules]) => {
       let champHtml = "";
-
       Object.entries(poules).sort().forEach(([poule, teamList]) => {
         const filtered = teamList.filter(t =>
           !currentSearch || t.nom.toLowerCase().includes(currentSearch)
         );
         if (!filtered.length) return;
         total += filtered.length;
-
-        const pouleLabel = poule
-          ? `${slug} – ${region} – ${poule}`
-          : `${slug} – ${region}`;
-
-        const rows = filtered.map(t => {
-          const url = isAndroid ? gcalUrl(t.fichier) : webcalUrl(t.fichier);
-          return `
-          <div class="team-row">
+        const pouleLabel = poule ? `${slug} – ${region} – ${poule}` : `${slug} – ${region}`;
+        const rows = filtered.map(t => `
+          <div class="team-row" onclick="openPreview(${JSON.stringify(esc(t.nom))}, ${JSON.stringify(esc(pouleLabel))}, ${JSON.stringify(esc(t.fichier))})">
             <span class="team-name">${t.nom}</span>
-            <a class="btn-subscribe" href="${esc(url)}">📅 S'abonner</a>
-          </div>`;
-        }).join("");
-
+            <span class="btn-preview">Voir les matchs</span>
+          </div>`).join("");
         champHtml += `<div class="poule-block">
-          <div class="poule-header">${pouleLabel}</div>
-          ${rows}
-        </div>`;
+          <div class="poule-header">${pouleLabel}</div>${rows}</div>`;
       });
-
       if (champHtml) {
         html += `<div class="champ-block">
           <div class="champ-title">${currentRegion ? slug : slug + " – " + region}</div>
-          ${champHtml}
-        </div>`;
+          ${champHtml}</div>`;
       }
     });
   });
 
   if (!total) {
-    html = `<div class="state-msg">
-      <div class="icon">🔍</div>
-      <p>Aucune équipe trouvée</p>
-    </div>`;
+    html = `<div class="state-msg"><div class="icon">🔍</div><p>Aucune équipe trouvée</p></div>`;
   }
-
   content.innerHTML = html;
 }
 
-// ── Démarrage ────────────────────────────────────────────────────────────────
+// ── Parser ICS ───────────────────────────────────────────────────────────────
+function parseICS(text) {
+  // Déplier les lignes repliées (RFC 5545)
+  text = text.replace(/\r\n[ \t]/g, "").replace(/\r/g, "");
+
+  function get(block, key) {
+    const m = block.match(new RegExp(key + "[^:\n]*:([^\n]+)"));
+    return m ? m[1].trim() : "";
+  }
+  function unescape(s) {
+    return s.replace(/\\n/g, "\n").replace(/\\,/g, ",").replace(/\\;/g, ";").replace(/\\\\/g, "\\");
+  }
+
+  const events = [];
+  const blocks = text.split("BEGIN:VEVENT");
+  for (let i = 1; i < blocks.length; i++) {
+    const b = blocks[i];
+    const dtstart  = get(b, "DTSTART");
+    const summary  = unescape(get(b, "SUMMARY"));
+    const location = unescape(get(b, "LOCATION")).split(",")[0].trim(); // juste le nom de salle
+    const desc     = unescape(get(b, "DESCRIPTION"));
+
+    // Extraire score depuis SUMMARY : "🏠 EQ1 – EQ2 (72-65)"
+    const scoreM = summary.match(/\((\d{1,3}-\d{1,3})\)/);
+    const score  = scoreM ? scoreM[1] : "";
+
+    // Titre sans le score
+    const title = summary.replace(/\s*\([^)]+\)$/, "").trim();
+
+    // Date depuis DTSTART : 20260927T153000
+    const ds = dtstart.replace(/[^0-9T]/g, "").slice(0, 15); // YYYYMMDDTHHmmss
+    const year  = +ds.slice(0, 4);
+    const month = +ds.slice(4, 6) - 1;
+    const day   = +ds.slice(6, 8);
+    const hour  = +ds.slice(9, 11);
+    const min   = +ds.slice(11, 13);
+    const date  = new Date(year, month, day, hour, min);
+
+    events.push({ date, title, score, location, summary });
+  }
+  events.sort((a, b) => a.date - b.date);
+  return events;
+}
+
+// ── Formatage date ────────────────────────────────────────────────────────────
+const JOURS  = ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"];
+const MOIS   = ["jan", "fév", "mar", "avr", "mai", "jun", "jul", "aoû", "sep", "oct", "nov", "déc"];
+
+function fmtDate(d) {
+  return {
+    day:   JOURS[d.getDay()],
+    num:   d.getDate(),
+    month: MOIS[d.getMonth()],
+    time:  `${d.getHours()}h${String(d.getMinutes()).padStart(2,"0")}`,
+  };
+}
+
+// ── Prévisualisation ─────────────────────────────────────────────────────────
+async function openPreview(nom, subtitle, fichier) {
+  // Décoder les entités HTML éventuelles
+  nom      = nom.replace(/&quot;/g, '"');
+  subtitle = subtitle.replace(/&quot;/g, '"');
+  fichier  = fichier.replace(/&quot;/g, '"');
+
+  document.getElementById("modal-team").textContent     = nom;
+  document.getElementById("modal-subtitle").textContent = subtitle;
+  document.getElementById("match-list").innerHTML       = '<div class="match-loading">⏳ Chargement…</div>';
+  document.getElementById("btn-subscribe-final").href   = subUrl(fichier);
+  document.getElementById("modal").classList.add("open");
+
+  try {
+    const res = await fetch(icsUrl(fichier));
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const text   = await res.text();
+    const events = parseICS(text);
+    renderMatches(events);
+  } catch(e) {
+    document.getElementById("match-list").innerHTML =
+      `<div class="match-loading">❌ Impossible de charger les matchs.<br>${e.message}</div>`;
+  }
+}
+
+function renderMatches(events) {
+  const now = new Date();
+  const past   = events.filter(e => e.date < now);
+  const future = events.filter(e => e.date >= now);
+
+  let html = "";
+
+  if (future.length) {
+    html += `<div class="match-separator">À venir</div>`;
+    html += future.map(e => matchCard(e, false)).join("");
+  }
+  if (past.length) {
+    html += `<div class="match-separator">Résultats</div>`;
+    html += [...past].reverse().map(e => matchCard(e, true)).join("");
+  }
+  if (!events.length) {
+    html = `<div class="match-loading">Aucun match trouvé.</div>`;
+  }
+
+  document.getElementById("match-list").innerHTML = html;
+}
+
+function matchCard(e, isPast) {
+  const f = fmtDate(e.date);
+  const scoreHtml = e.score
+    ? `<div class="match-score">${e.score}</div>`
+    : "";
+  const venueHtml = e.location
+    ? `<div class="match-venue">📍 ${e.location}</div>`
+    : "";
+  return `
+    <div class="match-card${isPast ? " past" : ""}">
+      <div class="match-date">
+        <div class="day">${f.day}</div>
+        <div class="num">${f.num}</div>
+        <div class="month">${f.month}</div>
+        <div class="time">${f.time}</div>
+      </div>
+      <div class="match-info">
+        <div class="match-teams">${e.title}</div>
+        ${venueHtml}
+      </div>
+      ${scoreHtml}
+    </div>`;
+}
+
+function closeModal() {
+  document.getElementById("modal").classList.remove("open");
+}
+function handleOverlayClick(e) {
+  if (e.target === document.getElementById("modal")) closeModal();
+}
+
 loadData();
 </script>
 </body>

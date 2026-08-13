@@ -293,10 +293,6 @@
       <span class="icon">🌐</span>
       <span>Ouvrir dans Google Agenda</span>
     </a>
-    <a id="modal-download" class="modal-btn modal-btn-tertiary" href="#" download>
-      <span class="icon">📁</span>
-      <span>Télécharger le fichier .ics</span>
-    </a>
     <button class="modal-close" onclick="closeModal()">Annuler</button>
   </div>
 </div>
@@ -464,7 +460,6 @@ function openModal(btn) {
 
   document.getElementById("modal-team").textContent     = nom;
   document.getElementById("modal-subtitle").textContent = subtitle;
-  document.getElementById("modal-download").href        = urlIcs;
   document.getElementById("modal-secondary").href       = urlGcal;
 
   const primary = document.getElementById("modal-primary");

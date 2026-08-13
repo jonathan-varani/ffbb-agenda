@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ELAN SPORTIF MUZOLAIS  [PNF – ARA – Poule D]
+X-WR-CALDESC:Matchs de ELAN SPORTIF MUZOLAIS – PNF – ARA – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-09-20-15-30-elan-sportif-muzolais-
+ al-meyzie@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 ELAN SPORTIF MUZOLAIS – AL MEYZIEU - 2
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ ELAN SPORTIF MUZOLAIS vs A
+ L MEYZIEU - 2\n\nGYMNASE DES VIGNES\n📍 Allée des Vignes\, 07300 Saint-
+ Jean-de-Muzols\n🚗 Waze : https://waze.com/ul?q=Allée+des+Vignes\,+0730
+ 0+Saint-Jean-de-Muzols\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ara/competitions/pnf/match
+ /200000014583118
+LOCATION:GYMNASE DES VIGNES\, Allée des Vignes\, 07300 Saint-Jean-de-Muzol
+ s
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583118
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-09-26-15-30-crussol-basket-07-elan
+ -sportif-@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20260926T153000
+DTEND;TZID=Europe/Paris:20260926T173000
+SUMMARY:✈️ CRUSSOL BASKET 07 – ELAN SPORTIF MUZOLAIS
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ CRUSSOL BASKET 07 vs ELAN 
+ SPORTIF MUZOLAIS\n\nGYMNASE MUNICIPAL\n📍 Rue Raoul Follereau\, 07130 Sa
+ int-Péray\n🚗 Waze : https://waze.com/ul?q=Rue+Raoul+Follereau\,+07130+
+ Saint-Péray\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/200000014
+ 583136
+LOCATION:GYMNASE MUNICIPAL\, Rue Raoul Follereau\, 07130 Saint-Péray
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583136
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-10-04-15-30-elan-sportif-muzolais-
+ cercle-sp@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 ELAN SPORTIF MUZOLAIS – CERCLE SPORTIF DE L'OZON - 2
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ ELAN SPORTIF MUZOLAIS vs C
+ ERCLE SPORTIF DE L'OZON - 2\n\nGYMNASE DES VIGNES\n📍 Allée des Vignes\
+ , 07300 Saint-Jean-de-Muzols\n🚗 Waze : https://waze.com/ul?q=Allée+des
+ +Vignes\,+07300+Saint-Jean-de-Muzols\n\n🦺 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competit
+ ions/pnf/match/200000014583155
+LOCATION:GYMNASE DES VIGNES\, Allée des Vignes\, 07300 Saint-Jean-de-Muzol
+ s
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583155
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-10-11-15-30-vernosc-davezieux-bask
+ et-elan-s@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ VERNOSC DAVEZIEUX BASKET – ELAN SPORTIF MUZOLAIS
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ VERNOSC DAVEZIEUX BASKET v
+ s ELAN SPORTIF MUZOLAIS\n\nSALLE POLYVALENTE FONTAS\n📍 Rue du Bourg\, 0
+ 7430 Vernosc-lès-Annonay\n🚗 Waze : https://waze.com/ul?q=Rue+du+Bourg\
+ ,+07430+Vernosc-lès-Annonay\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competitions/
+ pnf/match/200000014583172
+LOCATION:SALLE POLYVALENTE FONTAS\, Rue du Bourg\, 07430 Vernosc-lès-Annon
+ ay
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583172
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-11-07-15-30-elan-sportif-muzolais-
+ al-gerlan@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20261107T153000
+DTEND;TZID=Europe/Paris:20261107T173000
+SUMMARY:🏠 ELAN SPORTIF MUZOLAIS – AL GERLAND MOUCHE LYON
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ ELAN SPORTIF MUZOLAIS vs A
+ L GERLAND MOUCHE LYON\n\nGYMNASE DES VIGNES\n📍 Allée des Vignes\, 0730
+ 0 Saint-Jean-de-Muzols\n🚗 Waze : https://waze.com/ul?q=Allée+des+Vigne
+ s\,+07300+Saint-Jean-de-Muzols\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competitions/
+ pnf/match/200000014583190
+LOCATION:GYMNASE DES VIGNES\, Allée des Vignes\, 07300 Saint-Jean-de-Muzol
+ s
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583190
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-11-15-15-30-al-meyzieu-2-elan-spor
+ tif-muzol@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ AL MEYZIEU - 2 – ELAN SPORTIF MUZOLAIS
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ AL MEYZIEU - 2 vs ELAN SPO
+ RTIF MUZOLAIS\n\nGYMNASE DU BOURG\n📍 Avenue Lucien Buisson\, 69330 Meyz
+ ieu\n🚗 Waze : https://waze.com/ul?q=Avenue+Lucien+Buisson\,+69330+Meyzi
+ eu\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583208
+LOCATION:GYMNASE DU BOURG\, Avenue Lucien Buisson\, 69330 Meyzieu
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583208
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-11-21-15-30-elan-sportif-muzolais-
+ crussol-b@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20261121T153000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:🏠 ELAN SPORTIF MUZOLAIS – CRUSSOL BASKET 07
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ ELAN SPORTIF MUZOLAIS vs C
+ RUSSOL BASKET 07\n\nGYMNASE DES VIGNES\n📍 Allée des Vignes\, 07300 Sai
+ nt-Jean-de-Muzols\n🚗 Waze : https://waze.com/ul?q=Allée+des+Vignes\,+0
+ 7300+Saint-Jean-de-Muzols\n\n🦺 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ara/competitions/pnf/ma
+ tch/200000014583226
+LOCATION:GYMNASE DES VIGNES\, Allée des Vignes\, 07300 Saint-Jean-de-Muzol
+ s
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583226
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-11-28-15-30-cercle-sportif-de-l-oz
+ on-2-elan@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20261128T153000
+DTEND;TZID=Europe/Paris:20261128T173000
+SUMMARY:✈️ CERCLE SPORTIF DE L'OZON - 2 – ELAN SPORTIF MUZOLAIS
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ CERCLE SPORTIF DE L'OZON -
+  2 vs ELAN SPORTIF MUZOLAIS\n\nGYMNASE MUNICIPAL\n📍 Rue de la Piscine\,
+  69360 Saint-Symphorien-d'Ozon\n🚗 Waze : https://waze.com/ul?q=Rue+de+l
+ a+Piscine\,+69360+Saint-Symphorien-d'Ozon\n\n🦺 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/com
+ petitions/pnf/match/200000014583245
+LOCATION:GYMNASE MUNICIPAL\, Rue de la Piscine\, 69360 Saint-Symphorien-d'O
+ zon
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583245
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-12-05-15-30-elan-sportif-muzolais-
+ vernosc-d@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20261205T153000
+DTEND;TZID=Europe/Paris:20261205T173000
+SUMMARY:🏠 ELAN SPORTIF MUZOLAIS – VERNOSC DAVEZIEUX BASKET
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ ELAN SPORTIF MUZOLAIS vs V
+ ERNOSC DAVEZIEUX BASKET\n\nGYMNASE DES VIGNES\n📍 Allée des Vignes\, 07
+ 300 Saint-Jean-de-Muzols\n🚗 Waze : https://waze.com/ul?q=Allée+des+Vig
+ nes\,+07300+Saint-Jean-de-Muzols\n\n🦺 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competitions
+ /pnf/match/200000014583262
+LOCATION:GYMNASE DES VIGNES\, Allée des Vignes\, 07300 Saint-Jean-de-Muzol
+ s
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583262
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055509-2026-12-13-15-30-al-gerland-mouche-lyon
+ -elan-spo@ffbb-agenda
+DTSTAMP:20260813T133810Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:✈️ AL GERLAND MOUCHE LYON – ELAN SPORTIF MUZOLAIS
+DESCRIPTION:🏀 PNF – ARA – Poule D\n⚔️ AL GERLAND MOUCHE LYON vs 
+ ELAN SPORTIF MUZOLAIS\n\nCITE SCOLAIRE INTERNATIONALE\n📍 Rue de Turin\,
+  69007 Lyon\n🚗 Waze : https://waze.com/ul?q=Rue+de+Turin\,+69007+Lyon\n
+ \n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583280
+LOCATION:CITE SCOLAIRE INTERNATIONALE\, Rue de Turin\, 69007 Lyon
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583280
+END:VEVENT
+END:VCALENDAR

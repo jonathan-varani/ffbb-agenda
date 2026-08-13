@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VAL D 'AIX ELAN  [PNF – ARA – Poule B]
+X-WR-CALDESC:Matchs de VAL D 'AIX ELAN – PNF – ARA – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-09-20-16-00-cote-roannaise-allianc
+ e-basket-@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20260920T160000
+DTEND;TZID=Europe/Paris:20260920T180000
+SUMMARY:✈️ COTE ROANNAISE ALLIANCE BASKET - 1 – VAL D 'AIX ELAN
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ COTE ROANNAISE ALLIANCE BA
+ SKET - 1 vs VAL D 'AIX ELAN\n\nHALL DES SPORTS ST ANDRE\n📍 Impasse de l
+ a Treille\, 42370 Saint-André-d'Apchon\n🚗 Waze : https://waze.com/ul?q
+ =Impasse+de+la+Treille\,+42370+Saint-André-d'Apchon\n\n🦺 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ara/competitions/pnf/match/200000014583114
+LOCATION:HALL DES SPORTS ST ANDRE\, Impasse de la Treille\, 42370 Saint-And
+ ré-d'Apchon
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583114
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-09-26-15-30-val-d-aix-elan-ie-ctc-
+ clermont-@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20260926T153000
+DTEND;TZID=Europe/Paris:20260926T173000
+SUMMARY:🏠 VAL D 'AIX ELAN – IE - CTC CLERMONT SUD GERGOVIE BASKET - BB
+  COURNON D'AUVERGNE - 2
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ VAL D 'AIX ELAN vs IE - CT
+ C CLERMONT SUD GERGOVIE BASKET - BB COURNON D'AUVERGNE - 2\n\nSALLE POLYVA
+ LENTE SOVA\n📍 Rue du Château\, 42260 Grézolles\n🚗 Waze : https://w
+ aze.com/ul?q=Rue+du+Château\,+42260+Grézolles\n\n🦺 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/a
+ ra/competitions/pnf/match/200000014583132
+LOCATION:SALLE POLYVALENTE SOVA\, Rue du Château\, 42260 Grézolles
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583132
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-10-03-15-30-cs-pont-du-chateau-1-v
+ al-d-aix-@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:✈️ CS PONT DU CHATEAU - 1 – VAL D 'AIX ELAN
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ CS PONT DU CHATEAU - 1 vs 
+ VAL D 'AIX ELAN\n\nCOSEC\n📍 Chemin Sainte-Marcelle\, 63430 Pont-du-Châ
+ teau\n🚗 Waze : https://waze.com/ul?q=Chemin+Sainte-Marcelle\,+63430+Pon
+ t-du-Château\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/20000001
+ 4583149
+LOCATION:COSEC\, Chemin Sainte-Marcelle\, 63430 Pont-du-Château
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583149
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-10-10-15-30-val-d-aix-elan-ie-ctc-
+ velay-bas@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:🏠 VAL D 'AIX ELAN – IE - CTC VELAY BASKET 43
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ VAL D 'AIX ELAN vs IE - CT
+ C VELAY BASKET 43\n\nSALLE POLYVALENTE SOVA\n📍 Rue du Château\, 42260 
+ Grézolles\n🚗 Waze : https://waze.com/ul?q=Rue+du+Château\,+42260+Gré
+ zolles\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583168
+LOCATION:SALLE POLYVALENTE SOVA\, Rue du Château\, 42260 Grézolles
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583168
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-11-07-15-30-les-enfants-du-forez-f
+ eurs-rozi@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261107T153000
+DTEND;TZID=Europe/Paris:20261107T173000
+SUMMARY:✈️ LES ENFANTS DU FOREZ FEURS ROZIER – VAL D 'AIX ELAN
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ LES ENFANTS DU FOREZ FEURS
+  ROZIER vs VAL D 'AIX ELAN\n\nFOREZIUM A.DELORME\n📍 Rue Beauverie\, 421
+ 10 Feurs\n🚗 Waze : https://waze.com/ul?q=Rue+Beauverie\,+42110+Feurs\n\
+ n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583185
+LOCATION:FOREZIUM A.DELORME\, Rue Beauverie\, 42110 Feurs
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583185
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-11-14-15-30-val-d-aix-elan-cote-ro
+ annaise-a@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:🏠 VAL D 'AIX ELAN – COTE ROANNAISE ALLIANCE BASKET - 1
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ VAL D 'AIX ELAN vs COTE RO
+ ANNAISE ALLIANCE BASKET - 1\n\nSALLE POLYVALENTE SOVA\n📍 Rue du Châtea
+ u\, 42260 Grézolles\n🚗 Waze : https://waze.com/ul?q=Rue+du+Château\,+
+ 42260+Grézolles\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/20000
+ 0014583204
+LOCATION:SALLE POLYVALENTE SOVA\, Rue du Château\, 42260 Grézolles
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583204
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-11-21-15-30-ie-ctc-clermont-sud-ge
+ rgovie-ba@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261121T153000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:✈️ IE - CTC CLERMONT SUD GERGOVIE BASKET - BB COURNON D'AUVERGN
+ E - 2 – VAL D 'AIX ELAN
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ IE - CTC CLERMONT SUD GERG
+ OVIE BASKET - BB COURNON D'AUVERGNE - 2 vs VAL D 'AIX ELAN\n\nSALLE JOSEPH
+  ET MICHEL GARDET\n📍 Avenue de la Libération\, 63800 Cournon-d'Auvergn
+ e\n🚗 Waze : https://waze.com/ul?q=Avenue+de+la+Libération\,+63800+Cour
+ non-d'Auvergne\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583222
+LOCATION:SALLE JOSEPH ET MICHEL GARDET\, Avenue de la Libération\, 63800 C
+ ournon-d'Auvergne
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583222
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-11-28-15-30-val-d-aix-elan-cs-pont
+ -du-chate@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261128T153000
+DTEND;TZID=Europe/Paris:20261128T173000
+SUMMARY:🏠 VAL D 'AIX ELAN – CS PONT DU CHATEAU - 1
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ VAL D 'AIX ELAN vs CS PONT
+  DU CHATEAU - 1\n\nSALLE POLYVALENTE SOVA\n📍 Rue du Château\, 42260 Gr
+ ézolles\n🚗 Waze : https://waze.com/ul?q=Rue+du+Château\,+42260+Grézo
+ lles\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583239
+LOCATION:SALLE POLYVALENTE SOVA\, Rue du Château\, 42260 Grézolles
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583239
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-12-05-15-30-ie-ctc-velay-basket-43
+ -val-d-ai@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261205T153000
+DTEND;TZID=Europe/Paris:20261205T173000
+SUMMARY:✈️ IE - CTC VELAY BASKET 43 – VAL D 'AIX ELAN
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ IE - CTC VELAY BASKET 43 v
+ s VAL D 'AIX ELAN\n\nPALAIS DES SP. ROCHE ARNAUD\n📍 Rue Bonnassieu\, 43
+ 000 Le Puy-en-Velay\n🚗 Waze : https://waze.com/ul?q=Rue+Bonnassieu\,+43
+ 000+Le+Puy-en-Velay\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/20
+ 0000014583258
+LOCATION:PALAIS DES SP. ROCHE ARNAUD\, Rue Bonnassieu\, 43000 Le Puy-en-Vel
+ ay
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583258
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-12-12-15-30-val-d-aix-elan-les-enf
+ ants-du-f@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261212T153000
+DTEND;TZID=Europe/Paris:20261212T173000
+SUMMARY:🏠 VAL D 'AIX ELAN – LES ENFANTS DU FOREZ FEURS ROZIER
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ VAL D 'AIX ELAN vs LES ENF
+ ANTS DU FOREZ FEURS ROZIER\n\nSALLE POLYVALENTE SOVA\n📍 Rue du Château
+ \, 42260 Grézolles\n🚗 Waze : https://waze.com/ul?q=Rue+du+Château\,+4
+ 2260+Grézolles\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/200000
+ 014583275
+LOCATION:SALLE POLYVALENTE SOVA\, Rue du Château\, 42260 Grézolles
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583275
+END:VEVENT
+END:VCALENDAR

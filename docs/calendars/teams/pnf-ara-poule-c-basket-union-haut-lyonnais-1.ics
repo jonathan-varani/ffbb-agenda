@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET UNION HAUT LYONNAIS - 1  [PNF – ARA – Poule C]
+X-WR-CALDESC:Matchs de BASKET UNION HAUT LYONNAIS - 1 – PNF – ARA – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-09-19-20-30-basket-union-haut-lyon
+ nais-1-po@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20260919T203000
+DTEND;TZID=Europe/Paris:20260919T223000
+SUMMARY:🏠 BASKET UNION HAUT LYONNAIS - 1 – PONTOISE ULR BASKET ST JUST
+  ST RAMBERT - 2
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ BASKET UNION HAUT LYONNAIS
+  - 1 vs PONTOISE ULR BASKET ST JUST ST RAMBERT - 2\n\nSALLE DE LA RIVIERE\
+ n📍 Chemin de la Rivière\, 69590 Saint-Symphorien-sur-Coise\n🚗 Waze 
+ : https://waze.com/ul?q=Chemin+de+la+Rivière\,+69590+Saint-Symphorien-sur
+ -Coise\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583117
+LOCATION:SALLE DE LA RIVIERE\, Chemin de la Rivière\, 69590 Saint-Symphori
+ en-sur-Coise
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583117
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-09-26-18-00-veauche-crap-2-basket-
+ union-hau@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:✈️ VEAUCHE CRAP - 2 – BASKET UNION HAUT LYONNAIS - 1
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ VEAUCHE CRAP - 2 vs BASKET
+  UNION HAUT LYONNAIS - 1\n\nGM M. PAGNOL n1\n📍 Rue Marcel Pagnol\, 4234
+ 0 Veauche\n🚗 Waze : https://waze.com/ul?q=Rue+Marcel+Pagnol\,+42340+Vea
+ uche\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583134
+LOCATION:GM M. PAGNOL n1\, Rue Marcel Pagnol\, 42340 Veauche
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583134
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-10-03-15-30-montbrison-feminines-b
+ c-2-baske@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:✈️ MONTBRISON FEMININES BC - 2 – BASKET UNION HAUT LYONNAIS -
+  1
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ MONTBRISON FEMININES BC - 
+ 2 vs BASKET UNION HAUT LYONNAIS - 1\n\nCOMPLEXE ANDRE DUBRUC\n📍 Rue de 
+ Beauregard\, 42600 Montbrison\n🚗 Waze : https://waze.com/ul?q=Rue+de+Be
+ auregard\,+42600+Montbrison\n\n🦺 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competitions/pnf/
+ match/200000014583151
+LOCATION:COMPLEXE ANDRE DUBRUC\, Rue de Beauregard\, 42600 Montbrison
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583151
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-10-10-20-30-basket-union-haut-lyon
+ nais-1-al@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 BASKET UNION HAUT LYONNAIS - 1 – AL CALUIRE ET CUIRE - 2
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ BASKET UNION HAUT LYONNAIS
+  - 1 vs AL CALUIRE ET CUIRE - 2\n\nSALLE DE LA RIVIERE\n📍 Chemin de la 
+ Rivière\, 69590 Saint-Symphorien-sur-Coise\n🚗 Waze : https://waze.com/
+ ul?q=Chemin+de+la+Rivière\,+69590+Saint-Symphorien-sur-Coise\n\n🦺 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ara/competitions/pnf/match/200000014583169
+LOCATION:SALLE DE LA RIVIERE\, Chemin de la Rivière\, 69590 Saint-Symphori
+ en-sur-Coise
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583169
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-11-07-15-30-fc-lyon-asvel-feminin-
+ 2-basket-@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20261107T153000
+DTEND;TZID=Europe/Paris:20261107T173000
+SUMMARY:✈️ FC LYON ASVEL FEMININ - 2 – BASKET UNION HAUT LYONNAIS - 1
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ FC LYON ASVEL FEMININ - 2 
+ vs BASKET UNION HAUT LYONNAIS - 1\n\nGYMNASE VICTOR GRIGNARD\n📍 Avenue 
+ Général Frère\, 69008 Lyon\n🚗 Waze : https://waze.com/ul?q=Avenue+G
+ énéral+Frère\,+69008+Lyon\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competitions/
+ pnf/match/200000014583189
+LOCATION:GYMNASE VICTOR GRIGNARD\, Avenue Général Frère\, 69008 Lyon
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583189
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-11-14-17-30-pontoise-ulr-basket-st
+ -just-st-@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20261114T173000
+DTEND;TZID=Europe/Paris:20261114T193000
+SUMMARY:✈️ PONTOISE ULR BASKET ST JUST ST RAMBERT - 2 – BASKET UNION 
+ HAUT LYONNAIS - 1
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ PONTOISE ULR BASKET ST JUS
+ T ST RAMBERT - 2 vs BASKET UNION HAUT LYONNAIS - 1\n\nSALLE DU JARDIN PUBL
+ IC\n📍 Rue des Écoles\, 42170 Saint-Just-Saint-Rambert\n🚗 Waze : htt
+ ps://waze.com/ul?q=Rue+des+Écoles\,+42170+Saint-Just-Saint-Rambert\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583207
+LOCATION:SALLE DU JARDIN PUBLIC\, Rue des Écoles\, 42170 Saint-Just-Saint-
+ Rambert
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583207
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-11-21-20-30-basket-union-haut-lyon
+ nais-1-ve@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 BASKET UNION HAUT LYONNAIS - 1 – VEAUCHE CRAP - 2
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ BASKET UNION HAUT LYONNAIS
+  - 1 vs VEAUCHE CRAP - 2\n\nSALLE DE LA RIVIERE\n📍 Chemin de la Rivièr
+ e\, 69590 Saint-Symphorien-sur-Coise\n🚗 Waze : https://waze.com/ul?q=Ch
+ emin+de+la+Rivière\,+69590+Saint-Symphorien-sur-Coise\n\n🦺 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ara/competitions/pnf/match/200000014583224
+LOCATION:SALLE DE LA RIVIERE\, Chemin de la Rivière\, 69590 Saint-Symphori
+ en-sur-Coise
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583224
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-11-28-20-30-basket-union-haut-lyon
+ nais-1-mo@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 BASKET UNION HAUT LYONNAIS - 1 – MONTBRISON FEMININES BC - 2
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ BASKET UNION HAUT LYONNAIS
+  - 1 vs MONTBRISON FEMININES BC - 2\n\nSALLE DE LA RIVIERE\n📍 Chemin de
+  la Rivière\, 69590 Saint-Symphorien-sur-Coise\n🚗 Waze : https://waze.
+ com/ul?q=Chemin+de+la+Rivière\,+69590+Saint-Symphorien-sur-Coise\n\n🦺 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ara/competitions/pnf/match/200000014583241
+LOCATION:SALLE DE LA RIVIERE\, Chemin de la Rivière\, 69590 Saint-Symphori
+ en-sur-Coise
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583241
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-12-05-15-30-al-caluire-et-cuire-2-
+ basket-un@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20261205T153000
+DTEND;TZID=Europe/Paris:20261205T173000
+SUMMARY:✈️ AL CALUIRE ET CUIRE - 2 – BASKET UNION HAUT LYONNAIS - 1
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ AL CALUIRE ET CUIRE - 2 vs
+  BASKET UNION HAUT LYONNAIS - 1\n\nESPACE SPORTIF LUCIEN LACHAISE\n📍 Ru
+ e Curie\, 69300 Caluire-et-Cuire\n🚗 Waze : https://waze.com/ul?q=Rue+Cu
+ rie\,+69300+Caluire-et-Cuire\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competitions/
+ pnf/match/200000014583259
+LOCATION:ESPACE SPORTIF LUCIEN LACHAISE\, Rue Curie\, 69300 Caluire-et-Cuir
+ e
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583259
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055508-2026-12-12-20-30-basket-union-haut-lyon
+ nais-1-fc@ffbb-agenda
+DTSTAMP:20260813T133327Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 BASKET UNION HAUT LYONNAIS - 1 – FC LYON ASVEL FEMININ - 2
+DESCRIPTION:🏀 PNF – ARA – Poule C\n⚔️ BASKET UNION HAUT LYONNAIS
+  - 1 vs FC LYON ASVEL FEMININ - 2\n\nSALLE DE LA RIVIERE\n📍 Chemin de l
+ a Rivière\, 69590 Saint-Symphorien-sur-Coise\n🚗 Waze : https://waze.co
+ m/ul?q=Chemin+de+la+Rivière\,+69590+Saint-Symphorien-sur-Coise\n\n🦺 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ara/competitions/pnf/match/200000014583279
+LOCATION:SALLE DE LA RIVIERE\, Chemin de la Rivière\, 69590 Saint-Symphori
+ en-sur-Coise
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583279
+END:VEVENT
+END:VCALENDAR

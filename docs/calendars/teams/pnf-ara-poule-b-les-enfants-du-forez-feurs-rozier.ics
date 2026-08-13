@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LES ENFANTS DU FOREZ FEURS ROZIER  [PNF – ARA – Poule B]
+X-WR-CALDESC:Matchs de LES ENFANTS DU FOREZ FEURS ROZIER – PNF – ARA – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-09-19-15-30-cs-pont-du-chateau-1-l
+ es-enfant@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20260919T153000
+DTEND;TZID=Europe/Paris:20260919T173000
+SUMMARY:✈️ CS PONT DU CHATEAU - 1 – LES ENFANTS DU FOREZ FEURS ROZIER
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ CS PONT DU CHATEAU - 1 vs 
+ LES ENFANTS DU FOREZ FEURS ROZIER\n\nCOSEC\n📍 Chemin Sainte-Marcelle\, 
+ 63430 Pont-du-Château\n🚗 Waze : https://waze.com/ul?q=Chemin+Sainte-Ma
+ rcelle\,+63430+Pont-du-Château\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competitions/
+ pnf/match/200000014583112
+LOCATION:COSEC\, Chemin Sainte-Marcelle\, 63430 Pont-du-Château
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583112
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-09-26-15-30-les-enfants-du-forez-f
+ eurs-rozi@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20260926T153000
+DTEND;TZID=Europe/Paris:20260926T173000
+SUMMARY:🏠 LES ENFANTS DU FOREZ FEURS ROZIER – COTE ROANNAISE ALLIANCE 
+ BASKET - 1
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ LES ENFANTS DU FOREZ FEURS
+  ROZIER vs COTE ROANNAISE ALLIANCE BASKET - 1\n\nFOREZIUM A.DELORME\n📍 
+ Rue Beauverie\, 42110 Feurs\n🚗 Waze : https://waze.com/ul?q=Rue+Beauver
+ ie\,+42110+Feurs\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/20000
+ 0014583131
+LOCATION:FOREZIUM A.DELORME\, Rue Beauverie\, 42110 Feurs
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583131
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-10-03-15-30-ie-ctc-velay-basket-43
+ -les-enfa@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:✈️ IE - CTC VELAY BASKET 43 – LES ENFANTS DU FOREZ FEURS ROZI
+ ER
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ IE - CTC VELAY BASKET 43 v
+ s LES ENFANTS DU FOREZ FEURS ROZIER\n\nPALAIS DES SP. ROCHE ARNAUD\n📍 R
+ ue Bonnassieu\, 43000 Le Puy-en-Velay\n🚗 Waze : https://waze.com/ul?q=R
+ ue+Bonnassieu\,+43000+Le+Puy-en-Velay\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competi
+ tions/pnf/match/200000014583150
+LOCATION:PALAIS DES SP. ROCHE ARNAUD\, Rue Bonnassieu\, 43000 Le Puy-en-Vel
+ ay
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583150
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-10-10-15-30-les-enfants-du-forez-f
+ eurs-rozi@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:🏠 LES ENFANTS DU FOREZ FEURS ROZIER – IE - CTC CLERMONT SUD GE
+ RGOVIE BASKET - BB COURNON D'AUVERGNE - 2
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ LES ENFANTS DU FOREZ FEURS
+  ROZIER vs IE - CTC CLERMONT SUD GERGOVIE BASKET - BB COURNON D'AUVERGNE -
+  2\n\nFOREZIUM A.DELORME\n📍 Rue Beauverie\, 42110 Feurs\n🚗 Waze : ht
+ tps://waze.com/ul?q=Rue+Beauverie\,+42110+Feurs\n\n🦺 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/a
+ ra/competitions/pnf/match/200000014583167
+LOCATION:FOREZIUM A.DELORME\, Rue Beauverie\, 42110 Feurs
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583167
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-11-07-15-30-les-enfants-du-forez-f
+ eurs-rozi@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261107T153000
+DTEND;TZID=Europe/Paris:20261107T173000
+SUMMARY:🏠 LES ENFANTS DU FOREZ FEURS ROZIER – VAL D 'AIX ELAN
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ LES ENFANTS DU FOREZ FEURS
+  ROZIER vs VAL D 'AIX ELAN\n\nFOREZIUM A.DELORME\n📍 Rue Beauverie\, 421
+ 10 Feurs\n🚗 Waze : https://waze.com/ul?q=Rue+Beauverie\,+42110+Feurs\n\
+ n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583185
+LOCATION:FOREZIUM A.DELORME\, Rue Beauverie\, 42110 Feurs
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583185
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-11-14-15-30-les-enfants-du-forez-f
+ eurs-rozi@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:🏠 LES ENFANTS DU FOREZ FEURS ROZIER – CS PONT DU CHATEAU - 1
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ LES ENFANTS DU FOREZ FEURS
+  ROZIER vs CS PONT DU CHATEAU - 1\n\nFOREZIUM A.DELORME\n📍 Rue Beauveri
+ e\, 42110 Feurs\n🚗 Waze : https://waze.com/ul?q=Rue+Beauverie\,+42110+F
+ eurs\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583202
+LOCATION:FOREZIUM A.DELORME\, Rue Beauverie\, 42110 Feurs
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583202
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-11-22-16-00-cote-roannaise-allianc
+ e-basket-@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261122T160000
+DTEND;TZID=Europe/Paris:20261122T180000
+SUMMARY:✈️ COTE ROANNAISE ALLIANCE BASKET - 1 – LES ENFANTS DU FOREZ 
+ FEURS ROZIER
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ COTE ROANNAISE ALLIANCE BA
+ SKET - 1 vs LES ENFANTS DU FOREZ FEURS ROZIER\n\nHALL DES SPORTS ST ANDRE\
+ n📍 Impasse de la Treille\, 42370 Saint-André-d'Apchon\n🚗 Waze : htt
+ ps://waze.com/ul?q=Impasse+de+la+Treille\,+42370+Saint-André-d'Apchon\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583221
+LOCATION:HALL DES SPORTS ST ANDRE\, Impasse de la Treille\, 42370 Saint-And
+ ré-d'Apchon
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583221
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-11-28-15-30-les-enfants-du-forez-f
+ eurs-rozi@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261128T153000
+DTEND;TZID=Europe/Paris:20261128T173000
+SUMMARY:🏠 LES ENFANTS DU FOREZ FEURS ROZIER – IE - CTC VELAY BASKET 43
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ LES ENFANTS DU FOREZ FEURS
+  ROZIER vs IE - CTC VELAY BASKET 43\n\nFOREZIUM A.DELORME\n📍 Rue Beauve
+ rie\, 42110 Feurs\n🚗 Waze : https://waze.com/ul?q=Rue+Beauverie\,+42110
+ +Feurs\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ara/competitions/pnf/match/200000014583240
+LOCATION:FOREZIUM A.DELORME\, Rue Beauverie\, 42110 Feurs
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583240
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-12-05-15-30-ie-ctc-clermont-sud-ge
+ rgovie-ba@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261205T153000
+DTEND;TZID=Europe/Paris:20261205T173000
+SUMMARY:✈️ IE - CTC CLERMONT SUD GERGOVIE BASKET - BB COURNON D'AUVERGN
+ E - 2 – LES ENFANTS DU FOREZ FEURS ROZIER
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ IE - CTC CLERMONT SUD GERG
+ OVIE BASKET - BB COURNON D'AUVERGNE - 2 vs LES ENFANTS DU FOREZ FEURS ROZI
+ ER\n\nSALLE JOSEPH ET MICHEL GARDET\n📍 Avenue de la Libération\, 63800
+  Cournon-d'Auvergne\n🚗 Waze : https://waze.com/ul?q=Avenue+de+la+Libér
+ ation\,+63800+Cournon-d'Auvergne\n\n🦺 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/competitions
+ /pnf/match/200000014583257
+LOCATION:SALLE JOSEPH ET MICHEL GARDET\, Avenue de la Libération\, 63800 C
+ ournon-d'Auvergne
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583257
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897651-200000003055507-2026-12-12-15-30-val-d-aix-elan-les-enf
+ ants-du-f@ffbb-agenda
+DTSTAMP:20260813T132824Z
+DTSTART;TZID=Europe/Paris:20261212T153000
+DTEND;TZID=Europe/Paris:20261212T173000
+SUMMARY:✈️ VAL D 'AIX ELAN – LES ENFANTS DU FOREZ FEURS ROZIER
+DESCRIPTION:🏀 PNF – ARA – Poule B\n⚔️ VAL D 'AIX ELAN vs LES ENF
+ ANTS DU FOREZ FEURS ROZIER\n\nSALLE POLYVALENTE SOVA\n📍 Rue du Château
+ \, 42260 Grézolles\n🚗 Waze : https://waze.com/ul?q=Rue+du+Château\,+4
+ 2260+Grézolles\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/200000
+ 014583275
+LOCATION:SALLE POLYVALENTE SOVA\, Rue du Château\, 42260 Grézolles
+URL:https://competitions.ffbb.com/ligues/ara/competitions/pnf/match/2000000
+ 14583275
+END:VEVENT
+END:VCALENDAR

@@ -151,84 +151,6 @@
     }
     .btn-subscribe:active { opacity: .8; }
 
-    /* ── Modale ── */
-    .modal-overlay {
-      display: none;
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,.55);
-      z-index: 200;
-      align-items: flex-end;
-      justify-content: center;
-    }
-    .modal-overlay.open { display: flex; }
-
-    .modal-sheet {
-      background: #fff;
-      border-radius: 20px 20px 0 0;
-      padding: 24px 20px calc(24px + env(safe-area-inset-bottom, 0));
-      width: 100%;
-      max-width: 480px;
-      animation: slideUp .22s ease;
-    }
-    @keyframes slideUp {
-      from { transform: translateY(100%); }
-      to   { transform: translateY(0);    }
-    }
-
-    .modal-handle {
-      width: 40px; height: 4px;
-      background: var(--border);
-      border-radius: 2px;
-      margin: 0 auto 18px;
-    }
-    .modal-team {
-      font-size: 1rem;
-      font-weight: 700;
-      color: var(--navy);
-      margin-bottom: 4px;
-      text-align: center;
-    }
-    .modal-subtitle {
-      font-size: .8rem;
-      color: var(--gray);
-      text-align: center;
-      margin-bottom: 20px;
-    }
-
-    .modal-btn {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      padding: 14px 16px;
-      border-radius: var(--radius);
-      text-decoration: none;
-      font-size: .92rem;
-      font-weight: 600;
-      color: #fff;
-      margin-bottom: 10px;
-      -webkit-tap-highlight-color: transparent;
-    }
-    .modal-btn .icon { font-size: 1.3rem; }
-    .modal-btn-primary  { background: var(--orange); }
-    .modal-btn-secondary { background: var(--navy); }
-    .modal-btn-tertiary {
-      background: none;
-      border: 1.5px solid var(--border);
-      color: var(--navy);
-    }
-
-    .modal-close {
-      width: 100%;
-      margin-top: 6px;
-      padding: 13px;
-      border: none;
-      background: none;
-      color: var(--gray);
-      font-size: .9rem;
-      cursor: pointer;
-    }
-
     /* ── États vides / loading ── */
     .state-msg {
       text-align: center;
@@ -278,24 +200,6 @@
   Mise à jour automatique · Projet non officiel
 </footer>
 
-<!-- Modale abonnement -->
-<div class="modal-overlay" id="modal" onclick="handleOverlayClick(event)">
-  <div class="modal-sheet">
-    <div class="modal-handle"></div>
-    <div class="modal-team"   id="modal-team"></div>
-    <div class="modal-subtitle" id="modal-subtitle"></div>
-
-    <a id="modal-primary" class="modal-btn modal-btn-primary" href="#">
-      <span class="icon" id="modal-primary-icon"></span>
-      <span id="modal-primary-label"></span>
-    </a>
-    <a id="modal-secondary" class="modal-btn modal-btn-secondary" href="#" target="_blank">
-      <span class="icon">🌐</span>
-      <span>Ouvrir dans Google Agenda</span>
-    </a>
-    <button class="modal-close" onclick="closeModal()">Annuler</button>
-  </div>
-</div>
 
 <script>
 // ── Détection plateforme ─────────────────────────────────────────────────────
@@ -411,17 +315,14 @@ function render(tree) {
           ? `${slug} – ${region} – ${poule}`
           : `${slug} – ${region}`;
 
-        const rows = filtered.map(t => `
+        const rows = filtered.map(t => {
+          const url = isAndroid ? gcalUrl(t.fichier) : webcalUrl(t.fichier);
+          return `
           <div class="team-row">
             <span class="team-name">${t.nom}</span>
-            <button class="btn-subscribe"
-              data-nom="${esc(t.nom)}"
-              data-subtitle="${esc(pouleLabel)}"
-              data-fichier="${esc(t.fichier)}"
-              onclick="openModal(this)">
-              📅 S'abonner
-            </button>
-          </div>`).join("");
+            <a class="btn-subscribe" href="${esc(url)}">📅 S'abonner</a>
+          </div>`;
+        }).join("");
 
         champHtml += `<div class="poule-block">
           <div class="poule-header">${pouleLabel}</div>
@@ -446,49 +347,6 @@ function render(tree) {
   }
 
   content.innerHTML = html;
-}
-
-// ── Modale ───────────────────────────────────────────────────────────────────
-function openModal(btn) {
-  const nom      = btn.dataset.nom;
-  const subtitle = btn.dataset.subtitle;
-  const fichier  = btn.dataset.fichier;
-
-  const urlIcs    = icsUrl(fichier);
-  const urlWebcal = webcalUrl(fichier);
-  const urlGcal   = gcalUrl(fichier);
-
-  document.getElementById("modal-team").textContent     = nom;
-  document.getElementById("modal-subtitle").textContent = subtitle;
-  document.getElementById("modal-secondary").href       = urlGcal;
-
-  const primary = document.getElementById("modal-primary");
-  const icon    = document.getElementById("modal-primary-icon");
-  const label   = document.getElementById("modal-primary-label");
-
-  if (isIOS) {
-    primary.href   = urlWebcal;
-    icon.textContent  = "";
-    label.textContent = "Ajouter à Calendrier iPhone";
-  } else if (isAndroid) {
-    primary.href   = urlGcal;
-    icon.textContent  = "🤖";
-    label.textContent = "Ajouter à Google Agenda";
-  } else {
-    primary.href   = urlWebcal;
-    icon.textContent  = "🖥️";
-    label.textContent = "Abonnement via webcal://";
-  }
-
-  document.getElementById("modal").classList.add("open");
-}
-
-function closeModal() {
-  document.getElementById("modal").classList.remove("open");
-}
-
-function handleOverlayClick(e) {
-  if (e.target === document.getElementById("modal")) closeModal();
 }
 
 // ── Démarrage ────────────────────────────────────────────────────────────────

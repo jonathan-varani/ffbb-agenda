@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VENDENHEIM BC - 1  [PNF – GES – Poule B]
+X-WR-CALDESC:Matchs de VENDENHEIM BC - 1 – PNF – GES – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-10-03-18-00-basket-club-nord-alsac
+ e-2-vende@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ BASKET CLUB NORD ALSACE - 2 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs VENDENHEIM BC - 1\n\nESPACE SPORTIF LOEB (salle 2)\n📍 Impasse du T
+ ournoi\, 67500 Haguenau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tour
+ noi\,+67500+Haguenau\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2
+ 00000014631754
+LOCATION:ESPACE SPORTIF LOEB (salle 2)\, Impasse du Tournoi\, 67500 Haguena
+ u
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631754
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-10-10-18-00-vendenheim-bc-1-strasb
+ ourg-libe@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 VENDENHEIM BC - 1 – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs STRAS
+ BOURG LIBELLULES B.C.\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod\
+ , 67550 Vendenheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\,
+ +67550+Vendenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000
+ 00014631762
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631762
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-11-08-15-30-schiltigheim-au-venden
+ heim-bc-1@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ SCHILTIGHEIM AU – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs VENDENH
+ EIM BC - 1\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries\, 67300 Schi
+ ltigheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Malteries\,+67300+Schi
+ ltigheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000146317
+ 72
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries\, 67300 Schiltigheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631772
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-11-14-18-30-vendenheim-bc-1-eschau
+ -bc@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261114T183000
+DTEND;TZID=Europe/Paris:20261114T203000
+SUMMARY:🏠 VENDENHEIM BC - 1 – ESCHAU BC
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs ESCHA
+ U BC\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod\, 67550 Vendenhei
+ m\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\,+67550+Vendenheim
+ \n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631784
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631784
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-11-22-13-00-geispolsheim-c-j-s-3-v
+ endenheim@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261122T130000
+DTEND;TZID=Europe/Paris:20261122T150000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 3 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. - 3 vs
+  VENDENHEIM BC - 1\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse\, 67118 G
+ eispolsheim\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Porte+Basse\,+671
+ 18+Geispolsheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000
+ 014631794
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse\, 67118 Geispolsheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631794
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-12-05-18-30-vendenheim-bc-1-asa-we
+ yersheim@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261205T183000
+DTEND;TZID=Europe/Paris:20261205T203000
+SUMMARY:🏠 VENDENHEIM BC - 1 – ASA WEYERSHEIM
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs ASA W
+ EYERSHEIM\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod\, 67550 Vend
+ enheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\,+67550+Vende
+ nheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631805
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631805
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-12-13-15-30-schweighouse-ohlungen-
+ b-c-vende@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:✈️ SCHWEIGHOUSE/OHLUNGEN B.C. – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHWEIGHOUSE/OHLUNGEN B.C.
+  vs VENDENHEIM BC - 1\n\nCENTRE ROBERT KAEUFLING\n📍 Rue des Sports\, 67
+ 590 Schweighouse-sur-Moder\n🚗 Waze : https://waze.com/ul?q=Rue+des+Spor
+ ts\,+67590+Schweighouse-sur-Moder\n\n🦺 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competition
+ s/pnf/match/200000014631815
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports\, 67590 Schweighouse-sur-
+ Moder
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631815
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-01-09-18-00-ohnheim-c-s-s-a-1-vend
+ enheim-bc@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270109T180000
+DTEND;TZID=Europe/Paris:20270109T200000
+SUMMARY:✈️ OHNHEIM C.S.S.A. - 1 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ OHNHEIM C.S.S.A. - 1 vs VE
+ NDENHEIM BC - 1\n\nCENTRE SPORTIF ET CULTUREL\n📍 Place des Fêtes\, 676
+ 40 Fegersheim\n🚗 Waze : https://waze.com/ul?q=Place+des+Fêtes\,+67640+
+ Fegersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20000001463
+ 1825
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes\, 67640 Fegersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631825
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-01-17-15-30-vendenheim-bc-1-s-i-gr
+ affenstad@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 VENDENHEIM BC - 1 – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs S.I. 
+ GRAFFENSTADEN - 2\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod\, 67
+ 550 Vendenheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\,+675
+ 50+Vendenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20000001
+ 4631832
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631832
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-01-31-15-30-vendenheim-bc-1-basket
+ -club-nor@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 VENDENHEIM BC - 1 – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs BASKE
+ T CLUB NORD ALSACE - 2\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod
+ \, 67550 Vendenheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\
+ ,+67550+Vendenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200
+ 000014631844
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631844
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-02-07-15-30-strasbourg-libellules-
+ b-c-vende@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:✈️ STRASBOURG LIBELLULES B.C. – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ STRASBOURG LIBELLULES B.C.
+  vs VENDENHEIM BC - 1\n\nGYMNASE GUTENBERG\n📍 Rue Albert Sayet\, 67200 
+ Strasbourg\n🚗 Waze : https://waze.com/ul?q=Rue+Albert+Sayet\,+67200+Str
+ asbourg\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20000001463185
+ 2
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet\, 67200 Strasbourg
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631852
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-02-14-15-30-vendenheim-bc-1-schilt
+ igheim-au@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 VENDENHEIM BC - 1 – SCHILTIGHEIM AU
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs SCHIL
+ TIGHEIM AU\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod\, 67550 Ven
+ denheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\,+67550+Vend
+ enheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631862
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631862
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-03-14-15-30-eschau-bc-vendenheim-b
+ c-1@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ ESCHAU BC – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ESCHAU BC vs VENDENHEIM BC
+  - 1\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes\, 67114 Eschau\n
+ 🚗 Waze : https://waze.com/ul?q=Place+des+Fêtes\,+67114+Eschau\n\n🦺 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/pnf/match/200000014631874
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes\, 67114 Eschau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631874
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-03-21-15-30-vendenheim-bc-1-geispo
+ lsheim-c-@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:🏠 VENDENHEIM BC - 1 – GEISPOLSHEIM C.J.S. - 3
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs GEISP
+ OLSHEIM C.J.S. - 3\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod\, 6
+ 7550 Vendenheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\,+67
+ 550+Vendenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631884
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631884
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-04-04-15-30-asa-weyersheim-vendenh
+ eim-bc-1@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:✈️ ASA WEYERSHEIM – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs VENDENHE
+ IM BC - 1\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés\, 67720 Weyershe
+ im\n🚗 Waze : https://waze.com/ul?q=Rue+des+Prés\,+67720+Weyersheim\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631895
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés\, 67720 Weyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631895
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-04-11-15-30-vendenheim-bc-1-schwei
+ ghouse-oh@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 VENDENHEIM BC - 1 – SCHWEIGHOUSE/OHLUNGEN B.C.
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs SCHWE
+ IGHOUSE/OHLUNGEN B.C.\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod\
+ , 67550 Vendenheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\,
+ +67550+Vendenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000
+ 00014631905
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631905
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-05-09-15-30-vendenheim-bc-1-ohnhei
+ m-c-s-s-a@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:🏠 VENDENHEIM BC - 1 – OHNHEIM C.S.S.A. - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs OHNHE
+ IM C.S.S.A. - 1\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod\, 6755
+ 0 Vendenheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\,+67550
+ +Vendenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000146
+ 31915
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631915
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-05-15-17-30-s-i-graffenstaden-2-ve
+ ndenheim-@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270515T173000
+DTEND;TZID=Europe/Paris:20270515T193000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 2 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 2 vs 
+ VENDENHEIM BC - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste\, 67400 Illk
+ irch-Graffenstaden\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Poste\,+67
+ 400+Illkirch-Graffenstaden\n\n🦺 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/m
+ atch/200000014631922
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste\, 67400 Illkirch-Graffenstade
+ n
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631922
+END:VEVENT
+END:VCALENDAR

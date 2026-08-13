@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – THIONVILLE BC  [RM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de THIONVILLE BC – RM2 – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2026-10-03-17-15-asp-ste-marie-aux-chen
+ es-2-thio@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20261003T171500
+DTEND;TZID=Europe/Paris:20261003T191500
+SUMMARY:✈️ ASP STE MARIE AUX CHENES - 2 – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ ASP STE MARIE AUX CHENES -
+  2 vs THIONVILLE BC\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot\, 57255 Saint
+ e-Marie-aux-Chênes\n🚗 Waze : https://waze.com/ul?q=Rue+Berthelot\,+572
+ 55+Sainte-Marie-aux-Chênes\n\n🦺 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/
+ match/200000014632721
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot\, 57255 Sainte-Marie-aux-Chênes
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632721
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2026-10-10-20-30-thionville-bc-la-ferto
+ nne-fere-@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 THIONVILLE BC – LA FERTONNE FERE-CHAMPENOISE
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs LA FERTON
+ NE FERE-CHAMPENOISE\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 Thion
+ ville\n🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionville\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632739
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632739
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2026-10-17-20-30-villers-semeuse-basket
+ -thionvil@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ VILLERS SEMEUSE BASKET vs 
+ THIONVILLE BC\n\nCOSEC\n📍 Avenue Jean Jaurès\, 08000 Villers-Semeuse\n
+ 🚗 Waze : https://waze.com/ul?q=Avenue+Jean+Jaurès\,+08000+Villers-Seme
+ use\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632755
+LOCATION:COSEC\, Avenue Jean Jaurès\, 08000 Villers-Semeuse
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632755
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2026-11-07-20-30-thionville-bc-associat
+ ion-cormo@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 THIONVILLE BC – ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 
+ 2
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs ASSOCIATI
+ ON CORMONTREUIL CHAMPAGNE BASKET - 2\n\nGYMNASE DE LA PLAINE\n📍 Rue Mer
+ moz\, 57100 Thionville\n🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+571
+ 00+Thionville\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001
+ 4632775
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632775
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2026-11-14-20-30-gauloise-de-vitry-le-f
+ rancois-2@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ GAULOISE DE VITRY LE FRANCOIS - 2 – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ GAULOISE DE VITRY LE FRANC
+ OIS - 2 vs THIONVILLE BC\n\nGYMNASE JEAN BERNARD\n📍 Rue de la Glacière
+ \, 51300 Vitry-le-François\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+G
+ lacière\,+51300+Vitry-le-François\n\n🦺 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competiti
+ ons/rm2/match/200000014632795
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière\, 51300 Vitry-le-Franç
+ ois
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632795
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2026-11-21-20-30-thionville-bc-e-l-witr
+ y-les-rei@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 THIONVILLE BC – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs E- L-WITR
+ Y LES REIMS BASKET\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 Thionv
+ ille\n🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionville\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632811
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632811
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2026-11-28-20-30-thionville-bc-us-silva
+ nge-baske@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 THIONVILLE BC – US SILVANGE BASKET
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs US SILVAN
+ GE BASKET\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 Thionville\n
+ 🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionville\n\n🦺 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ges/competitions/rm2/match/200000014632829
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632829
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2026-12-05-18-00-bcv-verdun-thionville-
+ bc@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20261205T180000
+DTEND;TZID=Europe/Paris:20261205T200000
+SUMMARY:✈️ BCV VERDUN – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ BCV VERDUN vs THIONVILLE B
+ C\n\nCOSEC DES PLANCHETTES\n📍 Rue Général Séré de Rivières\, 55100
+  Verdun\n🚗 Waze : https://waze.com/ul?q=Rue+Général+Séré+de+Rivièr
+ es\,+55100+Verdun\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000
+ 00014632848
+LOCATION:COSEC DES PLANCHETTES\, Rue Général Séré de Rivières\, 55100 
+ Verdun
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632848
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2026-12-12-20-30-thionville-bc-asc-char
+ ny-sur-me@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 THIONVILLE BC – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs ASC CHARN
+ Y SUR MEUSE\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 Thionville\n
+ 🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionville\n\n🦺 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ges/competitions/rm2/match/200000014632866
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632866
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-01-09-20-30-basket-sanceo-troyen-t
+ hionville@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ BASKET SANCEO TROYEN – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ BASKET SANCEO TROYEN vs TH
+ IONVILLE BC\n\nGYMNASE BEURNONVILLE\n📍 Rue du 1er Bataillon de Chasseur
+ s à Pied\, 10000 Troyes\n🚗 Waze : https://waze.com/ul?q=Rue+du+1er+Bat
+ aillon+de+Chasseurs+à+Pied\,+10000+Troyes\n\n🦺 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mpetitions/rm2/match/200000014632885
+LOCATION:GYMNASE BEURNONVILLE\, Rue du 1er Bataillon de Chasseurs à Pied\,
+  10000 Troyes
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632885
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-01-16-20-30-thionville-bc-entente-
+ chaumonta@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 THIONVILLE BC – ENTENTE CHAUMONTAISE AC BASKET
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs ENTENTE C
+ HAUMONTAISE AC BASKET\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 Thi
+ onville\n🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionville\n
+ \n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632903
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632903
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-01-23-20-30-thionville-bc-asp-ste-
+ marie-aux@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:🏠 THIONVILLE BC – ASP STE MARIE AUX CHENES - 2
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs ASP STE M
+ ARIE AUX CHENES - 2\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 Thion
+ ville\n🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionville\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632919
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632919
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-01-30-20-30-la-fertonne-fere-champ
+ enoise-th@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ LA FERTONNE FERE-CHAMPENOISE – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ LA FERTONNE FERE-CHAMPENOI
+ SE vs THIONVILLE BC\n\nGYMNASE PAUL MASSIN\n📍 Rue de la Libération\, 5
+ 1230 Fère-Champenoise\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Libér
+ ation\,+51230+Fère-Champenoise\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rm2/match/200000014632937
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération\, 51230 Fère-Champeno
+ ise
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632937
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-02-06-20-30-thionville-bc-villers-
+ semeuse-b@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 THIONVILLE BC – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs VILLERS S
+ EMEUSE BASKET\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 Thionville\
+ n🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionville\n\n🦺 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/competitions/rm2/match/200000014632953
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632953
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-02-13-17-15-association-cormontreu
+ il-champa@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270213T171500
+DTEND;TZID=Europe/Paris:20270213T191500
+SUMMARY:✈️ ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 2 – THIONVILLE
+  BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ ASSOCIATION CORMONTREUIL C
+ HAMPAGNE BASKET - 2 vs THIONVILLE BC\n\nGYMNASE DE LA PAIX\n📍 Rue de la
+  Paix\, 51350 Cormontreuil\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Pa
+ ix\,+51350+Cormontreuil\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/matc
+ h/200000014632973
+LOCATION:GYMNASE DE LA PAIX\, Rue de la Paix\, 51350 Cormontreuil
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632973
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-03-13-20-30-thionville-bc-gauloise
+ -de-vitry@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 THIONVILLE BC – GAULOISE DE VITRY LE FRANCOIS - 2
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs GAULOISE 
+ DE VITRY LE FRANCOIS - 2\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 
+ Thionville\n🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionvill
+ e\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632993
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632993
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-03-21-16-00-e-l-witry-les-reims-ba
+ sket-thio@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270321T160000
+DTEND;TZID=Europe/Paris:20270321T180000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs THIONVILLE BC\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue de Béthen
+ y\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.com/ul?q=Rue+de+Béth
+ eny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rm2/match/200000014633009
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633009
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-04-03-20-30-us-silvange-basket-thi
+ onville-b@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ US SILVANGE BASKET – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ US SILVANGE BASKET vs THIO
+ NVILLE BC\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette\, 57535 Marange-Sil
+ vange\n🚗 Waze : https://waze.com/ul?q=Rue+Auguste+Migette\,+57535+Maran
+ ge-Silvange\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000146
+ 33027
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette\, 57535 Marange-Silvange
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633027
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-04-10-20-30-thionville-bc-bcv-verd
+ un@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 THIONVILLE BC – BCV VERDUN
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs BCV VERDU
+ N\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 Thionville\n🚗 Waze :
+  https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionville\n\n🦺 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/competitions/rm2/match/200000014633046
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633046
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-04-17-20-30-asc-charny-sur-meuse-t
+ hionville@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ ASC CHARNY SUR MEUSE vs TH
+ IONVILLE BC\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Moulin\, 55100
+  Charny-sur-Meuse\n🚗 Waze : https://waze.com/ul?q=Lotissement+Sous+le+M
+ oulin\,+55100+Charny-sur-Meuse\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rm2/match/200000014633064
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin\, 55100 Charny-sur
+ -Meuse
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633064
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-05-08-20-30-thionville-bc-basket-s
+ anceo-tro@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 THIONVILLE BC – BASKET SANCEO TROYEN
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ THIONVILLE BC vs BASKET SA
+ NCEO TROYEN\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz\, 57100 Thionville\n
+ 🚗 Waze : https://waze.com/ul?q=Rue+Mermoz\,+57100+Thionville\n\n🦺 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ges/competitions/rm2/match/200000014633083
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz\, 57100 Thionville
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633083
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054926-2027-05-15-20-30-entente-chaumontaise-a
+ c-basket-@ffbb-agenda
+DTSTAMP:20260813T164220Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:✈️ ENTENTE CHAUMONTAISE AC BASKET – THIONVILLE BC
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ ENTENTE CHAUMONTAISE AC BA
+ SKET vs THIONVILLE BC\n\nGYMNASE LIONEL MEUNIER\n📍 Rue Youri Gagarine\,
+  52000 Chaumont\n🚗 Waze : https://waze.com/ul?q=Rue+Youri+Gagarine\,+52
+ 000+Chaumont\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014
+ 633101
+LOCATION:GYMNASE LIONEL MEUNIER\, Rue Youri Gagarine\, 52000 Chaumont
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633101
+END:VEVENT
+END:VCALENDAR

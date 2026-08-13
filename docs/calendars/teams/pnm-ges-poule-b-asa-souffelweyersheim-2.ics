@@ -1,0 +1,399 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA SOUFFELWEYERSHEIM - 2  [PNM – GES – Poule B]
+X-WR-CALDESC:Matchs de ASA SOUFFELWEYERSHEIM - 2 – PNM – GES – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-10-04-17-30-asa-souffelweyersheim-
+ 2-s-i-gra@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261004T173000
+DTEND;TZID=Europe/Paris:20261004T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – S.I. GRAFFENSTADEN - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs S.I. GRAFFENSTADEN - 1\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents\
+ , 67460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept+
+ Arpents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competition
+ s/pnm/match/200000014631935
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631935
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-10-10-20-30-asl-dessenheim-asa-sou
+ ffelweyer@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ ASL DESSENHEIM – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASL DESSENHEIM vs ASA SOUF
+ FELWEYERSHEIM - 2\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar\, 68600 D
+ essenheim\n🚗 Waze : https://waze.com/ul?q=Rue+de+Colmar\,+68600+Dessenh
+ eim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631954
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar\, 68600 Dessenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631954
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-10-18-17-30-asa-souffelweyersheim-
+ 2-grieshe@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261018T173000
+DTEND;TZID=Europe/Paris:20261018T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – GRIESHEIM P/MOLSHEIM LS
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs GRIESHEIM P/MOLSHEIM LS\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents
+ \, 67460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept
+ +Arpents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitio
+ ns/pnm/match/200000014631971
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631971
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-11-07-20-30-geispolsheim-c-j-s-asa
+ -souffelw@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. vs ASA
+  SOUFFELWEYERSHEIM - 2\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse\, 671
+ 18 Geispolsheim\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Porte+Basse\,
+ +67118+Geispolsheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20
+ 0000014631986
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse\, 67118 Geispolsheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631986
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-11-15-17-30-asa-souffelweyersheim-
+ 2-s-u-sch@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261115T173000
+DTEND;TZID=Europe/Paris:20261115T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs S.U. SCHILTIGHEIM BASKET BALL\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept A
+ rpents\, 67460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+de
+ s+Sept+Arpents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comp
+ etitions/pnm/match/200000014632007
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632007
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-11-21-20-30-asa-gries-oberhoffen-a
+ sa-souffe@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ ASA SOUFFELWEYERSHEIM - 2\n\nESPACE SPORT LA FORET\n📍 Rue du Stade\, 67
+ 240 Gries\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67240+Gries\n\
+ n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632024
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade\, 67240 Gries
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632024
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-11-29-17-30-asa-souffelweyersheim-
+ 2-bask-fu@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261129T173000
+DTEND;TZID=Europe/Paris:20261129T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs BASK FURDENHEIM - 2\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents\, 6
+ 7460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept+Arp
+ ents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014632040
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632040
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-12-05-20-30-weitbruch-a-s-c-g-1-as
+ a-souffel@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ WEITBRUCH A.S.C.G - 1 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ WEITBRUCH A.S.C.G - 1 vs A
+ SA SOUFFELWEYERSHEIM - 2\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Églis
+ e\, 67500 Weitbruch\n🚗 Waze : https://waze.com/ul?q=Rue+de+l'Église\,+
+ 67500+Weitbruch\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000
+ 014632059
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église\, 67500 Weitbruch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632059
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-12-13-17-30-asa-souffelweyersheim-
+ 2-basket-@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261213T173000
+DTEND;TZID=Europe/Paris:20261213T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs BASKET NORD SUNDGAU\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents\, 6
+ 7460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept+Arp
+ ents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014632077
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632077
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-01-09-20-30-saint-joseph-strasbour
+ g-1-asa-s@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 1 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ SAINT JOSEPH - STRASBOURG 
+ - 1 vs ASA SOUFFELWEYERSHEIM - 2\n\nCENTRE SPORTIF ESPLANADE\n📍 Rue Lou
+ vois\, 67000 Strasbourg\n🚗 Waze : https://waze.com/ul?q=Rue+Louvois\,+6
+ 7000+Strasbourg\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000
+ 014632096
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois\, 67000 Strasbourg
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632096
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-01-17-17-30-asa-souffelweyersheim-
+ 2-holtzhe@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270117T173000
+DTEND;TZID=Europe/Paris:20270117T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – HOLTZHEIM VOGESIA - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs HOLTZHEIM VOGESIA - 2\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents\,
+  67460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept+A
+ rpents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions
+ /pnm/match/200000014632114
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632114
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-01-23-20-30-s-i-graffenstaden-1-as
+ a-souffel@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 1 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
+ ASA SOUFFELWEYERSHEIM - 2\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste\, 67
+ 400 Illkirch-Graffenstaden\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Po
+ ste\,+67400+Illkirch-Graffenstaden\n\n🦺 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitio
+ ns/pnm/match/200000014632133
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste\, 67400 Illkirch-Graffenstade
+ n
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632133
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-01-31-17-30-asa-souffelweyersheim-
+ 2-asl-des@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270131T173000
+DTEND;TZID=Europe/Paris:20270131T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – ASL DESSENHEIM
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs ASL DESSENHEIM\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents\, 67460 
+ Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept+Arpents\
+ ,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/ma
+ tch/200000014632152
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632152
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-02-06-20-30-griesheim-p-molsheim-l
+ s-asa-sou@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ GRIESHEIM P/MOLSHEIM LS – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ GRIESHEIM P/MOLSHEIM LS vs
+  ASA SOUFFELWEYERSHEIM - 2\n\nSALLE POLYVALENTE ESPACE VALLON\n📍 Rue du
+  Moulin\, 67870 Griesheim-près-Molsheim\n🚗 Waze : https://waze.com/ul?
+ q=Rue+du+Moulin\,+67870+Griesheim-près-Molsheim\n\n🦺 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/competitions/pnm/match/200000014632169
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin\, 67870 Griesheim-
+ près-Molsheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632169
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-02-14-17-30-asa-souffelweyersheim-
+ 2-geispol@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270214T173000
+DTEND;TZID=Europe/Paris:20270214T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs GEISPOLSHEIM C.J.S.\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents\, 6
+ 7460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept+Arp
+ ents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014632184
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632184
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-03-13-20-30-s-u-schiltigheim-baske
+ t-ball-as@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.U. SCHILTIGHEIM BASKET B
+ ALL vs ASA SOUFFELWEYERSHEIM - 2\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 
+ Rue du Marais\, 67300 Schiltigheim\n🚗 Waze : https://waze.com/ul?q=Rue+
+ du+Marais\,+67300+Schiltigheim\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014632205
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais\, 67300 Schiltighe
+ im
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632205
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-03-21-17-30-asa-souffelweyersheim-
+ 2-asa-gri@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270321T173000
+DTEND;TZID=Europe/Paris:20270321T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs ASA GRIES / OBERHOFFEN\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents\
+ , 67460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept+
+ Arpents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competition
+ s/pnm/match/200000014632222
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632222
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-04-03-20-30-bask-furdenheim-2-asa-
+ souffelwe@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ BASK FURDENHEIM - 2 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs ASA
+  SOUFFELWEYERSHEIM - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade\, 6
+ 7117 Furdenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67117+Fu
+ rdenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146322
+ 38
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade\, 67117 Furdenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632238
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-04-11-17-30-asa-souffelweyersheim-
+ 2-weitbru@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270411T173000
+DTEND;TZID=Europe/Paris:20270411T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs WEITBRUCH A.S.C.G - 1\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents\,
+  67460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept+A
+ rpents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions
+ /pnm/match/200000014632257
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632257
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-04-17-20-30-basket-nord-sundgau-as
+ a-souffel@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:✈️ BASKET NORD SUNDGAU – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs ASA
+  SOUFFELWEYERSHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 I
+ llfurth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illf
+ urth\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632275
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632275
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-05-09-17-30-asa-souffelweyersheim-
+ 2-saint-j@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270509T173000
+DTEND;TZID=Europe/Paris:20270509T193000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs SAINT JOSEPH - STRASBOURG - 1\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept A
+ rpents\, 67460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+de
+ s+Sept+Arpents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comp
+ etitions/pnm/match/200000014632294
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632294
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-05-15-20-30-holtzheim-vogesia-2-as
+ a-souffel@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 2 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ HOLTZHEIM VOGESIA - 2 vs A
+ SA SOUFFELWEYERSHEIM - 2\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade\, 67810 
+ Holtzheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67810+Holtzhei
+ m\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632312
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade\, 67810 Holtzheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632312
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB NORD ALSACE - 2  [PNF – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB NORD ALSACE - 2 – PNF – GES – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-10-03-18-00-basket-club-nord-alsac
+ e-2-vende@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE - 2 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs VENDENHEIM BC - 1\n\nESPACE SPORTIF LOEB (salle 2)\n📍 Impasse du T
+ ournoi\, 67500 Haguenau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tour
+ noi\,+67500+Haguenau\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2
+ 00000014631754
+LOCATION:ESPACE SPORTIF LOEB (salle 2)\, Impasse du Tournoi\, 67500 Haguena
+ u
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631754
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-10-10-18-00-ohnheim-c-s-s-a-1-bask
+ et-club-n@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:✈️ OHNHEIM C.S.S.A. - 1 – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ OHNHEIM C.S.S.A. - 1 vs BA
+ SKET CLUB NORD ALSACE - 2\n\nCENTRE SPORTIF ET CULTUREL\n📍 Place des F
+ êtes\, 67640 Fegersheim\n🚗 Waze : https://waze.com/ul?q=Place+des+Fêt
+ es\,+67640+Fegersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/
+ 200000014631761
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes\, 67640 Fegersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631761
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-11-07-20-00-basket-club-nord-alsac
+ e-2-s-i-g@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE - 2 – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs S.I. GRAFFENSTADEN - 2\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi\
+ , 67500 Haguenau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tournoi\,+6
+ 7500+Haguenau\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20000001
+ 4631774
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi\, 67500 Haguenau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631774
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-11-14-20-00-basket-club-nord-alsac
+ e-2-schwe@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE - 2 – SCHWEIGHOUSE/OHLUNGEN B.C.
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs SCHWEIGHOUSE/OHLUNGEN B.C.\n\nMAISON DES SPORTS\n📍 Impasse du Tour
+ noi\, 67500 Haguenau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tournoi
+ \,+67500+Haguenau\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000
+ 00014631781
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi\, 67500 Haguenau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631781
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-11-22-15-30-strasbourg-libellules-
+ b-c-baske@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ STRASBOURG LIBELLULES B.C. – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ STRASBOURG LIBELLULES B.C.
+  vs BASKET CLUB NORD ALSACE - 2\n\nGYMNASE GUTENBERG\n📍 Rue Albert Saye
+ t\, 67200 Strasbourg\n🚗 Waze : https://waze.com/ul?q=Rue+Albert+Sayet\,
+ +67200+Strasbourg\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000
+ 00014631793
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet\, 67200 Strasbourg
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631793
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-12-05-20-00-basket-club-nord-alsac
+ e-2-schil@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE - 2 – SCHILTIGHEIM AU
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs SCHILTIGHEIM AU\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi\, 67500
+  Haguenau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tournoi\,+67500+Ha
+ guenau\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631802
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi\, 67500 Haguenau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631802
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2026-12-13-15-30-eschau-bc-basket-club-
+ nord-alsa@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:✈️ ESCHAU BC – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ESCHAU BC vs BASKET CLUB N
+ ORD ALSACE - 2\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes\, 67114 E
+ schau\n🚗 Waze : https://waze.com/ul?q=Place+des+Fêtes\,+67114+Eschau\n
+ \n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631811
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes\, 67114 Eschau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631811
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-01-09-17-00-basket-club-nord-alsac
+ e-2-geisp@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270109T170000
+DTEND;TZID=Europe/Paris:20270109T190000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE - 2 – GEISPOLSHEIM C.J.S. - 3
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs GEISPOLSHEIM C.J.S. - 3\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi
+ \, 67500 Haguenau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tournoi\,+
+ 67500+Haguenau\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631823
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi\, 67500 Haguenau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631823
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-01-17-15-30-asa-weyersheim-basket-
+ club-nord@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:✈️ ASA WEYERSHEIM – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs BASKET C
+ LUB NORD ALSACE - 2\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés\, 6772
+ 0 Weyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Prés\,+67720+Weye
+ rsheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631833
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés\, 67720 Weyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631833
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-01-31-15-30-vendenheim-bc-1-basket
+ -club-nor@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ VENDENHEIM BC - 1 – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs BASKE
+ T CLUB NORD ALSACE - 2\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod
+ \, 67550 Vendenheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gounod\
+ ,+67550+Vendenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200
+ 000014631844
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631844
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-02-06-20-30-basket-club-nord-alsac
+ e-2-ohnhe@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE - 2 – OHNHEIM C.S.S.A. - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs OHNHEIM C.S.S.A. - 1\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi\, 
+ 67500 Haguenau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tournoi\,+675
+ 00+Haguenau\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000146
+ 31851
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi\, 67500 Haguenau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631851
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-02-13-17-30-s-i-graffenstaden-2-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270213T173000
+DTEND;TZID=Europe/Paris:20270213T193000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 2 – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 2 vs 
+ BASKET CLUB NORD ALSACE - 2\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste\, 
+ 67400 Illkirch-Graffenstaden\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+
+ Poste\,+67400+Illkirch-Graffenstaden\n\n🦺 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competit
+ ions/pnf/match/200000014631864
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste\, 67400 Illkirch-Graffenstade
+ n
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631864
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-03-13-18-30-schweighouse-ohlungen-
+ b-c-baske@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270313T183000
+DTEND;TZID=Europe/Paris:20270313T203000
+SUMMARY:✈️ SCHWEIGHOUSE/OHLUNGEN B.C. – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHWEIGHOUSE/OHLUNGEN B.C.
+  vs BASKET CLUB NORD ALSACE - 2\n\nCENTRE ROBERT KAEUFLING\n📍 Rue des S
+ ports\, 67590 Schweighouse-sur-Moder\n🚗 Waze : https://waze.com/ul?q=Ru
+ e+des+Sports\,+67590+Schweighouse-sur-Moder\n\n🦺 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ ompetitions/pnf/match/200000014631871
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports\, 67590 Schweighouse-sur-
+ Moder
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631871
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-03-21-15-30-basket-club-nord-alsac
+ e-2-stras@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE - 2 – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs STRASBOURG LIBELLULES B.C.\n\nMAISON DES SPORTS\n📍 Impasse du Tour
+ noi\, 67500 Haguenau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tournoi
+ \,+67500+Haguenau\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000
+ 00014631883
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi\, 67500 Haguenau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631883
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-04-04-15-30-schiltigheim-au-basket
+ -club-nor@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:✈️ SCHILTIGHEIM AU – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs BASKET 
+ CLUB NORD ALSACE - 2\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries\, 
+ 67300 Schiltigheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Malteries\,+
+ 67300+Schiltigheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200
+ 000014631892
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries\, 67300 Schiltigheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631892
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-04-10-20-00-basket-club-nord-alsac
+ e-2-escha@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE - 2 – ESCHAU BC
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs ESCHAU BC\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi\, 67500 Hague
+ nau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tournoi\,+67500+Haguenau
+ \n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631901
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi\, 67500 Haguenau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631901
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-05-09-13-00-geispolsheim-c-j-s-3-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270509T130000
+DTEND;TZID=Europe/Paris:20270509T150000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 3 – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. - 3 vs
+  BASKET CLUB NORD ALSACE - 2\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse
+ \, 67118 Geispolsheim\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Porte+B
+ asse\,+67118+Geispolsheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/ma
+ tch/200000014631913
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse\, 67118 Geispolsheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631913
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054925-2027-05-15-20-00-basket-club-nord-alsac
+ e-2-asa-w@ffbb-agenda
+DTSTAMP:20260813T145202Z
+DTSTART;TZID=Europe/Paris:20270515T200000
+DTEND;TZID=Europe/Paris:20270515T220000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE - 2 – ASA WEYERSHEIM
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ BASKET CLUB NORD ALSACE - 
+ 2 vs ASA WEYERSHEIM\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi\, 67500 
+ Haguenau\n🚗 Waze : https://waze.com/ul?q=Impasse+du+Tournoi\,+67500+Hag
+ uenau\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631923
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi\, 67500 Haguenau
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631923
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,354 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – US WITTENHEIM  [RF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de US WITTENHEIM – RF2 – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-10-11-13-30-ohnheim-c-s-s-a-2-us-w
+ ittenheim@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261011T133000
+DTEND;TZID=Europe/Paris:20261011T153000
+SUMMARY:✈️ OHNHEIM C.S.S.A. - 2 – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ OHNHEIM C.S.S.A. - 2 vs US
+  WITTENHEIM\n\nCENTRE SPORTIF ET CULTUREL\n📍 Place des Fêtes\, 67640 F
+ egersheim\n🚗 Waze : https://waze.com/ul?q=Place+des+Fêtes\,+67640+Fege
+ rsheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632340
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes\, 67640 Fegersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632340
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-10-18-15-30-us-wittenheim-panthere
+ s-mulhous@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261018T153000
+DTEND;TZID=Europe/Paris:20261018T173000
+SUMMARY:🏠 US WITTENHEIM – PANTHERES MULHOUSE BASKET ALSACE - 2
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs PANTHERES
+  MULHOUSE BASKET ALSACE - 2\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Ve
+ rcors\, 68270 Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors
+ \,+68270+Wittenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20
+ 0000014632363
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632363
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-11-08-15-30-berrwiller-staffelfeld
+ en-bc-3-u@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 3 – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BERRWILLER/STAFFELFELDEN B
+ C - 3 vs US WITTENHEIM\n\nSALLE DES SPORTS\n📍 Rue de Hartmannswiller\, 
+ 68500 Berrwiller\n🚗 Waze : https://waze.com/ul?q=Rue+de+Hartmannswiller
+ \,+68500+Berrwiller\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20
+ 0000014632378
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller\, 68500 Berrwiller
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632378
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-11-15-15-30-us-wittenheim-colmar-b
+ asket@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 US WITTENHEIM – COLMAR BASKET
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs COLMAR BA
+ SKET\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 Wittenhei
+ m\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Wittenheim\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632399
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632399
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-11-22-15-30-basket-nord-sundgau-us
+ -wittenhe@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ BASKET NORD SUNDGAU – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BASKET NORD SUNDGAU vs US 
+ WITTENHEIM\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Illfurth\n
+ 🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfurth\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632416
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632416
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-11-29-15-30-us-wittenheim-selestat
+ -bc@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 US WITTENHEIM – SELESTAT BC
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs SELESTAT 
+ BC\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 Wittenheim\
+ n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Wittenheim\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632432
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632432
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-12-06-17-30-basket-club-3-pays-us-
+ wittenhei@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261206T173000
+DTEND;TZID=Europe/Paris:20261206T193000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BASKET-CLUB 3 PAYS vs US W
+ ITTENHEIM\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège\, 68220 Hégenheim\n
+ 🚗 Waze : https://waze.com/ul?q=Rue+du+Collège\,+68220+Hégenheim\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632450
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège\, 68220 Hégenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632450
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-12-13-15-30-us-wittenheim-asc-ste-
+ afre-ried@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:🏠 US WITTENHEIM – ASC STE AFRE RIEDISHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs ASC STE A
+ FRE RIEDISHEIM\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270
+  Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Witt
+ enheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632468
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632468
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-01-10-15-30-bc-st-georges-carspach
+ -us-witte@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ BC ST GEORGES CARSPACH – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ US WITTENHEIM\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régiment de Hussa
+ rds\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=Avenue+du+8ème+R
+ égiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competi
+ tions/rf2/match/200000014632485
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632485
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-01-16-20-00-as-horbourg-wihr-2-us-
+ wittenhei@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:✈️ AS HORBOURG-WIHR - 2 – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 2 vs US
+  WITTENHEIM\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine\, 68180 Ho
+ rbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine\,+68180+Hor
+ bourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20000001463
+ 2504
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632504
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-01-31-15-30-us-wittenheim-ohnheim-
+ c-s-s-a-2@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 US WITTENHEIM – OHNHEIM C.S.S.A. - 2
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs OHNHEIM C
+ .S.S.A. - 2\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 Wi
+ ttenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Wittenh
+ eim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632538
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632538
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-02-06-20-30-pantheres-mulhouse-bas
+ ket-alsac@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ PANTHERES MULHOUSE BASKET ALSACE - 2 – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ PANTHERES MULHOUSE BASKET 
+ ALSACE - 2 vs US WITTENHEIM\n\nGYMNASE DE LA DOLLER\n📍 Rue de Toulon\, 
+ 68200 Mulhouse\n🚗 Waze : https://waze.com/ul?q=Rue+de+Toulon\,+68200+Mu
+ lhouse\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632561
+LOCATION:GYMNASE DE LA DOLLER\, Rue de Toulon\, 68200 Mulhouse
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632561
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-02-14-15-30-us-wittenheim-berrwill
+ er-staffe@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 US WITTENHEIM – BERRWILLER/STAFFELFELDEN BC - 3
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs BERRWILLE
+ R/STAFFELFELDEN BC - 3\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors
+ \, 68270 Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68
+ 270+Wittenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632576
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632576
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-03-14-15-30-colmar-basket-us-witte
+ nheim@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ COLMAR BASKET – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ COLMAR BASKET vs US WITTEN
+ HEIM\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe\, 68000 Colmar\n🚗 
+ Waze : https://waze.com/ul?q=Avenue+de+l'Europe\,+68000+Colmar\n\n🦺 Arb
+ itres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/ligues/ges/competitions/rf2/match/200000014632597
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe\, 68000 Colmar
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632597
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-03-21-15-30-us-wittenheim-basket-n
+ ord-sundg@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:🏠 US WITTENHEIM – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs BASKET NO
+ RD SUNDGAU\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 Wit
+ tenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Wittenhe
+ im\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632614
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632614
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-04-04-15-30-selestat-bc-us-wittenh
+ eim@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:✈️ SELESTAT BC – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ SELESTAT BC vs US WITTENHE
+ IM\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré\, 67600 Sélestat\n🚗 Waze
+  : https://waze.com/ul?q=Rue+Gabriel+Fauré\,+67600+Sélestat\n\n🦺 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/competitions/rf2/match/200000014632630
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré\, 67600 Sélestat
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632630
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-04-11-15-30-us-wittenheim-basket-c
+ lub-3-pay@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 US WITTENHEIM – BASKET-CLUB 3 PAYS
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs BASKET-CL
+ UB 3 PAYS\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 Witt
+ enheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Wittenhei
+ m\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632648
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632648
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-04-18-15-30-asc-ste-afre-riedishei
+ m-us-witt@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ ASC STE AFRE RIEDISHEIM vs
+  US WITTENHEIM\n\nGYMNASE BARTHOLDI\n📍 Rue du Révérend Père Musslin\
+ , 68400 Riedisheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Révérend+P
+ ère+Musslin\,+68400+Riedisheim\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rf2/match/200000014632666
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin\, 68400 Riedis
+ heim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632666
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-05-09-15-30-us-wittenheim-bc-st-ge
+ orges-car@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:🏠 US WITTENHEIM – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs BC ST GEO
+ RGES CARSPACH\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 
+ Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Witte
+ nheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632683
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632683
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-05-16-15-30-us-wittenheim-as-horbo
+ urg-wihr-@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270516T153000
+DTEND;TZID=Europe/Paris:20270516T173000
+SUMMARY:🏠 US WITTENHEIM – AS HORBOURG-WIHR - 2
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs AS HORBOU
+ RG-WIHR - 2\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 Wi
+ ttenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Wittenh
+ eim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632702
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632702
+END:VEVENT
+END:VCALENDAR

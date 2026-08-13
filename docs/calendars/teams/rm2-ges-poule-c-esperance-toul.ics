@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ESPERANCE TOUL  [RM2 – GES – Poule C]
+X-WR-CALDESC:Matchs de ESPERANCE TOUL – RM2 – GES – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-10-03-18-00-ludres-pont-st-vincent
+ -basket-c@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ LUDRES PONT ST VINCENT BASKET CL - 2 – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ LUDRES PONT ST VINCENT BAS
+ KET CL - 2 vs ESPERANCE TOUL\n\nSALLE MARIE MARVINGT\n📍 Rue Marie Marvi
+ ngt\, 54710 Ludres\n🚗 Waze : https://waze.com/ul?q=Rue+Marie+Marvingt\,
+ +54710+Ludres\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001
+ 4632730
+LOCATION:SALLE MARIE MARVINGT\, Rue Marie Marvingt\, 54710 Ludres
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632730
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-10-10-20-30-esperance-toul-as-haut
+ -du-lievr@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 ESPERANCE TOUL – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs AS HAUT 
+ DU LIEVRE  NANCY - 2\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de M
+ etz\, 54200 Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+M
+ etz\,+54200+Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000
+ 0014632748
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632748
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-10-17-20-30-metz-bc-3-esperance-to
+ ul@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:✈️ METZ BC - 3 – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ METZ BC - 3 vs ESPERANCE T
+ OUL\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts\, 57000 Metz\n🚗 Waze
+  : https://waze.com/ul?q=Rue+des+Remparts\,+57000+Metz\n\n🦺 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/competitions/rm2/match/200000014632770
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts\, 57000 Metz
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632770
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-11-07-20-30-esperance-toul-sluc-na
+ ncy-baske@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 ESPERANCE TOUL – SLUC NANCY BASKET ASSOCIATION - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs SLUC NAN
+ CY BASKET ASSOCIATION - 2\n\nGYMNASE J et H BALSON\n📍 Place de la Porte
+  de Metz\, 54200 Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte
+ +de+Metz\,+54200+Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/
+ 200000014632784
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632784
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-11-14-18-00-vandoeuvre-basketball-
+ 2-esperan@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:✈️ VANDOEUVRE BASKETBALL - 2 – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs ESPERANCE TOUL\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de Crevic\, 54500 
+ Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+de+Crevic\,+5
+ 4500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/m
+ atch/200000014632804
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632804
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-11-21-20-30-esperance-toul-weitbru
+ ch-a-s-c-@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 ESPERANCE TOUL – WEITBRUCH A.S.C.G - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs WEITBRUC
+ H A.S.C.G - 2\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz\, 5
+ 4200 Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+Metz\,+5
+ 4200+Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632
+ 820
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632820
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-11-28-20-30-saint-die-vosges-baske
+ t-esperan@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:✈️ SAINT DIE VOSGES BASKET – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ SAINT DIE VOSGES BASKET vs
+  ESPERANCE TOUL\n\nPALAIS OMNISP. J. CLAUDEL S. 1\n📍 Rue du 12ème R.A.
+  Prolongée\, 88100 Saint-Dié-des-Vosges\n🚗 Waze : https://waze.com/ul
+ ?q=Rue+du+12ème+R.A.+Prolongée\,+88100+Saint-Dié-des-Vosges\n\n🦺 Arb
+ itres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/ligues/ges/competitions/rm2/match/200000014632843
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée\, 8
+ 8100 Saint-Dié-des-Vosges
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632843
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-12-05-20-30-esperance-toul-morschw
+ iller-fcj@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 ESPERANCE TOUL – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs MORSCHWI
+ LLER FCJ\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz\, 54200 
+ Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+Metz\,+54200+
+ Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632859
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632859
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-12-12-20-30-cse-folkling-esperance
+ -toul@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:✈️ CSE FOLKLING – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ CSE FOLKLING vs ESPERANCE 
+ TOUL\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944\, 57600 Folkling\n
+ 🚗 Waze : https://waze.com/ul?q=Rue+du+6+Décembre+1944\,+57600+Folkling
+ \n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632878
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944\, 57600 Folkling
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632878
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-01-09-20-30-esperance-toul-as-cham
+ pigneulle@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:🏠 ESPERANCE TOUL – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs AS CHAMP
+ IGNEULLES BASKETBALL\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de M
+ etz\, 54200 Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+M
+ etz\,+54200+Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000
+ 0014632895
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632895
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-01-16-20-30-saint-max-basket-club-
+ esperance@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:✈️ SAINT MAX BASKET CLUB – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ SAINT MAX BASKET CLUB vs E
+ SPERANCE TOUL\n\nGYMNASE HENRI COCHET\n📍 Rue de la Haie le Comte\, 5413
+ 0 Saint-Max\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Haie+le+Comte\,+5
+ 4130+Saint-Max\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632913
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte\, 54130 Saint-Max
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632913
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-01-23-20-30-esperance-toul-ludres-
+ pont-st-v@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:🏠 ESPERANCE TOUL – LUDRES PONT ST VINCENT BASKET CL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs LUDRES P
+ ONT ST VINCENT BASKET CL - 2\n\nGYMNASE J et H BALSON\n📍 Place de la Po
+ rte de Metz\, 54200 Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Po
+ rte+de+Metz\,+54200+Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/mat
+ ch/200000014632928
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632928
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-01-31-16-30-as-haut-du-lievre-nanc
+ y-2-esper@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270131T163000
+DTEND;TZID=Europe/Paris:20270131T183000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 2 – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ AS HAUT DU LIEVRE  NANCY -
+  2 vs ESPERANCE TOUL\n\nGYMNASE BUFFON\n📍 Rue Dominique Louis\, 54100 N
+ ancy\n🚗 Waze : https://waze.com/ul?q=Rue+Dominique+Louis\,+54100+Nancy\
+ n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632946
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632946
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-02-06-20-30-esperance-toul-metz-bc
+ -3@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 ESPERANCE TOUL – METZ BC - 3
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs METZ BC 
+ - 3\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz\, 54200 Toul\
+ n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+Metz\,+54200+Toul\
+ n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632968
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632968
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-02-13-18-00-sluc-nancy-basket-asso
+ ciation-2@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270213T180000
+DTEND;TZID=Europe/Paris:20270213T200000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION - 2 vs ESPERANCE TOUL\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitai
+ ne Guynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Capita
+ ine+Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/m
+ atch/200000014632982
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632982
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-03-13-20-30-esperance-toul-vandoeu
+ vre-baske@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 ESPERANCE TOUL – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs VANDOEUV
+ RE BASKETBALL - 2\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz
+ \, 54200 Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+Metz
+ \,+54200+Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001
+ 4633002
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633002
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-03-20-18-00-weitbruch-a-s-c-g-2-es
+ perance-t@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270320T180000
+DTEND;TZID=Europe/Paris:20270320T200000
+SUMMARY:✈️ WEITBRUCH A.S.C.G - 2 – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ WEITBRUCH A.S.C.G - 2 vs E
+ SPERANCE TOUL\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église\, 67500 W
+ eitbruch\n🚗 Waze : https://waze.com/ul?q=Rue+de+l'Église\,+67500+Weitb
+ ruch\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633018
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église\, 67500 Weitbruch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633018
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-04-03-20-30-esperance-toul-saint-d
+ ie-vosges@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 ESPERANCE TOUL – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs SAINT DI
+ E VOSGES BASKET\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz\,
+  54200 Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+Metz\,
+ +54200+Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000146
+ 33041
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633041
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-04-10-20-00-morschwiller-fcj-esper
+ ance-toul@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:✈️ MORSCHWILLER FCJ – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ MORSCHWILLER FCJ vs ESPERA
+ NCE TOUL\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath\, 67350 Mors
+ chwiller\n🚗 Waze : https://waze.com/ul?q=Route+de+Brumath\,+67350+Morsc
+ hwiller\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001463305
+ 7
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath\, 67350 Morschwiller
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633057
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-04-17-20-30-esperance-toul-cse-fol
+ kling@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:🏠 ESPERANCE TOUL – CSE FOLKLING
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs CSE FOLK
+ LING\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz\, 54200 Toul
+ \n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+Metz\,+54200+Toul
+ \n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633076
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633076
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-05-08-20-30-as-champigneulles-bask
+ etball-es@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ AS CHAMPIGNEULLES BASKETBA
+ LL vs ESPERANCE TOUL\n\nCOMPLEXE SPORTIF BELLEFONTAINE\n📍 Rue de Roncev
+ aux\, 54250 Champigneulles\n🚗 Waze : https://waze.com/ul?q=Rue+de+Ronce
+ vaux\,+54250+Champigneulles\n\n🦺 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/
+ match/200000014633093
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux\, 54250 Champign
+ eulles
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633093
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-05-15-20-30-esperance-toul-saint-m
+ ax-basket@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:🏠 ESPERANCE TOUL – SAINT MAX BASKET CLUB
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs SAINT MA
+ X BASKET CLUB\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz\, 5
+ 4200 Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+Metz\,+5
+ 4200+Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633
+ 111
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633111
+END:VEVENT
+END:VCALENDAR

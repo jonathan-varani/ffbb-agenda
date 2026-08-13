@@ -1,0 +1,391 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – US WITTENHEIM  [RM2 – GES – Poule B]
+X-WR-CALDESC:Matchs de US WITTENHEIM – RM2 – GES – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2026-10-04-17-30-asc-ste-afre-riedishei
+ m-us-witt@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20261004T173000
+DTEND;TZID=Europe/Paris:20261004T193000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ ASC STE AFRE RIEDISHEIM vs
+  US WITTENHEIM\n\nGYMNASE BARTHOLDI\n📍 Rue du Révérend Père Musslin\
+ , 68400 Riedisheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Révérend+P
+ ère+Musslin\,+68400+Riedisheim\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rm2/match/200000014632726
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin\, 68400 Riedis
+ heim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632726
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2026-10-10-20-30-us-wittenheim-strasbou
+ rg-electr@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 US WITTENHEIM – STRASBOURG ELECTRICITE A.S.
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs STRASBOUR
+ G ELECTRICITE A.S.\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 6
+ 8270 Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+
+ Wittenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001463
+ 2744
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632744
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2026-10-18-17-30-selestat-bc-2-us-witte
+ nheim@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20261018T173000
+DTEND;TZID=Europe/Paris:20261018T193000
+SUMMARY:✈️ SELESTAT BC - 2 – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ SELESTAT BC - 2 vs US WITT
+ ENHEIM\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré\, 67600 Sélestat\n🚗 
+ Waze : https://waze.com/ul?q=Rue+Gabriel+Fauré\,+67600+Sélestat\n\n🦺 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rm2/match/200000014632760
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré\, 67600 Sélestat
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632760
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2026-11-07-20-30-us-wittenheim-cssl-rix
+ heim@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 US WITTENHEIM – CSSL RIXHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs CSSL RIXH
+ EIM\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 Wittenheim
+ \n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Wittenheim\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632780
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632780
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2026-11-14-20-30-schaeffersheim-a-s-l-c
+ -us-witte@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ SCHAEFFERSHEIM A.S.L.C. – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  US WITTENHEIM\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 67150 Schaeffer
+ sheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67150+Schaeffersh
+ eim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632800
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632800
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2026-11-21-20-30-us-wittenheim-geispols
+ heim-c-j-@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 US WITTENHEIM – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs GEISPOLSH
+ EIM C.J.S. - 2\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270
+  Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Witt
+ enheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632816
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632816
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2026-11-28-18-00-s-i-graffenstaden-2-us
+ -wittenhe@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 2 – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 2 vs 
+ US WITTENHEIM\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste\, 67400 Illkirch
+ -Graffenstaden\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Poste\,+67400+
+ Illkirch-Graffenstaden\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match
+ /200000014632835
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste\, 67400 Illkirch-Graffenstade
+ n
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632835
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2026-12-05-20-30-us-wittenheim-mustangs
+ -associat@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 US WITTENHEIM – MUSTANGS ASSOCIATION
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs MUSTANGS 
+ ASSOCIATION\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 Wi
+ ttenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Wittenh
+ eim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632855
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632855
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2026-12-12-20-30-us-wittenheim-saint-jo
+ seph-stra@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 US WITTENHEIM – SAINT JOSEPH - STRASBOURG - 2
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs SAINT JOS
+ EPH - STRASBOURG - 2\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\,
+  68270 Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+6827
+ 0+Wittenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014
+ 632871
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632871
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-01-09-18-00-s-u-schiltigheim-baske
+ t-ball-us@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270109T180000
+DTEND;TZID=Europe/Paris:20270109T200000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ S.U. SCHILTIGHEIM BASKET B
+ ALL vs US WITTENHEIM\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Rue du Marai
+ s\, 67300 Schiltigheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Marais\,+
+ 67300+Schiltigheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200
+ 000014632889
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais\, 67300 Schiltighe
+ im
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632889
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-01-16-20-30-us-wittenheim-asc-sain
+ t-romain-@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 US WITTENHEIM – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs ASC SAINT
+  ROMAIN REININGUE\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68
+ 270 Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+W
+ ittenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632
+ 908
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632908
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-01-23-20-30-us-wittenheim-asc-ste-
+ afre-ried@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:🏠 US WITTENHEIM – ASC STE AFRE RIEDISHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs ASC STE A
+ FRE RIEDISHEIM\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270
+  Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Witt
+ enheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632924
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632924
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-01-30-20-30-strasbourg-electricite
+ -a-s-us-w@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ STRASBOURG ELECTRICITE A.S
+ . vs US WITTENHEIM\n\nCENTRE SPORTIF SUD\n📍 Rue des Vanneaux\, 67100 St
+ rasbourg\n🚗 Waze : https://waze.com/ul?q=Rue+des+Vanneaux\,+67100+Stras
+ bourg\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632942
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux\, 67100 Strasbourg
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632942
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-02-06-20-30-us-wittenheim-selestat
+ -bc-2@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 US WITTENHEIM – SELESTAT BC - 2
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs SELESTAT 
+ BC - 2\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 Wittenh
+ eim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Wittenheim\n
+ \n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632958
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632958
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-02-13-20-00-cssl-rixheim-us-witten
+ heim@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ CSSL RIXHEIM – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ CSSL RIXHEIM vs US WITTENH
+ EIM\n\nCIT DES SPORTS - GRANDE SALLE\n📍 Rue de la Forêt Noire\, 68170 
+ Rixheim\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Forêt+Noire\,+68170+
+ Rixheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001463297
+ 8
+LOCATION:CIT DES SPORTS - GRANDE SALLE\, Rue de la Forêt Noire\, 68170 Rix
+ heim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632978
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-03-13-20-30-us-wittenheim-schaeffe
+ rsheim-a-@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 US WITTENHEIM – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs SCHAEFFER
+ SHEIM A.S.L.C.\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270
+  Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Witt
+ enheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632998
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632998
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-03-20-20-30-geispolsheim-c-j-s-2-u
+ s-wittenh@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 2 – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs
+  US WITTENHEIM\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse\, 67118 Geisp
+ olsheim\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Porte+Basse\,+67118+G
+ eispolsheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000146
+ 33014
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse\, 67118 Geispolsheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633014
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-04-03-20-30-us-wittenheim-s-i-graf
+ fenstaden@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 US WITTENHEIM – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs S.I. GRAF
+ FENSTADEN - 2\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 
+ Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Witte
+ nheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633033
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633033
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-04-11-17-30-mustangs-association-u
+ s-wittenh@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270411T173000
+DTEND;TZID=Europe/Paris:20270411T193000
+SUMMARY:✈️ MUSTANGS ASSOCIATION – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ MUSTANGS ASSOCIATION vs US
+  WITTENHEIM\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim\, 68120 Pfastatt
+ \n🚗 Waze : https://waze.com/ul?q=Rue+de+Kingersheim\,+68120+Pfastatt\n\
+ n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633053
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim\, 68120 Pfastatt
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633053
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-04-17-20-30-saint-joseph-strasbour
+ g-2-us-wi@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 2 – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ SAINT JOSEPH - STRASBOURG 
+ - 2 vs US WITTENHEIM\n\nCENTRE SPORTIF ESPLANADE\n📍 Rue Louvois\, 67000
+  Strasbourg\n🚗 Waze : https://waze.com/ul?q=Rue+Louvois\,+67000+Strasbo
+ urg\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633069
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois\, 67000 Strasbourg
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633069
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-05-08-20-30-us-wittenheim-s-u-schi
+ ltigheim-@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 US WITTENHEIM – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ US WITTENHEIM vs S.U. SCHI
+ LTIGHEIM BASKET BALL\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\,
+  68270 Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+6827
+ 0+Wittenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014
+ 633087
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633087
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054927-2027-05-15-20-30-asc-saint-romain-reini
+ ngue-us-w@ffbb-agenda
+DTSTAMP:20260813T165932Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:✈️ ASC SAINT ROMAIN REININGUE – US WITTENHEIM
+DESCRIPTION:🏀 RM2 – GES – Poule B\n⚔️ ASC SAINT ROMAIN REININGUE
+  vs US WITTENHEIM\n\nHALLE DES SPORTS\n📍 Rue des Pierres\, 68950 Reinin
+ gue\n🚗 Waze : https://waze.com/ul?q=Rue+des+Pierres\,+68950+Reiningue\n
+ \n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633106
+LOCATION:HALLE DES SPORTS\, Rue des Pierres\, 68950 Reiningue
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633106
+END:VEVENT
+END:VCALENDAR

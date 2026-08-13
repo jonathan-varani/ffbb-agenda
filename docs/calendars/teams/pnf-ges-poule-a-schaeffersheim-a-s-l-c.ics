@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SCHAEFFERSHEIM A.S.L.C.  [PNF – GES – Poule A]
+X-WR-CALDESC:Matchs de SCHAEFFERSHEIM A.S.L.C. – PNF – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-10-03-18-30-schaeffersheim-a-s-l-c
+ -duttlenh@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261003T183000
+DTEND;TZID=Europe/Paris:20261003T203000
+SUMMARY:🏠 SCHAEFFERSHEIM A.S.L.C. – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  DUTTLENHEIM LC - 2\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 67150 Scha
+ effersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67150+Schaef
+ fersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000146317
+ 50
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631750
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-10-11-15-30-asp-ste-marie-aux-chen
+ es-1-scha@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ ASP STE MARIE AUX CHENES - 1 – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ ASP STE MARIE AUX CHENES -
+  1 vs SCHAEFFERSHEIM A.S.L.C.\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot\, 5
+ 7255 Sainte-Marie-aux-Chênes\n🚗 Waze : https://waze.com/ul?q=Rue+Berth
+ elot\,+57255+Sainte-Marie-aux-Chênes\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competi
+ tions/pnf/match/200000014631760
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot\, 57255 Sainte-Marie-aux-Chênes
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631760
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-11-08-17-30-as-horbourg-wihr-1-sch
+ aeffershe@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261108T173000
+DTEND;TZID=Europe/Paris:20261108T193000
+SUMMARY:✈️ AS HORBOURG-WIHR - 1 – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs SC
+ HAEFFERSHEIM A.S.L.C.\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine\
+ , 68180 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine\,
+ +68180+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2
+ 00000014631769
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631769
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-11-14-18-30-schaeffersheim-a-s-l-c
+ -asptt-na@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261114T183000
+DTEND;TZID=Europe/Paris:20261114T203000
+SUMMARY:🏠 SCHAEFFERSHEIM A.S.L.C. – ASPTT NANCY TOMBLAINE - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  ASPTT NANCY TOMBLAINE - 1\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 671
+ 50 Schaeffersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67150
+ +Schaeffersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000
+ 014631777
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631777
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-11-22-15-30-basket-club-rumersheim
+ -schaeffe@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ BASKET CLUB RUMERSHEIM – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ BASKET CLUB RUMERSHEIM vs 
+ SCHAEFFERSHEIM A.S.L.C.\n\nSALLE DES SPORTS\n📍 Route Nationale\, 68740 
+ Rumersheim-le-Haut\n🚗 Waze : https://waze.com/ul?q=Route+Nationale\,+68
+ 740+Rumersheim-le-Haut\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match
+ /200000014631787
+LOCATION:SALLE DES SPORTS\, Route Nationale\, 68740 Rumersheim-le-Haut
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631787
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-12-05-18-30-schaeffersheim-a-s-l-c
+ -as-saint@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261205T183000
+DTEND;TZID=Europe/Paris:20261205T203000
+SUMMARY:🏠 SCHAEFFERSHEIM A.S.L.C. – AS SAINT BRICE COURCELLES
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  AS SAINT BRICE COURCELLES\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 671
+ 50 Schaeffersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67150
+ +Schaeffersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000
+ 014631798
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631798
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-12-12-20-00-berrwiller-staffelfeld
+ en-bc-2-s@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 2 – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ BERRWILLER/STAFFELFELDEN B
+ C - 2 vs SCHAEFFERSHEIM A.S.L.C.\n\nSALLE DES SPORTS\n📍 Rue de Hartmann
+ swiller\, 68500 Berrwiller\n🚗 Waze : https://waze.com/ul?q=Rue+de+Hartm
+ annswiller\,+68500+Berrwiller\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnf/match/200000014631809
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller\, 68500 Berrwiller
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631809
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-01-09-18-30-schaeffersheim-a-s-l-c
+ -as-haut-@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270109T183000
+DTEND;TZID=Europe/Paris:20270109T203000
+SUMMARY:🏠 SCHAEFFERSHEIM A.S.L.C. – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  AS HAUT DU LIEVRE  NANCY\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 6715
+ 0 Schaeffersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67150+
+ Schaeffersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631819
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631819
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-01-31-17-30-duttlenheim-lc-2-schae
+ ffersheim@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270131T173000
+DTEND;TZID=Europe/Paris:20270131T193000
+SUMMARY:✈️ DUTTLENHEIM LC - 2 – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs SCHA
+ EFFERSHEIM A.S.L.C.\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 67120 Dut
+ tlenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+Duttlenhe
+ im\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631840
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631840
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-02-06-18-30-schaeffersheim-a-s-l-c
+ -asp-ste-@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270206T183000
+DTEND;TZID=Europe/Paris:20270206T203000
+SUMMARY:🏠 SCHAEFFERSHEIM A.S.L.C. – ASP STE MARIE AUX CHENES - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  ASP STE MARIE AUX CHENES - 1\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 
+ 67150 Schaeffersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67
+ 150+Schaeffersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200
+ 000014631850
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631850
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-02-13-18-30-schaeffersheim-a-s-l-c
+ -as-horbo@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270213T183000
+DTEND;TZID=Europe/Paris:20270213T203000
+SUMMARY:🏠 SCHAEFFERSHEIM A.S.L.C. – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  AS HORBOURG-WIHR - 1\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 67150 Sc
+ haeffersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67150+Scha
+ effersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20000001463
+ 1859
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631859
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-03-14-15-30-asptt-nancy-tomblaine-
+ 1-schaeff@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE - 1 – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ ASPTT NANCY TOMBLAINE - 1 
+ vs SCHAEFFERSHEIM A.S.L.C.\n\nCOSEC 1\n📍 Rue Jean Moulin\, 54510 Tombla
+ ine\n🚗 Waze : https://waze.com/ul?q=Rue+Jean+Moulin\,+54510+Tomblaine\n
+ \n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631867
+LOCATION:COSEC 1\, Rue Jean Moulin\, 54510 Tomblaine
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631867
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-03-20-18-30-schaeffersheim-a-s-l-c
+ -basket-c@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270320T183000
+DTEND;TZID=Europe/Paris:20270320T203000
+SUMMARY:🏠 SCHAEFFERSHEIM A.S.L.C. – BASKET CLUB RUMERSHEIM
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  BASKET CLUB RUMERSHEIM\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 67150 
+ Schaeffersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67150+Sc
+ haeffersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014
+ 631877
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631877
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-04-04-16-00-as-saint-brice-courcel
+ les-schae@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270404T160000
+DTEND;TZID=Europe/Paris:20270404T180000
+SUMMARY:✈️ AS SAINT BRICE COURCELLES – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS SAINT BRICE COURCELLES 
+ vs SCHAEFFERSHEIM A.S.L.C.\n\nGYMNASE SALVADOR ALLENDE\n📍 Rue de Luzarc
+ hes\, 51370 Saint-Brice-Courcelles\n🚗 Waze : https://waze.com/ul?q=Rue+
+ de+Luzarches\,+51370+Saint-Brice-Courcelles\n\n🦺 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ ompetitions/pnf/match/200000014631888
+LOCATION:GYMNASE SALVADOR ALLENDE\, Rue de Luzarches\, 51370 Saint-Brice-Co
+ urcelles
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631888
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-04-10-18-30-schaeffersheim-a-s-l-c
+ -berrwill@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270410T183000
+DTEND;TZID=Europe/Paris:20270410T203000
+SUMMARY:🏠 SCHAEFFERSHEIM A.S.L.C. – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  BERRWILLER/STAFFELFELDEN BC - 2\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue
+ \, 67150 Schaeffersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,
+ +67150+Schaeffersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/
+ 200000014631899
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631899
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-05-09-14-00-as-haut-du-lievre-nanc
+ y-schaeff@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270509T140000
+DTEND;TZID=Europe/Paris:20270509T160000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HAUT DU LIEVRE  NANCY v
+ s SCHAEFFERSHEIM A.S.L.C.\n\nGYMNASE BUFFON\n📍 Rue Dominique Louis\, 54
+ 100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+Dominique+Louis\,+54100+N
+ ancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631909
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631909
+END:VEVENT
+END:VCALENDAR

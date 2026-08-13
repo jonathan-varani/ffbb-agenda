@@ -1,0 +1,374 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC ST GEORGES CARSPACH  [RF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de BC ST GEORGES CARSPACH – RF2 – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-10-04-15-30-bc-st-georges-carspach
+ -panthere@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – PANTHERES MULHOUSE BASKET ALSACE - 
+ 2
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ PANTHERES MULHOUSE BASKET ALSACE - 2\n\nGYMNASE PLESSIER\n📍 Avenue du 8
+ ème Régiment de Hussards\, 68130 Altkirch\n🚗 Waze : https://waze.com/
+ ul?q=Avenue+du+8ème+Régiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/competitions/rf2/match/200000014632323
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632323
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-10-11-15-30-berrwiller-staffelfeld
+ en-bc-3-b@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 3 – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BERRWILLER/STAFFELFELDEN B
+ C - 3 vs BC ST GEORGES CARSPACH\n\nSALLE DES SPORTS\n📍 Rue de Hartmanns
+ willer\, 68500 Berrwiller\n🚗 Waze : https://waze.com/ul?q=Rue+de+Hartma
+ nnswiller\,+68500+Berrwiller\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rf2/match/200000014632342
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller\, 68500 Berrwiller
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632342
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-10-18-15-30-colmar-basket-bc-st-ge
+ orges-car@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261018T153000
+DTEND;TZID=Europe/Paris:20261018T173000
+SUMMARY:✈️ COLMAR BASKET – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ COLMAR BASKET vs BC ST GEO
+ RGES CARSPACH\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe\, 68000 Colm
+ ar\n🚗 Waze : https://waze.com/ul?q=Avenue+de+l'Europe\,+68000+Colmar\n\
+ n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632359
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe\, 68000 Colmar
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632359
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-11-08-15-30-basket-nord-sundgau-bc
+ -st-georg@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ BASKET NORD SUNDGAU – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BASKET NORD SUNDGAU vs BC 
+ ST GEORGES CARSPACH\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Illf
+ urth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfurt
+ h\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632380
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632380
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-11-22-13-30-ohnheim-c-s-s-a-2-bc-s
+ t-georges@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261122T133000
+DTEND;TZID=Europe/Paris:20261122T153000
+SUMMARY:✈️ OHNHEIM C.S.S.A. - 2 – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ OHNHEIM C.S.S.A. - 2 vs BC
+  ST GEORGES CARSPACH\n\nCENTRE SPORTIF ET CULTUREL\n📍 Place des Fêtes\
+ , 67640 Fegersheim\n🚗 Waze : https://waze.com/ul?q=Place+des+Fêtes\,+6
+ 7640+Fegersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000
+ 014632412
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes\, 67640 Fegersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632412
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-11-29-15-30-asc-ste-afre-riedishei
+ m-bc-st-g@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ ASC STE AFRE RIEDISHEIM vs
+  BC ST GEORGES CARSPACH\n\nGYMNASE BARTHOLDI\n📍 Rue du Révérend Père
+  Musslin\, 68400 Riedisheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Rév
+ érend+Père+Musslin\,+68400+Riedisheim\n\n🦺 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/compe
+ titions/rf2/match/200000014632431
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin\, 68400 Riedis
+ heim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632431
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-12-06-15-30-bc-st-georges-carspach
+ -as-horbo@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – AS HORBOURG-WIHR - 2
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ AS HORBOURG-WIHR - 2\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régiment d
+ e Hussards\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=Avenue+du+8
+ ème+Régiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ ompetitions/rf2/match/200000014632449
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632449
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2026-12-13-15-30-basket-club-3-pays-bc-
+ st-george@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BASKET-CLUB 3 PAYS vs BC S
+ T GEORGES CARSPACH\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège\, 68220 Hé
+ genheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Collège\,+68220+Hégenh
+ eim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632466
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège\, 68220 Hégenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632466
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-01-10-15-30-bc-st-georges-carspach
+ -us-witte@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – US WITTENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ US WITTENHEIM\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régiment de Hussa
+ rds\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=Avenue+du+8ème+R
+ égiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competi
+ tions/rf2/match/200000014632485
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632485
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-01-17-15-30-bc-st-georges-carspach
+ -selestat@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – SELESTAT BC
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ SELESTAT BC\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régiment de Hussard
+ s\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=Avenue+du+8ème+Rég
+ iment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitio
+ ns/rf2/match/200000014632502
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632502
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-01-23-20-30-pantheres-mulhouse-bas
+ ket-alsac@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ PANTHERES MULHOUSE BASKET ALSACE - 2 – BC ST GEORGES CARSP
+ ACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ PANTHERES MULHOUSE BASKET 
+ ALSACE - 2 vs BC ST GEORGES CARSPACH\n\nGYMNASE DE LA DOLLER\n📍 Rue de 
+ Toulon\, 68200 Mulhouse\n🚗 Waze : https://waze.com/ul?q=Rue+de+Toulon\,
+ +68200+Mulhouse\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000
+ 014632521
+LOCATION:GYMNASE DE LA DOLLER\, Rue de Toulon\, 68200 Mulhouse
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632521
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-01-31-15-30-bc-st-georges-carspach
+ -berrwill@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – BERRWILLER/STAFFELFELDEN BC - 3
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ BERRWILLER/STAFFELFELDEN BC - 3\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème 
+ Régiment de Hussards\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=
+ Avenue+du+8ème+Régiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/competitions/rf2/match/200000014632540
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632540
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-02-07-15-30-bc-st-georges-carspach
+ -colmar-b@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – COLMAR BASKET
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ COLMAR BASKET\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régiment de Hussa
+ rds\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=Avenue+du+8ème+R
+ égiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competi
+ tions/rf2/match/200000014632557
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632557
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-02-14-15-30-bc-st-georges-carspach
+ -basket-n@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ BASKET NORD SUNDGAU\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régiment de
+  Hussards\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=Avenue+du+8
+ ème+Régiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ ompetitions/rf2/match/200000014632578
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632578
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-03-21-15-30-bc-st-georges-carspach
+ -ohnheim-@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – OHNHEIM C.S.S.A. - 2
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ OHNHEIM C.S.S.A. - 2\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régiment d
+ e Hussards\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=Avenue+du+8
+ ème+Régiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ ompetitions/rf2/match/200000014632610
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632610
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-04-04-15-30-bc-st-georges-carspach
+ -asc-ste-@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – ASC STE AFRE RIEDISHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ ASC STE AFRE RIEDISHEIM\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régimen
+ t de Hussards\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=Avenue+d
+ u+8ème+Régiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/competitions/rf2/match/200000014632629
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632629
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-04-11-17-30-as-horbourg-wihr-2-bc-
+ st-george@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270411T173000
+DTEND;TZID=Europe/Paris:20270411T193000
+SUMMARY:✈️ AS HORBOURG-WIHR - 2 – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 2 vs BC
+  ST GEORGES CARSPACH\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine\,
+  68180 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine\,+
+ 68180+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20
+ 0000014632647
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632647
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-04-18-15-30-bc-st-georges-carspach
+ -basket-c@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – BASKET-CLUB 3 PAYS
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ BC ST GEORGES CARSPACH vs 
+ BASKET-CLUB 3 PAYS\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régiment de 
+ Hussards\, 68130 Altkirch\n🚗 Waze : https://waze.com/ul?q=Avenue+du+8è
+ me+Régiment+de+Hussards\,+68130+Altkirch\n\n🦺 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ petitions/rf2/match/200000014632664
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards\, 68130 A
+ ltkirch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632664
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-05-09-15-30-us-wittenheim-bc-st-ge
+ orges-car@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:✈️ US WITTENHEIM – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US WITTENHEIM vs BC ST GEO
+ RGES CARSPACH\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors\, 68270 
+ Wittenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Vercors\,+68270+Witte
+ nheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632683
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors\, 68270 Wittenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632683
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054931-2027-05-15-18-00-selestat-bc-bc-st-geor
+ ges-carsp@ffbb-agenda
+DTSTAMP:20260813T150734Z
+DTSTART;TZID=Europe/Paris:20270515T180000
+DTEND;TZID=Europe/Paris:20270515T200000
+SUMMARY:✈️ SELESTAT BC – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ SELESTAT BC vs BC ST GEORG
+ ES CARSPACH\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré\, 67600 Sélestat\n
+ 🚗 Waze : https://waze.com/ul?q=Rue+Gabriel+Fauré\,+67600+Sélestat\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632700
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré\, 67600 Sélestat
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632700
+END:VEVENT
+END:VCALENDAR

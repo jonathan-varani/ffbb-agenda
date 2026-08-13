@@ -1,0 +1,416 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VANDOEUVRE BASKETBALL - 2  [RM2 – GES – Poule C]
+X-WR-CALDESC:Matchs de VANDOEUVRE BASKETBALL - 2 – RM2 – GES – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-10-03-18-00-vandoeuvre-basketball-
+ 2-as-cham@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs AS CHAMPIGNEULLES BASKETBALL\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de C
+ revic\, 54500 Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue
+ +de+Crevic\,+54500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comp
+ etitions/rm2/match/200000014632732
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632732
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-10-10-20-30-cse-folkling-vandoeuvr
+ e-basketb@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ CSE FOLKLING – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ CSE FOLKLING vs VANDOEUVRE
+  BASKETBALL - 2\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944\, 57600
+  Folkling\n🚗 Waze : https://waze.com/ul?q=Rue+du+6+Décembre+1944\,+576
+ 00+Folkling\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000146
+ 32751
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944\, 57600 Folkling
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632751
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-10-17-18-00-vandoeuvre-basketball-
+ 2-morschw@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs MORSCHWILLER FCJ\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de Crevic\, 5450
+ 0 Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+de+Crevic\,
+ +54500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rm2/match/200000014632768
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632768
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-11-07-20-30-saint-die-vosges-baske
+ t-vandoeu@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ SAINT DIE VOSGES BASKET – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ SAINT DIE VOSGES BASKET vs
+  VANDOEUVRE BASKETBALL - 2\n\nPALAIS OMNISP. J. CLAUDEL S. 1\n📍 Rue du 
+ 12ème R.A. Prolongée\, 88100 Saint-Dié-des-Vosges\n🚗 Waze : https://
+ waze.com/ul?q=Rue+du+12ème+R.A.+Prolongée\,+88100+Saint-Dié-des-Vosges\
+ n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632789
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée\, 8
+ 8100 Saint-Dié-des-Vosges
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632789
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-11-14-18-00-vandoeuvre-basketball-
+ 2-esperan@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs ESPERANCE TOUL\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de Crevic\, 54500 
+ Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+de+Crevic\,+5
+ 4500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/m
+ atch/200000014632804
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632804
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-11-21-20-30-saint-max-basket-club-
+ vandoeuvr@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:✈️ SAINT MAX BASKET CLUB – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ SAINT MAX BASKET CLUB vs V
+ ANDOEUVRE BASKETBALL - 2\n\nGYMNASE HENRI COCHET\n📍 Rue de la Haie le C
+ omte\, 54130 Saint-Max\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Haie+l
+ e+Comte\,+54130+Saint-Max\n\n🦺 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/ma
+ tch/200000014632821
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte\, 54130 Saint-Max
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632821
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-11-28-18-00-sluc-nancy-basket-asso
+ ciation-2@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – VANDOEUVRE BASKETBALL 
+ - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION - 2 vs VANDOEUVRE BASKETBALL - 2\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue
+  du Capitaine Guynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Ru
+ e+du+Capitaine+Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competi
+ tions/rm2/match/200000014632838
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632838
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-12-05-18-00-vandoeuvre-basketball-
+ 2-as-haut@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261205T180000
+DTEND;TZID=Europe/Paris:20261205T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs AS HAUT DU LIEVRE  NANCY - 2\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de C
+ revic\, 54500 Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue
+ +de+Crevic\,+54500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comp
+ etitions/rm2/match/200000014632858
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632858
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2026-12-12-18-00-vandoeuvre-basketball-
+ 2-weitbru@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – WEITBRUCH A.S.C.G - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs WEITBRUCH A.S.C.G - 2\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de Crevic\,
+  54500 Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+de+Cre
+ vic\,+54500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competition
+ s/rm2/match/200000014632874
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632874
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-01-09-18-00-ludres-pont-st-vincent
+ -basket-c@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270109T180000
+DTEND;TZID=Europe/Paris:20270109T200000
+SUMMARY:✈️ LUDRES PONT ST VINCENT BASKET CL - 2 – VANDOEUVRE BASKETBA
+ LL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ LUDRES PONT ST VINCENT BAS
+ KET CL - 2 vs VANDOEUVRE BASKETBALL - 2\n\nSALLE MARIE MARVINGT\n📍 Rue 
+ Marie Marvingt\, 54710 Ludres\n🚗 Waze : https://waze.com/ul?q=Rue+Marie
+ +Marvingt\,+54710+Ludres\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/mat
+ ch/200000014632892
+LOCATION:SALLE MARIE MARVINGT\, Rue Marie Marvingt\, 54710 Ludres
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632892
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-01-16-18-00-vandoeuvre-basketball-
+ 2-metz-bc@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270116T180000
+DTEND;TZID=Europe/Paris:20270116T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – METZ BC - 3
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs METZ BC - 3\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de Crevic\, 54500 Van
+ doeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+de+Crevic\,+5450
+ 0+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/matc
+ h/200000014632911
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632911
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-01-23-20-30-as-champigneulles-bask
+ etball-va@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ AS CHAMPIGNEULLES BASKETBA
+ LL vs VANDOEUVRE BASKETBALL - 2\n\nCOMPLEXE SPORTIF BELLEFONTAINE\n📍 Ru
+ e de Roncevaux\, 54250 Champigneulles\n🚗 Waze : https://waze.com/ul?q=R
+ ue+de+Roncevaux\,+54250+Champigneulles\n\n🦺 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/compet
+ itions/rm2/match/200000014632930
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux\, 54250 Champign
+ eulles
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632930
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-01-30-18-00-vandoeuvre-basketball-
+ 2-cse-fol@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270130T180000
+DTEND;TZID=Europe/Paris:20270130T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – CSE FOLKLING
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs CSE FOLKLING\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de Crevic\, 54500 Va
+ ndoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+de+Crevic\,+545
+ 00+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/mat
+ ch/200000014632949
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632949
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-02-06-20-30-morschwiller-fcj-vando
+ euvre-bas@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ MORSCHWILLER FCJ – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ MORSCHWILLER FCJ vs VANDOE
+ UVRE BASKETBALL - 2\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath\,
+  67350 Morschwiller\n🚗 Waze : https://waze.com/ul?q=Route+de+Brumath\,+
+ 67350+Morschwiller\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200
+ 000014632966
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath\, 67350 Morschwiller
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632966
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-02-13-18-00-vandoeuvre-basketball-
+ 2-saint-d@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270213T180000
+DTEND;TZID=Europe/Paris:20270213T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs SAINT DIE VOSGES BASKET\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de Crevic
+ \, 54500 Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+de+C
+ revic\,+54500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competiti
+ ons/rm2/match/200000014632987
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632987
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-03-13-20-30-esperance-toul-vandoeu
+ vre-baske@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:✈️ ESPERANCE TOUL – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ ESPERANCE TOUL vs VANDOEUV
+ RE BASKETBALL - 2\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz
+ \, 54200 Toul\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Porte+de+Metz
+ \,+54200+Toul\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001
+ 4633002
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz\, 54200 Toul
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633002
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-03-20-18-00-vandoeuvre-basketball-
+ 2-saint-m@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270320T180000
+DTEND;TZID=Europe/Paris:20270320T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – SAINT MAX BASKET CLUB
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs SAINT MAX BASKET CLUB\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de Crevic\,
+  54500 Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+de+Cre
+ vic\,+54500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competition
+ s/rm2/match/200000014633019
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633019
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-04-03-18-00-vandoeuvre-basketball-
+ 2-sluc-na@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270403T180000
+DTEND;TZID=Europe/Paris:20270403T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – SLUC NANCY BASKET ASSOCIATION - 
+ 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs SLUC NANCY BASKET ASSOCIATION - 2\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue
+  de Crevic\, 54500 Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/ul?
+ q=Rue+de+Crevic\,+54500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/competitions/rm2/match/200000014633036
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633036
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-04-11-16-30-as-haut-du-lievre-nanc
+ y-2-vando@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270411T163000
+DTEND;TZID=Europe/Paris:20270411T183000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 2 – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ AS HAUT DU LIEVRE  NANCY -
+  2 vs VANDOEUVRE BASKETBALL - 2\n\nGYMNASE BUFFON\n📍 Rue Dominique Loui
+ s\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+Dominique+Louis\,+5
+ 4100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001463
+ 3056
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633056
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-04-17-18-00-weitbruch-a-s-c-g-2-va
+ ndoeuvre-@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270417T180000
+DTEND;TZID=Europe/Paris:20270417T200000
+SUMMARY:✈️ WEITBRUCH A.S.C.G - 2 – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ WEITBRUCH A.S.C.G - 2 vs V
+ ANDOEUVRE BASKETBALL - 2\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Églis
+ e\, 67500 Weitbruch\n🚗 Waze : https://waze.com/ul?q=Rue+de+l'Église\,+
+ 67500+Weitbruch\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000
+ 014633072
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église\, 67500 Weitbruch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633072
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-05-08-18-00-vandoeuvre-basketball-
+ 2-ludres-@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270508T180000
+DTEND;TZID=Europe/Paris:20270508T200000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL - 2 – LUDRES PONT ST VINCENT BASKET CL
+  - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs LUDRES PONT ST VINCENT BASKET CL - 2\n\nGYMNASE DU HAUT DE PENOY\n📍 
+ Rue de Crevic\, 54500 Vandoeuvre-lès-Nancy\n🚗 Waze : https://waze.com/
+ ul?q=Rue+de+Crevic\,+54500+Vandoeuvre-lès-Nancy\n\n🦺 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/competitions/rm2/match/200000014633090
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic\, 54500 Vandoeuvre-lès-N
+ ancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633090
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897416-200000003054928-2027-05-15-20-30-metz-bc-3-vandoeuvre-b
+ asketball@ffbb-agenda
+DTSTAMP:20260813T171647Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:✈️ METZ BC - 3 – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule C\n⚔️ METZ BC - 3 vs VANDOEUVRE 
+ BASKETBALL - 2\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts\, 57000 Metz
+ \n🚗 Waze : https://waze.com/ul?q=Rue+des+Remparts\,+57000+Metz\n\n🦺 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rm2/match/200000014633109
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts\, 57000 Metz
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633109
+END:VEVENT
+END:VCALENDAR

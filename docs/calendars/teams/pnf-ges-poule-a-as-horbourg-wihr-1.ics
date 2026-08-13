@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS HORBOURG-WIHR - 1  [PNF – GES – Poule A]
+X-WR-CALDESC:Matchs de AS HORBOURG-WIHR - 1 – PNF – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-10-11-17-30-duttlenheim-lc-2-as-ho
+ rbourg-wi@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261011T173000
+DTEND;TZID=Europe/Paris:20261011T193000
+SUMMARY:✈️ DUTTLENHEIM LC - 2 – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs AS H
+ ORBOURG-WIHR - 1\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 67120 Duttle
+ nheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+Duttlenheim\
+ n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631756
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631756
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-11-08-17-30-as-horbourg-wihr-1-sch
+ aeffershe@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261108T173000
+DTEND;TZID=Europe/Paris:20261108T193000
+SUMMARY:🏠 AS HORBOURG-WIHR - 1 – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs SC
+ HAEFFERSHEIM A.S.L.C.\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine\
+ , 68180 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine\,
+ +68180+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2
+ 00000014631769
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631769
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-11-15-15-00-as-horbourg-wihr-1-asp
+ -ste-mari@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261115T150000
+DTEND;TZID=Europe/Paris:20261115T170000
+SUMMARY:🏠 AS HORBOURG-WIHR - 1 – ASP STE MARIE AUX CHENES - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs AS
+ P STE MARIE AUX CHENES - 1\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorr
+ aine\, 68180 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorra
+ ine\,+68180+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/ma
+ tch/200000014631776
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631776
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-11-22-15-30-asptt-nancy-tomblaine-
+ 1-as-horb@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE - 1 – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ ASPTT NANCY TOMBLAINE - 1 
+ vs AS HORBOURG-WIHR - 1\n\nCOSEC 1\n📍 Rue Jean Moulin\, 54510 Tomblaine
+ \n🚗 Waze : https://waze.com/ul?q=Rue+Jean+Moulin\,+54510+Tomblaine\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631788
+LOCATION:COSEC 1\, Rue Jean Moulin\, 54510 Tomblaine
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631788
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-12-05-20-00-as-horbourg-wihr-1-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 AS HORBOURG-WIHR - 1 – BASKET CLUB RUMERSHEIM
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs BA
+ SKET CLUB RUMERSHEIM\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine\,
+  68180 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine\,+
+ 68180+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20
+ 0000014631797
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631797
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-12-13-16-00-as-saint-brice-courcel
+ les-as-ho@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261213T160000
+DTEND;TZID=Europe/Paris:20261213T180000
+SUMMARY:✈️ AS SAINT BRICE COURCELLES – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS SAINT BRICE COURCELLES 
+ vs AS HORBOURG-WIHR - 1\n\nGYMNASE SALVADOR ALLENDE\n📍 Rue de Luzarches
+ \, 51370 Saint-Brice-Courcelles\n🚗 Waze : https://waze.com/ul?q=Rue+de+
+ Luzarches\,+51370+Saint-Brice-Courcelles\n\n🦺 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comp
+ etitions/pnf/match/200000014631806
+LOCATION:GYMNASE SALVADOR ALLENDE\, Rue de Luzarches\, 51370 Saint-Brice-Co
+ urcelles
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631806
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-01-09-20-00-as-horbourg-wihr-1-ber
+ rwiller-s@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 AS HORBOURG-WIHR - 1 – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs BE
+ RRWILLER/STAFFELFELDEN BC - 2\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de L
+ orraine\, 68180 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lo
+ rraine\,+68180+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnf/match/200000014631818
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631818
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-01-17-14-00-as-haut-du-lievre-nanc
+ y-as-horb@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270117T140000
+DTEND;TZID=Europe/Paris:20270117T160000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HAUT DU LIEVRE  NANCY v
+ s AS HORBOURG-WIHR - 1\n\nGYMNASE BUFFON\n📍 Rue Dominique Louis\, 54100
+  Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+Dominique+Louis\,+54100+Nanc
+ y\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631828
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631828
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-02-07-17-30-as-horbourg-wihr-1-dut
+ tlenheim-@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270207T173000
+DTEND;TZID=Europe/Paris:20270207T193000
+SUMMARY:🏠 AS HORBOURG-WIHR - 1 – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs DU
+ TTLENHEIM LC - 2\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine\, 681
+ 80 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine\,+6818
+ 0+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000
+ 014631846
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631846
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-02-13-18-30-schaeffersheim-a-s-l-c
+ -as-horbo@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270213T183000
+DTEND;TZID=Europe/Paris:20270213T203000
+SUMMARY:✈️ SCHAEFFERSHEIM A.S.L.C. – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  AS HORBOURG-WIHR - 1\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 67150 Sc
+ haeffersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67150+Scha
+ effersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20000001463
+ 1859
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631859
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-03-14-15-30-asp-ste-marie-aux-chen
+ es-1-as-h@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ ASP STE MARIE AUX CHENES - 1 – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ ASP STE MARIE AUX CHENES -
+  1 vs AS HORBOURG-WIHR - 1\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot\, 5725
+ 5 Sainte-Marie-aux-Chênes\n🚗 Waze : https://waze.com/ul?q=Rue+Berthelo
+ t\,+57255+Sainte-Marie-aux-Chênes\n\n🦺 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitio
+ ns/pnf/match/200000014631866
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot\, 57255 Sainte-Marie-aux-Chênes
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631866
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-03-21-15-00-as-horbourg-wihr-1-asp
+ tt-nancy-@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270321T150000
+DTEND;TZID=Europe/Paris:20270321T170000
+SUMMARY:🏠 AS HORBOURG-WIHR - 1 – ASPTT NANCY TOMBLAINE - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs AS
+ PTT NANCY TOMBLAINE - 1\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorrain
+ e\, 68180 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine
+ \,+68180+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match
+ /200000014631878
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631878
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-04-04-15-30-basket-club-rumersheim
+ -as-horbo@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:✈️ BASKET CLUB RUMERSHEIM – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ BASKET CLUB RUMERSHEIM vs 
+ AS HORBOURG-WIHR - 1\n\nSALLE DES SPORTS\n📍 Route Nationale\, 68740 Rum
+ ersheim-le-Haut\n🚗 Waze : https://waze.com/ul?q=Route+Nationale\,+68740
+ +Rumersheim-le-Haut\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20
+ 0000014631887
+LOCATION:SALLE DES SPORTS\, Route Nationale\, 68740 Rumersheim-le-Haut
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631887
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-04-11-15-00-as-horbourg-wihr-1-as-
+ saint-bri@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270411T150000
+DTEND;TZID=Europe/Paris:20270411T170000
+SUMMARY:🏠 AS HORBOURG-WIHR - 1 – AS SAINT BRICE COURCELLES
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs AS
+  SAINT BRICE COURCELLES\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorrain
+ e\, 68180 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine
+ \,+68180+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match
+ /200000014631896
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631896
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-05-08-20-00-berrwiller-staffelfeld
+ en-bc-2-a@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270508T200000
+DTEND;TZID=Europe/Paris:20270508T220000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 2 – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ BERRWILLER/STAFFELFELDEN B
+ C - 2 vs AS HORBOURG-WIHR - 1\n\nSALLE DES SPORTS\n📍 Rue de Hartmannswi
+ ller\, 68500 Berrwiller\n🚗 Waze : https://waze.com/ul?q=Rue+de+Hartmann
+ swiller\,+68500+Berrwiller\n\n🦺 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/m
+ atch/200000014631908
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller\, 68500 Berrwiller
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631908
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-05-15-20-00-as-horbourg-wihr-1-as-
+ haut-du-l@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270515T200000
+DTEND;TZID=Europe/Paris:20270515T220000
+SUMMARY:🏠 AS HORBOURG-WIHR - 1 – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs AS
+  HAUT DU LIEVRE  NANCY\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine
+ \, 68180 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine\
+ ,+68180+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/
+ 200000014631918
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631918
+END:VEVENT
+END:VCALENDAR

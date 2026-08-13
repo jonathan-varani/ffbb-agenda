@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET NORD SUNDGAU  [PNM – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET NORD SUNDGAU – PNM – GES – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-10-03-20-30-basket-nord-sundgau-ge
+ ispolshei@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs GEI
+ SPOLSHEIM C.J.S.\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Illfurt
+ h\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfurth\n
+ \n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631932
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631932
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-10-10-20-30-s-u-schiltigheim-baske
+ t-ball-ba@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.U. SCHILTIGHEIM BASKET B
+ ALL vs BASKET NORD SUNDGAU\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Rue du
+  Marais\, 67300 Schiltigheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Mar
+ ais\,+67300+Schiltigheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/mat
+ ch/200000014631951
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais\, 67300 Schiltighe
+ im
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631951
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-10-17-20-30-basket-nord-sundgau-as
+ a-gries-o@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs ASA
+  GRIES / OBERHOFFEN\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Illf
+ urth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfurt
+ h\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631968
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631968
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-11-07-20-30-s-i-graffenstaden-1-ba
+ sket-nord@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 1 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
+ BASKET NORD SUNDGAU\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste\, 67400 Il
+ lkirch-Graffenstaden\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Poste\,+
+ 67400+Illkirch-Graffenstaden\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014631989
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste\, 67400 Illkirch-Graffenstade
+ n
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631989
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-11-14-20-30-basket-nord-sundgau-as
+ l-dessenh@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – ASL DESSENHEIM
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs ASL
+  DESSENHEIM\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Illfurth\n
+ 🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfurth\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632004
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632004
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-11-22-16-30-griesheim-p-molsheim-l
+ s-basket-@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261122T163000
+DTEND;TZID=Europe/Paris:20261122T183000
+SUMMARY:✈️ GRIESHEIM P/MOLSHEIM LS – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ GRIESHEIM P/MOLSHEIM LS vs
+  BASKET NORD SUNDGAU\n\nSALLE MUNICIPALE\n📍 Rue de l'Église\, 67560 Ro
+ sheim\n🚗 Waze : https://waze.com/ul?q=Rue+de+l'Église\,+67560+Rosheim\
+ n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632027
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église\, 67560 Rosheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632027
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-11-29-17-30-holtzheim-vogesia-2-ba
+ sket-nord@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261129T173000
+DTEND;TZID=Europe/Paris:20261129T193000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 2 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ HOLTZHEIM VOGESIA - 2 vs B
+ ASKET NORD SUNDGAU\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade\, 67810 Holtzh
+ eim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67810+Holtzheim\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632042
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade\, 67810 Holtzheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632042
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-12-05-20-30-basket-nord-sundgau-sa
+ int-josep@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs SAI
+ NT JOSEPH - STRASBOURG - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 687
+ 20 Illfurth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+
+ Illfurth\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146320
+ 58
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632058
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2026-12-13-17-30-asa-souffelweyersheim-
+ 2-basket-@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20261213T173000
+DTEND;TZID=Europe/Paris:20261213T193000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 2 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs BASKET NORD SUNDGAU\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents\, 6
+ 7460 Souffelweyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Sept+Arp
+ ents\,+67460+Souffelweyersheim\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014632077
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents\, 67460 Souffelweyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632077
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-01-09-20-30-basket-nord-sundgau-ba
+ sk-furden@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs BAS
+ K FURDENHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Illfurt
+ h\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfurth\n
+ \n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632094
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632094
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-01-16-20-30-weitbruch-a-s-c-g-1-ba
+ sket-nord@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:✈️ WEITBRUCH A.S.C.G - 1 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ WEITBRUCH A.S.C.G - 1 vs B
+ ASKET NORD SUNDGAU\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église\, 67
+ 500 Weitbruch\n🚗 Waze : https://waze.com/ul?q=Rue+de+l'Église\,+67500+
+ Weitbruch\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632
+ 112
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église\, 67500 Weitbruch
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632112
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-01-23-20-30-geispolsheim-c-j-s-bas
+ ket-nord-@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. vs BAS
+ KET NORD SUNDGAU\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse\, 67118 Gei
+ spolsheim\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Porte+Basse\,+67118
+ +Geispolsheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001
+ 4632130
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse\, 67118 Geispolsheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632130
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-01-30-20-30-basket-nord-sundgau-s-
+ u-schilti@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs S.U
+ . SCHILTIGHEIM BASKET BALL\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 687
+ 20 Illfurth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+
+ Illfurth\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146321
+ 49
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632149
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-02-07-17-30-asa-gries-oberhoffen-b
+ asket-nor@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270207T173000
+DTEND;TZID=Europe/Paris:20270207T193000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ BASKET NORD SUNDGAU\n\nESPACE SPORT LA FORET\n📍 Rue du Stade\, 67240 Gr
+ ies\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67240+Gries\n\n🦺 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/pnm/match/200000014632166
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade\, 67240 Gries
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632166
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-02-13-20-30-basket-nord-sundgau-s-
+ i-graffen@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – S.I. GRAFFENSTADEN - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs S.I
+ . GRAFFENSTADEN - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Illf
+ urth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfurt
+ h\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632187
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632187
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-03-13-20-30-asl-dessenheim-basket-
+ nord-sund@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:✈️ ASL DESSENHEIM – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASL DESSENHEIM vs BASKET N
+ ORD SUNDGAU\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar\, 68600 Dessenh
+ eim\n🚗 Waze : https://waze.com/ul?q=Rue+de+Colmar\,+68600+Dessenheim\n\
+ n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632202
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar\, 68600 Dessenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632202
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-03-20-20-30-basket-nord-sundgau-gr
+ iesheim-p@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – GRIESHEIM P/MOLSHEIM LS
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs GRI
+ ESHEIM P/MOLSHEIM LS\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Ill
+ furth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfur
+ th\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632225
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632225
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-04-03-20-30-basket-nord-sundgau-ho
+ ltzheim-v@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – HOLTZHEIM VOGESIA - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs HOL
+ TZHEIM VOGESIA - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Illfu
+ rth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfurth
+ \n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632240
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632240
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-04-10-20-30-saint-joseph-strasbour
+ g-1-baske@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 1 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ SAINT JOSEPH - STRASBOURG 
+ - 1 vs BASKET NORD SUNDGAU\n\nCENTRE SPORTIF ESPLANADE\n📍 Rue Louvois\,
+  67000 Strasbourg\n🚗 Waze : https://waze.com/ul?q=Rue+Louvois\,+67000+S
+ trasbourg\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632
+ 256
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois\, 67000 Strasbourg
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632256
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-04-17-20-30-basket-nord-sundgau-as
+ a-souffel@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs ASA
+  SOUFFELWEYERSHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 I
+ llfurth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illf
+ urth\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632275
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632275
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-05-08-20-30-bask-furdenheim-2-bask
+ et-nord-s@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:✈️ BASK FURDENHEIM - 2 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs BAS
+ KET NORD SUNDGAU\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade\, 67117 F
+ urdenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67117+Furdenhe
+ im\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632292
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade\, 67117 Furdenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632292
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054919-2027-05-15-20-30-basket-nord-sundgau-we
+ itbruch-a@ffbb-agenda
+DTSTAMP:20260813T160904Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:🏠 BASKET NORD SUNDGAU – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs WEI
+ TBRUCH A.S.C.G - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach\, 68720 Illfu
+ rth\n🚗 Waze : https://waze.com/ul?q=Route+de+Spechbach\,+68720+Illfurth
+ \n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632310
+LOCATION:POLY ILLFURTH\, Route de Spechbach\, 68720 Illfurth
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632310
+END:VEVENT
+END:VCALENDAR

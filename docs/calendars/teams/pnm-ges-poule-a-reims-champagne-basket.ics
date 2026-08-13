@@ -1,0 +1,407 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – REIMS CHAMPAGNE BASKET  [PNM – GES – Poule A]
+X-WR-CALDESC:Matchs de REIMS CHAMPAGNE BASKET – PNM – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-10-03-20-30-reims-champagne-basket
+ -ie-ctc-t@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – IE - CTC T-A-A-C BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ IE - CTC T-A-A-C BASKET\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue Françoi
+ s Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+François+Ara
+ go\,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000
+ 0014631931
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631931
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-10-10-20-30-e-l-witry-les-reims-ba
+ sket-reim@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs REIMS CHAMPAGNE BASKET\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue d
+ e Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.com/ul?q=Rue
+ +de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competi
+ tions/pnm/match/200000014631944
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631944
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-10-17-20-30-reims-champagne-basket
+ -cos-vill@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – COS VILLERS LES NANCY
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ COS VILLERS LES NANCY\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue François 
+ Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+François+Arago
+ \,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631967
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631967
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-11-07-20-30-amicale-des-jeunes-de-
+ betheny-r@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ AMICALE DES JEUNES DE BETH
+ ENY vs REIMS CHAMPAGNE BASKET\n\nGYMNASE CLAUDIUS CAILLOT\n📍 Allée des
+  Pâquerettes\, 51450 Bétheny\n🚗 Waze : https://waze.com/ul?q=Allée+d
+ es+Pâquerettes\,+51450+Bétheny\n\n🦺 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions
+ /pnm/match/200000014631982
+LOCATION:GYMNASE CLAUDIUS CAILLOT\, Allée des Pâquerettes\, 51450 Béthen
+ y
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631982
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-11-14-20-30-reims-champagne-basket
+ -eveil-re@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – EVEIL RECY SAINT MARTIN BASKET - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ EVEIL RECY SAINT MARTIN BASKET - 2\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 R
+ ue François Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+Fr
+ ançois+Arago\,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/
+ match/200000014632003
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632003
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-11-21-20-30-as-haut-du-lievre-nanc
+ y-1-reims@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 1 – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ AS HAUT DU LIEVRE  NANCY -
+  1 vs REIMS CHAMPAGNE BASKET\n\nSALLE MAURICE JACQUET\n📍 Rue Sigisbert 
+ Adam\, 54000 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+Sigisbert+Adam\,
+ +54000+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014
+ 632020
+LOCATION:SALLE MAURICE JACQUET\, Rue Sigisbert Adam\, 54000 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632020
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-11-28-20-30-reims-champagne-basket
+ -associat@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – ASSOCIATION CORMONTREUIL CHAMPAGNE 
+ BASKET - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 1\n\nGYMNASE JEAN-JACQUES LAPI
+ QUE\n📍 Rue François Arago\, 51100 Reims\n🚗 Waze : https://waze.com/
+ ul?q=Rue+François+Arago\,+51100+Reims\n\n🦺 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/compet
+ itions/pnm/match/200000014632036
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632036
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-12-06-15-30-espe-basket-chalons-en
+ -champagn@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ ESPE BASKET CHALONS EN CHAMPAGNE – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ESPE BASKET CHALONS EN CHA
+ MPAGNE vs REIMS CHAMPAGNE BASKET\n\nGYMNASE DANIEL CABOT\n📍 Rue René L
+ emoine\, 51000 Châlons-en-Champagne\n🚗 Waze : https://waze.com/ul?q=Ru
+ e+René+Lemoine\,+51000+Châlons-en-Champagne\n\n🦺 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/competitions/pnm/match/200000014632054
+LOCATION:GYMNASE DANIEL CABOT\, Rue René Lemoine\, 51000 Châlons-en-Champ
+ agne
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632054
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-12-12-20-30-reims-champagne-basket
+ -metz-bc-@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – METZ BC - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ METZ BC - 2\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue François Arago\, 51
+ 100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+François+Arago\,+51100+R
+ eims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632072
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632072
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-01-09-20-30-entente-gaillarde-muiz
+ onnaise-1@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ ENTENTE GAILLARDE MUIZONNAISE - 1 – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ENTENTE GAILLARDE MUIZONNA
+ ISE - 1 vs REIMS CHAMPAGNE BASKET\n\nGYMNASE PARC DE LOISIR DU CHAMP\n📍
+  ROUTE DE ROSNAY\, 51140 Muizon\n🚗 Waze : https://waze.com/ul?q=ROUTE+D
+ E+ROSNAY\,+51140+Muizon\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/matc
+ h/200000014632089
+LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, ROUTE DE ROSNAY\, 51140 Muizon
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632089
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-01-16-20-30-etoile-de-charleville-
+ mezieres-@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES - 2 – REIMS CHAMPAGNE BASKE
+ T
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ETOILE DE CHARLEVILLE MEZI
+ ERES - 2 vs REIMS CHAMPAGNE BASKET\n\nSALLE DUBOIS CRANCE\n📍 Rue Dubois
+ -Crancé\, 08000 Charleville-Mézières\n🚗 Waze : https://waze.com/ul?q
+ =Rue+Dubois-Crancé\,+08000+Charleville-Mézières\n\n🦺 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/competitions/pnm/match/200000014632108
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé\, 08000 Charleville-Mézi
+ ères
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632108
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-01-23-20-30-ie-ctc-t-a-a-c-basket-
+ reims-cha@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ IE - CTC T-A-A-C BASKET – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ IE - CTC T-A-A-C BASKET vs
+  REIMS CHAMPAGNE BASKET\n\nCOSEC DES TERRASSES\n📍 Boulevard Jules Guesd
+ e\, 10000 Troyes\n🚗 Waze : https://waze.com/ul?q=Boulevard+Jules+Guesde
+ \,+10000+Troyes\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000
+ 014632129
+LOCATION:COSEC DES TERRASSES\, Boulevard Jules Guesde\, 10000 Troyes
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632129
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-01-30-20-30-reims-champagne-basket
+ -e-l-witr@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ E- L-WITRY LES REIMS BASKET\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue Fran
+ çois Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+François
+ +Arago\,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2
+ 00000014632142
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632142
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-02-06-20-30-cos-villers-les-nancy-
+ reims-cha@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ COS VILLERS LES NANCY – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ COS VILLERS LES NANCY vs R
+ EIMS CHAMPAGNE BASKET\n\nSALLE GILBERT BAUVIN\n📍 Rue Maurice André\, 5
+ 4600 Villers-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+Maurice+And
+ ré\,+54600+Villers-lès-Nancy\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014632165
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André\, 54600 Villers-lès-Nan
+ cy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632165
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-02-13-20-30-reims-champagne-basket
+ -amicale-@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – AMICALE DES JEUNES DE BETHENY
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ AMICALE DES JEUNES DE BETHENY\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue Fr
+ ançois Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+Franço
+ is+Arago\,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match
+ /200000014632180
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632180
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-03-13-20-30-eveil-recy-saint-marti
+ n-basket-@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:✈️ EVEIL RECY SAINT MARTIN BASKET - 2 – REIMS CHAMPAGNE BASKE
+ T
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ EVEIL RECY SAINT MARTIN BA
+ SKET - 2 vs REIMS CHAMPAGNE BASKET\n\nGYMNASE PIERRE ARNOULD\n📍 Rue du 
+ Boulevard\, 51520 Recy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Boulevard
+ \,+51520+Recy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001
+ 4632201
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard\, 51520 Recy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632201
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-03-20-20-30-reims-champagne-basket
+ -as-haut-@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – AS HAUT DU LIEVRE  NANCY - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ AS HAUT DU LIEVRE  NANCY - 1\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue Fra
+ nçois Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+Françoi
+ s+Arago\,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/
+ 200000014632218
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632218
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-04-03-20-30-association-cormontreu
+ il-champa@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 1 – REIMS CHAM
+ PAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASSOCIATION CORMONTREUIL C
+ HAMPAGNE BASKET - 1 vs REIMS CHAMPAGNE BASKET\n\nGYMNASE DE LA PAIX\n📍 
+ Rue de la Paix\, 51350 Cormontreuil\n🚗 Waze : https://waze.com/ul?q=Rue
+ +de+la+Paix\,+51350+Cormontreuil\n\n🦺 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions
+ /pnm/match/200000014632234
+LOCATION:GYMNASE DE LA PAIX\, Rue de la Paix\, 51350 Cormontreuil
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632234
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-04-10-20-30-reims-champagne-basket
+ -espe-bas@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – ESPE BASKET CHALONS EN CHAMPAGNE
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ ESPE BASKET CHALONS EN CHAMPAGNE\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue
+  François Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+Fran
+ çois+Arago\,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/ma
+ tch/200000014632252
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632252
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-04-17-20-30-metz-bc-2-reims-champa
+ gne-baske@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:✈️ METZ BC - 2 – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ METZ BC - 2 vs REIMS CHAMP
+ AGNE BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts\, 57000 Metz\n
+ 🚗 Waze : https://waze.com/ul?q=Rue+des+Remparts\,+57000+Metz\n\n🦺 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ges/competitions/pnm/match/200000014632270
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts\, 57000 Metz
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632270
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-05-08-20-30-reims-champagne-basket
+ -entente-@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – ENTENTE GAILLARDE MUIZONNAISE - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ ENTENTE GAILLARDE MUIZONNAISE - 1\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Ru
+ e François Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+Fra
+ nçois+Arago\,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/m
+ atch/200000014632287
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632287
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-05-15-20-30-reims-champagne-basket
+ -etoile-d@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:🏠 REIMS CHAMPAGNE BASKET – ETOILE DE CHARLEVILLE MEZIERES - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ ETOILE DE CHARLEVILLE MEZIERES - 2\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 R
+ ue François Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+Fr
+ ançois+Arago\,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/
+ match/200000014632306
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632306
+END:VEVENT
+END:VCALENDAR

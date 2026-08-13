@@ -1,0 +1,367 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SLUC NANCY BASKET ASSOCIATION  [RF2 – GES – Poule C]
+X-WR-CALDESC:Matchs de SLUC NANCY BASKET ASSOCIATION – RF2 – GES – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2026-10-04-15-30-sluc-nancy-basket-asso
+ ciation-b@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs BASK FURDENHEIM\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitaine 
+ Guynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Capitaine
+ +Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/matc
+ h/200000014632337
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632337
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2026-10-11-15-30-basket-club-chavelotai
+ s-sluc-na@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ BASKET CLUB CHAVELOTAIS – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ BASKET CLUB CHAVELOTAIS vs
+  SLUC NANCY BASKET ASSOCIATION\n\nSALLE DES SPORTS\n📍 Place de la Répu
+ blique\, 88150 Chavelot\n🚗 Waze : https://waze.com/ul?q=Place+de+la+Ré
+ publique\,+88150+Chavelot\n\n🦺 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/ma
+ tch/200000014632356
+LOCATION:SALLE DES SPORTS\, Place de la République\, 88150 Chavelot
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632356
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2026-11-08-15-30-vendenheim-bc-2-sluc-n
+ ancy-bask@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ VENDENHEIM BC - 2 – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ VENDENHEIM BC - 2 vs SLUC 
+ NANCY BASKET ASSOCIATION\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Goun
+ od\, 67550 Vendenheim\n🚗 Waze : https://waze.com/ul?q=Rue+Charles+Gouno
+ d\,+67550+Vendenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2
+ 00000014632388
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod\, 67550 Vendenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632388
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2026-11-15-15-30-sluc-nancy-basket-asso
+ ciation-s@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs S.I. GRAFFENSTADEN - 3\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Cap
+ itaine Guynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Ca
+ pitaine+Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rf2/match/200000014632409
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632409
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2026-11-22-15-30-asptt-nancy-tomblaine-
+ 2-sluc-na@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE - 2 – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ ASPTT NANCY TOMBLAINE - 2 
+ vs SLUC NANCY BASKET ASSOCIATION\n\nCOSEC 1\n📍 Rue Jean Moulin\, 54510 
+ Tomblaine\n🚗 Waze : https://waze.com/ul?q=Rue+Jean+Moulin\,+54510+Tombl
+ aine\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632426
+LOCATION:COSEC 1\, Rue Jean Moulin\, 54510 Tomblaine
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632426
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2026-11-29-15-30-sluc-nancy-basket-asso
+ ciation-e@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – ENTENTE SPORTIVE THAON BASKE
+ T BALL (E.S. THAON BASKET BALL)
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL)\n\nPALA
+ IS DES SPORTS ANNEXE\n📍 Rue du Capitaine Guynemer\, 54100 Nancy\n🚗 W
+ aze : https://waze.com/ul?q=Rue+du+Capitaine+Guynemer\,+54100+Nancy\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632442
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632442
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2026-12-06-15-30-asa-weyersheim-sluc-na
+ ncy-baske@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ ASA WEYERSHEIM – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ ASA WEYERSHEIM vs SLUC NAN
+ CY BASKET ASSOCIATION\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés\, 67
+ 720 Weyersheim\n🚗 Waze : https://waze.com/ul?q=Rue+des+Prés\,+67720+We
+ yersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000146324
+ 61
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés\, 67720 Weyersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632461
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2026-12-13-15-30-sluc-nancy-basket-asso
+ ciation-c@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – CSE FOLKLING
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs CSE FOLKLING\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitaine Guy
+ nemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Capitaine+Gu
+ ynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2
+ 00000014632479
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632479
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-01-09-18-00-nbc-sarrebourg-sluc-na
+ ncy-baske@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270109T180000
+DTEND;TZID=Europe/Paris:20270109T200000
+SUMMARY:✈️ NBC SARREBOURG – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ NBC SARREBOURG vs SLUC NAN
+ CY BASKET ASSOCIATION\n\nCOSEC\n📍 Rue Pierre de Coubertin\, 57400 Sarre
+ bourg\n🚗 Waze : https://waze.com/ul?q=Rue+Pierre+de+Coubertin\,+57400+S
+ arrebourg\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632
+ 498
+LOCATION:COSEC\, Rue Pierre de Coubertin\, 57400 Sarrebourg
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632498
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-01-17-15-30-sluc-nancy-basket-asso
+ ciation-p@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – PHALSBOURG B.C.
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs PHALSBOURG B.C.\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitaine 
+ Guynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Capitaine
+ +Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/matc
+ h/200000014632516
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632516
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-01-24-15-30-bask-furdenheim-sluc-n
+ ancy-bask@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270124T153000
+DTEND;TZID=Europe/Paris:20270124T173000
+SUMMARY:✈️ BASK FURDENHEIM – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ BASK FURDENHEIM vs SLUC NA
+ NCY BASKET ASSOCIATION\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade\, 6
+ 7117 Furdenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67117+Fu
+ rdenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000146325
+ 35
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade\, 67117 Furdenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632535
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-01-31-15-30-sluc-nancy-basket-asso
+ ciation-b@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs BASKET CLUB CHAVELOTAIS\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Ca
+ pitaine Guynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du+C
+ apitaine+Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rf2/match/200000014632554
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632554
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-02-14-15-30-sluc-nancy-basket-asso
+ ciation-v@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – VENDENHEIM BC - 2
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs VENDENHEIM BC - 2\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitain
+ e Guynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Capitai
+ ne+Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/ma
+ tch/200000014632586
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632586
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-03-13-17-30-s-i-graffenstaden-3-sl
+ uc-nancy-@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270313T173000
+DTEND;TZID=Europe/Paris:20270313T193000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 3 – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ S.I. GRAFFENSTADEN - 3 vs 
+ SLUC NANCY BASKET ASSOCIATION\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste\
+ , 67400 Illkirch-Graffenstaden\n🚗 Waze : https://waze.com/ul?q=Rue+de+l
+ a+Poste\,+67400+Illkirch-Graffenstaden\n\n🦺 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/compet
+ itions/rf2/match/200000014632607
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste\, 67400 Illkirch-Graffenstade
+ n
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632607
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-03-21-15-30-sluc-nancy-basket-asso
+ ciation-a@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – ASPTT NANCY TOMBLAINE - 2
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs ASPTT NANCY TOMBLAINE - 2\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du 
+ Capitaine Guynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du
+ +Capitaine+Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competition
+ s/rf2/match/200000014632624
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632624
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-04-03-20-30-entente-sportive-thaon
+ -basket-b@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) 
+ – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ ENTENTE SPORTIVE THAON BAS
+ KET BALL (E.S. THAON BASKET BALL) vs SLUC NANCY BASKET ASSOCIATION\n\nGYMN
+ ASE DE LA POSTE\n📍 Rue Thiers\, 88150 Thaon-les-Vosges\n🚗 Waze : htt
+ ps://waze.com/ul?q=Rue+Thiers\,+88150+Thaon-les-Vosges\n\n🦺 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/competitions/rf2/match/200000014632640
+LOCATION:GYMNASE DE LA POSTE\, Rue Thiers\, 88150 Thaon-les-Vosges
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632640
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-04-11-15-30-sluc-nancy-basket-asso
+ ciation-a@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – ASA WEYERSHEIM
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs ASA WEYERSHEIM\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitaine G
+ uynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Capitaine+
+ Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match
+ /200000014632659
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632659
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-04-18-15-30-cse-folkling-sluc-nanc
+ y-basket-@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:✈️ CSE FOLKLING – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ CSE FOLKLING vs SLUC NANCY
+  BASKET ASSOCIATION\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944\, 5
+ 7600 Folkling\n🚗 Waze : https://waze.com/ul?q=Rue+du+6+Décembre+1944\,
+ +57600+Folkling\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000
+ 014632677
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944\, 57600 Folkling
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632677
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-05-09-15-30-sluc-nancy-basket-asso
+ ciation-n@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION – NBC SARREBOURG
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs NBC SARREBOURG\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitaine G
+ uynemer\, 54100 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Capitaine+
+ Guynemer\,+54100+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match
+ /200000014632696
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632696
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897418-200000003054933-2027-05-16-15-30-phalsbourg-b-c-sluc-na
+ ncy-baske@ffbb-agenda
+DTSTAMP:20260813T153641Z
+DTSTART;TZID=Europe/Paris:20270516T153000
+DTEND;TZID=Europe/Paris:20270516T173000
+SUMMARY:✈️ PHALSBOURG B.C. – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES – Poule C\n⚔️ PHALSBOURG B.C. vs SLUC NA
+ NCY BASKET ASSOCIATION\n\nSALLE VAUBAN\n📍 Allée des Sports\, 57370 Pha
+ lsbourg\n🚗 Waze : https://waze.com/ul?q=Allée+des+Sports\,+57370+Phals
+ bourg\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632714
+LOCATION:SALLE VAUBAN\, Allée des Sports\, 57370 Phalsbourg
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632714
+END:VEVENT
+END:VCALENDAR

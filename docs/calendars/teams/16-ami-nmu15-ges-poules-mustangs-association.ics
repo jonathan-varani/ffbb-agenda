@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MUSTANGS ASSOCIATION  [16-AMI-NMU15 – GES – poules]
+X-WR-CALDESC:Matchs de MUSTANGS ASSOCIATION – 16-AMI-NMU15 – GES – poules
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:https-competitions-ffbb-com-ligues-ges-competitions-16-ami-nmu15-phase-
+ 200000002@ffbb-agenda
+DTSTAMP:20260813T172012Z
+DTSTART;TZID=Europe/Paris:20260823T100000
+DTEND;TZID=Europe/Paris:20260823T120000
+SUMMARY:✈️ S.I. GRAFFENSTADEN – MUSTANGS ASSOCIATION
+DESCRIPTION:🏀 16-AMI-NMU15 – GES – poules\n⚔️ S.I. GRAFFENSTADEN
+  vs MUSTANGS ASSOCIATION\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste\, 674
+ 00 Illkirch-Graffenstaden\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Pos
+ te\,+67400+Illkirch-Graffenstaden\n\n🦺 Arbitres : Quentin ROCHEFEUILLE\
+ , Clement RIVAT\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/competitions/16-ami-nmu15/match/200000014638083
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste\, 67400 Illkirch-Graffenstade
+ n
+URL:https://competitions.ffbb.com/ligues/ges/competitions/16-ami-nmu15/matc
+ h/200000014638083
+END:VEVENT
+BEGIN:VEVENT
+UID:https-competitions-ffbb-com-ligues-ges-competitions-16-ami-nmu15-phase-
+ 200000002@ffbb-agenda
+DTSTAMP:20260813T172012Z
+DTSTART;TZID=Europe/Paris:20260830T100000
+DTEND;TZID=Europe/Paris:20260830T120000
+SUMMARY:✈️ S.I. GRAFFENSTADEN – MUSTANGS ASSOCIATION
+DESCRIPTION:🏀 16-AMI-NMU15 – GES – poules\n⚔️ S.I. GRAFFENSTADEN
+  vs MUSTANGS ASSOCIATION\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste\, 674
+ 00 Illkirch-Graffenstaden\n🚗 Waze : https://waze.com/ul?q=Rue+de+la+Pos
+ te\,+67400+Illkirch-Graffenstaden\n\n🦺 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competition
+ s/16-ami-nmu15/match/200000014547594
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste\, 67400 Illkirch-Graffenstade
+ n
+URL:https://competitions.ffbb.com/ligues/ges/competitions/16-ami-nmu15/matc
+ h/200000014547594
+END:VEVENT
+BEGIN:VEVENT
+UID:https-competitions-ffbb-com-ligues-ges-competitions-16-ami-nmu15-phase-
+ 200000002@ffbb-agenda
+DTSTAMP:20260813T172012Z
+DTSTART;TZID=Europe/Paris:20260906T100000
+DTEND;TZID=Europe/Paris:20260906T120000
+SUMMARY:🏠 MUSTANGS ASSOCIATION – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 16-AMI-NMU15 – GES – poules\n⚔️ MUSTANGS ASSOCIATI
+ ON vs ASA GRIES / OBERHOFFEN\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim
+ \, 68120 Pfastatt\n🚗 Waze : https://waze.com/ul?q=Rue+de+Kingersheim\,+
+ 68120+Pfastatt\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/16-ami-nmu15/matc
+ h/200000014547593
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim\, 68120 Pfastatt
+URL:https://competitions.ffbb.com/ligues/ges/competitions/16-ami-nmu15/matc
+ h/200000014547593
+END:VEVENT
+END:VCALENDAR

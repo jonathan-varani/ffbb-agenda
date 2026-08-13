@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – E- L-WITRY LES REIMS BASKET  [PNM – GES – Poule A]
+X-WR-CALDESC:Matchs de E- L-WITRY LES REIMS BASKET – PNM – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-10-03-20-30-association-cormontreu
+ il-champa@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:✈️ ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 1 – E- L-WITRY
+  LES REIMS BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASSOCIATION CORMONTREUIL C
+ HAMPAGNE BASKET - 1 vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE DE LA PAIX\n
+ 📍 Rue de la Paix\, 51350 Cormontreuil\n🚗 Waze : https://waze.com/ul?
+ q=Rue+de+la+Paix\,+51350+Cormontreuil\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competi
+ tions/pnm/match/200000014631926
+LOCATION:GYMNASE DE LA PAIX\, Rue de la Paix\, 51350 Cormontreuil
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631926
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-10-10-20-30-e-l-witry-les-reims-ba
+ sket-reim@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs REIMS CHAMPAGNE BASKET\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue d
+ e Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.com/ul?q=Rue
+ +de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competi
+ tions/pnm/match/200000014631944
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631944
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-10-17-20-30-metz-bc-2-e-l-witry-le
+ s-reims-b@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:✈️ METZ BC - 2 – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ METZ BC - 2 vs E- L-WITRY 
+ LES REIMS BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts\, 57000 Me
+ tz\n🚗 Waze : https://waze.com/ul?q=Rue+des+Remparts\,+57000+Metz\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631966
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts\, 57000 Metz
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631966
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-11-07-20-30-e-l-witry-les-reims-ba
+ sket-etoi@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – ETOILE DE CHARLEVILLE MEZIERES
+  - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs ETOILE DE CHARLEVILLE MEZIERES - 2\n\nGYMNASE JEAN BOUCTON SALLE (n1)
+ \n📍 Rue de Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.
+ com/ul?q=Rue+de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/competitions/pnm/match/200000014631980
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631980
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-11-15-15-30-espe-basket-chalons-en
+ -champagn@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ ESPE BASKET CHALONS EN CHAMPAGNE – E- L-WITRY LES REIMS BA
+ SKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ESPE BASKET CHALONS EN CHA
+ MPAGNE vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE DANIEL CABOT\n📍 Rue Re
+ né Lemoine\, 51000 Châlons-en-Champagne\n🚗 Waze : https://waze.com/ul
+ ?q=Rue+René+Lemoine\,+51000+Châlons-en-Champagne\n\n🦺 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/competitions/pnm/match/200000014632000
+LOCATION:GYMNASE DANIEL CABOT\, Rue René Lemoine\, 51000 Châlons-en-Champ
+ agne
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632000
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-11-21-20-30-e-l-witry-les-reims-ba
+ sket-ente@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – ENTENTE GAILLARDE MUIZONNAISE 
+ - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs ENTENTE GAILLARDE MUIZONNAISE - 1\n\nGYMNASE JEAN BOUCTON SALLE (n1)\
+ n📍 Rue de Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.c
+ om/ul?q=Rue+de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/competitions/pnm/match/200000014632016
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632016
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-11-28-20-30-ie-ctc-t-a-a-c-basket-
+ e-l-witry@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:✈️ IE - CTC T-A-A-C BASKET – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ IE - CTC T-A-A-C BASKET vs
+  E- L-WITRY LES REIMS BASKET\n\nCOSEC DES TERRASSES\n📍 Boulevard Jules 
+ Guesde\, 10000 Troyes\n🚗 Waze : https://waze.com/ul?q=Boulevard+Jules+G
+ uesde\,+10000+Troyes\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2
+ 00000014632039
+LOCATION:COSEC DES TERRASSES\, Boulevard Jules Guesde\, 10000 Troyes
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632039
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-12-05-20-30-e-l-witry-les-reims-ba
+ sket-as-h@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – AS HAUT DU LIEVRE  NANCY - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs AS HAUT DU LIEVRE  NANCY - 1\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍
+  Rue de Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.com/ul
+ ?q=Rue+de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ ompetitions/pnm/match/200000014632055
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632055
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2026-12-12-20-30-eveil-recy-saint-marti
+ n-basket-@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:✈️ EVEIL RECY SAINT MARTIN BASKET - 2 – E- L-WITRY LES REIMS 
+ BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ EVEIL RECY SAINT MARTIN BA
+ SKET - 2 vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE PIERRE ARNOULD\n📍 Ru
+ e du Boulevard\, 51520 Recy\n🚗 Waze : https://waze.com/ul?q=Rue+du+Boul
+ evard\,+51520+Recy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200
+ 000014632074
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard\, 51520 Recy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632074
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-01-09-20-30-e-l-witry-les-reims-ba
+ sket-amic@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – AMICALE DES JEUNES DE BETHENY
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs AMICALE DES JEUNES DE BETHENY\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n
+ 📍 Rue de Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.co
+ m/ul?q=Rue+de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/competitions/pnm/match/200000014632091
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632091
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-01-16-20-30-cos-villers-les-nancy-
+ e-l-witry@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:✈️ COS VILLERS LES NANCY – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ COS VILLERS LES NANCY vs E
+ - L-WITRY LES REIMS BASKET\n\nSALLE GILBERT BAUVIN\n📍 Rue Maurice Andr
+ é\, 54600 Villers-lès-Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+Mauri
+ ce+André\,+54600+Villers-lès-Nancy\n\n🦺 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competit
+ ions/pnm/match/200000014632109
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André\, 54600 Villers-lès-Nan
+ cy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632109
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-01-23-20-30-e-l-witry-les-reims-ba
+ sket-asso@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – ASSOCIATION CORMONTREUIL CHAMP
+ AGNE BASKET - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 1\n\nGYMNASE JEAN BOUCTON
+  SALLE (n1)\n📍 Rue de Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : ht
+ tps://waze.com/ul?q=Rue+de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/competitions/pnm/match/200000014632124
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632124
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-01-30-20-30-reims-champagne-basket
+ -e-l-witr@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ REIMS CHAMPAGNE BASKET – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ E- L-WITRY LES REIMS BASKET\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue Fran
+ çois Arago\, 51100 Reims\n🚗 Waze : https://waze.com/ul?q=Rue+François
+ +Arago\,+51100+Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2
+ 00000014632142
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago\, 51100 Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632142
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-02-06-20-30-e-l-witry-les-reims-ba
+ sket-metz@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – METZ BC - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs METZ BC - 2\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue de Bétheny\
+ , 51420 Witry-lès-Reims\n🚗 Waze : https://waze.com/ul?q=Rue+de+Béthen
+ y\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/m
+ atch/200000014632164
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632164
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-02-13-20-30-etoile-de-charleville-
+ mezieres-@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES - 2 – E- L-WITRY LES REIMS 
+ BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ETOILE DE CHARLEVILLE MEZI
+ ERES - 2 vs E- L-WITRY LES REIMS BASKET\n\nSALLE DUBOIS CRANCE\n📍 Rue D
+ ubois-Crancé\, 08000 Charleville-Mézières\n🚗 Waze : https://waze.com
+ /ul?q=Rue+Dubois-Crancé\,+08000+Charleville-Mézières\n\n🦺 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ ligues/ges/competitions/pnm/match/200000014632178
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé\, 08000 Charleville-Mézi
+ ères
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632178
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-03-13-20-30-e-l-witry-les-reims-ba
+ sket-espe@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – ESPE BASKET CHALONS EN CHAMPAG
+ NE
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs ESPE BASKET CHALONS EN CHAMPAGNE\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n
+ 📍 Rue de Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.co
+ m/ul?q=Rue+de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/competitions/pnm/match/200000014632198
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632198
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-03-20-20-30-entente-gaillarde-muiz
+ onnaise-1@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ ENTENTE GAILLARDE MUIZONNAISE - 1 – E- L-WITRY LES REIMS B
+ ASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ENTENTE GAILLARDE MUIZONNA
+ ISE - 1 vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE PARC DE LOISIR DU CHAMP\
+ n📍 ROUTE DE ROSNAY\, 51140 Muizon\n🚗 Waze : https://waze.com/ul?q=RO
+ UTE+DE+ROSNAY\,+51140+Muizon\n\n🦺 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014632214
+LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, ROUTE DE ROSNAY\, 51140 Muizon
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632214
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-04-03-20-30-e-l-witry-les-reims-ba
+ sket-ie-c@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – IE - CTC T-A-A-C BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs IE - CTC T-A-A-C BASKET\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue 
+ de Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.com/ul?q=Ru
+ e+de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/compet
+ itions/pnm/match/200000014632237
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632237
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-04-10-20-30-as-haut-du-lievre-nanc
+ y-1-e-l-w@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 1 – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ AS HAUT DU LIEVRE  NANCY -
+  1 vs E- L-WITRY LES REIMS BASKET\n\nSALLE MAURICE JACQUET\n📍 Rue Sigis
+ bert Adam\, 54000 Nancy\n🚗 Waze : https://waze.com/ul?q=Rue+Sigisbert+A
+ dam\,+54000+Nancy\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000
+ 00014632253
+LOCATION:SALLE MAURICE JACQUET\, Rue Sigisbert Adam\, 54000 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632253
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-04-17-20-30-e-l-witry-les-reims-ba
+ sket-evei@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – EVEIL RECY SAINT MARTIN BASKET
+  - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs EVEIL RECY SAINT MARTIN BASKET - 2\n\nGYMNASE JEAN BOUCTON SALLE (n1)
+ \n📍 Rue de Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.
+ com/ul?q=Rue+de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/competitions/pnm/match/200000014632272
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632272
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-05-08-20-30-amicale-des-jeunes-de-
+ betheny-e@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY – E- L-WITRY LES REIMS BASKE
+ T
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ AMICALE DES JEUNES DE BETH
+ ENY vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE CLAUDIUS CAILLOT\n📍 Allé
+ e des Pâquerettes\, 51450 Bétheny\n🚗 Waze : https://waze.com/ul?q=All
+ ée+des+Pâquerettes\,+51450+Bétheny\n\n🦺 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competi
+ tions/pnm/match/200000014632289
+LOCATION:GYMNASE CLAUDIUS CAILLOT\, Allée des Pâquerettes\, 51450 Béthen
+ y
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632289
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897412-200000003054918-2027-05-15-20-30-e-l-witry-les-reims-ba
+ sket-cos-@ffbb-agenda
+DTSTAMP:20260813T155248Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – COS VILLERS LES NANCY
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs COS VILLERS LES NANCY\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue de
+  Bétheny\, 51420 Witry-lès-Reims\n🚗 Waze : https://waze.com/ul?q=Rue+
+ de+Bétheny\,+51420+Witry-lès-Reims\n\n🦺 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competit
+ ions/pnm/match/200000014632307
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny\, 51420 Witry-l
+ ès-Reims
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632307
+END:VEVENT
+END:VCALENDAR

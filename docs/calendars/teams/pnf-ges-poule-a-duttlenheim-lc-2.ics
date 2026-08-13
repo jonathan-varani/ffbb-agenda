@@ -1,0 +1,291 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DUTTLENHEIM LC - 2  [PNF – GES – Poule A]
+X-WR-CALDESC:Matchs de DUTTLENHEIM LC - 2 – PNF – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-10-03-18-30-schaeffersheim-a-s-l-c
+ -duttlenh@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261003T183000
+DTEND;TZID=Europe/Paris:20261003T203000
+SUMMARY:✈️ SCHAEFFERSHEIM A.S.L.C. – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ SCHAEFFERSHEIM A.S.L.C. vs
+  DUTTLENHEIM LC - 2\n\nSALLE EUGENE MARTZ\n📍 Rue Belle Vue\, 67150 Scha
+ effersheim\n🚗 Waze : https://waze.com/ul?q=Rue+Belle+Vue\,+67150+Schaef
+ fersheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000146317
+ 50
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue\, 67150 Schaeffersheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631750
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-10-11-17-30-duttlenheim-lc-2-as-ho
+ rbourg-wi@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261011T173000
+DTEND;TZID=Europe/Paris:20261011T193000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs AS H
+ ORBOURG-WIHR - 1\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 67120 Duttle
+ nheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+Duttlenheim\
+ n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631756
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631756
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-11-08-15-30-asptt-nancy-tomblaine-
+ 1-duttlen@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE - 1 – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ ASPTT NANCY TOMBLAINE - 1 
+ vs DUTTLENHEIM LC - 2\n\nCOSEC 1\n📍 Rue Jean Moulin\, 54510 Tomblaine\n
+ 🚗 Waze : https://waze.com/ul?q=Rue+Jean+Moulin\,+54510+Tomblaine\n\n
+ 🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631768
+LOCATION:COSEC 1\, Rue Jean Moulin\, 54510 Tomblaine
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631768
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-11-15-17-30-duttlenheim-lc-2-baske
+ t-club-ru@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261115T173000
+DTEND;TZID=Europe/Paris:20261115T193000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – BASKET CLUB RUMERSHEIM
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs BASK
+ ET CLUB RUMERSHEIM\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 67120 Dutt
+ lenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+Duttlenhei
+ m\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631778
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631778
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-11-22-16-00-as-saint-brice-courcel
+ les-duttl@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261122T160000
+DTEND;TZID=Europe/Paris:20261122T180000
+SUMMARY:✈️ AS SAINT BRICE COURCELLES – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS SAINT BRICE COURCELLES 
+ vs DUTTLENHEIM LC - 2\n\nGYMNASE SALVADOR ALLENDE\n📍 Rue de Luzarches\,
+  51370 Saint-Brice-Courcelles\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lu
+ zarches\,+51370+Saint-Brice-Courcelles\n\n🦺 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/compet
+ itions/pnf/match/200000014631786
+LOCATION:GYMNASE SALVADOR ALLENDE\, Rue de Luzarches\, 51370 Saint-Brice-Co
+ urcelles
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631786
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-12-06-17-30-duttlenheim-lc-2-berrw
+ iller-sta@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261206T173000
+DTEND;TZID=Europe/Paris:20261206T193000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs BERR
+ WILLER/STAFFELFELDEN BC - 2\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 6
+ 7120 Duttlenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+D
+ uttlenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20000001463
+ 1799
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631799
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2026-12-13-14-00-as-haut-du-lievre-nanc
+ y-duttlen@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20261213T140000
+DTEND;TZID=Europe/Paris:20261213T160000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HAUT DU LIEVRE  NANCY v
+ s DUTTLENHEIM LC - 2\n\nGYMNASE BUFFON\n📍 Rue Dominique Louis\, 54100 N
+ ancy\n🚗 Waze : https://waze.com/ul?q=Rue+Dominique+Louis\,+54100+Nancy\
+ n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631808
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis\, 54100 Nancy
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631808
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-01-17-15-30-asp-ste-marie-aux-chen
+ es-1-dutt@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:✈️ ASP STE MARIE AUX CHENES - 1 – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ ASP STE MARIE AUX CHENES -
+  1 vs DUTTLENHEIM LC - 2\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot\, 57255 
+ Sainte-Marie-aux-Chênes\n🚗 Waze : https://waze.com/ul?q=Rue+Berthelot\
+ ,+57255+Sainte-Marie-aux-Chênes\n\n🦺 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions
+ /pnf/match/200000014631830
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot\, 57255 Sainte-Marie-aux-Chênes
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631830
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-01-31-17-30-duttlenheim-lc-2-schae
+ ffersheim@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270131T173000
+DTEND;TZID=Europe/Paris:20270131T193000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs SCHA
+ EFFERSHEIM A.S.L.C.\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 67120 Dut
+ tlenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+Duttlenhe
+ im\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631840
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631840
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-02-07-17-30-as-horbourg-wihr-1-dut
+ tlenheim-@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270207T173000
+DTEND;TZID=Europe/Paris:20270207T193000
+SUMMARY:✈️ AS HORBOURG-WIHR - 1 – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ AS HORBOURG-WIHR - 1 vs DU
+ TTLENHEIM LC - 2\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine\, 681
+ 80 Horbourg-Wihr\n🚗 Waze : https://waze.com/ul?q=Rue+de+Lorraine\,+6818
+ 0+Horbourg-Wihr\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000
+ 014631846
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine\, 68180 Horbourg-Wihr
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631846
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-02-14-17-30-duttlenheim-lc-2-asptt
+ -nancy-to@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270214T173000
+DTEND;TZID=Europe/Paris:20270214T193000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – ASPTT NANCY TOMBLAINE - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs ASPT
+ T NANCY TOMBLAINE - 1\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 67120 D
+ uttlenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+Duttlen
+ heim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631858
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631858
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-03-14-15-30-basket-club-rumersheim
+ -duttlenh@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ BASKET CLUB RUMERSHEIM – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ BASKET CLUB RUMERSHEIM vs 
+ DUTTLENHEIM LC - 2\n\nSALLE DES SPORTS\n📍 Route Nationale\, 68740 Rumer
+ sheim-le-Haut\n🚗 Waze : https://waze.com/ul?q=Route+Nationale\,+68740+R
+ umersheim-le-Haut\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000
+ 00014631868
+LOCATION:SALLE DES SPORTS\, Route Nationale\, 68740 Rumersheim-le-Haut
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631868
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-03-21-17-30-duttlenheim-lc-2-as-sa
+ int-brice@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270321T173000
+DTEND;TZID=Europe/Paris:20270321T193000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – AS SAINT BRICE COURCELLES
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs AS S
+ AINT BRICE COURCELLES\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 67120 D
+ uttlenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+Duttlen
+ heim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631876
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631876
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-04-03-20-00-berrwiller-staffelfeld
+ en-bc-2-d@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 2 – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ BERRWILLER/STAFFELFELDEN B
+ C - 2 vs DUTTLENHEIM LC - 2\n\nSALLE DES SPORTS\n📍 Rue de Hartmannswill
+ er\, 68500 Berrwiller\n🚗 Waze : https://waze.com/ul?q=Rue+de+Hartmannsw
+ iller\,+68500+Berrwiller\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnf/mat
+ ch/200000014631889
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller\, 68500 Berrwiller
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631889
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-04-10-17-30-duttlenheim-lc-2-as-ha
+ ut-du-lie@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270410T173000
+DTEND;TZID=Europe/Paris:20270410T193000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs AS H
+ AUT DU LIEVRE  NANCY\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 67120 Du
+ ttlenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+Duttlenh
+ eim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631898
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631898
+END:VEVENT
+BEGIN:VEVENT
+UID:200000002897415-200000003054924-2027-05-16-17-30-duttlenheim-lc-2-asp-s
+ te-marie-@ffbb-agenda
+DTSTAMP:20260813T144007Z
+DTSTART;TZID=Europe/Paris:20270516T173000
+DTEND;TZID=Europe/Paris:20270516T193000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – ASP STE MARIE AUX CHENES - 1
+DESCRIPTION:🏀 PNF – GES – Poule A\n⚔️ DUTTLENHEIM LC - 2 vs ASP 
+ STE MARIE AUX CHENES - 1\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade\, 6712
+ 0 Duttlenheim\n🚗 Waze : https://waze.com/ul?q=Rue+du+Stade\,+67120+Dutt
+ lenheim\n\n🦺 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/pnf/match/20000001463192
+ 0
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade\, 67120 Duttlenheim
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631920
+END:VEVENT
+END:VCALENDAR

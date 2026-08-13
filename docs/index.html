@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#1B2A4A">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>Agendas FFBB</title>
+  <style>
+    :root {
+      --orange: #E84E0F;
+      --navy:   #1B2A4A;
+      --light:  #F5F6FA;
+      --gray:   #6B7280;
+      --border: #E5E7EB;
+      --radius: 12px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--light);
+      color: var(--navy);
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--navy);
+      color: #fff;
+      padding: 16px 20px env(safe-area-inset-top, 0);
+      padding-top: calc(16px + env(safe-area-inset-top, 0));
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .header-logo { display: flex; align-items: center; gap: 12px; }
+    .logo-ball { font-size: 1.8rem; }
+    header h1 { font-size: 1.15rem; font-weight: 700; }
+    header p  { font-size: .75rem; opacity: .65; margin-top: 2px; }
+
+    /* ── Barre recherche ── */
+    .search-bar {
+      padding: 12px 16px;
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 62px;
+      z-index: 90;
+    }
+    .search-bar input {
+      width: 100%;
+      padding: 10px 14px;
+      border: 1.5px solid var(--border);
+      border-radius: 24px;
+      font-size: .95rem;
+      outline: none;
+      background: var(--light);
+      color: var(--navy);
+    }
+    .search-bar input:focus { border-color: var(--orange); }
+
+    /* ── Tabs région ── */
+    .region-tabs {
+      display: flex;
+      gap: 8px;
+      padding: 10px 16px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 116px;
+      z-index: 80;
+    }
+    .region-tabs::-webkit-scrollbar { display: none; }
+    .region-tab {
+      flex-shrink: 0;
+      padding: 5px 14px;
+      border-radius: 20px;
+      border: 1.5px solid var(--border);
+      background: #fff;
+      font-size: .82rem;
+      font-weight: 600;
+      color: var(--gray);
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .region-tab.active {
+      background: var(--navy);
+      color: #fff;
+      border-color: var(--navy);
+    }
+
+    /* ── Contenu ── */
+    main { padding: 12px 16px 80px; }
+
+    .champ-block { margin-bottom: 20px; }
+    .champ-title {
+      font-size: .72rem;
+      font-weight: 700;
+      color: var(--orange);
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      margin-bottom: 8px;
+    }
+
+    .poule-block {
+      background: #fff;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      overflow: hidden;
+      margin-bottom: 10px;
+    }
+    .poule-header {
+      background: var(--light);
+      padding: 8px 14px;
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--navy);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .team-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+      gap: 8px;
+    }
+    .team-row:last-child { border-bottom: none; }
+    .team-name {
+      font-size: .88rem;
+      font-weight: 500;
+      flex: 1;
+      line-height: 1.3;
+    }
+    .btn-subscribe {
+      flex-shrink: 0;
+      background: var(--orange);
+      color: #fff;
+      border: none;
+      border-radius: 20px;
+      padding: 7px 14px;
+      font-size: .8rem;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .btn-subscribe:active { opacity: .8; }
+
+    /* ── Modale ── */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,.55);
+      z-index: 200;
+      align-items: flex-end;
+      justify-content: center;
+    }
+    .modal-overlay.open { display: flex; }
+
+    .modal-sheet {
+      background: #fff;
+      border-radius: 20px 20px 0 0;
+      padding: 24px 20px calc(24px + env(safe-area-inset-bottom, 0));
+      width: 100%;
+      max-width: 480px;
+      animation: slideUp .22s ease;
+    }
+    @keyframes slideUp {
+      from { transform: translateY(100%); }
+      to   { transform: translateY(0);    }
+    }
+
+    .modal-handle {
+      width: 40px; height: 4px;
+      background: var(--border);
+      border-radius: 2px;
+      margin: 0 auto 18px;
+    }
+    .modal-team {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--navy);
+      margin-bottom: 4px;
+      text-align: center;
+    }
+    .modal-subtitle {
+      font-size: .8rem;
+      color: var(--gray);
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .modal-btn {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 16px;
+      border-radius: var(--radius);
+      text-decoration: none;
+      font-size: .92rem;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 10px;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .modal-btn .icon { font-size: 1.3rem; }
+    .modal-btn-primary  { background: var(--orange); }
+    .modal-btn-secondary { background: var(--navy); }
+    .modal-btn-tertiary {
+      background: none;
+      border: 1.5px solid var(--border);
+      color: var(--navy);
+    }
+
+    .modal-close {
+      width: 100%;
+      margin-top: 6px;
+      padding: 13px;
+      border: none;
+      background: none;
+      color: var(--gray);
+      font-size: .9rem;
+      cursor: pointer;
+    }
+
+    /* ── États vides / loading ── */
+    .state-msg {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--gray);
+    }
+    .state-msg .icon { font-size: 2.5rem; margin-bottom: 12px; }
+    .state-msg p { font-size: .9rem; }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: .72rem;
+      color: var(--gray);
+      border-top: 1px solid var(--border);
+    }
+    footer a { color: var(--orange); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-logo">
+    <span class="logo-ball">🏀</span>
+    <div>
+      <h1>Agendas FFBB</h1>
+      <p>Abonnez-vous au calendrier de votre équipe</p>
+    </div>
+  </div>
+</header>
+
+<div class="search-bar">
+  <input type="search" id="search" placeholder="🔍  Rechercher une équipe…" autocomplete="off" autocorrect="off">
+</div>
+
+<div class="region-tabs" id="region-tabs"></div>
+
+<main id="content">
+  <div class="state-msg">
+    <div class="icon">⏳</div>
+    <p>Chargement des calendriers…</p>
+  </div>
+</main>
+
+<footer>
+  Données issues de <a href="https://competitions.ffbb.com" target="_blank">competitions.ffbb.com</a><br>
+  Mise à jour automatique · Projet non officiel
+</footer>
+
+<!-- Modale abonnement -->
+<div class="modal-overlay" id="modal" onclick="handleOverlayClick(event)">
+  <div class="modal-sheet">
+    <div class="modal-handle"></div>
+    <div class="modal-team"   id="modal-team"></div>
+    <div class="modal-subtitle" id="modal-subtitle"></div>
+
+    <a id="modal-primary" class="modal-btn modal-btn-primary" href="#">
+      <span class="icon" id="modal-primary-icon"></span>
+      <span id="modal-primary-label"></span>
+    </a>
+    <a id="modal-secondary" class="modal-btn modal-btn-secondary" href="#" target="_blank">
+      <span class="icon">🌐</span>
+      <span>Ouvrir dans Google Agenda</span>
+    </a>
+    <a id="modal-download" class="modal-btn modal-btn-tertiary" href="#" download>
+      <span class="icon">📁</span>
+      <span>Télécharger le fichier .ics</span>
+    </a>
+    <button class="modal-close" onclick="closeModal()">Annuler</button>
+  </div>
+</div>
+
+<script>
+// ── Détection plateforme ─────────────────────────────────────────────────────
+const isIOS     = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+const isAndroid = /Android/.test(navigator.userAgent);
+
+// ── Base URL (pointe vers le dossier qui contient index.html) ────────────────
+const BASE = (() => {
+  const href = window.location.href.split("?")[0];
+  return href.endsWith("/") ? href.slice(0, -1) : href.replace(/\/[^\/]+$/, "");
+})();
+
+function icsUrl(fichier)    { return `${BASE}/${fichier}`; }
+function webcalUrl(fichier) { return icsUrl(fichier).replace(/^https?:\/\//, "webcal://"); }
+function gcalUrl(fichier)   { return `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(icsUrl(fichier))}`; }
+
+// ── Données ──────────────────────────────────────────────────────────────────
+let DATA = null;
+let currentRegion = "";
+let currentSearch = "";
+
+async function loadData() {
+  try {
+    const res = await fetch("./calendars.json");
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    DATA = await res.json();
+    init();
+  } catch(e) {
+    document.getElementById("content").innerHTML = `
+      <div class="state-msg">
+        <div class="icon">❌</div>
+        <p>Impossible de charger les calendriers.<br>${e.message}</p>
+      </div>`;
+  }
+}
+
+// ── Arbre région → slug → poule ──────────────────────────────────────────────
+function buildTree() {
+  const tree = {};
+  for (const eq of DATA.equipes) {
+    const region = eq.region || "FR";
+    const slug   = eq.comp_nom.split(" – ")[0] || eq.comp_slug;
+    const poule  = eq.poule || "";
+    if (!tree[region]) tree[region] = {};
+    if (!tree[region][slug]) tree[region][slug] = {};
+    if (!tree[region][slug][poule]) tree[region][slug][poule] = [];
+    tree[region][slug][poule].push(eq);
+  }
+  return tree;
+}
+
+// ── Init ─────────────────────────────────────────────────────────────────────
+function init() {
+  const tree    = buildTree();
+  const regions = Object.keys(tree).sort();
+
+  // Tabs région
+  const tabsEl = document.getElementById("region-tabs");
+  tabsEl.innerHTML = "";
+  regions.forEach(r => {
+    const btn = document.createElement("button");
+    btn.className      = "region-tab";
+    btn.dataset.region = r;
+    btn.textContent    = r;
+    btn.onclick        = () => setRegion(r);
+    tabsEl.appendChild(btn);
+  });
+
+  // Auto-select première région
+  if (regions.length) setRegion(regions[0]);
+  else render(tree);
+}
+
+function setRegion(r) {
+  currentRegion = r;
+  document.querySelectorAll(".region-tab").forEach(b =>
+    b.classList.toggle("active", b.dataset.region === r)
+  );
+  render(buildTree());
+}
+
+document.getElementById("search").addEventListener("input", e => {
+  currentSearch = e.target.value.trim().toLowerCase();
+  render(buildTree());
+});
+
+// ── Rendu ────────────────────────────────────────────────────────────────────
+function esc(s) { return (s || "").replace(/"/g, "&quot;"); }
+
+function render(tree) {
+  if (!tree) return;
+  const content = document.getElementById("content");
+  let html  = "";
+  let total = 0;
+
+  const regionsToShow = currentRegion ? [currentRegion] : Object.keys(tree).sort();
+
+  regionsToShow.forEach(region => {
+    const champs = tree[region];
+    if (!champs) return;
+
+    Object.entries(champs).sort().forEach(([slug, poules]) => {
+      let champHtml = "";
+
+      Object.entries(poules).sort().forEach(([poule, teamList]) => {
+        const filtered = teamList.filter(t =>
+          !currentSearch || t.nom.toLowerCase().includes(currentSearch)
+        );
+        if (!filtered.length) return;
+        total += filtered.length;
+
+        const pouleLabel = poule
+          ? `${slug} – ${region} – ${poule}`
+          : `${slug} – ${region}`;
+
+        const rows = filtered.map(t => `
+          <div class="team-row">
+            <span class="team-name">${t.nom}</span>
+            <button class="btn-subscribe"
+              data-nom="${esc(t.nom)}"
+              data-subtitle="${esc(pouleLabel)}"
+              data-fichier="${esc(t.fichier)}"
+              onclick="openModal(this)">
+              📅 S'abonner
+            </button>
+          </div>`).join("");
+
+        champHtml += `<div class="poule-block">
+          <div class="poule-header">${pouleLabel}</div>
+          ${rows}
+        </div>`;
+      });
+
+      if (champHtml) {
+        html += `<div class="champ-block">
+          <div class="champ-title">${currentRegion ? slug : slug + " – " + region}</div>
+          ${champHtml}
+        </div>`;
+      }
+    });
+  });
+
+  if (!total) {
+    html = `<div class="state-msg">
+      <div class="icon">🔍</div>
+      <p>Aucune équipe trouvée</p>
+    </div>`;
+  }
+
+  content.innerHTML = html;
+}
+
+// ── Modale ───────────────────────────────────────────────────────────────────
+function openModal(btn) {
+  const nom      = btn.dataset.nom;
+  const subtitle = btn.dataset.subtitle;
+  const fichier  = btn.dataset.fichier;
+
+  const urlIcs    = icsUrl(fichier);
+  const urlWebcal = webcalUrl(fichier);
+  const urlGcal   = gcalUrl(fichier);
+
+  document.getElementById("modal-team").textContent     = nom;
+  document.getElementById("modal-subtitle").textContent = subtitle;
+  document.getElementById("modal-download").href        = urlIcs;
+  document.getElementById("modal-secondary").href       = urlGcal;
+
+  const primary = document.getElementById("modal-primary");
+  const icon    = document.getElementById("modal-primary-icon");
+  const label   = document.getElementById("modal-primary-label");
+
+  if (isIOS) {
+    primary.href   = urlWebcal;
+    icon.textContent  = "";
+    label.textContent = "Ajouter à Calendrier iPhone";
+  } else if (isAndroid) {
+    primary.href   = urlGcal;
+    icon.textContent  = "🤖";
+    label.textContent = "Ajouter à Google Agenda";
+  } else {
+    primary.href   = urlWebcal;
+    icon.textContent  = "🖥️";
+    label.textContent = "Abonnement via webcal://";
+  }
+
+  document.getElementById("modal").classList.add("open");
+}
+
+function closeModal() {
+  document.getElementById("modal").classList.remove("open");
+}
+
+function handleOverlayClick(e) {
+  if (e.target === document.getElementById("modal")) closeModal();
+}
+
+// ── Démarrage ────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>

@@ -1,0 +1,390 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MORSCHWILLER FCJ  [RM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de MORSCHWILLER FCJ – RM2 – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2026-10-03-20-30-metz-bc-3-morschwiller-fcj@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:✈️ METZ BC - 3 – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ METZ BC - 3 vs MORSCHWILLE
+ R FCJ\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n🚗 Waze
+  : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📣 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/competitions/rm2/match/200000014632734
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632734
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2026-10-11-17-00-morschwiller-fcj-sluc-nancy-basket-ass
+ ociation-@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20261011T170000
+DTEND;TZID=Europe/Paris:20261011T190000
+SUMMARY:🏠 MORSCHWILLER FCJ – SLUC NANCY BASKET ASSOCIATION - 2
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs SLUC N
+ ANCY BASKET ASSOCIATION - 2\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de B
+ rumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.
+ 63323&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200
+ 000014632752
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632752
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2026-10-17-18-00-vandoeuvre-basketball-2-morschwiller-f
+ cj@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:✈️ VANDOEUVRE BASKETBALL - 2 – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ VANDOEUVRE BASKETBALL - 2 
+ vs MORSCHWILLER FCJ\n\nGYMNASE DU HAUT DE PENOY\n📍 Rue de Crevic Vandoe
+ uvre-lès-Nancy 54500\n🚗 Waze : https://waze.com/ul?ll=48.65417\,6.1762
+ 2&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632768
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic Vandoeuvre-lès-Nancy 545
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632768
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2026-11-07-20-30-morschwiller-fcj-weitbruch-a-s-c-g-2@f
+ fbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 MORSCHWILLER FCJ – WEITBRUCH A.S.C.G - 2
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs WEITBR
+ UCH A.S.C.G - 2\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath Morsc
+ hwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323&naviga
+ te=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632788
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632788
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2026-11-14-18-00-ludres-pont-st-vincent-basket-cl-2-mor
+ schwiller@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:✈️ LUDRES PONT ST VINCENT BASKET CL - 2 – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ LUDRES PONT ST VINCENT BAS
+ KET CL - 2 vs MORSCHWILLER FCJ\n\nSALLE MARIE MARVINGT\n📍 Rue Marie Mar
+ vingt Ludres 54710\n🚗 Waze : https://waze.com/ul?ll=48.6185\,6.16361&na
+ vigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001463
+ 2802
+LOCATION:SALLE MARIE MARVINGT\, Rue Marie Marvingt Ludres 54710
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632802
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2026-11-21-20-00-morschwiller-fcj-as-haut-du-lievre-nan
+ cy-2@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20261121T200000
+DTEND;TZID=Europe/Paris:20261121T220000
+SUMMARY:🏠 MORSCHWILLER FCJ – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs AS HAU
+ T DU LIEVRE  NANCY - 2\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumat
+ h Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323
+ &navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001
+ 4632824
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632824
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2026-11-28-20-00-morschwiller-fcj-saint-max-basket-club
+ @ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 MORSCHWILLER FCJ – SAINT MAX BASKET CLUB
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs SAINT 
+ MAX BASKET CLUB\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath Morsc
+ hwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323&naviga
+ te=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632842
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632842
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2026-12-05-20-30-esperance-toul-morschwiller-fcj@ffbb-a
+ genda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ ESPERANCE TOUL – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ ESPERANCE TOUL vs MORSCHWI
+ LLER FCJ\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz Toul 542
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.67875\,5.89363&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632859
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632859
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2026-12-12-20-30-saint-die-vosges-basket-morschwiller-f
+ cj@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:✈️ SAINT DIE VOSGES BASKET – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ SAINT DIE VOSGES BASKET vs
+  MORSCHWILLER FCJ\n\nPALAIS OMNISP. J. CLAUDEL S. 1\n📍 Rue du 12ème R.
+ A. Prolongée Saint-Dié-des-Vosges 88100\n🚗 Waze : https://waze.com/ul
+ ?ll=48.28424\,6.96799&navigate=yes\n\n📣 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitio
+ ns/rm2/match/200000014632879
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632879
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-01-09-20-00-morschwiller-fcj-cse-folkling@ffbb-age
+ nda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 MORSCHWILLER FCJ – CSE FOLKLING
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs CSE FO
+ LKLING\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath Morschwiller 6
+ 7350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323&navigate=yes\n\
+ n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632897
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632897
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-01-16-20-30-as-champigneulles-basketball-morschwil
+ ler-fcj@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ AS CHAMPIGNEULLES BASKETBA
+ LL vs MORSCHWILLER FCJ\n\nCOMPLEXE SPORTIF BELLEFONTAINE\n📍 Rue de Ronc
+ evaux Champigneulles 54250\n🚗 Waze : https://waze.com/ul?ll=48.72533\,6
+ .14893&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20
+ 0000014632914
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux Champigneulles 5
+ 4250
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632914
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-01-23-20-00-morschwiller-fcj-metz-bc-3@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270123T200000
+DTEND;TZID=Europe/Paris:20270123T220000
+SUMMARY:🏠 MORSCHWILLER FCJ – METZ BC - 3
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs METZ B
+ C - 3\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath Morschwiller 67
+ 350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632932
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632932
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-01-30-18-00-sluc-nancy-basket-association-2-morsch
+ willer-fc@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270130T180000
+DTEND;TZID=Europe/Paris:20270130T200000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION - 2 vs MORSCHWILLER FCJ\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capit
+ aine Guynemer Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.69975\,6.
+ 13996&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/200
+ 000014632950
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632950
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-02-06-20-30-morschwiller-fcj-vandoeuvre-basketball
+ -2@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 MORSCHWILLER FCJ – VANDOEUVRE BASKETBALL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs VANDOE
+ UVRE BASKETBALL - 2\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath M
+ orschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323&na
+ vigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001463
+ 2966
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632966
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-02-13-18-00-weitbruch-a-s-c-g-2-morschwiller-fcj@f
+ fbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270213T180000
+DTEND;TZID=Europe/Paris:20270213T200000
+SUMMARY:✈️ WEITBRUCH A.S.C.G - 2 – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 2 vs M
+ ORSCHWILLER FCJ\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weitbru
+ ch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate=ye
+ s\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014632986
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14632986
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-03-13-20-00-morschwiller-fcj-ludres-pont-st-vincen
+ t-basket-@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 MORSCHWILLER FCJ – LUDRES PONT ST VINCENT BASKET CL - 2
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs LUDRES
+  PONT ST VINCENT BASKET CL - 2\n\nESPACE SPORTIF ET CULTUREL\n📍 Route d
+ e Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\
+ ,7.63323&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/
+ 200000014633000
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633000
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-03-21-16-30-as-haut-du-lievre-nancy-2-morschwiller
+ -fcj@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270321T163000
+DTEND;TZID=Europe/Paris:20270321T183000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 2 – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ AS HAUT DU LIEVRE  NANCY -
+  2 vs MORSCHWILLER FCJ\n\nGYMNASE BUFFON\n📍 Rue Dominique Louis Nancy 5
+ 4100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.15411&navigate=yes\n\
+ n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633022
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633022
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-04-03-20-30-saint-max-basket-club-morschwiller-fcj
+ @ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ SAINT MAX BASKET CLUB – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ SAINT MAX BASKET CLUB vs M
+ ORSCHWILLER FCJ\n\nGYMNASE HENRI COCHET\n📍 Rue de la Haie le Comte Sain
+ t-Max 54130\n🚗 Waze : https://waze.com/ul?ll=48.70584\,6.20643&navigate
+ =yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633040
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte Saint-Max 54130
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633040
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-04-10-20-00-morschwiller-fcj-esperance-toul@ffbb-a
+ genda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 MORSCHWILLER FCJ – ESPERANCE TOUL
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs ESPERA
+ NCE TOUL\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath Morschwiller
+  67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323&navigate=yes\
+ n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rm2/match/200000014633057
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633057
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-04-17-20-30-morschwiller-fcj-saint-die-vosges-bask
+ et@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:🏠 MORSCHWILLER FCJ – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs SAINT 
+ DIE VOSGES BASKET\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath Mor
+ schwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323&navi
+ gate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000146330
+ 77
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633077
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-05-08-20-30-cse-folkling-morschwiller-fcj@ffbb-age
+ nda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:✈️ CSE FOLKLING – MORSCHWILLER FCJ
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ CSE FOLKLING vs MORSCHWILL
+ ER FCJ\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Folkling 57600\n
+ 🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&navigate=yes\n\n📣 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rm2/match/200000014633095
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633095
+END:VEVENT
+BEGIN:VEVENT
+UID:rm2-ges-poule-a-2027-05-15-20-00-morschwiller-fcj-as-champigneulles-bas
+ ketball@ffbb-agenda
+DTSTAMP:20260813T234418Z
+DTSTART;TZID=Europe/Paris:20270515T200000
+DTEND;TZID=Europe/Paris:20270515T220000
+SUMMARY:🏠 MORSCHWILLER FCJ – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 RM2 – GES – Poule A\n⚔️ MORSCHWILLER FCJ vs AS CHA
+ MPIGNEULLES BASKETBALL\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumat
+ h Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323
+ &navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/20000001
+ 4633112
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rm2/match/2000000
+ 14633112
+END:VEVENT
+END:VCALENDAR

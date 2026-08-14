@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – TCF – GES – Poule A
+X-WR-CALDESC:Tous les matchs TCF – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:tcf-ges-poule-a-2026-08-26-20-00-saint-joseph-strasbourg-holtzheim-voge
+ sia@ffbb-agenda
+DTSTAMP:20260813T235122Z
+DTSTART;TZID=Europe/Paris:20260826T200000
+DTEND;TZID=Europe/Paris:20260826T220000
+SUMMARY:SAINT JOSEPH - STRASBOURG – HOLTZHEIM VOGESIA
+DESCRIPTION:🏀 TCF – GES – Poule A\n⚔️ SAINT JOSEPH - STRASBOURG 
+ vs HOLTZHEIM VOGESIA\n\nCENTRE SPORTIF ESPLANADE\n📍 Rue Louvois Strasbo
+ urg 67000\n🚗 Waze : https://waze.com/ul?ll=48.577\,7.76202&navigate=yes
+ \n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/200000014557884
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/2
+ 00000014557884
+END:VEVENT
+BEGIN:VEVENT
+UID:tcf-ges-poule-a-2026-08-29-20-00-cercle-sportif-municipal-auboue-basket
+ -club-lon@ffbb-agenda
+DTSTAMP:20260813T235122Z
+DTSTART;TZID=Europe/Paris:20260829T200000
+DTEND;TZID=Europe/Paris:20260829T220000
+SUMMARY:CERCLE SPORTIF MUNICIPAL AUBOUE – BASKET CLUB LONGWY REHON
+DESCRIPTION:🏀 TCF – GES – Poule A\n⚔️ CERCLE SPORTIF MUNICIPAL A
+ UBOUE vs BASKET CLUB LONGWY REHON\n\nHALLE DES SPORTS MAURICE PICHON\n📍
+  Place Albert Lebrun Auboué 54580\n🚗 Waze : https://waze.com/ul?ll=49.
+ 21117\,5.9751&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/tcf-s
+ m-t1/match/200000014557883
+LOCATION:HALLE DES SPORTS MAURICE PICHON\, Place Albert Lebrun Auboué 5458
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/2
+ 00000014557883
+END:VEVENT
+BEGIN:VEVENT
+UID:tcf-ges-poule-a-2026-08-29-20-00-duttlenheim-lc-as-kaysersberg-ammersch
+ wihr-bca@ffbb-agenda
+DTSTAMP:20260813T235122Z
+DTSTART;TZID=Europe/Paris:20260829T200000
+DTEND;TZID=Europe/Paris:20260829T220000
+SUMMARY:DUTTLENHEIM LC – AS KAYSERSBERG AMMERSCHWIHR BCA
+DESCRIPTION:🏀 TCF – GES – Poule A\n⚔️ DUTTLENHEIM LC vs AS KAYSE
+ RSBERG AMMERSCHWIHR BCA\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade Duttlen
+ heim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56924&navigate=
+ yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/200000014575
+ 905
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/2
+ 00000014575905
+END:VEVENT
+BEGIN:VEVENT
+UID:tcf-ges-poule-a-2026-08-29-20-00-reims-champagne-basket-eveil-recy-sain
+ t-martin-@ffbb-agenda
+DTSTAMP:20260813T235122Z
+DTSTART;TZID=Europe/Paris:20260829T200000
+DTEND;TZID=Europe/Paris:20260829T220000
+SUMMARY:REIMS CHAMPAGNE BASKET – EVEIL RECY SAINT MARTIN BASKET
+DESCRIPTION:🏀 TCF – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET vs 
+ EVEIL RECY SAINT MARTIN BASKET\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue F
+ rançois Arago Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.22861\,4
+ .00473&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/ma
+ tch/200000014557881
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/2
+ 00000014557881
+END:VEVENT
+BEGIN:VEVENT
+UID:tcf-ges-poule-a-2026-08-29-20-00-esperance-nogent-sur-seine-gauloise-de
+ -vitry-le@ffbb-agenda
+DTSTAMP:20260813T235122Z
+DTSTART;TZID=Europe/Paris:20260829T200000
+DTEND;TZID=Europe/Paris:20260829T220000
+SUMMARY:ESPERANCE NOGENT SUR SEINE – GAULOISE DE VITRY LE FRANCOIS
+DESCRIPTION:🏀 TCF – GES – Poule A\n⚔️ ESPERANCE NOGENT SUR SEINE
+  vs GAULOISE DE VITRY LE FRANCOIS\n\nSALLE CLAUDE SANSON\n📍 Avenue de S
+ aint-Roch Nogent-sur-Seine 10400\n🚗 Waze : https://waze.com/ul?ll=48.49
+ 596\,3.50961&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm
+ -t1/match/200000014557882
+LOCATION:SALLE CLAUDE SANSON\, Avenue de Saint-Roch Nogent-sur-Seine 10400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/2
+ 00000014557882
+END:VEVENT
+BEGIN:VEVENT
+UID:tcf-ges-poule-a-2026-08-29-20-00-basket-nord-sundgau-asa-souffelweyersh
+ eim@ffbb-agenda
+DTSTAMP:20260813T235122Z
+DTSTART;TZID=Europe/Paris:20260829T200000
+DTEND;TZID=Europe/Paris:20260829T220000
+SUMMARY:BASKET NORD SUNDGAU – ASA SOUFFELWEYERSHEIM
+DESCRIPTION:🏀 TCF – GES – Poule A\n⚔️ BASKET NORD SUNDGAU vs ASA
+  SOUFFELWEYERSHEIM\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 6872
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/200000014575904
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/2
+ 00000014575904
+END:VEVENT
+BEGIN:VEVENT
+UID:tcf-ges-poule-a-2026-08-29-20-00-hatten-bc-mustangs-association@ffbb-ag
+ enda
+DTSTAMP:20260813T235122Z
+DTSTART;TZID=Europe/Paris:20260829T200000
+DTEND;TZID=Europe/Paris:20260829T220000
+SUMMARY:HATTEN BC – MUSTANGS ASSOCIATION
+DESCRIPTION:🏀 TCF – GES – Poule A\n⚔️ HATTEN BC vs MUSTANGS ASSO
+ CIATION\n\nSALLE POLYVALENTE\n📍 Rue des Écoles Hatten 67690\n🚗 Waze
+  : https://waze.com/ul?ll=48.90169\,7.98235&navigate=yes\n\n📣 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/competitions/tcf-sm-t1/match/200000014575906
+LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
+URL:https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/2
+ 00000014575906
+END:VEVENT
+BEGIN:VEVENT
+UID:tcf-ges-poule-a-2026-08-29-20-00-basket-club-illzach-colmar-basket@ffbb
+ -agenda
+DTSTAMP:20260813T235122Z
+DTSTART;TZID=Europe/Paris:20260829T200000
+DTEND;TZID=Europe/Paris:20260829T220000
+SUMMARY:BASKET CLUB ILLZACH – COLMAR BASKET
+DESCRIPTION:🏀 TCF – GES – Poule A\n⚔️ BASKET CLUB ILLZACH vs COL
+ MAR BASKET\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 68110\n🚗 Waze
+  : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n📣 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/competitions/tcf-sm-t1/match/200000014575907
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/competitions/tcf-sm-t1/match/2
+ 00000014575907
+END:VEVENT
+END:VCALENDAR

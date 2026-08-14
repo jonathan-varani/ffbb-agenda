@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WEITBRUCH A.S.C.G - 1  [PNM – GES – Poule A]
+X-WR-CALDESC:Matchs de WEITBRUCH A.S.C.G - 1 – PNM – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-10-03-20-30-weitbruch-a-s-c-g-1-s-u-schiltigheim-b
+ asket-bal@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs S
+ .U. SCHILTIGHEIM BASKET BALL\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'É
+ glise Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.7771
+ 9&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631933
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631933
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-10-11-17-30-asa-gries-oberhoffen-weitbruch-a-s-c-g
+ -1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261011T173000
+DTEND;TZID=Europe/Paris:20261011T193000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ WEITBRUCH A.S.C.G - 1\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67
+ 240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631952
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631952
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-10-17-20-30-weitbruch-a-s-c-g-1-s-i-graffenstaden-
+ 1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – S.I. GRAFFENSTADEN - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs S
+ .I. GRAFFENSTADEN - 1\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église W
+ eitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navig
+ ate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463196
+ 9
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631969
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-07-20-30-asl-dessenheim-weitbruch-a-s-c-g-1@ffb
+ b-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ ASL DESSENHEIM – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASL DESSENHEIM vs WEITBRUC
+ H A.S.C.G - 1\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Dessenheim 68
+ 600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631990
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631990
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-14-20-30-weitbruch-a-s-c-g-1-griesheim-p-molshe
+ im-ls@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – GRIESHEIM P/MOLSHEIM LS
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs G
+ RIESHEIM P/MOLSHEIM LS\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église 
+ Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navi
+ gate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146320
+ 05
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632005
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-21-20-30-geispolsheim-c-j-s-weitbruch-a-s-c-g-1
+ @ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ GEISPOLSHEIM C.J.S. vs WEI
+ TBRUCH A.S.C.G - 1\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsh
+ eim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=y
+ es\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632022
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632022
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-28-20-30-saint-joseph-strasbourg-1-weitbruch-a-
+ s-c-g-1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 1 – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ SAINT JOSEPH - STRASBOURG 
+ - 1 vs WEITBRUCH A.S.C.G - 1\n\nCENTRE SPORTIF ESPLANADE\n📍 Rue Louvois
+  Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.577\,7.76202&navi
+ gate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146320
+ 41
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632041
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-12-05-20-30-weitbruch-a-s-c-g-1-asa-souffelweyersh
+ eim-2@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs A
+ SA SOUFFELWEYERSHEIM - 2\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Églis
+ e Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&na
+ vigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463
+ 2059
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632059
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-12-12-20-30-bask-furdenheim-2-weitbruch-a-s-c-g-1@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:✈️ BASK FURDENHEIM - 2 – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs WEI
+ TBRUCH A.S.C.G - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenh
+ eim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=y
+ es\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632076
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632076
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-09-20-30-weitbruch-a-s-c-g-1-holtzheim-vogesia-
+ 2@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – HOLTZHEIM VOGESIA - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs H
+ OLTZHEIM VOGESIA - 2\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église We
+ itbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&naviga
+ te=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632095
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632095
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-16-20-30-weitbruch-a-s-c-g-1-basket-nord-sundga
+ u@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs B
+ ASKET NORD SUNDGAU\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weit
+ bruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate
+ =yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632112
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632112
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-23-20-30-s-u-schiltigheim-basket-ball-weitbruch
+ -a-s-c-g-@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ S.U. SCHILTIGHEIM BASKET B
+ ALL vs WEITBRUCH A.S.C.G - 1\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Rue 
+ du Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.61103\
+ ,7.76747&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/
+ 200000014632131
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632131
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-30-20-30-weitbruch-a-s-c-g-1-asa-gries-oberhoff
+ en@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs A
+ SA GRIES / OBERHOFFEN\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église W
+ eitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navig
+ ate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463215
+ 0
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632150
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-02-06-20-30-s-i-graffenstaden-1-weitbruch-a-s-c-g-
+ 1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 1 – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
+ WEITBRUCH A.S.C.G - 1\n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Lixenbuhl Illkirc
+ h-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.53006\,7.7282
+ 1&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632167
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632167
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-02-13-20-30-weitbruch-a-s-c-g-1-asl-dessenheim@ffb
+ b-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – ASL DESSENHEIM
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs A
+ SL DESSENHEIM\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weitbruch
+  67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate=yes\
+ n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632188
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632188
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-03-14-16-30-griesheim-p-molsheim-ls-weitbruch-a-s-
+ c-g-1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270314T163000
+DTEND;TZID=Europe/Paris:20270314T183000
+SUMMARY:✈️ GRIESHEIM P/MOLSHEIM LS – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ GRIESHEIM P/MOLSHEIM LS vs
+  WEITBRUCH A.S.C.G - 1\n\nSALLE MUNICIPALE\n📍 Rue de l'Église Rosheim 
+ 67560\n🚗 Waze : https://waze.com/ul?ll=48.49418\,7.46665&navigate=yes\n
+ \n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632203
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632203
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-03-20-20-30-weitbruch-a-s-c-g-1-geispolsheim-c-j-s
+ @ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs G
+ EISPOLSHEIM C.J.S.\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weit
+ bruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate
+ =yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632220
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632220
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-04-03-20-30-weitbruch-a-s-c-g-1-saint-joseph-stras
+ bourg-1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs S
+ AINT JOSEPH - STRASBOURG - 1\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'É
+ glise Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.7771
+ 9&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632239
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632239
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-04-11-17-30-asa-souffelweyersheim-2-weitbruch-a-s-
+ c-g-1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270411T173000
+DTEND;TZID=Europe/Paris:20270411T193000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 2 – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs WEITBRUCH A.S.C.G - 1\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents S
+ ouffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6319\,7.74&n
+ avigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146
+ 32257
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632257
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-04-17-20-30-weitbruch-a-s-c-g-1-bask-furdenheim-2@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:🏠 WEITBRUCH A.S.C.G - 1 – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs B
+ ASK FURDENHEIM - 2\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weit
+ bruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate
+ =yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632274
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632274
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-05-08-20-30-holtzheim-vogesia-2-weitbruch-a-s-c-g-
+ 1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 2 – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ HOLTZHEIM VOGESIA - 2 vs W
+ EITBRUCH A.S.C.G - 1\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 67
+ 810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632293
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632293
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-05-15-20-30-basket-nord-sundgau-weitbruch-a-s-c-g-
+ 1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:✈️ BASKET NORD SUNDGAU – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASKET NORD SUNDGAU vs WEI
+ TBRUCH A.S.C.G - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 6872
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632310
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632310
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,359 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – US BOULANGE FONTOY BB  [RF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de US BOULANGE FONTOY BB – RF2 – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2026-10-04-15-30-us-boulange-fontoy-bb-asp-ste-marie-au
+ x-chenes-@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – ASP STE MARIE AUX CHENES - 2
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs A
+ SP STE MARIE AUX CHENES - 2\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulang
+ e 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes
+ \n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632331
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632331
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2026-10-11-15-30-dukes-de-fameck-us-boulange-fontoy-bb@
+ ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ DUKES DE FAMECK – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ DUKES DE FAMECK vs US BOUL
+ ANGE FONTOY BB\n\nSALLE LAURENT LUCIE\n📍 Rue Antoine de Saint-Exupéry 
+ Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&navigat
+ e=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632350
+LOCATION:SALLE LAURENT LUCIE\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632350
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2026-11-07-18-00-asc-charny-sur-meuse-us-boulange-fonto
+ y-bb@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ ASC CHARNY SUR MEUSE vs US
+  BOULANGE FONTOY BB\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Moulin
+  Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.21061\,5.36
+ 486&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20000
+ 0014632382
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632382
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2026-11-15-15-30-us-boulange-fontoy-bb-e-l-witry-les-re
+ ims-baske@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs E
+ - L-WITRY LES REIMS BASKET\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange
+  57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\
+ n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632403
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632403
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2026-11-22-15-30-as-champigneulles-basketball-us-boulan
+ ge-fontoy@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ AS CHAMPIGNEULLES BASKETBA
+ LL vs US BOULANGE FONTOY BB\n\nCOMPLEXE SPORTIF BELLEFONTAINE\n📍 Rue de
+  Roncevaux Champigneulles 54250\n🚗 Waze : https://waze.com/ul?ll=48.725
+ 33\,6.14893&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/mat
+ ch/200000014632420
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux Champigneulles 5
+ 4250
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632420
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2026-11-29-15-30-us-boulange-fontoy-bb-cslb-bar-le-duc@
+ ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs C
+ SLB BAR LE DUC\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 57655\n🚗
+  Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n📣 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/competitions/rf2/match/200000014632436
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632436
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2026-12-06-15-30-collectif-sports-val-de-lorraine-sud-u
+ s-boulang@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ COLLECTIF SPORTS VAL DE LORRAINE SUD – US BOULANGE FONTOY 
+ BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ COLLECTIF SPORTS VAL DE LO
+ RRAINE SUD vs US BOULANGE FONTOY BB\n\nSALLE INTERCOMMUNALE\n📍 Rue de l
+ a Salle Frouard 54390\n🚗 Waze : https://waze.com/ul?ll=48.76451\,6.1286
+ 4&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632455
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632455
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2026-12-13-15-30-us-boulange-fontoy-bb-champagne-basket
+ -feminin@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs C
+ HAMPAGNE BASKET FEMININ\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 57
+ 655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632473
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632473
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-01-10-15-30-rombas-oc-us-boulange-fontoy-bb@ffbb-a
+ genda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ ROMBAS OC – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ ROMBAS OC vs US BOULANGE F
+ ONTOY BB\n\nCOSEC ANDRE RUPPERT\n📍 Rue Maréchal Joffre Rombas 57120\n
+ 🚗 Waze : https://waze.com/ul?ll=49.2535\,6.09994&navigate=yes\n\n📣 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/competitions/rf2/match/200000014632492
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632492
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-01-17-15-30-us-boulange-fontoy-bb-us-silvange-bask
+ et@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs U
+ S SILVANGE BASKET\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 57655\n
+ 🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n📣 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rf2/match/200000014632510
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632510
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-01-24-13-15-asp-ste-marie-aux-chenes-2-us-boulange
+ -fontoy-b@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270124T131500
+DTEND;TZID=Europe/Paris:20270124T151500
+SUMMARY:✈️ ASP STE MARIE AUX CHENES - 2 – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ ASP STE MARIE AUX CHENES -
+  2 vs US BOULANGE FONTOY BB\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot Saint
+ e-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.19465\,5.
+ 99704&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200
+ 000014632529
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632529
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-01-31-15-30-us-boulange-fontoy-bb-dukes-de-fameck@
+ ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – DUKES DE FAMECK
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs D
+ UKES DE FAMECK\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 57655\n🚗
+  Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n📣 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/competitions/rf2/match/200000014632548
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632548
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-02-14-15-30-us-boulange-fontoy-bb-asc-charny-sur-m
+ euse@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs A
+ SC CHARNY SUR MEUSE\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 57655\
+ n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n📣
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/competitions/rf2/match/200000014632580
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632580
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-03-14-16-00-e-l-witry-les-reims-basket-us-boulange
+ -fontoy-b@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270314T160000
+DTEND;TZID=Europe/Paris:20270314T180000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs US BOULANGE FONTOY BB\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue de
+  Bétheny Witry-lès-Reims 51420\n🚗 Waze : https://waze.com/ul?ll=49.29
+ 189\,4.11144&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/ma
+ tch/200000014632601
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632601
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-03-21-15-30-us-boulange-fontoy-bb-as-champigneulle
+ s-basketb@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs A
+ S CHAMPIGNEULLES BASKETBALL\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulang
+ e 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes
+ \n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632618
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632618
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-04-03-20-30-cslb-bar-le-duc-us-boulange-fontoy-bb@
+ ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ CSLB BAR LE DUC – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ CSLB BAR LE DUC vs US BOUL
+ ANGE FONTOY BB\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale 
+ Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navig
+ ate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20000001463263
+ 4
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632634
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-04-11-15-30-us-boulange-fontoy-bb-collectif-sports
+ -val-de-l@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – COLLECTIF SPORTS VAL DE LORRAINE SUD
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs C
+ OLLECTIF SPORTS VAL DE LORRAINE SUD\n\nSALLE DES SPORTS\n📍 Rue du Stade
+  Boulange 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navi
+ gate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000146326
+ 53
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632653
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-04-17-20-30-champagne-basket-feminin-us-boulange-f
+ ontoy-bb@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:✈️ CHAMPAGNE BASKET FEMININ – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ CHAMPAGNE BASKET FEMININ v
+ s US BOULANGE FONTOY BB\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François 
+ Mauriac Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&
+ navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014
+ 632671
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632671
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-05-09-15-30-us-boulange-fontoy-bb-rombas-oc@ffbb-a
+ genda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:🏠 US BOULANGE FONTOY BB – ROMBAS OC
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US BOULANGE FONTOY BB vs R
+ OMBAS OC\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 57655\n🚗 Waze 
+ : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n📣 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ ligues/ges/competitions/rf2/match/200000014632690
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632690
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-poule-a-2027-05-16-15-30-us-silvange-basket-us-boulange-fontoy-
+ bb@ffbb-agenda
+DTSTAMP:20260813T234342Z
+DTSTART;TZID=Europe/Paris:20270516T153000
+DTEND;TZID=Europe/Paris:20270516T173000
+SUMMARY:✈️ US SILVANGE BASKET – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES – Poule A\n⚔️ US SILVANGE BASKET vs US B
+ OULANGE FONTOY BB\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Sil
+ vange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate
+ =yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632708
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632708
+END:VEVENT
+END:VCALENDAR

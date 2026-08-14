@@ -1,0 +1,385 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASK FURDENHEIM - 2  [PNM – GES – Poule A]
+X-WR-CALDESC:Matchs de BASK FURDENHEIM - 2 – PNM – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-10-03-20-30-bask-furdenheim-2-asa-gries-oberhoffen
+ @ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs ASA
+  GRIES / OBERHOFFEN\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furden
+ heim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=
+ yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631934
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631934
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-10-10-20-30-s-i-graffenstaden-1-bask-furdenheim-2@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 1 – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
+ BASK FURDENHEIM - 2\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-G
+ raffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&n
+ avigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146
+ 31953
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631953
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-10-17-20-30-bask-furdenheim-2-asl-dessenheim@ffbb-
+ agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – ASL DESSENHEIM
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs ASL
+  DESSENHEIM\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 671
+ 17\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631970
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631970
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-07-20-30-griesheim-p-molsheim-ls-bask-furdenhei
+ m-2@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ GRIESHEIM P/MOLSHEIM LS – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ GRIESHEIM P/MOLSHEIM LS vs
+  BASK FURDENHEIM - 2\n\nSALLE POLYVALENTE ESPACE VALLON\n📍 Rue du Mouli
+ n Griesheim-près-Molsheim 67870\n🚗 Waze : https://waze.com/ul?ll=48.50
+ 146\,7.53104&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/ma
+ tch/200000014631991
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631991
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-14-20-30-bask-furdenheim-2-geispolsheim-c-j-s@f
+ fbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs GEI
+ SPOLSHEIM C.J.S.\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenhei
+ m 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes
+ \n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632006
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632006
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-21-20-30-s-u-schiltigheim-basket-ball-bask-furd
+ enheim-2@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ S.U. SCHILTIGHEIM BASKET B
+ ALL vs BASK FURDENHEIM - 2\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Rue du
+  Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.61103\,7
+ .76747&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20
+ 0000014632023
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632023
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-29-17-30-asa-souffelweyersheim-2-bask-furdenhei
+ m-2@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261129T173000
+DTEND;TZID=Europe/Paris:20261129T193000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 2 – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs BASK FURDENHEIM - 2\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents Sou
+ ffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6319\,7.74&nav
+ igate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632
+ 040
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632040
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-12-05-20-30-bask-furdenheim-2-holtzheim-vogesia-2@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – HOLTZHEIM VOGESIA - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs HOL
+ TZHEIM VOGESIA - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenh
+ eim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=y
+ es\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632060
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632060
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-12-12-20-30-bask-furdenheim-2-weitbruch-a-s-c-g-1@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs WEI
+ TBRUCH A.S.C.G - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenh
+ eim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=y
+ es\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632076
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632076
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-09-20-30-basket-nord-sundgau-bask-furdenheim-2@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ BASKET NORD SUNDGAU – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASKET NORD SUNDGAU vs BAS
+ K FURDENHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 68720\
+ n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n\n📣
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/competitions/pnm/match/200000014632094
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632094
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-16-20-30-bask-furdenheim-2-saint-joseph-strasbo
+ urg-1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs SAI
+ NT JOSEPH - STRASBOURG - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade
+  Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&na
+ vigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463
+ 2113
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632113
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-23-20-30-asa-gries-oberhoffen-bask-furdenheim-2
+ @ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ BASK FURDENHEIM - 2\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 6724
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632132
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632132
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-30-20-30-bask-furdenheim-2-s-i-graffenstaden-1@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – S.I. GRAFFENSTADEN - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs S.I
+ . GRAFFENSTADEN - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furden
+ heim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=
+ yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632151
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632151
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-02-06-20-30-asl-dessenheim-bask-furdenheim-2@ffbb-
+ agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ ASL DESSENHEIM – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASL DESSENHEIM vs BASK FUR
+ DENHEIM - 2\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Dessenheim 6860
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632168
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632168
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-02-13-20-30-bask-furdenheim-2-griesheim-p-molsheim
+ -ls@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – GRIESHEIM P/MOLSHEIM LS
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs GRI
+ ESHEIM P/MOLSHEIM LS\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furde
+ nheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate
+ =yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632189
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632189
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-03-13-20-30-geispolsheim-c-j-s-bask-furdenheim-2@f
+ fbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ GEISPOLSHEIM C.J.S. vs BAS
+ K FURDENHEIM - 2\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolshei
+ m 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes
+ \n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632204
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632204
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-03-20-20-30-bask-furdenheim-2-s-u-schiltigheim-bas
+ ket-ball@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs S.U
+ . SCHILTIGHEIM BASKET BALL\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade
+  Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&na
+ vigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463
+ 2221
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632221
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-04-03-20-30-bask-furdenheim-2-asa-souffelweyershei
+ m-2@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs ASA
+  SOUFFELWEYERSHEIM - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Fur
+ denheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&naviga
+ te=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632238
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632238
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-04-10-20-30-holtzheim-vogesia-2-bask-furdenheim-2@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 2 – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ HOLTZHEIM VOGESIA - 2 vs B
+ ASK FURDENHEIM - 2\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 6781
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632258
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632258
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-04-17-20-30-weitbruch-a-s-c-g-1-bask-furdenheim-2@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:✈️ WEITBRUCH A.S.C.G - 1 – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs B
+ ASK FURDENHEIM - 2\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weit
+ bruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate
+ =yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632274
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632274
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-05-08-20-30-bask-furdenheim-2-basket-nord-sundgau@
+ ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 BASK FURDENHEIM - 2 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs BAS
+ KET NORD SUNDGAU\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenhei
+ m 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes
+ \n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632292
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632292
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-05-15-20-30-saint-joseph-strasbourg-1-bask-furdenh
+ eim-2@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 1 – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ SAINT JOSEPH - STRASBOURG 
+ - 1 vs BASK FURDENHEIM - 2\n\nCENTRE SPORTIF ESPLANADE\n📍 Rue Louvois S
+ trasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.577\,7.76202&naviga
+ te=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632311
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632311
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,673 @@
+{
+  "requests": [
+    {
+      "url": "https://api.ffbb.app/items/configuration",
+      "method": "GET",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://competitions.ffbb.com/api/islive",
+      "method": "GET",
+      "headers": {
+        "sentry-trace": "37ffdfc0019eb125d1c57bcf4e00ed3c-beb829f4c459a8c4-0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/ligues/ges/competitions/pnm?phase=200000002897412&poule=200000003054918&journee=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0",
+        "baggage": "sentry-environment=production,sentry-public_key=041925854dfd424091a5893a58673719,sentry-trace_id=37ffdfc0019eb125d1c57bcf4e00ed3c,sentry-sampled=false,sentry-sample_rand=0.4602206843353316,sentry-sample_rate=0.1,sentry-replay_id=806265f61b33498299b0346cb7d72b39"
+      }
+    },
+    {
+      "url": "https://competitions.ffbb.com/?_rsc=twPwCFNrjWbmFL_K",
+      "method": "GET",
+      "headers": {
+        "rsc": "1",
+        "next-router-segment-prefetch": "/_tree",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/ligues/ges/competitions/pnm?phase=200000002897412&poule=200000003054918&journee=1",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0",
+        "next-router-prefetch": "1",
+        "baggage": "sentry-environment=production,sentry-public_key=041925854dfd424091a5893a58673719,sentry-trace_id=37ffdfc0019eb125d1c57bcf4e00ed3c,sentry-sampled=false,sentry-sample_rand=0.4602206843353316,sentry-sample_rate=0.1,sentry-replay_id=806265f61b33498299b0346cb7d72b39",
+        "sentry-trace": "37ffdfc0019eb125d1c57bcf4e00ed3c-8bb8693e0f9b6b72-0",
+        "next-url": "/fr/ligues/ges/competitions/pnm",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36"
+      }
+    },
+    {
+      "url": "https://competitions.ffbb.com/ligues/ges/competitions/pnm?phase=200000002897412&poule=200000003054918&journee=1&_rsc=EyOaB-BPiqEh0c57",
+      "method": "GET",
+      "headers": {
+        "rsc": "1",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/ligues/ges/competitions/pnm?phase=200000002897412&poule=200000003054918&journee=1",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0",
+        "next-router-state-tree": "%5B%22%22%2C%7B%7D%2Cnull%2C%22metadata-only%22%5D",
+        "baggage": "sentry-environment=production,sentry-public_key=041925854dfd424091a5893a58673719,sentry-trace_id=37ffdfc0019eb125d1c57bcf4e00ed3c,sentry-sampled=false,sentry-sample_rand=0.4602206843353316,sentry-sample_rate=0.1,sentry-replay_id=806265f61b33498299b0346cb7d72b39",
+        "sentry-trace": "37ffdfc0019eb125d1c57bcf4e00ed3c-81b8f760b15c56cf-0",
+        "next-url": "/fr/ligues/ges/competitions/pnm",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36"
+      }
+    },
+    {
+      "url": "https://competitions.ffbb.com/ligues/ges/competitions/pnm?_rsc=twPwCFNrjWbmFL_K",
+      "method": "GET",
+      "headers": {
+        "rsc": "1",
+        "next-router-segment-prefetch": "/_tree",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/ligues/ges/competitions/pnm?phase=200000002897412&poule=200000003054918&journee=1",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0",
+        "next-router-prefetch": "1",
+        "baggage": "sentry-environment=production,sentry-public_key=041925854dfd424091a5893a58673719,sentry-trace_id=37ffdfc0019eb125d1c57bcf4e00ed3c,sentry-sampled=false,sentry-sample_rand=0.4602206843353316,sentry-sample_rate=0.1,sentry-replay_id=806265f61b33498299b0346cb7d72b39",
+        "sentry-trace": "37ffdfc0019eb125d1c57bcf4e00ed3c-a9afedeb0acbb136-0",
+        "next-url": "/fr/ligues/ges/competitions/pnm",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36"
+      }
+    },
+    {
+      "url": "https://competitions.ffbb.com/?_rsc=AFhwy91q4OsHQ4NE",
+      "method": "GET",
+      "headers": {
+        "rsc": "1",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/ligues/ges/competitions/pnm?phase=200000002897412&poule=200000003054918&journee=1",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0",
+        "next-router-state-tree": "%5B%22%22%2C%7B%22children%22%3A%5B%5B%22locale%22%2C%22fr%22%2C%22d%22%2Cnull%5D%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2C%22refetch%22%5D%7D%5D%7D%5D",
+        "baggage": "sentry-environment=production,sentry-public_key=041925854dfd424091a5893a58673719,sentry-trace_id=c228d8ecabd741c0810e780539856991,sentry-replay_id=806265f61b33498299b0346cb7d72b39,sentry-transaction=%2F%3Alocale%2Fligues%2F%3AligueCode%2Fcompetitions%2F%3AcompetitionCode,sentry-sampled=false,sentry-sample_rand=0.7271415649277938,sentry-sample_rate=0.1",
+        "sentry-trace": "c228d8ecabd741c0810e780539856991-b8729a9752c75feb-0",
+        "next-url": "/fr/ligues/ges/competitions/pnm",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36"
+      }
+    },
+    {
+      "url": "https://client.axept.io/projectconfigurations/brands/66a24fbb2a0f859f90aa8c86.json?r=0",
+      "method": "GET",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://api.axept.io/v1/analytics/evts",
+      "method": "POST",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://glitchtip.apsulis.fr/api/7/envelope/?sentry_version=7&sentry_key=041925854dfd424091a5893a58673719&sentry_client=sentry.javascript.nextjs%2F10.63.0",
+      "method": "POST",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://glitchtip.apsulis.fr/api/7/envelope/?sentry_version=7&sentry_key=041925854dfd424091a5893a58673719&sentry_client=sentry.javascript.nextjs%2F10.63.0",
+      "method": "POST",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://glitchtip.apsulis.fr/api/7/envelope/?sentry_version=7&sentry_key=041925854dfd424091a5893a58673719&sentry_client=sentry.javascript.nextjs%2F10.63.0",
+      "method": "POST",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://competitions.ffbb.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    }
+  ],
+  "responses": [
+    {
+      "url": "https://competitions.ffbb.com/api/islive",
+      "status": 200,
+      "ct": "application/json",
+      "body": {
+        "is_live": false,
+        "refetch": 86400
+      }
+    },
+    {
+      "url": "https://api.ffbb.app/items/configuration",
+      "status": 200,
+      "ct": "application/json; charset=utf-8",
+      "body": {
+        "data": {
+          "date_created": "2024-02-01T09:52:44.371Z",
+          "date_updated": "2026-08-13T22:19:00.245Z",
+          "id": 1,
+          "key_dh": "bvBdsqADOnQmvFNzDRQnzYYw2g2J1ad6",
+          "key_ms": "98f07e4d3869853c218a0f65edce2ae56cc670728d9bcb8b035a5107ce1b55dc",
+          "user_created": "ec250a4a-e5dd-480e-87b8-e2ecbbd13da5",
+          "user_updated": null,
+          "ios_version": "2.4.1",
+          "android_version": "2.4.1",
+          "key_directus_website": "bvBdsqADOnQmvFNzDRQnzYYw2g2J1ad6",
+          "key_directus_competitions": null,
+          "force_ms_reindex": false
+        }
+      }
+    },
+    {
+      "url": "https://competitions.ffbb.com/?_rsc=twPwCFNrjWbmFL_K",
+      "status": 200,
+      "ct": "text/x-component",
+      "body": ":HL[\"/_next/static/chunks/36lpw5adnbrgi.css\",\"style\"]\n:HL[\"/_next/static/chunks/1le__zspkqvc5.css\",\"style\"]\n:HL[\"/_next/static/media/AgencyFB_Black_Comp-s.p.1n65svftpzfat.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/media/Manrope_Bold-s.p.435k-sigi00kr.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/media/Manrope_ExtraBold-s.p.2x02jujrgoceg.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/media/Manrope_ExtraLight-s.p.2o"
+    },
+    {
+      "url": "https://competitions.ffbb.com/ligues/ges/competitions/pnm?_rsc=twPwCFNrjWbmFL_K",
+      "status": 200,
+      "ct": "text/x-component",
+      "body": "0:{\"f\":[[[\"\",{\"children\":[[\"locale\",\"fr\",\"d\",null],{\"children\":[\"ligues\",{\"children\":[[\"ligueCode\",\"ges\",\"d\",null],{\"children\":[\"competitions\",{\"children\":[[\"competitionCode\",\"pnm\",\"d\",null],{\"children\":[\"__PAGE__\",{}]}]}]}]}]},\"$undefined\",\"$undefined\",16]}],null,[null,null],true]],\"q\":\"\",\"i\":false,\"S\":false,\"h\":null,\"b\":\"WdKho2rPoChR_oiM6foQM\"}\n"
+    },
+    {
+      "url": "https://competitions.ffbb.com/ligues/ges/competitions/pnm?phase=200000002897412&poule=200000003054918&journee=1&_rsc=EyOaB-BPiqEh0c57",
+      "status": 200,
+      "ct": "text/x-component",
+      "body": "1:\"$Sreact.fragment\"\n2:I[897367,[\"/_next/static/chunks/3jm796h_31c0l.js\"],\"ViewportBoundary\"]\n4:I[897367,[\"/_next/static/chunks/3jm796h_31c0l.js\"],\"MetadataBoundary\"]\n5:\"$Sreact.suspense\"\n0:{\"f\":[[[\"\",{\"children\":[[\"locale\",\"fr\",\"d\",null],{\"children\":[\"ligues\",{\"children\":[[\"ligueCode\",\"ges\",\"d\",null],{\"children\":[\"competitions\",{\"children\":[[\"competitionCode\",\"pnm\",\"d\",null],{\"children\":[\"__PAGE__?{\\\"phase\\\":\\\"200000002897412\\\",\\\"poule\\\":\\\"200000003054918\\\",\\\"journee\\\":\\\"1\\\"}\",{}]}]}]}]}]},\"$un"
+    },
+    {
+      "url": "https://competitions.ffbb.com/?_rsc=AFhwy91q4OsHQ4NE",
+      "status": 200,
+      "ct": "text/x-component",
+      "body": "1:\"$Sreact.fragment\"\n2:I[339756,[\"/_next/static/chunks/3jm796h_31c0l.js\"],\"default\"]\n3:I[837457,[\"/_next/static/chunks/3jm796h_31c0l.js\"],\"default\"]\n6:I[897367,[\"/_next/static/chunks/3jm796h_31c0l.js\"],\"OutletBoundary\"]\n7:\"$Sreact.suspense\"\na:I[897367,[\"/_next/static/chunks/3jm796h_31c0l.js\"],\"ViewportBoundary\"]\nc:I[897367,[\"/_next/static/chunks/3jm796h_31c0l.js\"],\"MetadataBoundary\"]\ne:I[563491,[\"/_next/static/chunks/2y3py4yshwcif.js\"],\"default\"]\n:HL[\"/_next/static/chunks/36lpw5adnbrgi.css\",\"sty"
+    },
+    {
+      "url": "https://client.axept.io/projectconfigurations/brands/66a24fbb2a0f859f90aa8c86.json?r=0",
+      "status": 200,
+      "ct": "application/json; charset=utf-8",
+      "body": {
+        "_id": "6928674c3c6a01aba542cb76",
+        "schemaVersion": "1.0.0",
+        "projectId": "66a24fbb2a0f859f90aa8c86",
+        "client": {
+          "colors": {
+            "main": "#ffc823",
+            "paintTransform": {
+              "bg": "ffc823",
+              "hue": 45,
+              "sat": 100,
+              "bri": 57
+            },
+            "button_bg": "#FFFFFF",
+            "button_bg_hover": "#FFFFFF",
+            "button_border": "#EDEDED",
+            "button_text": "#474747",
+            "button_text_hover": "#2E2E2E",
+            "card": "#FFFFFF",
+            "danger": "#000000",
+            "primary_button_bg": "#FFFFFF",
+            "primary_button_bg_hover": "#FFFFFF",
+            "primary_button_text": "#ffc823",
+            "primary_button_text_hover": "#ffc823",
+            "secondary": "#000000",
+            "tertiary": "#000000",
+            "text": "#666666",
+            "title": "#000000",
+            "toggle_off": "#ADADAD",
+            "widget": "#FFFFFF"
+          },
+          "customButton": {
+            "active": false,
+            "image": null,
+            "imageWidth": 35,
+            "label": "RGPD",
+            "colors": {
+              "textColor": "#000000",
+              "bgColor": "#FFFFFF"
+            },
+            "styles": {
+              "paddingY": 12,
+              "paddingX": 12,
+              "fontSize": 14,
+              "fontWeight": 500,
+              "lineHeight": 1.25,
+              "borderRadius": 1000,
+              "boxShadow": true,
+              "bgTransparent": false
+            }
+          },
+          "fonts": {
+            "title": {
+              "variants": [],
+              "family": "SofiaProLight"
+            },
+            "text": {
+              "variants": [],
+              "family": ""
+            }
+          },
+          "widgetStyle": {
+            "borderRadius": 8,
+            "padding": 20
+          },
+          "overlayStyle": {
+            "position": {
+              "side": "right",
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "backdropStyle": "radial",
+            "disableScrollHijack": false,
+            "insertRootAt": "start"
+          },
+          "isCustomStyle": true,
+          "marketplace": [
+            {
+              "description": "En activant le service, nous envoyons 2 événements automatiquement à Google Analytics pour l'affichage du Widget et l'interaction de l'utilisateur",
+              "active": true,
+              "id": "googleanalytics",
+              "form": [
+                {
+                  "value": "gtag",
+                  "id": "funcName"
+                }
+              ]
+            },
+            {
+              "description": "Envoyez les events consent.display et consent.answer via un dataLayer.push()",
+              "active": true,
+              "id": "tagManager",
+              "form": []
+            }
+          ]
+        },
+        "contracts": [],
+        "contractsV2": [],
+        "cookies": [
+          {
+            "identifier": "66a250e1515161f10fc25b1e",
+            "language": "fr",
+            "aboutUsId": "base",
+            "steps": [
+              {
+                "topTitle": "Salut c'est nous...",
+                "title": "les Cookies !",
+                "subTitle": null,
+                "message": "<p>On a attendu d'être sûrs que le contenu de ce site vous intéresse avant de vous déranger, mais on aimerait bien vous accompagner pendant votre visite... <br>C'est OK pour vous ?</p>",
+                "hiddenButtonMessage": "<p>Pour modifier vos préférences par la suite, cliquez sur le lien 'Préférences de cookies' situé dans le pied de page.</p>",
+                "purpose": null,
+                "vendors": [],
+                "label": "Écran de bienvenue",
+                "description": "Écran d'accueil qui permet d'engager la conversation avec l'internaute. ",
+                "_id": "6461f58d06ddcaa78f3030e3",
+                "name": "welcome",
+                "layout": "welcome",
+                "hasVendors": false,
+                "onlyOnce": true,
+                "image": "cookie-bienvenue",
+                "image_admin": "cookie-pompom",
+                "allowOptOut": true,
+                "fixedPosition": "first",
+                "isFree": true,
+                "showPurposes": true,
+                "showContinueWithoutConsent": false,
+                "sameWeightForAcceptAndRejectButtons": true,
+                "strings": {},
+                "policyUrl": "https://www.ffbb.com/politique-de-protection-des-donnees-personnelles"
+              },
+              {
+                "topTitle": null,
+                "title": "Statistiques et audience",
+                "subTitle": "Compter nos calories, c’est important !",
+                "message": "<p>Nous sommes chargés de compter le nombre de visites sur ce site. Notre travail aide énormément les personnes qui travaillent ici, car nous leur permettons de détecter de nombreux points d’amélioration.</p>",
+                "hiddenButtonMessage": null,
+                "purpose": "Mesure d'audience & Analytics",
+                "label": "Analytiques et Stats",
+                "name": "analytics",
+                "layout": "category",
+                "hasVendors": true,
+                "image": "Formulaire-DLD-05",
+                "image_admin": "Formulaire-DLD-05",
+                "onlyOnce": false,
+                "allowOptOut": true,
+                "isFree": true,
+                "vendors": [
+                  {
+                    "_id": "62826445a14602f7d6038a99",
+                    "isAxeptioVendor": true,
+                    "projectId": null,
+                    "domain": "https://analytics.google.com/",
+                    "longDescription": "Essentiel pour la gestion du site web, il permet de mesurer des indicateurs tels que le trafic, les produits les plus consultés, ou encore la répartition géographique des visiteurs.",
+                    "name": "google_analytics",
+                    "policyUrl": "https://business.safety.google/privacy/",
+                    "shortDescription": "Nous aide à mesurer notre audience",
+                    "title": "Google Analytics 4",
+                    "technical": [],
+                    "category": "Analytiques",
+                    "type": "analytics"
+                  }
+                ],
+                "uuid": "80c74a70-2261-450e-9b97-6e4cf9d0101e",
+                "strings": {}
+              }
+            ],
+            "strings": {},
+            "a11yStrings": {},
+            "settings": {
+              "displayMode": "show",
+              "consentMode": "opt_in"
+            },
+            "uiSettings": {},
+            "version": {},
+            "projectId": "66a24fbb2a0f859f90aa8c86",
+            "name": "ffbb-fr-EU",
+            "icon": "icon_v2_google_consent_mode",
+            "isFree": true,
+            "googleConsentMode": {
+              "display": true
+            },
+            "country": "FR",
+            "title": "French Ffbb Cookies",
+            "regulation": "gpdr"
+          },
+          {
+            "identifier": "6927086f7042e3a499a39d0b",
+            "language": "fr",
+            "aboutUsId": "base",
+            "steps": [
+              {
+                "topTitle": "Salut c'est nous...",
+                "title": "les Cookies !",
+                "subTitle": null,
+                "message": "<p>On a attendu d'être sûrs que le contenu de ce site vous intéresse avant de vous déranger, mais on aimerait bien vous accompagner pendant votre visite... <br>C'est OK pour vous ?</p>",
+                "hiddenButtonMessage": "<p>Pour modifier vos préférences par la suite, cliquez sur le lien 'Préférences de cookies' situé dans le pied de page.</p>",
+                "purpose": null,
+                "vendors": [],
+                "label": "Écran de bienvenue",
+                "description": "Écran d'accueil qui permet d'engager la conversation avec l'internaute. ",
+                "_id": "6461f58d06ddcaa78f3030e3",
+                "name": "welcome",
+                "layout": "welcome",
+                "hasVendors": false,
+                "onlyOnce": true,
+                "image": "cookie-bienvenue",
+                "image_admin": "cookie-pompom",
+                "allowOptOut": true,
+                "fixedPosition": "first",
+                "showPurposes": true,
+                "showContinueWithoutConsent": false,
+                "sameWeightForAcceptAndRejectButtons": true,
+                "strings": {},
+                "policyUrl": "https://www.ffbb.com/politique-de-protection-des-donnees-personnelles"
+              },
+              {
+                "topTitle": null,
+                "title": "Statistiques et audience",
+                "subTitle": "Compter nos calories, c’est important !",
+                "message": "<p>Nous sommes chargés de compter le nombre de visites sur ce site. Notre travail aide énormément les personnes qui travaillent ici, car nous leur permettons de détecter de nombreux points d’amélioration.</p>",
+                "hiddenButtonMessage": null,
+                "purpose": "Mesure d'audience & Analytics",
+                "label": "Analytiques et Stats",
+                "name": "analytics",
+                "layout": "category",
+                "hasVendors": true,
+                "image": "Formulaire-DLD-05",
+                "image_admin": "Formulaire-DLD-05",
+                "onlyOnce": false,
+                "allowOptOut": true,
+                "vendors": [
+                  {
+                    "_id": "674475bd56e4d7163746ace3",
+                    "isAxeptioVendor": true,
+                    "projectId": null,
+                    "domain": "https://firebase.google.com/docs/analytics",
+                    "longDescription": "Les rapports d'analyse aident à comprendre clairement le comportement des utilisateurs, permettant ainsi de prendre des décisions éclairées concernant le marketing des applications et les optimisations de performance",
+                    "name": "google_firebase_analytics",
+                    "policyUrl": "https://policies.google.com/privacy",
+                    "shortDescription": "Google Analytics est une solution de mesure des applications qui offre une vue d'ensemble de l'utilisation des applications et de l'engagement des utilisateurs",
+                    "title": "Google Firebase Analytics",
+                    "technical": [],
+                    "category": "Analytiques",
+                    "type": "analytics"
+                  }
+                ],
+                "uuid": "80c74a70-2261-450e-9b97-6e4cf9d0101e",
+                "strings": {}
+              },
+              {
+                "topTitle": null,
+                "title": "Réseau social",
+                "subTitle": "Restons connectés",
+                "message": "<p>Je m'assure que nous pouvons rester connectés sur vos réseaux sociaux. De cette manière, nous pouvons partager du contenu intéressant et pertinent, car après tout, vous êtes venu ici.</p>",
+                "hiddenButtonMessage": null,
+                "purpose": null,
+                "label": "Réseaux sociaux",
+                "name": "social_networks",
+                "layout": "category",
+                "hasVendors": true,
+                "image": "artlovo",
+                "image_admin": "artlovo",
+                "onlyOnce": false,
+                "allowOptOut": true,
+                "isFree": false,
+                "vendors": [
+                  {
+                    "_id": "691e179d3c6a01aba54287b7",
+                    "isAxeptioVendor": true,
+                    "projectId": null,
+                    "domain": "https://www.youtube.com/intl/en/yt/about/",
+                    "longDescription": "YouTube sans cookie est une option d'intégration vidéo alternative qui améliore la confidentialité des utilisateurs. Lors de l'utilisation de cette version, aucun cookie de suivi n'est stocké sur le dispositif du visiteur.",
+                    "name": "youtube_no_cookie",
+                    "policyUrl": "https://policies.google.com/privacy?hl=en-GB",
+                    "shortDescription": "YouTube sans cookie est une version respectueuse de la vie privée de YouTube qui ne stocke pas de cookies de suivi.",
+                    "title": "YouTube Sans Cookie",
+                    "technical": [],
+                    "category": "Publicité, Integration",
+                    "type": "advertising, embeds"
+                  }
+                ],
+                "uuid": "4faab4cf-1c85-490a-9445-5ee96142d57f",
+                "strings": {}
+              }
+            ],
+            "strings": {},
+            "a11yStrings": {},
+            "settings": {
+              "displayMode": "show",
+              "consentMode": "opt_in",
+              "delay": 3500,
+              "scrollThreshold": 800,
+              "hideAxeptioButton": false,
+              "allowEscapeKey": false
+            },
+            "uiSettings": {},
+            "version": {},
+            "projectId": "66a24fbb2a0f859f90aa8c86",
+            "name": "ffbb-mobileapp",
+            "icon": "icon_v2_google_consent_mode",
+            "isFree": true,
+            "googleConsentMode": {
+              "display": true,
+              "displayIllustrations": true,
+              "position": "second",
+              "ads_data_redaction": false,
+              "url_passthrough": false
+            },
+            "country": "FR",
+            "title": "FFBB mobileapp",
+            "regulation": "gpdr"
+          },
+          {
+            "identifier": "692866c33c6a01aba542cb62",
+            "language": "fr",
+            "aboutUsId": "base",
+            "steps": [
+              {
+                "topTitle": "Salut c'est nous...",
+                "title": "les Cookies !",
+                "subTitle": null,
+                "message": "<p>On a attendu d'être sûrs que le contenu de ce site vous intéresse avant de vous déranger, mais on aimerait bien vous accompagner pendant votre visite... <br>C'est OK pour vous ?</p>",
+                "hiddenButtonMessage": "<p>Pour modifier vos préférences par la suite, cliquez sur le lien 'Préférences de cookies' situé dans le pied de page.</p>",
+                "purpose": null,
+                "vendors": [],
+                "label": "Écran de bienvenue",
+                "description": "Écran d'accueil qui permet d'engager la conversation avec l'internaute. ",
+                "_id": "6461f58d06ddcaa78f3030e3",
+                "name": "welcome",
+                "layout": "welcome",
+                "hasVendors": false,
+                "onlyOnce": true,
+                "image": "cookie-bienvenue",
+                "image_admin": "cookie-pompom",
+                "allowOptOut": true,
+                "fixedPosition": "first",
+                "showPurposes": true,
+                "showContinueWithoutConsent": false,
+                "sameWeightForAcceptAndRejectButtons": true,
+                "strings": {},
+                "policyUrl": "https://www.ffbb.com/politique-de-protection-des-donnees-personnelles"
+              },
+              {
+                "topTitle": null,
+                "title": "Statistiques et audience",
+                "subTitle": "Compter nos calories, c’est important !",
+                "message": "<p>Nous sommes chargés de compter le nombre de visites sur ce site. Notre travail aide énormément les personnes qui travaillent ici, car nous leur permettons de détecter de nombreux points d’amélioration.</p>",
+                "hiddenButtonMessage": null,
+                "purpose": "Mesure d'audience & Analytics",
+                "label": "Analytiques et Stats",
+                "name": "analytics",
+                "layout": "category",
+                "hasVendors": true,
+                "image": "Formulaire-DLD-05",
+                "image_admin": "Formulaire-DLD-05",
+                "onlyOnce": false,
+                "allowOptOut": true,
+                "vendors": [
+                  {
+                    "_id": "62826445a14602f7d6038a99",
+                    "isAxeptioVendor": true,
+                    "projectId": null,
+                    "domain": "https://analytics.google.com/",
+                    "longDescription": "Essentiel pour la gestion du site web, il permet de mesurer des indicateurs tels que le trafic, les produits les plus consultés, ou encore la répartition géographique des visiteurs.",
+                    "name": "google_analytics",
+                    "policyUrl": "https://business.safety.google/privacy/",
+                    "shortDescription": "Nous aide à mesurer notre audience",
+                    "title": "Google Analytics 4",
+                    "technical": [],
+                    "category": "Analytiques",
+                    "type": "analytics"
+                  }
+                ],
+                "uuid": "80c74a70-2261-450e-9b97-6e4cf9d0101e",
+                "strings": {}
+              },
+              {
+                "topTitle": null,
+                "title": "Réseau social",
+                "subTitle": "Restons connectés",
+                "message": "<p>Je m'assure que nous pouvons rester connectés sur vos réseaux sociaux. De cette manière, nous pouvons partager du contenu intéressant et pertinent, car après tout, vous êtes venu ici.</p>",
+                "hiddenButtonMessage": null,
+                "purpose": null,
+                "label": "Réseaux sociaux",
+                "name": "social_networks",
+                "layout": "category",
+                "hasVendors": true,
+                "image": "artlovo",
+                "image_admin": "artlovo",
+                "onlyOnce": false,
+                "allowOptOut": true,
+                "isFree": false,
+                "vendors": [
+                  {
+                    "_id": "691e179d3c6a01aba54287b7",
+                    "isAxeptioVendor": true,
+                    "projectId": null,
+                    "domain": "https://www.youtube.com/intl/en/yt/about/",
+                    "longDescription": "YouTube sans cookie est une option d'intégration vidéo alternative qui améliore la confidentialité des utilisateurs. Lors de l'utilisation de cette version, aucun cookie de suivi n'est stocké sur le dispositif du visiteur.",
+                    "name": "youtube_no_cookie",
+                    "policyUrl": "https://policies.google.com/privacy?hl=en-GB",
+                    "shortDescription": "YouTube sans cookie est une version respectueuse de la vie privée de YouTube qui ne stocke pas de cookies de suivi.",
+                    "title": "YouTube Sans Cookie",
+                    "technical": [],
+                    "category": "Publicité, Integration",
+                    "type": "advertising, embeds"
+                  }
+                ],
+                "uuid": "d3c120da-188c-4cc4-bab5-6f492de98128",
+                "strings": {}
+              }
+            ],
+            "strings": {},
+            "a11yStrings": {},
+            "settings": {
+              "displayMode": "show",
+              "consentMode": "opt_in",
+              "delay": 3500,
+              "scrollThreshold": 800,
+              "hideAxeptioButton": false,
+              "allowEscapeKey": false
+            },
+            "uiSettings": {},
+            "version": {},
+            "projectId": "66a24fbb2a0f859f90aa8c86",
+            "name": "ffbb-web-pp",
+            "icon": "icon_v2_google_consent_mode",
+            "isFree": true,
+            "googleConsentMode": {
+              "display": true,
+              "displayIllustrations": true,
+              "position": "second",
+              "ads_data_redaction": false,
+              "url_passthrough": false
+            },
+            "country": "FR",
+            "title": "FFBB Web pp",
+            "regulation": "gpdr"
+          }
+        ],
+        "dpo": {},
+        "hasAppSdkBrands": true,
+        "hasWebSdkBrands": true,
+        "jobId": "692867393c6a01aba542cb6f",
+        "portability": [],
+        "privacypolicy": {
+          "title": "Privacy Policy",
+          "name": "privacypolicy",
+          "type": "axeptio"
+        },
+        "processings": [],
+        "projectName": "Ffbb",
+        "publishedAt": "2025-11-27T14:59:05.933Z",
+        "schemaType": "brands",
+        "shadowRoot": true
+      }
+    },
+    {
+      "url": "https://api.axept.io/v1/analytics/evts",
+      "status": 204,
+      "ct": "",
+      "body": ""
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA GRIES / OBERHOFFEN  [PNM – GES – Poule A]
+X-WR-CALDESC:Matchs de ASA GRIES / OBERHOFFEN – PNM – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-10-03-20-30-bask-furdenheim-2-asa-gries-oberhoffen
+ @ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:✈️ BASK FURDENHEIM - 2 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASK FURDENHEIM - 2 vs ASA
+  GRIES / OBERHOFFEN\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furden
+ heim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=
+ yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631934
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631934
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-10-11-17-30-asa-gries-oberhoffen-weitbruch-a-s-c-g
+ -1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261011T173000
+DTEND;TZID=Europe/Paris:20261011T193000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ WEITBRUCH A.S.C.G - 1\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67
+ 240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631952
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631952
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-10-17-20-30-basket-nord-sundgau-asa-gries-oberhoff
+ en@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:✈️ BASKET NORD SUNDGAU – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ BASKET NORD SUNDGAU vs ASA
+  GRIES / OBERHOFFEN\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 687
+ 20\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631968
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631968
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-07-20-30-asa-gries-oberhoffen-holtzheim-vogesia
+ -2@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – HOLTZHEIM VOGESIA - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ HOLTZHEIM VOGESIA - 2\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67
+ 240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631988
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631988
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-14-20-30-saint-joseph-strasbourg-1-asa-gries-ob
+ erhoffen@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 1 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ SAINT JOSEPH - STRASBOURG 
+ - 1 vs ASA GRIES / OBERHOFFEN\n\nCENTRE SPORTIF ESPLANADE\n📍 Rue Louvoi
+ s Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.577\,7.76202&nav
+ igate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632
+ 008
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632008
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-21-20-30-asa-gries-oberhoffen-asa-souffelweyers
+ heim-2@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ ASA SOUFFELWEYERSHEIM - 2\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Grie
+ s 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes
+ \n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632024
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632024
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-11-28-20-30-s-i-graffenstaden-1-asa-gries-oberhoff
+ en@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 1 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
+ ASA GRIES / OBERHOFFEN\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirc
+ h-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.7125
+ 8&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632043
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632043
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-12-06-17-30-asa-gries-oberhoffen-griesheim-p-molsh
+ eim-ls@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261206T173000
+DTEND;TZID=Europe/Paris:20261206T193000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – GRIESHEIM P/MOLSHEIM LS
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ GRIESHEIM P/MOLSHEIM LS\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 
+ 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n
+ \n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632063
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632063
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2026-12-13-17-30-asa-gries-oberhoffen-s-u-schiltigheim-
+ basket-ba@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20261213T173000
+DTEND;TZID=Europe/Paris:20261213T193000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ S.U. SCHILTIGHEIM BASKET BALL\n\nESPACE SPORT LA FORET\n📍 Rue du Stade 
+ Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate
+ =yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632079
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632079
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-09-20-30-geispolsheim-c-j-s-asa-gries-oberhoffe
+ n@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ GEISPOLSHEIM C.J.S. vs ASA
+  GRIES / OBERHOFFEN\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispols
+ heim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=
+ yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632097
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632097
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-17-17-30-asa-gries-oberhoffen-asl-dessenheim@ff
+ bb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270117T173000
+DTEND;TZID=Europe/Paris:20270117T193000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – ASL DESSENHEIM
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ ASL DESSENHEIM\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67240\n
+ 🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n📣 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/pnm/match/200000014632116
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632116
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-23-20-30-asa-gries-oberhoffen-bask-furdenheim-2
+ @ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ BASK FURDENHEIM - 2\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 6724
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632132
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632132
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-01-30-20-30-weitbruch-a-s-c-g-1-asa-gries-oberhoff
+ en@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ WEITBRUCH A.S.C.G - 1 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G - 1 vs A
+ SA GRIES / OBERHOFFEN\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église W
+ eitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navig
+ ate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463215
+ 0
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632150
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-02-07-17-30-asa-gries-oberhoffen-basket-nord-sundg
+ au@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270207T173000
+DTEND;TZID=Europe/Paris:20270207T193000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ BASKET NORD SUNDGAU\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 6724
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632166
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632166
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-02-14-17-30-holtzheim-vogesia-2-asa-gries-oberhoff
+ en@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270214T173000
+DTEND;TZID=Europe/Paris:20270214T193000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 2 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ HOLTZHEIM VOGESIA - 2 vs A
+ SA GRIES / OBERHOFFEN\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 6
+ 7810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\
+ n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632186
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632186
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-03-14-17-30-asa-gries-oberhoffen-saint-joseph-stra
+ sbourg-1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270314T173000
+DTEND;TZID=Europe/Paris:20270314T193000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ SAINT JOSEPH - STRASBOURG - 1\n\nESPACE SPORT LA FORET\n📍 Rue du Stade 
+ Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate
+ =yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632206
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632206
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-03-21-17-30-asa-souffelweyersheim-2-asa-gries-ober
+ hoffen@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270321T173000
+DTEND;TZID=Europe/Paris:20270321T193000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 2 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA SOUFFELWEYERSHEIM - 2 
+ vs ASA GRIES / OBERHOFFEN\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents 
+ Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6319\,7.74&
+ navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014
+ 632222
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632222
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-04-04-17-30-asa-gries-oberhoffen-s-i-graffenstaden
+ -1@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270404T173000
+DTEND;TZID=Europe/Paris:20270404T193000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – S.I. GRAFFENSTADEN - 1
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ S.I. GRAFFENSTADEN - 1\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 6
+ 7240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\
+ n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632241
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632241
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-04-10-20-30-griesheim-p-molsheim-ls-asa-gries-ober
+ hoffen@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ GRIESHEIM P/MOLSHEIM LS – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ GRIESHEIM P/MOLSHEIM LS vs
+  ASA GRIES / OBERHOFFEN\n\nSALLE POLYVALENTE ESPACE VALLON\n📍 Rue du Mo
+ ulin Griesheim-près-Molsheim 67870\n🚗 Waze : https://waze.com/ul?ll=48
+ .50146\,7.53104&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014632261
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632261
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-04-17-20-30-s-u-schiltigheim-basket-ball-asa-gries
+ -oberhoff@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ S.U. SCHILTIGHEIM BASKET B
+ ALL vs ASA GRIES / OBERHOFFEN\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Rue
+  du Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.61103
+ \,7.76747&navigate=yes\n\n📣 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match
+ /200000014632277
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632277
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-05-09-17-30-asa-gries-oberhoffen-geispolsheim-c-j-
+ s@ffbb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270509T173000
+DTEND;TZID=Europe/Paris:20270509T193000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ GEISPOLSHEIM C.J.S.\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 6724
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632295
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632295
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-a-2027-05-15-20-30-asl-dessenheim-asa-gries-oberhoffen@ff
+ bb-agenda
+DTSTAMP:20260813T234358Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:✈️ ASL DESSENHEIM – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule A\n⚔️ ASL DESSENHEIM vs ASA GRIE
+ S / OBERHOFFEN\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Dessenheim 6
+ 8600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigate=yes\n\
+ n📣 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632314
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632314
+END:VEVENT
+END:VCALENDAR

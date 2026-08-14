@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FFBB Agenda — Documentation technique</title>
+  <style>
+    :root {
+      --orange: #E84E0F;
+      --navy:   #1B2A4A;
+      --light:  #F5F6FA;
+      --border: #E5E7EB;
+      --warn:   #FFF3CD;
+      --warn-border: #FFCA28;
+      --code-bg: #1e1e2e;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--light);
+      color: var(--navy);
+      line-height: 1.7;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--navy);
+      color: #fff;
+      padding: 28px 32px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    header .ball { font-size: 2.2rem; }
+    header h1 { font-size: 1.5rem; font-weight: 700; }
+    header p  { font-size: .85rem; opacity: .65; margin-top: 3px; }
+
+    /* ── Layout ── */
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 32px 24px;
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: 32px;
+      align-items: start;
+    }
+
+    /* ── Sidebar nav ── */
+    nav {
+      position: sticky;
+      top: 24px;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px;
+    }
+    nav h3 {
+      font-size: .7rem;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: #9CA3AF;
+      margin-bottom: 10px;
+    }
+    nav a {
+      display: block;
+      padding: 5px 8px;
+      border-radius: 6px;
+      text-decoration: none;
+      color: var(--navy);
+      font-size: .85rem;
+      transition: background .15s;
+    }
+    nav a:hover { background: var(--light); }
+    nav a.sub { padding-left: 20px; font-size: .8rem; color: #6B7280; }
+
+    /* ── Content ── */
+    .content section {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 28px 32px;
+      margin-bottom: 24px;
+    }
+    h2 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--navy);
+      margin-bottom: 18px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid var(--orange);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    h3 {
+      font-size: .95rem;
+      font-weight: 700;
+      color: var(--navy);
+      margin: 22px 0 10px;
+    }
+    p { margin-bottom: 12px; color: #374151; }
+    a { color: var(--orange); }
+    strong { font-weight: 700; }
+
+    /* ── Code ── */
+    pre, code {
+      font-family: "SF Mono", "Fira Code", Consolas, monospace;
+      font-size: .82rem;
+    }
+    code {
+      background: #F3F4F6;
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: var(--orange);
+    }
+    pre {
+      background: var(--code-bg);
+      color: #CDD6F4;
+      border-radius: 10px;
+      padding: 18px 20px;
+      overflow-x: auto;
+      margin: 14px 0;
+      line-height: 1.6;
+    }
+    pre code {
+      background: none;
+      color: inherit;
+      padding: 0;
+    }
+
+    /* ── Tables ── */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 14px 0;
+      font-size: .88rem;
+    }
+    th {
+      background: var(--light);
+      text-align: left;
+      padding: 10px 14px;
+      font-weight: 700;
+      font-size: .78rem;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      color: #6B7280;
+      border-bottom: 2px solid var(--border);
+    }
+    td {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    tr:last-child td { border-bottom: none; }
+    td code { font-size: .8rem; }
+
+    /* ── Warning box ── */
+    .warning {
+      background: var(--warn);
+      border: 1.5px solid var(--warn-border);
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin: 14px 0;
+    }
+    .warning .warn-title {
+      font-weight: 700;
+      font-size: .95rem;
+      margin-bottom: 8px;
+      color: #856404;
+    }
+    .warning p { color: #533f03; margin-bottom: 6px; }
+    .warning p:last-child { margin-bottom: 0; }
+
+    /* ── Steps ── */
+    ol { padding-left: 22px; margin: 10px 0; }
+    ol li { margin-bottom: 6px; color: #374151; }
+    ul { padding-left: 22px; margin: 10px 0; }
+    ul li { margin-bottom: 6px; color: #374151; }
+
+    /* ── OS tabs ── */
+    .os-tabs { display: flex; gap: 8px; margin-bottom: 14px; flex-wrap: wrap; }
+    .os-tab {
+      padding: 6px 16px;
+      border-radius: 20px;
+      border: 1.5px solid var(--border);
+      background: #fff;
+      font-size: .83rem;
+      font-weight: 600;
+      cursor: pointer;
+      color: var(--navy);
+      transition: all .15s;
+    }
+    .os-tab.active { background: var(--navy); color: #fff; border-color: var(--navy); }
+    .os-content { display: none; }
+    .os-content.active { display: block; }
+
+    /* ── Responsive ── */
+    @media (max-width: 700px) {
+      .container { grid-template-columns: 1fr; }
+      nav { position: static; }
+      .content section { padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <span class="ball">🏀</span>
+  <div>
+    <h1>FFBB Agenda — Documentation technique</h1>
+    <p>Scraping · Google Calendar · Abonnement mobile</p>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- Sidebar -->
+  <nav>
+    <h3>Sommaire</h3>
+    <a href="#overview">Vue d'ensemble</a>
+    <a href="#architecture">Architecture</a>
+    <a href="#fichiers">Fichiers</a>
+    <a href="#prerequis">Prérequis</a>
+    <a href="#scraping">Scraping</a>
+    <a class="sub" href="#scraping">Chaîne de scraping</a>
+    <a class="sub" href="#dom">Détection DOM</a>
+    <a href="#sync">Synchronisation</a>
+    <a class="sub" href="#format">Format des events</a>
+    <a class="sub" href="#quotas">Quotas</a>
+    <a href="#commandes">Commandes</a>
+    <a href="#abonnement">Abonnement</a>
+    <a href="#cron">Cron</a>
+    <a href="#calendars-json">⚠️ calendars.json</a>
+    <a href="#limitations">Limitations</a>
+  </nav>
+
+  <!-- Content -->
+  <div class="content">
+
+    <section id="overview">
+      <h2>🌐 Vue d'ensemble</h2>
+      <p>Ce projet scrape automatiquement le site <a href="https://competitions.ffbb.com" target="_blank">competitions.ffbb.com</a> et synchronise les matchs dans des <strong>Google Calendars publics</strong>, un par championnat/poule et un par équipe.</p>
+      <p>Une page HTML permet à n'importe quel utilisateur de s'abonner au calendrier de son équipe depuis son mobile (iPhone ou Android) sans créer de compte.</p>
+    </section>
+
+    <section id="architecture">
+      <h2>🏗️ Architecture</h2>
+      <pre><code>competitions.ffbb.com
+        │
+        ▼
+  scraper.py          ← Playwright + BeautifulSoup
+  (scrape les matchs)
+        │
+        ▼
+  calendar_sync.py    ← Google Calendar API
+  (crée/met à jour les agendas)
+        │
+        ├── calendars.json   ← base locale (clé → calendar_id)
+        │
+        ▼
+  generate_frontend.py
+  (génère index.html)
+        │
+        ▼
+    index.html         ← page publique d'abonnement</code></pre>
+    </section>
+
+    <section id="fichiers">
+      <h2>📁 Fichiers</h2>
+      <table>
+        <tr><th>Fichier</th><th>Rôle</th></tr>
+        <tr><td><code>scraper.py</code></td><td>Scraping Playwright, extraction matchs + détails</td></tr>
+        <tr><td><code>calendar_sync.py</code></td><td>Sync Google Calendar (création, MàJ, suppression)</td></tr>
+        <tr><td><code>generate_frontend.py</code></td><td>Génère <code>index.html</code> depuis <code>calendars.json</code></td></tr>
+        <tr><td><code>index.html</code></td><td>Page publique : recherche équipe + abonnement</td></tr>
+        <tr><td><code>calendars.json</code></td><td>Cache local : clé → calendar_id Google</td></tr>
+        <tr><td><code>service_account.json</code></td><td>Credentials compte de service Google (<strong>ne jamais partager</strong>)</td></tr>
+      </table>
+    </section>
+
+    <section id="prerequis">
+      <h2>⚙️ Prérequis</h2>
+      <h3>1. Python et dépendances</h3>
+      <pre><code>pip install playwright beautifulsoup4 google-api-python-client google-auth
+playwright install chromium</code></pre>
+
+      <h3>2. Compte de service Google</h3>
+      <ul>
+        <li>Projet GCP : <code>ffbb-agenda</code></li>
+        <li>Compte de service : <code>ffbb-scraper@ffbb-agenda.iam.gserviceaccount.com</code></li>
+        <li>Fichier credentials : <code>service_account.json</code> (à placer dans le dossier du projet)</li>
+        <li>API activée : <strong>Google Calendar API</strong></li>
+      </ul>
+    </section>
+
+    <section id="scraping">
+      <h2>🔍 Fonctionnement du scraping</h2>
+
+      <h3>Chaîne de scraping pour un championnat</h3>
+      <pre><code>URL championnat (avec phase= et poule=)
+    │
+    ├─ find_all_poule_urls()
+    │   └─ Lit le &lt;select aria-label="Poules"&gt; → toutes les poules
+    │
+    └─ Pour chaque poule :
+         │
+         ├─ find_journee_urls()
+         │   └─ Lit le &lt;select aria-label="Journées"&gt; → toutes les journées
+         │
+         └─ Pour chaque journée :
+              │
+              ├─ extract_matches()      ← divs avec 2 &lt;a title="EQUIPE"&gt;
+              │
+              └─ scrape_match_detail()  ← page /match/{id}
+                   ├─ Salle (label "Nom" dans section "Salle")
+                   ├─ Adresse (label "Adresse")
+                   ├─ Lien Waze
+                   ├─ Lien Google Maps
+                   └─ Arbitres (siblings après label "Arbitre")</code></pre>
+
+      <h3 id="dom">Détection des matchs dans le DOM</h3>
+      <p>Un match = un <code>&lt;div&gt;</code> ayant <strong>exactement 2 enfants directs <code>&lt;a title="NOM_EQUIPE"&gt;</code></strong>.<br>
+      Déduplication par <code>(date, heure, equipe1, equipe2)</code> pour éviter les doublons mobile/desktop.</p>
+
+      <h3>Extraction de la poule active</h3>
+      <p>La poule courante est identifiée par l'ID dans l'URL (<code>poule=XXXXXXXX</code>). On cherche l'<code>&lt;option value="XXXXXXXX"&gt;</code> correspondante dans le <code>&lt;select aria-label="Poules"&gt;</code> pour en lire le libellé (ex: "Poule B").</p>
+    </section>
+
+    <section id="sync">
+      <h2>📅 Fonctionnement de la synchronisation</h2>
+
+      <h3>Structure des calendriers créés</h3>
+      <table>
+        <tr><th>Type</th><th>Nom</th><th>Exemple</th></tr>
+        <tr><td>Championnat</td><td><code>🏀 FFBB – {SLUG} – {REGION} – {POULE}</code></td><td>🏀 FFBB – PNF – ARA – Poule A</td></tr>
+        <tr><td>Équipe</td><td><code>🏀 FFBB – {EQUIPE} [{SLUG} – {REGION}]</code></td><td>🏀 FFBB – US ISSOIRE - 1 [PNF – ARA]</td></tr>
+      </table>
+      <p>Tous les calendriers sont <strong>publics</strong> (ACL <code>reader</code> pour <code>default</code>).</p>
+
+      <h3>Clés dans <code>calendars.json</code></h3>
+      <ul>
+        <li>Championnat : <code>{phase_id}_{poule_id}</code> → ex: <code>200000002897651_200000003055506</code></li>
+        <li>Équipe : <code>eq_{phase_id}_{poule_id}_{NOM_EQUIPE[:40]}</code></li>
+      </ul>
+
+      <h3>Déduplication des événements</h3>
+      <p>Chaque event Google Calendar a une propriété privée <code>ffbb_match_id</code> au format :</p>
+      <pre><code>{date}_{heure}_{equipe1}_{equipe2}</code></pre>
+      <p>Si un match existe déjà, il est mis à jour uniquement si le titre, l'horaire, le lieu ou la description ont changé.</p>
+
+      <h3 id="format">Format d'un événement</h3>
+      <pre><code>Titre    : 🏠 US ISSOIRE - 1 – FIRMINY CHAZEAU-FAYOL AL
+           (🏠 domicile / ✈️ extérieur — uniquement dans le calendrier équipe)
+
+Location : GYMNASE FERNAND COUNIL, Chemin des Croizettes, 63500 Issoire
+
+Description :
+  🏀 PNF – ARA – Poule A
+  ⚔️  US ISSOIRE - 1 vs FIRMINY CHAZEAU-FAYOL AL
+  📊 Score : 72-65              (si disponible)
+
+  GYMNASE FERNAND COUNIL
+  📍 Chemin des Croizettes, 63500 Issoire
+  🚗 Waze : https://waze.com/ul?q=...
+
+  🦺 Arbitres : NOM PRENOM, NOM PRENOM  (ou "Pas de désignation")
+
+  🔗 Feuille FFBB : https://competitions.ffbb.com/...</code></pre>
+
+      <h3 id="quotas">Gestion des quotas Google Calendar</h3>
+      <ul>
+        <li><strong>Retry avec backoff exponentiel</strong> : toute erreur 403/429 déclenche une attente (5s → 10s → 20s → 40s → 80s)</li>
+        <li><strong>Pause de 1,5s</strong> après chaque création de calendrier pour éviter le rate-limiting en rafale</li>
+      </ul>
+    </section>
+
+    <section id="commandes">
+      <h2>💻 Commandes</h2>
+
+      <h3>Sync complet d'un championnat (toutes les poules auto-détectées)</h3>
+      <pre><code>python calendar_sync.py "https://competitions.ffbb.com/ligues/ara/competitions/pnf?phase=200000002897651&poule=200000003055506"</code></pre>
+
+      <h3>Sync d'une seule poule (mode direct, sans auto-détection)</h3>
+      <pre><code>python calendar_sync.py --direct "https://competitions.ffbb.com/ligues/ara/competitions/pnf?phase=200000002897651&poule=200000003055507"</code></pre>
+
+      <h3>Régénérer la page HTML publique</h3>
+      <pre><code>python generate_frontend.py</code></pre>
+    </section>
+
+    <section id="abonnement">
+      <h2>📱 Abonnement à un calendrier</h2>
+
+      <div class="os-tabs">
+        <button class="os-tab active" onclick="showOS('ios', this)"> iPhone / iPad</button>
+        <button class="os-tab" onclick="showOS('android', this)">🤖 Android</button>
+        <button class="os-tab" onclick="showOS('desktop', this)">🖥️ Desktop</button>
+      </div>
+
+      <div id="os-ios" class="os-content active">
+        <ol>
+          <li>Ouvrir la page <code>index.html</code></li>
+          <li>Chercher son équipe → cliquer <strong>S'abonner</strong></li>
+          <li>Choisir <strong>"Ajouter à Calendrier iPhone"</strong> → s'ouvre automatiquement dans l'app Calendrier</li>
+          <li>Confirmer l'abonnement</li>
+        </ol>
+        <p>Le lien utilise le protocole <code>webcal://</code> reconnu nativement par iOS.</p>
+      </div>
+
+      <div id="os-android" class="os-content">
+        <ol>
+          <li>Ouvrir la page <code>index.html</code></li>
+          <li>Chercher son équipe → cliquer <strong>S'abonner</strong></li>
+          <li>Choisir <strong>"Ajouter à Google Agenda"</strong> → s'ouvre dans Google Calendar</li>
+          <li>Cliquer <strong>"Ajouter"</strong></li>
+        </ol>
+      </div>
+
+      <div id="os-desktop" class="os-content">
+        <ul>
+          <li><strong>iCal / Calendrier macOS</strong> : clic sur le lien <code>webcal://</code> ou importer le fichier <code>.ics</code></li>
+          <li><strong>Google Agenda</strong> : utiliser le lien "Ouvrir dans Google Agenda"</li>
+          <li><strong>Outlook</strong> : importer le fichier <code>.ics</code> ou s'abonner via l'URL <code>https://calendar.google.com/calendar/ical/{id}/public/basic.ics</code></li>
+        </ul>
+      </div>
+
+      <h3>Mise à jour automatique</h3>
+      <p>Les abonnés <strong>reçoivent automatiquement les mises à jour</strong> : changements d'horaire, scores, arbitres apparaissent sans aucune action. Fréquence : iOS ~1h, Google Agenda plusieurs fois par jour.</p>
+    </section>
+
+    <section id="cron">
+      <h2>⏰ Cron (synchronisation automatique)</h2>
+      <p>À configurer sur la machine hébergeant le projet (Windows : Planificateur de tâches, Linux/Mac : crontab).</p>
+      <pre><code># Sync rapide toutes les 3h (poule spécifique)
+0 */3 * * * cd /chemin/projet && python calendar_sync.py --direct "URL_POULE" >> logs/sync.log 2>&1
+
+# Sync complet hebdomadaire (dimanche 3h du matin)
+0 3 * * 0 cd /chemin/projet && python calendar_sync.py "URL_CHAMPIONNAT" >> logs/sync_full.log 2>&1
+
+# Régénération du frontend après chaque sync
+5 */3 * * * cd /chemin/projet && python generate_frontend.py >> logs/frontend.log 2>&1</code></pre>
+    </section>
+
+    <section id="calendars-json">
+      <h2>⚠️ Attention : <code>calendars.json</code></h2>
+
+      <div class="warning">
+        <div class="warn-title">⚠️ Fichier critique — ne jamais supprimer en production</div>
+        <p>Ce fichier est la <strong>seule correspondance</strong> entre les clés FFBB et les IDs Google Calendar.</p>
+        <p>Si ce fichier est supprimé, le script recrée de nouveaux calendriers avec de nouveaux IDs. <strong>Tous les abonnés existants perdent leur abonnement</strong> car leur app pointe vers l'ancien ID qui n'est plus alimenté.</p>
+      </div>
+
+      <h3>Ce qui se passe si on le supprime</h3>
+      <p>Les anciens calendriers Google restent orphelins dans le compte de service et doivent être supprimés manuellement.</p>
+
+      <h3>Quand supprimer <code>calendars.json</code> (reset volontaire)</h3>
+      <p>Uniquement pour repartir de zéro (ex: corriger des noms de calendriers). Dans ce cas :</p>
+      <ol>
+        <li>Supprimer <code>calendars.json</code></li>
+        <li>Supprimer manuellement les anciens calendriers dans Google Calendar (ou via l'API)</li>
+        <li>Relancer <code>python calendar_sync.py</code> → recrée tout proprement</li>
+        <li><strong>Prévenir les utilisateurs</strong> qu'ils doivent se réabonner</li>
+      </ol>
+
+      <h3>Sauvegarde recommandée</h3>
+      <pre><code># Avant toute opération risquée
+cp calendars.json calendars.json.backup</code></pre>
+    </section>
+
+    <section id="limitations">
+      <h2>🚧 Limitations connues</h2>
+      <ul>
+        <li><strong>Scraping séquentiel</strong> : chaque page Playwright est ouverte l'une après l'autre (~4s/page). Pour 6 poules × 10 journées + détails matchs : environ 30–45 min par championnat complet.</li>
+        <li><strong>Quota Google Calendar</strong> : création en masse limitée. Le backoff automatique gère les erreurs, mais un sync initial de plusieurs championnats peut prendre plusieurs heures.</li>
+        <li><strong>Arbitres</strong> : les désignations arrivent tard dans la saison. Avant désignation, l'event affiche "Pas de désignation".</li>
+        <li><strong>Scores</strong> : récupérés sur la page détail du match. Disponibles uniquement après la rencontre.</li>
+      </ul>
+    </section>
+
+  </div>
+</div>
+
+<script>
+function showOS(os, btn) {
+  document.querySelectorAll('.os-content').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.os-tab').forEach(el => el.classList.remove('active'));
+  document.getElementById('os-' + os).classList.add('active');
+  btn.classList.add('active');
+}
+</script>
+
+</body>
+</html>

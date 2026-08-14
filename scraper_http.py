@@ -269,24 +269,32 @@ async def scrape_journee(
 ) -> list[dict]:
     url = f"{base_url}&journee={journee}"
     async with sem:
-        try:
-            async with session.get(url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
-                html = await resp.text()
-        except Exception as e:
-            print(f"  ⚠️  J{journee} erreur : {e}")
-            return []
+        for attempt in range(3):
+            try:
+                async with session.get(url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
+                    html = await resp.text()
+                break
+            except Exception as e:
+                if attempt == 2:
+                    print(f"  ⚠️  J{journee} erreur après 3 tentatives : {e}")
+                    return []
+                await asyncio.sleep(2 ** attempt)  # 1s, 2s
 
     rencontres_raw = extract_next_f_json(html, poule_id=poule_id)
     matches = [parse_rencontre(r) for r in rencontres_raw]
 
     if enrich_arbitres and matches:
-        arb_tasks = [fetch_arbitres(session, m["match_url"]) for m in matches if m["joue"]]
+        from datetime import date as _date, timedelta as _td
+        horizon = (_date.today() + _td(days=14)).isoformat()
+        # Fetch arbitres pour matchs passés ou dans les 14 prochains jours
+        eligible = [
+            m for m in matches
+            if m.get("match_url") and (m.get("joue") or (m.get("date", "") and m["date"][:10] <= horizon))
+        ]
+        arb_tasks = [fetch_arbitres(session, m["match_url"]) for m in eligible]
         arb_results = await asyncio.gather(*arb_tasks)
-        i = 0
-        for m in matches:
-            if m["joue"]:
-                m["arbitres"] = arb_results[i]
-                i += 1
+        for m, arb in zip(eligible, arb_results):
+            m["arbitres"] = arb
 
     return matches
 

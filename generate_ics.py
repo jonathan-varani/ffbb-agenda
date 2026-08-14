@@ -130,7 +130,7 @@ def build_vevent(match: dict, competition_nom: str, uid_prefix: str, team: str |
     if waze:
         desc_lines.append(f"🚗 Waze : {waze}")
     desc_lines.append(
-        f"\n📣 Arbitres : {', '.join(arb) if arb else 'Pas de désignation'}"
+        f"\n📢 Arbitres : {', '.join(arb) if arb else 'Pas de désignation'}"
     )
     if murl:
         desc_lines.append(f"\n🔗 Feuille FFBB : {murl}")

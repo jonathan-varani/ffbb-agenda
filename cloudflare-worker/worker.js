@@ -147,6 +147,50 @@ async function handleSubscribe(request, env) {
   return json({ ok: true });
 }
 
+// ── POST /feedback ────────────────────────────────────────────────────────────
+
+async function handleFeedback(request, env) {
+  let body;
+  try { body = await request.json(); }
+  catch { return json({ error: "JSON invalide" }, 400); }
+
+  const { message, email: userEmail } = body;
+  if (!message || message.trim().length < 5) {
+    return json({ error: "Message trop court" }, 400);
+  }
+
+  const replyLine = userEmail ? `<p><strong>Email de l'utilisateur :</strong> ${userEmail}</p>` : "<p><em>Aucun email fourni</em></p>";
+
+  const emailHtml = `
+  <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+              max-width:480px;margin:0 auto;padding:32px 24px;color:#1B2A4A">
+    <h2 style="margin-bottom:16px">🐛 Nouveau signalement — Agendas FFBB</h2>
+    ${replyLine}
+    <div style="background:#F5F6FA;border-radius:8px;padding:16px;margin-top:16px;
+                font-size:.9rem;white-space:pre-wrap">${message.trim()}</div>
+    <hr style="border:none;border-top:1px solid #E5E7EB;margin:24px 0">
+    <p style="font-size:.72rem;color:#9CA3AF">Envoyé depuis Agendas FFBB</p>
+  </div>`;
+
+  const brevo = await fetch("https://api.brevo.com/v3/smtp/email", {
+    method: "POST",
+    headers: { "api-key": env.BREVO_KEY, "Content-Type": "application/json" },
+    body: JSON.stringify({
+      sender:      { name: "Agendas FFBB", email: SENDER_EMAIL },
+      to:          [{ email: "jonathan.varani@gmail.com" }],
+      replyTo:     userEmail ? { email: userEmail } : undefined,
+      subject:     "🐛 Signalement Agendas FFBB",
+      htmlContent: emailHtml,
+    }),
+  });
+  if (!brevo.ok) {
+    const err = await brevo.text();
+    return json({ error: "Brevo : " + err }, 500);
+  }
+
+  return json({ ok: true });
+}
+
 // ── GET /sub?token=xxx ────────────────────────────────────────────────────────
 
 async function handleToken(request, env) {
@@ -242,6 +286,9 @@ export default {
     }
     if (request.method === "POST" && path === "/subscribe") {
       return handleSubscribe(request, env);
+    }
+    if (request.method === "POST" && path === "/feedback") {
+      return handleFeedback(request, env);
     }
     if (request.method === "GET" && path === "/sub") {
       return handleToken(request, env);

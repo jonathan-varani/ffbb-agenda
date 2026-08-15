@@ -74,7 +74,7 @@ async function handleSubscribe(request, env) {
 
   // ── Email Brevo ───────────────────────────────────────────────────────────
   const icsUrl     = icsFullUrl(fichier);
-  const webcalLink = icsUrl.replace(/^https?:\/\//, "webcal://");
+  const tokenLink = `${env.WORKER_URL}/sub?token=${token}`;
 
   const emailHtml = `
   <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
@@ -94,7 +94,7 @@ async function handleSubscribe(request, env) {
       <p style="font-size:.85rem;color:#6B7280;margin-bottom:12px">
         Ouvre ce lien depuis ton téléphone 📱
       </p>
-      <a href="${webcalLink}"
+      <a href="${tokenLink}"
          style="display:inline-block;background:#E84E0F;color:#fff;
                 text-decoration:none;padding:14px 32px;border-radius:10px;
                 font-weight:700;font-size:1rem">

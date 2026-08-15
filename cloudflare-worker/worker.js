@@ -233,9 +233,41 @@ async function handleToken(request, env) {
     );
   }
 
-  // ── Redirection ────────────────────────────────────────────────────────────
+  // ── Page d'abonnement (clic direct requis pour webcal:// sur Android) ────────
   const dest = subUrl(row.fichier, row.device);
-  return Response.redirect(dest, 302);
+  const equipeLabel = row.equipe || "votre équipe";
+  return new Response(`<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Agendas FFBB — Abonnement</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+           background: #F5F6FA; color: #1B2A4A;
+           display: flex; align-items: center; justify-content: center;
+           min-height: 100vh; margin: 0; padding: 20px; }
+    .card { background: #fff; border-radius: 16px; padding: 36px 28px;
+            max-width: 400px; width: 100%; text-align: center;
+            box-shadow: 0 4px 20px rgba(0,0,0,.08); }
+    h1 { font-size: 1.1rem; margin: 16px 0 8px; }
+    p  { font-size: .88rem; color: #6B7280; margin-bottom: 28px; line-height: 1.5; }
+    a.btn { display: block; background: #E84E0F; color: #fff; text-decoration: none;
+            padding: 15px; border-radius: 12px; font-weight: 700; font-size: 1rem;
+            margin-bottom: 12px; }
+    .hint { font-size: .75rem; color: #9CA3AF; margin-bottom: 0; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div style="font-size:3rem">🏀</div>
+    <h1>Abonnement prêt !</h1>
+    <p>Clique le bouton pour ajouter le calendrier de <strong>${equipeLabel}</strong> à ton application Calendrier.</p>
+    <a href="${dest}" class="btn">📅 Ajouter à mon calendrier</a>
+    <p class="hint">Fonctionne sur iPhone, iPad, Mac et Android (Google Agenda)</p>
+  </div>
+</body>
+</html>`, { headers: { "Content-Type": "text/html;charset=UTF-8" } });
 }
 
 // ── Helpers réponse ───────────────────────────────────────────────────────────

@@ -536,7 +536,7 @@ async def discover_competitions(
     Découvre toutes les compétitions d'une page de ligue FFBB.
     Remplace la version Playwright : utilise requests sur le HTML SSR.
     """
-    exclude = [kw.lower() for kw in (exclude or ["coupe", "plateau", "cup"])]
+    exclude = [kw.lower() for kw in (exclude or ["coupe", "plateau", "cup", "amicale"])]
     print(f"\n  Découverte des compétitions : {region_url}")
 
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as session:

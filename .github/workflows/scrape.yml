@@ -2,8 +2,10 @@ name: Scrape FFBB — région GES
 
 on:
   schedule:
-    # Toutes les 6h (UTC) — ajuste si besoin
-    - cron: "0 */6 * * *"
+    # 8h00 et 23h00 heure de Paris = 6h00 et 21h00 UTC (heure d'été)
+    # ⚠️ GitHub Actions ne gère que l'UTC : décaler d'1h en hiver (heure d'hiver = UTC+1)
+    - cron: "0 6 * * *"
+    - cron: "0 21 * * *"
   workflow_dispatch: {}   # permet un lancement manuel depuis l'onglet Actions
 
 permissions:

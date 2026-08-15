@@ -38,10 +38,6 @@ function icsFullUrl(fichier) {
   return `${PAGES_BASE}/${fichier}`;
 }
 
-function subUrl(fichier, device) {
-  const full = icsFullUrl(fichier);
-  return full.replace(/^https?:\/\//, "webcal://");
-}
 
 // ── POST /subscribe ───────────────────────────────────────────────────────────
 
@@ -73,7 +69,6 @@ async function handleSubscribe(request, env) {
   }
 
   // ── Email Brevo ───────────────────────────────────────────────────────────
-  const icsUrl     = icsFullUrl(fichier);
   const tokenLink = `${env.WORKER_URL}/sub?token=${token}`;
 
   const emailHtml = `
@@ -92,7 +87,7 @@ async function handleSubscribe(request, env) {
 
     <div style="text-align:center;margin:28px 0">
       <p style="font-size:.85rem;color:#6B7280;margin-bottom:12px">
-        Ouvre ce lien depuis ton téléphone 📱
+        Ouvrez ce lien <strong>depuis votre téléphone</strong> 📱
       </p>
       <a href="${tokenLink}"
          style="display:inline-block;background:#E84E0F;color:#fff;
@@ -105,7 +100,8 @@ async function handleSubscribe(request, env) {
     <div style="background:#F5F6FA;border-radius:8px;padding:14px 16px;
                 font-size:.82rem;color:#6B7280;margin-bottom:24px">
       Les mises à jour (horaires, scores, arbitres) apparaîtront
-      <strong>automatiquement</strong> dans votre application Calendrier.
+      <strong>automatiquement</strong> dans votre application Calendrier.<br><br>
+      <em style="font-size:.78rem">Ce lien est valable une seule fois.</em>
     </div>
 
     <hr style="border:none;border-top:1px solid #E5E7EB;margin:24px 0">
@@ -122,6 +118,9 @@ async function handleSubscribe(request, env) {
       to:          [{ email }],
       subject:     `📅 Votre abonnement FFBB — ${equipe}`,
       htmlContent: emailHtml,
+      // Désactive le wrapper de tracking Brevo (sendibt2.com) qui casse le lien sur Android
+      trackClicks: false,
+      trackOpens:  false,
     }),
   });
   if (!brevo.ok) {
@@ -233,9 +232,14 @@ async function handleToken(request, env) {
     );
   }
 
-  // ── Page d'abonnement (clic direct requis pour webcal:// sur Android) ────────
-  const dest = subUrl(row.fichier, row.device);
+  // ── Page d'abonnement ───────────────────────────────────────────────────────
+  // Un clic utilisateur direct est indispensable : un redirect 302 vers webcal://
+  // donne une page blanche dans un navigateur mobile.
+  const httpsUrl    = icsFullUrl(row.fichier);
+  const webcalUrl   = httpsUrl.replace(/^https?:\/\//, "webcal://");
+  const googleUrl   = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(httpsUrl)}`;
   const equipeLabel = row.equipe || "votre équipe";
+
   return new Response(`<!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -243,29 +247,75 @@ async function handleToken(request, env) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Agendas FFBB — Abonnement</title>
   <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
            background: #F5F6FA; color: #1B2A4A;
            display: flex; align-items: center; justify-content: center;
-           min-height: 100vh; margin: 0; padding: 20px; }
-    .card { background: #fff; border-radius: 16px; padding: 36px 28px;
+           min-height: 100vh; padding: 20px; }
+    .card { background: #fff; border-radius: 16px; padding: 32px 24px;
             max-width: 400px; width: 100%; text-align: center;
             box-shadow: 0 4px 20px rgba(0,0,0,.08); }
-    h1 { font-size: 1.1rem; margin: 16px 0 8px; }
-    p  { font-size: .88rem; color: #6B7280; margin-bottom: 28px; line-height: 1.5; }
-    a.btn { display: block; background: #E84E0F; color: #fff; text-decoration: none;
-            padding: 15px; border-radius: 12px; font-weight: 700; font-size: 1rem;
-            margin-bottom: 12px; }
-    .hint { font-size: .75rem; color: #9CA3AF; margin-bottom: 0; }
+    h1 { font-size: 1.15rem; margin: 14px 0 6px; }
+    .sub { font-size: .88rem; color: #6B7280; margin-bottom: 24px; line-height: 1.5; }
+    a.btn { display: block; color: #fff; text-decoration: none; padding: 15px;
+            border-radius: 12px; font-weight: 700; font-size: 1rem; margin-bottom: 10px; }
+    .ios { background: #E84E0F; }
+    .android { background: #1A73E8; }
+    .steps { text-align: left; background: #F5F6FA; border-radius: 10px;
+             padding: 14px 16px; font-size: .8rem; color: #4B5563;
+             line-height: 1.6; margin-top: 14px; }
+    .steps strong { color: #1B2A4A; }
+    .alt { font-size: .75rem; color: #9CA3AF; margin-top: 16px; }
+    .alt a { color: #9CA3AF; }
+    .hidden { display: none; }
   </style>
 </head>
 <body>
   <div class="card">
     <div style="font-size:3rem">🏀</div>
     <h1>Abonnement prêt !</h1>
-    <p>Clique le bouton pour ajouter le calendrier de <strong>${equipeLabel}</strong> à ton application Calendrier.</p>
-    <a href="${dest}" class="btn">📅 Ajouter à mon calendrier</a>
-    <p class="hint">Fonctionne sur iPhone, iPad, Mac et Android (Google Agenda)</p>
+    <p class="sub">Calendrier de <strong>${equipeLabel}</strong></p>
+
+    <!-- iOS / Mac -->
+    <div id="block-ios" class="hidden">
+      <a href="${webcalUrl}" class="btn ios">📅 Ajouter à mon calendrier</a>
+      <div class="steps">
+        Votre application <strong>Calendrier</strong> va s'ouvrir.
+        Appuyez sur <strong>S'abonner</strong> puis <strong>Terminé</strong>.
+      </div>
+    </div>
+
+    <!-- Android -->
+    <div id="block-android" class="hidden">
+      <a href="${googleUrl}" class="btn android">📅 Ajouter à Google Agenda</a>
+      <div class="steps">
+        <strong>Sur Android</strong>, l'abonnement passe par votre compte Google :<br>
+        1. La page Google Agenda s'ouvre → appuyez sur <strong>Ajouter</strong><br>
+        2. Le calendrier apparaît ensuite <strong>automatiquement</strong> dans l'app Agenda de votre téléphone<br>
+        3. Comptez jusqu'à quelques heures pour la première synchronisation
+      </div>
+    </div>
+
+    <!-- Desktop / inconnu : les deux -->
+    <div id="block-both" class="hidden">
+      <a href="${webcalUrl}" class="btn ios">📱 iPhone / iPad / Mac</a>
+      <a href="${googleUrl}" class="btn android">🤖 Android / Google Agenda</a>
+    </div>
+
+    <p class="alt">
+      Lien direct : <a href="${httpsUrl}">${httpsUrl}</a>
+    </p>
   </div>
+
+  <script>
+    var ua = navigator.userAgent || "";
+    var isIOS = /iPad|iPhone|iPod/.test(ua) ||
+                (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+    var isMac = /Macintosh/.test(ua);
+    var isAndroid = /Android/.test(ua);
+    var id = isAndroid ? "block-android" : (isIOS || isMac) ? "block-ios" : "block-both";
+    document.getElementById(id).classList.remove("hidden");
+  </script>
 </body>
 </html>`, { headers: { "Content-Type": "text/html;charset=UTF-8" } });
 }

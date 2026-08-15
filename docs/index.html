@@ -382,75 +382,38 @@
     }
     footer a { color: var(--orange); text-decoration: none; }
 
-    /* ── Bouton À propos ── */
-    .about-btn {
-      background: none;
-      border: none;
-      color: rgba(255,255,255,.7);
-      font-size: .8rem;
-      cursor: pointer;
-      padding: 4px 8px;
-      border-radius: 6px;
-      white-space: nowrap;
-    }
-    .about-btn:hover { color: #fff; }
-
-    /* ── Modal À propos ── */
-    .about-sheet {
-      background: #fff;
-      border-radius: 20px 20px 0 0;
-      width: 100%;
-      max-width: 520px;
-      max-height: 90vh;
-      overflow-y: auto;
-      animation: slideUp .22s ease;
-      padding: 24px 24px calc(24px + env(safe-area-inset-bottom, 0));
-    }
-    .about-sheet h2 {
-      font-size: 1.1rem;
-      font-weight: 700;
-      color: var(--navy);
-      margin-bottom: 16px;
-      text-align: center;
-    }
-    .about-sheet p {
-      font-size: .9rem;
-      line-height: 1.65;
-      color: #374151;
-      margin-bottom: 14px;
-    }
-    .kofi-btn {
-      display: block;
-      width: 100%;
-      margin-top: 20px;
-      padding: 14px;
-      background: #FF5E5B;
-      color: #fff;
-      border: none;
-      border-radius: var(--radius);
-      font-size: 1rem;
-      font-weight: 700;
-      text-align: center;
-      text-decoration: none;
-      cursor: pointer;
-    }
-    .kofi-btn:active { opacity: .85; }
   </style>
 </head>
 <body>
 
 <header>
-  <div class="header-logo" style="display:flex;align-items:center;justify-content:space-between">
-    <div style="display:flex;align-items:center;gap:12px">
-      <span class="logo-ball">🏀</span>
-      <div>
-        <h1>Agendas FFBB</h1>
-        <p>Abonnez-vous au calendrier de votre équipe</p>
-      </div>
+  <div class="header-logo">
+    <span class="logo-ball">🏀</span>
+    <div>
+      <h1>Agendas FFBB</h1>
+      <p>Abonnez-vous au calendrier de votre équipe</p>
     </div>
-    <button class="about-btn" onclick="openAbout()">Qui suis-je ?</button>
   </div>
 </header>
+
+<!-- Section présentation -->
+<div style="background:#fff;border-bottom:1px solid var(--border);padding:20px 20px 24px">
+  <p style="font-size:.92rem;line-height:1.65;color:#374151;margin-bottom:16px">
+    Entraîneur de basket dans le Grand Est le week-end, geek de la tech et de l'IA la semaine.
+    Fan inconditionnel des Celtics — ne pas me parler des Lakers.<br><br>
+    Ce projet est né d'une frustration très simple : les parents et les jeunes qui me demandent
+    en boucle <em>"c'est quand le prochain match ?"</em> et <em>"c'est où le gymnase ?"</em>.
+    Deux semaines de code plus tard, la réponse est dans leur agenda. Maintenant vous pouvez
+    en profiter aussi — et c'est gratuit, parce que le basket c'est pour tout le monde.<br><br>
+    Si l'outil vous fait gagner du temps (et quelques messages WhatsApp), un café Ko-fi est
+    toujours le bienvenu pour couvrir les frais d'hébergement et continuer à améliorer le projet. 🙏
+  </p>
+  <a href="https://ko-fi.com/bandelette" target="_blank" rel="noopener"
+     style="display:block;background:#FF5E5B;color:#fff;text-decoration:none;
+            padding:13px;border-radius:10px;font-weight:700;font-size:.95rem;text-align:center">
+    ☕ Soutenir le projet sur Ko-fi
+  </a>
+</div>
 
 <div class="search-bar">
   <input type="search" id="search" placeholder="🔍  Rechercher une équipe…" autocomplete="off" autocorrect="off">
@@ -475,26 +438,8 @@
 
 <footer>
   Données issues de <a href="https://competitions.ffbb.com" target="_blank">competitions.ffbb.com</a><br>
-  Mise à jour automatique · Projet non officiel<br><br>
-  <a href="https://ko-fi.com/bandelette" target="_blank" rel="noopener"
-     style="display:inline-block;background:#FF5E5B;color:#fff;text-decoration:none;
-            padding:10px 22px;border-radius:10px;font-weight:700;font-size:.9rem">
-    ☕ Soutenir le projet sur Ko-fi
-  </a>
+  Mise à jour automatique · Projet non officiel
 </footer>
-
-<!-- Modal À propos -->
-<div class="modal-overlay" id="about-modal" onclick="handleAboutOverlayClick(event)">
-  <div class="about-sheet">
-    <div class="modal-handle"></div>
-    <h2>Qui suis-je ?</h2>
-    <p>Entraîneur de basket dans le Grand Est le week-end, geek de la tech et de l'IA la semaine. Fan inconditionnel des Celtics — ne pas me parler des Lakers.</p>
-    <p>Ce projet est né d'une frustration très simple : les parents et les jeunes qui me demandent en boucle "c'est quand le prochain match ?" et "c'est où le gymnase ?". Deux semaines de code plus tard, la réponse est dans leur agenda. Maintenant vous pouvez en profiter aussi — et c'est gratuit, parce que le basket c'est pour tout le monde.</p>
-    <p>Si l'outil vous fait gagner du temps (et quelques messages WhatsApp), un café Ko-fi est toujours le bienvenu pour couvrir les frais d'hébergement et continuer à améliorer le projet. 🙏</p>
-    <a class="kofi-btn" href="https://ko-fi.com/bandelette" target="_blank" rel="noopener">☕ Offrir un café sur Ko-fi</a>
-    <button class="modal-close-btn" onclick="closeAbout()" style="margin-top:12px">Fermer</button>
-  </div>
-</div>
 
 <!-- Modal prévisualisation -->
 <div class="modal-overlay" id="modal" onclick="handleOverlayClick(event)">
@@ -829,16 +774,6 @@ function closeModal() {
 }
 function handleOverlayClick(e) {
   if (e.target === document.getElementById("modal")) closeModal();
-}
-
-function openAbout() {
-  document.getElementById("about-modal").classList.add("open");
-}
-function closeAbout() {
-  document.getElementById("about-modal").classList.remove("open");
-}
-function handleAboutOverlayClick(e) {
-  if (e.target === document.getElementById("about-modal")) closeAbout();
 }
 
 loadData();

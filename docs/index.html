@@ -487,8 +487,7 @@ const BASE = (() => {
 
 function icsUrl(f)    { return `${BASE}/${f}`; }
 function webcalUrl(f) { return icsUrl(f).replace(/^https?:\/\//, "webcal://"); }
-function gcalUrl(f)   { return `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(icsUrl(f))}`; }
-function subUrl(f)    { return isAndroid ? gcalUrl(f) : webcalUrl(f); }
+function subUrl(f)    { return webcalUrl(f); }
 
 // ── Données ──────────────────────────────────────────────────────────────────
 let DATA = null;

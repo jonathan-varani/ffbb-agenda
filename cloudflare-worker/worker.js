@@ -40,9 +40,7 @@ function icsFullUrl(fichier) {
 
 function subUrl(fichier, device) {
   const full = icsFullUrl(fichier);
-  return device === "android"
-    ? `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(full)}`
-    : full.replace(/^https?:\/\//, "webcal://");
+  return full.replace(/^https?:\/\//, "webcal://");
 }
 
 // ── POST /subscribe ───────────────────────────────────────────────────────────
@@ -76,8 +74,7 @@ async function handleSubscribe(request, env) {
 
   // ── Email Brevo ───────────────────────────────────────────────────────────
   const icsUrl     = icsFullUrl(fichier);
-  const iosLink    = icsUrl.replace(/^https?:\/\//, "webcal://");
-  const androidLink = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(iosLink)}`;
+  const webcalLink = icsUrl.replace(/^https?:\/\//, "webcal://");
 
   const emailHtml = `
   <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
@@ -89,31 +86,19 @@ async function handleSubscribe(request, env) {
 
     <p style="margin-bottom:12px">Bonjour,</p>
     <p style="margin-bottom:20px">
-      Voici vos liens d'abonnement au calendrier de
+      Voici votre lien d'abonnement au calendrier de
       <strong>${equipe}</strong>${comp_nom ? ` — ${comp_nom}` : ""}.
     </p>
 
     <div style="text-align:center;margin:28px 0">
       <p style="font-size:.85rem;color:#6B7280;margin-bottom:12px">
-        iPhone / iPad / Mac
+        Ouvre ce lien depuis ton téléphone 📱
       </p>
-      <a href="${iosLink}"
+      <a href="${webcalLink}"
          style="display:inline-block;background:#E84E0F;color:#fff;
                 text-decoration:none;padding:14px 32px;border-radius:10px;
                 font-weight:700;font-size:1rem">
-        📱 S'abonner (iOS / Mac)
-      </a>
-    </div>
-
-    <div style="text-align:center;margin:28px 0">
-      <p style="font-size:.85rem;color:#6B7280;margin-bottom:12px">
-        Android / Google Agenda
-      </p>
-      <a href="${androidLink}"
-         style="display:inline-block;background:#1A73E8;color:#fff;
-                text-decoration:none;padding:14px 32px;border-radius:10px;
-                font-weight:700;font-size:1rem">
-        🤖 S'abonner (Android)
+        📅 S'abonner au calendrier
       </a>
     </div>
 

@@ -786,17 +786,6 @@ function handleOverlayClick(e) {
 loadData();
 
 // ── Feedback ─────────────────────────────────────────────────────────────────
-document.getElementById("feedback-btn").addEventListener("click", () => {
-  document.getElementById("feedback-overlay").classList.add("open");
-  document.getElementById("feedback-msg").focus();
-});
-document.getElementById("feedback-close").addEventListener("click", () => {
-  document.getElementById("feedback-overlay").classList.remove("open");
-});
-document.getElementById("feedback-overlay").addEventListener("click", e => {
-  if (e.target === document.getElementById("feedback-overlay"))
-    document.getElementById("feedback-overlay").classList.remove("open");
-});
 document.getElementById("feedback-form").addEventListener("submit", async e => {
   e.preventDefault();
   const btn  = document.getElementById("feedback-send");
@@ -814,10 +803,6 @@ document.getElementById("feedback-form").addEventListener("submit", async e => {
     if (res.ok) {
       document.getElementById("feedback-form").innerHTML =
         '<p style="text-align:center;color:#16A34A;font-weight:600;padding:20px 0">✅ Message envoyé, merci !</p>';
-      setTimeout(() => {
-        document.getElementById("feedback-overlay").classList.remove("open");
-        document.getElementById("feedback-form").reset && document.getElementById("feedback-form").reset();
-      }, 2000);
     } else {
       btn.disabled = false;
       btn.textContent = "Envoyer";
@@ -831,50 +816,28 @@ document.getElementById("feedback-form").addEventListener("submit", async e => {
 });
 </script>
 
-<!-- ── Bouton flottant feedback ── -->
-<button id="feedback-btn" aria-label="Signaler un problème"
-  style="position:fixed;bottom:24px;right:20px;z-index:200;
-         background:var(--navy);color:#fff;border:none;border-radius:50px;
-         padding:11px 18px;font-size:.82rem;font-weight:600;cursor:pointer;
-         box-shadow:0 4px 14px rgba(0,0,0,.3);display:flex;align-items:center;gap:6px">
-  🐛 Signaler
-</button>
-
-<!-- ── Overlay feedback ── -->
-<div id="feedback-overlay"
-  style="position:fixed;inset:0;z-index:300;
-         background:rgba(0,0,0,.5);align-items:flex-end;justify-content:center">
-  <div style="background:#fff;width:100%;max-width:480px;border-radius:16px 16px 0 0;
-              padding:24px 20px 32px;position:relative">
-    <button id="feedback-close"
-      style="position:absolute;top:14px;right:16px;background:none;border:none;
-             font-size:1.4rem;cursor:pointer;color:var(--gray)">×</button>
-    <h3 style="font-size:1rem;font-weight:700;margin-bottom:6px">🐛 Signaler un problème</h3>
-    <p style="font-size:.8rem;color:var(--gray);margin-bottom:16px">
-      Équipe introuvable, abonnement qui ne fonctionne pas, données incorrectes… dis-moi tout.
-    </p>
-    <form id="feedback-form" style="display:flex;flex-direction:column;gap:12px">
-      <textarea id="feedback-msg" rows="4" placeholder="Décris le problème…"
-        style="width:100%;padding:10px 12px;border:1.5px solid var(--border);
-               border-radius:10px;font-size:.9rem;resize:none;font-family:inherit;
-               color:var(--navy);outline:none"
-        required></textarea>
-      <input id="feedback-email" type="email" placeholder="Ton email (optionnel, pour te répondre)"
-        style="width:100%;padding:10px 12px;border:1.5px solid var(--border);
-               border-radius:10px;font-size:.9rem;font-family:inherit;
-               color:var(--navy);outline:none">
-      <button id="feedback-send" type="submit"
-        style="background:var(--orange);color:#fff;border:none;border-radius:10px;
-               padding:13px;font-size:.95rem;font-weight:700;cursor:pointer">
-        Envoyer
-      </button>
-    </form>
-  </div>
+<!-- ── Section feedback bas de page ── -->
+<div style="background:#fff;border-top:1px solid var(--border);padding:24px 20px 40px">
+  <h3 style="font-size:.95rem;font-weight:700;margin-bottom:6px">🐛 Signaler un problème</h3>
+  <p style="font-size:.8rem;color:var(--gray);margin-bottom:16px">
+    Équipe introuvable, abonnement qui ne fonctionne pas, données incorrectes… dis-moi tout.
+  </p>
+  <form id="feedback-form" style="display:flex;flex-direction:column;gap:12px">
+    <textarea id="feedback-msg" rows="4" placeholder="Décris le problème…"
+      style="width:100%;padding:10px 12px;border:1.5px solid var(--border);
+             border-radius:10px;font-size:.9rem;resize:none;font-family:inherit;
+             color:var(--navy);outline:none"
+      required></textarea>
+    <input id="feedback-email" type="email" placeholder="Ton email (optionnel, pour te répondre)"
+      style="width:100%;padding:10px 12px;border:1.5px solid var(--border);
+             border-radius:10px;font-size:.9rem;font-family:inherit;
+             color:var(--navy);outline:none">
+    <button id="feedback-send" type="submit"
+      style="background:var(--orange);color:#fff;border:none;border-radius:10px;
+             padding:13px;font-size:.95rem;font-weight:700;cursor:pointer">
+      Envoyer
+    </button>
+  </form>
 </div>
-
-<style>
-#feedback-overlay { display: none; }
-#feedback-overlay.open { display: flex; }
-</style>
 </body>
 </html>

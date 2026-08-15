@@ -93,6 +93,32 @@
       border-color: var(--navy);
     }
 
+    /* ── Filtre genre ── */
+    .genre-tabs {
+      display: flex;
+      gap: 8px;
+      padding: 0 16px 10px;
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+    }
+    .genre-tab {
+      flex: 1;
+      padding: 7px 10px;
+      border-radius: 20px;
+      border: 1.5px solid var(--border);
+      background: #fff;
+      font-size: .82rem;
+      font-weight: 600;
+      color: var(--gray);
+      cursor: pointer;
+      text-align: center;
+    }
+    .genre-tab.active {
+      background: var(--orange);
+      color: #fff;
+      border-color: var(--orange);
+    }
+
     /* ── Contenu ── */
     main { padding: 12px 16px 80px; }
 
@@ -428,6 +454,12 @@
 
 <div class="region-tabs" id="region-tabs"></div>
 
+<div class="genre-tabs" id="genre-tabs">
+  <button class="genre-tab active" data-genre="">Tous</button>
+  <button class="genre-tab" data-genre="F">🏀 Filles</button>
+  <button class="genre-tab" data-genre="M">🏀 Garçons</button>
+</div>
+
 <div class="howto">
   <span class="howto-step">1️⃣ Cherche ton équipe</span>
   <span class="howto-arrow">→</span>
@@ -493,6 +525,23 @@ function subUrl(f)    { return webcalUrl(f); }
 let DATA = null;
 let currentRegion = "";
 let currentSearch = "";
+let currentGenre  = "";
+
+// ── Détection genre (F/M) depuis le titre de la compétition ──────────────────
+function detectGenre(titre) {
+  const t = (titre || "").toLowerCase();
+  if (/f[ée]minin/.test(t)) return "F";
+  if (/masculin/.test(t))   return "M";
+  return "";
+}
+
+function compGenreMap() {
+  const map = {};
+  for (const c of DATA.calendriers) {
+    map[c.slug] = detectGenre(c.meta && c.meta.titre);
+  }
+  return map;
+}
 
 async function loadData() {
   try {
@@ -552,11 +601,22 @@ document.getElementById("search").addEventListener("input", e => {
   render(buildTree());
 });
 
+document.getElementById("genre-tabs").addEventListener("click", e => {
+  const btn = e.target.closest(".genre-tab");
+  if (!btn) return;
+  currentGenre = btn.dataset.genre;
+  document.querySelectorAll(".genre-tab").forEach(b =>
+    b.classList.toggle("active", b === btn)
+  );
+  render(buildTree());
+});
+
 function esc(s) { return (s || "").replace(/"/g, "&quot;"); }
 
 function render(tree) {
   if (!tree) return;
   const content = document.getElementById("content");
+  const genreMap = compGenreMap();
   let html = ""; let total = 0;
   const regionsToShow = currentRegion ? [currentRegion] : Object.keys(tree).sort();
 
@@ -567,7 +627,8 @@ function render(tree) {
       let champHtml = "";
       Object.entries(poules).sort().forEach(([poule, teamList]) => {
         const filtered = teamList.filter(t =>
-          !currentSearch || t.nom.toLowerCase().includes(currentSearch)
+          (!currentSearch || t.nom.toLowerCase().includes(currentSearch)) &&
+          (!currentGenre || genreMap[t.comp_slug] === currentGenre)
         );
         if (!filtered.length) return;
         total += filtered.length;

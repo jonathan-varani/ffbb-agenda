@@ -537,6 +537,11 @@ async def discover_competitions(
     Remplace la version Playwright : utilise requests sur le HTML SSR.
     """
     exclude = [kw.lower() for kw in (exclude or ["coupe", "plateau", "cup", "amicale"])]
+    # La FFBB nomme systématiquement les compétitions "Amicale" avec un slug
+    # du type "17-ami-nmu18" — signal plus fiable que le texte du lien (qui
+    # peut être vide/générique si plusieurs <a> pointent vers le même slug,
+    # ex: menu mobile dupliqué).
+    amicale_slug_re = re.compile(r"/\d+-ami-", re.I)
     print(f"\n  Découverte des compétitions : {region_url}")
 
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as session:
@@ -554,8 +559,10 @@ async def discover_competitions(
         if not m:
             continue
         slug_path = m.group(1)
-        if slug_path not in slugs:
-            slugs[slug_path] = a.get_text(strip=True)
+        label = a.get_text(strip=True)
+        # Garde le label le plus long/informatif si le slug apparaît plusieurs fois
+        if slug_path not in slugs or len(label) > len(slugs[slug_path]):
+            slugs[slug_path] = label
 
     print(f"  {len(slugs)} slug(s) trouvé(s) :")
     for sp, lb in slugs.items():
@@ -572,7 +579,7 @@ async def discover_competitions(
             slug_path = slug_m.group(1)
             label = a.get_text(strip=True)
             low = slug_path.lower() + " " + label.lower()
-            if not any(kw in low for kw in exclude):
+            if not any(kw in low for kw in exclude) and not amicale_slug_re.search(slug_path):
                 url_with_phase = BASE + slug_path + "?phase=" + pm.group(1)
                 result_from_links[slug_path] = url_with_phase
             else:
@@ -585,8 +592,8 @@ async def discover_competitions(
     # Filtrage et résolution des URLs avec phase= (visite chaque comp)
     async def resolve(slug_path: str, label: str) -> str | None:
         low = slug_path.lower() + " " + label.lower()
-        if any(kw in low for kw in exclude):
-            print(f"  ⏭ Exclu : {label!r}")
+        if any(kw in low for kw in exclude) or amicale_slug_re.search(slug_path):
+            print(f"  ⏭ Exclu : {label!r} ({slug_path})")
             return None
 
         # Essaie d'abord avec ?journee=1 pour forcer le rendu SSR avec phase

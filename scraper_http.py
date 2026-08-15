@@ -570,10 +570,13 @@ async def discover_competitions(
         slug_m = re.search(r"(/ligues/[^/]+/competitions/[^/?#]+)", href)
         if pm and slug_m:
             slug_path = slug_m.group(1)
-            low = slug_path.lower()
+            label = a.get_text(strip=True)
+            low = slug_path.lower() + " " + label.lower()
             if not any(kw in low for kw in exclude):
                 url_with_phase = BASE + slug_path + "?phase=" + pm.group(1)
                 result_from_links[slug_path] = url_with_phase
+            else:
+                print(f"  ⏭ Exclu : {label!r} ({slug_path})")
 
     if result_from_links:
         print(f"  → {len(result_from_links)} compétition(s) avec phase= trouvée(s) directement dans les liens")

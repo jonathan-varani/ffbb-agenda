@@ -75,9 +75,11 @@ async function handleSubscribe(request, env) {
   }
 
   // ── Email Brevo ───────────────────────────────────────────────────────────
-  const tokenLink = `${env.WORKER_URL}/sub?token=${token}`;
+  const icsUrl     = icsFullUrl(fichier);
+  const iosLink    = icsUrl.replace(/^https?:\/\//, "webcal://");
+  const androidLink = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(iosLink)}`;
 
-  const html = `
+  const emailHtml = `
   <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
               max-width:480px;margin:0 auto;padding:32px 24px;color:#1B2A4A">
     <div style="text-align:center;margin-bottom:28px">
@@ -87,22 +89,36 @@ async function handleSubscribe(request, env) {
 
     <p style="margin-bottom:12px">Bonjour,</p>
     <p style="margin-bottom:20px">
-      Voici votre lien d'abonnement au calendrier de
+      Voici vos liens d'abonnement au calendrier de
       <strong>${equipe}</strong>${comp_nom ? ` — ${comp_nom}` : ""}.
     </p>
 
-    <div style="text-align:center;margin:32px 0">
-      <a href="${tokenLink}"
+    <div style="text-align:center;margin:28px 0">
+      <p style="font-size:.85rem;color:#6B7280;margin-bottom:12px">
+        iPhone / iPad / Mac
+      </p>
+      <a href="${iosLink}"
          style="display:inline-block;background:#E84E0F;color:#fff;
                 text-decoration:none;padding:14px 32px;border-radius:10px;
                 font-weight:700;font-size:1rem">
-        📅 S'abonner au calendrier
+        📱 S'abonner (iOS / Mac)
+      </a>
+    </div>
+
+    <div style="text-align:center;margin:28px 0">
+      <p style="font-size:.85rem;color:#6B7280;margin-bottom:12px">
+        Android / Google Agenda
+      </p>
+      <a href="${androidLink}"
+         style="display:inline-block;background:#1A73E8;color:#fff;
+                text-decoration:none;padding:14px 32px;border-radius:10px;
+                font-weight:700;font-size:1rem">
+        🤖 S'abonner (Android)
       </a>
     </div>
 
     <div style="background:#F5F6FA;border-radius:8px;padding:14px 16px;
                 font-size:.82rem;color:#6B7280;margin-bottom:24px">
-      ⚠️ Ce lien est <strong>personnel et à usage unique</strong>.<br>
       Les mises à jour (horaires, scores, arbitres) apparaîtront
       <strong>automatiquement</strong> dans votre application Calendrier.
     </div>
@@ -120,7 +136,7 @@ async function handleSubscribe(request, env) {
       sender:      { name: SENDER_NAME, email: SENDER_EMAIL },
       to:          [{ email }],
       subject:     `📅 Votre abonnement FFBB — ${equipe}`,
-      htmlContent: html,
+      htmlContent: emailHtml,
     }),
   });
   if (!brevo.ok) {

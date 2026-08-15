@@ -1,0 +1,40 @@
+name: Scrape FFBB — région GES
+
+on:
+  schedule:
+    # Toutes les 6h (UTC) — ajuste si besoin
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}   # permet un lancement manuel depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le scraping (région GES)
+        run: python generate_ics.py --region "https://competitions.ffbb.com/ligues/ges"
+
+      - name: Commit + push si changements
+        run: |
+          git config user.name "ffbb-bot"
+          git config user.email "actions@github.com"
+          git add docs/calendars docs/calendars.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Auto: mise à jour calendriers FFBB $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

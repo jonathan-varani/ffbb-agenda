@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – REAL CHALOSSAIS  [NM3 –  – Poule C]
+X-WR-CALDESC:Matchs de REAL CHALOSSAIS – NM3 – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-05-20-00-real-chalossais-basket-club-saint-barthele
+ my-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:🏠 REAL CHALOSSAIS – BASKET CLUB SAINT BARTHELEMY. - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs BASKET CLUB SAI
+ NT BARTHELEMY. - 1\n\nTOULOUZETTE ARENES\n📍 Route des Arènes Toulouzet
+ te 40250\n🚗 Waze : https://waze.com/ul?ll=43.75484\,-0.68577&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm3/match/200000014598819
+LOCATION:TOULOUZETTE ARENES\, Route des Arènes Toulouzette 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598819
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-12-20-00-ie-ctc-lucon-ste-gemme-1-real-chalossais@f
+ fbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ IE - CTC LUÇON-STE GEMME - 1 – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ IE - CTC LUÇON-STE GEMME - 1 vs R
+ EAL CHALOSSAIS\n\nSALLE DES COMMEES LUCON\n📍 Boulevard Michel Phélipon
+  Luçon 85400\n🚗 Waze : https://waze.com/ul?ll=46.46382\,-1.17411&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm3/match/200000014598877
+LOCATION:SALLE DES COMMEES LUCON\, Boulevard Michel Phélipon Luçon 85400
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598877
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-19-20-00-real-chalossais-ie-as-panazol@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:🏠 REAL CHALOSSAIS – IE - AS PANAZOL
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs IE - AS PANAZOL
+ \n\nTOULOUZETTE ARENES\n📍 Route des Arènes Toulouzette 40250\n🚗 Waz
+ e : https://waze.com/ul?ll=43.75484\,-0.68577&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm3/match/200000014598931
+LOCATION:TOULOUZETTE ARENES\, Route des Arènes Toulouzette 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598931
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-26-20-00-tours-metropole-basket-plll-2-real-chaloss
+ ais@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ TOURS METROPOLE BASKET PLLL - 2 – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ TOURS METROPOLE BASKET PLLL - 2 vs
+  REAL CHALOSSAIS\n\nGYMNASE DABILLY\n📍 Rue Dabilly Tours 37000\n🚗 Wa
+ ze : https://waze.com/ul?ll=47.39269\,0.67486&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm3/match/200000014598990
+LOCATION:GYMNASE DABILLY\, Rue Dabilly Tours 37000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598990
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-03-20-00-real-chalossais-cassen-saint-geours-basket
+ @ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 REAL CHALOSSAIS – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs CASSEN SAINT GE
+ OURS BASKET\n\nTOULOUZETTE ARENES\n📍 Route des Arènes Toulouzette 4025
+ 0\n🚗 Waze : https://waze.com/ul?ll=43.75484\,-0.68577&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599043
+LOCATION:TOULOUZETTE ARENES\, Route des Arènes Toulouzette 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599043
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-10-20-00-coteaux-du-luy-basket-1-real-chalossais@ff
+ bb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ COTEAUX DU LUY BASKET - 1 – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ COTEAUX DU LUY BASKET - 1 vs REAL 
+ CHALOSSAIS\n\nSALLE DE MONSEGUR\n📍 Route des Pyrénées Monségur 40700
+ \n🚗 Waze : https://waze.com/ul?ll=43.6043\,-0.54151&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599099
+LOCATION:SALLE DE MONSEGUR\, Route des Pyrénées Monségur 40700
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599099
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-17-20-00-real-chalossais-ie-villeneuve-basket-club@
+ ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:🏠 REAL CHALOSSAIS – IE - VILLENEUVE BASKET CLUB
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs IE - VILLENEUVE
+  BASKET CLUB\n\nSALLE DE ST AUBIN\n📍 Place de la Mairie Saint-Aubin 402
+ 50\n🚗 Waze : https://waze.com/ul?ll=43.71087\,-0.69657&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599155
+LOCATION:SALLE DE ST AUBIN\, Place de la Mairie Saint-Aubin 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599155
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-31-20-00-alerte-sp-de-fondettes-1-real-chalossais@f
+ fbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ ALERTE SP. DE FONDETTES - 1 – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ ALERTE SP. DE FONDETTES - 1 vs REA
+ L CHALOSSAIS\n\nGYMNASE PIERRE PILORGER\n📍 Avenue du Moulin à Vent Fon
+ dettes 37230\n🚗 Waze : https://waze.com/ul?ll=47.39914\,0.60015&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599213
+LOCATION:GYMNASE PIERRE PILORGER\, Avenue du Moulin à Vent Fondettes 37230
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599213
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-11-07-19-00-real-chalossais-seguiniere-la-st-louis-bas
+ ket-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261107T190000
+DTEND;TZID=Europe/Paris:20261107T210000
+SUMMARY:🏠 REAL CHALOSSAIS – SEGUINIERE (LA) ST LOUIS BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs SEGUINIERE (LA)
+  ST LOUIS BASKET - 1\n\nSALLE DE ST AUBIN\n📍 Place de la Mairie Saint-A
+ ubin 40250\n🚗 Waze : https://waze.com/ul?ll=43.71087\,-0.69657&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm3/match/200000014599267
+LOCATION:SALLE DE ST AUBIN\, Place de la Mairie Saint-Aubin 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599267
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-11-14-20-00-touraine-bc-real-chalossais@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ TOURAINE BC – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ TOURAINE BC vs REAL CHALOSSAIS\n\n
+ GYMNASE DU HALLEBARDIER\n📍 Rue du Hallebardier Tours 37000\n🚗 Waze :
+  https://waze.com/ul?ll=47.38207\,0.695&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
+ petitions/nm3/match/200000014599326
+LOCATION:GYMNASE DU HALLEBARDIER\, Rue du Hallebardier Tours 37000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599326
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-11-29-16-30-real-chalossais-stade-montois-basket-mascu
+ lin-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261129T163000
+DTEND;TZID=Europe/Paris:20261129T183000
+SUMMARY:🏠 REAL CHALOSSAIS – STADE MONTOIS BASKET MASCULIN - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs STADE MONTOIS B
+ ASKET MASCULIN - 1\n\nSALLE DE DOAZIT\n📍 Route de Mus Doazit 40700\n
+ 🚗 Waze : https://waze.com/ul?ll=43.67673\,-0.63698&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014599379
+LOCATION:SALLE DE DOAZIT\, Route de Mus Doazit 40700
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599379
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-12-05-20-00-basket-seychois-barthelemeen-1-real-chalos
+ sais@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ BASKET SEYCHOIS BARTHELEMEEN - 1 – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ BASKET SEYCHOIS BARTHELEMEEN - 1 v
+ s REAL CHALOSSAIS\n\nGYMNASE HENRY SABATIER\n📍 Avenue de Laborde Seyche
+ s 47350\n🚗 Waze : https://waze.com/ul?ll=44.55268\,0.3086&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm3/match/200000014599440
+LOCATION:GYMNASE HENRY SABATIER\, Avenue de Laborde Seyches 47350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599440
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-12-12-20-00-real-chalossais-castelnau-medoc-bc@ffbb-ag
+ enda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 REAL CHALOSSAIS – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs CASTELNAU MEDOC
+  BC\n\nSALLE DE DOAZIT\n📍 Route de Mus Doazit 40700\n🚗 Waze : https:
+ //waze.com/ul?ll=43.67673\,-0.63698&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nm3/match/200000014599491
+LOCATION:SALLE DE DOAZIT\, Route de Mus Doazit 40700
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599491
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-02-20-00-basket-club-saint-barthelemy-1-real-chalos
+ sais@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:✈️ BASKET CLUB SAINT BARTHELEMY. - 1 – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ BASKET CLUB SAINT BARTHELEMY. - 1 
+ vs REAL CHALOSSAIS\n\nSALLE DES ARDOISES - ST BARTH.\n📍 Rue Victor Hugo
+  Saint-Barthélemy-d'Anjou 49124\n🚗 Waze : https://waze.com/ul?ll=47.46
+ 471\,-0.50496&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000
+ 014599547
+LOCATION:SALLE DES ARDOISES - ST BARTH.\, Rue Victor Hugo Saint-Barthélemy
+ -d'Anjou 49124
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599547
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-09-20-00-real-chalossais-ie-ctc-lucon-ste-gemme-1@f
+ fbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 REAL CHALOSSAIS – IE - CTC LUÇON-STE GEMME - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs IE - CTC LUÇON
+ -STE GEMME - 1\n\nSALLE DE DOAZIT\n📍 Route de Mus Doazit 40700\n🚗 Wa
+ ze : https://waze.com/ul?ll=43.67673\,-0.63698&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nm3/match/200000014599605
+LOCATION:SALLE DE DOAZIT\, Route de Mus Doazit 40700
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599605
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-16-20-00-ie-as-panazol-real-chalossais@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:✈️ IE - AS PANAZOL – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ IE - AS PANAZOL vs REAL CHALOSSAIS
+ \n\nGYMNASE DE GUILLEMOT\n📍 Allée Joseph Guillemot Panazol 87350\n🚗
+  Waze : https://waze.com/ul?ll=45.8375\,1.31194&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nm3/match/200000014599659
+LOCATION:GYMNASE DE GUILLEMOT\, Allée Joseph Guillemot Panazol 87350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599659
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-30-20-00-real-chalossais-tours-metropole-basket-pll
+ l-2@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:🏠 REAL CHALOSSAIS – TOURS METROPOLE BASKET PLLL - 2
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs TOURS METROPOLE
+  BASKET PLLL - 2\n\nSALLE D' HAURIET\n📍 Lieu-dit Le Bourg Hauriet 40250
+ \n🚗 Waze : https://waze.com/ul?ll=43.73306\,-0.69683&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599718
+LOCATION:SALLE D' HAURIET\, Lieu-dit Le Bourg Hauriet 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599718
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-02-06-20-00-cassen-saint-geours-basket-real-chalossais
+ @ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ CASSEN SAINT GEOURS BASKET – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs REAL
+  CHALOSSAIS\n\nSALLE POLYVALENTE\n📍 Route de Montfort Saint-Geours-d'Au
+ ribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0.83727&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599771
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599771
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-02-13-20-00-real-chalossais-coteaux-du-luy-basket-1@ff
+ bb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:🏠 REAL CHALOSSAIS – COTEAUX DU LUY BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs COTEAUX DU LUY 
+ BASKET - 1\n\nSALLE D' HAURIET\n📍 Lieu-dit Le Bourg Hauriet 40250\n🚗
+  Waze : https://waze.com/ul?ll=43.73306\,-0.69683&navigate=yes\n\n📢 Arb
+ itres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/competitions/nm3/match/200000014599827
+LOCATION:SALLE D' HAURIET\, Lieu-dit Le Bourg Hauriet 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599827
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-02-27-20-00-ie-villeneuve-basket-club-real-chalossais@
+ ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ IE - VILLENEUVE BASKET CLUB – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ IE - VILLENEUVE BASKET CLUB vs REA
+ L CHALOSSAIS\n\nGYMNASE MAURICE LANG\n📍 Rue de la Gravette Villeneuve-s
+ ur-Lot 47300\n🚗 Waze : https://waze.com/ul?ll=44.41142\,0.69637&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599883
+LOCATION:GYMNASE MAURICE LANG\, Rue de la Gravette Villeneuve-sur-Lot 47300
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599883
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-03-06-20-00-real-chalossais-alerte-sp-de-fondettes-1@f
+ fbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 REAL CHALOSSAIS – ALERTE SP. DE FONDETTES - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs ALERTE SP. DE F
+ ONDETTES - 1\n\nSALLE D' HAURIET\n📍 Lieu-dit Le Bourg Hauriet 40250\n
+ 🚗 Waze : https://waze.com/ul?ll=43.73306\,-0.69683&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014599941
+LOCATION:SALLE D' HAURIET\, Lieu-dit Le Bourg Hauriet 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599941
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-03-13-20-00-seguiniere-la-st-louis-basket-1-real-chalo
+ ssais@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ SEGUINIERE (LA) ST LOUIS BASKET - 1 – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ SEGUINIERE (LA) ST LOUIS BASKET - 
+ 1 vs REAL CHALOSSAIS\n\nSALLE DE L'ARCEAU N 1\n📍 Rue du Paradis La Ség
+ uinière 49280\n🚗 Waze : https://waze.com/ul?ll=47.06461\,-0.94124&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm3/match/200000014599995
+LOCATION:SALLE DE L'ARCEAU N 1\, Rue du Paradis La Séguinière 49280
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599995
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-03-27-20-00-real-chalossais-touraine-bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 REAL CHALOSSAIS – TOURAINE BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs TOURAINE BC\n\n
+ SALLE DE ST AUBIN\n📍 Place de la Mairie Saint-Aubin 40250\n🚗 Waze : 
+ https://waze.com/ul?ll=43.71087\,-0.69657&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm3/match/200000014600054
+LOCATION:SALLE DE ST AUBIN\, Place de la Mairie Saint-Aubin 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600054
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-04-03-20-00-stade-montois-basket-masculin-1-real-chalo
+ ssais@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ STADE MONTOIS BASKET MASCULIN - 1 – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ STADE MONTOIS BASKET MASCULIN - 1 
+ vs REAL CHALOSSAIS\n\nESPACE F. MITTERRAND\n📍 Rue de la Ferme du Conte 
+ Mont-de-Marsan 40000\n🚗 Waze : https://waze.com/ul?ll=43.89754\,-0.4646
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nm3/match/200000014600107
+LOCATION:ESPACE F. MITTERRAND\, Rue de la Ferme du Conte Mont-de-Marsan 400
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600107
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-04-17-20-00-real-chalossais-basket-seychois-bartheleme
+ en-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 REAL CHALOSSAIS – BASKET SEYCHOIS BARTHELEMEEN - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs BASKET SEYCHOIS
+  BARTHELEMEEN - 1\n\nSALLE DE ST AUBIN\n📍 Place de la Mairie Saint-Aubi
+ n 40250\n🚗 Waze : https://waze.com/ul?ll=43.71087\,-0.69657&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm3/match/200000014600168
+LOCATION:SALLE DE ST AUBIN\, Place de la Mairie Saint-Aubin 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600168
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-04-25-15-30-castelnau-medoc-bc-real-chalossais@ffbb-ag
+ enda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270425T153000
+DTEND;TZID=Europe/Paris:20270425T173000
+SUMMARY:✈️ CASTELNAU MEDOC BC – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs REAL CHALOSS
+ AIS\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelnau-de-Médoc 334
+ 80\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014600219
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600219
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASK FURDENHEIM  [NM3 –  – Poule G]
+X-WR-CALDESC:Matchs de BASK FURDENHEIM – NM3 – Poule G
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-09-06-15-30-effort-basket-mirecourt-bask-furdenheim@ff
+ bb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20260906T153000
+DTEND;TZID=Europe/Paris:20260906T173000
+SUMMARY:✈️ EFFORT BASKET MIRECOURT – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ EFFORT BASKET MIRECOURT vs BASK FU
+ RDENHEIM\n\nSALLE CLAUDE HACQUARD\n📍 Rue de Bonn-Buel Mirecourt 88500\n
+ 🚗 Waze : https://waze.com/ul?ll=48.29433\,6.13292&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014598851
+LOCATION:SALLE CLAUDE HACQUARD\, Rue de Bonn-Buel Mirecourt 88500
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598851
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-09-12-20-00-bask-furdenheim-ie-ctc-ozoir-val-d-europe-
+ 1@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:🏠 BASK FURDENHEIM – IE - CTC OZOIR VAL D'EUROPE - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs IE - CTC OZOIR 
+ VAL D'EUROPE - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenhei
+ m 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nm3/match/200000014598906
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598906
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-09-19-19-30-paris-panthers-association-ppa-1-bask-furd
+ enheim@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20260919T193000
+DTEND;TZID=Europe/Paris:20260919T213000
+SUMMARY:✈️ PARIS PANTHERS ASSOCIATION (PPA) - 1 – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs BASK FURDENHEIM\n\nGYMNASE LOUIS LUMIERE Salle C\n📍 Rue Louis Lum
+ ière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48.8592\,2.41165&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nm3/match/200000014598965
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598965
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-10-03-20-00-selestat-bc-1-bask-furdenheim@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ SELESTAT BC - 1 – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ SELESTAT BC - 1 vs BASK FURDENHEIM
+ \n\nCOSEC EUGENE GRIESMAR (annexe)\n📍 Quai Albrecht Sélestat 67600\n
+ 🚗 Waze : https://waze.com/ul?ll=48.25313\,7.45296&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014599072
+LOCATION:COSEC EUGENE GRIESMAR (annexe)\, Quai Albrecht Sélestat 67600
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599072
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-10-10-20-00-bask-furdenheim-gauloise-de-vitry-le-franc
+ ois@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 BASK FURDENHEIM – GAULOISE DE VITRY LE FRANCOIS
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs GAULOISE DE VIT
+ RY LE FRANCOIS\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 
+ 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nm3/match/200000014599130
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599130
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-10-17-20-00-ie-basket-paris-14-bask-furdenheim@ffbb-ag
+ enda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:✈️ IE - BASKET PARIS 14 – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ IE - BASKET PARIS 14 vs BASK FURDE
+ NHEIM\n\nSALLE DIDOT\n📍 Avenue Marc Sangnier Paris 75014\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.82599\,2.30656&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
+ petitions/nm3/match/200000014599186
+LOCATION:SALLE DIDOT\, Avenue Marc Sangnier Paris 75014
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599186
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-10-31-20-00-ie-bc-saint-andre-les-vergers-bask-furdenh
+ eim@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ IE - BC SAINT ANDRE LES VERGERS – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ IE - BC SAINT ANDRE LES VERGERS vs
+  BASK FURDENHEIM\n\nSTADE J. BIANCHI\n📍 Avenue du Maréchal Leclerc Sai
+ nt-André-les-Vergers 10120\n🚗 Waze : https://waze.com/ul?ll=48.28114\,
+ 4.05768&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000014599
+ 243
+LOCATION:STADE J. BIANCHI\, Avenue du Maréchal Leclerc Saint-André-les-Ve
+ rgers 10120
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599243
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-11-07-20-00-bask-furdenheim-moissy-basket-club-1@ffbb-
+ agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 BASK FURDENHEIM – MOISSY BASKET CLUB - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs MOISSY BASKET C
+ LUB - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n
+ 🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014599298
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599298
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-11-15-17-15-schirrhein-c-s-c-sn-bask-furdenheim@ffbb-a
+ genda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261115T171500
+DTEND;TZID=Europe/Paris:20261115T191500
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ SCHIRRHEIN C.S.C.SN vs BASK FURDEN
+ HEIM\n\nSALLE POLYVALENTE\n📍 Rue du Foyer Schirrhein 67240\n🚗 Waze :
+  https://waze.com/ul?ll=48.80333\,7.90682&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm3/match/200000014599351
+LOCATION:SALLE POLYVALENTE\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599351
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-11-28-20-00-bask-furdenheim-w-o-s-b-1@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 BASK FURDENHEIM – W.O.S.B. - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs W.O.S.B. - 1\n\
+ nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗 Waze 
+ : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nm3/match/200000014599410
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599410
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-12-05-20-00-avant-garde-de-la-motte-vesoul-bask-furden
+ heim@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ AVANT GARDE de la MOTTE VESOUL – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ AVANT GARDE de la MOTTE VESOUL vs 
+ BASK FURDENHEIM\n\nGYMNASE MICHEL ROY\n📍 Rue Antoine de Saint-Exupéry 
+ Vesoul 70000\n🚗 Waze : https://waze.com/ul?ll=47.63589\,6.16085&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599465
+LOCATION:GYMNASE MICHEL ROY\, Rue Antoine de Saint-Exupéry Vesoul 70000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599465
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-12-12-20-00-bask-furdenheim-le-mee-sports-melun-val-de
+ -seine-1@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 BASK FURDENHEIM – LE MEE SPORTS MELUN VAL DE SEINE - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs LE MEE SPORTS M
+ ELUN VAL DE SEINE - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furd
+ enheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599522
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599522
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-01-02-20-00-bask-furdenheim-effort-basket-mirecourt@ff
+ bb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:🏠 BASK FURDENHEIM – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs EFFORT BASKET M
+ IRECOURT\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\
+ n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014599579
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599579
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-01-09-20-00-ie-ctc-ozoir-val-d-europe-1-bask-furdenhei
+ m@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:✈️ IE - CTC OZOIR VAL D'EUROPE - 1 – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ IE - CTC OZOIR VAL D'EUROPE - 1 vs
+  BASK FURDENHEIM\n\nGYMNASE ANDRE BOULLOCHE\n📍 Allée de l'Espoir Ozoir
+ -la-Ferrière 77330\n🚗 Waze : https://waze.com/ul?ll=48.76401\,2.67502&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm3/match/200000014599634
+LOCATION:GYMNASE ANDRE BOULLOCHE\, Allée de l'Espoir Ozoir-la-Ferrière 77
+ 330
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599634
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-01-16-20-00-bask-furdenheim-paris-panthers-association
+ -ppa-1@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 BASK FURDENHEIM – PARIS PANTHERS ASSOCIATION (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs PARIS PANTHERS 
+ ASSOCIATION (PPA) - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furd
+ enheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599693
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599693
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-02-06-20-00-bask-furdenheim-selestat-bc-1@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 BASK FURDENHEIM – SELESTAT BC - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs SELESTAT BC - 1
+ \n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm3/match/200000014599800
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599800
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-02-13-20-00-gauloise-de-vitry-le-francois-bask-furdenh
+ eim@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ GAULOISE DE VITRY LE FRANCOIS – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ GAULOISE DE VITRY LE FRANCOIS vs B
+ ASK FURDENHEIM\n\nGYMNASE JEAN BERNARD\n📍 Rue de la Glacière Vitry-le-
+ François 51300\n🚗 Waze : https://waze.com/ul?ll=48.72692\,4.59046&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm3/match/200000014599858
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599858
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-02-27-20-00-bask-furdenheim-ie-basket-paris-14@ffbb-ag
+ enda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 BASK FURDENHEIM – IE - BASKET PARIS 14
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs IE - BASKET PAR
+ IS 14\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n
+ 🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014599914
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599914
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-03-06-20-00-bask-furdenheim-ie-bc-saint-andre-les-verg
+ ers@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 BASK FURDENHEIM – IE - BC SAINT ANDRE LES VERGERS
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs IE - BC SAINT A
+ NDRE LES VERGERS\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenhei
+ m 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nm3/match/200000014599971
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599971
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-03-13-20-00-moissy-basket-club-1-bask-furdenheim@ffbb-
+ agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ MOISSY BASKET CLUB - 1 – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ MOISSY BASKET CLUB - 1 vs BASK FUR
+ DENHEIM\n\nGymnase Noyer Perrot\n📍 Rue du Noyer Perrot Moissy-Cramayel 
+ 77550\n🚗 Waze : https://waze.com/ul?ll=48.62472\,2.59585&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nm3/match/200000014600026
+LOCATION:Gymnase Noyer Perrot\, Rue du Noyer Perrot Moissy-Cramayel 77550
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600026
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-03-27-20-00-bask-furdenheim-schirrhein-c-s-c-sn@ffbb-a
+ genda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 BASK FURDENHEIM – SCHIRRHEIN C.S.C.SN
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs SCHIRRHEIN C.S.
+ C.SN\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n
+ 🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014600079
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600079
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-04-03-20-00-w-o-s-b-1-bask-furdenheim@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ W.O.S.B. - 1 – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ W.O.S.B. - 1 vs BASK FURDENHEIM\n\
+ nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Otterswiller 67700\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.72579\,7.37527&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm3/match/200000014600138
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600138
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-04-17-20-00-bask-furdenheim-avant-garde-de-la-motte-ve
+ soul@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 BASK FURDENHEIM – AVANT GARDE de la MOTTE VESOUL
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs AVANT GARDE de 
+ la MOTTE VESOUL\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim
+  67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm3/match/200000014600193
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600193
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-04-25-15-30-le-mee-sports-melun-val-de-seine-1-bask-fu
+ rdenheim@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270425T153000
+DTEND;TZID=Europe/Paris:20270425T173000
+SUMMARY:✈️ LE MEE SPORTS MELUN VAL DE SEINE - 1 – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ LE MEE SPORTS MELUN VAL DE SEINE -
+  1 vs BASK FURDENHEIM\n\nGYMNASE ALBERT CAMUS\n📍 Allée Albert Camus Le
+  Mée-sur-Seine 77350\n🚗 Waze : https://waze.com/ul?ll=48.54257\,2.6422
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nm3/match/200000014600250
+LOCATION:GYMNASE ALBERT CAMUS\, Allée Albert Camus Le Mée-sur-Seine 77350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600250
+END:VEVENT
+END:VCALENDAR

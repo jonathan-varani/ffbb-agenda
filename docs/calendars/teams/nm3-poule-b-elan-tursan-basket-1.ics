@@ -1,0 +1,424 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ELAN TURSAN BASKET - 1  [NM3 –  – Poule B]
+X-WR-CALDESC:Matchs de ELAN TURSAN BASKET - 1 – NM3 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-09-05-20-00-elan-tursan-basket-1-malaussanne-mazerolle
+ s-basket-@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – MALAUSSANNE MAZEROLLES BASKET SOUBE
+ STRE
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs MALAUSSA
+ NNE MAZEROLLES BASKET SOUBESTRE\n\nSALLE DE GEAUNE\n📍 Chemin de la Pisc
+ ine Geaune 40320\n🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm3/match/200000014598817
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598817
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-09-12-20-00-amou-bonnegarde-nassiet-1-elan-tursan-bask
+ et-1@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ AMOU BONNEGARDE NASSIET - 1 – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ AMOU BONNEGARDE NASSIET - 1 vs ELA
+ N TURSAN BASKET - 1\n\nSALLE D'AMOU\n📍 Allée des Sports Amou 40330\n
+ 🚗 Waze : https://waze.com/ul?ll=43.58987\,-0.74309&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014598871
+LOCATION:SALLE D'AMOU\, Allée des Sports Amou 40330
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598871
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-09-19-19-00-elan-tursan-basket-1-ouest-montpellier-met
+ ropole-ba@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20260919T190000
+DTEND;TZID=Europe/Paris:20260919T210000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – OUEST MONTPELLIER METROPOLE BASKET 
+ - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs OUEST MO
+ NTPELLIER METROPOLE BASKET - 1\n\nSALLE SAINT LOUBOUER\n📍 Route de Viel
+ le Saint-Loubouer 40320\n🚗 Waze : https://waze.com/ul?ll=43.67641\,-0.4
+ 1946&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm3/match/200000014598929
+LOCATION:SALLE SAINT LOUBOUER\, Route de Vielle Saint-Loubouer 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598929
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-09-26-20-00-castelnau-basket-1-elan-tursan-basket-1@ff
+ bb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ CASTELNAU BASKET - 1 – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ CASTELNAU BASKET - 1 vs ELAN TURSA
+ N BASKET - 1\n\nSALLE RENE ALAUZE\n📍 Avenue de la Monnaie Castelnau-le-
+ Lez 34170\n🚗 Waze : https://waze.com/ul?ll=43.64514\,3.91746&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm3/match/200000014598986
+LOCATION:SALLE RENE ALAUZE\, Avenue de la Monnaie Castelnau-le-Lez 34170
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598986
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-10-03-20-00-elan-tursan-basket-1-toulouges-ba@ffbb-age
+ nda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – TOULOUGES BA
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs TOULOUGE
+ S BA\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 40320\n🚗 Waze
+  : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nm3/match/200000014599041
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599041
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-10-10-20-00-bc-layrac-astaffort-1-elan-tursan-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ BC LAYRAC ASTAFFORT - 1 – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ BC LAYRAC ASTAFFORT - 1 vs ELAN TU
+ RSAN BASKET - 1\n\nGYMNASE MUNICIPAL\n📍 Avenue de Badie Layrac 47390\n
+ 🚗 Waze : https://waze.com/ul?ll=44.13281\,0.65804&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014599097
+LOCATION:GYMNASE MUNICIPAL\, Avenue de Badie Layrac 47390
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599097
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-10-17-20-00-elan-tursan-basket-1-sas-fos-provence-bask
+ et-2@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – SAS FOS PROVENCE BASKET - 2
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs SAS FOS 
+ PROVENCE BASKET - 2\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 4
+ 0320\n🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nm3/match/200000014599153
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599153
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-10-31-20-00-avenir-basket-chalosse-1-elan-tursan-baske
+ t-1@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ AVENIR BASKET CHALOSSE - 1 – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ AVENIR BASKET CHALOSSE - 1 vs ELAN
+  TURSAN BASKET - 1\n\nPOMAREZ S. A.GARBAY\n📍 Place des Arènes Pomarez 
+ 40360\n🚗 Waze : https://waze.com/ul?ll=43.62818\,-0.82899&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm3/match/200000014599207
+LOCATION:POMAREZ S. A.GARBAY\, Place des Arènes Pomarez 40360
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599207
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-11-07-20-00-elan-tursan-basket-1-ie-st-gely-basketball
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – IE - ST GELY BASKETBALL
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs IE - ST 
+ GELY BASKETBALL\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 40320
+ \n🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599265
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599265
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-11-14-20-00-coquelicot-lezatois-1-elan-tursan-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ COQUELICOT LEZATOIS - 1 – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ COQUELICOT LEZATOIS - 1 vs ELAN TU
+ RSAN BASKET - 1\n\nSALLE GEORGES PEDOUSSAUT\n📍 Route de Castagnac Léza
+ t-sur-Lèze 09210\n🚗 Waze : https://waze.com/ul?ll=43.24668\,1.34309&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm3/match/200000014599317
+LOCATION:SALLE GEORGES PEDOUSSAUT\, Route de Castagnac Lézat-sur-Lèze 092
+ 10
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599317
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-11-28-20-00-frontignan-la-peyrade-basket-elan-tursan-b
+ asket-1@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:✈️ FRONTIGNAN LA PEYRADE BASKET – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ FRONTIGNAN LA PEYRADE BASKET vs EL
+ AN TURSAN BASKET - 1\n\nSALLE ROGER ARNAUD\n📍 Avenue Jean Mermoz Fronti
+ gnan 34110\n🚗 Waze : https://waze.com/ul?ll=43.42669\,3.73551&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm3/match/200000014599378
+LOCATION:SALLE ROGER ARNAUD\, Avenue Jean Mermoz Frontignan 34110
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599378
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-12-05-20-00-elan-tursan-basket-1-ie-auch-basket-club-1
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – IE - AUCH BASKET CLUB - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs IE - AUC
+ H BASKET CLUB - 1\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 403
+ 20\n🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599433
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599433
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-12-12-20-00-montauban-basket-club-elan-tursan-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:✈️ MONTAUBAN BASKET CLUB – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ MONTAUBAN BASKET CLUB vs ELAN TURS
+ AN BASKET - 1\n\nSALLE MULTISPORTS\n📍 Rue du Ramiérou Montauban 82000\
+ n🚗 Waze : https://waze.com/ul?ll=44.01268\,1.37509&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014599485
+LOCATION:SALLE MULTISPORTS\, Rue du Ramiérou Montauban 82000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599485
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-01-02-20-00-malaussanne-mazerolles-basket-soubestre-el
+ an-tursan@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:✈️ MALAUSSANNE MAZEROLLES BASKET SOUBESTRE – ELAN TURSAN BASK
+ ET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ MALAUSSANNE MAZEROLLES BASKET SOUB
+ ESTRE vs ELAN TURSAN BASKET - 1\n\nFR MUN\n📍 Malaussanne 64410\n🚗 Wa
+ ze : https://waze.com/ul?ll=43.55953\,-0.47588&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nm3/match/200000014599545
+LOCATION:FR MUN\, Malaussanne 64410
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599545
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-01-09-19-00-elan-tursan-basket-1-amou-bonnegarde-nassi
+ et-1@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270109T190000
+DTEND;TZID=Europe/Paris:20270109T210000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – AMOU BONNEGARDE NASSIET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs AMOU BON
+ NEGARDE NASSIET - 1\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 4
+ 0320\n🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nm3/match/200000014599599
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599599
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-01-16-20-00-ouest-montpellier-metropole-basket-1-elan-
+ tursan-ba@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:✈️ OUEST MONTPELLIER METROPOLE BASKET - 1 – ELAN TURSAN BASKE
+ T - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs ELAN TURSAN BASKET - 1\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍 Rue
+  Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.com/u
+ l?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/matc
+ h/200000014599657
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599657
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-01-30-20-00-elan-tursan-basket-1-castelnau-basket-1@ff
+ bb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – CASTELNAU BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs CASTELNA
+ U BASKET - 1\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 40320\n
+ 🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014599714
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599714
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-02-06-20-00-toulouges-ba-elan-tursan-basket-1@ffbb-age
+ nda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ TOULOUGES BA – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ TOULOUGES BA vs ELAN TURSAN BASKET
+  - 1\n\nSALLE NATUROPOLE\n📍 Boulevard de Clairfont Toulouges 66350\n
+ 🚗 Waze : https://waze.com/ul?ll=42.66356\,2.83463&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014599769
+LOCATION:SALLE NATUROPOLE\, Boulevard de Clairfont Toulouges 66350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599769
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-02-13-20-00-elan-tursan-basket-1-bc-layrac-astaffort-1
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – BC LAYRAC ASTAFFORT - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs BC LAYRA
+ C ASTAFFORT - 1\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 40320
+ \n🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599825
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599825
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-02-27-20-00-sas-fos-provence-basket-2-elan-tursan-bask
+ et-1@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ SAS FOS PROVENCE BASKET - 2 – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ SAS FOS PROVENCE BASKET - 2 vs ELA
+ N TURSAN BASKET - 1\n\nCOMPLEXE SPORTIF PARSEMAIN\n📍 Avenue Jean Moulin
+  Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul?ll=43.43314\,4.94793&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm3/match/200000014599881
+LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599881
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-03-06-20-00-elan-tursan-basket-1-avenir-basket-chaloss
+ e-1@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – AVENIR BASKET CHALOSSE - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs AVENIR B
+ ASKET CHALOSSE - 1\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 40
+ 320\n🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nm3/match/200000014599935
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599935
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-03-13-20-00-ie-st-gely-basketball-elan-tursan-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ IE - ST GELY BASKETBALL – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ IE - ST GELY BASKETBALL vs ELAN TU
+ RSAN BASKET - 1\n\nSALLE MAURICE BOUSQUET\n📍 Rue des Oliviers Saint-Gé
+ ly-du-Fesc 34980\n🚗 Waze : https://waze.com/ul?ll=43.6945\,3.79782&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm3/match/200000014599993
+LOCATION:SALLE MAURICE BOUSQUET\, Rue des Oliviers Saint-Gély-du-Fesc 3498
+ 0
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599993
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-03-27-20-00-elan-tursan-basket-1-coquelicot-lezatois-1
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – COQUELICOT LEZATOIS - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs COQUELIC
+ OT LEZATOIS - 1\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 40320
+ \n🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014600045
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600045
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-04-03-20-00-elan-tursan-basket-1-frontignan-la-peyrade
+ -basket@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – FRONTIGNAN LA PEYRADE BASKET
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs FRONTIGN
+ AN LA PEYRADE BASKET\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 
+ 40320\n🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm3/match/200000014600106
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600106
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-04-17-20-00-ie-auch-basket-club-1-elan-tursan-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:✈️ IE - AUCH BASKET CLUB - 1 – ELAN TURSAN BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ IE - AUCH BASKET CLUB - 1 vs ELAN 
+ TURSAN BASKET - 1\n\nSALLE MATHALIN\n📍 Rue du 11 Novembre Auch 32000\n
+ 🚗 Waze : https://waze.com/ul?ll=43.64229\,0.5911&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/competitions/nm3/match/200000014600161
+LOCATION:SALLE MATHALIN\, Rue du 11 Novembre Auch 32000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600161
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-04-25-15-30-elan-tursan-basket-1-montauban-basket-club
+ @ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270425T153000
+DTEND;TZID=Europe/Paris:20270425T173000
+SUMMARY:🏠 ELAN TURSAN BASKET - 1 – MONTAUBAN BASKET CLUB
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs MONTAUBA
+ N BASKET CLUB\n\nSALLE DE GEAUNE\n📍 Chemin de la Piscine Geaune 40320\n
+ 🚗 Waze : https://waze.com/ul?ll=43.63721\,-0.38088&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014600213
+LOCATION:SALLE DE GEAUNE\, Chemin de la Piscine Geaune 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600213
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – PARIS PANTHERS ASSOCIATION (PPA) - 1  [NM3 –  – Poule G]
+X-WR-CALDESC:Matchs de PARIS PANTHERS ASSOCIATION (PPA) - 1 – NM3 – Poule G
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-09-05-20-00-paris-panthers-association-ppa-1-moissy-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – MOISSY BASKET CLUB - 
+ 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs MOISSY BASKET CLUB - 1\n\nGYMNASE LOUIS LUMIERE Salle C\n📍 Rue Lo
+ uis Lumière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48.8592\,2.41
+ 165&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm3/match/200000014598853
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598853
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-09-12-20-00-selestat-bc-1-paris-panthers-association-p
+ pa-1@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ SELESTAT BC - 1 – PARIS PANTHERS ASSOCIATION (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ SELESTAT BC - 1 vs PARIS PANTHERS 
+ ASSOCIATION (PPA) - 1\n\nCOSEC EUGENE GRIESMAR (annexe)\n📍 Quai Albrech
+ t Sélestat 67600\n🚗 Waze : https://waze.com/ul?ll=48.25313\,7.45296&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm3/match/200000014598904
+LOCATION:COSEC EUGENE GRIESMAR (annexe)\, Quai Albrecht Sélestat 67600
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598904
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-09-19-19-30-paris-panthers-association-ppa-1-bask-furd
+ enheim@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20260919T193000
+DTEND;TZID=Europe/Paris:20260919T213000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – BASK FURDENHEIM
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs BASK FURDENHEIM\n\nGYMNASE LOUIS LUMIERE Salle C\n📍 Rue Louis Lum
+ ière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48.8592\,2.41165&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nm3/match/200000014598965
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598965
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-09-26-20-00-gauloise-de-vitry-le-francois-paris-panthe
+ rs-associ@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ GAULOISE DE VITRY LE FRANCOIS – PARIS PANTHERS ASSOCIATION
+  (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ GAULOISE DE VITRY LE FRANCOIS vs P
+ ARIS PANTHERS ASSOCIATION (PPA) - 1\n\nGYMNASE JEAN BERNARD\n📍 Rue de l
+ a Glacière Vitry-le-François 51300\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/2
+ 00000014599017
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599017
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-10-03-20-00-paris-panthers-association-ppa-1-ie-basket
+ -paris-14@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – IE - BASKET PARIS 14
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs IE - BASKET PARIS 14\n\nGYMNASE LOUIS LUMIERE Salle C\n📍 Rue Loui
+ s Lumière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48.8592\,2.4116
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nm3/match/200000014599077
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599077
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-10-10-20-00-ie-bc-saint-andre-les-vergers-paris-panthe
+ rs-associ@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ IE - BC SAINT ANDRE LES VERGERS – PARIS PANTHERS ASSOCIATI
+ ON (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ IE - BC SAINT ANDRE LES VERGERS vs
+  PARIS PANTHERS ASSOCIATION (PPA) - 1\n\nSTADE J. BIANCHI\n📍 Avenue du 
+ Maréchal Leclerc Saint-André-les-Vergers 10120\n🚗 Waze : https://waze
+ .com/ul?ll=48.28114\,4.05768&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
+ m3/match/200000014599131
+LOCATION:STADE J. BIANCHI\, Avenue du Maréchal Leclerc Saint-André-les-Ve
+ rgers 10120
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599131
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-10-17-19-30-paris-panthers-association-ppa-1-w-o-s-b-1
+ @ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261017T193000
+DTEND;TZID=Europe/Paris:20261017T213000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – W.O.S.B. - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs W.O.S.B. - 1\n\nGYMNASE LOUIS LUMIERE Salle C\n📍 Rue Louis Lumiè
+ re Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48.8592\,2.41165&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm3/match/200000014599189
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599189
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-10-31-20-00-schirrhein-c-s-c-sn-paris-panthers-associa
+ tion-ppa-@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN – PARIS PANTHERS ASSOCIATION (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ SCHIRRHEIN C.S.C.SN vs PARIS PANTH
+ ERS ASSOCIATION (PPA) - 1\n\nSALLE POLYVALENTE\n📍 Rue du Foyer Schirrhe
+ in 67240\n🚗 Waze : https://waze.com/ul?ll=48.80333\,7.90682&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm3/match/200000014599239
+LOCATION:SALLE POLYVALENTE\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599239
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-11-07-19-30-paris-panthers-association-ppa-1-le-mee-sp
+ orts-melu@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261107T193000
+DTEND;TZID=Europe/Paris:20261107T213000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – LE MEE SPORTS MELUN V
+ AL DE SEINE - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs LE MEE SPORTS MELUN VAL DE SEINE - 1\n\nGYMNASE LOUIS LUMIERE Salle 
+ C\n📍 Rue Louis Lumière Paris 75020\n🚗 Waze : https://waze.com/ul?ll
+ =48.8592\,2.41165&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/2
+ 00000014599301
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599301
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-11-14-20-00-avant-garde-de-la-motte-vesoul-paris-panth
+ ers-assoc@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ AVANT GARDE de la MOTTE VESOUL – PARIS PANTHERS ASSOCIATIO
+ N (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ AVANT GARDE de la MOTTE VESOUL vs 
+ PARIS PANTHERS ASSOCIATION (PPA) - 1\n\nGYMNASE MICHEL ROY\n📍 Rue Antoi
+ ne de Saint-Exupéry Vesoul 70000\n🚗 Waze : https://waze.com/ul?ll=47.6
+ 3589\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000
+ 014599353
+LOCATION:GYMNASE MICHEL ROY\, Rue Antoine de Saint-Exupéry Vesoul 70000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599353
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-11-28-20-00-paris-panthers-association-ppa-1-ie-ctc-oz
+ oir-val-d@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – IE - CTC OZOIR VAL D'
+ EUROPE - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs IE - CTC OZOIR VAL D'EUROPE - 1\n\nGYMNASE LOUIS LUMIERE Salle C\n
+ 📍 Rue Louis Lumière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48
+ .8592\,2.41165&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/20000
+ 0014599413
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599413
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2026-12-05-20-00-effort-basket-mirecourt-paris-panthers-ass
+ ociation-@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ EFFORT BASKET MIRECOURT – PARIS PANTHERS ASSOCIATION (PPA)
+  - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ EFFORT BASKET MIRECOURT vs PARIS P
+ ANTHERS ASSOCIATION (PPA) - 1\n\nSALLE CLAUDE HACQUARD\n📍 Rue de Bonn-B
+ uel Mirecourt 88500\n🚗 Waze : https://waze.com/ul?ll=48.29433\,6.13292&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm3/match/200000014599467
+LOCATION:SALLE CLAUDE HACQUARD\, Rue de Bonn-Buel Mirecourt 88500
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599467
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-01-02-20-00-moissy-basket-club-1-paris-panthers-associ
+ ation-ppa@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:✈️ MOISSY BASKET CLUB - 1 – PARIS PANTHERS ASSOCIATION (PPA) 
+ - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ MOISSY BASKET CLUB - 1 vs PARIS PA
+ NTHERS ASSOCIATION (PPA) - 1\n\nGymnase Noyer Perrot\n📍 Rue du Noyer Pe
+ rrot Moissy-Cramayel 77550\n🚗 Waze : https://waze.com/ul?ll=48.62472\,2
+ .59585&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nm3/match/2000000145995
+ 81
+LOCATION:Gymnase Noyer Perrot\, Rue du Noyer Perrot Moissy-Cramayel 77550
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599581
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-01-09-19-30-paris-panthers-association-ppa-1-selestat-
+ bc-1@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270109T193000
+DTEND;TZID=Europe/Paris:20270109T213000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – SELESTAT BC - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs SELESTAT BC - 1\n\nGYMNASE LOUIS LUMIERE Salle C\n📍 Rue Louis Lum
+ ière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48.8592\,2.41165&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nm3/match/200000014599632
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599632
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-01-16-20-00-bask-furdenheim-paris-panthers-association
+ -ppa-1@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:✈️ BASK FURDENHEIM – PARIS PANTHERS ASSOCIATION (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ BASK FURDENHEIM vs PARIS PANTHERS 
+ ASSOCIATION (PPA) - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furd
+ enheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599693
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599693
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-01-30-19-30-paris-panthers-association-ppa-1-gauloise-
+ de-vitry-@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270130T193000
+DTEND;TZID=Europe/Paris:20270130T213000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – GAULOISE DE VITRY LE 
+ FRANCOIS
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs GAULOISE DE VITRY LE FRANCOIS\n\nGYMNASE LOUIS LUMIERE Salle C\n📍
+  Rue Louis Lumière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48.859
+ 2\,2.41165&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000014
+ 599745
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599745
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-02-06-20-00-ie-basket-paris-14-paris-panthers-associat
+ ion-ppa-1@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ IE - BASKET PARIS 14 – PARIS PANTHERS ASSOCIATION (PPA) - 
+ 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ IE - BASKET PARIS 14 vs PARIS PANT
+ HERS ASSOCIATION (PPA) - 1\n\nSALLE DIDOT\n📍 Avenue Marc Sangnier Paris
+  75014\n🚗 Waze : https://waze.com/ul?ll=48.82599\,2.30656&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm3/match/200000014599805
+LOCATION:SALLE DIDOT\, Avenue Marc Sangnier Paris 75014
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599805
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-02-13-19-30-paris-panthers-association-ppa-1-ie-bc-sai
+ nt-andre-@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270213T193000
+DTEND;TZID=Europe/Paris:20270213T213000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – IE - BC SAINT ANDRE L
+ ES VERGERS
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs IE - BC SAINT ANDRE LES VERGERS\n\nGYMNASE LOUIS LUMIERE Salle C\n
+ 📍 Rue Louis Lumière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48
+ .8592\,2.41165&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/20000
+ 0014599859
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599859
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-02-27-20-00-w-o-s-b-1-paris-panthers-association-ppa-1
+ @ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ W.O.S.B. - 1 – PARIS PANTHERS ASSOCIATION (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ W.O.S.B. - 1 vs PARIS PANTHERS ASS
+ OCIATION (PPA) - 1\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Otters
+ willer 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599917
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599917
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-03-06-20-00-paris-panthers-association-ppa-1-schirrhei
+ n-c-s-c-s@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – SCHIRRHEIN C.S.C.SN
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs SCHIRRHEIN C.S.C.SN\n\nGYMNASE LOUIS LUMIERE Salle C\n📍 Rue Louis
+  Lumière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48.8592\,2.41165
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm3/match/200000014599967
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599967
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-03-13-20-00-le-mee-sports-melun-val-de-seine-1-paris-p
+ anthers-a@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ LE MEE SPORTS MELUN VAL DE SEINE - 1 – PARIS PANTHERS ASSO
+ CIATION (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ LE MEE SPORTS MELUN VAL DE SEINE -
+  1 vs PARIS PANTHERS ASSOCIATION (PPA) - 1\n\nGYMNASE ALBERT CAMUS\n📍 A
+ llée Albert Camus Le Mée-sur-Seine 77350\n🚗 Waze : https://waze.com/u
+ l?ll=48.54257\,2.64222&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/mat
+ ch/200000014600029
+LOCATION:GYMNASE ALBERT CAMUS\, Allée Albert Camus Le Mée-sur-Seine 77350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600029
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-03-27-19-30-paris-panthers-association-ppa-1-avant-gar
+ de-de-la-@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270327T193000
+DTEND;TZID=Europe/Paris:20270327T213000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – AVANT GARDE de la MOT
+ TE VESOUL
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs AVANT GARDE de la MOTTE VESOUL\n\nGYMNASE LOUIS LUMIERE Salle C\n
+ 📍 Rue Louis Lumière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48
+ .8592\,2.41165&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/20000
+ 0014600081
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600081
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-04-03-20-00-ie-ctc-ozoir-val-d-europe-1-paris-panthers
+ -associat@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ IE - CTC OZOIR VAL D'EUROPE - 1 – PARIS PANTHERS ASSOCIATI
+ ON (PPA) - 1
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ IE - CTC OZOIR VAL D'EUROPE - 1 vs
+  PARIS PANTHERS ASSOCIATION (PPA) - 1\n\nGYMNASE ANDRE BOULLOCHE\n📍 All
+ ée de l'Espoir Ozoir-la-Ferrière 77330\n🚗 Waze : https://waze.com/ul?
+ ll=48.76401\,2.67502&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match
+ /200000014600141
+LOCATION:GYMNASE ANDRE BOULLOCHE\, Allée de l'Espoir Ozoir-la-Ferrière 77
+ 330
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600141
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-g-2027-04-17-20-00-paris-panthers-association-ppa-1-effort-ba
+ sket-mire@ffbb-agenda
+DTSTAMP:20260817T100351Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 PARIS PANTHERS ASSOCIATION (PPA) - 1 – EFFORT BASKET MIRECOU
+ RT
+DESCRIPTION:🏀 NM3 – Poule G\n⚔️ PARIS PANTHERS ASSOCIATION (PPA) -
+  1 vs EFFORT BASKET MIRECOURT\n\nGYMNASE LOUIS LUMIERE Salle C\n📍 Rue L
+ ouis Lumière Paris 75020\n🚗 Waze : https://waze.com/ul?ll=48.8592\,2.4
+ 1165&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm3/match/200000014600195
+LOCATION:GYMNASE LOUIS LUMIERE Salle C\, Rue Louis Lumière Paris 75020
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600195
+END:VEVENT
+END:VCALENDAR

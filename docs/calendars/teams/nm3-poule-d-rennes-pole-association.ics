@@ -1,0 +1,429 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – RENNES POLE ASSOCIATION  [NM3 –  – Poule D]
+X-WR-CALDESC:Matchs de RENNES POLE ASSOCIATION – NM3 – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-09-05-20-00-rennes-pole-association-as-saint-rogatien-
+ nantes@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – AS SAINT ROGATIEN NANTES
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs AS SAIN
+ T ROGATIEN NANTES\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Renne
+ s 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm3/match/200000014598827
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598827
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-09-12-20-00-cep-lorient-basket-2-rennes-pole-associati
+ on@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ CEP LORIENT BASKET - 2 – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ CEP LORIENT BASKET - 2 vs RENNES P
+ OLE ASSOCIATION\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dreyfus Lor
+ ient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm3/match/200000014598888
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598888
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-09-19-20-00-montfort-bc-1-rennes-pole-association@ffbb
+ -agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ MONTFORT BC - 1 – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ MONTFORT BC - 1 vs RENNES POLE ASS
+ OCIATION\n\nCOSEC\n📍 Route d'Iffendic Montfort-sur-Meu 35160\n🚗 Waze
+  : https://waze.com/ul?ll=48.13765\,-1.96388&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nm3/match/200000014598940
+LOCATION:COSEC\, Route d'Iffendic Montfort-sur-Meu 35160
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598940
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-09-26-20-00-rennes-pole-association-saint-nazaire-bask
+ et-club@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – SAINT NAZAIRE BASKET CLUB
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs SAINT N
+ AZAIRE BASKET CLUB\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Renn
+ es 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm3/match/200000014598995
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598995
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-10-03-20-00-cercle-sportif-bayeux-1-rennes-pole-associ
+ ation@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ CERCLE SPORTIF BAYEUX - 1 – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ CERCLE SPORTIF BAYEUX - 1 vs RENNE
+ S POLE ASSOCIATION\n\nSALLE YVAN MAININI\n📍 Rue Pierre de Coubertin Bay
+ eux 14400\n🚗 Waze : https://waze.com/ul?ll=49.28051\,-0.69977&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm3/match/200000014599054
+LOCATION:SALLE YVAN MAININI\, Rue Pierre de Coubertin Bayeux 14400
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599054
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-10-10-20-00-rennes-pole-association-ie-betton-cs-1@ffb
+ b-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – IE - BETTON CS - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs IE - BE
+ TTON CS - 1\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Rennes 3500
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599107
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599107
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-10-17-20-00-saint-laurent-de-la-plaine-1-rennes-pole-a
+ ssociatio@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:✈️ SAINT LAURENT DE LA PLAINE - 1 – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ SAINT LAURENT DE LA PLAINE - 1 vs 
+ RENNES POLE ASSOCIATION\n\nCOMPLEXE SPORTIF\n📍 Cité de l'Aveneau Mauge
+ s-sur-Loire 49290\n🚗 Waze : https://waze.com/ul?ll=47.31731\,-0.80652&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm3/match/200000014599168
+LOCATION:COMPLEXE SPORTIF\, Cité de l'Aveneau Mauges-sur-Loire 49290
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599168
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-10-31-20-00-rennes-pole-association-amicale-sportive-d
+ u-guelmeu@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – AMICALE SPORTIVE DU GUELMEUR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs AMICALE
+  SPORTIVE DU GUELMEUR - 1\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palan
+ te Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nm3/match/200000014599219
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599219
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-11-07-20-00-basket-club-basse-goulaine-rennes-pole-ass
+ ociation@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ BASKET CLUB BASSE GOULAINE – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ BASKET CLUB BASSE GOULAINE vs RENN
+ ES POLE ASSOCIATION\n\nSALLE DE GOULAINE\n📍 Square de Theley Basse-Goul
+ aine 44115\n🚗 Waze : https://waze.com/ul?ll=47.21771\,-1.46483&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm3/match/200000014599274
+LOCATION:SALLE DE GOULAINE\, Square de Theley Basse-Goulaine 44115
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599274
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-11-14-20-00-rennes-pole-association-u-s-t-basket-equeu
+ rdreville@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – U.S. T. BASKET EQUEURDREVILLE
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs U.S. T.
+  BASKET EQUEURDREVILLE\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante 
+ Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm3/match/200000014599331
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599331
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-11-28-20-00-ie-ctc-challans-riez-vie-85-riez-vie-baske
+ t-l-etoil@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:✈️ IE - CTC CHALLANS RIEZ VIE 85 - RIEZ VIE BASKET L'ETOILE –
+  RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ IE - CTC CHALLANS RIEZ VIE 85 - RI
+ EZ VIE BASKET L'ETOILE vs RENNES POLE ASSOCIATION\n\nSALLE DE LA VIE\n📍
+  Rue des Marais Salants Saint-Gilles-Croix-de-Vie 85800\n🚗 Waze : https
+ ://waze.com/ul?ll=46.70302\,-1.93076&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nm3/match/200000014599389
+LOCATION:SALLE DE LA VIE\, Rue des Marais Salants Saint-Gilles-Croix-de-Vie
+  85800
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599389
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-12-05-20-00-rennes-pole-association-le-club-de-brettev
+ ille-sur-@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – LE CLUB DE  BRETTEVILLE-SUR-ODON B
+ ASKET
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs LE CLUB
+  DE  BRETTEVILLE-SUR-ODON BASKET\n\nESPACE DES 2 RIVES\n📍 Allée George
+ s Palante Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65
+ 993&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm3/match/200000014599443
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599443
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-12-12-20-00-amicale-laique-montivilliers-b-1-rennes-po
+ le-associ@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:✈️ AMICALE LAIQUE MONTIVILLIERS B. - 1 – RENNES POLE ASSOCIAT
+ ION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE LAIQUE MONTIVILLIERS B. - 
+ 1 vs RENNES POLE ASSOCIATION\n\nSALLE SIBRAN\n📍 Place Jules Ferry Monti
+ villiers 76290\n🚗 Waze : https://waze.com/ul?ll=49.54607\,0.19135&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm3/match/200000014599503
+LOCATION:SALLE SIBRAN\, Place Jules Ferry Montivilliers 76290
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599503
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-12-19-20-00-as-saint-rogatien-nantes-rennes-pole-assoc
+ iation@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261219T200000
+DTEND;TZID=Europe/Paris:20261219T220000
+SUMMARY:✈️ AS SAINT ROGATIEN NANTES – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AS SAINT ROGATIEN NANTES vs RENNES
+  POLE ASSOCIATION\n\nSALLE DES AGENETS\n📍 Rue du Casterneau Nantes 4400
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.22714\,-1.53066&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599555
+LOCATION:SALLE DES AGENETS\, Rue du Casterneau Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599555
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-01-09-20-00-rennes-pole-association-cep-lorient-basket
+ -2@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – CEP LORIENT BASKET - 2
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs CEP LOR
+ IENT BASKET - 2\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Rennes 
+ 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm3/match/200000014599616
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599616
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-01-16-20-00-rennes-pole-association-montfort-bc-1@ffbb
+ -agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – MONTFORT BC - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs MONTFOR
+ T BC - 1\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Rennes 35000\n
+ 🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014599668
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599668
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-01-30-20-00-saint-nazaire-basket-club-rennes-pole-asso
+ ciation@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ SAINT NAZAIRE BASKET CLUB – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ SAINT NAZAIRE BASKET CLUB vs RENNE
+ S POLE ASSOCIATION\n\nGYMNASE PORCE-GEORGES CARPENTIER\n📍 Chemin de Por
+ cé Saint-Nazaire 44600\n🚗 Waze : https://waze.com/ul?ll=47.25615\,-2.2
+ 5396&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm3/match/200000014599723
+LOCATION:GYMNASE PORCE-GEORGES CARPENTIER\, Chemin de Porcé Saint-Nazaire 
+ 44600
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599723
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-02-06-20-00-rennes-pole-association-cercle-sportif-bay
+ eux-1@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – CERCLE SPORTIF BAYEUX - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs CERCLE 
+ SPORTIF BAYEUX - 1\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Renn
+ es 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm3/match/200000014599782
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599782
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-02-13-20-00-ie-betton-cs-1-rennes-pole-association@ffb
+ b-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ IE - BETTON CS - 1 – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ IE - BETTON CS - 1 vs RENNES POLE 
+ ASSOCIATION\n\nCOMPLEXE DE LA TOUCHE (salle A)\n📍 Rue de la Côte d'Ém
+ eraude Betton 35830\n🚗 Waze : https://waze.com/ul?ll=48.18572\,-1.64751
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm3/match/200000014599835
+LOCATION:COMPLEXE DE LA TOUCHE (salle A)\, Rue de la Côte d'Émeraude Bett
+ on 35830
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599835
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-02-27-20-00-rennes-pole-association-saint-laurent-de-l
+ a-plaine-@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – SAINT LAURENT DE LA PLAINE - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs SAINT L
+ AURENT DE LA PLAINE - 1\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante
+  Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm3/match/200000014599896
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599896
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-03-06-20-00-amicale-sportive-du-guelmeur-1-rennes-pole
+ -associat@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ AMICALE SPORTIVE DU GUELMEUR - 1 – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s RENNES POLE ASSOCIATION\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurroc Bres
+ t 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm3/match/200000014599947
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599947
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-03-13-20-00-rennes-pole-association-basket-club-basse-
+ goulaine@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – BASKET CLUB BASSE GOULAINE
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs BASKET 
+ CLUB BASSE GOULAINE\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Ren
+ nes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm3/match/200000014600002
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600002
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-03-27-20-00-u-s-t-basket-equeurdreville-rennes-pole-as
+ sociation@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:✈️ U.S. T. BASKET EQUEURDREVILLE – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ U.S. T. BASKET EQUEURDREVILLE vs R
+ ENNES POLE ASSOCIATION\n\nGYMNASE LEON JOUHAUX\n📍 Rue Léon Jouhaux Che
+ rbourg-en-Cotentin 50120\n🚗 Waze : https://waze.com/ul?ll=49.648\,-1.64
+ 997&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm3/match/200000014600059
+LOCATION:GYMNASE LEON JOUHAUX\, Rue Léon Jouhaux Cherbourg-en-Cotentin 501
+ 20
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600059
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-04-03-20-00-rennes-pole-association-ie-ctc-challans-ri
+ ez-vie-85@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – IE - CTC CHALLANS RIEZ VIE 85 - RI
+ EZ VIE BASKET L'ETOILE
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs IE - CT
+ C CHALLANS RIEZ VIE 85 - RIEZ VIE BASKET L'ETOILE\n\nESPACE DES 2 RIVES\n
+ 📍 Allée Georges Palante Rennes 35000\n🚗 Waze : https://waze.com/ul?
+ ll=48.10813\,-1.65993&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/matc
+ h/200000014600117
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600117
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-04-17-20-00-le-club-de-bretteville-sur-odon-basket-ren
+ nes-pole-@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:✈️ LE CLUB DE  BRETTEVILLE-SUR-ODON BASKET – RENNES POLE ASSO
+ CIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ LE CLUB DE  BRETTEVILLE-SUR-ODON B
+ ASKET vs RENNES POLE ASSOCIATION\n\nGYMNASE MUNICIPAL\n📍 Place de l'Ég
+ lise Bretteville-sur-Odon 14760\n🚗 Waze : https://waze.com/ul?ll=49.167
+ 04\,-0.41387&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nm3/match/2000000
+ 14600171
+LOCATION:GYMNASE MUNICIPAL\, Place de l'Église Bretteville-sur-Odon 14760
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600171
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-04-25-15-30-rennes-pole-association-amicale-laique-mon
+ tivillier@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270425T153000
+DTEND;TZID=Europe/Paris:20270425T173000
+SUMMARY:🏠 RENNES POLE ASSOCIATION – AMICALE LAIQUE MONTIVILLIERS B. - 
+ 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs AMICALE
+  LAIQUE MONTIVILLIERS B. - 1\n\nESPACE DES 2 RIVES\n📍 Allée Georges Pa
+ lante Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm3/match/200000014600231
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600231
+END:VEVENT
+END:VCALENDAR

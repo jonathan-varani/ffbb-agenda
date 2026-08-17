@@ -1,0 +1,417 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CASTELNAU MEDOC BC  [NM3 –  – Poule C]
+X-WR-CALDESC:Matchs de CASTELNAU MEDOC BC – NM3 – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-05-20-00-castelnau-medoc-bc-ie-villeneuve-basket-cl
+ ub@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – IE - VILLENEUVE BASKET CLUB
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs IE - VILLENE
+ UVE BASKET CLUB\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelnau-d
+ e-Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm3/match/200000014598825
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598825
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-12-20-00-basket-club-saint-barthelemy-1-castelnau-m
+ edoc-bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ BASKET CLUB SAINT BARTHELEMY. - 1 – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ BASKET CLUB SAINT BARTHELEMY. - 1 
+ vs CASTELNAU MEDOC BC\n\nSALLE DES ARDOISES - ST BARTH.\n📍 Rue Victor H
+ ugo Saint-Barthélemy-d'Anjou 49124\n🚗 Waze : https://waze.com/ul?ll=47
+ .46471\,-0.50496&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/2
+ 00000014598876
+LOCATION:SALLE DES ARDOISES - ST BARTH.\, Rue Victor Hugo Saint-Barthélemy
+ -d'Anjou 49124
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598876
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-19-20-00-castelnau-medoc-bc-tours-metropole-basket-
+ plll-2@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – TOURS METROPOLE BASKET PLLL - 2
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs TOURS METROP
+ OLE BASKET PLLL - 2\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Casteln
+ au-de-Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm3/match/200000014598937
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598937
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-26-20-00-ie-ctc-lucon-ste-gemme-1-castelnau-medoc-b
+ c@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ IE - CTC LUÇON-STE GEMME - 1 – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ IE - CTC LUÇON-STE GEMME - 1 vs C
+ ASTELNAU MEDOC BC\n\nSALLE DES COMMEES LUCON\n📍 Boulevard Michel Phéli
+ pon Luçon 85400\n🚗 Waze : https://waze.com/ul?ll=46.46382\,-1.17411&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm3/match/200000014598989
+LOCATION:SALLE DES COMMEES LUCON\, Boulevard Michel Phélipon Luçon 85400
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598989
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-03-20-00-castelnau-medoc-bc-ie-as-panazol@ffbb-agen
+ da
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – IE - AS PANAZOL
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs IE - AS PANA
+ ZOL\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelnau-de-Médoc 334
+ 80\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599049
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599049
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-10-20-00-cassen-saint-geours-basket-castelnau-medoc
+ -bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ CASSEN SAINT GEOURS BASKET – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs CAST
+ ELNAU MEDOC BC\n\nSALLE POLYVALENTE\n📍 Route de Montfort Saint-Geours-d
+ 'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0.83727&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm3/match/200000014599103
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599103
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-17-20-00-castelnau-medoc-bc-seguiniere-la-st-louis-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – SEGUINIERE (LA) ST LOUIS BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs SEGUINIERE (
+ LA) ST LOUIS BASKET - 1\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Cas
+ telnau-de-Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.790
+ 84&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nm3/match/200000014599161
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599161
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-31-20-00-coteaux-du-luy-basket-1-castelnau-medoc-bc
+ @ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ COTEAUX DU LUY BASKET - 1 – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ COTEAUX DU LUY BASKET - 1 vs CASTE
+ LNAU MEDOC BC\n\nSALLE DE MONSEGUR\n📍 Route des Pyrénées Monségur 40
+ 700\n🚗 Waze : https://waze.com/ul?ll=43.6043\,-0.54151&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599211
+LOCATION:SALLE DE MONSEGUR\, Route des Pyrénées Monségur 40700
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599211
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-11-07-20-00-castelnau-medoc-bc-touraine-bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – TOURAINE BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs TOURAINE BC\
+ n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelnau-de-Médoc 33480\n
+ 🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014599273
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599273
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-11-14-20-00-alerte-sp-de-fondettes-1-castelnau-medoc-b
+ c@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ ALERTE SP. DE FONDETTES - 1 – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ ALERTE SP. DE FONDETTES - 1 vs CAS
+ TELNAU MEDOC BC\n\nGYMNASE PIERRE PILORGER\n📍 Avenue du Moulin à Vent 
+ Fondettes 37230\n🚗 Waze : https://waze.com/ul?ll=47.39914\,0.60015&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm3/match/200000014599325
+LOCATION:GYMNASE PIERRE PILORGER\, Avenue du Moulin à Vent Fondettes 37230
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599325
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-11-28-20-00-castelnau-medoc-bc-basket-seychois-barthel
+ emeen-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – BASKET SEYCHOIS BARTHELEMEEN - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs BASKET SEYCH
+ OIS BARTHELEMEEN - 1\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castel
+ nau-de-Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm3/match/200000014599385
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599385
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-12-05-20-00-stade-montois-basket-masculin-1-castelnau-
+ medoc-bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ STADE MONTOIS BASKET MASCULIN - 1 – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ STADE MONTOIS BASKET MASCULIN - 1 
+ vs CASTELNAU MEDOC BC\n\nESPACE F. MITTERRAND\n📍 Rue de la Ferme du Con
+ te Mont-de-Marsan 40000\n🚗 Waze : https://waze.com/ul?ll=43.89754\,-0.4
+ 6468&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm3/match/200000014599439
+LOCATION:ESPACE F. MITTERRAND\, Rue de la Ferme du Conte Mont-de-Marsan 400
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599439
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-12-12-20-00-real-chalossais-castelnau-medoc-bc@ffbb-ag
+ enda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:✈️ REAL CHALOSSAIS – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs CASTELNAU MEDOC
+  BC\n\nSALLE DE DOAZIT\n📍 Route de Mus Doazit 40700\n🚗 Waze : https:
+ //waze.com/ul?ll=43.67673\,-0.63698&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nm3/match/200000014599491
+LOCATION:SALLE DE DOAZIT\, Route de Mus Doazit 40700
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599491
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-02-20-00-ie-villeneuve-basket-club-castelnau-medoc-
+ bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:✈️ IE - VILLENEUVE BASKET CLUB – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ IE - VILLENEUVE BASKET CLUB vs CAS
+ TELNAU MEDOC BC\n\nGYMNASE MAURICE LANG\n📍 Rue de la Gravette Villeneuv
+ e-sur-Lot 47300\n🚗 Waze : https://waze.com/ul?ll=44.41142\,0.69637&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm3/match/200000014599553
+LOCATION:GYMNASE MAURICE LANG\, Rue de la Gravette Villeneuve-sur-Lot 47300
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599553
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-09-20-00-castelnau-medoc-bc-basket-club-saint-barth
+ elemy-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – BASKET CLUB SAINT BARTHELEMY. - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs BASKET CLUB 
+ SAINT BARTHELEMY. - 1\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Caste
+ lnau-de-Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm3/match/200000014599604
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599604
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-16-20-00-tours-metropole-basket-plll-2-castelnau-me
+ doc-bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:✈️ TOURS METROPOLE BASKET PLLL - 2 – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ TOURS METROPOLE BASKET PLLL - 2 vs
+  CASTELNAU MEDOC BC\n\nGYMNASE DABILLY\n📍 Rue Dabilly Tours 37000\n🚗
+  Waze : https://waze.com/ul?ll=47.39269\,0.67486&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nm3/match/200000014599665
+LOCATION:GYMNASE DABILLY\, Rue Dabilly Tours 37000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599665
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-30-20-00-castelnau-medoc-bc-ie-ctc-lucon-ste-gemme-
+ 1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – IE - CTC LUÇON-STE GEMME - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs IE - CTC LU
+ ÇON-STE GEMME - 1\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelna
+ u-de-Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm3/match/200000014599717
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599717
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-02-06-20-00-ie-as-panazol-castelnau-medoc-bc@ffbb-agen
+ da
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ IE - AS PANAZOL – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ IE - AS PANAZOL vs CASTELNAU MEDOC
+  BC\n\nGYMNASE DE GUILLEMOT\n📍 Allée Joseph Guillemot Panazol 87350\n
+ 🚗 Waze : https://waze.com/ul?ll=45.8375\,1.31194&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/competitions/nm3/match/200000014599777
+LOCATION:GYMNASE DE GUILLEMOT\, Allée Joseph Guillemot Panazol 87350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599777
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-02-13-20-00-castelnau-medoc-bc-cassen-saint-geours-bas
+ ket@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs CASSEN SAINT
+  GEOURS BASKET\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelnau-de
+ -Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm3/match/200000014599831
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599831
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-02-27-20-00-seguiniere-la-st-louis-basket-1-castelnau-
+ medoc-bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ SEGUINIERE (LA) ST LOUIS BASKET - 1 – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ SEGUINIERE (LA) ST LOUIS BASKET - 
+ 1 vs CASTELNAU MEDOC BC\n\nSALLE DE L'ARCEAU N 1\n📍 Rue du Paradis La S
+ éguinière 49280\n🚗 Waze : https://waze.com/ul?ll=47.06461\,-0.94124&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm3/match/200000014599889
+LOCATION:SALLE DE L'ARCEAU N 1\, Rue du Paradis La Séguinière 49280
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599889
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-03-06-20-00-castelnau-medoc-bc-coteaux-du-luy-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – COTEAUX DU LUY BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs COTEAUX DU L
+ UY BASKET - 1\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelnau-de-
+ Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599939
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599939
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-03-13-20-00-touraine-bc-castelnau-medoc-bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ TOURAINE BC – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ TOURAINE BC vs CASTELNAU MEDOC BC\
+ n\nGYMNASE DU HALLEBARDIER\n📍 Rue du Hallebardier Tours 37000\n🚗 Waz
+ e : https://waze.com/ul?ll=47.38207\,0.695&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nm3/match/200000014600001
+LOCATION:GYMNASE DU HALLEBARDIER\, Rue du Hallebardier Tours 37000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600001
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-03-27-20-00-castelnau-medoc-bc-alerte-sp-de-fondettes-
+ 1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – ALERTE SP. DE FONDETTES - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs ALERTE SP. D
+ E FONDETTES - 1\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelnau-d
+ e-Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm3/match/200000014600053
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600053
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-04-03-20-00-basket-seychois-barthelemeen-1-castelnau-m
+ edoc-bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ BASKET SEYCHOIS BARTHELEMEEN - 1 – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ BASKET SEYCHOIS BARTHELEMEEN - 1 v
+ s CASTELNAU MEDOC BC\n\nGYMNASE HENRY SABATIER\n📍 Avenue de Laborde Sey
+ ches 47350\n🚗 Waze : https://waze.com/ul?ll=44.55268\,0.3086&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm3/match/200000014600113
+LOCATION:GYMNASE HENRY SABATIER\, Avenue de Laborde Seyches 47350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600113
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-04-17-20-00-castelnau-medoc-bc-stade-montois-basket-ma
+ sculin-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 CASTELNAU MEDOC BC – STADE MONTOIS BASKET MASCULIN - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs STADE MONTOI
+ S BASKET MASCULIN - 1\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Caste
+ lnau-de-Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm3/match/200000014600167
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600167
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-04-25-15-30-castelnau-medoc-bc-real-chalossais@ffbb-ag
+ enda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270425T153000
+DTEND;TZID=Europe/Paris:20270425T173000
+SUMMARY:🏠 CASTELNAU MEDOC BC – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs REAL CHALOSS
+ AIS\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelnau-de-Médoc 334
+ 80\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014600219
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600219
+END:VEVENT
+END:VCALENDAR

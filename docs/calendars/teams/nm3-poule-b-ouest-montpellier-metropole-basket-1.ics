@@ -1,0 +1,475 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – OUEST MONTPELLIER METROPOLE BASKET - 1  [NM3 –  – Poule B]
+X-WR-CALDESC:Matchs de OUEST MONTPELLIER METROPOLE BASKET - 1 – NM3 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-09-05-20-00-avenir-basket-chalosse-1-ouest-montpellier
+ -metropol@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:✈️ AVENIR BASKET CHALOSSE - 1 – OUEST MONTPELLIER METROPOLE B
+ ASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ AVENIR BASKET CHALOSSE - 1 vs OUES
+ T MONTPELLIER METROPOLE BASKET - 1\n\nSALLE POLYVALENTE GABRIEL GARBAY\n
+ 📍 Chemin Carrère des Sports Castelnau-Chalosse 40360\n🚗 Waze : http
+ s://waze.com/ul?ll=43.66373\,-0.8434&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nm3/match/200000014598815
+LOCATION:SALLE POLYVALENTE GABRIEL GARBAY\, Chemin Carrère des Sports Cast
+ elnau-Chalosse 40360
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598815
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-09-12-20-00-ouest-montpellier-metropole-basket-1-ie-st
+ -gely-bas@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – IE - ST GELY BASKET
+ BALL
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs IE - ST GELY BASKETBALL\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍 Ru
+ e Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.com/
+ ul?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/mat
+ ch/200000014598872
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598872
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-09-19-19-00-elan-tursan-basket-1-ouest-montpellier-met
+ ropole-ba@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20260919T190000
+DTEND;TZID=Europe/Paris:20260919T210000
+SUMMARY:✈️ ELAN TURSAN BASKET - 1 – OUEST MONTPELLIER METROPOLE BASKE
+ T - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ ELAN TURSAN BASKET - 1 vs OUEST MO
+ NTPELLIER METROPOLE BASKET - 1\n\nSALLE SAINT LOUBOUER\n📍 Route de Viel
+ le Saint-Loubouer 40320\n🚗 Waze : https://waze.com/ul?ll=43.67641\,-0.4
+ 1946&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm3/match/200000014598929
+LOCATION:SALLE SAINT LOUBOUER\, Route de Vielle Saint-Loubouer 40320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598929
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-09-26-20-00-ouest-montpellier-metropole-basket-1-monta
+ uban-bask@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – MONTAUBAN BASKET CL
+ UB
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs MONTAUBAN BASKET CLUB\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍 Rue 
+ Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.com/ul
+ ?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match
+ /200000014598984
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598984
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-10-03-20-00-ie-auch-basket-club-1-ouest-montpellier-me
+ tropole-b@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ IE - AUCH BASKET CLUB - 1 – OUEST MONTPELLIER METROPOLE BA
+ SKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ IE - AUCH BASKET CLUB - 1 vs OUEST
+  MONTPELLIER METROPOLE BASKET - 1\n\nSALLE MATHALIN\n📍 Rue du 11 Novemb
+ re Auch 32000\n🚗 Waze : https://waze.com/ul?ll=43.64229\,0.5911&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599036
+LOCATION:SALLE MATHALIN\, Rue du 11 Novembre Auch 32000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599036
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-10-10-20-00-ouest-montpellier-metropole-basket-1-front
+ ignan-la-@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – FRONTIGNAN LA PEYRA
+ DE BASKET
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs FRONTIGNAN LA PEYRADE BASKET\n\nGYMNASE JEAN BAPTISTE MIRALLES\n
+ 📍 Rue Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://wa
+ ze.com/ul?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/
+ nm3/match/200000014599096
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599096
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-10-17-20-00-malaussanne-mazerolles-basket-soubestre-ou
+ est-montp@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:✈️ MALAUSSANNE MAZEROLLES BASKET SOUBESTRE – OUEST MONTPELLIE
+ R METROPOLE BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ MALAUSSANNE MAZEROLLES BASKET SOUB
+ ESTRE vs OUEST MONTPELLIER METROPOLE BASKET - 1\n\nFR MUN\n📍 Malaussann
+ e 64410\n🚗 Waze : https://waze.com/ul?ll=43.55953\,-0.47588&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm3/match/200000014599150
+LOCATION:FR MUN\, Malaussanne 64410
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599150
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-10-31-20-00-ouest-montpellier-metropole-basket-1-amou-
+ bonnegard@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – AMOU BONNEGARDE NAS
+ SIET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs AMOU BONNEGARDE NASSIET - 1\n\nGYMNASE JEAN BAPTISTE MIRALLES\n
+ 📍 Rue Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://wa
+ ze.com/ul?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/
+ nm3/match/200000014599208
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599208
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-11-07-20-00-ouest-montpellier-metropole-basket-1-caste
+ lnau-bask@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – CASTELNAU BASKET - 
+ 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs CASTELNAU BASKET - 1\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍 Rue A
+ ntoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.com/ul?
+ ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/
+ 200000014599264
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599264
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-11-14-20-00-bc-layrac-astaffort-1-ouest-montpellier-me
+ tropole-b@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ BC LAYRAC ASTAFFORT - 1 – OUEST MONTPELLIER METROPOLE BASK
+ ET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ BC LAYRAC ASTAFFORT - 1 vs OUEST M
+ ONTPELLIER METROPOLE BASKET - 1\n\nGYMNASE MUNICIPAL\n📍 Avenue de Badie
+  Layrac 47390\n🚗 Waze : https://waze.com/ul?ll=44.13281\,0.65804&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm3/match/200000014599321
+LOCATION:GYMNASE MUNICIPAL\, Avenue de Badie Layrac 47390
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599321
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-11-28-20-00-ouest-montpellier-metropole-basket-1-toulo
+ uges-ba@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – TOULOUGES BA
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs TOULOUGES BA\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍 Rue Antoine G
+ arcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.com/ul?ll=43.57
+ 55\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nm3/match/20000001
+ 4599376
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599376
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-12-05-21-00-coquelicot-lezatois-1-ouest-montpellier-me
+ tropole-b@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261205T210000
+DTEND;TZID=Europe/Paris:20261205T230000
+SUMMARY:✈️ COQUELICOT LEZATOIS - 1 – OUEST MONTPELLIER METROPOLE BASK
+ ET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ COQUELICOT LEZATOIS - 1 vs OUEST M
+ ONTPELLIER METROPOLE BASKET - 1\n\nSALLE GEORGES PEDOUSSAUT\n📍 Route de
+  Castagnac Lézat-sur-Lèze 09210\n🚗 Waze : https://waze.com/ul?ll=43.2
+ 4668\,1.34309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000
+ 014599429
+LOCATION:SALLE GEORGES PEDOUSSAUT\, Route de Castagnac Lézat-sur-Lèze 092
+ 10
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599429
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2026-12-12-20-00-ouest-montpellier-metropole-basket-1-sas-f
+ os-proven@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – SAS FOS PROVENCE BA
+ SKET - 2
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs SAS FOS PROVENCE BASKET - 2\n\nGYMNASE JEAN BAPTISTE MIRALLES\n
+ 📍 Rue Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://wa
+ ze.com/ul?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/
+ nm3/match/200000014599488
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599488
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-01-02-20-00-ouest-montpellier-metropole-basket-1-aveni
+ r-basket-@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – AVENIR BASKET CHALO
+ SSE - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs AVENIR BASKET CHALOSSE - 1\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍
+  Rue Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.c
+ om/ul?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/
+ match/200000014599543
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599543
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-01-09-20-00-ie-st-gely-basketball-ouest-montpellier-me
+ tropole-b@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:✈️ IE - ST GELY BASKETBALL – OUEST MONTPELLIER METROPOLE BASK
+ ET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ IE - ST GELY BASKETBALL vs OUEST M
+ ONTPELLIER METROPOLE BASKET - 1\n\nSALLE MAURICE BOUSQUET\n📍 Rue des Ol
+ iviers Saint-Gély-du-Fesc 34980\n🚗 Waze : https://waze.com/ul?ll=43.69
+ 45\,3.79782&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nm3/match/20000001
+ 4599600
+LOCATION:SALLE MAURICE BOUSQUET\, Rue des Oliviers Saint-Gély-du-Fesc 3498
+ 0
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599600
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-01-16-20-00-ouest-montpellier-metropole-basket-1-elan-
+ tursan-ba@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – ELAN TURSAN BASKET 
+ - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs ELAN TURSAN BASKET - 1\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍 Rue
+  Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.com/u
+ l?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/matc
+ h/200000014599657
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599657
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-01-30-20-00-montauban-basket-club-ouest-montpellier-me
+ tropole-b@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ MONTAUBAN BASKET CLUB – OUEST MONTPELLIER METROPOLE BASKET
+  - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ MONTAUBAN BASKET CLUB vs OUEST MON
+ TPELLIER METROPOLE BASKET - 1\n\nSALLE MULTISPORTS\n📍 Rue du Ramiérou 
+ Montauban 82000\n🚗 Waze : https://waze.com/ul?ll=44.01268\,1.37509&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm3/match/200000014599712
+LOCATION:SALLE MULTISPORTS\, Rue du Ramiérou Montauban 82000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599712
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-02-06-20-00-ouest-montpellier-metropole-basket-1-ie-au
+ ch-basket@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – IE - AUCH BASKET CL
+ UB - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs IE - AUCH BASKET CLUB - 1\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍 
+ Rue Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.co
+ m/ul?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/m
+ atch/200000014599764
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599764
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-02-13-20-00-frontignan-la-peyrade-basket-ouest-montpel
+ lier-metr@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ FRONTIGNAN LA PEYRADE BASKET – OUEST MONTPELLIER METROPOLE
+  BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ FRONTIGNAN LA PEYRADE BASKET vs OU
+ EST MONTPELLIER METROPOLE BASKET - 1\n\nSALLE ROGER ARNAUD\n📍 Avenue Je
+ an Mermoz Frontignan 34110\n🚗 Waze : https://waze.com/ul?ll=43.42669\,3
+ .73551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nm3/match/2000000145998
+ 24
+LOCATION:SALLE ROGER ARNAUD\, Avenue Jean Mermoz Frontignan 34110
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599824
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-02-27-20-00-ouest-montpellier-metropole-basket-1-malau
+ ssanne-ma@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – MALAUSSANNE MAZEROL
+ LES BASKET SOUBESTRE
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs MALAUSSANNE MAZEROLLES BASKET SOUBESTRE\n\nGYMNASE JEAN BAPTISTE M
+ IRALLES\n📍 Rue Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : h
+ ttps://waze.com/ul?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nm3/match/200000014599878
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599878
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-03-06-20-00-amou-bonnegarde-nassiet-1-ouest-montpellie
+ r-metropo@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ AMOU BONNEGARDE NASSIET - 1 – OUEST MONTPELLIER METROPOLE 
+ BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ AMOU BONNEGARDE NASSIET - 1 vs OUE
+ ST MONTPELLIER METROPOLE BASKET - 1\n\nSALLE D'AMOU\n📍 Allée des Sport
+ s Amou 40330\n🚗 Waze : https://waze.com/ul?ll=43.58987\,-0.74309&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm3/match/200000014599936
+LOCATION:SALLE D'AMOU\, Allée des Sports Amou 40330
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599936
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-03-13-20-00-castelnau-basket-1-ouest-montpellier-metro
+ pole-bask@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ CASTELNAU BASKET - 1 – OUEST MONTPELLIER METROPOLE BASKET 
+ - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ CASTELNAU BASKET - 1 vs OUEST MONT
+ PELLIER METROPOLE BASKET - 1\n\nSALLE RENE ALAUZE\n📍 Avenue de la Monna
+ ie Castelnau-le-Lez 34170\n🚗 Waze : https://waze.com/ul?ll=43.64514\,3.
+ 91746&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nm3/match/20000001459999
+ 2
+LOCATION:SALLE RENE ALAUZE\, Avenue de la Monnaie Castelnau-le-Lez 34170
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599992
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-03-27-20-00-ouest-montpellier-metropole-basket-1-bc-la
+ yrac-asta@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – BC LAYRAC ASTAFFORT
+  - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs BC LAYRAC ASTAFFORT - 1\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍 Ru
+ e Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.com/
+ ul?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/mat
+ ch/200000014600049
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600049
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-04-03-20-00-toulouges-ba-ouest-montpellier-metropole-b
+ asket-1@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ TOULOUGES BA – OUEST MONTPELLIER METROPOLE BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ TOULOUGES BA vs OUEST MONTPELLIER 
+ METROPOLE BASKET - 1\n\nSALLE NATUROPOLE\n📍 Boulevard de Clairfont Toul
+ ouges 66350\n🚗 Waze : https://waze.com/ul?ll=42.66356\,2.83463&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm3/match/200000014600104
+LOCATION:SALLE NATUROPOLE\, Boulevard de Clairfont Toulouges 66350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600104
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-04-17-20-00-ouest-montpellier-metropole-basket-1-coque
+ licot-lez@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 OUEST MONTPELLIER METROPOLE BASKET - 1 – COQUELICOT LEZATOIS
+  - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ OUEST MONTPELLIER METROPOLE BASKET
+  - 1 vs COQUELICOT LEZATOIS - 1\n\nGYMNASE JEAN BAPTISTE MIRALLES\n📍 Ru
+ e Antoine Garcia Saint-Jean-de-Védas 34430\n🚗 Waze : https://waze.com/
+ ul?ll=43.5755\,3.83186&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/mat
+ ch/200000014600157
+LOCATION:GYMNASE JEAN BAPTISTE MIRALLES\, Rue Antoine Garcia Saint-Jean-de-
+ Védas 34430
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600157
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-b-2027-04-25-15-30-sas-fos-provence-basket-2-ouest-montpellie
+ r-metropo@ffbb-agenda
+DTSTAMP:20260817T100315Z
+DTSTART;TZID=Europe/Paris:20270425T153000
+DTEND;TZID=Europe/Paris:20270425T173000
+SUMMARY:✈️ SAS FOS PROVENCE BASKET - 2 – OUEST MONTPELLIER METROPOLE 
+ BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule B\n⚔️ SAS FOS PROVENCE BASKET - 2 vs OUE
+ ST MONTPELLIER METROPOLE BASKET - 1\n\nCOMPLEXE SPORTIF PARSEMAIN\n📍 Av
+ enue Jean Moulin Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul?ll=43.
+ 43314\,4.94793&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/20000
+ 0014600216
+LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600216
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,437 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CASSEN SAINT GEOURS BASKET  [NM3 –  – Poule C]
+X-WR-CALDESC:Matchs de CASSEN SAINT GEOURS BASKET – NM3 – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-05-20-00-touraine-bc-cassen-saint-geours-basket@ffb
+ b-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:✈️ TOURAINE BC – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ TOURAINE BC vs CASSEN SAINT GEOURS
+  BASKET\n\nGYMNASE DU HALLEBARDIER\n📍 Rue du Hallebardier Tours 37000\n
+ 🚗 Waze : https://waze.com/ul?ll=47.38207\,0.695&navigate=yes\n\n📢 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/competitions/nm3/match/200000014598822
+LOCATION:GYMNASE DU HALLEBARDIER\, Rue du Hallebardier Tours 37000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598822
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-12-19-00-cassen-saint-geours-basket-stade-montois-b
+ asket-mas@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260912T190000
+DTEND;TZID=Europe/Paris:20260912T210000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – STADE MONTOIS BASKET MASCULIN -
+  1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs STAD
+ E MONTOIS BASKET MASCULIN - 1\n\nSALLE POLYVALENTE\n📍 Route de Montfort
+  Saint-Geours-d'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133
+ \,-0.83727&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000014
+ 598879
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598879
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-19-20-00-basket-seychois-barthelemeen-1-cassen-sain
+ t-geours-@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ BASKET SEYCHOIS BARTHELEMEEN - 1 – CASSEN SAINT GEOURS BAS
+ KET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ BASKET SEYCHOIS BARTHELEMEEN - 1 v
+ s CASSEN SAINT GEOURS BASKET\n\nGYMNASE HENRY SABATIER\n📍 Avenue de Lab
+ orde Seyches 47350\n🚗 Waze : https://waze.com/ul?ll=44.55268\,0.3086&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm3/match/200000014598936
+LOCATION:GYMNASE HENRY SABATIER\, Avenue de Laborde Seyches 47350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598936
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-09-26-20-00-cassen-saint-geours-basket-basket-club-sai
+ nt-barthe@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – BASKET CLUB SAINT BARTHELEMY. -
+  1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs BASK
+ ET CLUB SAINT BARTHELEMY. - 1\n\nSALLE POLYVALENTE\n📍 Route de Montfort
+  Saint-Geours-d'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133
+ \,-0.83727&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000014
+ 598991
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598991
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-03-20-00-real-chalossais-cassen-saint-geours-basket
+ @ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ REAL CHALOSSAIS – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ REAL CHALOSSAIS vs CASSEN SAINT GE
+ OURS BASKET\n\nTOULOUZETTE ARENES\n📍 Route des Arènes Toulouzette 4025
+ 0\n🚗 Waze : https://waze.com/ul?ll=43.75484\,-0.68577&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599043
+LOCATION:TOULOUZETTE ARENES\, Route des Arènes Toulouzette 40250
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599043
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-10-20-00-cassen-saint-geours-basket-castelnau-medoc
+ -bc@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – CASTELNAU MEDOC BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs CAST
+ ELNAU MEDOC BC\n\nSALLE POLYVALENTE\n📍 Route de Montfort Saint-Geours-d
+ 'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0.83727&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm3/match/200000014599103
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599103
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-17-20-00-ie-ctc-lucon-ste-gemme-1-cassen-saint-geou
+ rs-basket@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:✈️ IE - CTC LUÇON-STE GEMME - 1 – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ IE - CTC LUÇON-STE GEMME - 1 vs C
+ ASSEN SAINT GEOURS BASKET\n\nSALLE DES COMMEES LUCON\n📍 Boulevard Miche
+ l Phélipon Luçon 85400\n🚗 Waze : https://waze.com/ul?ll=46.46382\,-1.
+ 17411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nm3/match/20000001459915
+ 7
+LOCATION:SALLE DES COMMEES LUCON\, Boulevard Michel Phélipon Luçon 85400
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599157
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-10-31-20-00-cassen-saint-geours-basket-tours-metropole
+ -basket-p@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – TOURS METROPOLE BASKET PLLL - 2
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs TOUR
+ S METROPOLE BASKET PLLL - 2\n\nSALLE POLYVALENTE\n📍 Route de Montfort S
+ aint-Geours-d'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,
+ -0.83727&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nm3/match/20000001459
+ 9215
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599215
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-11-07-20-00-cassen-saint-geours-basket-ie-as-panazol@f
+ fbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – IE - AS PANAZOL
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs IE -
+  AS PANAZOL\n\nSALLE POLYVALENTE\n📍 Route de Montfort Saint-Geours-d'Au
+ ribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0.83727&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599271
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599271
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-11-14-20-00-ie-villeneuve-basket-club-cassen-saint-geo
+ urs-baske@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ IE - VILLENEUVE BASKET CLUB – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ IE - VILLENEUVE BASKET CLUB vs CAS
+ SEN SAINT GEOURS BASKET\n\nGYMNASE MAURICE LANG\n📍 Rue de la Gravette V
+ illeneuve-sur-Lot 47300\n🚗 Waze : https://waze.com/ul?ll=44.41142\,0.69
+ 637&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm3/match/200000014599328
+LOCATION:GYMNASE MAURICE LANG\, Rue de la Gravette Villeneuve-sur-Lot 47300
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599328
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-11-28-20-00-cassen-saint-geours-basket-coteaux-du-luy-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – COTEAUX DU LUY BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs COTE
+ AUX DU LUY BASKET - 1\n\nSALLE POLYVALENTE\n📍 Route de Montfort Saint-G
+ eours-d'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0.837
+ 27&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nm3/match/200000014599383
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599383
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-12-05-20-00-seguiniere-la-st-louis-basket-1-cassen-sai
+ nt-geours@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ SEGUINIERE (LA) ST LOUIS BASKET - 1 – CASSEN SAINT GEOURS 
+ BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ SEGUINIERE (LA) ST LOUIS BASKET - 
+ 1 vs CASSEN SAINT GEOURS BASKET\n\nSALLE DE L'ARCEAU N 1\n📍 Rue du Para
+ dis La Séguinière 49280\n🚗 Waze : https://waze.com/ul?ll=47.06461\,-0
+ .94124&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nm3/match/2000000145994
+ 36
+LOCATION:SALLE DE L'ARCEAU N 1\, Rue du Paradis La Séguinière 49280
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599436
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-12-12-20-00-cassen-saint-geours-basket-alerte-sp-de-fo
+ ndettes-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – ALERTE SP. DE FONDETTES - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs ALER
+ TE SP. DE FONDETTES - 1\n\nSALLE POLYVALENTE\n📍 Route de Montfort Saint
+ -Geours-d'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0.8
+ 3727&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm3/match/200000014599495
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599495
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2026-12-19-20-00-cassen-saint-geours-basket-touraine-bc@ffb
+ b-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20261219T200000
+DTEND;TZID=Europe/Paris:20261219T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – TOURAINE BC
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs TOUR
+ AINE BC\n\nSALLE POLYVALENTE\n📍 Route de Montfort Saint-Geours-d'Auriba
+ t 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0.83727&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm3/match/200000014599550
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599550
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-09-20-00-stade-montois-basket-masculin-1-cassen-sai
+ nt-geours@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:✈️ STADE MONTOIS BASKET MASCULIN - 1 – CASSEN SAINT GEOURS BA
+ SKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ STADE MONTOIS BASKET MASCULIN - 1 
+ vs CASSEN SAINT GEOURS BASKET\n\nESPACE F. MITTERRAND\n📍 Rue de la Ferm
+ e du Conte Mont-de-Marsan 40000\n🚗 Waze : https://waze.com/ul?ll=43.897
+ 54\,-0.46468&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nm3/match/2000000
+ 14599607
+LOCATION:ESPACE F. MITTERRAND\, Rue de la Ferme du Conte Mont-de-Marsan 400
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599607
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-16-20-00-cassen-saint-geours-basket-basket-seychois
+ -barthele@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – BASKET SEYCHOIS BARTHELEMEEN - 
+ 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs BASK
+ ET SEYCHOIS BARTHELEMEEN - 1\n\nSALLE POLYVALENTE\n📍 Route de Montfort 
+ Saint-Geours-d'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\
+ ,-0.83727&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nm3/match/2000000145
+ 99664
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599664
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-01-30-20-00-basket-club-saint-barthelemy-1-cassen-sain
+ t-geours-@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ BASKET CLUB SAINT BARTHELEMY. - 1 – CASSEN SAINT GEOURS BA
+ SKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ BASKET CLUB SAINT BARTHELEMY. - 1 
+ vs CASSEN SAINT GEOURS BASKET\n\nSALLE DES ARDOISES - ST BARTH.\n📍 Rue 
+ Victor Hugo Saint-Barthélemy-d'Anjou 49124\n🚗 Waze : https://waze.com/
+ ul?ll=47.46471\,-0.50496&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/m
+ atch/200000014599719
+LOCATION:SALLE DES ARDOISES - ST BARTH.\, Rue Victor Hugo Saint-Barthélemy
+ -d'Anjou 49124
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599719
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-02-06-20-00-cassen-saint-geours-basket-real-chalossais
+ @ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – REAL CHALOSSAIS
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs REAL
+  CHALOSSAIS\n\nSALLE POLYVALENTE\n📍 Route de Montfort Saint-Geours-d'Au
+ ribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0.83727&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm3/match/200000014599771
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599771
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-02-13-20-00-castelnau-medoc-bc-cassen-saint-geours-bas
+ ket@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ CASTELNAU MEDOC BC – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASTELNAU MEDOC BC vs CASSEN SAINT
+  GEOURS BASKET\n\nGYMNASE CANTERANE\n📍 Chemin de Terrefort Castelnau-de
+ -Médoc 33480\n🚗 Waze : https://waze.com/ul?ll=45.0312\,-0.79084&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm3/match/200000014599831
+LOCATION:GYMNASE CANTERANE\, Chemin de Terrefort Castelnau-de-Médoc 33480
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599831
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-02-27-20-00-cassen-saint-geours-basket-ie-ctc-lucon-st
+ e-gemme-1@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – IE - CTC LUÇON-STE GEMME - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs IE -
+  CTC LUÇON-STE GEMME - 1\n\nSALLE POLYVALENTE\n📍 Route de Montfort Sai
+ nt-Geours-d'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0
+ .83727&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nm3/match/2000000145998
+ 85
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599885
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-03-06-20-00-tours-metropole-basket-plll-2-cassen-saint
+ -geours-b@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ TOURS METROPOLE BASKET PLLL - 2 – CASSEN SAINT GEOURS BASK
+ ET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ TOURS METROPOLE BASKET PLLL - 2 vs
+  CASSEN SAINT GEOURS BASKET\n\nGYMNASE DABILLY\n📍 Rue Dabilly Tours 370
+ 00\n🚗 Waze : https://waze.com/ul?ll=47.39269\,0.67486&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599943
+LOCATION:GYMNASE DABILLY\, Rue Dabilly Tours 37000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599943
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-03-13-20-00-ie-as-panazol-cassen-saint-geours-basket@f
+ fbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ IE - AS PANAZOL – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ IE - AS PANAZOL vs CASSEN SAINT GE
+ OURS BASKET\n\nGYMNASE DE GUILLEMOT\n📍 Allée Joseph Guillemot Panazol 
+ 87350\n🚗 Waze : https://waze.com/ul?ll=45.8375\,1.31194&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nm3/match/200000014599999
+LOCATION:GYMNASE DE GUILLEMOT\, Allée Joseph Guillemot Panazol 87350
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599999
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-03-27-20-00-cassen-saint-geours-basket-ie-villeneuve-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – IE - VILLENEUVE BASKET CLUB
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs IE -
+  VILLENEUVE BASKET CLUB\n\nSALLE POLYVALENTE\n📍 Route de Montfort Saint
+ -Geours-d'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.75133\,-0.8
+ 3727&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm3/match/200000014600056
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600056
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-04-03-20-00-coteaux-du-luy-basket-1-cassen-saint-geour
+ s-basket@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ COTEAUX DU LUY BASKET - 1 – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ COTEAUX DU LUY BASKET - 1 vs CASSE
+ N SAINT GEOURS BASKET\n\nSALLE DE MONSEGUR\n📍 Route des Pyrénées Mons
+ égur 40700\n🚗 Waze : https://waze.com/ul?ll=43.6043\,-0.54151&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm3/match/200000014600111
+LOCATION:SALLE DE MONSEGUR\, Route des Pyrénées Monségur 40700
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600111
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-04-17-20-00-cassen-saint-geours-basket-seguiniere-la-s
+ t-louis-b@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 CASSEN SAINT GEOURS BASKET – SEGUINIERE (LA) ST LOUIS BASKET
+  - 1
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ CASSEN SAINT GEOURS BASKET vs SEGU
+ INIERE (LA) ST LOUIS BASKET - 1\n\nSALLE POLYVALENTE\n📍 Route de Montfo
+ rt Saint-Geours-d'Auribat 40380\n🚗 Waze : https://waze.com/ul?ll=43.751
+ 33\,-0.83727&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nm3/match/2000000
+ 14600164
+LOCATION:SALLE POLYVALENTE\, Route de Montfort Saint-Geours-d'Auribat 40380
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600164
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-c-2027-04-25-15-30-alerte-sp-de-fondettes-1-cassen-saint-geou
+ rs-basket@ffbb-agenda
+DTSTAMP:20260817T100323Z
+DTSTART;TZID=Europe/Paris:20270425T153000
+DTEND;TZID=Europe/Paris:20270425T173000
+SUMMARY:✈️ ALERTE SP. DE FONDETTES - 1 – CASSEN SAINT GEOURS BASKET
+DESCRIPTION:🏀 NM3 – Poule C\n⚔️ ALERTE SP. DE FONDETTES - 1 vs CAS
+ SEN SAINT GEOURS BASKET\n\nGYMNASE PIERRE PILORGER\n📍 Avenue du Moulin 
+ à Vent Fondettes 37230\n🚗 Waze : https://waze.com/ul?ll=47.39914\,0.60
+ 015&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm3/match/200000014600223
+LOCATION:GYMNASE PIERRE PILORGER\, Avenue du Moulin à Vent Fondettes 37230
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600223
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,442 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AMICALE SPORTIVE DU GUELMEUR - 1  [NM3 –  – Poule D]
+X-WR-CALDESC:Matchs de AMICALE SPORTIVE DU GUELMEUR - 1 – NM3 – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-09-05-20-00-u-s-t-basket-equeurdreville-amicale-sporti
+ ve-du-gue@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:✈️ U.S. T. BASKET EQUEURDREVILLE – AMICALE SPORTIVE DU GUELME
+ UR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ U.S. T. BASKET EQUEURDREVILLE vs A
+ MICALE SPORTIVE DU GUELMEUR - 1\n\nGYMNASE LEON JOUHAUX\n📍 Rue Léon Jo
+ uhaux Cherbourg-en-Cotentin 50120\n🚗 Waze : https://waze.com/ul?ll=49.6
+ 48\,-1.64997&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nm3/match/2000000
+ 14598831
+LOCATION:GYMNASE LEON JOUHAUX\, Rue Léon Jouhaux Cherbourg-en-Cotentin 501
+ 20
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598831
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-09-12-20-00-amicale-sportive-du-guelmeur-1-basket-club
+ -basse-go@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – BASKET CLUB BASSE GOULAIN
+ E
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s BASKET CLUB BASSE GOULAINE\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurroc B
+ rest 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm3/match/200000014598884
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598884
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-09-19-20-00-ie-betton-cs-1-amicale-sportive-du-guelmeu
+ r-1@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ IE - BETTON CS - 1 – AMICALE SPORTIVE DU GUELMEUR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ IE - BETTON CS - 1 vs AMICALE SPOR
+ TIVE DU GUELMEUR - 1\n\nCOMPLEXE DE LA TOUCHE (salle A)\n📍 Rue de la C
+ ôte d'Émeraude Betton 35830\n🚗 Waze : https://waze.com/ul?ll=48.18572
+ \,-1.64751&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000014
+ 598939
+LOCATION:COMPLEXE DE LA TOUCHE (salle A)\, Rue de la Côte d'Émeraude Bett
+ on 35830
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598939
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-09-26-20-00-amicale-sportive-du-guelmeur-1-saint-laure
+ nt-de-la-@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – SAINT LAURENT DE LA PLAIN
+ E - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s SAINT LAURENT DE LA PLAINE - 1\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurr
+ oc Brest 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm3/match/200000014598996
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598996
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-10-03-20-00-amicale-sportive-du-guelmeur-1-amicale-lai
+ que-monti@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – AMICALE LAIQUE MONTIVILLI
+ ERS B. - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s AMICALE LAIQUE MONTIVILLIERS B. - 1\n\nSALLE DU FORESTOU\n📍 Rue Jean 
+ Teurroc Brest 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm3/match/200000014599052
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599052
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-10-10-20-00-ie-ctc-challans-riez-vie-85-riez-vie-baske
+ t-l-etoil@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ IE - CTC CHALLANS RIEZ VIE 85 - RIEZ VIE BASKET L'ETOILE –
+  AMICALE SPORTIVE DU GUELMEUR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ IE - CTC CHALLANS RIEZ VIE 85 - RI
+ EZ VIE BASKET L'ETOILE vs AMICALE SPORTIVE DU GUELMEUR - 1\n\nSALLE DE LA 
+ VIE\n📍 Rue des Marais Salants Saint-Gilles-Croix-de-Vie 85800\n🚗 Waz
+ e : https://waze.com/ul?ll=46.70302\,-1.93076&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm3/match/200000014599109
+LOCATION:SALLE DE LA VIE\, Rue des Marais Salants Saint-Gilles-Croix-de-Vie
+  85800
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599109
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-10-17-20-00-amicale-sportive-du-guelmeur-1-le-club-de-
+ brettevil@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – LE CLUB DE  BRETTEVILLE-S
+ UR-ODON BASKET
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s LE CLUB DE  BRETTEVILLE-SUR-ODON BASKET\n\nSALLE DU FORESTOU\n📍 Rue J
+ ean Teurroc Brest 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.4
+ 6542&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm3/match/200000014599164
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599164
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-10-31-20-00-rennes-pole-association-amicale-sportive-d
+ u-guelmeu@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ RENNES POLE ASSOCIATION – AMICALE SPORTIVE DU GUELMEUR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ RENNES POLE ASSOCIATION vs AMICALE
+  SPORTIVE DU GUELMEUR - 1\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palan
+ te Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nm3/match/200000014599219
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599219
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-11-07-20-00-amicale-sportive-du-guelmeur-1-as-saint-ro
+ gatien-na@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – AS SAINT ROGATIEN NANTES
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s AS SAINT ROGATIEN NANTES\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurroc Bre
+ st 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm3/match/200000014599276
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599276
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-11-14-20-00-cep-lorient-basket-2-amicale-sportive-du-g
+ uelmeur-1@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ CEP LORIENT BASKET - 2 – AMICALE SPORTIVE DU GUELMEUR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ CEP LORIENT BASKET - 2 vs AMICALE 
+ SPORTIVE DU GUELMEUR - 1\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dr
+ eyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm3/match/200000014599336
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599336
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-11-28-20-00-amicale-sportive-du-guelmeur-1-montfort-bc
+ -1@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – MONTFORT BC - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s MONTFORT BC - 1\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurroc Brest 29200\
+ n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599388
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599388
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-12-05-20-00-saint-nazaire-basket-club-amicale-sportive
+ -du-guelm@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ SAINT NAZAIRE BASKET CLUB – AMICALE SPORTIVE DU GUELMEUR -
+  1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ SAINT NAZAIRE BASKET CLUB vs AMICA
+ LE SPORTIVE DU GUELMEUR - 1\n\nGYMNASE PORCE-GEORGES CARPENTIER\n📍 Chem
+ in de Porcé Saint-Nazaire 44600\n🚗 Waze : https://waze.com/ul?ll=47.25
+ 615\,-2.25396&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000
+ 014599445
+LOCATION:GYMNASE PORCE-GEORGES CARPENTIER\, Chemin de Porcé Saint-Nazaire 
+ 44600
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599445
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2026-12-12-20-00-amicale-sportive-du-guelmeur-1-cercle-spor
+ tif-bayeu@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – CERCLE SPORTIF BAYEUX - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s CERCLE SPORTIF BAYEUX - 1\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurroc Br
+ est 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm3/match/200000014599500
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599500
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-01-02-20-00-amicale-sportive-du-guelmeur-1-u-s-t-baske
+ t-equeurd@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – U.S. T. BASKET EQUEURDREV
+ ILLE
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s U.S. T. BASKET EQUEURDREVILLE\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurro
+ c Brest 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm3/match/200000014599559
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599559
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-01-09-20-00-basket-club-basse-goulaine-amicale-sportiv
+ e-du-guel@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:✈️ BASKET CLUB BASSE GOULAINE – AMICALE SPORTIVE DU GUELMEUR 
+ - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ BASKET CLUB BASSE GOULAINE vs AMIC
+ ALE SPORTIVE DU GUELMEUR - 1\n\nSALLE DE GOULAINE\n📍 Square de Theley B
+ asse-Goulaine 44115\n🚗 Waze : https://waze.com/ul?ll=47.21771\,-1.46483
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm3/match/200000014599612
+LOCATION:SALLE DE GOULAINE\, Square de Theley Basse-Goulaine 44115
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599612
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-01-16-20-00-amicale-sportive-du-guelmeur-1-ie-betton-c
+ s-1@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – IE - BETTON CS - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s IE - BETTON CS - 1\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurroc Brest 292
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599667
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599667
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-01-30-20-00-saint-laurent-de-la-plaine-1-amicale-sport
+ ive-du-gu@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ SAINT LAURENT DE LA PLAINE - 1 – AMICALE SPORTIVE DU GUELM
+ EUR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ SAINT LAURENT DE LA PLAINE - 1 vs 
+ AMICALE SPORTIVE DU GUELMEUR - 1\n\nCOMPLEXE SPORTIF\n📍 Cité de l'Aven
+ eau Mauges-sur-Loire 49290\n🚗 Waze : https://waze.com/ul?ll=47.31731\,-
+ 0.80652&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nm3/match/200000014599
+ 724
+LOCATION:COMPLEXE SPORTIF\, Cité de l'Aveneau Mauges-sur-Loire 49290
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599724
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-02-06-20-00-amicale-laique-montivilliers-b-1-amicale-s
+ portive-d@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ AMICALE LAIQUE MONTIVILLIERS B. - 1 – AMICALE SPORTIVE DU 
+ GUELMEUR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE LAIQUE MONTIVILLIERS B. - 
+ 1 vs AMICALE SPORTIVE DU GUELMEUR - 1\n\nSALLE SIBRAN\n📍 Place Jules Fe
+ rry Montivilliers 76290\n🚗 Waze : https://waze.com/ul?ll=49.54607\,0.19
+ 135&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm3/match/200000014599780
+LOCATION:SALLE SIBRAN\, Place Jules Ferry Montivilliers 76290
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599780
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-02-13-20-00-amicale-sportive-du-guelmeur-1-ie-ctc-chal
+ lans-riez@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – IE - CTC CHALLANS RIEZ VI
+ E 85 - RIEZ VIE BASKET L'ETOILE
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s IE - CTC CHALLANS RIEZ VIE 85 - RIEZ VIE BASKET L'ETOILE\n\nSALLE DU FOR
+ ESTOU\n📍 Rue Jean Teurroc Brest 29200\n🚗 Waze : https://waze.com/ul?
+ ll=48.39171\,-4.46542&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/matc
+ h/200000014599837
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599837
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-02-27-20-00-le-club-de-bretteville-sur-odon-basket-ami
+ cale-spor@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ LE CLUB DE  BRETTEVILLE-SUR-ODON BASKET – AMICALE SPORTIVE
+  DU GUELMEUR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ LE CLUB DE  BRETTEVILLE-SUR-ODON B
+ ASKET vs AMICALE SPORTIVE DU GUELMEUR - 1\n\nGYMNASE MUNICIPAL\n📍 Place
+  de l'Église Bretteville-sur-Odon 14760\n🚗 Waze : https://waze.com/ul?
+ ll=49.16704\,-0.41387&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm3/matc
+ h/200000014599892
+LOCATION:GYMNASE MUNICIPAL\, Place de l'Église Bretteville-sur-Odon 14760
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599892
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-03-06-20-00-amicale-sportive-du-guelmeur-1-rennes-pole
+ -associat@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s RENNES POLE ASSOCIATION\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurroc Bres
+ t 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm3/match/200000014599947
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599947
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-03-13-20-00-as-saint-rogatien-nantes-amicale-sportive-
+ du-guelme@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ AS SAINT ROGATIEN NANTES – AMICALE SPORTIVE DU GUELMEUR - 
+ 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AS SAINT ROGATIEN NANTES vs AMICAL
+ E SPORTIVE DU GUELMEUR - 1\n\nSALLE DES AGENETS\n📍 Rue du Casterneau Na
+ ntes 44000\n🚗 Waze : https://waze.com/ul?ll=47.22714\,-1.53066&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm3/match/200000014600004
+LOCATION:SALLE DES AGENETS\, Rue du Casterneau Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600004
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-03-27-20-00-amicale-sportive-du-guelmeur-1-cep-lorient
+ -basket-2@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – CEP LORIENT BASKET - 2
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s CEP LORIENT BASKET - 2\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurroc Brest
+  29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nm3/match/200000014600064
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600064
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-04-03-20-00-montfort-bc-1-amicale-sportive-du-guelmeur
+ -1@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ MONTFORT BC - 1 – AMICALE SPORTIVE DU GUELMEUR - 1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ MONTFORT BC - 1 vs AMICALE SPORTIV
+ E DU GUELMEUR - 1\n\nCOSEC\n📍 Route d'Iffendic Montfort-sur-Meu 35160\n
+ 🚗 Waze : https://waze.com/ul?ll=48.13765\,-1.96388&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014600116
+LOCATION:COSEC\, Route d'Iffendic Montfort-sur-Meu 35160
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600116
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-04-17-20-00-amicale-sportive-du-guelmeur-1-saint-nazai
+ re-basket@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 AMICALE SPORTIVE DU GUELMEUR - 1 – SAINT NAZAIRE BASKET CLUB
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ AMICALE SPORTIVE DU GUELMEUR - 1 v
+ s SAINT NAZAIRE BASKET CLUB\n\nSALLE DU FORESTOU\n📍 Rue Jean Teurroc Br
+ est 29200\n🚗 Waze : https://waze.com/ul?ll=48.39171\,-4.46542&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm3/match/200000014600173
+LOCATION:SALLE DU FORESTOU\, Rue Jean Teurroc Brest 29200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600173
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-d-2027-04-25-15-30-cercle-sportif-bayeux-1-amicale-sportive-d
+ u-guelmeu@ffbb-agenda
+DTSTAMP:20260817T100330Z
+DTSTART;TZID=Europe/Paris:20270425T153000
+DTEND;TZID=Europe/Paris:20270425T173000
+SUMMARY:✈️ CERCLE SPORTIF BAYEUX - 1 – AMICALE SPORTIVE DU GUELMEUR -
+  1
+DESCRIPTION:🏀 NM3 – Poule D\n⚔️ CERCLE SPORTIF BAYEUX - 1 vs AMICA
+ LE SPORTIVE DU GUELMEUR - 1\n\nSALLE YVAN MAININI\n📍 Rue Pierre de Coub
+ ertin Bayeux 14400\n🚗 Waze : https://waze.com/ul?ll=49.28051\,-0.69977&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm3/match/200000014600228
+LOCATION:SALLE YVAN MAININI\, Rue Pierre de Coubertin Bayeux 14400
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600228
+END:VEVENT
+END:VCALENDAR

@@ -61,13 +61,13 @@ def _extract_rencontres_array(decoded: str, poule_id: str | None = None) -> list
             idx = decoded.find(id_pat)
             if idx == -1:
                 continue
-            # Cherche "rencontres":[ après cet ID, dans une fenêtre raisonnable
-            window = decoded[idx: idx + 2000]
-            ren_m = re.search(r'"rencontres"\s*:\s*(\[)', window)
+            # Cherche "rencontres":[ après cet ID, sans limite de fenêtre
+            # (le tableau "classements" peut être très volumineux pour les nationaux)
+            ren_m = re.search(r'"rencontres"\s*:\s*(\[)', decoded[idx:])
             if ren_m:
                 abs_pos = idx + ren_m.start(1)
                 result = extract_array_at(decoded, abs_pos)
-                if isinstance(result, list):
+                if isinstance(result, list) and result:
                     return result
 
     # Fallback : première occurrence de "rencontres"

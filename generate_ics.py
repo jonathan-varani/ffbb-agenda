@@ -19,7 +19,7 @@ import sys
 import unicodedata
 from datetime import datetime, timedelta, timezone
 
-from scraper_http import scrape_competition, build_calendar_name, find_all_poule_urls, discover_competitions
+from scraper_http import scrape_competition, build_calendar_name, find_all_poule_urls, discover_competitions, discover_national_competitions
 
 # ── Config ────────────────────────────────────────────────────────────────────
 OUTPUT_DIR   = "docs/calendars"       # dossier de sortie GitHub Pages
@@ -292,14 +292,28 @@ async def process_poule(url: str, manifest: dict, base_url_prefix: str = ""):
 
 # ── Pipeline principal ────────────────────────────────────────────────────────
 async def main():
-    args   = sys.argv[1:]
-    direct = "--direct" in args
-    region = "--region" in args
-    urls   = [u for u in args if not u.startswith("--")] or [TEST_URL]
+    args     = sys.argv[1:]
+    direct   = "--direct" in args
+    region   = "--region" in args
+    national = "--national" in args
+    urls     = [u for u in args if not u.startswith("--")] or [TEST_URL]
 
     manifest = load_manifest()
 
-    if region:
+    if national:
+        # Mode national : championnats FFBB (NF1-3, NM1-3, U18/U15 Elite, etc.)
+        print(f"\n{'='*60}")
+        print("MODE NATIONAL : championnats nationaux")
+        print(f"{'='*60}")
+        comp_urls = await discover_national_competitions()
+        for comp_url in comp_urls:
+            print(f"\n{'='*60}\n{comp_url}\n{'='*60}")
+            poule_urls = await find_all_poule_urls(comp_url)
+            print(f"→ {len(poule_urls)} poule(s)")
+            for purl in poule_urls:
+                await process_poule(purl, manifest)
+
+    elif region:
         # Mode région : découverte automatique de toutes les compétitions
         for region_url in urls:
             print(f"\n{'='*60}")

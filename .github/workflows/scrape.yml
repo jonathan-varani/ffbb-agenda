@@ -1,4 +1,4 @@
-name: Scrape FFBB — région GES
+name: Scrape FFBB — région GES + nationaux
 
 on:
   schedule:
@@ -28,6 +28,9 @@ jobs:
 
       - name: Lancer le scraping (région GES)
         run: python generate_ics.py --region "https://competitions.ffbb.com/ligues/ges"
+
+      - name: Lancer le scraping (championnats nationaux)
+        run: python generate_ics.py --national
 
       - name: Commit + push si changements
         run: |

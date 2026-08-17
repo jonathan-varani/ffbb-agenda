@@ -595,86 +595,7 @@ async def discover_competitions(
         if any(kw in low for kw in exclude) or amicale_slug_re.search(slug_path):
             print(f"  ⏭ Exclu : {label!r} ({slug_path})")
             return None
-
-        # Essaie d'abord avec ?journee=1 pour forcer le rendu SSR avec phase
-        urls_to_try = [
-            BASE + slug_path + "?journee=1",
-            BASE + slug_path,
-        ]
-        html = ""
-        final_url = BASE + slug_path
-        for comp_url in urls_to_try:
-            try:
-                async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as session:
-                    async with session.get(comp_url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
-                        final_url = str(resp.url)
-                        html      = await resp.text()
-            except Exception as e:
-                print(f"  ⚠️ Erreur fetch {comp_url}: {e}")
-                continue
-
-            # 1a. data-phase-test-id="..." (attribut HTML FFBB)
-            phase_m = re.search(r'data-phase-test-id="(\d+)"', html)
-            if not phase_m:
-                # 1b. phase= dans le contenu HTML brut (canonical, liens, etc.)
-                phase_m = re.search(r"phase=(\d+)", html)
-            if phase_m:
-                m2 = re.search(r"(/ligues/[^/]+/competitions/[^/?#]+)", slug_path)
-                clean_base = BASE + (m2.group(1) if m2 else slug_path)
-                result = f"{clean_base}?phase={phase_m.group(1)}"
-                print(f"  ✓ {slug_path} → phase={phase_m.group(1)}")
-                return result
-
-            # 2. Cherche dans le JSON __next_f décodé
-            soup_c = BeautifulSoup(html, "html.parser")
-            for script in soup_c.find_all("script"):
-                txt = script.string or ""
-                if not txt:
-                    continue
-                m_raw = re.search(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)\s*$', txt, re.DOTALL)
-                if not m_raw:
-                    continue
-                raw = m_raw.group(1)
-                try:
-                    decoded = raw.encode("utf-8").decode("unicode_escape", errors="replace")
-                    try:
-                        decoded = decoded.encode("latin-1").decode("utf-8")
-                    except (UnicodeDecodeError, UnicodeEncodeError):
-                        pass
-                except Exception:
-                    decoded = txt
-
-                # phase= dans le décodé
-                pm = re.search(r"phase=(\d+)", decoded)
-                if pm:
-                    m2 = re.search(r"(/ligues/[^/]+/competitions/[^/?#]+)", slug_path)
-                    clean_base = BASE + (m2.group(1) if m2 else slug_path)
-                    result = f"{clean_base}?phase={pm.group(1)}"
-                    print(f"  ✓ {slug_path} → phase={pm.group(1)} (via __next_f)")
-                    return result
-
-                # Cherche une clé JSON "idPhase" ou "id_phase" ou similaire
-                pm2 = re.search(
-                    r'"(?:idPhase|phaseId|phase_id|id_phase|currentPhase)"\s*:\s*"(\d{10,})"',
-                    decoded,
-                )
-                if pm2:
-                    m2 = re.search(r"(/ligues/[^/]+/competitions/[^/?#]+)", slug_path)
-                    clean_base = BASE + (m2.group(1) if m2 else slug_path)
-                    result = f"{clean_base}?phase={pm2.group(1)}"
-                    print(f"  ✓ {slug_path} → phase={pm2.group(1)} (via JSON key)")
-                    return result
-
-                # Cherche un grand ID FFBB (15 chiffres) dans le contexte de "phase"
-                for pm3 in re.finditer(r'"phase[^"]*"\s*:\s*\{[^}]*"id"\s*:\s*"(\d{10,})"', decoded):
-                    m2 = re.search(r"(/ligues/[^/]+/competitions/[^/?#]+)", slug_path)
-                    clean_base = BASE + (m2.group(1) if m2 else slug_path)
-                    result = f"{clean_base}?phase={pm3.group(1)}"
-                    print(f"  ✓ {slug_path} → phase={pm3.group(1)} (via phase.id)")
-                    return result
-
-        print(f"  ✗ {slug_path} — phase= introuvable")
-        return None
+        return await _resolve_phase_url(slug_path)
 
     sem = asyncio.Semaphore(4)
 
@@ -687,6 +608,118 @@ async def discover_competitions(
     urls = [r for r in results if r]
 
     print(f"  → {len(urls)} compétition(s) résolue(s)")
+    return urls
+
+
+# ── Résolution du ?phase=XXXX d'une compétition (partagée région/national) ────
+
+async def _resolve_phase_url(slug_path: str) -> str | None:
+    """
+    Résout l'URL "?phase=XXXX" d'une compétition à partir de son slug_path
+    (ex: "/competitions/nf1" pour un championnat national, ou
+    "/ligues/ges/competitions/pnm" pour une compétition régionale).
+    """
+    urls_to_try = [
+        BASE + slug_path + "?journee=1",
+        BASE + slug_path,
+    ]
+    html = ""
+    slug_re = r"(/ligues/[^/]+/competitions/[^/?#]+|/competitions/[^/?#]+)"
+
+    for comp_url in urls_to_try:
+        try:
+            async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as session:
+                async with session.get(comp_url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
+                    html = await resp.text()
+        except Exception as e:
+            print(f"  ⚠️ Erreur fetch {comp_url}: {e}")
+            continue
+
+        # 1a. data-phase-test-id="..." (attribut HTML FFBB)
+        phase_m = re.search(r'data-phase-test-id="(\d+)"', html)
+        if not phase_m:
+            # 1b. phase= dans le contenu HTML brut (canonical, liens, etc.)
+            phase_m = re.search(r"phase=(\d+)", html)
+        if phase_m:
+            m2 = re.search(slug_re, slug_path)
+            clean_base = BASE + (m2.group(1) if m2 else slug_path)
+            result = f"{clean_base}?phase={phase_m.group(1)}"
+            print(f"  ✓ {slug_path} → phase={phase_m.group(1)}")
+            return result
+
+        # 2. Cherche dans le JSON __next_f décodé
+        soup_c = BeautifulSoup(html, "html.parser")
+        for script in soup_c.find_all("script"):
+            txt = script.string or ""
+            if not txt:
+                continue
+            m_raw = re.search(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)\s*$', txt, re.DOTALL)
+            if not m_raw:
+                continue
+            raw = m_raw.group(1)
+            try:
+                decoded = raw.encode("utf-8").decode("unicode_escape", errors="replace")
+                try:
+                    decoded = decoded.encode("latin-1").decode("utf-8")
+                except (UnicodeDecodeError, UnicodeEncodeError):
+                    pass
+            except Exception:
+                decoded = txt
+
+            # phase= dans le décodé
+            pm = re.search(r"phase=(\d+)", decoded)
+            if pm:
+                m2 = re.search(slug_re, slug_path)
+                clean_base = BASE + (m2.group(1) if m2 else slug_path)
+                result = f"{clean_base}?phase={pm.group(1)}"
+                print(f"  ✓ {slug_path} → phase={pm.group(1)} (via __next_f)")
+                return result
+
+            # Cherche une clé JSON "idPhase" ou "id_phase" ou similaire
+            pm2 = re.search(
+                r'"(?:idPhase|phaseId|phase_id|id_phase|currentPhase)"\s*:\s*"(\d{10,})"',
+                decoded,
+            )
+            if pm2:
+                m2 = re.search(slug_re, slug_path)
+                clean_base = BASE + (m2.group(1) if m2 else slug_path)
+                result = f"{clean_base}?phase={pm2.group(1)}"
+                print(f"  ✓ {slug_path} → phase={pm2.group(1)} (via JSON key)")
+                return result
+
+            # Cherche un grand ID FFBB (15 chiffres) dans le contexte de "phase"
+            for pm3 in re.finditer(r'"phase[^"]*"\s*:\s*\{[^}]*"id"\s*:\s*"(\d{10,})"', decoded):
+                m2 = re.search(slug_re, slug_path)
+                clean_base = BASE + (m2.group(1) if m2 else slug_path)
+                result = f"{clean_base}?phase={pm3.group(1)}"
+                print(f"  ✓ {slug_path} → phase={pm3.group(1)} (via phase.id)")
+                return result
+
+    print(f"  ✗ {slug_path} — phase= introuvable")
+    return None
+
+
+# ── Championnats nationaux (liste fixe, hors /ligues/) ────────────────────────
+# NF1-3, NFU18 Elite A/B, NFU15 Elite, TPEF, NM1-3, NMU18/U15 Elite, TPEM
+# (championnats FFBB > Nationaux > Championnats, cf. competitions.ffbb.com)
+NATIONAL_COMPETITIONS = [
+    "nf1", "nf2", "nf3", "nfu18-elite-a", "nfu18-elite-b", "nfu15-elite", "tpef",
+    "nm1", "nm2", "nm3", "nmu18-elite", "nmu15-elite", "tpem",
+]
+
+
+async def discover_national_competitions() -> list[str]:
+    """Résout les URLs ?phase=XXXX des championnats nationaux (liste fixe)."""
+    print(f"\n  Résolution de {len(NATIONAL_COMPETITIONS)} championnat(s) national(aux)…")
+    sem = asyncio.Semaphore(4)
+
+    async def resolve_safe(slug: str) -> str | None:
+        async with sem:
+            return await _resolve_phase_url(f"/competitions/{slug}")
+
+    results = await asyncio.gather(*(resolve_safe(s) for s in NATIONAL_COMPETITIONS))
+    urls = [r for r in results if r]
+    print(f"  → {len(urls)} championnat(s) national(aux) résolu(s)")
     return urls
 
 

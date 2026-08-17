@@ -46,8 +46,8 @@
       background: #fff;
       border-bottom: 1px solid var(--border);
       position: sticky;
-      top: 62px;
-      z-index: 90;
+      top: 110px;
+      z-index: 80;
     }
     .search-bar input {
       width: 100%;
@@ -61,45 +61,44 @@
     }
     .search-bar input:focus { border-color: var(--orange); }
 
-    /* ── Tabs région ── */
-    .region-tabs {
+    /* ── Sélecteur scope (GES / National) ── */
+    .scope-tabs {
       display: flex;
-      gap: 8px;
-      padding: 10px 16px;
-      overflow-x: auto;
-      scrollbar-width: none;
       background: #fff;
-      border-bottom: 1px solid var(--border);
+      border-bottom: 2px solid var(--border);
       position: sticky;
-      top: 116px;
-      z-index: 80;
+      top: 62px;
+      z-index: 85;
     }
-    .region-tabs::-webkit-scrollbar { display: none; }
-    .region-tab {
-      flex-shrink: 0;
-      padding: 5px 14px;
-      border-radius: 20px;
-      border: 1.5px solid var(--border);
-      background: #fff;
-      font-size: .82rem;
-      font-weight: 600;
+    .scope-tab {
+      flex: 1;
+      padding: 12px 8px;
+      border: none;
+      border-bottom: 3px solid transparent;
+      background: transparent;
+      font-size: .9rem;
+      font-weight: 700;
       color: var(--gray);
       cursor: pointer;
-      white-space: nowrap;
+      text-align: center;
+      transition: color .15s, border-color .15s;
+      margin-bottom: -2px;
     }
-    .region-tab.active {
-      background: var(--navy);
-      color: #fff;
-      border-color: var(--navy);
+    .scope-tab.active {
+      color: var(--navy);
+      border-bottom-color: var(--orange);
     }
 
     /* ── Filtre genre ── */
     .genre-tabs {
       display: flex;
       gap: 8px;
-      padding: 0 16px 10px;
+      padding: 8px 16px;
       background: #fff;
       border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 164px;
+      z-index: 79;
     }
     .genre-tab {
       flex: 1;
@@ -448,11 +447,14 @@
   </div>
 </div>
 
+<div class="scope-tabs">
+  <button class="scope-tab active" data-scope="ges" onclick="setScope('ges')">🗺️ Grand Est</button>
+  <button class="scope-tab" data-scope="national" onclick="setScope('national')">🏆 National</button>
+</div>
+
 <div class="search-bar">
   <input type="search" id="search" placeholder="🔍  Rechercher une équipe…" autocomplete="off" autocorrect="off">
 </div>
-
-<div class="region-tabs" id="region-tabs"></div>
 
 <div class="genre-tabs" id="genre-tabs">
   <button class="genre-tab active" data-genre="">Tous</button>
@@ -523,7 +525,7 @@ function subUrl(f)    { return webcalUrl(f); }
 
 // ── Données ──────────────────────────────────────────────────────────────────
 let DATA = null;
-let currentRegion = "";
+let currentScope  = "ges";   // "ges" | "national"
 let currentSearch = "";
 let currentGenre  = "";
 
@@ -556,49 +558,21 @@ async function loadData() {
   }
 }
 
-// ── Arbre ────────────────────────────────────────────────────────────────────
-function buildTree() {
-  const tree = {};
-  for (const eq of DATA.equipes) {
-    const region = eq.region || "FR";
-    const slug   = eq.comp_nom.split(" – ")[0] || eq.comp_slug;
-    const poule  = eq.poule || "";
-    if (!tree[region]) tree[region] = {};
-    if (!tree[region][slug]) tree[region][slug] = {};
-    if (!tree[region][slug][poule]) tree[region][slug][poule] = [];
-    tree[region][slug][poule].push(eq);
-  }
-  return tree;
-}
-
 function init() {
-  const tree    = buildTree();
-  const regions = Object.keys(tree).sort();
-  const tabsEl  = document.getElementById("region-tabs");
-  tabsEl.innerHTML = "";
-  regions.forEach(r => {
-    const btn = document.createElement("button");
-    btn.className = "region-tab";
-    btn.dataset.region = r;
-    btn.textContent = r;
-    btn.onclick = () => setRegion(r);
-    tabsEl.appendChild(btn);
-  });
-  if (regions.length) setRegion(regions[0]);
-  else render(tree);
+  setScope("ges");
 }
 
-function setRegion(r) {
-  currentRegion = r;
-  document.querySelectorAll(".region-tab").forEach(b =>
-    b.classList.toggle("active", b.dataset.region === r)
+function setScope(scope) {
+  currentScope = scope;
+  document.querySelectorAll(".scope-tab").forEach(b =>
+    b.classList.toggle("active", b.dataset.scope === scope)
   );
-  render(buildTree());
+  render();
 }
 
 document.getElementById("search").addEventListener("input", e => {
   currentSearch = e.target.value.trim().toLowerCase();
-  render(buildTree());
+  render();
 });
 
 document.getElementById("genre-tabs").addEventListener("click", e => {
@@ -608,49 +582,65 @@ document.getElementById("genre-tabs").addEventListener("click", e => {
   document.querySelectorAll(".genre-tab").forEach(b =>
     b.classList.toggle("active", b === btn)
   );
-  render(buildTree());
+  render();
 });
 
 function esc(s) { return (s || "").replace(/"/g, "&quot;"); }
 
-function render(tree) {
-  if (!tree) return;
-  const content = document.getElementById("content");
-  const genreMap = compGenreMap();
-  let html = ""; let total = 0;
-  const regionsToShow = currentRegion ? [currentRegion] : Object.keys(tree).sort();
+function champRootSlug(comp_slug) {
+  return comp_slug.replace(/-poule-[a-z0-9]+$/i, "");
+}
+function champRootLabel(rootSlug) {
+  return rootSlug.split("-").map(p => p.toUpperCase()).join(" ");
+}
 
-  regionsToShow.forEach(region => {
-    const champs = tree[region];
-    if (!champs) return;
-    Object.entries(champs).sort().forEach(([slug, poules]) => {
-      let champHtml = "";
-      Object.entries(poules).sort().forEach(([poule, teamList]) => {
-        const filtered = teamList.filter(t =>
-          (!currentSearch || t.nom.toLowerCase().includes(currentSearch)) &&
-          (!currentGenre || genreMap[t.comp_slug] === currentGenre)
-        );
-        if (!filtered.length) return;
-        total += filtered.length;
-        const pouleLabel = poule ? `${slug} – ${region} – ${poule}` : `${slug} – ${region}`;
-        const rows = filtered.map(t => `
-          <div class="team-row" onclick="openPreview(this)"
-            data-nom="${esc(t.nom)}"
-            data-subtitle="${esc(pouleLabel)}"
-            data-fichier="${esc(t.fichier)}">
-            <span class="team-name">${t.nom}</span>
-            <span class="btn-preview">Voir les matchs</span>
-          </div>`).join("");
-        champHtml += `<div class="poule-block">
-          <div class="poule-header">${pouleLabel}</div>${rows}</div>`;
-      });
-      if (champHtml) {
-        html += `<div class="champ-block">
-          <div class="champ-title">${currentRegion ? slug : slug + " – " + region}</div>
-          ${champHtml}</div>`;
-      }
-    });
+function render() {
+  if (!DATA) return;
+  const content  = document.getElementById("content");
+  const genreMap = compGenreMap();
+
+  const filtered = DATA.equipes.filter(eq => {
+    const scopeOk  = currentScope === "national" ? eq.region === "" : eq.region !== "";
+    const searchOk = !currentSearch || eq.nom.toLowerCase().includes(currentSearch);
+    const genreOk  = !currentGenre || genreMap[eq.comp_slug] === currentGenre;
+    return scopeOk && searchOk && genreOk;
   });
+
+  const champs = {};
+  for (const eq of filtered) {
+    const root = champRootSlug(eq.comp_slug);
+    if (!champs[root]) champs[root] = { label: champRootLabel(root), poules: {} };
+    const p = eq.poule || "";
+    if (!champs[root].poules[p]) champs[root].poules[p] = [];
+    champs[root].poules[p].push(eq);
+  }
+
+  let html  = "";
+  let total = 0;
+
+  for (const [root, { label, poules }] of Object.entries(champs).sort()) {
+    let champHtml = "";
+    for (const [poule, teamList] of Object.entries(poules).sort()) {
+      total += teamList.length;
+      const pouleSubtitle = poule ? `${label} – ${poule}` : label;
+      const pouleHeader   = poule || label;
+      const rows = teamList.map(t => `
+        <div class="team-row" onclick="openPreview(this)"
+          data-nom="${esc(t.nom)}"
+          data-subtitle="${esc(pouleSubtitle)}"
+          data-fichier="${esc(t.fichier)}">
+          <span class="team-name">${t.nom}</span>
+          <span class="btn-preview">Voir les matchs</span>
+        </div>`).join("");
+      champHtml += `<div class="poule-block">
+        <div class="poule-header">${pouleHeader}</div>${rows}</div>`;
+    }
+    if (champHtml) {
+      html += `<div class="champ-block">
+        <div class="champ-title">${label}</div>
+        ${champHtml}</div>`;
+    }
+  }
 
   if (!total) {
     html = `<div class="state-msg"><div class="icon">🔍</div><p>Aucune équipe trouvée</p></div>`;

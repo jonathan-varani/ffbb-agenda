@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ROCHE VENDEE BC - ESPOIR  [NF2 –  – Poule C]
+X-WR-CALDESC:Matchs de ROCHE VENDEE BC - ESPOIR – NF2 – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-09-12-17-15-landerneau-bretagne-basket-hn-espoir-roche
+ -vendee-b@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20260912T171500
+DTEND;TZID=Europe/Paris:20260912T191500
+SUMMARY:✈️ LANDERNEAU BRETAGNE BASKET HN - ESPOIR – ROCHE VENDEE BC -
+  ESPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ LANDERNEAU BRETAGNE BASKET HN - ES
+ POIR vs ROCHE VENDEE BC - ESPOIR\n\nLA CIMENTERIE\n📍 Rue Saint-Ernel La
+ nderneau 29800\n🚗 Waze : https://waze.com/ul?ll=48.44391\,-4.26253&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601084
+LOCATION:LA CIMENTERIE\, Rue Saint-Ernel Landerneau 29800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601084
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-09-19-17-15-roche-vendee-bc-espoir-angers-union-femini
+ ne-basket@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20260919T171500
+DTEND;TZID=Europe/Paris:20260919T191500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – ANGERS - UNION FEMININE  BASKET 4
+ 9 - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs ANGERS
+  - UNION FEMININE  BASKET 49 - ESPOIR\n\nSALLE DES OUDAIRIES\n📍 Rue New
+ ton La Roche-sur-Yon 85000\n🚗 Waze : https://waze.com/ul?ll=46.67422\,-
+ 1.40173&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014601
+ 107
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601107
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-09-26-20-00-rennes-avenir-1-roche-vendee-bc-espoir@ffb
+ b-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ RENNES AVENIR - 1 – ROCHE VENDEE BC - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ RENNES AVENIR - 1 vs ROCHE VENDEE 
+ BC - ESPOIR\n\nGYMNASE DE BEAUREGARD\n📍 Avenue André Malraux Rennes 35
+ 000\n🚗 Waze : https://waze.com/ul?ll=48.13228\,-1.70445&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf2/match/200000014601136
+LOCATION:GYMNASE DE BEAUREGARD\, Avenue André Malraux Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601136
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-10-03-17-15-roche-vendee-bc-espoir-gars-d-herbauges-bo
+ uaye@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20261003T171500
+DTEND;TZID=Europe/Paris:20261003T191500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – GARS D'HERBAUGES BOUAYE
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs GARS D
+ 'HERBAUGES BOUAYE\n\nSALLE DES OUDAIRIES\n📍 Rue Newton La Roche-sur-Yon
+  85000\n🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.40173&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf2/match/200000014601159
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601159
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-10-10-17-15-uso-mondeville-basket-roche-vendee-bc-espo
+ ir@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20261010T171500
+DTEND;TZID=Europe/Paris:20261010T191500
+SUMMARY:✈️ USO MONDEVILLE BASKET – ROCHE VENDEE BC - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ USO MONDEVILLE BASKET vs ROCHE VEN
+ DEE BC - ESPOIR\n\nHALLE DES SPORTS P BEREGOVOY\n📍 Rue Calmette Mondevi
+ lle 14120\n🚗 Waze : https://waze.com/ul?ll=49.18477\,-0.31472&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf2/match/200000014601182
+LOCATION:HALLE DES SPORTS P BEREGOVOY\, Rue Calmette Mondeville 14120
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601182
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-10-24-17-15-roche-vendee-bc-espoir-douvres-basket-coeu
+ r-de-nacr@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20261024T171500
+DTEND;TZID=Europe/Paris:20261024T191500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – DOUVRES BASKET COEUR DE NACRE - 1
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs DOUVRE
+ S BASKET COEUR DE NACRE - 1\n\nSALLE DES OUDAIRIES\n📍 Rue Newton La Roc
+ he-sur-Yon 85000\n🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.40173&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf2/match/200000014601205
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601205
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-10-31-20-00-riez-vie-basket-l-etoile-roche-vendee-bc-e
+ spoir@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ RIEZ VIE BASKET L'ETOILE – ROCHE VENDEE BC - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ RIEZ VIE BASKET L'ETOILE vs ROCHE 
+ VENDEE BC - ESPOIR\n\nCOMPLEXE SPORTIF DE LA FAYE 2\n📍 Avenue de la Fay
+ e Saint-Hilaire-de-Riez 85270\n🚗 Waze : https://waze.com/ul?ll=46.72439
+ \,-1.95372&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014
+ 601231
+LOCATION:COMPLEXE SPORTIF DE LA FAYE 2\, Avenue de la Faye Saint-Hilaire-de
+ -Riez 85270
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601231
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-11-07-17-15-roche-vendee-bc-espoir-cholet-basket@ffbb-
+ agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20261107T171500
+DTEND;TZID=Europe/Paris:20261107T191500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – CHOLET BASKET
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs CHOLET
+  BASKET\n\nSALLE DES OUDAIRIES\n📍 Rue Newton La Roche-sur-Yon 85000\n
+ 🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.40173&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf2/match/200000014601255
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601255
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-11-14-20-00-as-saint-rogatien-nantes-roche-vendee-bc-e
+ spoir@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ AS SAINT ROGATIEN NANTES – ROCHE VENDEE BC - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ AS SAINT ROGATIEN NANTES vs ROCHE 
+ VENDEE BC - ESPOIR\n\nSALLE DES AGENETS\n📍 Rue du Casterneau Nantes 440
+ 00\n🚗 Waze : https://waze.com/ul?ll=47.22714\,-1.53066&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601279
+LOCATION:SALLE DES AGENETS\, Rue du Casterneau Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601279
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-11-28-16-15-roche-vendee-bc-espoir-tregueux-langueux-b
+ asket-arm@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20261128T161500
+DTEND;TZID=Europe/Paris:20261128T181500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – TREGUEUX LANGUEUX BASKET ARMOR 22
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs TREGUE
+ UX LANGUEUX BASKET ARMOR 22\n\nSALLE DES OUDAIRIES\n📍 Rue Newton La Roc
+ he-sur-Yon 85000\n🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.40173&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf2/match/200000014601303
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601303
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2026-12-05-17-15-roche-vendee-bc-espoir-smash-vendee-sud-lo
+ ire-baske@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20261205T171500
+DTEND;TZID=Europe/Paris:20261205T191500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – SMASH VENDEE SUD LOIRE BASKET - 1
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs SMASH 
+ VENDEE SUD LOIRE BASKET - 1\n\nSALLE DES OUDAIRIES\n📍 Rue Newton La Roc
+ he-sur-Yon 85000\n🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.40173&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf2/match/200000014601326
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601326
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-01-09-17-15-roche-vendee-bc-espoir-landerneau-bretagne
+ -basket-h@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270109T171500
+DTEND;TZID=Europe/Paris:20270109T191500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – LANDERNEAU BRETAGNE BASKET HN - E
+ SPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs LANDER
+ NEAU BRETAGNE BASKET HN - ESPOIR\n\nSALLE DES OUDAIRIES\n📍 Rue Newton L
+ a Roche-sur-Yon 85000\n🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.401
+ 73&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf2/match/200000014601348
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601348
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-01-16-17-15-angers-union-feminine-basket-49-espoir-roc
+ he-vendee@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270116T171500
+DTEND;TZID=Europe/Paris:20270116T191500
+SUMMARY:✈️ ANGERS - UNION FEMININE  BASKET 49 - ESPOIR – ROCHE VENDEE
+  BC - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ANGERS - UNION FEMININE  BASKET 49
+  - ESPOIR vs ROCHE VENDEE BC - ESPOIR\n\nSALLE JEAN BOUIN\n📍 Boulevard 
+ Pierre de Coubertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46
+ 186\,-0.53251&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000
+ 014601371
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601371
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-01-30-17-15-roche-vendee-bc-espoir-rennes-avenir-1@ffb
+ b-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270130T171500
+DTEND;TZID=Europe/Paris:20270130T191500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – RENNES AVENIR - 1
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs RENNES
+  AVENIR - 1\n\nSALLE DES OUDAIRIES\n📍 Rue Newton La Roche-sur-Yon 85000
+ \n🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.40173&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601400
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601400
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-02-06-20-00-gars-d-herbauges-bouaye-roche-vendee-bc-es
+ poir@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ GARS D'HERBAUGES BOUAYE – ROCHE VENDEE BC - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ GARS D'HERBAUGES BOUAYE vs ROCHE V
+ ENDEE BC - ESPOIR\n\nSALLE GUIGNARDAIS - CS BELLESTRE\n📍 Rue du Stade B
+ ouaye 44830\n🚗 Waze : https://waze.com/ul?ll=47.14856\,-1.69451&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf2/match/200000014601423
+LOCATION:SALLE GUIGNARDAIS - CS BELLESTRE\, Rue du Stade Bouaye 44830
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601423
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-02-13-17-15-roche-vendee-bc-espoir-uso-mondeville-bask
+ et@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270213T171500
+DTEND;TZID=Europe/Paris:20270213T191500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – USO MONDEVILLE BASKET
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs USO MO
+ NDEVILLE BASKET\n\nSALLE DES OUDAIRIES\n📍 Rue Newton La Roche-sur-Yon 8
+ 5000\n🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.40173&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nf2/match/200000014601446
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601446
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-02-27-20-00-douvres-basket-coeur-de-nacre-1-roche-vend
+ ee-bc-esp@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ DOUVRES BASKET COEUR DE NACRE - 1 – ROCHE VENDEE BC - ESPO
+ IR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ DOUVRES BASKET COEUR DE NACRE - 1 
+ vs ROCHE VENDEE BC - ESPOIR\n\nPALAIS DES SPORTS PIERRE ROUX\n📍 Avenue 
+ Pierre Roux Douvres-la-Délivrande 14440\n🚗 Waze : https://waze.com/ul?
+ ll=49.29997\,-0.38429&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/matc
+ h/200000014601469
+LOCATION:PALAIS DES SPORTS PIERRE ROUX\, Avenue Pierre Roux Douvres-la-Dél
+ ivrande 14440
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601469
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-03-06-16-15-roche-vendee-bc-espoir-riez-vie-basket-l-e
+ toile@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270306T161500
+DTEND;TZID=Europe/Paris:20270306T181500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – RIEZ VIE BASKET L'ETOILE
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs RIEZ V
+ IE BASKET L'ETOILE\n\nSALLE DES OUDAIRIES\n📍 Rue Newton La Roche-sur-Yo
+ n 85000\n🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.40173&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf2/match/200000014601495
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601495
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-03-13-20-00-cholet-basket-roche-vendee-bc-espoir@ffbb-
+ agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ CHOLET BASKET – ROCHE VENDEE BC - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ CHOLET BASKET vs ROCHE VENDEE BC -
+  ESPOIR\n\nSALLE JOACHIM DU BELLAY\n📍 Square de Liré Cholet 49300\n
+ 🚗 Waze : https://waze.com/ul?ll=47.04062\,-0.88702&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf2/match/200000014601519
+LOCATION:SALLE JOACHIM DU BELLAY\, Square de Liré Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601519
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-03-27-17-15-roche-vendee-bc-espoir-as-saint-rogatien-n
+ antes@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270327T171500
+DTEND;TZID=Europe/Paris:20270327T191500
+SUMMARY:🏠 ROCHE VENDEE BC - ESPOIR – AS SAINT ROGATIEN NANTES
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ ROCHE VENDEE BC - ESPOIR vs AS SAI
+ NT ROGATIEN NANTES\n\nSALLE DES OUDAIRIES\n📍 Rue Newton La Roche-sur-Yo
+ n 85000\n🚗 Waze : https://waze.com/ul?ll=46.67422\,-1.40173&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf2/match/200000014601543
+LOCATION:SALLE DES OUDAIRIES\, Rue Newton La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601543
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-04-10-20-00-tregueux-langueux-basket-armor-22-roche-ve
+ ndee-bc-e@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:✈️ TREGUEUX LANGUEUX BASKET ARMOR 22 – ROCHE VENDEE BC - ESPO
+ IR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ TREGUEUX LANGUEUX BASKET ARMOR 22 
+ vs ROCHE VENDEE BC - ESPOIR\n\nSALLE OS JEAN-PIERRE PINSARD\n📍 Rue de V
+ erdun Trégueux 22950\n🚗 Waze : https://waze.com/ul?ll=48.48534\,-2.722
+ 12&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf2/match/200000014601567
+LOCATION:SALLE OS JEAN-PIERRE PINSARD\, Rue de Verdun Trégueux 22950
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601567
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-c-2027-04-17-20-00-smash-vendee-sud-loire-basket-1-roche-vend
+ ee-bc-esp@ffbb-agenda
+DTSTAMP:20260817T084706Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:✈️ SMASH VENDEE SUD LOIRE BASKET - 1 – ROCHE VENDEE BC - ESPO
+ IR
+DESCRIPTION:🏀 NF2 – Poule C\n⚔️ SMASH VENDEE SUD LOIRE BASKET - 1 
+ vs ROCHE VENDEE BC - ESPOIR\n\nSALLE SPORTS - HER' de SPORTS\n📍 Place d
+ u Marché L'Herbergement 85260\n🚗 Waze : https://waze.com/ul?ll=46.9079
+ \,-1.37864&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014
+ 601590
+LOCATION:SALLE SPORTS - HER' de SPORTS\, Place du Marché L'Herbergement 85
+ 260
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601590
+END:VEVENT
+END:VCALENDAR

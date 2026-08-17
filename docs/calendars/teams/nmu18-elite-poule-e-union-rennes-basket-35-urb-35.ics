@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – UNION RENNES BASKET 35 (URB 35)  [NMU18-ELITE –  – Poule E]
+X-WR-CALDESC:Matchs de UNION RENNES BASKET 35 (URB 35) – NMU18-ELITE – Poule E
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-09-13-15-30-union-rennes-basket-35-urb-35-caen
+ -basket-c@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – CAEN BASKET CALVADOS
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ UNION RENNES BASKET 35 (UR
+ B 35) vs CAEN BASKET CALVADOS\n\nESPACE DES 2 RIVES\n📍 Allée Georges P
+ alante Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460
+ 3182
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03182
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-09-20-15-30-sasp-saint-thomas-basket-le-havre-
+ union-ren@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ SASP SAINT THOMAS BASKET LE HAVRE – UNION RENNES BASKET 35
+  (URB 35)
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ SASP SAINT THOMAS BASKET L
+ E HAVRE vs UNION RENNES BASKET 35 (URB 35)\n\nSALLE LUCIEN NOLENT (BCMO)\n
+ 📍 Rue des Chargeurs Réunis Le Havre 76600\n🚗 Waze : https://waze.co
+ m/ul?ll=49.48411\,0.13808&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
+ 8-elite/match/200000014603211
+LOCATION:SALLE LUCIEN NOLENT (BCMO)\, Rue des Chargeurs Réunis Le Havre 76
+ 600
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03211
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-09-27-15-30-etoile-angers-basket-union-rennes-
+ basket-35@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ ETOILE ANGERS BASKET – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ ETOILE ANGERS BASKET vs UN
+ ION RENNES BASKET 35 (URB 35)\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre d
+ e Coubertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.
+ 53251&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000
+ 014603240
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03240
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-10-04-15-30-union-rennes-basket-35-urb-35-cep-
+ lorient-b@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – CEP LORIENT BREIZH BASKET 
+ - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ UNION RENNES BASKET 35 (UR
+ B 35) vs CEP LORIENT BREIZH BASKET - 1\n\nESPACE DES 2 RIVES\n📍 Allée 
+ Georges Palante Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\
+ ,-1.65993&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20
+ 0000014603270
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03270
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-10-11-15-30-ujap-quimper-29-1-union-rennes-bas
+ ket-35-ur@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ UJAP QUIMPER 29 - 1 – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ UJAP QUIMPER 29 - 1 vs UNI
+ ON RENNES BASKET 35 (URB 35)\n\nGRANDE SALLE DE L'EAU BLANCHE 2\n📍 Rue 
+ de Kerhuel Quimper 29000\n🚗 Waze : https://waze.com/ul?ll=47.99687\,-4.
+ 0764&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000
+ 14603302
+LOCATION:GRANDE SALLE DE L'EAU BLANCHE 2\, Rue de Kerhuel Quimper 29000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03302
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-11-01-15-30-caen-basket-calvados-union-rennes-
+ basket-35@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ CAEN BASKET CALVADOS – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ CAEN BASKET CALVADOS vs UN
+ ION RENNES BASKET 35 (URB 35)\n\nPALAIS DES SPORTS\n📍 Rue Joseph Philip
+ pon Caen 14000\n🚗 Waze : https://waze.com/ul?ll=49.16875\,-0.37996&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603332
+LOCATION:PALAIS DES SPORTS\, Rue Joseph Philippon Caen 14000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03332
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-11-08-15-30-union-rennes-basket-35-urb-35-sasp
+ -saint-th@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – SASP SAINT THOMAS BASKET L
+ E HAVRE
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ UNION RENNES BASKET 35 (UR
+ B 35) vs SASP SAINT THOMAS BASKET LE HAVRE\n\nESPACE DES 2 RIVES\n📍 All
+ ée Georges Palante Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10
+ 813\,-1.65993&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/matc
+ h/200000014603361
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03361
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-11-15-15-30-union-rennes-basket-35-urb-35-etoi
+ le-angers@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – ETOILE ANGERS BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ UNION RENNES BASKET 35 (UR
+ B 35) vs ETOILE ANGERS BASKET\n\nESPACE DES 2 RIVES\n📍 Allée Georges P
+ alante Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460
+ 3390
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03390
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-11-29-15-30-cep-lorient-breizh-basket-1-union-
+ rennes-ba@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ CEP LORIENT BREIZH BASKET - 1 – UNION RENNES BASKET 35 (UR
+ B 35)
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ CEP LORIENT BREIZH BASKET 
+ - 1 vs UNION RENNES BASKET 35 (URB 35)\n\nPALAIS DES SPORTS KERVARIC\n📍
+  Rue Alfred Dreyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.7
+ 4791\,-3.39003&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/mat
+ ch/200000014603420
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03420
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-e-2026-12-06-15-30-union-rennes-basket-35-urb-35-ujap
+ -quimper-@ffbb-agenda
+DTSTAMP:20260817T085811Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – UJAP QUIMPER 29 - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule E\n⚔️ UNION RENNES BASKET 35 (UR
+ B 35) vs UJAP QUIMPER 29 - 1\n\nESPACE DES 2 RIVES\n📍 Allée Georges Pa
+ lante Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603
+ 452
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03452
+END:VEVENT
+END:VCALENDAR

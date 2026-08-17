@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAS STADE ROCHELAIS RUPELLA  [NMU18-ELITE –  – Poule D]
+X-WR-CALDESC:Matchs de SAS STADE ROCHELAIS RUPELLA – NMU18-ELITE – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-09-13-15-30-sas-stade-rochelais-rupella-vendee
+ -challans@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 SAS STADE ROCHELAIS RUPELLA – VENDEE CHALLANS BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ SAS STADE ROCHELAIS RUPELL
+ A vs VENDEE CHALLANS BASKET - 1\n\nSALLE GASTON NEVEUR\n📍 Chemin des Re
+ mparts La Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.
+ 15366&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000
+ 014603178
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03178
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-09-20-15-30-poitiers-basket-86-sas-stade-roche
+ lais-rupe@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ POITIERS BASKET 86 – SAS STADE ROCHELAIS RUPELLA
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ POITIERS BASKET 86 vs SAS 
+ STADE ROCHELAIS RUPELLA\n\nSALLE OMNISPORTS SAINT ELOI\n📍 Rue Jean-Sylv
+ ain Bailly Poitiers 86000\n🚗 Waze : https://waze.com/ul?ll=46.59132\,0.
+ 38538&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000
+ 014603209
+LOCATION:SALLE OMNISPORTS SAINT ELOI\, Rue Jean-Sylvain Bailly Poitiers 860
+ 00
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03209
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-09-27-15-30-sas-stade-rochelais-rupella-ie-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 SAS STADE ROCHELAIS RUPELLA – IE - BASKET CLUB YONNAIS
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ SAS STADE ROCHELAIS RUPELL
+ A vs IE - BASKET CLUB YONNAIS\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remp
+ arts La Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15
+ 366&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001
+ 4603237
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03237
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-10-04-15-30-nantes-basket-hermine-nbh-sas-stad
+ e-rochela@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ NANTES BASKET HERMINE (NBH) – SAS STADE ROCHELAIS RUPELLA
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ NANTES BASKET HERMINE (NBH
+ ) vs SAS STADE ROCHELAIS RUPELLA\n\nSALLE SAINTE ANNE\n📍 Rue Sainte-Mar
+ the Nantes 44100\n🚗 Waze : https://waze.com/ul?ll=47.20292\,-1.58006&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460326
+ 8
+LOCATION:SALLE SAINTE ANNE\, Rue Sainte-Marthe Nantes 44100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03268
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-10-11-15-30-cholet-basket-sas-stade-rochelais-
+ rupella@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ CHOLET BASKET – SAS STADE ROCHELAIS RUPELLA
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ CHOLET BASKET vs SAS STADE
+  ROCHELAIS RUPELLA\n\nSALLE DE LA MEILLERAIE\n📍 Avenue Marcel Prat Chol
+ et 49300\n🚗 Waze : https://waze.com/ul?ll=47.05565\,-0.89785&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nmu18-elite/match/200000014603297
+LOCATION:SALLE DE LA MEILLERAIE\, Avenue Marcel Prat Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03297
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-11-01-15-30-vendee-challans-basket-1-sas-stade
+ -rochelai@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ VENDEE CHALLANS BASKET - 1 – SAS STADE ROCHELAIS RUPELLA
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ VENDEE CHALLANS BASKET - 1
+  vs SAS STADE ROCHELAIS RUPELLA\n\nSALLE VRIGNAUD A CHALLANS\n📍 Bouleva
+ rd Jean Yole Challans 85300\n🚗 Waze : https://waze.com/ul?ll=46.84111\,
+ -1.87667&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200
+ 000014603328
+LOCATION:SALLE VRIGNAUD A CHALLANS\, Boulevard Jean Yole Challans 85300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03328
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-11-08-15-30-sas-stade-rochelais-rupella-poitie
+ rs-basket@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 SAS STADE ROCHELAIS RUPELLA – POITIERS BASKET 86
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ SAS STADE ROCHELAIS RUPELL
+ A vs POITIERS BASKET 86\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts L
+ a Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460335
+ 9
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03359
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-11-15-15-30-ie-basket-club-yonnais-sas-stade-r
+ ochelais-@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ IE - BASKET CLUB YONNAIS – SAS STADE ROCHELAIS RUPELLA
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ IE - BASKET CLUB YONNAIS v
+ s SAS STADE ROCHELAIS RUPELLA\n\nSALLE GAUDEL\n📍 Impasse René Caillié
+  La Roche-sur-Yon 85000\n🚗 Waze : https://waze.com/ul?ll=46.6755\,-1.44
+ 405&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001
+ 4603387
+LOCATION:SALLE GAUDEL\, Impasse René Caillié La Roche-sur-Yon 85000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03387
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-11-29-15-30-sas-stade-rochelais-rupella-nantes
+ -basket-h@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 SAS STADE ROCHELAIS RUPELLA – NANTES BASKET HERMINE (NBH)
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ SAS STADE ROCHELAIS RUPELL
+ A vs NANTES BASKET HERMINE (NBH)\n\nSALLE GASTON NEVEUR\n📍 Chemin des R
+ emparts La Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1
+ .15366&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000
+ 0014603418
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03418
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-d-2026-12-06-15-30-sas-stade-rochelais-rupella-cholet
+ -basket@ffbb-agenda
+DTSTAMP:20260817T085806Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 SAS STADE ROCHELAIS RUPELLA – CHOLET BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule D\n⚔️ SAS STADE ROCHELAIS RUPELL
+ A vs CHOLET BASKET\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Roc
+ helle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nmu18-elite/match/200000014603447
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03447
+END:VEVENT
+END:VCALENDAR

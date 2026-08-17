@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CEP POITIERS  [NMU15-ELITE –  – Poule C]
+X-WR-CALDESC:Matchs de CEP POITIERS – NMU15-ELITE – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-09-13-13-15-limoges-csp-cep-poitiers@ffbb-agen
+ da
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:✈️ LIMOGES CSP – CEP POITIERS
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ LIMOGES CSP vs CEP POITIER
+ S\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges 87100\n🚗 Waze : 
+ https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nmu15-elite/match/200000014600539
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00539
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-09-20-13-15-cep-poitiers-stade-rochelais-baske
+ t@ffbb-agenda
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20260920T131500
+DTEND;TZID=Europe/Paris:20260920T151500
+SUMMARY:🏠 CEP POITIERS – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ CEP POITIERS vs STADE ROCH
+ ELAIS BASKET\n\nSALLE OMNISPORTS SAINT ELOI\n📍 Rue Jean-Sylvain Bailly 
+ Poitiers 86000\n🚗 Waze : https://waze.com/ul?ll=46.59132\,0.38538&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nmu15-elite/match/200000014600566
+LOCATION:SALLE OMNISPORTS SAINT ELOI\, Rue Jean-Sylvain Bailly Poitiers 860
+ 00
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00566
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-09-27-13-15-ie-ctc-grand-dax-basket-cep-poitie
+ rs@ffbb-agenda
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:✈️ IE - CTC GRAND DAX BASKET – CEP POITIERS
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs CEP POITIERS\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Saugnac-et-Cam
+ bran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.99241&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nmu15-elite/match/200000014600592
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00592
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-10-04-13-15-cep-poitiers-elan-bearnais-pau-nor
+ d-est@ffbb-agenda
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:🏠 CEP POITIERS – ELAN BEARNAIS PAU NORD-EST
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ CEP POITIERS vs ELAN BEARN
+ AIS PAU NORD-EST\n\nSALLE OMNISPORTS SAINT ELOI\n📍 Rue Jean-Sylvain Bai
+ lly Poitiers 86000\n🚗 Waze : https://waze.com/ul?ll=46.59132\,0.38538&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146006
+ 20
+LOCATION:SALLE OMNISPORTS SAINT ELOI\, Rue Jean-Sylvain Bailly Poitiers 860
+ 00
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00620
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-10-11-13-15-jsa-bordeaux-basket-1-cep-poitiers
+ @ffbb-agenda
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:✈️ JSA BORDEAUX BASKET - 1 – CEP POITIERS
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ JSA BORDEAUX BASKET - 1 vs
+  CEP POITIERS\n\nSALLE DES PEUPLIERS\n📍 Allée des Peupliers Bordeaux 3
+ 3000\n🚗 Waze : https://waze.com/ul?ll=44.83177\,-0.61082&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu15-elite/match/200000014600646
+LOCATION:SALLE DES PEUPLIERS\, Allée des Peupliers Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00646
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-11-01-13-15-cep-poitiers-limoges-csp@ffbb-agen
+ da
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:🏠 CEP POITIERS – LIMOGES CSP
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ CEP POITIERS vs LIMOGES CS
+ P\n\nSALLE OMNISPORTS SAINT ELOI\n📍 Rue Jean-Sylvain Bailly Poitiers 86
+ 000\n🚗 Waze : https://waze.com/ul?ll=46.59132\,0.38538&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu15-elite/match/200000014600674
+LOCATION:SALLE OMNISPORTS SAINT ELOI\, Rue Jean-Sylvain Bailly Poitiers 860
+ 00
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00674
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-11-08-13-15-stade-rochelais-basket-cep-poitier
+ s@ffbb-agenda
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:✈️ STADE ROCHELAIS BASKET – CEP POITIERS
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ STADE ROCHELAIS BASKET vs 
+ CEP POITIERS\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochelle 
+ 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nmu15-elite/match/200000014600701
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00701
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-11-15-13-15-cep-poitiers-ie-ctc-grand-dax-bask
+ et@ffbb-agenda
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:🏠 CEP POITIERS – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ CEP POITIERS vs IE - CTC G
+ RAND DAX BASKET\n\nSALLE OMNISPORTS SAINT ELOI\n📍 Rue Jean-Sylvain Bail
+ ly Poitiers 86000\n🚗 Waze : https://waze.com/ul?ll=46.59132\,0.38538&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nmu15-elite/match/20000001460072
+ 7
+LOCATION:SALLE OMNISPORTS SAINT ELOI\, Rue Jean-Sylvain Bailly Poitiers 860
+ 00
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00727
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-11-29-13-15-elan-bearnais-pau-nord-est-cep-poi
+ tiers@ffbb-agenda
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:✈️ ELAN BEARNAIS PAU NORD-EST – CEP POITIERS
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU NORD-EST
+  vs CEP POITIERS\n\nC. DE FORM\n📍 Avenue Pierre Massé Pau 64000\n🚗 
+ Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nmu15-elite/match/200000014600755
+LOCATION:C. DE FORM\, Avenue Pierre Massé Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00755
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-12-06-13-15-cep-poitiers-jsa-bordeaux-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T085909Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:🏠 CEP POITIERS – JSA BORDEAUX BASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ CEP POITIERS vs JSA BORDEA
+ UX BASKET - 1\n\nSALLE OMNISPORTS SAINT ELOI\n📍 Rue Jean-Sylvain Bailly
+  Poitiers 86000\n🚗 Waze : https://waze.com/ul?ll=46.59132\,0.38538&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nmu15-elite/match/200000014600781
+LOCATION:SALLE OMNISPORTS SAINT ELOI\, Rue Jean-Sylvain Bailly Poitiers 860
+ 00
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00781
+END:VEVENT
+END:VCALENDAR

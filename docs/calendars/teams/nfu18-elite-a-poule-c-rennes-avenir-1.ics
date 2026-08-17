@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – RENNES AVENIR - 1  [NFU18-ELITE-A –  – Poule C]
+X-WR-CALDESC:Matchs de RENNES AVENIR - 1 – NFU18-ELITE-A – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-09-13-15-30-rennes-avenir-1-c-chartres-metro
+ pole-bask@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 RENNES AVENIR - 1 – C'CHARTRES METROPOLE BASKET FEMININ
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ RENNES AVENIR - 1 vs C'C
+ HARTRES METROPOLE BASKET FEMININ\n\nGYMNASE DE BEAUREGARD\n📍 Avenue And
+ ré Malraux Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.13228\,-1.
+ 70445&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nfu18-elite-a/match/2000
+ 00014602935
+LOCATION:GYMNASE DE BEAUREGARD\, Avenue André Malraux Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4602935
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-09-20-15-30-ie-alpc-moulin-nantes-basket-ren
+ nes-aveni@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ IE - ALPC MOULIN NANTES BASKET – RENNES AVENIR - 1
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ IE - ALPC MOULIN NANTES 
+ BASKET vs RENNES AVENIR - 1\n\nGYMNASE DU COUDRAY\n📍 Rue du Coudray Nan
+ tes 44000\n🚗 Waze : https://waze.com/ul?ll=47.23305\,-1.54255&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nfu18-elite-a/match/200000014602948
+LOCATION:GYMNASE DU COUDRAY\, Rue du Coudray Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4602948
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-09-27-15-30-rennes-avenir-1-landerneau-breta
+ gne-baske@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 RENNES AVENIR - 1 – LANDERNEAU BRETAGNE BASKET HN - 1
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ RENNES AVENIR - 1 vs LAN
+ DERNEAU BRETAGNE BASKET HN - 1\n\nGYMNASE DE BEAUREGARD\n📍 Avenue Andr
+ é Malraux Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.13228\,-1.7
+ 0445&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000
+ 0014602958
+LOCATION:GYMNASE DE BEAUREGARD\, Avenue André Malraux Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4602958
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-10-04-15-30-aplemont-le-havre-basket-1-renne
+ s-avenir-@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ APLEMONT LE HAVRE BASKET - 1 – RENNES AVENIR - 1
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ APLEMONT LE HAVRE BASKET
+  - 1 vs RENNES AVENIR - 1\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oeill
+ ets Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.16295&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001460
+ 2971
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4602971
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-10-11-15-30-uso-mondeville-basket-1-rennes-a
+ venir-1@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ USO MONDEVILLE BASKET - 1 – RENNES AVENIR - 1
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ USO MONDEVILLE BASKET - 
+ 1 vs RENNES AVENIR - 1\n\nHALLE DES SPORTS P BEREGOVOY\n📍 Rue Calmette 
+ Mondeville 14120\n🚗 Waze : https://waze.com/ul?ll=49.18477\,-0.31472&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nfu18-elite-a/match/200000014602
+ 982
+LOCATION:HALLE DES SPORTS P BEREGOVOY\, Rue Calmette Mondeville 14120
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4602982
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-11-01-15-30-c-chartres-metropole-basket-femi
+ nin-renne@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ C'CHARTRES METROPOLE BASKET FEMININ – RENNES AVENIR - 1
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ C'CHARTRES METROPOLE BAS
+ KET FEMININ vs RENNES AVENIR - 1\n\nHALLE JEAN COCHET\n📍 Rue Jean Monne
+ t Chartres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nfu18-elite-a/match/2000000146029
+ 95
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4602995
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-11-08-15-30-rennes-avenir-1-ie-alpc-moulin-n
+ antes-bas@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 RENNES AVENIR - 1 – IE - ALPC MOULIN NANTES BASKET
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ RENNES AVENIR - 1 vs IE 
+ - ALPC MOULIN NANTES BASKET\n\nGYMNASE DE BEAUREGARD\n📍 Avenue André M
+ alraux Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.13228\,-1.70445
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nfu18-elite-a/match/200000014
+ 603008
+LOCATION:GYMNASE DE BEAUREGARD\, Avenue André Malraux Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4603008
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-11-15-15-30-landerneau-bretagne-basket-hn-1-
+ rennes-av@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ LANDERNEAU BRETAGNE BASKET HN - 1 – RENNES AVENIR - 1
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ LANDERNEAU BRETAGNE BASK
+ ET HN - 1 vs RENNES AVENIR - 1\n\nLA CIMENTERIE\n📍 Rue Saint-Ernel Land
+ erneau 29800\n🚗 Waze : https://waze.com/ul?ll=48.44391\,-4.26253&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nfu18-elite-a/match/200000014603018
+LOCATION:LA CIMENTERIE\, Rue Saint-Ernel Landerneau 29800
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4603018
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-11-29-15-30-rennes-avenir-1-aplemont-le-havr
+ e-basket-@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 RENNES AVENIR - 1 – APLEMONT LE HAVRE BASKET - 1
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ RENNES AVENIR - 1 vs APL
+ EMONT LE HAVRE BASKET - 1\n\nGYMNASE DE BEAUREGARD\n📍 Avenue André Mal
+ raux Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.13228\,-1.70445&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001460
+ 3031
+LOCATION:GYMNASE DE BEAUREGARD\, Avenue André Malraux Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4603031
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-a-poule-c-2026-12-06-15-30-rennes-avenir-1-uso-mondeville-b
+ asket-1@ffbb-agenda
+DTSTAMP:20260817T084955Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 RENNES AVENIR - 1 – USO MONDEVILLE BASKET - 1
+DESCRIPTION:🏀 NFU18-ELITE-A – Poule C\n⚔️ RENNES AVENIR - 1 vs USO
+  MONDEVILLE BASKET - 1\n\nGYMNASE DE BEAUREGARD\n📍 Avenue André Malrau
+ x Rennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.13228\,-1.70445&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001460304
+ 2
+LOCATION:GYMNASE DE BEAUREGARD\, Avenue André Malraux Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-a/match/20000001
+ 4603042
+END:VEVENT
+END:VCALENDAR

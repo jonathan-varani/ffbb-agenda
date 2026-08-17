@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CARQUEFOU BASKET  [NF3 –  – Poule C]
+X-WR-CALDESC:Matchs de CARQUEFOU BASKET – NF3 – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-13-15-30-carquefou-basket-vitre-aurore-1@ffbb-agend
+ a
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 CARQUEFOU BASKET – VITRE AURORE - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs VITRE AURORE -
+  1\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefou 44470\n
+ 🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014601614
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601614
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-20-15-30-ie-cep-lorient-basket-1-carquefou-basket@f
+ fbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ IE - CEP LORIENT BASKET - 1 – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ IE - CEP LORIENT BASKET - 1 vs CAR
+ QUEFOU BASKET\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dreyfus Lorie
+ nt 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf3/match/200000014601662
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601662
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-27-15-30-carquefou-basket-sud-retz-basket-1@ffbb-ag
+ enda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 CARQUEFOU BASKET – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs SUD RETZ BASKE
+ T - 1\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefou 44470\n
+ 🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014601710
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601710
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-04-15-30-vendee-bellevigny-basket-carquefou-basket@
+ ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ VENDEE BELLEVIGNY BASKET – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs CARQUE
+ FOU BASKET\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard André Malra
+ ux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.77817\,-1.42289
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf3/match/200000014601758
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601758
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-11-15-30-carquefou-basket-alpc-moulin-nantes-basket
+ -2@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 CARQUEFOU BASKET – ALPC MOULIN NANTES BASKET - 2
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs ALPC MOULIN NA
+ NTES BASKET - 2\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquef
+ ou 44470\n🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf3/match/200000014601806
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601806
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-25-15-30-cholet-jf-1-carquefou-basket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261025T153000
+DTEND;TZID=Europe/Paris:20261025T173000
+SUMMARY:✈️ CHOLET JF - 1 – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHOLET JF - 1 vs CARQUEFOU BASKET\
+ n\nSALLE DARMAILLACQ N01\n📍 Rue Alphonse Darmaillacq Cholet 49300\n🚗
+  Waze : https://waze.com/ul?ll=47.06463\,-0.87401&navigate=yes\n\n📢 Arb
+ itres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/competitions/nf3/match/200000014601854
+LOCATION:SALLE DARMAILLACQ N01\, Rue Alphonse Darmaillacq Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601854
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-01-15-30-vertou-basket-1-carquefou-basket@ffbb-agen
+ da
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ VERTOU BASKET - 1 – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VERTOU BASKET - 1 vs CARQUEFOU BAS
+ KET\n\nGYMNASE DES ECHALONNIERES\n📍 Boulevard Luc Dejoie Vertou 44120\n
+ 🚗 Waze : https://waze.com/ul?ll=47.17039\,-1.45686&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014601902
+LOCATION:GYMNASE DES ECHALONNIERES\, Boulevard Luc Dejoie Vertou 44120
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601902
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-08-15-30-carquefou-basket-etoile-saint-laurent-bres
+ t-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 CARQUEFOU BASKET – ETOILE SAINT LAURENT BREST - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs ETOILE SAINT L
+ AURENT BREST - 1\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carque
+ fou 44470\n🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf3/match/200000014601950
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601950
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-15-15-30-carquefou-basket-chantonnay-st-germain-bas
+ ket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 CARQUEFOU BASKET – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs CHANTONNAY-ST 
+ GERMAIN BASKET\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefo
+ u 44470\n🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf3/match/200000014601997
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601997
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-29-15-30-rennes-cercle-paul-bert-basket-1-carquefou
+ -basket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ RENNES CERCLE PAUL BERT BASKET - 1 – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ RENNES CERCLE PAUL BERT BASKET - 1
+  vs CARQUEFOU BASKET\n\nSALLE GINGUENE\n📍 Rue Ginguené Rennes 35000\n
+ 🚗 Waze : https://waze.com/ul?ll=48.09935\,-1.68563&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014602044
+LOCATION:SALLE GINGUENE\, Rue Ginguené Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602044
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-12-06-15-30-carquefou-basket-rennes-pole-association@f
+ fbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 CARQUEFOU BASKET – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs RENNES POLE AS
+ SOCIATION\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefou 444
+ 70\n🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602093
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602093
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-10-15-30-vitre-aurore-1-carquefou-basket@ffbb-agend
+ a
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ VITRE AURORE - 1 – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VITRE AURORE - 1 vs CARQUEFOU BASK
+ ET\n\nSALLE POULTIERE AURORE DE VITRE\n📍 Rue de la Poultière Vitré 35
+ 500\n🚗 Waze : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf3/match/200000014602142
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la Poultière Vitré 3550
+ 0
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602142
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-17-15-30-carquefou-basket-ie-cep-lorient-basket-1@f
+ fbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 CARQUEFOU BASKET – IE - CEP LORIENT BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs IE - CEP LORIE
+ NT BASKET - 1\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefou
+  44470\n🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf3/match/200000014602190
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602190
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-31-15-30-sud-retz-basket-1-carquefou-basket@ffbb-ag
+ enda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ SUD RETZ BASKET - 1 – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs CARQUEFOU B
+ ASKET\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Saint-Même 442
+ 70\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602238
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602238
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-07-15-30-carquefou-basket-vendee-bellevigny-basket@
+ ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 CARQUEFOU BASKET – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs VENDEE BELLEVI
+ GNY BASKET\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefou 44
+ 470\n🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf3/match/200000014602286
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602286
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-14-15-30-alpc-moulin-nantes-basket-2-carquefou-bask
+ et@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ ALPC MOULIN NANTES BASKET - 2 – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ ALPC MOULIN NANTES BASKET - 2 vs C
+ ARQUEFOU BASKET\n\nGYMNASE DU COUDRAY\n📍 Rue du Coudray Nantes 44000\n
+ 🚗 Waze : https://waze.com/ul?ll=47.23305\,-1.54255&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014602334
+LOCATION:GYMNASE DU COUDRAY\, Rue du Coudray Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602334
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-28-15-30-carquefou-basket-cholet-jf-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:🏠 CARQUEFOU BASKET – CHOLET JF - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs CHOLET JF - 1\
+ n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefou 44470\n🚗 W
+ aze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nf3/match/200000014602382
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602382
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-07-15-30-carquefou-basket-vertou-basket-1@ffbb-agen
+ da
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:🏠 CARQUEFOU BASKET – VERTOU BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs VERTOU BASKET 
+ - 1\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefou 44470\n
+ 🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014602430
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602430
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-14-15-30-etoile-saint-laurent-brest-1-carquefou-bas
+ ket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ ETOILE SAINT LAURENT BREST - 1 – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ ETOILE SAINT LAURENT BREST - 1 vs 
+ CARQUEFOU BASKET\n\nSALLE DE LA BRASSERIE (A)\n📍 Rue Marguerite Duras B
+ rest 29200\n🚗 Waze : https://waze.com/ul?ll=48.41717\,-4.49513&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf3/match/200000014602478
+LOCATION:SALLE DE LA BRASSERIE (A)\, Rue Marguerite Duras Brest 29200
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602478
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-28-15-30-chantonnay-st-germain-basket-carquefou-bas
+ ket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:✈️ CHANTONNAY-ST GERMAIN BASKET – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs CA
+ RQUEFOU BASKET\n\nSALLE POLYVALENTE\n📍 Rue Louis Marchegay Saint-Germai
+ n-de-Prinçay 85110\n🚗 Waze : https://waze.com/ul?ll=46.722\,-1.02423&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf3/match/200000014602525
+LOCATION:SALLE POLYVALENTE\, Rue Louis Marchegay Saint-Germain-de-Prinçay 
+ 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602525
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-04-11-15-30-carquefou-basket-rennes-cercle-paul-bert-b
+ asket-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 CARQUEFOU BASKET – RENNES CERCLE PAUL BERT BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs RENNES CERCLE 
+ PAUL BERT BASKET - 1\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Ca
+ rquefou 44470\n🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf3/match/200000014602572
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602572
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-04-18-15-30-rennes-pole-association-carquefou-basket@f
+ fbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:✈️ RENNES POLE ASSOCIATION – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ RENNES POLE ASSOCIATION vs CARQUEF
+ OU BASKET\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Rennes 35000\
+ n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602621
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602621
+END:VEVENT
+END:VCALENDAR

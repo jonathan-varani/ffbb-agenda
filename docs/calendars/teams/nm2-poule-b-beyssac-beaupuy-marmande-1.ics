@@ -1,0 +1,436 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BEYSSAC BEAUPUY MARMANDE - 1  [NM2 –  – Poule B]
+X-WR-CALDESC:Matchs de BEYSSAC BEAUPUY MARMANDE - 1 – NM2 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-09-05-20-00-montaigu-vendee-basket-club-1-beyssac-beau
+ puy-marma@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:✈️ MONTAIGU VENDEE BASKET CLUB - 1 – BEYSSAC BEAUPUY MARMANDE
+  - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ MONTAIGU VENDEE BASKET CLUB - 1 vs
+  BEYSSAC BEAUPUY MARMANDE - 1\n\nSALLE DE SPORTS A - Grande Maine\n📍 Ru
+ e du Stade Montaigu-Vendée 85600\n🚗 Waze : https://waze.com/ul?ll=46.9
+ 4776\,-1.29905&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/20000
+ 0014598090
+LOCATION:SALLE DE SPORTS A - Grande Maine\, Rue du Stade Montaigu-Vendée 8
+ 5600
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598090
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-09-12-20-00-beyssac-beaupuy-marmande-1-ie-ctc-challans
+ -riez-vie@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – IE - CTC CHALLANS RIEZ VIE 85
+  - VENDEE CHALLANS BASKET - 2
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs IE
+  - CTC CHALLANS RIEZ VIE 85 - VENDEE CHALLANS BASKET - 2\n\nSALLE DES SPOR
+ TS\n📍 Beaupuy 47200\n🚗 Waze : https://waze.com/ul?ll=44.53698\,0.143
+ 78&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nm2/match/200000014598117
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598117
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-09-19-20-00-brissac-aubance-basket-1-beyssac-beaupuy-m
+ armande-1@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ BRISSAC AUBANCE BASKET - 1 – BEYSSAC BEAUPUY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BRISSAC AUBANCE BASKET - 1 vs BEYS
+ SAC BEAUPUY MARMANDE - 1\n\nSALLE A - COMPLEXE DU MARIN\n📍 Rue du Marin
+  Brissac Loire Aubance 49320\n🚗 Waze : https://waze.com/ul?ll=47.35365\
+ ,-0.44606&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nm2/match/2000000145
+ 98144
+LOCATION:SALLE A - COMPLEXE DU MARIN\, Rue du Marin Brissac Loire Aubance 4
+ 9320
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598144
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-09-26-20-00-beyssac-beaupuy-marmande-1-reze-basket-44@
+ ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – REZE BASKET 44
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs RE
+ ZE BASKET 44\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n🚗 Waze : https://
+ waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nm2/match/200000014598173
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598173
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-10-03-20-00-amicale-sportive-niortaise-1-beyssac-beaup
+ uy-marman@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ AMICALE SPORTIVE NIORTAISE - 1 – BEYSSAC BEAUPUY MARMANDE 
+ - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ AMICALE SPORTIVE NIORTAISE - 1 vs 
+ BEYSSAC BEAUPUY MARMANDE - 1\n\nSALLE OMNISPORTS\n📍 Avenue de Limoges N
+ iort 79000\n🚗 Waze : https://waze.com/ul?ll=46.32182\,-0.45563&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm2/match/200000014598198
+LOCATION:SALLE OMNISPORTS\, Avenue de Limoges Niort 79000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598198
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-10-10-20-00-beyssac-beaupuy-marmande-1-garonne-avenir-
+ basket-du@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – GARONNE AVENIR BASKET DU MARM
+ ANDAIS
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs GA
+ RONNE AVENIR BASKET DU MARMANDAIS\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\
+ n🚗 Waze : https://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm2/match/200000014598229
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598229
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-10-17-20-00-adour-dax-landes-basket-beyssac-beaupuy-ma
+ rmande-1@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:✈️ ADOUR DAX LANDES BASKET – BEYSSAC BEAUPUY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ ADOUR DAX LANDES BASKET vs BEYSSAC
+  BEAUPUY MARMANDE - 1\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Saugnac-
+ et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.99241&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm2/match/200000014598252
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598252
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-10-31-20-00-beyssac-beaupuy-marmande-1-esms-basket-40@
+ ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – ESMS BASKET 40
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs ES
+ MS BASKET 40\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n🚗 Waze : https://
+ waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nm2/match/200000014598285
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598285
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-11-07-20-00-nantes-basket-hermine-nbh-beyssac-beaupuy-
+ marmande-@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ NANTES BASKET HERMINE (NBH) – BEYSSAC BEAUPUY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ NANTES BASKET HERMINE (NBH) vs BEY
+ SSAC BEAUPUY MARMANDE - 1\n\nSALLE SAINTE ANNE\n📍 Rue Sainte-Marthe Nan
+ tes 44100\n🚗 Waze : https://waze.com/ul?ll=47.20292\,-1.58006&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm2/match/200000014598311
+LOCATION:SALLE SAINTE ANNE\, Rue Sainte-Marthe Nantes 44100
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598311
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-11-14-20-00-beyssac-beaupuy-marmande-1-ie-toac-basket-
+ 1@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – IE - TOAC BASKET - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs IE
+  - TOAC BASKET - 1\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n🚗 Waze : ht
+ tps://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nm2/match/200000014598341
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598341
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-11-28-20-00-beyssac-beaupuy-marmande-1-pornic-basket-s
+ t-michel-@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – PORNIC BASKET ST MICHEL - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs PO
+ RNIC BASKET ST MICHEL - 1\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n🚗 Wa
+ ze : https://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm2/match/200000014598369
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598369
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-12-05-20-00-avenir-serreslousiens-colombins-horsarrois
+ -beyssac-@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ AVENIR SERRESLOUSIENS COLOMBINS HORSARROIS – BEYSSAC BEAUP
+ UY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ AVENIR SERRESLOUSIENS COLOMBINS HO
+ RSARROIS vs BEYSSAC BEAUPUY MARMANDE - 1\n\nHORSARRIEU\n📍 Place Vernay 
+ Horsarrieu 40700\n🚗 Waze : https://waze.com/ul?ll=43.68309\,-0.59836&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm2/match/200000014598392
+LOCATION:HORSARRIEU\, Place Vernay Horsarrieu 40700
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598392
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2026-12-12-20-00-beyssac-beaupuy-marmande-1-saint-medard-ba
+ sket-1@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – SAINT MEDARD BASKET - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs SA
+ INT MEDARD BASKET - 1\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n🚗 Waze :
+  https://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm2/match/200000014598425
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598425
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-01-02-20-00-beyssac-beaupuy-marmande-1-montaigu-vendee
+ -basket-c@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – MONTAIGU VENDEE BASKET CLUB -
+  1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs MO
+ NTAIGU VENDEE BASKET CLUB - 1\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n
+ 🚗 Waze : https://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm2/match/200000014598454
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598454
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-01-09-20-00-ie-ctc-challans-riez-vie-85-vendee-challan
+ s-basket-@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:✈️ IE - CTC CHALLANS RIEZ VIE 85 - VENDEE CHALLANS BASKET - 2 
+ – BEYSSAC BEAUPUY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ IE - CTC CHALLANS RIEZ VIE 85 - VE
+ NDEE CHALLANS BASKET - 2 vs BEYSSAC BEAUPUY MARMANDE - 1\n\nSALLE DE LA VI
+ E\n📍 Rue des Marais Salants Saint-Gilles-Croix-de-Vie 85800\n🚗 Waze 
+ : https://waze.com/ul?ll=46.70302\,-1.93076&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm2/match/200000014598481
+LOCATION:SALLE DE LA VIE\, Rue des Marais Salants Saint-Gilles-Croix-de-Vie
+  85800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598481
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-01-16-20-00-beyssac-beaupuy-marmande-1-brissac-aubance
+ -basket-1@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – BRISSAC AUBANCE BASKET - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs BR
+ ISSAC AUBANCE BASKET - 1\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n🚗 Waz
+ e : https://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nm2/match/200000014598508
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598508
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-01-30-20-00-reze-basket-44-beyssac-beaupuy-marmande-1@
+ ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ REZE BASKET 44 – BEYSSAC BEAUPUY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ REZE BASKET 44 vs BEYSSAC BEAUPUY 
+ MARMANDE - 1\n\nGYMNASE ARTHUR DUGAST\n📍 Boulevard Jean Monnet Rezé 44
+ 400\n🚗 Waze : https://waze.com/ul?ll=47.16628\,-1.54844&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nm2/match/200000014598537
+LOCATION:GYMNASE ARTHUR DUGAST\, Boulevard Jean Monnet Rezé 44400
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598537
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-02-06-20-00-beyssac-beaupuy-marmande-1-amicale-sportiv
+ e-niortai@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – AMICALE SPORTIVE NIORTAISE - 
+ 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs AM
+ ICALE SPORTIVE NIORTAISE - 1\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n🚗
+  Waze : https://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nm2/match/200000014598562
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598562
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-02-13-20-00-garonne-avenir-basket-du-marmandais-beyssa
+ c-beaupuy@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ GARONNE AVENIR BASKET DU MARMANDAIS – BEYSSAC BEAUPUY MARM
+ ANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ GARONNE AVENIR BASKET DU MARMANDAI
+ S vs BEYSSAC BEAUPUY MARMANDE - 1\n\nSALLE DES SPORTS\n📍 Chemin de Rond
+ e de Sillac Meilhan-sur-Garonne 47180\n🚗 Waze : https://waze.com/ul?ll=
+ 44.52256\,0.03386&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/2
+ 00000014598593
+LOCATION:SALLE DES SPORTS\, Chemin de Ronde de Sillac Meilhan-sur-Garonne 4
+ 7180
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598593
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-02-27-20-00-beyssac-beaupuy-marmande-1-adour-dax-lande
+ s-basket@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – ADOUR DAX LANDES BASKET
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs AD
+ OUR DAX LANDES BASKET\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n🚗 Waze :
+  https://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm2/match/200000014598616
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598616
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-03-06-20-00-esms-basket-40-beyssac-beaupuy-marmande-1@
+ ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ ESMS BASKET 40 – BEYSSAC BEAUPUY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ ESMS BASKET 40 vs BEYSSAC BEAUPUY 
+ MARMANDE - 1\n\nSALLE DE MONTSOUE\n📍 Route de Hagetmau Montsoué 40500\
+ n🚗 Waze : https://waze.com/ul?ll=43.71993\,-0.50818&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm2/match/200000014598649
+LOCATION:SALLE DE MONTSOUE\, Route de Hagetmau Montsoué 40500
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598649
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-03-13-20-00-beyssac-beaupuy-marmande-1-nantes-basket-h
+ ermine-nb@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – NANTES BASKET HERMINE (NBH)
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs NA
+ NTES BASKET HERMINE (NBH)\n\nSALLE DES SPORTS\n📍 Beaupuy 47200\n🚗 Wa
+ ze : https://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm2/match/200000014598675
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598675
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-03-27-20-00-ie-toac-basket-1-beyssac-beaupuy-marmande-
+ 1@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:✈️ IE - TOAC BASKET - 1 – BEYSSAC BEAUPUY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ IE - TOAC BASKET - 1 vs BEYSSAC BE
+ AUPUY MARMANDE - 1\n\nSALLE E. DEWOITINE\n📍 Chemin de Garric Toulouse 3
+ 1200\n🚗 Waze : https://waze.com/ul?ll=43.62128\,1.40842&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nm2/match/200000014598705
+LOCATION:SALLE E. DEWOITINE\, Chemin de Garric Toulouse 31200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598705
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-04-03-20-00-pornic-basket-st-michel-1-beyssac-beaupuy-
+ marmande-@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ PORNIC BASKET ST MICHEL - 1 – BEYSSAC BEAUPUY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ PORNIC BASKET ST MICHEL - 1 vs BEY
+ SSAC BEAUPUY MARMANDE - 1\n\nSALLE YVES LOQUET\n📍 Rue Jules Ferry Porni
+ c 44210\n🚗 Waze : https://waze.com/ul?ll=47.12042\,-2.08838&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm2/match/200000014598733
+LOCATION:SALLE YVES LOQUET\, Rue Jules Ferry Pornic 44210
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598733
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-04-17-20-00-beyssac-beaupuy-marmande-1-avenir-serreslo
+ usiens-co@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 BEYSSAC BEAUPUY MARMANDE - 1 – AVENIR SERRESLOUSIENS COLOMBI
+ NS HORSARROIS
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ BEYSSAC BEAUPUY MARMANDE - 1 vs AV
+ ENIR SERRESLOUSIENS COLOMBINS HORSARROIS\n\nSALLE DES SPORTS\n📍 Beaupuy
+  47200\n🚗 Waze : https://waze.com/ul?ll=44.53698\,0.14378&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm2/match/200000014598756
+LOCATION:SALLE DES SPORTS\, Beaupuy 47200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598756
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-b-2027-05-01-20-00-saint-medard-basket-1-beyssac-beaupuy-marm
+ ande-1@ffbb-agenda
+DTSTAMP:20260817T085545Z
+DTSTART;TZID=Europe/Paris:20270501T200000
+DTEND;TZID=Europe/Paris:20270501T220000
+SUMMARY:✈️ SAINT MEDARD BASKET - 1 – BEYSSAC BEAUPUY MARMANDE - 1
+DESCRIPTION:🏀 NM2 – Poule B\n⚔️ SAINT MEDARD BASKET - 1 vs BEYSSAC
+  BEAUPUY MARMANDE - 1\n\nCOSEC ROBERT MONCEAU\n📍 Avenue Paul Berniard S
+ aint-Médard-en-Jalles 33160\n🚗 Waze : https://waze.com/ul?ll=44.88357\
+ ,-0.70607&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nm2/match/2000000145
+ 98789
+LOCATION:COSEC ROBERT MONCEAU\, Avenue Paul Berniard Saint-Médard-en-Jalle
+ s 33160
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598789
+END:VEVENT
+END:VCALENDAR

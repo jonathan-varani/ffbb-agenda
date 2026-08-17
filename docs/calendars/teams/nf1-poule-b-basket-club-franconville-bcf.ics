@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB FRANCONVILLE (BCF)  [NF1 –  – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB FRANCONVILLE (BCF) – NF1 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-09-12-20-00-ie-paris-basketball-association-basket-clu
+ b-francon@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ IE - PARIS BASKETBALL ASSOCIATION – BASKET CLUB FRANCONVIL
+ LE (BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - PARIS BASKETBALL ASSOCIATION 
+ vs BASKET CLUB FRANCONVILLE (BCF)\n\nHALLE CARPENTIER\n📍 Boulevard Mass
+ éna Paris 75013\n🚗 Waze : https://waze.com/ul?ll=48.82084\,2.36825&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf1/match/200000014600816
+LOCATION:HALLE CARPENTIER\, Boulevard Masséna Paris 75013
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600816
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-09-19-20-00-basket-club-franconville-bcf-stade-francai
+ s-basket-@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – STADE FRANCAIS BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ STADE FRANCAIS BASKET - 1\n\nC.S.L.\n📍 Boulevard Rhin et Danube Francon
+ ville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf1/match/200000014600827
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600827
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-09-26-20-00-aplemont-le-havre-basket-1-basket-club-fra
+ nconville@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ APLEMONT LE HAVRE BASKET - 1 – BASKET CLUB FRANCONVILLE (B
+ CF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs BA
+ SKET CLUB FRANCONVILLE (BCF)\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oe
+ illets Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.1629
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf1/match/200000014600838
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600838
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-03-20-00-basket-club-franconville-bcf-centre-federa
+ l-bb@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ CENTRE FEDERAL BB\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franconville 95
+ 130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf1/match/200000014600849
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600849
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-10-20-00-lamboisieres-martin-basket-basket-club-fra
+ nconville@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ LAMBOISIERES-MARTIN BASKET – BASKET CLUB FRANCONVILLE (BCF
+ )
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ LAMBOISIERES-MARTIN BASKET vs BASK
+ ET CLUB FRANCONVILLE (BCF)\n\nSALLE DE LA COUDRE\n📍 Rue des Ferrières 
+ Saint-Léger-de-Linières 49170\n🚗 Waze : https://waze.com/ul?ll=47.461
+ 7\,-0.71148&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nf1/match/20000001
+ 4600866
+LOCATION:SALLE DE LA COUDRE\, Rue des Ferrières Saint-Léger-de-Linières 
+ 49170
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600866
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-24-20-00-basket-club-franconville-bcf-cote-d-opale-
+ basket-ca@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – COTE D'OPALE BASKET CALAIS
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ COTE D'OPALE BASKET CALAIS\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franco
+ nville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf1/match/200000014600877
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600877
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-31-20-00-basket-club-franconville-bcf-alpc-moulin-n
+ antes-bas@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – ALPC MOULIN NANTES BASKET -
+  1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ ALPC MOULIN NANTES BASKET - 1\n\nC.S.L.\n📍 Boulevard Rhin et Danube Fra
+ nconville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf1/match/200000014600890
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600890
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-11-07-20-00-estaires-bc-basket-club-franconville-bcf@f
+ fbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ ESTAIRES BC – BASKET CLUB FRANCONVILLE (BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs BASKET CLUB FRANCON
+ VILLE (BCF)\n\nSALLE LES TULIPES\n📍 Rue du Collège Estaires 59940\n
+ 🚗 Waze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf1/match/200000014600901
+LOCATION:SALLE LES TULIPES\, Rue du Collège Estaires 59940
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600901
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-11-14-20-00-basket-club-franconville-bcf-asa-sceaux@ff
+ bb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – ASA SCEAUX
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ ASA SCEAUX\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franconville 95130\n
+ 🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/competitions/nf1/match/200000014600912
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600912
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-11-28-20-00-ie-basket-club-nord-alsace-1-basket-club-f
+ ranconvil@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:✈️ IE - BASKET CLUB NORD ALSACE - 1 – BASKET CLUB FRANCONVILL
+ E (BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
+ s BASKET CLUB FRANCONVILLE (BCF)\n\nMAISON DES SPORTS\n📍 Impasse du Tou
+ rnoi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf1/match/200000014600926
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600926
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-12-05-20-00-basket-club-franconville-bcf-basket-femini
+ n-escauda@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – BASKET FEMININ ESCAUDAIN PO
+ RTE DU HAINAUT
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT\n\nC.S.L.\n📍 Boulevard Rhin e
+ t Danube Franconville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2
+ .22552&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf1/match/2000000146009
+ 38
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600938
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-01-09-20-00-basket-club-franconville-bcf-ie-paris-bask
+ etball-as@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – IE - PARIS BASKETBALL ASSOC
+ IATION
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ IE - PARIS BASKETBALL ASSOCIATION\n\nC.S.L.\n📍 Boulevard Rhin et Danube
+  Franconville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf1/match/200000014600948
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600948
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-01-16-20-00-stade-francais-basket-1-basket-club-franco
+ nville-bc@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:✈️ STADE FRANCAIS BASKET - 1 – BASKET CLUB FRANCONVILLE (BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs BASKE
+ T CLUB FRANCONVILLE (BCF)\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Guilb
+ aud Paris 75016\n🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf1/match/200000014600959
+LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600959
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-01-30-20-00-basket-club-franconville-bcf-aplemont-le-h
+ avre-bask@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – APLEMONT LE HAVRE BASKET - 
+ 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ APLEMONT LE HAVRE BASKET - 1\n\nC.S.L.\n📍 Boulevard Rhin et Danube Fran
+ conville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nf1/match/200000014600970
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600970
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-02-06-20-00-centre-federal-bb-basket-club-franconville
+ -bcf@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ CENTRE FEDERAL BB – BASKET CLUB FRANCONVILLE (BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ CENTRE FEDERAL BB vs BASKET CLUB F
+ RANCONVILLE (BCF)\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay
+  Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf1/match/200000014600981
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600981
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-02-13-20-00-basket-club-franconville-bcf-lamboisieres-
+ martin-ba@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – LAMBOISIERES-MARTIN BASKET
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ LAMBOISIERES-MARTIN BASKET\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franco
+ nville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf1/match/200000014600998
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600998
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-02-27-20-00-cote-d-opale-basket-calais-basket-club-fra
+ nconville@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ COTE D'OPALE BASKET CALAIS – BASKET CLUB FRANCONVILLE (BCF
+ )
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ COTE D'OPALE BASKET CALAIS vs BASK
+ ET CLUB FRANCONVILLE (BCF)\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard
+  Calais 62100\n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nf1/match/200000014601009
+LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601009
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-06-20-00-alpc-moulin-nantes-basket-1-basket-club-fr
+ anconvill@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ ALPC MOULIN NANTES BASKET - 1 – BASKET CLUB FRANCONVILLE (
+ BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ALPC MOULIN NANTES BASKET - 1 vs B
+ ASKET CLUB FRANCONVILLE (BCF)\n\nGYMNASE GASTON TURPIN\n📍 Rue Gaston Tu
+ rpin Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47.22456\,-1.54201&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf1/match/200000014601022
+LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601022
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-13-20-00-basket-club-franconville-bcf-estaires-bc@f
+ fbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – ESTAIRES BC
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ ESTAIRES BC\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franconville 95130\n
+ 🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/competitions/nf1/match/200000014601033
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601033
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-27-20-00-asa-sceaux-basket-club-franconville-bcf@ff
+ bb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:✈️ ASA SCEAUX – BASKET CLUB FRANCONVILLE (BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs BASKET CLUB FRANCONV
+ ILLE (BCF)\n\nSALLE DES CLOS ST MARCEL\n📍 Rue des Clos-Saint-Marcel Sce
+ aux 92330\n🚗 Waze : https://waze.com/ul?ll=48.78059\,2.28532&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf1/match/200000014601044
+LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601044
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-04-10-20-00-basket-club-franconville-bcf-ie-basket-clu
+ b-nord-al@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 BASKET CLUB FRANCONVILLE (BCF) – IE - BASKET CLUB NORD ALSAC
+ E - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ IE - BASKET CLUB NORD ALSACE - 1\n\nC.S.L.\n📍 Boulevard Rhin et Danube 
+ Franconville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf1/match/200000014601058
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601058
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-04-17-20-00-basket-feminin-escaudain-porte-du-hainaut-
+ basket-cl@ffbb-agenda
+DTSTAMP:20260817T084629Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:✈️ BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – BASKET CLUB FR
+ ANCONVILLE (BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET FEMININ ESCAUDAIN PORTE DU 
+ HAINAUT vs BASKET CLUB FRANCONVILLE (BCF)\n\nS. ALLENDE\n📍 Place Gambet
+ ta Escaudain 59124\n🚗 Waze : https://waze.com/ul?ll=50.3337\,3.34405&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf1/match/200000014601070
+LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601070
+END:VEVENT
+END:VCALENDAR

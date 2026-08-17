@@ -1,0 +1,362 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GEISPOLSHEIM C.J.S. - 2  [NF3 –  – Poule H]
+X-WR-CALDESC:Matchs de GEISPOLSHEIM C.J.S. - 2 – NF3 – Poule H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-09-13-15-30-geispolsheim-c-j-s-2-schirrhein-c-s-c-sn@f
+ fbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – SCHIRRHEIN C.S.C.SN
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs SCHIRRH
+ EIN C.S.C.SN\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim 67
+ 118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601642
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601642
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-09-20-15-30-terres-froides-basket-geispolsheim-c-j-s-2
+ @ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ TERRES FROIDES BASKET – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ TERRES FROIDES BASKET vs GEISPOLSH
+ EIM C.J.S. - 2\n\nSALLE SPORTIVE L'ENVOL\n📍 Route du Rivier Apprieu 381
+ 40\n🚗 Waze : https://waze.com/ul?ll=45.39603\,5.50211&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601690
+LOCATION:SALLE SPORTIVE L'ENVOL\, Route du Rivier Apprieu 38140
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601690
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-09-27-15-30-geispolsheim-c-j-s-2-berrwiller-staffelfel
+ den-bc-1@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – BERRWILLER/STAFFELFELDEN BC - 1
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs BERRWIL
+ LER/STAFFELFELDEN BC - 1\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Gei
+ spolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf3/match/200000014601738
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601738
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-10-03-20-00-s-i-graffenstaden-1-geispolsheim-c-j-s-2@f
+ fbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 1 – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ S.I. GRAFFENSTADEN - 1 vs GEISPOLS
+ HEIM C.J.S. - 2\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graff
+ enstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf3/match/200000014601786
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601786
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-10-11-15-30-geispolsheim-c-j-s-2-duttlenheim-lc-1@ffbb
+ -agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – DUTTLENHEIM LC - 1
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs DUTTLEN
+ HEIM LC - 1\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim 671
+ 18\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601834
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601834
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-10-16-20-30-ie-basket-club-nord-alsace-geispolsheim-c-
+ j-s-2@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261016T203000
+DTEND;TZID=Europe/Paris:20261016T223000
+SUMMARY:✈️ IE - BASKET CLUB NORD ALSACE – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - BASKET CLUB NORD ALSACE vs GE
+ ISPOLSHEIM C.J.S. - 2\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguen
+ au 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf3/match/200000014601882
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601882
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-11-01-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-geisp
+ olsheim-c@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – GEISPOLSHEIM 
+ C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs GEISPOLSHEIM C.J.S. - 2\n\nGYMN SOUS- ALERY\n📍 Rue Georges 
+ Brassens Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6.1081
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf3/match/200000014601930
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601930
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-11-08-15-30-geispolsheim-c-j-s-2-us-wittenheim@ffbb-ag
+ enda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – US WITTENHEIM
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs US WITT
+ ENHEIM\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim 67118\n
+ 🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf3/match/200000014601978
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601978
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-11-15-15-30-chambery-la-motte-cognin-basket-savoie-1-g
+ eispolshe@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ CHAMBERY LA MOTTE COGNIN BASKET SAVOIE - 1 – GEISPOLSHEIM 
+ C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ CHAMBERY LA MOTTE COGNIN BASKET SA
+ VOIE - 1 vs GEISPOLSHEIM C.J.S. - 2\n\nGymnase Henry Bordeaux\n📍 Rue de
+  l'Épine Cognin 73160\n🚗 Waze : https://waze.com/ul?ll=45.56189\,5.896
+ 88&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf3/match/200000014602026
+LOCATION:Gymnase Henry Bordeaux\, Rue de l'Épine Cognin 73160
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602026
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-11-29-15-30-geispolsheim-c-j-s-2-basket-nord-sundgau@f
+ fbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs BASKET 
+ NORD SUNDGAU\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim 67
+ 118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602074
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602074
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-12-06-15-30-val-de-ville-b-c-geispolsheim-c-j-s-2@ffbb
+ -agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ VAL DE VILLE B.C. – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ VAL DE VILLE B.C. vs GEISPOLSHEIM 
+ C.J.S. - 2\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé 67220\n🚗 Waze :
+  https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nf3/match/200000014602122
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602122
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-01-10-15-30-schirrhein-c-s-c-sn-geispolsheim-c-j-s-2@f
+ fbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ SCHIRRHEIN C.S.C.SN vs GEISPOLSHEI
+ M C.J.S. - 2\n\nSALLE POLYVALENTE\n📍 Rue du Foyer Schirrhein 67240\n
+ 🚗 Waze : https://waze.com/ul?ll=48.80333\,7.90682&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf3/match/200000014602170
+LOCATION:SALLE POLYVALENTE\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602170
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-01-17-15-30-geispolsheim-c-j-s-2-terres-froides-basket
+ @ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – TERRES FROIDES BASKET
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs TERRES 
+ FROIDES BASKET\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim 
+ 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nf3/match/200000014602218
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602218
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-01-31-15-30-berrwiller-staffelfelden-bc-1-geispolsheim
+ -c-j-s-2@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 1 – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ BERRWILLER/STAFFELFELDEN BC - 1 vs
+  GEISPOLSHEIM C.J.S. - 2\n\nSALLE DES SPORTS\n📍 Rue de Hartmannswiller 
+ Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\,7.21998&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf3/match/200000014602266
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602266
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-02-07-15-30-geispolsheim-c-j-s-2-s-i-graffenstaden-1@f
+ fbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – S.I. GRAFFENSTADEN - 1
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs S.I. GR
+ AFFENSTADEN - 1\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim
+  67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf3/match/200000014602314
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602314
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-02-14-15-30-duttlenheim-lc-1-geispolsheim-c-j-s-2@ffbb
+ -agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ DUTTLENHEIM LC - 1 – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ DUTTLENHEIM LC - 1 vs GEISPOLSHEIM
+  C.J.S. - 2\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade Duttlenheim 67120\n
+ 🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56924&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf3/match/200000014602362
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602362
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-02-28-15-30-geispolsheim-c-j-s-2-ie-basket-club-nord-a
+ lsace@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – IE - BASKET CLUB NORD ALSACE
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs IE - BA
+ SKET CLUB NORD ALSACE\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispo
+ lsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf3/match/200000014602410
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602410
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-03-07-15-30-geispolsheim-c-j-s-2-ie-ctc-cran-pringy-ep
+ agny-metz@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs IE - CT
+ C CRAN PRINGY - EPAGNY - METZ-TESSY\n\nCENTRE SPORTIF\n📍 Rue de la Port
+ e Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7
+ .65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf3/match/2000000146024
+ 58
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602458
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-03-14-15-30-us-wittenheim-geispolsheim-c-j-s-2@ffbb-ag
+ enda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ US WITTENHEIM – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ US WITTENHEIM vs GEISPOLSHEIM C.J.
+ S. - 2\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors Wittenheim 6827
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.81142\,7.32895&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602506
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors Wittenheim 68270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602506
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-03-28-15-30-geispolsheim-c-j-s-2-chambery-la-motte-cog
+ nin-baske@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – CHAMBERY LA MOTTE COGNIN BASKET SA
+ VOIE - 1
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs CHAMBER
+ Y LA MOTTE COGNIN BASKET SAVOIE - 1\n\nCENTRE SPORTIF\n📍 Rue de la Port
+ e Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7
+ .65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf3/match/2000000146025
+ 54
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602554
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-04-11-15-30-basket-nord-sundgau-geispolsheim-c-j-s-2@f
+ fbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:✈️ BASKET NORD SUNDGAU – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ BASKET NORD SUNDGAU vs GEISPOLSHEI
+ M C.J.S. - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 68720\n
+ 🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf3/match/200000014602602
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602602
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-04-18-15-30-geispolsheim-c-j-s-2-val-de-ville-b-c@ffbb
+ -agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – VAL DE VILLE B.C.
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs VAL DE 
+ VILLE B.C.\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim 6711
+ 8\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602650
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602650
+END:VEVENT
+END:VCALENDAR

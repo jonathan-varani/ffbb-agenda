@@ -1,0 +1,365 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – STADE ROCHELAIS BASKET  [NF2 –  – Poule B]
+X-WR-CALDESC:Matchs de STADE ROCHELAIS BASKET – NF2 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-12-17-15-blma-espoir-stade-rochelais-basket@ffbb-ag
+ enda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260912T171500
+DTEND;TZID=Europe/Paris:20260912T191500
+SUMMARY:✈️ BLMA - ESPOIR – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BLMA - ESPOIR vs STADE ROCHELAIS B
+ ASKET\n\nPALAIS DES SPORTS\n📍 Rue des Jonquilles Lattes 34970\n🚗 Waz
+ e : https://waze.com/ul?ll=43.57016\,3.90224&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nf2/match/200000014601078
+LOCATION:PALAIS DES SPORTS\, Rue des Jonquilles Lattes 34970
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601078
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-19-20-00-stade-rochelais-basket-basket-landes-sasp-
+ espoir@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – BASKET LANDES SASP - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs BASKET L
+ ANDES SASP - ESPOIR\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Ro
+ chelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nf2/match/200000014601101
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601101
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-26-20-00-garonne-avenir-basket-du-marmandais-stade-
+ rochelais@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ GARONNE AVENIR BASKET DU MARMANDAIS – STADE ROCHELAIS BASK
+ ET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ GARONNE AVENIR BASKET DU MARMANDAI
+ S vs STADE ROCHELAIS BASKET\n\nSALLE DES SPORTS\n📍 Chemin de Ronde de S
+ illac Meilhan-sur-Garonne 47180\n🚗 Waze : https://waze.com/ul?ll=44.522
+ 56\,0.03386&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001
+ 4601130
+LOCATION:SALLE DES SPORTS\, Chemin de Ronde de Sillac Meilhan-sur-Garonne 4
+ 7180
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601130
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-03-20-00-stade-rochelais-basket-ie-etoile-sportive-
+ gimontois@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – IE - ETOILE SPORTIVE GIMONTOISE BB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs IE - ETO
+ ILE SPORTIVE GIMONTOISE BB\n\nSALLE GASTON NEVEUR\n📍 Chemin des Rempart
+ s La Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf2/match/200000014601153
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601153
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-10-20-00-anglet-cote-basque-basket-1-stade-rochelai
+ s-basket@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ ANGLET COTE BASQUE BASKET - 1 – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ ANGLET COTE BASQUE BASKET - 1 vs S
+ TADE ROCHELAIS BASKET\n\nC.SP. EL HOGAR\n📍 Rue de Hausquette Anglet 646
+ 00\n🚗 Waze : https://waze.com/ul?ll=43.49495\,-1.50988&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601176
+LOCATION:C.SP. EL HOGAR\, Rue de Hausquette Anglet 64600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601176
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-24-20-00-stade-rochelais-basket-bordeaux-etudiants-
+ club@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs BORDEAUX
+  ETUDIANTS CLUB\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochel
+ le 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf2/match/200000014601199
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601199
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-31-17-15-toulouse-metropole-basket-sas-espoir-stade
+ -rochelai@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261031T171500
+DTEND;TZID=Europe/Paris:20261031T191500
+SUMMARY:✈️ TOULOUSE METROPOLE BASKET SAS - ESPOIR – STADE ROCHELAIS B
+ ASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs STADE ROCHELAIS BASKET\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue Pie
+ rre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127\,1.
+ 43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460122
+ 5
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601225
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-07-20-00-stade-rochelais-basket-avenir-basket-chalo
+ sse-1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – AVENIR BASKET CHALOSSE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs AVENIR B
+ ASKET CHALOSSE - 1\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Roc
+ helle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf2/match/200000014601249
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601249
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-14-17-00-ie-as-st-delphin-2-stade-rochelais-basket@
+ ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261114T170000
+DTEND;TZID=Europe/Paris:20261114T190000
+SUMMARY:✈️ IE - AS ST DELPHIN - 2 – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ IE - AS ST DELPHIN - 2 vs STADE RO
+ CHELAIS BASKET\n\nCOMPLEXE SP. ELISABETH RIFFIOD\n📍 Chemin de Leysotte 
+ Villenave-d'Ornon 33140\n🚗 Waze : https://waze.com/ul?ll=44.79429\,-0.5
+ 8076&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nf2/match/200000014601273
+LOCATION:COMPLEXE SP. ELISABETH RIFFIOD\, Chemin de Leysotte Villenave-d'Or
+ non 33140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601273
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-28-20-00-stade-rochelais-basket-as-tournefeuille-1@
+ ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs AS TOURN
+ EFEUILLE - 1\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochelle 
+ 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf2/match/200000014601297
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601297
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-12-05-20-00-stade-rochelais-basket-us-orthez-basket@ff
+ bb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – US ORTHEZ BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs US ORTHE
+ Z BASKET\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochelle 1700
+ 0\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601320
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601320
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-09-20-00-stade-rochelais-basket-blma-espoir@ffbb-ag
+ enda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – BLMA - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs BLMA - E
+ SPOIR\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochelle 17000\n
+ 🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf2/match/200000014601342
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601342
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-16-17-15-basket-landes-sasp-espoir-stade-rochelais-
+ basket@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270116T171500
+DTEND;TZID=Europe/Paris:20270116T191500
+SUMMARY:✈️ BASKET LANDES SASP - ESPOIR – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BASKET LANDES SASP - ESPOIR vs STA
+ DE ROCHELAIS BASKET\n\nESPACE F. MITTERRAND\n📍 Rue de la Ferme du Conte
+  Mont-de-Marsan 40000\n🚗 Waze : https://waze.com/ul?ll=43.89754\,-0.464
+ 68&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf2/match/200000014601365
+LOCATION:ESPACE F. MITTERRAND\, Rue de la Ferme du Conte Mont-de-Marsan 400
+ 00
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601365
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-30-20-00-stade-rochelais-basket-garonne-avenir-bask
+ et-du-mar@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – GARONNE AVENIR BASKET DU MARMANDAIS
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs GARONNE 
+ AVENIR BASKET DU MARMANDAIS\n\nSALLE GASTON NEVEUR\n📍 Chemin des Rempar
+ ts La Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.1536
+ 6&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf2/match/200000014601394
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601394
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-06-20-00-ie-etoile-sportive-gimontoise-bb-stade-roc
+ helais-ba@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ IE - ETOILE SPORTIVE GIMONTOISE BB – STADE ROCHELAIS BASKE
+ T
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ IE - ETOILE SPORTIVE GIMONTOISE BB
+  vs STADE ROCHELAIS BASKET\n\nGYMNASE EN PETRE\n📍 Route de Saramon Gimo
+ nt 32200\n🚗 Waze : https://waze.com/ul?ll=43.6294\,0.86519&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf2/match/200000014601417
+LOCATION:GYMNASE EN PETRE\, Route de Saramon Gimont 32200
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601417
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-13-20-00-stade-rochelais-basket-anglet-cote-basque-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – ANGLET COTE BASQUE BASKET - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs ANGLET C
+ OTE BASQUE BASKET - 1\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La 
+ Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601440
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601440
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-27-20-00-bordeaux-etudiants-club-stade-rochelais-ba
+ sket@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ BORDEAUX ETUDIANTS CLUB – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs STADE R
+ OCHELAIS BASKET\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800\n🚗 
+ Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nf2/match/200000014601463
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601463
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-06-20-00-stade-rochelais-basket-toulouse-metropole-
+ basket-sa@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – TOULOUSE METROPOLE BASKET SAS - ESP
+ OIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs TOULOUSE
+  METROPOLE BASKET SAS - ESPOIR\n\nSALLE GASTON NEVEUR\n📍 Chemin des Rem
+ parts La Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.1
+ 5366&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nf2/match/200000014601489
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601489
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-13-17-30-avenir-basket-chalosse-1-stade-rochelais-b
+ asket@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270313T173000
+DTEND;TZID=Europe/Paris:20270313T193000
+SUMMARY:✈️ AVENIR BASKET CHALOSSE - 1 – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AVENIR BASKET CHALOSSE - 1 vs STAD
+ E ROCHELAIS BASKET\n\nSALLE DE GAUJACQ\n📍 Gaujacq 40330\n🚗 Waze : ht
+ tps://waze.com/ul?ll=43.6414\,-0.73891&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nf2/match/200000014601513
+LOCATION:SALLE DE GAUJACQ\, Gaujacq 40330
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601513
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-27-20-00-stade-rochelais-basket-ie-as-st-delphin-2@
+ ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 STADE ROCHELAIS BASKET – IE - AS ST DELPHIN - 2
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs IE - AS 
+ ST DELPHIN - 2\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochell
+ e 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf2/match/200000014601537
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601537
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-04-10-20-00-as-tournefeuille-1-stade-rochelais-basket@
+ ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:✈️ AS TOURNEFEUILLE - 1 – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs STADE ROCH
+ ELAIS BASKET\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tournefeu
+ ille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf2/match/200000014601561
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601561
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-04-17-20-00-us-orthez-basket-stade-rochelais-basket@ff
+ bb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:✈️ US ORTHEZ BASKET – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ US ORTHEZ BASKET vs STADE ROCHELAI
+ S BASKET\n\nSALLE P. SEILLANT\n📍 Boulevard Charles de Gaulle Orthez 643
+ 00\n🚗 Waze : https://waze.com/ul?ll=43.48636\,-0.75921&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601584
+LOCATION:SALLE P. SEILLANT\, Boulevard Charles de Gaulle Orthez 64300
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601584
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,543 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NMU18-ELITE – Poule G
+X-WR-CALDESC:Tous les matchs NMU18-ELITE – Poule G
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-09-13-15-30-union-sportive-poissy-andresy-chan
+ teloup-ma@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:UNION SPORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPA
+ CMB78) – NANTERRE 92 - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ UNION SPORTIVE POISSY ANDR
+ ESY CHANTELOUP MAURECOURT BASKET 78 (USPACMB78) vs NANTERRE 92 - 1\n\nCOMP
+ LEXE SPORTIF M. CERDAN\n📍 Avenue de la Maladrerie Poissy 78300\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.91881\,2.02759&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nmu18-elite/match/200000014603188
+LOCATION:COMPLEXE SPORTIF M. CERDAN\, Avenue de la Maladrerie Poissy 78300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03188
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-09-13-15-30-cergy-pontoise-bb-1-gravelines-gra
+ nd-fort-b@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:CERGY-PONTOISE BB - 1 – GRAVELINES GRAND FORT BCM - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ CERGY-PONTOISE BB - 1 vs G
+ RAVELINES GRAND FORT BCM - 1\n\nComplexe MARADAS - Salle 2\n📍 Passage d
+ u Lycée Pontoise 95000\n🚗 Waze : https://waze.com/ul?ll=49.03498\,2.08
+ 635&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001
+ 4603186
+LOCATION:Complexe MARADAS - Salle 2\, Passage du Lycée Pontoise 95000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03186
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-09-13-15-30-basket-club-lievinois-paris-basket
+ ball@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:BASKET CLUB LIEVINOIS – PARIS BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ BASKET CLUB LIEVINOIS vs P
+ ARIS BASKETBALL\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\
+ n🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nmu18-elite/match/200000014603187
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03187
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-09-20-15-30-paris-basketball-cergy-pontoise-bb
+ -1@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:PARIS BASKETBALL – CERGY-PONTOISE BB - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ PARIS BASKETBALL vs CERGY-
+ PONTOISE BB - 1\n\nATHLETICA -Luc ABALO HALLE SUD 2\n📍 Rue des Bouquinv
+ illes Eaubonne 95600\n🚗 Waze : https://waze.com/ul?ll=48.97679\,2.27791
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460
+ 3216
+LOCATION:ATHLETICA -Luc ABALO HALLE SUD 2\, Rue des Bouquinvilles Eaubonne 
+ 95600
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03216
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-09-20-15-30-gravelines-grand-fort-bcm-1-union-
+ sportive-@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:GRAVELINES GRAND FORT BCM - 1 – UNION SPORTIVE POISSY ANDRESY CHA
+ NTELOUP MAURECOURT BASKET 78 (USPACMB78)
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ GRAVELINES GRAND FORT BCM 
+ - 1 vs UNION SPORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPA
+ CMB78)\n\nLEPRETRE\n📍 Rue Pierre Leprêtre Grand-Fort-Philippe 59153\n
+ 🚗 Waze : https://waze.com/ul?ll=50.99908\,2.10721&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu18-elite/match/200000014603217
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03217
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-09-20-15-30-nanterre-92-1-basket-club-lievinoi
+ s@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:NANTERRE 92 - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ NANTERRE 92 - 1 vs BASKET 
+ CLUB LIEVINOIS\n\nPALAIS DES SPORTS M.THOREZ\n📍 Avenue Frédéric et Ir
+ ène Joliot-Curie Nanterre 92000\n🚗 Waze : https://waze.com/ul?ll=48.89
+ 235\,2.21047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match
+ /200000014603218
+LOCATION:PALAIS DES SPORTS M.THOREZ\, Avenue Frédéric et Irène Joliot-Cu
+ rie Nanterre 92000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03218
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-09-27-15-30-paris-basketball-gravelines-grand-
+ fort-bcm-@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:PARIS BASKETBALL – GRAVELINES GRAND FORT BCM - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ PARIS BASKETBALL vs GRAVEL
+ INES GRAND FORT BCM - 1\n\nATHLETICA -Luc ABALO HALLE SUD 2\n📍 Rue des 
+ Bouquinvilles Eaubonne 95600\n🚗 Waze : https://waze.com/ul?ll=48.97679\
+ ,2.27791&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200
+ 000014603248
+LOCATION:ATHLETICA -Luc ABALO HALLE SUD 2\, Rue des Bouquinvilles Eaubonne 
+ 95600
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03248
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-09-27-15-30-cergy-pontoise-bb-1-nanterre-92-1@
+ ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:CERGY-PONTOISE BB - 1 – NANTERRE 92 - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ CERGY-PONTOISE BB - 1 vs N
+ ANTERRE 92 - 1\n\nComplexe MARADAS - Salle 2\n📍 Passage du Lycée Ponto
+ ise 95000\n🚗 Waze : https://waze.com/ul?ll=49.03498\,2.08635&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nmu18-elite/match/200000014603247
+LOCATION:Complexe MARADAS - Salle 2\, Passage du Lycée Pontoise 95000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03247
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-09-27-15-30-basket-club-lievinois-union-sporti
+ ve-poissy@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:BASKET CLUB LIEVINOIS – UNION SPORTIVE POISSY ANDRESY CHANTELOUP 
+ MAURECOURT BASKET 78 (USPACMB78)
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ BASKET CLUB LIEVINOIS vs U
+ NION SPORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPACMB78)\n
+ \nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\n🚗 Waze : http
+ s://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nmu18-elite/match/200000014603246
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03246
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-10-04-15-30-union-sportive-poissy-andresy-chan
+ teloup-ma@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:UNION SPORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPA
+ CMB78) – CERGY-PONTOISE BB - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ UNION SPORTIVE POISSY ANDR
+ ESY CHANTELOUP MAURECOURT BASKET 78 (USPACMB78) vs CERGY-PONTOISE BB - 1\n
+ \nCOMPLEXE SPORTIF M. CERDAN\n📍 Avenue de la Maladrerie Poissy 78300\n
+ 🚗 Waze : https://waze.com/ul?ll=48.91881\,2.02759&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu18-elite/match/200000014603276
+LOCATION:COMPLEXE SPORTIF M. CERDAN\, Avenue de la Maladrerie Poissy 78300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03276
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-10-04-15-30-gravelines-grand-fort-bcm-1-basket
+ -club-lie@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:GRAVELINES GRAND FORT BCM - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ GRAVELINES GRAND FORT BCM 
+ - 1 vs BASKET CLUB LIEVINOIS\n\nLEPRETRE\n📍 Rue Pierre Leprêtre Grand-
+ Fort-Philippe 59153\n🚗 Waze : https://waze.com/ul?ll=50.99908\,2.10721&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603
+ 277
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03277
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-10-04-15-30-nanterre-92-1-paris-basketball@ffb
+ b-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:NANTERRE 92 - 1 – PARIS BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ NANTERRE 92 - 1 vs PARIS B
+ ASKETBALL\n\nPALAIS DES SPORTS M.THOREZ\n📍 Avenue Frédéric et Irène 
+ Joliot-Curie Nanterre 92000\n🚗 Waze : https://waze.com/ul?ll=48.89235\,
+ 2.21047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000
+ 00014603278
+LOCATION:PALAIS DES SPORTS M.THOREZ\, Avenue Frédéric et Irène Joliot-Cu
+ rie Nanterre 92000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03278
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-10-11-15-30-paris-basketball-union-sportive-po
+ issy-andr@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:PARIS BASKETBALL – UNION SPORTIVE POISSY ANDRESY CHANTELOUP MAURE
+ COURT BASKET 78 (USPACMB78)
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ PARIS BASKETBALL vs UNION 
+ SPORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPACMB78)\n\nAdi
+ das Arena\n📍 Avenue Porte de la Chapelle Paris 75018\n🚗 Waze : https
+ ://waze.com/ul?ll=48.89958\,2.35861&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nmu18-elite/match/200000014603308
+LOCATION:Adidas Arena\, Avenue Porte de la Chapelle Paris 75018
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03308
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-10-11-15-30-cergy-pontoise-bb-1-basket-club-li
+ evinois@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:CERGY-PONTOISE BB - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ CERGY-PONTOISE BB - 1 vs B
+ ASKET CLUB LIEVINOIS\n\nComplexe MARADAS - Salle 2\n📍 Passage du Lycée
+  Pontoise 95000\n🚗 Waze : https://waze.com/ul?ll=49.03498\,2.08635&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603306
+LOCATION:Complexe MARADAS - Salle 2\, Passage du Lycée Pontoise 95000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03306
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-10-11-15-30-gravelines-grand-fort-bcm-1-nanter
+ re-92-1@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:GRAVELINES GRAND FORT BCM - 1 – NANTERRE 92 - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ GRAVELINES GRAND FORT BCM 
+ - 1 vs NANTERRE 92 - 1\n\nLEPRETRE\n📍 Rue Pierre Leprêtre Grand-Fort-P
+ hilippe 59153\n🚗 Waze : https://waze.com/ul?ll=50.99908\,2.10721&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603307
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03307
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-01-15-30-gravelines-grand-fort-bcm-1-cergy-
+ pontoise-@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:GRAVELINES GRAND FORT BCM - 1 – CERGY-PONTOISE BB - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ GRAVELINES GRAND FORT BCM 
+ - 1 vs CERGY-PONTOISE BB - 1\n\nLEPRETRE\n📍 Rue Pierre Leprêtre Grand-
+ Fort-Philippe 59153\n🚗 Waze : https://waze.com/ul?ll=50.99908\,2.10721&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603
+ 336
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03336
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-01-15-30-paris-basketball-basket-club-lievi
+ nois@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:PARIS BASKETBALL – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ PARIS BASKETBALL vs BASKET
+  CLUB LIEVINOIS\n\nAdidas Arena\n📍 Avenue Porte de la Chapelle Paris 75
+ 018\n🚗 Waze : https://waze.com/ul?ll=48.89958\,2.35861&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu18-elite/match/200000014603337
+LOCATION:Adidas Arena\, Avenue Porte de la Chapelle Paris 75018
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03337
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-01-15-30-nanterre-92-1-union-sportive-poiss
+ y-andresy@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:NANTERRE 92 - 1 – UNION SPORTIVE POISSY ANDRESY CHANTELOUP MAUREC
+ OURT BASKET 78 (USPACMB78)
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ NANTERRE 92 - 1 vs UNION S
+ PORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPACMB78)\n\nPALA
+ IS DES SPORTS M.THOREZ\n📍 Avenue Frédéric et Irène Joliot-Curie Nant
+ erre 92000\n🚗 Waze : https://waze.com/ul?ll=48.89235\,2.21047&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu18-elite/match/200000014603338
+LOCATION:PALAIS DES SPORTS M.THOREZ\, Avenue Frédéric et Irène Joliot-Cu
+ rie Nanterre 92000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03338
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-08-15-30-basket-club-lievinois-nanterre-92-
+ 1@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:BASKET CLUB LIEVINOIS – NANTERRE 92 - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ BASKET CLUB LIEVINOIS vs N
+ ANTERRE 92 - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\n
+ 🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu18-elite/match/200000014603368
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03368
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-08-15-30-cergy-pontoise-bb-1-paris-basketba
+ ll@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:CERGY-PONTOISE BB - 1 – PARIS BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ CERGY-PONTOISE BB - 1 vs P
+ ARIS BASKETBALL\n\nComplexe MARADAS - Salle 2\n📍 Passage du Lycée Pont
+ oise 95000\n🚗 Waze : https://waze.com/ul?ll=49.03498\,2.08635&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu18-elite/match/200000014603366
+LOCATION:Complexe MARADAS - Salle 2\, Passage du Lycée Pontoise 95000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03366
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-08-15-30-union-sportive-poissy-andresy-chan
+ teloup-ma@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:UNION SPORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPA
+ CMB78) – GRAVELINES GRAND FORT BCM - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ UNION SPORTIVE POISSY ANDR
+ ESY CHANTELOUP MAURECOURT BASKET 78 (USPACMB78) vs GRAVELINES GRAND FORT B
+ CM - 1\n\nCOMPLEXE SPORTIF M. CERDAN\n📍 Avenue de la Maladrerie Poissy 
+ 78300\n🚗 Waze : https://waze.com/ul?ll=48.91881\,2.02759&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu18-elite/match/200000014603367
+LOCATION:COMPLEXE SPORTIF M. CERDAN\, Avenue de la Maladrerie Poissy 78300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03367
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-15-15-30-union-sportive-poissy-andresy-chan
+ teloup-ma@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:UNION SPORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPA
+ CMB78) – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ UNION SPORTIVE POISSY ANDR
+ ESY CHANTELOUP MAURECOURT BASKET 78 (USPACMB78) vs BASKET CLUB LIEVINOIS\n
+ \nCOMPLEXE SPORTIF M. CERDAN\n📍 Avenue de la Maladrerie Poissy 78300\n
+ 🚗 Waze : https://waze.com/ul?ll=48.91881\,2.02759&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu18-elite/match/200000014603396
+LOCATION:COMPLEXE SPORTIF M. CERDAN\, Avenue de la Maladrerie Poissy 78300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03396
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-15-15-30-nanterre-92-1-cergy-pontoise-bb-1@
+ ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:NANTERRE 92 - 1 – CERGY-PONTOISE BB - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ NANTERRE 92 - 1 vs CERGY-P
+ ONTOISE BB - 1\n\nPALAIS DES SPORTS M.THOREZ\n📍 Avenue Frédéric et Ir
+ ène Joliot-Curie Nanterre 92000\n🚗 Waze : https://waze.com/ul?ll=48.89
+ 235\,2.21047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match
+ /200000014603397
+LOCATION:PALAIS DES SPORTS M.THOREZ\, Avenue Frédéric et Irène Joliot-Cu
+ rie Nanterre 92000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03397
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-15-15-30-gravelines-grand-fort-bcm-1-paris-
+ basketbal@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:GRAVELINES GRAND FORT BCM - 1 – PARIS BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ GRAVELINES GRAND FORT BCM 
+ - 1 vs PARIS BASKETBALL\n\nLEPRETRE\n📍 Rue Pierre Leprêtre Grand-Fort-
+ Philippe 59153\n🚗 Waze : https://waze.com/ul?ll=50.99908\,2.10721&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603398
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03398
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-29-15-30-cergy-pontoise-bb-1-union-sportive
+ -poissy-a@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:CERGY-PONTOISE BB - 1 – UNION SPORTIVE POISSY ANDRESY CHANTELOUP 
+ MAURECOURT BASKET 78 (USPACMB78)
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ CERGY-PONTOISE BB - 1 vs U
+ NION SPORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPACMB78)\n
+ \nComplexe MARADAS - Salle 2\n📍 Passage du Lycée Pontoise 95000\n🚗 
+ Waze : https://waze.com/ul?ll=49.03498\,2.08635&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nmu18-elite/match/200000014603426
+LOCATION:Complexe MARADAS - Salle 2\, Passage du Lycée Pontoise 95000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03426
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-29-15-30-basket-club-lievinois-gravelines-g
+ rand-fort@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:BASKET CLUB LIEVINOIS – GRAVELINES GRAND FORT BCM - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ BASKET CLUB LIEVINOIS vs G
+ RAVELINES GRAND FORT BCM - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes L
+ iévin 62800\n🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nmu18-elite/match/200000014603427
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03427
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-11-29-15-30-paris-basketball-nanterre-92-1@ffb
+ b-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:PARIS BASKETBALL – NANTERRE 92 - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ PARIS BASKETBALL vs NANTER
+ RE 92 - 1\n\nATHLETICA -Luc ABALO HALLE SUD 2\n📍 Rue des Bouquinvilles 
+ Eaubonne 95600\n🚗 Waze : https://waze.com/ul?ll=48.97679\,2.27791&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603428
+LOCATION:ATHLETICA -Luc ABALO HALLE SUD 2\, Rue des Bouquinvilles Eaubonne 
+ 95600
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03428
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-12-06-15-30-union-sportive-poissy-andresy-chan
+ teloup-ma@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:UNION SPORTIVE POISSY ANDRESY CHANTELOUP MAURECOURT BASKET 78 (USPA
+ CMB78) – PARIS BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ UNION SPORTIVE POISSY ANDR
+ ESY CHANTELOUP MAURECOURT BASKET 78 (USPACMB78) vs PARIS BASKETBALL\n\nCOM
+ PLEXE SPORTIF M. CERDAN\n📍 Avenue de la Maladrerie Poissy 78300\n🚗 W
+ aze : https://waze.com/ul?ll=48.91881\,2.02759&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nmu18-elite/match/200000014603458
+LOCATION:COMPLEXE SPORTIF M. CERDAN\, Avenue de la Maladrerie Poissy 78300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03458
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-12-06-15-30-nanterre-92-1-gravelines-grand-for
+ t-bcm-1@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:NANTERRE 92 - 1 – GRAVELINES GRAND FORT BCM - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ NANTERRE 92 - 1 vs GRAVELI
+ NES GRAND FORT BCM - 1\n\nPALAIS DES SPORTS M.THOREZ\n📍 Avenue Frédér
+ ic et Irène Joliot-Curie Nanterre 92000\n🚗 Waze : https://waze.com/ul?
+ ll=48.89235\,2.21047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-eli
+ te/match/200000014603457
+LOCATION:PALAIS DES SPORTS M.THOREZ\, Avenue Frédéric et Irène Joliot-Cu
+ rie Nanterre 92000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03457
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-g-2026-12-06-15-30-basket-club-lievinois-cergy-pontoi
+ se-bb-1@ffbb-agenda
+DTSTAMP:20260817T085824Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:BASKET CLUB LIEVINOIS – CERGY-PONTOISE BB - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule G\n⚔️ BASKET CLUB LIEVINOIS vs C
+ ERGY-PONTOISE BB - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 6
+ 2800\n🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nmu18-elite/match/200000014603456
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03456
+END:VEVENT
+END:VCALENDAR

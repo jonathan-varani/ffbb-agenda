@@ -1,0 +1,345 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ACLPAB CALAIS  [NF3 –  – Poule F]
+X-WR-CALDESC:Matchs de ACLPAB CALAIS – NF3 – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-09-12-20-30-aclpab-calais-aulnoye-as-2@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20260912T203000
+DTEND;TZID=Europe/Paris:20260912T223000
+SUMMARY:🏠 ACLPAB CALAIS – AULNOYE AS - 2
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs AULNOYE AS - 2\n\
+ nSALLE JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗 Waze : https:
+ //waze.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nf3/match/200000014601633
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601633
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-09-20-15-30-bc-ermont-aclpab-calais@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ BC ERMONT – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ BC ERMONT vs ACLPAB CALAIS\n\nComp
+ lexe G. REBUFFAT\n📍 Allée Jean de Florette Ermont 95120\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.98301\,2.2449&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nf3/match/200000014601681
+LOCATION:Complexe G. REBUFFAT\, Allée Jean de Florette Ermont 95120
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601681
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-09-27-15-30-aclpab-calais-lambersart-b-l-m@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 ACLPAB CALAIS – LAMBERSART B L M
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs LAMBERSART B L M\
+ n\nSALLE JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗 Waze : http
+ s://waze.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nf3/match/200000014601729
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601729
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-10-04-15-00-o-sannois-st-gratien-aclpab-calais@ffbb-ag
+ enda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20261004T150000
+DTEND;TZID=Europe/Paris:20261004T170000
+SUMMARY:✈️ O SANNOIS ST GRATIEN – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ O SANNOIS ST GRATIEN vs ACLPAB CAL
+ AIS\n\nHalle des sports SIVOM\n📍 Boulevard de l'Entente Saint-Gratien 9
+ 5210\n🚗 Waze : https://waze.com/ul?ll=48.97493\,2.2733&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601777
+LOCATION:Halle des sports SIVOM\, Boulevard de l'Entente Saint-Gratien 9521
+ 0
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601777
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-10-11-15-30-aclpab-calais-champagne-basket-feminin-2@f
+ fbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 ACLPAB CALAIS – CHAMPAGNE BASKET FEMININ - 2
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs CHAMPAGNE BASKET 
+ FEMININ - 2\n\nSALLE JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗
+  Waze : https://waze.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nf3/match/200000014601825
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601825
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-10-25-15-30-basket-feminin-escaudain-porte-du-hainaut-
+ aclpab-ca@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20261025T153000
+DTEND;TZID=Europe/Paris:20261025T173000
+SUMMARY:✈️ BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ BASKET FEMININ ESCAUDAIN PORTE DU 
+ HAINAUT vs ACLPAB CALAIS\n\nS. ALLENDE\n📍 Place Gambetta Escaudain 5912
+ 4\n🚗 Waze : https://waze.com/ul?ll=50.3337\,3.34405&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601873
+LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601873
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-11-01-15-30-aclpab-calais-bac-vincennes@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 ACLPAB CALAIS – BAC VINCENNES
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs BAC VINCENNES\n\n
+ SALLE JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗 Waze : https:/
+ /waze.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nf3/match/200000014601920
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601920
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-11-08-15-30-mouvaux-abc-1-aclpab-calais@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ MOUVAUX ABC - 1 – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ MOUVAUX ABC - 1 vs ACLPAB CALAIS\n
+ \nCharles DE GAULLE\n📍 Place du Général de Gaulle Mouvaux 59420\n🚗
+  Waze : https://waze.com/ul?ll=50.69834\,3.1343&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nf3/match/200000014601967
+LOCATION:Charles DE GAULLE\, Place du Général de Gaulle Mouvaux 59420
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601967
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-11-14-20-00-aclpab-calais-douai-basket-feminin-1@ffbb-
+ agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 ACLPAB CALAIS – DOUAI BASKET FEMININ - 1
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs DOUAI BASKET FEMI
+ NIN - 1\n\nSALLE JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗 Waz
+ e : https://waze.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nf3/match/200000014602014
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602014
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-11-29-15-30-tourcoing-s-m-2-aclpab-calais@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ TOURCOING S M - 2 – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ TOURCOING S M - 2 vs ACLPAB CALAIS
+ \n\nDECRUYENAERE\n📍 Rue de Soissons Tourcoing 59200\n🚗 Waze : https:
+ //waze.com/ul?ll=50.73435\,3.19093&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nf3/match/200000014602064
+LOCATION:DECRUYENAERE\, Rue de Soissons Tourcoing 59200
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602064
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2026-12-06-15-30-aclpab-calais-saint-amand-hainaut-basket@f
+ fbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 ACLPAB CALAIS – SAINT-AMAND HAINAUT BASKET
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs SAINT-AMAND HAINA
+ UT BASKET\n\nSALLE JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗 W
+ aze : https://waze.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nf3/match/200000014602112
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602112
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-01-10-15-30-aulnoye-as-2-aclpab-calais@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ AULNOYE AS - 2 – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ AULNOYE AS - 2 vs ACLPAB CALAIS\n\
+ nAUGUSTE DELAUNE\n📍 Rue Parmentier Aulnoye-Aymeries 59620\n🚗 Waze : 
+ https://waze.com/ul?ll=50.20296\,3.83492&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nf3/match/200000014602161
+LOCATION:AUGUSTE DELAUNE\, Rue Parmentier Aulnoye-Aymeries 59620
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602161
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-01-17-15-30-aclpab-calais-bc-ermont@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 ACLPAB CALAIS – BC ERMONT
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs BC ERMONT\n\nSALL
+ E JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗 Waze : https://waz
+ e.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/
+ nf3/match/200000014602209
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602209
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-01-31-16-00-lambersart-b-l-m-aclpab-calais@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270131T160000
+DTEND;TZID=Europe/Paris:20270131T180000
+SUMMARY:✈️ LAMBERSART B L M – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ LAMBERSART B L M vs ACLPAB CALAIS\
+ n\nNorbert SEGARD\n📍 Rue du Maréchal Juin Lambersart 59130\n🚗 Waze 
+ : https://waze.com/ul?ll=50.65208\,3.01612&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nf3/match/200000014602257
+LOCATION:Norbert SEGARD\, Rue du Maréchal Juin Lambersart 59130
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602257
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-02-07-15-30-aclpab-calais-o-sannois-st-gratien@ffbb-ag
+ enda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 ACLPAB CALAIS – O SANNOIS ST GRATIEN
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs O SANNOIS ST GRAT
+ IEN\n\nSALLE JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗 Waze : 
+ https://waze.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nf3/match/200000014602305
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602305
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-02-14-15-30-champagne-basket-feminin-2-aclpab-calais@f
+ fbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ CHAMPAGNE BASKET FEMININ - 2 – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ CHAMPAGNE BASKET FEMININ - 2 vs AC
+ LPAB CALAIS\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauriac Reim
+ s 51100\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf3/match/200000014602353
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602353
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-02-28-15-30-aclpab-calais-basket-feminin-escaudain-por
+ te-du-hai@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:🏠 ACLPAB CALAIS – BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs BASKET FEMININ ES
+ CAUDAIN PORTE DU HAINAUT\n\nSALLE JACQUES JACOB\n📍 Rue de Québec Calai
+ s 62100\n🚗 Waze : https://waze.com/ul?ll=50.93242\,1.85123&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf3/match/200000014602401
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602401
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-03-07-15-30-bac-vincennes-aclpab-calais@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:✈️ BAC VINCENNES – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ BAC VINCENNES vs ACLPAB CALAIS\n\n
+ GYMNASE PARC DU CHATEAU\n📍 Rue des Vignerons Vincennes 94300\n🚗 Waze
+  : https://waze.com/ul?ll=48.84355\,2.43115&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nf3/match/200000014602448
+LOCATION:GYMNASE PARC DU CHATEAU\, Rue des Vignerons Vincennes 94300
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602448
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-03-14-15-30-aclpab-calais-mouvaux-abc-1@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 ACLPAB CALAIS – MOUVAUX ABC - 1
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs MOUVAUX ABC - 1\n
+ \nSALLE JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗 Waze : https
+ ://waze.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nf3/match/200000014602495
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602495
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-03-27-20-30-douai-basket-feminin-1-aclpab-calais@ffbb-
+ agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:✈️ DOUAI BASKET FEMININ - 1 – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ DOUAI BASKET FEMININ - 1 vs ACLPAB
+  CALAIS\n\nC.S.F GAYANT\n📍 Quai Devigne Douai 59500\n🚗 Waze : https:
+ //waze.com/ul?ll=50.36406\,3.07208&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nf3/match/200000014602542
+LOCATION:C.S.F GAYANT\, Quai Devigne Douai 59500
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602542
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-04-11-15-30-aclpab-calais-tourcoing-s-m-2@ffbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 ACLPAB CALAIS – TOURCOING S M - 2
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ ACLPAB CALAIS vs TOURCOING S M - 2
+ \n\nSALLE JACQUES JACOB\n📍 Rue de Québec Calais 62100\n🚗 Waze : htt
+ ps://waze.com/ul?ll=50.93242\,1.85123&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compe
+ titions/nf3/match/200000014602592
+LOCATION:SALLE JACQUES JACOB\, Rue de Québec Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602592
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-f-2027-04-18-15-30-saint-amand-hainaut-basket-aclpab-calais@f
+ fbb-agenda
+DTSTAMP:20260817T084854Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:✈️ SAINT-AMAND HAINAUT BASKET – ACLPAB CALAIS
+DESCRIPTION:🏀 NF3 – Poule F\n⚔️ SAINT-AMAND HAINAUT BASKET vs ACLP
+ AB CALAIS\n\nMAURICE HUGOT\n📍 Avenue d'Interville Saint-Amand-les-Eaux 
+ 59230\n🚗 Waze : https://waze.com/ul?ll=50.45127\,3.43475&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nf3/match/200000014602640
+LOCATION:MAURICE HUGOT\, Avenue d'Interville Saint-Amand-les-Eaux 59230
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602640
+END:VEVENT
+END:VCALENDAR

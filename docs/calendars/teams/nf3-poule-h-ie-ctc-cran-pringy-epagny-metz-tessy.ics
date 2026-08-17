@@ -1,0 +1,384 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY  [NF3 –  – Poule H]
+X-WR-CALDESC:Matchs de IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – NF3 – Poule H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-09-13-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-ie-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – IE - BASKET CLU
+ B NORD ALSACE
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs IE - BASKET CLUB NORD ALSACE\n\nGYMN SOUS- ALERY\n📍 Rue Geo
+ rges Brassens Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6
+ .10812&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf3/match/2000000146016
+ 47
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601647
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-09-20-15-30-schirrhein-c-s-c-sn-ie-ctc-cran-pringy-epa
+ gny-metz-@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN – IE - CTC CRAN PRINGY - EPAGNY - METZ
+ -TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ SCHIRRHEIN C.S.C.SN vs IE - CTC CR
+ AN PRINGY - EPAGNY - METZ-TESSY\n\nSALLE POLYVALENTE\n📍 Rue du Foyer Sc
+ hirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.80333\,7.90682&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf3/match/200000014601695
+LOCATION:SALLE POLYVALENTE\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601695
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-09-27-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-terre
+ s-froides@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – TERRES FROIDES 
+ BASKET
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs TERRES FROIDES BASKET\n\nGYMN SOUS- ALERY\n📍 Rue Georges Br
+ assens Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6.10812&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf3/match/200000014601743
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601743
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-10-04-15-30-berrwiller-staffelfelden-bc-1-ie-ctc-cran-
+ pringy-ep@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 1 – IE - CTC CRAN PRINGY - E
+ PAGNY - METZ-TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ BERRWILLER/STAFFELFELDEN BC - 1 vs
+  IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY\n\nSALLE DES SPORTS\n📍 Rue 
+ de Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47
+ .85229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf3/match/2
+ 00000014601791
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601791
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-10-11-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-s-i-g
+ raffensta@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – S.I. GRAFFENSTA
+ DEN - 1
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs S.I. GRAFFENSTADEN - 1\n\nGYMN SOUS- ALERY\n📍 Rue Georges B
+ rassens Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6.10812
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf3/match/200000014601839
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601839
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-10-25-15-30-duttlenheim-lc-1-ie-ctc-cran-pringy-epagny
+ -metz-tes@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261025T153000
+DTEND;TZID=Europe/Paris:20261025T173000
+SUMMARY:✈️ DUTTLENHEIM LC - 1 – IE - CTC CRAN PRINGY - EPAGNY - METZ-
+ TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ DUTTLENHEIM LC - 1 vs IE - CTC CRA
+ N PRINGY - EPAGNY - METZ-TESSY\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade 
+ Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56924&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf3/match/200000014601887
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601887
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-11-01-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-geisp
+ olsheim-c@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – GEISPOLSHEIM C.
+ J.S. - 2
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs GEISPOLSHEIM C.J.S. - 2\n\nGYMN SOUS- ALERY\n📍 Rue Georges 
+ Brassens Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6.1081
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf3/match/200000014601930
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601930
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-11-08-15-30-basket-nord-sundgau-ie-ctc-cran-pringy-epa
+ gny-metz-@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ BASKET NORD SUNDGAU – IE - CTC CRAN PRINGY - EPAGNY - METZ
+ -TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ BASKET NORD SUNDGAU vs IE - CTC CR
+ AN PRINGY - EPAGNY - METZ-TESSY\n\nPOLY ILLFURTH\n📍 Route de Spechbach 
+ Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf3/match/200000014601980
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601980
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-11-15-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-us-wi
+ ttenheim@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – US WITTENHEIM
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs US WITTENHEIM\n\nGYMN SOUS- ALERY\n📍 Rue Georges Brassens A
+ nnecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6.10812&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf3/match/200000014602028
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602028
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-11-29-15-30-val-de-ville-b-c-ie-ctc-cran-pringy-epagny
+ -metz-tes@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ VAL DE VILLE B.C. – IE - CTC CRAN PRINGY - EPAGNY - METZ-T
+ ESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ VAL DE VILLE B.C. vs IE - CTC CRAN
+  PRINGY - EPAGNY - METZ-TESSY\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé
+  67220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf3/match/200000014602075
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602075
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2026-12-06-15-30-chambery-la-motte-cognin-basket-savoie-1-i
+ e-ctc-cra@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ CHAMBERY LA MOTTE COGNIN BASKET SAVOIE - 1 – IE - CTC CRAN
+  PRINGY - EPAGNY - METZ-TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ CHAMBERY LA MOTTE COGNIN BASKET SA
+ VOIE - 1 vs IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY\n\nGymnase Henry Bo
+ rdeaux\n📍 Rue de l'Épine Cognin 73160\n🚗 Waze : https://waze.com/ul
+ ?ll=45.56189\,5.89688&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf3/matc
+ h/200000014602124
+LOCATION:Gymnase Henry Bordeaux\, Rue de l'Épine Cognin 73160
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602124
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-01-10-15-30-ie-basket-club-nord-alsace-ie-ctc-cran-pri
+ ngy-epagn@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ IE - BASKET CLUB NORD ALSACE – IE - CTC CRAN PRINGY - EPAG
+ NY - METZ-TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - BASKET CLUB NORD ALSACE vs IE
+  - CTC CRAN PRINGY - EPAGNY - METZ-TESSY\n\nMAISON DES SPORTS\n📍 Impass
+ e du Tournoi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,
+ 7.79253&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nf3/match/200000014602
+ 175
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602175
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-01-17-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-schir
+ rhein-c-s@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – SCHIRRHEIN C.S.
+ C.SN
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs SCHIRRHEIN C.S.C.SN\n\nGYMN SOUS- ALERY\n📍 Rue Georges Bras
+ sens Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6.10812&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf3/match/200000014602223
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602223
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-01-31-15-30-terres-froides-basket-ie-ctc-cran-pringy-e
+ pagny-met@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ TERRES FROIDES BASKET – IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ TERRES FROIDES BASKET vs IE - CTC 
+ CRAN PRINGY - EPAGNY - METZ-TESSY\n\nSALLE SPORTIVE L'ENVOL\n📍 Route du
+  Rivier Apprieu 38140\n🚗 Waze : https://waze.com/ul?ll=45.39603\,5.5021
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf3/match/200000014602271
+LOCATION:SALLE SPORTIVE L'ENVOL\, Route du Rivier Apprieu 38140
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602271
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-02-07-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-berrw
+ iller-sta@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – BERRWILLER/STAF
+ FELFELDEN BC - 1
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs BERRWILLER/STAFFELFELDEN BC - 1\n\nGYMN SOUS- ALERY\n📍 Rue 
+ Georges Brassens Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815
+ \,6.10812&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nf3/match/2000000146
+ 02319
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602319
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-02-14-15-30-s-i-graffenstaden-1-ie-ctc-cran-pringy-epa
+ gny-metz-@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 1 – IE - CTC CRAN PRINGY - EPAGNY - M
+ ETZ-TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ S.I. GRAFFENSTADEN - 1 vs IE - CTC
+  CRAN PRINGY - EPAGNY - METZ-TESSY\n\nSALLE DE LA S.I.G.\n📍 Rue de la P
+ oste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.5
+ 2678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nf3/match/200000
+ 014602367
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602367
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-02-28-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-duttl
+ enheim-lc@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – DUTTLENHEIM LC 
+ - 1
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs DUTTLENHEIM LC - 1\n\nGYMN SOUS- ALERY\n📍 Rue Georges Brass
+ ens Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6.10812&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf3/match/200000014602415
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602415
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-03-07-15-30-geispolsheim-c-j-s-2-ie-ctc-cran-pringy-ep
+ agny-metz@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 2 – IE - CTC CRAN PRINGY - EPAGNY - 
+ METZ-TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ GEISPOLSHEIM C.J.S. - 2 vs IE - CT
+ C CRAN PRINGY - EPAGNY - METZ-TESSY\n\nCENTRE SPORTIF\n📍 Rue de la Port
+ e Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7
+ .65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf3/match/2000000146024
+ 58
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602458
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-03-14-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-baske
+ t-nord-su@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – BASKET NORD SUN
+ DGAU
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs BASKET NORD SUNDGAU\n\nGYMN SOUS- ALERY\n📍 Rue Georges Bras
+ sens Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6.10812&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf3/match/200000014602508
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602508
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-03-28-15-30-us-wittenheim-ie-ctc-cran-pringy-epagny-me
+ tz-tessy@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:✈️ US WITTENHEIM – IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ US WITTENHEIM vs IE - CTC CRAN PRI
+ NGY - EPAGNY - METZ-TESSY\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Verc
+ ors Wittenheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.81142\,7.32895
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf3/match/200000014602556
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors Wittenheim 68270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602556
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-04-11-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-val-d
+ e-ville-b@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – VAL DE VILLE B.
+ C.
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs VAL DE VILLE B.C.\n\nGYMN SOUS- ALERY\n📍 Rue Georges Brasse
+ ns Annecy 74960\n🚗 Waze : https://waze.com/ul?ll=45.89815\,6.10812&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf3/match/200000014602603
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602603
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-h-2027-04-18-15-30-ie-ctc-cran-pringy-epagny-metz-tessy-chamb
+ ery-la-mo@ffbb-agenda
+DTSTAMP:20260817T084923Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:🏠 IE - CTC CRAN PRINGY - EPAGNY - METZ-TESSY – CHAMBERY LA MOT
+ TE COGNIN BASKET SAVOIE - 1
+DESCRIPTION:🏀 NF3 – Poule H\n⚔️ IE - CTC CRAN PRINGY - EPAGNY - ME
+ TZ-TESSY vs CHAMBERY LA MOTTE COGNIN BASKET SAVOIE - 1\n\nGYMN SOUS- ALERY
+ \n📍 Rue Georges Brassens Annecy 74960\n🚗 Waze : https://waze.com/ul?
+ ll=45.89815\,6.10812&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf3/match
+ /200000014602652
+LOCATION:GYMN SOUS- ALERY\, Rue Georges Brassens Annecy 74960
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602652
+END:VEVENT
+END:VCALENDAR

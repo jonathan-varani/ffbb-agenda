@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC GRAND DAX BASKET  [NMU18-ELITE –  – Poule C]
+X-WR-CALDESC:Matchs de IE - CTC GRAND DAX BASKET – NMU18-ELITE – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-13-15-30-ie-ctc-grand-dax-basket-jsa-bordea
+ ux-basket@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 IE - CTC GRAND DAX BASKET – JSA BORDEAUX BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs JSA BORDEAUX BASKET - 1\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Sau
+ gnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.992
+ 41&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014
+ 603174
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03174
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-20-15-30-boulazac-basket-dordogne-ie-ctc-gr
+ and-dax-b@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ BOULAZAC BASKET DORDOGNE – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ BOULAZAC BASKET DORDOGNE v
+ s IE - CTC GRAND DAX BASKET\n\nCOMPLEXE SPORTIF AGORA\n📍 Espace Agora B
+ oulazac Isle Manoire 24750\n🚗 Waze : https://waze.com/ul?ll=45.18148\,0
+ .76159&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000
+ 0014603204
+LOCATION:COMPLEXE SPORTIF AGORA\, Espace Agora Boulazac Isle Manoire 24750
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03204
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-27-15-30-ie-ctc-grand-dax-basket-ie-ctc-ave
+ nir-toulo@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 IE - CTC GRAND DAX BASKET – IE - CTC AVENIR TOULOUSE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs IE - CTC AVENIR TOULOUSE BASKET\n\nSALLE DE CANDRESSE\n📍 Rue des Éc
+ oles Saugnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192
+ \,-0.99241&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
+ 00000014603235
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03235
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-04-15-30-elan-bearnais-pau-lacq-orthez-ie-c
+ tc-grand-@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ ELAN BEARNAIS PAU LACQ ORTHEZ – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU LACQ ORT
+ HEZ vs IE - CTC GRAND DAX BASKET\n\nC. DE FORM\n📍 Avenue Pierre Massé 
+ Pau 64000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu18-elite/match/200000014603264
+LOCATION:C. DE FORM\, Avenue Pierre Massé Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03264
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-11-15-30-ie-ctc-grand-dax-basket-limoges-cs
+ p-sasp@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 IE - CTC GRAND DAX BASKET – LIMOGES CSP (SASP)
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs LIMOGES CSP (SASP)\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Saugnac-
+ et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.99241&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460329
+ 4
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03294
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-01-15-30-jsa-bordeaux-basket-1-ie-ctc-grand
+ -dax-bask@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ JSA BORDEAUX BASKET - 1 – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ JSA BORDEAUX BASKET - 1 vs
+  IE - CTC GRAND DAX BASKET\n\nSALLE DES PEUPLIERS\n📍 Allée des Peuplie
+ rs Bordeaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.83177\,-0.61082&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146033
+ 24
+LOCATION:SALLE DES PEUPLIERS\, Allée des Peupliers Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03324
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-08-15-30-ie-ctc-grand-dax-basket-boulazac-b
+ asket-dor@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 IE - CTC GRAND DAX BASKET – BOULAZAC BASKET DORDOGNE
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs BOULAZAC BASKET DORDOGNE\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Sa
+ ugnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.99
+ 241&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001
+ 4603354
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03354
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-15-15-30-ie-ctc-avenir-toulouse-basket-ie-c
+ tc-grand-@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ IE - CTC AVENIR TOULOUSE BASKET – IE - CTC GRAND DAX BASKE
+ T
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC AVENIR TOULOUSE B
+ ASKET vs IE - CTC GRAND DAX BASKET\n\nSALLE E. DEWOITINE\n📍 Chemin de G
+ arric Toulouse 31200\n🚗 Waze : https://waze.com/ul?ll=43.62128\,1.40842
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460
+ 3385
+LOCATION:SALLE E. DEWOITINE\, Chemin de Garric Toulouse 31200
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03385
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-29-15-30-ie-ctc-grand-dax-basket-elan-bearn
+ ais-pau-l@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 IE - CTC GRAND DAX BASKET – ELAN BEARNAIS PAU LACQ ORTHEZ
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs ELAN BEARNAIS PAU LACQ ORTHEZ\n\nSALLE DE CANDRESSE\n📍 Rue des Écol
+ es Saugnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,
+ -0.99241&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200
+ 000014603414
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03414
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-12-06-15-30-limoges-csp-sasp-ie-ctc-grand-dax-
+ basket@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ LIMOGES CSP (SASP) – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ LIMOGES CSP (SASP) vs IE -
+  CTC GRAND DAX BASKET\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges
+  87100\n🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nmu18-elite/match/200000014603444
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03444
+END:VEVENT
+END:VCALENDAR

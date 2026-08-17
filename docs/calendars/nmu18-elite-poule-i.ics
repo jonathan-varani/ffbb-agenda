@@ -1,0 +1,531 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NMU18-ELITE – Poule I
+X-WR-CALDESC:Tous les matchs NMU18-ELITE – Poule I
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-09-13-15-30-alliance-sport-alsace-1-union-cham
+ pagne-cha@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:ALLIANCE SPORT ALSACE - 1 – UNION CHAMPAGNE CHALONS REIMS BASKET 
+ - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ ALLIANCE SPORT ALSACE - 1 
+ vs UNION CHAMPAGNE CHALONS REIMS BASKET - 1\n\nESPACE SPORT LA FORET\n📍
+  Rue du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.
+ 81972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000
+ 014603194
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03194
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-09-13-15-30-nancy-basketball-mustangs-associat
+ ion@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:NANCY BASKETBALL – MUSTANGS ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ NANCY BASKETBALL vs MUSTAN
+ GS ASSOCIATION\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue de Phalsbourg Nanc
+ y 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.18168&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nmu18-elite/match/200000014603193
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03193
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-09-13-15-30-sig-strasbourg-1-sluc-nancy-basket
+ -associat@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:SIG STRASBOURG - 1 – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SIG STRASBOURG - 1 vs SLUC
+  NANCY BASKET ASSOCIATION\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illk
+ irch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.7
+ 1258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000
+ 14603192
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03192
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-09-20-15-30-union-champagne-chalons-reims-bask
+ et-1-nanc@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:UNION CHAMPAGNE CHALONS REIMS BASKET - 1 – NANCY BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ UNION CHAMPAGNE CHALONS RE
+ IMS BASKET - 1 vs NANCY BASKETBALL\n\nSALLE PIERRE DE COUBERTIN\n📍 Boul
+ evard Justin Grandthille Châlons-en-Champagne 51000\n🚗 Waze : https://
+ waze.com/ul?ll=48.9621\,4.36503&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competition
+ s/nmu18-elite/match/200000014603224
+LOCATION:SALLE PIERRE DE COUBERTIN\, Boulevard Justin Grandthille Châlons-
+ en-Champagne 51000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03224
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-09-20-15-30-mustangs-association-sig-strasbour
+ g-1@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:MUSTANGS ASSOCIATION – SIG STRASBOURG - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ MUSTANGS ASSOCIATION vs SI
+ G STRASBOURG - 1\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pfastatt 68
+ 120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu18-elite/match/200000014603222
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03222
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-09-20-15-30-sluc-nancy-basket-association-alli
+ ance-spor@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:SLUC NANCY BASKET ASSOCIATION – ALLIANCE SPORT ALSACE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs ALLIANCE SPORT ALSACE - 1\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du 
+ Capitaine Guynemer Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.6997
+ 5\,6.13996&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
+ 00000014603223
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03223
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-09-27-15-30-nancy-basketball-alliance-sport-al
+ sace-1@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:NANCY BASKETBALL – ALLIANCE SPORT ALSACE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ NANCY BASKETBALL vs ALLIAN
+ CE SPORT ALSACE - 1\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue de Phalsbourg
+  Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.18168&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nmu18-elite/match/200000014603252
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03252
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-09-27-15-30-sig-strasbourg-1-union-champagne-c
+ halons-re@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:SIG STRASBOURG - 1 – UNION CHAMPAGNE CHALONS REIMS BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SIG STRASBOURG - 1 vs UNIO
+ N CHAMPAGNE CHALONS REIMS BASKET - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la
+  Poste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48
+ .52678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
+ /match/200000014603253
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03253
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-09-27-15-30-mustangs-association-sluc-nancy-ba
+ sket-asso@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:MUSTANGS ASSOCIATION – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ MUSTANGS ASSOCIATION vs SL
+ UC NANCY BASKET ASSOCIATION\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim 
+ Pfastatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603254
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03254
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-10-04-15-30-alliance-sport-alsace-1-sig-strasb
+ ourg-1@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:ALLIANCE SPORT ALSACE - 1 – SIG STRASBOURG - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ ALLIANCE SPORT ALSACE - 1 
+ vs SIG STRASBOURG - 1\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67
+ 240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu18-elite/match/200000014603282
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03282
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-10-04-15-30-sluc-nancy-basket-association-nanc
+ y-basketb@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:SLUC NANCY BASKET ASSOCIATION – NANCY BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs NANCY BASKETBALL\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitaine
+  Guynemer Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.69975\,6.1399
+ 6&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03283
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03283
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-10-04-15-30-union-champagne-chalons-reims-bask
+ et-1-must@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:UNION CHAMPAGNE CHALONS REIMS BASKET - 1 – MUSTANGS ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ UNION CHAMPAGNE CHALONS RE
+ IMS BASKET - 1 vs MUSTANGS ASSOCIATION\n\nSALLE PIERRE DE COUBERTIN\n📍 
+ Boulevard Justin Grandthille Châlons-en-Champagne 51000\n🚗 Waze : http
+ s://waze.com/ul?ll=48.9621\,4.36503&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nmu18-elite/match/200000014603284
+LOCATION:SALLE PIERRE DE COUBERTIN\, Boulevard Justin Grandthille Châlons-
+ en-Champagne 51000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03284
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-10-11-15-30-mustangs-association-alliance-spor
+ t-alsace-@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:MUSTANGS ASSOCIATION – ALLIANCE SPORT ALSACE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ MUSTANGS ASSOCIATION vs AL
+ LIANCE SPORT ALSACE - 1\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pfas
+ tatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu18-elite/match/200000014603314
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03314
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-10-11-15-30-sluc-nancy-basket-association-unio
+ n-champag@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:SLUC NANCY BASKET ASSOCIATION – UNION CHAMPAGNE CHALONS REIMS BAS
+ KET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs UNION CHAMPAGNE CHALONS REIMS BASKET - 1\n\nPALAIS DES SPORTS ANNEX
+ E\n📍 Rue du Capitaine Guynemer Nancy 54100\n🚗 Waze : https://waze.co
+ m/ul?ll=48.69975\,6.13996&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
+ 8-elite/match/200000014603313
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03313
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-10-11-15-30-sig-strasbourg-1-nancy-basketball@
+ ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:SIG STRASBOURG - 1 – NANCY BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SIG STRASBOURG - 1 vs NANC
+ Y BASKETBALL\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graffens
+ taden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nmu18-elite/match/200000014603312
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03312
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-01-15-30-sluc-nancy-basket-association-sig-
+ strasbour@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:SLUC NANCY BASKET ASSOCIATION – SIG STRASBOURG - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs SIG STRASBOURG - 1\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitai
+ ne Guynemer Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.69975\,6.13
+ 996&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001
+ 4603342
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03342
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-01-15-30-union-champagne-chalons-reims-bask
+ et-1-alli@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:UNION CHAMPAGNE CHALONS REIMS BASKET - 1 – ALLIANCE SPORT ALSACE 
+ - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ UNION CHAMPAGNE CHALONS RE
+ IMS BASKET - 1 vs ALLIANCE SPORT ALSACE - 1\n\nSALLE PIERRE DE COUBERTIN\n
+ 📍 Boulevard Justin Grandthille Châlons-en-Champagne 51000\n🚗 Waze :
+  https://waze.com/ul?ll=48.9621\,4.36503&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nmu18-elite/match/200000014603344
+LOCATION:SALLE PIERRE DE COUBERTIN\, Boulevard Justin Grandthille Châlons-
+ en-Champagne 51000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03344
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-01-15-30-mustangs-association-nancy-basketb
+ all@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:MUSTANGS ASSOCIATION – NANCY BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ MUSTANGS ASSOCIATION vs NA
+ NCY BASKETBALL\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pfastatt 6812
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu18-elite/match/200000014603343
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03343
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-08-15-30-nancy-basketball-union-champagne-c
+ halons-re@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:NANCY BASKETBALL – UNION CHAMPAGNE CHALONS REIMS BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ NANCY BASKETBALL vs UNION 
+ CHAMPAGNE CHALONS REIMS BASKET - 1\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Ru
+ e de Phalsbourg Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,
+ 6.18168&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000
+ 00014603374
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03374
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-08-15-30-sig-strasbourg-1-mustangs-associat
+ ion@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:SIG STRASBOURG - 1 – MUSTANGS ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SIG STRASBOURG - 1 vs MUST
+ ANGS ASSOCIATION\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graf
+ fenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603372
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03372
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-08-15-30-alliance-sport-alsace-1-sluc-nancy
+ -basket-a@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:ALLIANCE SPORT ALSACE - 1 – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ ALLIANCE SPORT ALSACE - 1 
+ vs SLUC NANCY BASKET ASSOCIATION\n\nESPACE SPORT LA FORET\n📍 Rue du Sta
+ de Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603373
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03373
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-15-15-30-alliance-sport-alsace-1-nancy-bask
+ etball@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:ALLIANCE SPORT ALSACE - 1 – NANCY BASKETBALL
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ ALLIANCE SPORT ALSACE - 1 
+ vs NANCY BASKETBALL\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 6724
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu18-elite/match/200000014603402
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03402
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-15-15-30-sluc-nancy-basket-association-must
+ angs-asso@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:SLUC NANCY BASKET ASSOCIATION – MUSTANGS ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SLUC NANCY BASKET ASSOCIAT
+ ION vs MUSTANGS ASSOCIATION\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capit
+ aine Guynemer Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.69975\,6.
+ 13996&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000
+ 014603404
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03404
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-15-15-30-union-champagne-chalons-reims-bask
+ et-1-sig-@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:UNION CHAMPAGNE CHALONS REIMS BASKET - 1 – SIG STRASBOURG - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ UNION CHAMPAGNE CHALONS RE
+ IMS BASKET - 1 vs SIG STRASBOURG - 1\n\nSALLE PIERRE DE COUBERTIN\n📍 Bo
+ ulevard Justin Grandthille Châlons-en-Champagne 51000\n🚗 Waze : https:
+ //waze.com/ul?ll=48.9621\,4.36503&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nmu18-elite/match/200000014603403
+LOCATION:SALLE PIERRE DE COUBERTIN\, Boulevard Justin Grandthille Châlons-
+ en-Champagne 51000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03403
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-29-15-30-mustangs-association-union-champag
+ ne-chalon@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:MUSTANGS ASSOCIATION – UNION CHAMPAGNE CHALONS REIMS BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ MUSTANGS ASSOCIATION vs UN
+ ION CHAMPAGNE CHALONS REIMS BASKET - 1\n\nSALLE POLYVALENTE\n📍 Rue de K
+ ingersheim Pfastatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.
+ 30777&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000
+ 014603434
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03434
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-29-15-30-sig-strasbourg-1-alliance-sport-al
+ sace-1@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:SIG STRASBOURG - 1 – ALLIANCE SPORT ALSACE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ SIG STRASBOURG - 1 vs ALLI
+ ANCE SPORT ALSACE - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch
+ -Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460
+ 3432
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03432
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-11-29-15-30-nancy-basketball-sluc-nancy-basket
+ -associat@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:NANCY BASKETBALL – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ NANCY BASKETBALL vs SLUC N
+ ANCY BASKET ASSOCIATION\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue de Phalsb
+ ourg Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.18168&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603433
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03433
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-12-06-15-30-nancy-basketball-sig-strasbourg-1@
+ ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:NANCY BASKETBALL – SIG STRASBOURG - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ NANCY BASKETBALL vs SIG ST
+ RASBOURG - 1\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue de Phalsbourg Nancy 
+ 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.18168&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu18-elite/match/200000014603462
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03462
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-12-06-15-30-union-champagne-chalons-reims-bask
+ et-1-sluc@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:UNION CHAMPAGNE CHALONS REIMS BASKET - 1 – SLUC NANCY BASKET ASSO
+ CIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ UNION CHAMPAGNE CHALONS RE
+ IMS BASKET - 1 vs SLUC NANCY BASKET ASSOCIATION\n\nSALLE PIERRE DE COUBERT
+ IN\n📍 Boulevard Justin Grandthille Châlons-en-Champagne 51000\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.9621\,4.36503&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nmu18-elite/match/200000014603463
+LOCATION:SALLE PIERRE DE COUBERTIN\, Boulevard Justin Grandthille Châlons-
+ en-Champagne 51000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03463
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-i-2026-12-06-15-30-alliance-sport-alsace-1-mustangs-a
+ ssociatio@ffbb-agenda
+DTSTAMP:20260817T085839Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:ALLIANCE SPORT ALSACE - 1 – MUSTANGS ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule I\n⚔️ ALLIANCE SPORT ALSACE - 1 
+ vs MUSTANGS ASSOCIATION\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 
+ 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu18-elite/match/200000014603464
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03464
+END:VEVENT
+END:VCALENDAR

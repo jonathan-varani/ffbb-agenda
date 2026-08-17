@@ -1,0 +1,422 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB LIEVINOIS  [NM2 –  – Poule C]
+X-WR-CALDESC:Matchs de BASKET CLUB LIEVINOIS – NM2 – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-09-05-20-00-tourcoing-s-m-1-basket-club-lievinois@ffbb
+ -agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:✈️ TOURCOING S M - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ TOURCOING S M - 1 vs BASKET CLUB L
+ IEVINOIS\n\nDECRUYENAERE\n📍 Rue de Soissons Tourcoing 59200\n🚗 Waze 
+ : https://waze.com/ul?ll=50.73435\,3.19093&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nm2/match/200000014598094
+LOCATION:DECRUYENAERE\, Rue de Soissons Tourcoing 59200
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598094
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-09-12-20-00-basket-club-lievinois-calais-basket@ffbb-a
+ genda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – CALAIS BASKET
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs CALAIS BA
+ SKET\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\n🚗 Waze 
+ : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nm2/match/200000014598123
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598123
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-09-19-20-00-esc-longueau-amiens-msbb-1-basket-club-lie
+ vinois@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ ESC LONGUEAU AMIENS MSBB - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ ESC LONGUEAU AMIENS MSBB - 1 vs BA
+ SKET CLUB LIEVINOIS\n\nSALLE GEORGES PELLERIN\n📍 Rue Léon Poidevin Lon
+ gueau 80330\n🚗 Waze : https://waze.com/ul?ll=49.8728\,2.35495&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm2/match/200000014598152
+LOCATION:SALLE GEORGES PELLERIN\, Rue Léon Poidevin Longueau 80330
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598152
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-09-26-20-00-basket-club-lievinois-rac-basket-premiere-
+ 1@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – RAC BASKET PREMIERE - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs RAC BASKE
+ T PREMIERE - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\n
+ 🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm2/match/200000014598179
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598179
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-10-03-20-00-poissy-basket-association-basket-club-liev
+ inois@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ POISSY BASKET ASSOCIATION – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ POISSY BASKET ASSOCIATION vs BASKE
+ T CLUB LIEVINOIS\n\nCOMPLEXE SPORTIF M. CERDAN\n📍 Avenue de la Maladrer
+ ie Poissy 78300\n🚗 Waze : https://waze.com/ul?ll=48.91881\,2.02759&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm2/match/200000014598203
+LOCATION:COMPLEXE SPORTIF M. CERDAN\, Avenue de la Maladrerie Poissy 78300
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598203
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-10-10-20-00-basket-club-lievinois-club-sportif-gravenc
+ honnais-1@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – CLUB SPORTIF GRAVENCHONNAIS - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs CLUB SPOR
+ TIF GRAVENCHONNAIS - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin
+  62800\n🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm2/match/200000014598235
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598235
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-10-17-20-00-lille-metropole-basket-clubs-basket-club-l
+ ievinois@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:✈️ LILLE METROPOLE BASKET CLUBS – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ LILLE METROPOLE BASKET CLUBS vs BA
+ SKET CLUB LIEVINOIS\n\nPALAIS SAINT SAUVEUR\n📍 Avenue du Président Joh
+ n Fitzgerald Kennedy Lille 59800\n🚗 Waze : https://waze.com/ul?ll=50.63
+ 264\,3.07177&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nm2/match/2000000
+ 14598261
+LOCATION:PALAIS SAINT SAUVEUR\, Avenue du Président John Fitzgerald Kenned
+ y Lille 59800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598261
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-10-31-20-00-basket-club-lievinois-wasquehal-flash-b-1@
+ ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – WASQUEHAL FLASH B - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs WASQUEHAL
+  FLASH B - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\n
+ 🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm2/match/200000014598291
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598291
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-11-07-20-00-basket-club-lievinois-le-mans-jalt-1@ffbb-
+ agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – LE MANS JALT - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs LE MANS J
+ ALT - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\n🚗 Wa
+ ze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm2/match/200000014598319
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598319
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-11-14-20-00-roncq-u-s-1-basket-club-lievinois@ffbb-age
+ nda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ RONCQ U S - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ RONCQ U S - 1 vs BASKET CLUB LIEVI
+ NOIS\n\nJULES GILLES\n📍 Rue Maurice Thorez Roncq 59223\n🚗 Waze : htt
+ ps://waze.com/ul?ll=50.74978\,3.12741&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compe
+ titions/nm2/match/200000014598348
+LOCATION:JULES GILLES\, Rue Maurice Thorez Roncq 59223
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598348
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-11-28-20-00-basket-club-lievinois-vanves-gpso-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – VANVES GPSO BASKET - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs VANVES GP
+ SO BASKET - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\n
+ 🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm2/match/200000014598375
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598375
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-12-05-20-00-courbevoie-sports-basket-1-basket-club-lie
+ vinois@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ COURBEVOIE SPORTS BASKET - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ COURBEVOIE SPORTS BASKET - 1 vs BA
+ SKET CLUB LIEVINOIS\n\nGYMNASE POMPIDOU\n📍 Rue de l'Industrie Courbevoi
+ e 92400\n🚗 Waze : https://waze.com/ul?ll=48.89202\,2.25673&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nm2/match/200000014598400
+LOCATION:GYMNASE POMPIDOU\, Rue de l'Industrie Courbevoie 92400
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598400
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2026-12-12-20-00-basket-club-lievinois-olympique-grande-syn
+ the-baske@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – OLYMPIQUE GRANDE SYNTHE BASKET - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs OLYMPIQUE
+  GRANDE SYNTHE BASKET - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Lié
+ vin 62800\n🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm2/match/200000014598431
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598431
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-01-02-20-00-basket-club-lievinois-tourcoing-s-m-1@ffbb
+ -agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – TOURCOING S M - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs TOURCOING
+  S M - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\n🚗 W
+ aze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nm2/match/200000014598458
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598458
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-01-09-20-00-calais-basket-basket-club-lievinois@ffbb-a
+ genda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:✈️ CALAIS BASKET – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ CALAIS BASKET vs BASKET CLUB LIEVI
+ NOIS\n\nSALLE SPORTS QUAI DE LA MOSELLE\n📍 Rue du Quai de la Loire Cala
+ is 62100\n🚗 Waze : https://waze.com/ul?ll=50.97265\,1.86654&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm2/match/200000014598487
+LOCATION:SALLE SPORTS QUAI DE LA MOSELLE\, Rue du Quai de la Loire Calais 6
+ 2100
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598487
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-01-16-20-00-basket-club-lievinois-esc-longueau-amiens-
+ msbb-1@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – ESC LONGUEAU AMIENS MSBB - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs ESC LONGU
+ EAU AMIENS MSBB - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62
+ 800\n🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm2/match/200000014598516
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598516
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-01-30-20-00-rac-basket-premiere-1-basket-club-lievinoi
+ s@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ RAC BASKET PREMIERE - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ RAC BASKET PREMIERE - 1 vs BASKET 
+ CLUB LIEVINOIS\n\nSTADIUM\n📍 Rue Geneviève Couturier Rueil-Malmaison 9
+ 2500\n🚗 Waze : https://waze.com/ul?ll=48.8792\,2.17477&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm2/match/200000014598543
+LOCATION:STADIUM\, Rue Geneviève Couturier Rueil-Malmaison 92500
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598543
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-02-06-20-00-basket-club-lievinois-poissy-basket-associ
+ ation@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – POISSY BASKET ASSOCIATION
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs POISSY BA
+ SKET ASSOCIATION\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800
+ \n🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm2/match/200000014598567
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598567
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-02-13-20-00-club-sportif-gravenchonnais-1-basket-club-
+ lievinois@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ CLUB SPORTIF GRAVENCHONNAIS - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ CLUB SPORTIF GRAVENCHONNAIS - 1 vs
+  BASKET CLUB LIEVINOIS\n\nSALLE MICHEL COMONT\n📍 Rue René Helouis Port
+ -Jérôme-sur-Seine 76330\n🚗 Waze : https://waze.com/ul?ll=49.49316\,0.
+ 58087&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nm2/match/20000001459859
+ 9
+LOCATION:SALLE MICHEL COMONT\, Rue René Helouis Port-Jérôme-sur-Seine 76
+ 330
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598599
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-02-27-20-00-basket-club-lievinois-lille-metropole-bask
+ et-clubs@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – LILLE METROPOLE BASKET CLUBS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs LILLE MET
+ ROPOLE BASKET CLUBS\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62
+ 800\n🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm2/match/200000014598625
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598625
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-03-06-20-00-wasquehal-flash-b-1-basket-club-lievinois@
+ ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ WASQUEHAL FLASH B - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ WASQUEHAL FLASH B - 1 vs BASKET CL
+ UB LIEVINOIS\n\nsalle du Dojo\n📍 Rue du Molinel Wasquehal 59290\n🚗 W
+ aze : https://waze.com/ul?ll=50.67739\,3.1247&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm2/match/200000014598655
+LOCATION:salle du Dojo\, Rue du Molinel Wasquehal 59290
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598655
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-03-13-20-00-le-mans-jalt-1-basket-club-lievinois@ffbb-
+ agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ LE MANS JALT - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ LE MANS JALT - 1 vs BASKET CLUB LI
+ EVINOIS\n\nSALLE PATRICE FRESNAIS\n📍 Rue Louis Crétois Le Mans 72100\n
+ 🚗 Waze : https://waze.com/ul?ll=47.98505\,0.20765&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm2/match/200000014598683
+LOCATION:SALLE PATRICE FRESNAIS\, Rue Louis Crétois Le Mans 72100
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598683
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-03-27-20-00-basket-club-lievinois-roncq-u-s-1@ffbb-age
+ nda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – RONCQ U S - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs RONCQ U S
+  - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62800\n🚗 Waze 
+ : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nm2/match/200000014598712
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598712
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-04-03-20-00-vanves-gpso-basket-1-basket-club-lievinois
+ @ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ VANVES GPSO BASKET - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ VANVES GPSO BASKET - 1 vs BASKET C
+ LUB LIEVINOIS\n\nSALLE ANDRE ROCHE\n📍 Avenue du Docteur François Arnau
+ d Vanves 92170\n🚗 Waze : https://waze.com/ul?ll=48.81599\,2.27834&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm2/match/200000014598739
+LOCATION:SALLE ANDRE ROCHE\, Avenue du Docteur François Arnaud Vanves 9217
+ 0
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598739
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-04-17-20-00-basket-club-lievinois-courbevoie-sports-ba
+ sket-1@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 BASKET CLUB LIEVINOIS – COURBEVOIE SPORTS BASKET - 1
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ BASKET CLUB LIEVINOIS vs COURBEVOI
+ E SPORTS BASKET - 1\n\nHALLE JULES VEZILIER\n📍 Rue Descartes Liévin 62
+ 800\n🚗 Waze : https://waze.com/ul?ll=50.41465\,2.77143&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm2/match/200000014598764
+LOCATION:HALLE JULES VEZILIER\, Rue Descartes Liévin 62800
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598764
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-c-2027-05-01-20-00-olympique-grande-synthe-basket-1-basket-cl
+ ub-lievin@ffbb-agenda
+DTSTAMP:20260817T085552Z
+DTSTART;TZID=Europe/Paris:20270501T200000
+DTEND;TZID=Europe/Paris:20270501T220000
+SUMMARY:✈️ OLYMPIQUE GRANDE SYNTHE BASKET - 1 – BASKET CLUB LIEVINOIS
+DESCRIPTION:🏀 NM2 – Poule C\n⚔️ OLYMPIQUE GRANDE SYNTHE BASKET - 1
+  vs BASKET CLUB LIEVINOIS\n\nDUFOUR\n📍 Rue Claude Debussy Grande-Synthe
+  59760\n🚗 Waze : https://waze.com/ul?ll=51.01168\,2.28834&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm2/match/200000014598795
+LOCATION:DUFOUR\, Rue Claude Debussy Grande-Synthe 59760
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598795
+END:VEVENT
+END:VCALENDAR

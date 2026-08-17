@@ -1,0 +1,423 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MARSEILLE BASKETBALL  [NM2 –  – Poule A]
+X-WR-CALDESC:Matchs de MARSEILLE BASKETBALL – NM2 – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-09-05-20-30-beaujolais-basket-1-marseille-basketball@f
+ fbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20260905T203000
+DTEND;TZID=Europe/Paris:20260905T223000
+SUMMARY:✈️ BEAUJOLAIS BASKET - 1 – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ BEAUJOLAIS BASKET - 1 vs MARSEILLE
+  BASKETBALL\n\nSALLE DES SPORTS G. LAVARENNE\n📍 Ruelle de la Cure Quinc
+ ié-en-Beaujolais 69430\n🚗 Waze : https://waze.com/ul?ll=46.11797\,4.61
+ 649&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm2/match/200000014598080
+LOCATION:SALLE DES SPORTS G. LAVARENNE\, Ruelle de la Cure Quincié-en-Beau
+ jolais 69430
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598080
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-09-12-20-00-marseille-basketball-union-sportive-avigno
+ n-pontet-@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – UNION SPORTIVE AVIGNON/PONTET - 1
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs UNION SPOR
+ TIVE AVIGNON/PONTET - 1\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Lumi
+ ny Marseille 13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm2/match/200000014598109
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598109
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-09-19-20-00-agde-basket-1-marseille-basketball@ffbb-ag
+ enda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ AGDE BASKET - 1 – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ AGDE BASKET - 1 vs MARSEILLE BASKE
+ TBALL\n\nPALAIS DES SPORTS\n📍 Boulevard des Hellènes Agde 34300\n🚗 
+ Waze : https://waze.com/ul?ll=43.29908\,3.48309&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nm2/match/200000014598138
+LOCATION:PALAIS DES SPORTS\, Boulevard des Hellènes Agde 34300
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598138
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-09-26-20-00-marseille-basketball-uso-rognonaise@ffbb-a
+ genda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – USO ROGNONAISE
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs USO ROGNON
+ AISE\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy Marseille 13009\
+ n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm2/match/200000014598165
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598165
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-10-03-20-30-la-ravoire-challes-basket-1-marseille-bask
+ etball@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:✈️ LA RAVOIRE CHALLES BASKET - 1 – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ LA RAVOIRE CHALLES BASKET - 1 vs M
+ ARSEILLE BASKETBALL\n\nGymnase Municipal\n📍 Rue Richelieu La Ravoire 73
+ 490\n🚗 Waze : https://waze.com/ul?ll=45.55843\,5.96621&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm2/match/200000014598189
+LOCATION:Gymnase Municipal\, Rue Richelieu La Ravoire 73490
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598189
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-10-10-20-00-marseille-basketball-saint-vallier-basket-
+ drome-2@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – SAINT VALLIER BASKET DROME - 2
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs SAINT VALL
+ IER BASKET DROME - 2\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy 
+ Marseille 13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm2/match/200000014598221
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598221
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-10-17-20-00-le-cannet-cote-d-azur-basket-marseille-bas
+ ketball@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:✈️ LE CANNET COTE D'AZUR BASKET – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ LE CANNET COTE D'AZUR BASKET vs MA
+ RSEILLE BASKETBALL\n\nGYMNASE PRINCIPIANO\n📍 Avenue Maurice Jeanpierre 
+ Le Cannet 06110\n🚗 Waze : https://waze.com/ul?ll=43.57633\,7.00599&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm2/match/200000014598247
+LOCATION:GYMNASE PRINCIPIANO\, Avenue Maurice Jeanpierre Le Cannet 06110
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598247
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-10-31-20-00-marseille-basketball-grenoble-basket-38-1@
+ ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – GRENOBLE BASKET 38 - 1
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs GRENOBLE B
+ ASKET 38 - 1\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy Marseill
+ e 13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nm2/match/200000014598277
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598277
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-11-07-20-00-marseille-basketball-les-enfants-du-forez-
+ feurs-roz@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – LES ENFANTS DU FOREZ FEURS ROZIER - 1
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs LES ENFANT
+ S DU FOREZ FEURS ROZIER - 1\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de 
+ Luminy Marseille 13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.437
+ 99&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nm2/match/200000014598305
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598305
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-11-14-20-00-ouest-lyonnais-basket-marseille-basketball
+ @ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ OUEST LYONNAIS BASKET – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ OUEST LYONNAIS BASKET vs MARSEILLE
+  BASKETBALL\n\nCOMPLEXE SPORTIF MOULIN CARRON 1\n📍 Chemin du Moulin Car
+ ron Dardilly 69570\n🚗 Waze : https://waze.com/ul?ll=45.80758\,4.76353&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm2/match/200000014598334
+LOCATION:COMPLEXE SPORTIF MOULIN CARRON 1\, Chemin du Moulin Carron Dardill
+ y 69570
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598334
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-11-28-20-00-marseille-basketball-pontoise-ulr-basket-s
+ t-just-st@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – PONTOISE ULR BASKET ST JUST ST RAMBER
+ T
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs PONTOISE U
+ LR BASKET ST JUST ST RAMBERT\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de
+  Luminy Marseille 13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43
+ 799&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm2/match/200000014598361
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598361
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-12-05-20-00-venelles-basket-club-1-marseille-basketbal
+ l@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ VENELLES BASKET CLUB - 1 – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ VENELLES BASKET CLUB - 1 vs MARSEI
+ LLE BASKETBALL\n\nHALLE DES SPORTS NELSON MANDELA\n📍 Venelles 13770\n
+ 🚗 Waze : https://waze.com/ul?ll=43.59918\,5.48516&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm2/match/200000014598386
+LOCATION:HALLE DES SPORTS NELSON MANDELA\, Venelles 13770
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598386
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2026-12-12-20-00-marseille-basketball-ie-montpellier-basket
+ -mosson@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – IE - MONTPELLIER BASKET MOSSON
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs IE - MONTP
+ ELLIER BASKET MOSSON\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy 
+ Marseille 13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm2/match/200000014598417
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598417
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-01-02-20-00-marseille-basketball-beaujolais-basket-1@f
+ fbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – BEAUJOLAIS BASKET - 1
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs BEAUJOLAIS
+  BASKET - 1\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy Marseille
+  13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm2/match/200000014598444
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598444
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-01-09-20-00-union-sportive-avignon-pontet-1-marseille-
+ basketbal@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:✈️ UNION SPORTIVE AVIGNON/PONTET - 1 – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ UNION SPORTIVE AVIGNON/PONTET - 1 
+ vs MARSEILLE BASKETBALL\n\nCOSEC MORETTI ST CHAMAND\n📍 Avenue Elsa Trio
+ let Avignon 84000\n🚗 Waze : https://waze.com/ul?ll=43.93287\,4.84067&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm2/match/200000014598473
+LOCATION:COSEC MORETTI ST CHAMAND\, Avenue Elsa Triolet Avignon 84000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598473
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-01-16-20-00-marseille-basketball-agde-basket-1@ffbb-ag
+ enda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – AGDE BASKET - 1
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs AGDE BASKE
+ T - 1\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy Marseille 13009
+ \n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm2/match/200000014598502
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598502
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-01-30-20-00-uso-rognonaise-marseille-basketball@ffbb-a
+ genda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ USO ROGNONAISE – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ USO ROGNONAISE vs MARSEILLE BASKET
+ BALL\n\nGYMNASE MUNICIPAL NICOLAS CHABAU\n📍 Allée d'Oléon Rognonas 13
+ 870\n🚗 Waze : https://waze.com/ul?ll=43.8981\,4.80736&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm2/match/200000014598529
+LOCATION:GYMNASE MUNICIPAL NICOLAS CHABAU\, Allée d'Oléon Rognonas 13870
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598529
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-02-06-20-00-marseille-basketball-la-ravoire-challes-ba
+ sket-1@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – LA RAVOIRE CHALLES BASKET - 1
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs LA RAVOIRE
+  CHALLES BASKET - 1\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy M
+ arseille 13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm2/match/200000014598553
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598553
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-02-13-20-00-saint-vallier-basket-drome-2-marseille-bas
+ ketball@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ SAINT VALLIER BASKET DROME - 2 – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ SAINT VALLIER BASKET DROME - 2 vs 
+ MARSEILLE BASKETBALL\n\nLES DEUX RIVES 1\n📍 Rue Marcel Paul Saint-Valli
+ er 26240\n🚗 Waze : https://waze.com/ul?ll=45.19308\,4.81613&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm2/match/200000014598585
+LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598585
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-02-27-20-00-marseille-basketball-le-cannet-cote-d-azur
+ -basket@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – LE CANNET COTE D'AZUR BASKET
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs LE CANNET 
+ COTE D'AZUR BASKET\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy Ma
+ rseille 13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm2/match/200000014598611
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598611
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-03-06-20-00-grenoble-basket-38-1-marseille-basketball@
+ ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ GRENOBLE BASKET 38 - 1 – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ GRENOBLE BASKET 38 - 1 vs MARSEILL
+ E BASKETBALL\n\nCENTRE SPORTIF HOCHE\n📍 Rue François Raoult Grenoble 3
+ 8000\n🚗 Waze : https://waze.com/ul?ll=45.18593\,5.72637&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nm2/match/200000014598641
+LOCATION:CENTRE SPORTIF HOCHE\, Rue François Raoult Grenoble 38000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598641
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-03-13-20-00-les-enfants-du-forez-feurs-rozier-1-marsei
+ lle-baske@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ LES ENFANTS DU FOREZ FEURS ROZIER - 1 – MARSEILLE BASKETBA
+ LL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ LES ENFANTS DU FOREZ FEURS ROZIER 
+ - 1 vs MARSEILLE BASKETBALL\n\nFOREZIUM A.DELORME\n📍 Rue Beauverie Feur
+ s 42110\n🚗 Waze : https://waze.com/ul?ll=45.7468\,4.22682&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm2/match/200000014598669
+LOCATION:FOREZIUM A.DELORME\, Rue Beauverie Feurs 42110
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598669
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-03-27-20-00-marseille-basketball-ouest-lyonnais-basket
+ @ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – OUEST LYONNAIS BASKET
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs OUEST LYON
+ NAIS BASKET\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy Marseille
+  13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm2/match/200000014598698
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598698
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-04-03-20-00-pontoise-ulr-basket-st-just-st-rambert-mar
+ seille-ba@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ PONTOISE ULR BASKET ST JUST ST RAMBERT – MARSEILLE BASKETB
+ ALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ PONTOISE ULR BASKET ST JUST ST RAM
+ BERT vs MARSEILLE BASKETBALL\n\nSALLE DU JARDIN PUBLIC\n📍 Rue des Écol
+ es Saint-Just-Saint-Rambert 42170\n🚗 Waze : https://waze.com/ul?ll=45.5
+ 0455\,4.26419&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/200000
+ 014598725
+LOCATION:SALLE DU JARDIN PUBLIC\, Rue des Écoles Saint-Just-Saint-Rambert 
+ 42170
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598725
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-04-17-20-00-marseille-basketball-venelles-basket-club-
+ 1@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 MARSEILLE BASKETBALL – VENELLES BASKET CLUB - 1
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ MARSEILLE BASKETBALL vs VENELLES B
+ ASKET CLUB - 1\n\nTECHNO SPORT AIX MARSEILLE\n📍 Avenue de Luminy Marsei
+ lle 13009\n🚗 Waze : https://waze.com/ul?ll=43.23488\,5.43799&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm2/match/200000014598750
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598750
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-a-2027-05-01-20-00-ie-montpellier-basket-mosson-marseille-bas
+ ketball@ffbb-agenda
+DTSTAMP:20260817T085537Z
+DTSTART;TZID=Europe/Paris:20270501T200000
+DTEND;TZID=Europe/Paris:20270501T220000
+SUMMARY:✈️ IE - MONTPELLIER BASKET MOSSON – MARSEILLE BASKETBALL
+DESCRIPTION:🏀 NM2 – Poule A\n⚔️ IE - MONTPELLIER BASKET MOSSON vs 
+ MARSEILLE BASKETBALL\n\nPALAIS DES SPORTS\n📍 Rue de Gênes Montpellier 
+ 34080\n🚗 Waze : https://waze.com/ul?ll=43.63861\,3.81377&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nm2/match/200000014598781
+LOCATION:PALAIS DES SPORTS\, Rue de Gênes Montpellier 34080
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598781
+END:VEVENT
+END:VCALENDAR

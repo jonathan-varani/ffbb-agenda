@@ -1,0 +1,375 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – TEMPLEUVE L P  [NF2 –  – Poule D]
+X-WR-CALDESC:Matchs de TEMPLEUVE L P – NF2 – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-12-20-00-templeuve-l-p-esb-villeneuve-d-ascq-lille-
+ metropole@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:🏠 TEMPLEUVE L P – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPO
+ IR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs ESB VILLENEUVE D'
+ ASCQ LILLE METROPOLE - ESPOIR\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de R
+ oubaix Templeuve-en-Pévèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.
+ 52813\,3.1731&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000
+ 014601094
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601094
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-19-20-00-usm-saran-1-templeuve-l-p@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ USM SARAN - 1 – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs TEMPLEUVE L P\n\n
+ GYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗 Waze : https
+ ://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nf2/match/200000014601118
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601118
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-26-20-00-templeuve-l-p-dunkerque-malo-basket-club-1
+ @ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 TEMPLEUVE L P – DUNKERQUE MALO BASKET CLUB - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs DUNKERQUE MALO BA
+ SKET CLUB - 1\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve
+ -en-Pévèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf2/match/200000014601142
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601142
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-03-20-00-arras-pays-d-artois-basket-templeuve-l-p@f
+ fbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ ARRAS PAYS D'ARTOIS BASKET – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ARRAS PAYS D'ARTOIS BASKET vs TEMP
+ LEUVE L P\n\nCENTRE SPORTIF R. TETELIN\n📍 Boulevard du Général de Gau
+ lle Arras 62000\n🚗 Waze : https://waze.com/ul?ll=50.28452\,2.76413&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601166
+LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du Général de Gaulle Arras
+  62000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601166
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-10-20-00-templeuve-l-p-entente-le-chesnay-versaille
+ s-78-bask@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 TEMPLEUVE L P – ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs ENTENTE LE CHESNA
+ Y VERSAILLES 78 BASKET - 1\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roub
+ aix Templeuve-en-Pévèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.528
+ 13\,3.1731&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014
+ 601190
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601190
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-24-20-00-al-coquelles-basket-templeuve-l-p@ffbb-age
+ nda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:✈️ AL  COQUELLES BASKET – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs TEMPLEUVE 
+ L P\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 Parc de la Rouge Cambre Coquelles 
+ 62231\n🚗 Waze : https://waze.com/ul?ll=50.92861\,1.81009&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nf2/match/200000014601214
+LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
+ 31
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601214
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-31-20-00-templeuve-l-p-ie-asa-weyersheim-1@ffbb-age
+ nda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 TEMPLEUVE L P – IE - ASA WEYERSHEIM - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs IE - ASA WEYERSHE
+ IM - 1\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-en-Pé
+ vèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf2/match/200000014601233
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601233
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-07-20-00-csmf-paris-1-templeuve-l-p@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ CSMF PARIS - 1 – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ CSMF PARIS - 1 vs TEMPLEUVE L P\n\
+ nGymnase Victor Young Perez\n📍 Rue de Bercy Paris 75012\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.84715\,2.36911&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nf2/match/200000014601259
+LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601259
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-14-20-00-templeuve-l-p-flammes-carolo-basket-ardenn
+ es-espoir@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 TEMPLEUVE L P – FLAMMES CAROLO BASKET ARDENNES - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs FLAMMES CAROLO BA
+ SKET ARDENNES - ESPOIR\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix 
+ Templeuve-en-Pévèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,
+ 3.1731&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000146012
+ 83
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601283
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-28-20-00-avenir-sportif-d-orly-basket-templeuve-l-p
+ @ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:✈️ AVENIR SPORTIF D'ORLY BASKET – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs TE
+ MPLEUVE L P\n\nGYMNASE ROBERT DESNOS (COSOM)\n📍 Rue des Hautes Bornes O
+ rly 94310\n🚗 Waze : https://waze.com/ul?ll=48.74977\,2.40904&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf2/match/200000014601306
+LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601306
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-12-05-15-00-c-chartres-metropole-basket-feminin-espoir
+ -templeuv@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261205T150000
+DTEND;TZID=Europe/Paris:20261205T170000
+SUMMARY:✈️ C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – TEMPLEUVE L
+  P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES METROPOLE BASKET FEMINI
+ N - ESPOIR vs TEMPLEUVE L P\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet Cha
+ rtres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf2/match/200000014601331
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601331
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-09-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-temple@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270109T171500
+DTEND;TZID=Europe/Paris:20270109T191500
+SUMMARY:✈️ ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – TEMPLEUVE
+  L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs TEMPLEUVE L P\n\nC.S. PALACIUM\n📍 Rue Breughel Villeneu
+ ve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\,3.13464&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601358
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601358
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-16-20-00-templeuve-l-p-usm-saran-1@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 TEMPLEUVE L P – USM SARAN - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs USM SARAN - 1\n\n
+ SALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-en-Pévèle 5924
+ 2\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601382
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601382
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-30-20-00-dunkerque-malo-basket-club-1-templeuve-l-p
+ @ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ DUNKERQUE MALO BASKET CLUB - 1 – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
+ TEMPLEUVE L P\n\nMARC BURNOD\n📍 Rue Louis Braille Dunkerque 59140\n🚗
+  Waze : https://waze.com/ul?ll=51.0324\,2.3861&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nf2/match/200000014601406
+LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601406
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-06-20-00-templeuve-l-p-arras-pays-d-artois-basket@f
+ fbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 TEMPLEUVE L P – ARRAS PAYS D'ARTOIS BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs ARRAS PAYS D'ARTO
+ IS BASKET\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-en-
+ Pévèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nf2/match/200000014601430
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601430
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-13-20-00-entente-le-chesnay-versailles-78-basket-1-
+ templeuve@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – TEMPLEUVE L 
+ P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ENTENTE LE CHESNAY VERSAILLES 78 B
+ ASKET - 1 vs TEMPLEUVE L P\n\nGYMNASE BEL AIR\n📍 Avenue de la Bretèche
+  Le Chesnay-Rocquencourt 78150\n🚗 Waze : https://waze.com/ul?ll=48.8295
+ \,2.13173&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000146
+ 01454
+LOCATION:GYMNASE BEL AIR\, Avenue de la Bretèche Le Chesnay-Rocquencourt 7
+ 8150
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601454
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-27-20-00-templeuve-l-p-al-coquelles-basket@ffbb-age
+ nda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 TEMPLEUVE L P – AL  COQUELLES BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs AL  COQUELLES BAS
+ KET\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-en-Pévè
+ le 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf2/match/200000014601478
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601478
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-06-20-00-ie-asa-weyersheim-1-templeuve-l-p@ffbb-age
+ nda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ IE - ASA WEYERSHEIM - 1 – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs TEMPLEU
+ VE L P\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67720\n
+ 🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf2/match/200000014601497
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601497
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-13-20-00-templeuve-l-p-csmf-paris-1@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 TEMPLEUVE L P – CSMF PARIS - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs CSMF PARIS - 1\n\
+ nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-en-Pévèle 592
+ 42\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601523
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601523
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-27-17-15-flammes-carolo-basket-ardennes-espoir-temp
+ leuve-l-p@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270327T171500
+DTEND;TZID=Europe/Paris:20270327T191500
+SUMMARY:✈️ FLAMMES CAROLO BASKET ARDENNES - ESPOIR – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ FLAMMES CAROLO BASKET ARDENNES - E
+ SPOIR vs TEMPLEUVE L P\n\nSALLE BAYARD\n📍 Avenue Louis Tirman Charlevil
+ le-Mézières 08000\n🚗 Waze : https://waze.com/ul?ll=49.76225\,4.71403&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf2/match/200000014601547
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601547
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-04-10-20-00-templeuve-l-p-avenir-sportif-d-orly-basket
+ @ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 TEMPLEUVE L P – AVENIR SPORTIF D'ORLY BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs AVENIR SPORTIF D'
+ ORLY BASKET\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-e
+ n-Pévèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601570
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601570
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-04-17-20-00-templeuve-l-p-c-chartres-metropole-basket-
+ feminin-e@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 TEMPLEUVE L P – C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs C'CHARTRES METROP
+ OLE BASKET FEMININ - ESPOIR\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Rou
+ baix Templeuve-en-Pévèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.52
+ 813\,3.1731&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001
+ 4601595
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601595
+END:VEVENT
+END:VCALENDAR

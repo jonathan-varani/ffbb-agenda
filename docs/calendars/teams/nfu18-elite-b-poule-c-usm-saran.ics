@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – USM SARAN  [NFU18-ELITE-B –  – Poule C]
+X-WR-CALDESC:Matchs de USM SARAN – NFU18-ELITE-B – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-09-13-15-30-cote-d-opale-basket-calais-1-usm
+ -saran@ffbb-agenda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:✈️ COTE D'OPALE BASKET CALAIS - 1 – USM SARAN
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ COTE D'OPALE BASKET CALA
+ IS - 1 vs USM SARAN\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard Calais
+  62100\n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603054
+LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603054
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-09-20-15-30-usm-saran-coulaines-j-s-1@ffbb-a
+ genda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 USM SARAN – COULAINES J.S. - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ USM SARAN vs COULAINES J
+ .S. - 1\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗 W
+ aze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nfu18-elite-b/match/200000014603067
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603067
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-09-27-15-30-entente-le-chesnay-versailles-78
+ -basket-1@ffbb-agenda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – USM SARAN
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ ENTENTE LE CHESNAY VERSA
+ ILLES 78 BASKET - 1 vs USM SARAN\n\nGYMNASE BEL AIR\n📍 Avenue de la Bre
+ tèche Le Chesnay-Rocquencourt 78150\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.8295\,2.13173&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu18-elite
+ -b/match/200000014603080
+LOCATION:GYMNASE BEL AIR\, Avenue de la Bretèche Le Chesnay-Rocquencourt 7
+ 8150
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603080
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-10-04-15-30-usm-saran-ie-gco-bihorel-1@ffbb-
+ agenda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 USM SARAN – IE - GCO BIHOREL - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ USM SARAN vs IE - GCO BI
+ HOREL - 1\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗
+  Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nfu18-elite-b/match/200000014603091
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603091
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-10-11-15-30-usm-saran-ie-rueil-athletic-club
+ @ffbb-agenda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 USM SARAN – IE - RUEIL ATHLETIC CLUB
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ USM SARAN vs IE - RUEIL 
+ ATHLETIC CLUB\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n
+ 🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nfu18-elite-b/match/200000014603103
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603103
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-11-01-15-30-usm-saran-cote-d-opale-basket-ca
+ lais-1@ffbb-agenda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 USM SARAN – COTE D'OPALE BASKET CALAIS - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ USM SARAN vs COTE D'OPAL
+ E BASKET CALAIS - 1\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 4
+ 5770\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nfu18-elite-b/match/200000014603114
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603114
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-11-08-13-15-coulaines-j-s-1-usm-saran@ffbb-a
+ genda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:✈️ COULAINES J.S. - 1 – USM SARAN
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ COULAINES J.S. - 1 vs US
+ M SARAN\n\nGYMNASE MARIUS GUILLOTIN\n📍 Place de la Gironde Coulaines 72
+ 190\n🚗 Waze : https://waze.com/ul?ll=48.02532\,0.2056&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nfu18-elite-b/match/200000014603127
+LOCATION:GYMNASE MARIUS GUILLOTIN\, Place de la Gironde Coulaines 72190
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603127
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-11-15-15-30-usm-saran-entente-le-chesnay-ver
+ sailles-7@ffbb-agenda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 USM SARAN – ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ USM SARAN vs ENTENTE LE 
+ CHESNAY VERSAILLES 78 BASKET - 1\n\nGYMNASE GUY VERGRACHT\n📍 Rue George
+  Sand Saran 45770\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603
+ 140
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603140
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-11-29-15-30-ie-gco-bihorel-1-usm-saran@ffbb-
+ agenda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ IE - GCO BIHOREL - 1 – USM SARAN
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ IE - GCO BIHOREL - 1 vs 
+ USM SARAN\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue de Verdun Bihorel 76420\n
+ 🚗 Waze : https://waze.com/ul?ll=49.45894\,1.12203&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nfu18-elite-b/match/200000014603151
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue de Verdun Bihorel 76420
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603151
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-12-06-15-30-ie-rueil-athletic-club-usm-saran
+ @ffbb-agenda
+DTSTAMP:20260817T085043Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ IE - RUEIL ATHLETIC CLUB – USM SARAN
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ IE - RUEIL ATHLETIC CLUB
+  vs USM SARAN\n\nGYMNASE JEAN DAME\n📍 Rue Prudent Néel Rueil-Malmaison
+  92500\n🚗 Waze : https://waze.com/ul?ll=48.88239\,2.18374&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603163
+LOCATION:GYMNASE JEAN DAME\, Rue Prudent Néel Rueil-Malmaison 92500
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603163
+END:VEVENT
+END:VCALENDAR

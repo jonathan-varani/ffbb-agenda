@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC VANNES AGGLOMERATION 56  [NFU18-ELITE-B –  – Poule B]
+X-WR-CALDESC:Matchs de IE - CTC VANNES AGGLOMERATION 56 – NFU18-ELITE-B – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-09-13-15-30-as-tournefeuille-ie-ctc-vannes-a
+ gglomerat@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:✈️ AS TOURNEFEUILLE – IE - CTC VANNES AGGLOMERATION 56
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ AS TOURNEFEUILLE vs IE -
+  CTC VANNES AGGLOMERATION 56\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre La
+ bitrie Tournefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1
+ .32654&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nfu18-elite-b/match/200
+ 000014603052
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603052
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-09-20-15-30-ie-ctc-vannes-agglomeration-56-i
+ e-les-fre@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 IE - CTC VANNES AGGLOMERATION 56 – IE - LES FRECHETS BC ST N
+ AZAIRE - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ IE - CTC VANNES AGGLOMER
+ ATION 56 vs IE - LES FRECHETS BC ST NAZAIRE - 1\n\nJO LE DREVO\n📍 Rue d
+ es Droits de l'Homme Saint-Avé 56890\n🚗 Waze : https://waze.com/ul?ll=
+ 47.69143\,-2.74106&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu18-elite
+ -b/match/200000014603063
+LOCATION:JO LE DREVO\, Rue des Droits de l'Homme Saint-Avé 56890
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603063
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-09-27-15-30-ie-ctc-vannes-agglomeration-56-s
+ tade-roch@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 IE - CTC VANNES AGGLOMERATION 56 – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ IE - CTC VANNES AGGLOMER
+ ATION 56 vs STADE ROCHELAIS BASKET\n\nJO LE DREVO\n📍 Rue des Droits de 
+ l'Homme Saint-Avé 56890\n🚗 Waze : https://waze.com/ul?ll=47.69143\,-2.
+ 74106&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nfu18-elite-b/match/2000
+ 00014603077
+LOCATION:JO LE DREVO\, Rue des Droits de l'Homme Saint-Avé 56890
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603077
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-10-04-15-30-cholet-basket-ie-ctc-vannes-aggl
+ omeration@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ CHOLET BASKET – IE - CTC VANNES AGGLOMERATION 56
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ CHOLET BASKET vs IE - CT
+ C VANNES AGGLOMERATION 56\n\nSALLE JOACHIM DU BELLAY\n📍 Square de Liré
+  Cholet 49300\n🚗 Waze : https://waze.com/ul?ll=47.04062\,-0.88702&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603089
+LOCATION:SALLE JOACHIM DU BELLAY\, Square de Liré Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603089
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-10-11-15-30-ie-ctc-vannes-agglomeration-56-f
+ eytiat-ba@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 IE - CTC VANNES AGGLOMERATION 56 – FEYTIAT BASKET 87
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ IE - CTC VANNES AGGLOMER
+ ATION 56 vs FEYTIAT BASKET 87\n\nJO LE DREVO\n📍 Rue des Droits de l'Hom
+ me Saint-Avé 56890\n🚗 Waze : https://waze.com/ul?ll=47.69143\,-2.74106
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nfu18-elite-b/match/200000014
+ 603101
+LOCATION:JO LE DREVO\, Rue des Droits de l'Homme Saint-Avé 56890
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603101
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-11-01-15-30-ie-ctc-vannes-agglomeration-56-a
+ s-tournef@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 IE - CTC VANNES AGGLOMERATION 56 – AS TOURNEFEUILLE
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ IE - CTC VANNES AGGLOMER
+ ATION 56 vs AS TOURNEFEUILLE\n\nJO LE DREVO\n📍 Rue des Droits de l'Homm
+ e Saint-Avé 56890\n🚗 Waze : https://waze.com/ul?ll=47.69143\,-2.74106&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nfu18-elite-b/match/2000000146
+ 03112
+LOCATION:JO LE DREVO\, Rue des Droits de l'Homme Saint-Avé 56890
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603112
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-11-08-15-30-ie-les-frechets-bc-st-nazaire-1-
+ ie-ctc-va@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ IE - LES FRECHETS BC ST NAZAIRE - 1 – IE - CTC VANNES AGGL
+ OMERATION 56
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ IE - LES FRECHETS BC ST 
+ NAZAIRE - 1 vs IE - CTC VANNES AGGLOMERATION 56\n\nGYMNASE DE LA BOULETTER
+ IE\n📍 Allée Anita Conti Saint-Nazaire 44600\n🚗 Waze : https://waze.
+ com/ul?ll=47.25969\,-2.25672&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
+ fu18-elite-b/match/200000014603123
+LOCATION:GYMNASE DE LA BOULETTERIE\, Allée Anita Conti Saint-Nazaire 44600
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603123
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-11-15-15-30-stade-rochelais-basket-ie-ctc-va
+ nnes-aggl@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ STADE ROCHELAIS BASKET – IE - CTC VANNES AGGLOMERATION 56
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ STADE ROCHELAIS BASKET v
+ s IE - CTC VANNES AGGLOMERATION 56\n\nSALLE GASTON NEVEUR\n📍 Chemin des
+  Remparts La Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,
+ -1.15366&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nfu18-elite-b/match/2
+ 00000014603137
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603137
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-11-29-15-30-ie-ctc-vannes-agglomeration-56-c
+ holet-bas@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 IE - CTC VANNES AGGLOMERATION 56 – CHOLET BASKET
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ IE - CTC VANNES AGGLOMER
+ ATION 56 vs CHOLET BASKET\n\nJO LE DREVO\n📍 Rue des Droits de l'Homme S
+ aint-Avé 56890\n🚗 Waze : https://waze.com/ul?ll=47.69143\,-2.74106&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nfu18-elite-b/match/2000000146031
+ 49
+LOCATION:JO LE DREVO\, Rue des Droits de l'Homme Saint-Avé 56890
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603149
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-12-06-15-30-feytiat-basket-87-ie-ctc-vannes-
+ agglomera@ffbb-agenda
+DTSTAMP:20260817T085034Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ FEYTIAT BASKET 87 – IE - CTC VANNES AGGLOMERATION 56
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ FEYTIAT BASKET 87 vs IE 
+ - CTC VANNES AGGLOMERATION 56\n\nSALLE ROGER COUDERC\n📍 Rue du Manège 
+ Feytiat 87220\n🚗 Waze : https://waze.com/ul?ll=45.80542\,1.32598&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603161
+LOCATION:SALLE ROGER COUDERC\, Rue du Manège Feytiat 87220
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603161
+END:VEVENT
+END:VCALENDAR

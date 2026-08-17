@@ -1,0 +1,398 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR  [NF2 –  – Poule D]
+X-WR-CALDESC:Matchs de ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – NF2 – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-12-20-00-templeuve-l-p-esb-villeneuve-d-ascq-lille-
+ metropole@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ TEMPLEUVE L P – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ES
+ POIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs ESB VILLENEUVE D'
+ ASCQ LILLE METROPOLE - ESPOIR\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de R
+ oubaix Templeuve-en-Pévèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.
+ 52813\,3.1731&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000
+ 014601094
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601094
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-19-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-flamme@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20260919T171500
+DTEND;TZID=Europe/Paris:20260919T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – FLAMMES CAR
+ OLO BASKET ARDENNES - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs FLAMMES CAROLO BASKET ARDENNES - ESPOIR\n\nC.S. PALACIUM\n
+ 📍 Rue Breughel Villeneuve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul
+ ?ll=50.62617\,3.13464&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/matc
+ h/200000014601117
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601117
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-26-15-00-c-chartres-metropole-basket-feminin-espoir
+ -esb-vill@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:✈️ C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – ESB VILLENE
+ UVE D'ASCQ LILLE METROPOLE - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES METROPOLE BASKET FEMINI
+ N - ESPOIR vs ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nHALLE JEAN
+  COCHET\n📍 Rue Jean Monnet Chartres 28000\n🚗 Waze : https://waze.com
+ /ul?ll=48.45027\,1.50442&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/m
+ atch/200000014601140
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601140
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-03-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-csmf-p@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261003T171500
+DTEND;TZID=Europe/Paris:20261003T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – CSMF PARIS 
+ - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs CSMF PARIS - 1\n\nC.S. PALACIUM\n📍 Rue Breughel Villene
+ uve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\,3.13464&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf2/match/200000014601163
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601163
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-10-20-00-avenir-sportif-d-orly-basket-esb-villeneuv
+ e-d-ascq-@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ AVENIR SPORTIF D'ORLY BASKET – ESB VILLENEUVE D'ASCQ LILLE
+  METROPOLE - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs ES
+ B VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nGYMNASE ROBERT DESNOS (COS
+ OM)\n📍 Rue des Hautes Bornes Orly 94310\n🚗 Waze : https://waze.com/u
+ l?ll=48.74977\,2.40904&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/mat
+ ch/200000014601186
+LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601186
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-24-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-ie-asa@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261024T171500
+DTEND;TZID=Europe/Paris:20261024T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – IE - ASA WE
+ YERSHEIM - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs IE - ASA WEYERSHEIM - 1\n\nC.S. PALACIUM\n📍 Rue Breughe
+ l Villeneuve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\,3.
+ 13464&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460120
+ 9
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601209
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-31-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-usm-sa@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261031T171500
+DTEND;TZID=Europe/Paris:20261031T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – USM SARAN -
+  1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs USM SARAN - 1\n\nC.S. PALACIUM\n📍 Rue Breughel Villeneu
+ ve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\,3.13464&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601236
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601236
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-07-20-00-arras-pays-d-artois-basket-esb-villeneuve-
+ d-ascq-li@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ ARRAS PAYS D'ARTOIS BASKET – ESB VILLENEUVE D'ASCQ LILLE M
+ ETROPOLE - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ARRAS PAYS D'ARTOIS BASKET vs ESB 
+ VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nCENTRE SPORTIF R. TETELIN\n
+ 📍 Boulevard du Général de Gaulle Arras 62000\n🚗 Waze : https://waz
+ e.com/ul?ll=50.28452\,2.76413&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/
+ nf2/match/200000014601262
+LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du Général de Gaulle Arras
+  62000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601262
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-14-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-al-coq@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261114T171500
+DTEND;TZID=Europe/Paris:20261114T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – AL  COQUELL
+ ES BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs AL  COQUELLES BASKET\n\nC.S. PALACIUM\n📍 Rue Breughel V
+ illeneuve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\,3.134
+ 64&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf2/match/200000014601286
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601286
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-28-20-00-dunkerque-malo-basket-club-1-esb-villeneuv
+ e-d-ascq-@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:✈️ DUNKERQUE MALO BASKET CLUB - 1 – ESB VILLENEUVE D'ASCQ LIL
+ LE METROPOLE - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
+ ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nMARC BURNOD\n📍 Rue Lo
+ uis Braille Dunkerque 59140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2
+ .3861&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460130
+ 9
+LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601309
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-12-05-20-00-entente-le-chesnay-versailles-78-basket-1-
+ esb-ville@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – ESB VILLENEU
+ VE D'ASCQ LILLE METROPOLE - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ENTENTE LE CHESNAY VERSAILLES 78 B
+ ASKET - 1 vs ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nGYMNASE BEL
+  AIR\n📍 Avenue de la Bretèche Le Chesnay-Rocquencourt 78150\n🚗 Waze
+  : https://waze.com/ul?ll=48.8295\,2.13173&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nf2/match/200000014601334
+LOCATION:GYMNASE BEL AIR\, Avenue de la Bretèche Le Chesnay-Rocquencourt 7
+ 8150
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601334
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-09-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-temple@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270109T171500
+DTEND;TZID=Europe/Paris:20270109T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – TEMPLEUVE L
+  P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs TEMPLEUVE L P\n\nC.S. PALACIUM\n📍 Rue Breughel Villeneu
+ ve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\,3.13464&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601358
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601358
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-16-17-15-flammes-carolo-basket-ardennes-espoir-esb-
+ villeneuv@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270116T171500
+DTEND;TZID=Europe/Paris:20270116T191500
+SUMMARY:✈️ FLAMMES CAROLO BASKET ARDENNES - ESPOIR – ESB VILLENEUVE D
+ 'ASCQ LILLE METROPOLE - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ FLAMMES CAROLO BASKET ARDENNES - E
+ SPOIR vs ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nSALLE BAYARD\n
+ 📍 Avenue Louis Tirman Charleville-Mézières 08000\n🚗 Waze : https:/
+ /waze.com/ul?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nf2/match/200000014601381
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601381
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-30-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-c-char@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270130T171500
+DTEND;TZID=Europe/Paris:20270130T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – C'CHARTRES 
+ METROPOLE BASKET FEMININ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR\n\nC.S. PALAC
+ IUM\n📍 Rue Breughel Villeneuve-d'Ascq 59650\n🚗 Waze : https://waze.c
+ om/ul?ll=50.62617\,3.13464&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2
+ /match/200000014601404
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601404
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-06-20-00-csmf-paris-1-esb-villeneuve-d-ascq-lille-m
+ etropole-@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ CSMF PARIS - 1 – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - E
+ SPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ CSMF PARIS - 1 vs ESB VILLENEUVE D
+ 'ASCQ LILLE METROPOLE - ESPOIR\n\nGymnase Victor Young Perez\n📍 Rue de 
+ Bercy Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.84715\,2.36911&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf2/match/200000014601427
+LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601427
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-13-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-avenir@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270213T171500
+DTEND;TZID=Europe/Paris:20270213T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – AVENIR SPOR
+ TIF D'ORLY BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs AVENIR SPORTIF D'ORLY BASKET\n\nC.S. PALACIUM\n📍 Rue Br
+ eughel Villeneuve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.6261
+ 7\,3.13464&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014
+ 601450
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601450
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-27-20-00-ie-asa-weyersheim-1-esb-villeneuve-d-ascq-
+ lille-met@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ IE - ASA WEYERSHEIM - 1 – ESB VILLENEUVE D'ASCQ LILLE METR
+ OPOLE - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs ESB VIL
+ LENEUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nESPACE W - Salle JUPITER\n📍 
+ Rue des Prés Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.7146
+ 4\,7.80788&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014
+ 601473
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601473
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-06-20-00-usm-saran-1-esb-villeneuve-d-ascq-lille-me
+ tropole-e@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ USM SARAN - 1 – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ES
+ POIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs ESB VILLENEUVE D'
+ ASCQ LILLE METROPOLE - ESPOIR\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sa
+ nd Saran 45770\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf2/match/200000014601500
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601500
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-13-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-arras-@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270313T171500
+DTEND;TZID=Europe/Paris:20270313T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – ARRAS PAYS 
+ D'ARTOIS BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs ARRAS PAYS D'ARTOIS BASKET\n\nC.S. PALACIUM\n📍 Rue Breu
+ ghel Villeneuve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\
+ ,3.13464&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460
+ 1526
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601526
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-27-20-00-al-coquelles-basket-esb-villeneuve-d-ascq-
+ lille-met@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:✈️ AL  COQUELLES BASKET – ESB VILLENEUVE D'ASCQ LILLE METROPO
+ LE - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs ESB VILLEN
+ EUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 P
+ arc de la Rouge Cambre Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll
+ =50.92861\,1.81009&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
+ 00000014601550
+LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
+ 31
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601550
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-04-10-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-dunker@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270410T171500
+DTEND;TZID=Europe/Paris:20270410T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – DUNKERQUE M
+ ALO BASKET CLUB - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs DUNKERQUE MALO BASKET CLUB - 1\n\nC.S. PALACIUM\n📍 Rue 
+ Breughel Villeneuve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62
+ 617\,3.13464&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000
+ 14601573
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601573
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-04-17-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-entent@ffbb-agenda
+DTSTAMP:20260817T084716Z
+DTSTART;TZID=Europe/Paris:20270417T171500
+DTEND;TZID=Europe/Paris:20270417T191500
+SUMMARY:🏠 ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – ENTENTE LE 
+ CHESNAY VERSAILLES 78 BASKET - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1\n\nC.S. PALACI
+ UM\n📍 Rue Breughel Villeneuve-d'Ascq 59650\n🚗 Waze : https://waze.co
+ m/ul?ll=50.62617\,3.13464&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/
+ match/200000014601598
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601598
+END:VEVENT
+END:VCALENDAR

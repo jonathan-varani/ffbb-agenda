@@ -1,0 +1,389 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – TOULOUSE METROPOLE BASKET SAS - ESPOIR  [NF2 –  – Poule B]
+X-WR-CALDESC:Matchs de TOULOUSE METROPOLE BASKET SAS - ESPOIR – NF2 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-12-20-00-ie-etoile-sportive-gimontoise-bb-toulouse-
+ metropole@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ IE - ETOILE SPORTIVE GIMONTOISE BB – TOULOUSE METROPOLE BA
+ SKET SAS - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ IE - ETOILE SPORTIVE GIMONTOISE BB
+  vs TOULOUSE METROPOLE BASKET SAS - ESPOIR\n\nGYMNASE EN PETRE\n📍 Route
+  de Saramon Gimont 32200\n🚗 Waze : https://waze.com/ul?ll=43.6294\,0.86
+ 519&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf2/match/200000014601081
+LOCATION:GYMNASE EN PETRE\, Route de Saramon Gimont 32200
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601081
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-19-17-15-toulouse-metropole-basket-sas-espoir-angle
+ t-cote-ba@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260919T171500
+DTEND;TZID=Europe/Paris:20260919T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – ANGLET COTE BASQUE 
+ BASKET - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs ANGLET COTE BASQUE BASKET - 1\n\nGYMNASE COMPANS CAFFARELLI\n📍 
+ Rue Pierre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6
+ 127\,1.43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000
+ 14601104
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601104
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-26-20-00-bordeaux-etudiants-club-toulouse-metropole
+ -basket-s@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ BORDEAUX ETUDIANTS CLUB – TOULOUSE METROPOLE BASKET SAS - 
+ ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs TOULOUS
+ E METROPOLE BASKET SAS - ESPOIR\n\nGYMNASE BARBEY\n📍 Cours Barbey Borde
+ aux 33800\n🚗 Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf2/match/200000014601127
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601127
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-03-16-00-toulouse-metropole-basket-sas-espoir-blma-
+ espoir@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – BLMA - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs BLMA - ESPOIR\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue Pierre Lapla
+ ce Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127\,1.43452&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf2/match/200000014601150
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601150
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-10-17-15-basket-landes-sasp-espoir-toulouse-metropo
+ le-basket@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261010T171500
+DTEND;TZID=Europe/Paris:20261010T191500
+SUMMARY:✈️ BASKET LANDES SASP - ESPOIR – TOULOUSE METROPOLE BASKET SA
+ S - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BASKET LANDES SASP - ESPOIR vs TOU
+ LOUSE METROPOLE BASKET SAS - ESPOIR\n\nESPACE F. MITTERRAND\n📍 Rue de l
+ a Ferme du Conte Mont-de-Marsan 40000\n🚗 Waze : https://waze.com/ul?ll=
+ 43.89754\,-0.46468&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
+ 00000014601173
+LOCATION:ESPACE F. MITTERRAND\, Rue de la Ferme du Conte Mont-de-Marsan 400
+ 00
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601173
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-24-17-15-toulouse-metropole-basket-sas-espoir-garon
+ ne-avenir@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261024T171500
+DTEND;TZID=Europe/Paris:20261024T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – GARONNE AVENIR BASK
+ ET DU MARMANDAIS
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs GARONNE AVENIR BASKET DU MARMANDAIS\n\nGYMNASE COMPANS CAFFARELLI\
+ n📍 Rue Pierre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?l
+ l=43.6127\,1.43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
+ 00000014601202
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601202
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-31-17-15-toulouse-metropole-basket-sas-espoir-stade
+ -rochelai@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261031T171500
+DTEND;TZID=Europe/Paris:20261031T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – STADE ROCHELAIS BAS
+ KET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs STADE ROCHELAIS BASKET\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue Pie
+ rre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127\,1.
+ 43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460122
+ 5
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601225
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-07-20-00-us-orthez-basket-toulouse-metropole-basket
+ -sas-espo@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ US ORTHEZ BASKET – TOULOUSE METROPOLE BASKET SAS - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ US ORTHEZ BASKET vs TOULOUSE METRO
+ POLE BASKET SAS - ESPOIR\n\nSALLE P. SEILLANT\n📍 Boulevard Charles de G
+ aulle Orthez 64300\n🚗 Waze : https://waze.com/ul?ll=43.48636\,-0.75921&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf2/match/200000014601248
+LOCATION:SALLE P. SEILLANT\, Boulevard Charles de Gaulle Orthez 64300
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601248
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-14-20-00-as-tournefeuille-1-toulouse-metropole-bask
+ et-sas-es@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ AS TOURNEFEUILLE - 1 – TOULOUSE METROPOLE BASKET SAS - ESP
+ OIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs TOULOUSE M
+ ETROPOLE BASKET SAS - ESPOIR\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre La
+ bitrie Tournefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1
+ .32654&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000146012
+ 74
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601274
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-28-17-15-toulouse-metropole-basket-sas-espoir-aveni
+ r-basket-@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261128T171500
+DTEND;TZID=Europe/Paris:20261128T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – AVENIR BASKET CHALO
+ SSE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs AVENIR BASKET CHALOSSE - 1\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue
+  Pierre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127
+ \,1.43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000146
+ 01298
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601298
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-12-05-17-00-ie-as-st-delphin-2-toulouse-metropole-bask
+ et-sas-es@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261205T170000
+DTEND;TZID=Europe/Paris:20261205T190000
+SUMMARY:✈️ IE - AS ST DELPHIN - 2 – TOULOUSE METROPOLE BASKET SAS - E
+ SPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ IE - AS ST DELPHIN - 2 vs TOULOUSE
+  METROPOLE BASKET SAS - ESPOIR\n\nCOMPLEXE SP. ELISABETH RIFFIOD\n📍 Che
+ min de Leysotte Villenave-d'Ornon 33140\n🚗 Waze : https://waze.com/ul?l
+ l=44.79429\,-0.58076&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match
+ /200000014601321
+LOCATION:COMPLEXE SP. ELISABETH RIFFIOD\, Chemin de Leysotte Villenave-d'Or
+ non 33140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601321
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-09-17-15-toulouse-metropole-basket-sas-espoir-ie-et
+ oile-spor@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270109T171500
+DTEND;TZID=Europe/Paris:20270109T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – IE - ETOILE SPORTIV
+ E GIMONTOISE BB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs IE - ETOILE SPORTIVE GIMONTOISE BB\n\nGYMNASE COMPANS CAFFARELLI\n
+ 📍 Rue Pierre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll
+ =43.6127\,1.43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
+ 00000014601345
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601345
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-16-20-00-anglet-cote-basque-basket-1-toulouse-metro
+ pole-bask@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:✈️ ANGLET COTE BASQUE BASKET - 1 – TOULOUSE METROPOLE BASKET 
+ SAS - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ ANGLET COTE BASQUE BASKET - 1 vs T
+ OULOUSE METROPOLE BASKET SAS - ESPOIR\n\nC.SP. EL HOGAR\n📍 Rue de Hausq
+ uette Anglet 64600\n🚗 Waze : https://waze.com/ul?ll=43.49495\,-1.50988&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf2/match/200000014601368
+LOCATION:C.SP. EL HOGAR\, Rue de Hausquette Anglet 64600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601368
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-30-17-15-toulouse-metropole-basket-sas-espoir-borde
+ aux-etudi@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270130T171500
+DTEND;TZID=Europe/Paris:20270130T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – BORDEAUX ETUDIANTS 
+ CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs BORDEAUX ETUDIANTS CLUB\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue Pi
+ erre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127\,1
+ .43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000146013
+ 91
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601391
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-06-17-15-blma-espoir-toulouse-metropole-basket-sas-
+ espoir@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270206T171500
+DTEND;TZID=Europe/Paris:20270206T191500
+SUMMARY:✈️ BLMA - ESPOIR – TOULOUSE METROPOLE BASKET SAS - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BLMA - ESPOIR vs TOULOUSE METROPOL
+ E BASKET SAS - ESPOIR\n\nPALAIS DES SPORTS\n📍 Rue des Jonquilles Lattes
+  34970\n🚗 Waze : https://waze.com/ul?ll=43.57016\,3.90224&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf2/match/200000014601414
+LOCATION:PALAIS DES SPORTS\, Rue des Jonquilles Lattes 34970
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601414
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-13-17-15-toulouse-metropole-basket-sas-espoir-baske
+ t-landes-@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270213T171500
+DTEND;TZID=Europe/Paris:20270213T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – BASKET LANDES SASP 
+ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs BASKET LANDES SASP - ESPOIR\n\nGYMNASE COMPANS CAFFARELLI\n📍 Ru
+ e Pierre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.612
+ 7\,1.43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014
+ 601437
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601437
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-27-20-00-garonne-avenir-basket-du-marmandais-toulou
+ se-metrop@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ GARONNE AVENIR BASKET DU MARMANDAIS – TOULOUSE METROPOLE B
+ ASKET SAS - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ GARONNE AVENIR BASKET DU MARMANDAI
+ S vs TOULOUSE METROPOLE BASKET SAS - ESPOIR\n\nSALLE DES SPORTS\n📍 Chem
+ in de Ronde de Sillac Meilhan-sur-Garonne 47180\n🚗 Waze : https://waze.
+ com/ul?ll=44.52256\,0.03386&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf
+ 2/match/200000014601466
+LOCATION:SALLE DES SPORTS\, Chemin de Ronde de Sillac Meilhan-sur-Garonne 4
+ 7180
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601466
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-06-20-00-stade-rochelais-basket-toulouse-metropole-
+ basket-sa@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ STADE ROCHELAIS BASKET – TOULOUSE METROPOLE BASKET SAS - E
+ SPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs TOULOUSE
+  METROPOLE BASKET SAS - ESPOIR\n\nSALLE GASTON NEVEUR\n📍 Chemin des Rem
+ parts La Rochelle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.1
+ 5366&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nf2/match/200000014601489
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601489
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-13-17-15-toulouse-metropole-basket-sas-espoir-us-or
+ thez-bask@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270313T171500
+DTEND;TZID=Europe/Paris:20270313T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – US ORTHEZ BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs US ORTHEZ BASKET\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue Pierre La
+ place Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127\,1.43452&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf2/match/200000014601512
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601512
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-27-17-15-toulouse-metropole-basket-sas-espoir-as-to
+ urnefeuil@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270327T171500
+DTEND;TZID=Europe/Paris:20270327T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – AS TOURNEFEUILLE - 
+ 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs AS TOURNEFEUILLE - 1\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue Pierr
+ e Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127\,1.43
+ 452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf2/match/200000014601538
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601538
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-04-10-20-00-avenir-basket-chalosse-1-toulouse-metropol
+ e-basket-@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:✈️ AVENIR BASKET CHALOSSE - 1 – TOULOUSE METROPOLE BASKET SAS
+  - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AVENIR BASKET CHALOSSE - 1 vs TOUL
+ OUSE METROPOLE BASKET SAS - ESPOIR\n\nSALLE DE DONZACQ\n📍 Rue de la Cha
+ losse Donzacq 40360\n🚗 Waze : https://waze.com/ul?ll=43.6588\,-0.80354&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf2/match/200000014601562
+LOCATION:SALLE DE DONZACQ\, Rue de la Chalosse Donzacq 40360
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601562
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-04-17-17-15-toulouse-metropole-basket-sas-espoir-ie-as
+ -st-delph@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270417T171500
+DTEND;TZID=Europe/Paris:20270417T191500
+SUMMARY:🏠 TOULOUSE METROPOLE BASKET SAS - ESPOIR – IE - AS ST DELPHIN 
+ - 2
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs IE - AS ST DELPHIN - 2\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue Pie
+ rre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127\,1.
+ 43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460158
+ 5
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601585
+END:VEVENT
+END:VCALENDAR

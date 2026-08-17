@@ -1,0 +1,524 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NMU18-ELITE – Poule C
+X-WR-CALDESC:Tous les matchs NMU18-ELITE – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-13-15-30-elan-bearnais-pau-lacq-orthez-ie-c
+ tc-avenir@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:ELAN BEARNAIS PAU LACQ ORTHEZ – IE - CTC AVENIR TOULOUSE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU LACQ ORT
+ HEZ vs IE - CTC AVENIR TOULOUSE BASKET\n\nC. DE FORM\n📍 Avenue Pierre M
+ assé Pau 64000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603176
+LOCATION:C. DE FORM\, Avenue Pierre Massé Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03176
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-13-15-30-limoges-csp-sasp-boulazac-basket-d
+ ordogne@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:LIMOGES CSP (SASP) – BOULAZAC BASKET DORDOGNE
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ LIMOGES CSP (SASP) vs BOUL
+ AZAC BASKET DORDOGNE\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges 
+ 87100\n🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu18-elite/match/200000014603175
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03175
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-13-15-30-ie-ctc-grand-dax-basket-jsa-bordea
+ ux-basket@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:IE - CTC GRAND DAX BASKET – JSA BORDEAUX BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs JSA BORDEAUX BASKET - 1\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Sau
+ gnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.992
+ 41&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014
+ 603174
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03174
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-20-15-30-jsa-bordeaux-basket-1-elan-bearnai
+ s-pau-lac@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:JSA BORDEAUX BASKET - 1 – ELAN BEARNAIS PAU LACQ ORTHEZ
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ JSA BORDEAUX BASKET - 1 vs
+  ELAN BEARNAIS PAU LACQ ORTHEZ\n\nSALLE DES PEUPLIERS\n📍 Allée des Peu
+ pliers Bordeaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.83177\,-0.610
+ 82&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014
+ 603205
+LOCATION:SALLE DES PEUPLIERS\, Allée des Peupliers Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03205
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-20-15-30-boulazac-basket-dordogne-ie-ctc-gr
+ and-dax-b@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:BOULAZAC BASKET DORDOGNE – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ BOULAZAC BASKET DORDOGNE v
+ s IE - CTC GRAND DAX BASKET\n\nCOMPLEXE SPORTIF AGORA\n📍 Espace Agora B
+ oulazac Isle Manoire 24750\n🚗 Waze : https://waze.com/ul?ll=45.18148\,0
+ .76159&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000
+ 0014603204
+LOCATION:COMPLEXE SPORTIF AGORA\, Espace Agora Boulazac Isle Manoire 24750
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03204
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-20-15-30-ie-ctc-avenir-toulouse-basket-limo
+ ges-csp-s@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:IE - CTC AVENIR TOULOUSE BASKET – LIMOGES CSP (SASP)
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC AVENIR TOULOUSE B
+ ASKET vs LIMOGES CSP (SASP)\n\nSALLE E. DEWOITINE\n📍 Chemin de Garric T
+ oulouse 31200\n🚗 Waze : https://waze.com/ul?ll=43.62128\,1.40842&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603206
+LOCATION:SALLE E. DEWOITINE\, Chemin de Garric Toulouse 31200
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03206
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-27-15-30-limoges-csp-sasp-elan-bearnais-pau
+ -lacq-ort@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:LIMOGES CSP (SASP) – ELAN BEARNAIS PAU LACQ ORTHEZ
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ LIMOGES CSP (SASP) vs ELAN
+  BEARNAIS PAU LACQ ORTHEZ\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Lim
+ oges 87100\n🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu18-elite/match/200000014603234
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03234
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-27-15-30-ie-ctc-grand-dax-basket-ie-ctc-ave
+ nir-toulo@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:IE - CTC GRAND DAX BASKET – IE - CTC AVENIR TOULOUSE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs IE - CTC AVENIR TOULOUSE BASKET\n\nSALLE DE CANDRESSE\n📍 Rue des Éc
+ oles Saugnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192
+ \,-0.99241&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
+ 00000014603235
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03235
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-27-15-30-boulazac-basket-dordogne-jsa-borde
+ aux-baske@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:BOULAZAC BASKET DORDOGNE – JSA BORDEAUX BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ BOULAZAC BASKET DORDOGNE v
+ s JSA BORDEAUX BASKET - 1\n\nCOMPLEXE SPORTIF AGORA\n📍 Espace Agora Bou
+ lazac Isle Manoire 24750\n🚗 Waze : https://waze.com/ul?ll=45.18148\,0.7
+ 6159&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000
+ 14603236
+LOCATION:COMPLEXE SPORTIF AGORA\, Espace Agora Boulazac Isle Manoire 24750
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03236
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-04-15-30-elan-bearnais-pau-lacq-orthez-ie-c
+ tc-grand-@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:ELAN BEARNAIS PAU LACQ ORTHEZ – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU LACQ ORT
+ HEZ vs IE - CTC GRAND DAX BASKET\n\nC. DE FORM\n📍 Avenue Pierre Massé 
+ Pau 64000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu18-elite/match/200000014603264
+LOCATION:C. DE FORM\, Avenue Pierre Massé Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03264
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-04-15-30-ie-ctc-avenir-toulouse-basket-boul
+ azac-bask@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:IE - CTC AVENIR TOULOUSE BASKET – BOULAZAC BASKET DORDOGNE
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC AVENIR TOULOUSE B
+ ASKET vs BOULAZAC BASKET DORDOGNE\n\nSALLE E. DEWOITINE\n📍 Chemin de Ga
+ rric Toulouse 31200\n🚗 Waze : https://waze.com/ul?ll=43.62128\,1.40842&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603
+ 266
+LOCATION:SALLE E. DEWOITINE\, Chemin de Garric Toulouse 31200
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03266
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-04-15-30-jsa-bordeaux-basket-1-limoges-csp-
+ sasp@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:JSA BORDEAUX BASKET - 1 – LIMOGES CSP (SASP)
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ JSA BORDEAUX BASKET - 1 vs
+  LIMOGES CSP (SASP)\n\nSALLE DES PEUPLIERS\n📍 Allée des Peupliers Bord
+ eaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.83177\,-0.61082&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nmu18-elite/match/200000014603265
+LOCATION:SALLE DES PEUPLIERS\, Allée des Peupliers Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03265
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-11-15-30-boulazac-basket-dordogne-elan-bear
+ nais-pau-@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:BOULAZAC BASKET DORDOGNE – ELAN BEARNAIS PAU LACQ ORTHEZ
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ BOULAZAC BASKET DORDOGNE v
+ s ELAN BEARNAIS PAU LACQ ORTHEZ\n\nCOMPLEXE SPORTIF AGORA\n📍 Espace Ago
+ ra Boulazac Isle Manoire 24750\n🚗 Waze : https://waze.com/ul?ll=45.1814
+ 8\,0.76159&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
+ 00000014603296
+LOCATION:COMPLEXE SPORTIF AGORA\, Espace Agora Boulazac Isle Manoire 24750
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03296
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-11-15-30-jsa-bordeaux-basket-1-ie-ctc-aveni
+ r-toulous@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:JSA BORDEAUX BASKET - 1 – IE - CTC AVENIR TOULOUSE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ JSA BORDEAUX BASKET - 1 vs
+  IE - CTC AVENIR TOULOUSE BASKET\n\nSALLE DES PEUPLIERS\n📍 Allée des P
+ eupliers Bordeaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.83177\,-0.6
+ 1082&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000
+ 14603295
+LOCATION:SALLE DES PEUPLIERS\, Allée des Peupliers Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03295
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-11-15-30-ie-ctc-grand-dax-basket-limoges-cs
+ p-sasp@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:IE - CTC GRAND DAX BASKET – LIMOGES CSP (SASP)
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs LIMOGES CSP (SASP)\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Saugnac-
+ et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.99241&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460329
+ 4
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03294
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-01-15-30-ie-ctc-avenir-toulouse-basket-elan
+ -bearnais@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:IE - CTC AVENIR TOULOUSE BASKET – ELAN BEARNAIS PAU LACQ ORTHEZ
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC AVENIR TOULOUSE B
+ ASKET vs ELAN BEARNAIS PAU LACQ ORTHEZ\n\nSALLE E. DEWOITINE\n📍 Chemin 
+ de Garric Toulouse 31200\n🚗 Waze : https://waze.com/ul?ll=43.62128\,1.4
+ 0842&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000
+ 14603326
+LOCATION:SALLE E. DEWOITINE\, Chemin de Garric Toulouse 31200
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03326
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-01-15-30-boulazac-basket-dordogne-limoges-c
+ sp-sasp@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:BOULAZAC BASKET DORDOGNE – LIMOGES CSP (SASP)
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ BOULAZAC BASKET DORDOGNE v
+ s LIMOGES CSP (SASP)\n\nCOMPLEXE SPORTIF AGORA\n📍 Espace Agora Boulazac
+  Isle Manoire 24750\n🚗 Waze : https://waze.com/ul?ll=45.18148\,0.76159&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603
+ 325
+LOCATION:COMPLEXE SPORTIF AGORA\, Espace Agora Boulazac Isle Manoire 24750
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03325
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-01-15-30-jsa-bordeaux-basket-1-ie-ctc-grand
+ -dax-bask@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:JSA BORDEAUX BASKET - 1 – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ JSA BORDEAUX BASKET - 1 vs
+  IE - CTC GRAND DAX BASKET\n\nSALLE DES PEUPLIERS\n📍 Allée des Peuplie
+ rs Bordeaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.83177\,-0.61082&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146033
+ 24
+LOCATION:SALLE DES PEUPLIERS\, Allée des Peupliers Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03324
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-08-15-30-limoges-csp-sasp-ie-ctc-avenir-tou
+ louse-bas@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:LIMOGES CSP (SASP) – IE - CTC AVENIR TOULOUSE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ LIMOGES CSP (SASP) vs IE -
+  CTC AVENIR TOULOUSE BASKET\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail L
+ imoges 87100\n🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nmu18-elite/match/200000014603356
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03356
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-08-15-30-elan-bearnais-pau-lacq-orthez-jsa-
+ bordeaux-@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:ELAN BEARNAIS PAU LACQ ORTHEZ – JSA BORDEAUX BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU LACQ ORT
+ HEZ vs JSA BORDEAUX BASKET - 1\n\nC. DE FORM\n📍 Avenue Pierre Massé Pa
+ u 64000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nmu18-elite/match/200000014603355
+LOCATION:C. DE FORM\, Avenue Pierre Massé Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03355
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-08-15-30-ie-ctc-grand-dax-basket-boulazac-b
+ asket-dor@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:IE - CTC GRAND DAX BASKET – BOULAZAC BASKET DORDOGNE
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs BOULAZAC BASKET DORDOGNE\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Sa
+ ugnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.99
+ 241&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001
+ 4603354
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03354
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-15-15-30-jsa-bordeaux-basket-1-boulazac-bas
+ ket-dordo@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:JSA BORDEAUX BASKET - 1 – BOULAZAC BASKET DORDOGNE
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ JSA BORDEAUX BASKET - 1 vs
+  BOULAZAC BASKET DORDOGNE\n\nSALLE DES PEUPLIERS\n📍 Allée des Peuplier
+ s Bordeaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.83177\,-0.61082&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460338
+ 6
+LOCATION:SALLE DES PEUPLIERS\, Allée des Peupliers Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03386
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-15-15-30-ie-ctc-avenir-toulouse-basket-ie-c
+ tc-grand-@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:IE - CTC AVENIR TOULOUSE BASKET – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC AVENIR TOULOUSE B
+ ASKET vs IE - CTC GRAND DAX BASKET\n\nSALLE E. DEWOITINE\n📍 Chemin de G
+ arric Toulouse 31200\n🚗 Waze : https://waze.com/ul?ll=43.62128\,1.40842
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460
+ 3385
+LOCATION:SALLE E. DEWOITINE\, Chemin de Garric Toulouse 31200
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03385
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-15-15-30-elan-bearnais-pau-lacq-orthez-limo
+ ges-csp-s@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:ELAN BEARNAIS PAU LACQ ORTHEZ – LIMOGES CSP (SASP)
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU LACQ ORT
+ HEZ vs LIMOGES CSP (SASP)\n\nC. DE FORM\n📍 Avenue Pierre Massé Pau 640
+ 00\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu18-elite/match/200000014603384
+LOCATION:C. DE FORM\, Avenue Pierre Massé Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03384
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-29-15-30-boulazac-basket-dordogne-ie-ctc-av
+ enir-toul@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:BOULAZAC BASKET DORDOGNE – IE - CTC AVENIR TOULOUSE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ BOULAZAC BASKET DORDOGNE v
+ s IE - CTC AVENIR TOULOUSE BASKET\n\nCOMPLEXE SPORTIF AGORA\n📍 Espace A
+ gora Boulazac Isle Manoire 24750\n🚗 Waze : https://waze.com/ul?ll=45.18
+ 148\,0.76159&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match
+ /200000014603416
+LOCATION:COMPLEXE SPORTIF AGORA\, Espace Agora Boulazac Isle Manoire 24750
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03416
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-29-15-30-limoges-csp-sasp-jsa-bordeaux-bask
+ et-1@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:LIMOGES CSP (SASP) – JSA BORDEAUX BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ LIMOGES CSP (SASP) vs JSA 
+ BORDEAUX BASKET - 1\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges 8
+ 7100\n🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nmu18-elite/match/200000014603415
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03415
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-29-15-30-ie-ctc-grand-dax-basket-elan-bearn
+ ais-pau-l@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:IE - CTC GRAND DAX BASKET – ELAN BEARNAIS PAU LACQ ORTHEZ
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs ELAN BEARNAIS PAU LACQ ORTHEZ\n\nSALLE DE CANDRESSE\n📍 Rue des Écol
+ es Saugnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,
+ -0.99241&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200
+ 000014603414
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03414
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-12-06-15-30-elan-bearnais-pau-lacq-orthez-boul
+ azac-bask@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:ELAN BEARNAIS PAU LACQ ORTHEZ – BOULAZAC BASKET DORDOGNE
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU LACQ ORT
+ HEZ vs BOULAZAC BASKET DORDOGNE\n\nC. DE FORM\n📍 Avenue Pierre Massé P
+ au 64000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nmu18-elite/match/200000014603446
+LOCATION:C. DE FORM\, Avenue Pierre Massé Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03446
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-12-06-15-30-ie-ctc-avenir-toulouse-basket-jsa-
+ bordeaux-@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:IE - CTC AVENIR TOULOUSE BASKET – JSA BORDEAUX BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC AVENIR TOULOUSE B
+ ASKET vs JSA BORDEAUX BASKET - 1\n\nSALLE E. DEWOITINE\n📍 Chemin de Gar
+ ric Toulouse 31200\n🚗 Waze : https://waze.com/ul?ll=43.62128\,1.40842&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146034
+ 45
+LOCATION:SALLE E. DEWOITINE\, Chemin de Garric Toulouse 31200
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03445
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-12-06-15-30-limoges-csp-sasp-ie-ctc-grand-dax-
+ basket@ffbb-agenda
+DTSTAMP:20260817T085758Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:LIMOGES CSP (SASP) – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ LIMOGES CSP (SASP) vs IE -
+  CTC GRAND DAX BASKET\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges
+  87100\n🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nmu18-elite/match/200000014603444
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03444
+END:VEVENT
+END:VCALENDAR

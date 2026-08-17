@@ -1,0 +1,373 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CHANTONNAY-ST GERMAIN BASKET  [NF3 –  – Poule C]
+X-WR-CALDESC:Matchs de CHANTONNAY-ST GERMAIN BASKET – NF3 – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-13-15-30-chantonnay-st-germain-basket-cholet-jf-1@f
+ fbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – CHOLET JF - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs CH
+ OLET JF - 1\n\nSALLE DE L' EPINE CHANTONNAY\n📍 Rue Gambetta Chantonnay 
+ 85110\n🚗 Waze : https://waze.com/ul?ll=46.6857\,-1.05384&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nf3/match/200000014601613
+LOCATION:SALLE DE L' EPINE CHANTONNAY\, Rue Gambetta Chantonnay 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601613
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-20-15-30-vitre-aurore-1-chantonnay-st-germain-baske
+ t@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ VITRE AURORE - 1 – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VITRE AURORE - 1 vs CHANTONNAY-ST 
+ GERMAIN BASKET\n\nSALLE POULTIERE AURORE DE VITRE\n📍 Rue de la Poultiè
+ re Vitré 35500\n🚗 Waze : https://waze.com/ul?ll=48.12472\,-1.19931&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf3/match/200000014601661
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la Poultière Vitré 3550
+ 0
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601661
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-27-15-30-chantonnay-st-germain-basket-ie-cep-lorien
+ t-basket-@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – IE - CEP LORIENT BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs IE
+  - CEP LORIENT BASKET - 1\n\nSALLE DE L' EPINE CHANTONNAY\n📍 Rue Gambet
+ ta Chantonnay 85110\n🚗 Waze : https://waze.com/ul?ll=46.6857\,-1.05384&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf3/match/200000014601709
+LOCATION:SALLE DE L' EPINE CHANTONNAY\, Rue Gambetta Chantonnay 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601709
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-04-15-30-sud-retz-basket-1-chantonnay-st-germain-ba
+ sket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ SUD RETZ BASKET - 1 – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs CHANTONNAY-
+ ST GERMAIN BASKET\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Sai
+ nt-Même 44270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf3/match/200000014601757
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601757
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-11-15-30-chantonnay-st-germain-basket-vendee-bellev
+ igny-bask@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs VE
+ NDEE BELLEVIGNY BASKET\n\nSALLE DE L' EPINE CHANTONNAY\n📍 Rue Gambetta 
+ Chantonnay 85110\n🚗 Waze : https://waze.com/ul?ll=46.6857\,-1.05384&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf3/match/200000014601805
+LOCATION:SALLE DE L' EPINE CHANTONNAY\, Rue Gambetta Chantonnay 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601805
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-25-15-30-alpc-moulin-nantes-basket-2-chantonnay-st-
+ germain-b@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261025T153000
+DTEND;TZID=Europe/Paris:20261025T173000
+SUMMARY:✈️ ALPC MOULIN NANTES BASKET - 2 – CHANTONNAY-ST GERMAIN BASK
+ ET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ ALPC MOULIN NANTES BASKET - 2 vs C
+ HANTONNAY-ST GERMAIN BASKET\n\nGYMNASE DU COUDRAY\n📍 Rue du Coudray Nan
+ tes 44000\n🚗 Waze : https://waze.com/ul?ll=47.23305\,-1.54255&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf3/match/200000014601853
+LOCATION:GYMNASE DU COUDRAY\, Rue du Coudray Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601853
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-01-15-30-rennes-pole-association-chantonnay-st-germ
+ ain-baske@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ RENNES POLE ASSOCIATION – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ RENNES POLE ASSOCIATION vs CHANTON
+ NAY-ST GERMAIN BASKET\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante R
+ ennes 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf3/match/200000014601901
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601901
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-08-15-30-chantonnay-st-germain-basket-vertou-basket
+ -1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – VERTOU BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs VE
+ RTOU BASKET - 1\n\nSALLE POLYVALENTE\n📍 Rue Louis Marchegay Saint-Germa
+ in-de-Prinçay 85110\n🚗 Waze : https://waze.com/ul?ll=46.722\,-1.02423&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf3/match/200000014601949
+LOCATION:SALLE POLYVALENTE\, Rue Louis Marchegay Saint-Germain-de-Prinçay 
+ 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601949
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-15-15-30-carquefou-basket-chantonnay-st-germain-bas
+ ket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ CARQUEFOU BASKET – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs CHANTONNAY-ST 
+ GERMAIN BASKET\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefo
+ u 44470\n🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf3/match/200000014601997
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601997
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-29-15-30-chantonnay-st-germain-basket-etoile-saint-
+ laurent-b@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – ETOILE SAINT LAURENT BREST - 
+ 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs ET
+ OILE SAINT LAURENT BREST - 1\n\nSALLE DE L' EPINE CHANTONNAY\n📍 Rue Gam
+ betta Chantonnay 85110\n🚗 Waze : https://waze.com/ul?ll=46.6857\,-1.053
+ 84&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf3/match/200000014602045
+LOCATION:SALLE DE L' EPINE CHANTONNAY\, Rue Gambetta Chantonnay 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602045
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-12-06-15-30-chantonnay-st-germain-basket-rennes-cercle
+ -paul-ber@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – RENNES CERCLE PAUL BERT BASKE
+ T - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs RE
+ NNES CERCLE PAUL BERT BASKET - 1\n\nSALLE POLYVALENTE\n📍 Rue Louis Marc
+ hegay Saint-Germain-de-Prinçay 85110\n🚗 Waze : https://waze.com/ul?ll=
+ 46.722\,-1.02423&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf3/match/2
+ 00000014602092
+LOCATION:SALLE POLYVALENTE\, Rue Louis Marchegay Saint-Germain-de-Prinçay 
+ 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602092
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-10-15-30-cholet-jf-1-chantonnay-st-germain-basket@f
+ fbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ CHOLET JF - 1 – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHOLET JF - 1 vs CHANTONNAY-ST GER
+ MAIN BASKET\n\nSALLE DARMAILLACQ N01\n📍 Rue Alphonse Darmaillacq Cholet
+  49300\n🚗 Waze : https://waze.com/ul?ll=47.06463\,-0.87401&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf3/match/200000014602141
+LOCATION:SALLE DARMAILLACQ N01\, Rue Alphonse Darmaillacq Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602141
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-17-15-30-chantonnay-st-germain-basket-vitre-aurore-
+ 1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – VITRE AURORE - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs VI
+ TRE AURORE - 1\n\nSALLE DE L' EPINE CHANTONNAY\n📍 Rue Gambetta Chantonn
+ ay 85110\n🚗 Waze : https://waze.com/ul?ll=46.6857\,-1.05384&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf3/match/200000014602189
+LOCATION:SALLE DE L' EPINE CHANTONNAY\, Rue Gambetta Chantonnay 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602189
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-31-15-30-ie-cep-lorient-basket-1-chantonnay-st-germ
+ ain-baske@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ IE - CEP LORIENT BASKET - 1 – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ IE - CEP LORIENT BASKET - 1 vs CHA
+ NTONNAY-ST GERMAIN BASKET\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred D
+ reyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.3900
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf3/match/200000014602237
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602237
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-07-15-30-chantonnay-st-germain-basket-sud-retz-bask
+ et-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs SU
+ D RETZ BASKET - 1\n\nSALLE POLYVALENTE\n📍 Rue Louis Marchegay Saint-Ger
+ main-de-Prinçay 85110\n🚗 Waze : https://waze.com/ul?ll=46.722\,-1.0242
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf3/match/200000014602285
+LOCATION:SALLE POLYVALENTE\, Rue Louis Marchegay Saint-Germain-de-Prinçay 
+ 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602285
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-14-15-30-vendee-bellevigny-basket-chantonnay-st-ger
+ main-bask@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ VENDEE BELLEVIGNY BASKET – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs CHANTO
+ NNAY-ST GERMAIN BASKET\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard 
+ André Malraux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.778
+ 17\,-1.42289&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nf3/match/2000000
+ 14602333
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602333
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-28-15-30-chantonnay-st-germain-basket-alpc-moulin-n
+ antes-bas@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – ALPC MOULIN NANTES BASKET - 2
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs AL
+ PC MOULIN NANTES BASKET - 2\n\nSALLE POLYVALENTE\n📍 Rue Louis Marchegay
+  Saint-Germain-de-Prinçay 85110\n🚗 Waze : https://waze.com/ul?ll=46.72
+ 2\,-1.02423&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nf3/match/20000001
+ 4602381
+LOCATION:SALLE POLYVALENTE\, Rue Louis Marchegay Saint-Germain-de-Prinçay 
+ 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602381
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-07-15-30-chantonnay-st-germain-basket-rennes-pole-a
+ ssociatio@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs RE
+ NNES POLE ASSOCIATION\n\nSALLE POLYVALENTE\n📍 Rue Louis Marchegay Saint
+ -Germain-de-Prinçay 85110\n🚗 Waze : https://waze.com/ul?ll=46.722\,-1.
+ 02423&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf3/match/20000001460242
+ 9
+LOCATION:SALLE POLYVALENTE\, Rue Louis Marchegay Saint-Germain-de-Prinçay 
+ 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602429
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-14-15-30-vertou-basket-1-chantonnay-st-germain-bask
+ et@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ VERTOU BASKET - 1 – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VERTOU BASKET - 1 vs CHANTONNAY-ST
+  GERMAIN BASKET\n\nGYMNASE DES ECHALONNIERES\n📍 Boulevard Luc Dejoie Ve
+ rtou 44120\n🚗 Waze : https://waze.com/ul?ll=47.17039\,-1.45686&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf3/match/200000014602477
+LOCATION:GYMNASE DES ECHALONNIERES\, Boulevard Luc Dejoie Vertou 44120
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602477
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-28-15-30-chantonnay-st-germain-basket-carquefou-bas
+ ket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:🏠 CHANTONNAY-ST GERMAIN BASKET – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs CA
+ RQUEFOU BASKET\n\nSALLE POLYVALENTE\n📍 Rue Louis Marchegay Saint-Germai
+ n-de-Prinçay 85110\n🚗 Waze : https://waze.com/ul?ll=46.722\,-1.02423&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf3/match/200000014602525
+LOCATION:SALLE POLYVALENTE\, Rue Louis Marchegay Saint-Germain-de-Prinçay 
+ 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602525
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-04-11-15-30-etoile-saint-laurent-brest-1-chantonnay-st
+ -germain-@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:✈️ ETOILE SAINT LAURENT BREST - 1 – CHANTONNAY-ST GERMAIN BAS
+ KET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ ETOILE SAINT LAURENT BREST - 1 vs 
+ CHANTONNAY-ST GERMAIN BASKET\n\nSALLE DE LA BRASSERIE (A)\n📍 Rue Margue
+ rite Duras Brest 29200\n🚗 Waze : https://waze.com/ul?ll=48.41717\,-4.49
+ 513&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf3/match/200000014602573
+LOCATION:SALLE DE LA BRASSERIE (A)\, Rue Marguerite Duras Brest 29200
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602573
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-04-18-15-30-rennes-cercle-paul-bert-basket-1-chantonna
+ y-st-germ@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:✈️ RENNES CERCLE PAUL BERT BASKET - 1 – CHANTONNAY-ST GERMAIN
+  BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ RENNES CERCLE PAUL BERT BASKET - 1
+  vs CHANTONNAY-ST GERMAIN BASKET\n\nSALLE GINGUENE\n📍 Rue Ginguené Ren
+ nes 35000\n🚗 Waze : https://waze.com/ul?ll=48.09935\,-1.68563&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf3/match/200000014602620
+LOCATION:SALLE GINGUENE\, Rue Ginguené Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602620
+END:VEVENT
+END:VCALENDAR

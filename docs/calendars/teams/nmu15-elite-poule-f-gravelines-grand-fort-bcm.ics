@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GRAVELINES GRAND FORT BCM  [NMU15-ELITE –  – Poule F]
+X-WR-CALDESC:Matchs de GRAVELINES GRAND FORT BCM – NMU15-ELITE – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-09-13-13-15-levallois-sporting-club-basket-gra
+ velines-g@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:✈️ LEVALLOIS SPORTING CLUB BASKET – GRAVELINES GRAND FORT BCM
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ LEVALLOIS SPORTING CLUB BA
+ SKET vs GRAVELINES GRAND FORT BCM\n\nPALAIS DES SPORTS M. CERDAN\n📍 Rue
+  Danton Levallois-Perret 92300\n🚗 Waze : https://waze.com/ul?ll=48.8960
+ 8\,2.27825&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/2
+ 00000014600546
+LOCATION:PALAIS DES SPORTS M. CERDAN\, Rue Danton Levallois-Perret 92300
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00546
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-09-20-13-00-gravelines-grand-fort-bcm-ie-ctc-p
+ aris-bask@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20260920T130000
+DTEND;TZID=Europe/Paris:20260920T150000
+SUMMARY:🏠 GRAVELINES GRAND FORT BCM – IE - CTC PARIS BASKET AVENIR - L
+ A DOMREMY BASKET 13
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ GRAVELINES GRAND FORT BCM 
+ vs IE - CTC PARIS BASKET AVENIR - LA DOMREMY BASKET 13\n\nLEPRETRE\n📍 R
+ ue Pierre Leprêtre Grand-Fort-Philippe 59153\n🚗 Waze : https://waze.co
+ m/ul?ll=50.99908\,2.10721&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
+ 5-elite/match/200000014600574
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00574
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-09-27-13-15-poissy-basket-association-gravelin
+ es-grand-@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:✈️ POISSY BASKET ASSOCIATION – GRAVELINES GRAND FORT BCM
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ POISSY BASKET ASSOCIATION 
+ vs GRAVELINES GRAND FORT BCM\n\nCOMPLEXE SPORTIF M. CERDAN\n📍 Avenue de
+  la Maladrerie Poissy 78300\n🚗 Waze : https://waze.com/ul?ll=48.91881\,
+ 2.02759&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/2000
+ 00014600602
+LOCATION:COMPLEXE SPORTIF M. CERDAN\, Avenue de la Maladrerie Poissy 78300
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00602
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-10-04-13-00-gravelines-grand-fort-bcm-essm-le-
+ portel@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20261004T130000
+DTEND;TZID=Europe/Paris:20261004T150000
+SUMMARY:🏠 GRAVELINES GRAND FORT BCM – ESSM LE PORTEL
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ GRAVELINES GRAND FORT BCM 
+ vs ESSM LE PORTEL\n\nLEPRETRE\n📍 Rue Pierre Leprêtre Grand-Fort-Philip
+ pe 59153\n🚗 Waze : https://waze.com/ul?ll=50.99908\,2.10721&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nmu15-elite/match/200000014600628
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00628
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-10-11-13-15-gravelines-grand-fort-bcm-jsf-nant
+ erre-1@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:🏠 GRAVELINES GRAND FORT BCM – JSF NANTERRE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ GRAVELINES GRAND FORT BCM 
+ vs JSF NANTERRE - 1\n\nLEPRETRE\n📍 Rue Pierre Leprêtre Grand-Fort-Phil
+ ippe 59153\n🚗 Waze : https://waze.com/ul?ll=50.99908\,2.10721&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu15-elite/match/200000014600655
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00655
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-11-01-13-15-gravelines-grand-fort-bcm-levalloi
+ s-sportin@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:🏠 GRAVELINES GRAND FORT BCM – LEVALLOIS SPORTING CLUB BASKET
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ GRAVELINES GRAND FORT BCM 
+ vs LEVALLOIS SPORTING CLUB BASKET\n\nLEPRETRE\n📍 Rue Pierre Leprêtre G
+ rand-Fort-Philippe 59153\n🚗 Waze : https://waze.com/ul?ll=50.99908\,2.1
+ 0721&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000
+ 14600681
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00681
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-11-08-13-00-ie-ctc-paris-basket-avenir-la-domr
+ emy-baske@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20261108T130000
+DTEND;TZID=Europe/Paris:20261108T150000
+SUMMARY:✈️ IE - CTC PARIS BASKET AVENIR - LA DOMREMY BASKET 13 – GRAV
+ ELINES GRAND FORT BCM
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ IE - CTC PARIS BASKET AVEN
+ IR - LA DOMREMY BASKET 13 vs GRAVELINES GRAND FORT BCM\n\nGYMNASE LE STADI
+ UM\n📍 Avenue d'Ivry Paris 75013\n🚗 Waze : https://waze.com/ul?ll=48.
+ 82435\,2.364&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match
+ /200000014600709
+LOCATION:GYMNASE LE STADIUM\, Avenue d'Ivry Paris 75013
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00709
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-11-15-13-15-gravelines-grand-fort-bcm-poissy-b
+ asket-ass@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:🏠 GRAVELINES GRAND FORT BCM – POISSY BASKET ASSOCIATION
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ GRAVELINES GRAND FORT BCM 
+ vs POISSY BASKET ASSOCIATION\n\nLEPRETRE\n📍 Rue Pierre Leprêtre Grand-
+ Fort-Philippe 59153\n🚗 Waze : https://waze.com/ul?ll=50.99908\,2.10721&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nmu15-elite/match/200000014600
+ 737
+LOCATION:LEPRETRE\, Rue Pierre Leprêtre Grand-Fort-Philippe 59153
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00737
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-11-29-13-15-essm-le-portel-gravelines-grand-fo
+ rt-bcm@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:✈️ ESSM LE PORTEL – GRAVELINES GRAND FORT BCM
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ ESSM LE PORTEL vs GRAVELIN
+ ES GRAND FORT BCM\n\nSALLE GEORGE CARPENTIER\n📍 Boulevard du Maréchal 
+ Lyautey Le Portel 62480\n🚗 Waze : https://waze.com/ul?ll=50.70906\,1.57
+ 497&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nmu15-elite/match/20000001
+ 4600763
+LOCATION:SALLE GEORGE CARPENTIER\, Boulevard du Maréchal Lyautey Le Portel
+  62480
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00763
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-f-2026-12-06-13-15-jsf-nanterre-1-gravelines-grand-fo
+ rt-bcm@ffbb-agenda
+DTSTAMP:20260817T085931Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:✈️ JSF NANTERRE - 1 – GRAVELINES GRAND FORT BCM
+DESCRIPTION:🏀 NMU15-ELITE – Poule F\n⚔️ JSF NANTERRE - 1 vs GRAVEL
+ INES GRAND FORT BCM\n\nPALAIS DES SPORTS M.THOREZ\n📍 Avenue Frédéric 
+ et Irène Joliot-Curie Nanterre 92000\n🚗 Waze : https://waze.com/ul?ll=
+ 48.89235\,2.21047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite
+ /match/200000014600790
+LOCATION:PALAIS DES SPORTS M.THOREZ\, Avenue Frédéric et Irène Joliot-Cu
+ rie Nanterre 92000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00790
+END:VEVENT
+END:VCALENDAR

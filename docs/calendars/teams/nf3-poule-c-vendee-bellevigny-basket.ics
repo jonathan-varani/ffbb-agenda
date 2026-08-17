@@ -1,0 +1,376 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VENDEE BELLEVIGNY BASKET  [NF3 –  – Poule C]
+X-WR-CALDESC:Matchs de VENDEE BELLEVIGNY BASKET – NF3 – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-13-15-30-etoile-saint-laurent-brest-1-vendee-bellev
+ igny-bask@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:✈️ ETOILE SAINT LAURENT BREST - 1 – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ ETOILE SAINT LAURENT BREST - 1 vs 
+ VENDEE BELLEVIGNY BASKET\n\nSALLE DE LA BRASSERIE (A)\n📍 Rue Marguerite
+  Duras Brest 29200\n🚗 Waze : https://waze.com/ul?ll=48.41717\,-4.49513&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf3/match/200000014601617
+LOCATION:SALLE DE LA BRASSERIE (A)\, Rue Marguerite Duras Brest 29200
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601617
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-20-15-30-vendee-bellevigny-basket-rennes-pole-assoc
+ iation@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs RENNES
+  POLE ASSOCIATION\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard Andr
+ é Malraux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.77817\,
+ -1.42289&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nf3/match/20000001460
+ 1664
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601664
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-27-15-30-vertou-basket-1-vendee-bellevigny-basket@f
+ fbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ VERTOU BASKET - 1 – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VERTOU BASKET - 1 vs VENDEE BELLEV
+ IGNY BASKET\n\nGYMNASE DES ECHALONNIERES\n📍 Boulevard Luc Dejoie Vertou
+  44120\n🚗 Waze : https://waze.com/ul?ll=47.17039\,-1.45686&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf3/match/200000014601711
+LOCATION:GYMNASE DES ECHALONNIERES\, Boulevard Luc Dejoie Vertou 44120
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601711
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-04-15-30-vendee-bellevigny-basket-carquefou-basket@
+ ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs CARQUE
+ FOU BASKET\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard André Malra
+ ux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.77817\,-1.42289
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf3/match/200000014601758
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601758
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-11-15-30-chantonnay-st-germain-basket-vendee-bellev
+ igny-bask@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ CHANTONNAY-ST GERMAIN BASKET – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs VE
+ NDEE BELLEVIGNY BASKET\n\nSALLE DE L' EPINE CHANTONNAY\n📍 Rue Gambetta 
+ Chantonnay 85110\n🚗 Waze : https://waze.com/ul?ll=46.6857\,-1.05384&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf3/match/200000014601805
+LOCATION:SALLE DE L' EPINE CHANTONNAY\, Rue Gambetta Chantonnay 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601805
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-25-15-30-vendee-bellevigny-basket-rennes-cercle-pau
+ l-bert-ba@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261025T153000
+DTEND;TZID=Europe/Paris:20261025T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – RENNES CERCLE PAUL BERT BASKET - 
+ 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs RENNES
+  CERCLE PAUL BERT BASKET - 1\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boul
+ evard André Malraux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=
+ 46.77817\,-1.42289&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf3/match/2
+ 00000014601852
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601852
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-01-15-30-vendee-bellevigny-basket-alpc-moulin-nante
+ s-basket-@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – ALPC MOULIN NANTES BASKET - 2
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs ALPC M
+ OULIN NANTES BASKET - 2\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard
+  André Malraux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.77
+ 817\,-1.42289&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nf3/match/200000
+ 014601903
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601903
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-08-15-30-vitre-aurore-1-vendee-bellevigny-basket@ff
+ bb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ VITRE AURORE - 1 – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VITRE AURORE - 1 vs VENDEE BELLEVI
+ GNY BASKET\n\nSALLE POULTIERE AURORE DE VITRE\n📍 Rue de la Poultière V
+ itré 35500\n🚗 Waze : https://waze.com/ul?ll=48.12472\,-1.19931&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf3/match/200000014601953
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la Poultière Vitré 3550
+ 0
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601953
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-15-15-30-vendee-bellevigny-basket-sud-retz-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs SUD RE
+ TZ BASKET - 1\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard André Ma
+ lraux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.77817\,-1.42
+ 289&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf3/match/200000014602001
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602001
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-29-15-30-cholet-jf-1-vendee-bellevigny-basket@ffbb-
+ agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ CHOLET JF - 1 – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHOLET JF - 1 vs VENDEE BELLEVIGNY
+  BASKET\n\nSALLE DARMAILLACQ N01\n📍 Rue Alphonse Darmaillacq Cholet 493
+ 00\n🚗 Waze : https://waze.com/ul?ll=47.06463\,-0.87401&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602048
+LOCATION:SALLE DARMAILLACQ N01\, Rue Alphonse Darmaillacq Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602048
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-12-06-15-30-ie-cep-lorient-basket-1-vendee-bellevigny-
+ basket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ IE - CEP LORIENT BASKET - 1 – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ IE - CEP LORIENT BASKET - 1 vs VEN
+ DEE BELLEVIGNY BASKET\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dreyf
+ us Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf3/match/200000014602097
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602097
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-10-15-30-vendee-bellevigny-basket-etoile-saint-laur
+ ent-brest@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – ETOILE SAINT LAURENT BREST - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs ETOILE
+  SAINT LAURENT BREST - 1\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevar
+ d André Malraux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.7
+ 7817\,-1.42289&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nf3/match/20000
+ 0014602145
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602145
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-17-15-30-rennes-pole-association-vendee-bellevigny-
+ basket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:✈️ RENNES POLE ASSOCIATION – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ RENNES POLE ASSOCIATION vs VENDEE 
+ BELLEVIGNY BASKET\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Renne
+ s 35000\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf3/match/200000014602192
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602192
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-31-15-30-vendee-bellevigny-basket-vertou-basket-1@f
+ fbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – VERTOU BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs VERTOU
+  BASKET - 1\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard André Malr
+ aux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.77817\,-1.4228
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf3/match/200000014602239
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602239
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-07-15-30-carquefou-basket-vendee-bellevigny-basket@
+ ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:✈️ CARQUEFOU BASKET – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs VENDEE BELLEVI
+ GNY BASKET\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefou 44
+ 470\n🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf3/match/200000014602286
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602286
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-14-15-30-vendee-bellevigny-basket-chantonnay-st-ger
+ main-bask@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs CHANTO
+ NNAY-ST GERMAIN BASKET\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard 
+ André Malraux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.778
+ 17\,-1.42289&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nf3/match/2000000
+ 14602333
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602333
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-28-15-30-rennes-cercle-paul-bert-basket-1-vendee-be
+ llevigny-@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:✈️ RENNES CERCLE PAUL BERT BASKET - 1 – VENDEE BELLEVIGNY BAS
+ KET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ RENNES CERCLE PAUL BERT BASKET - 1
+  vs VENDEE BELLEVIGNY BASKET\n\nSALLE GINGUENE\n📍 Rue Ginguené Rennes 
+ 35000\n🚗 Waze : https://waze.com/ul?ll=48.09935\,-1.68563&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf3/match/200000014602380
+LOCATION:SALLE GINGUENE\, Rue Ginguené Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602380
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-07-15-30-alpc-moulin-nantes-basket-2-vendee-bellevi
+ gny-baske@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:✈️ ALPC MOULIN NANTES BASKET - 2 – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ ALPC MOULIN NANTES BASKET - 2 vs V
+ ENDEE BELLEVIGNY BASKET\n\nGYMNASE DU COUDRAY\n📍 Rue du Coudray Nantes 
+ 44000\n🚗 Waze : https://waze.com/ul?ll=47.23305\,-1.54255&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf3/match/200000014602431
+LOCATION:GYMNASE DU COUDRAY\, Rue du Coudray Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602431
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-14-15-30-vendee-bellevigny-basket-vitre-aurore-1@ff
+ bb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – VITRE AURORE - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs VITRE 
+ AURORE - 1\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard André Malra
+ ux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.77817\,-1.42289
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf3/match/200000014602481
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602481
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-28-15-30-sud-retz-basket-1-vendee-bellevigny-basket
+ @ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:✈️ SUD RETZ BASKET - 1 – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs VENDEE BELL
+ EVIGNY BASKET\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Saint-M
+ ême 44270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf3/match/200000014602529
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602529
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-04-11-15-30-vendee-bellevigny-basket-cholet-jf-1@ffbb-
+ agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – CHOLET JF - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs CHOLET
+  JF - 1\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard André Malraux 
+ Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.77817\,-1.42289&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf3/match/200000014602576
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602576
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-04-18-15-30-vendee-bellevigny-basket-ie-cep-lorient-ba
+ sket-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:🏠 VENDEE BELLEVIGNY BASKET – IE - CEP LORIENT BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs IE - C
+ EP LORIENT BASKET - 1\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard A
+ ndré Malraux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.7781
+ 7\,-1.42289&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nf3/match/20000001
+ 4602625
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602625
+END:VEVENT
+END:VCALENDAR

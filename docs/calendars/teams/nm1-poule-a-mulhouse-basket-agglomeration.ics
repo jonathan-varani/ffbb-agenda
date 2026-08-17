@@ -1,0 +1,406 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MULHOUSE BASKET AGGLOMERATION  [NM1 –  – Poule A]
+X-WR-CALDESC:Matchs de MULHOUSE BASKET AGGLOMERATION – NM1 – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-09-22-20-00-mulhouse-basket-agglomeration-loon-plage-a
+ s@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20260922T200000
+DTEND;TZID=Europe/Paris:20260922T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – LOON PLAGE AS
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs L
+ OON PLAGE AS\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mu
+ lhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014596770
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596770
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-09-26-20-00-saint-chamond-andrezieux-boutheon-basket-s
+ cabb-mulh@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ SAINT-CHAMOND ANDREZIEUX BOUTHEON BASKET - SCABB – MULHOUS
+ E BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SAINT-CHAMOND ANDREZIEUX BOUTHEON 
+ BASKET - SCABB vs MULHOUSE BASKET AGGLOMERATION\n\nPALAIS DES SPORTS\n📍
+  Rue des Bullieux Andrézieux-Bouthéon 42160\n🚗 Waze : https://waze.co
+ m/ul?ll=45.52819\,4.27178&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/
+ match/200000014596827
+LOCATION:PALAIS DES SPORTS\, Rue des Bullieux Andrézieux-Bouthéon 42160
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596827
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-09-29-20-00-etoile-de-charleville-mezieres-mulhouse-ba
+ sket-aggl@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20260929T200000
+DTEND;TZID=Europe/Paris:20260929T220000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES – MULHOUSE BASKET AGGLOMERA
+ TION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ ETOILE DE CHARLEVILLE MEZIERES vs 
+ MULHOUSE BASKET AGGLOMERATION\n\nGuinguette Arena\n📍 Rue de la Vieille 
+ Meuse Charleville-Mézières 08000\n🚗 Waze : https://waze.com/ul?ll=49.
+ 7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000
+ 014596783
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596783
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-02-20-00-mulhouse-basket-agglomeration-saint-vallie
+ r-basket-@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261002T200000
+DTEND;TZID=Europe/Paris:20261002T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – SAINT-VALLIER BASKET DRÔME 
+ - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
+ AINT-VALLIER BASKET DRÔME - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 R
+ ue de l'Illberg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.7390
+ 4\,7.31853&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000014
+ 596798
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596798
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-09-20-00-mulhouse-basket-agglomeration-sasp-bc-orch
+ ies@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261009T200000
+DTEND;TZID=Europe/Paris:20261009T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – SASP BC ORCHIES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
+ ASP BC ORCHIES\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg 
+ Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm1/match/200000014596812
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596812
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-20-20-00-mulhouse-basket-agglomeration-besancon-ave
+ nir-comto@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261020T200000
+DTEND;TZID=Europe/Paris:20261020T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – BESANCON AVENIR COMTOIS
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs B
+ ESANCON AVENIR COMTOIS\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'
+ Illberg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.318
+ 53&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nm1/match/200000014596840
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596840
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-23-20-30-sas-fos-provence-basket-mulhouse-basket-ag
+ glomerati@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261023T203000
+DTEND;TZID=Europe/Paris:20261023T223000
+SUMMARY:✈️ SAS FOS PROVENCE BASKET – MULHOUSE BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SAS FOS PROVENCE BASKET vs MULHOUS
+ E BASKET AGGLOMERATION\n\nCOMPLEXE SPORTIF PARSEMAIN\n📍 Avenue Jean Mou
+ lin Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul?ll=43.43314\,4.9479
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nm1/match/200000014596853
+LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596853
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-30-20-00-mulhouse-basket-agglomeration-berck-rang-d
+ u-fliers-@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261030T200000
+DTEND;TZID=Europe/Paris:20261030T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – BERCK/RANG DU FLIERS - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs B
+ ERCK/RANG DU FLIERS - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l
+ 'Illberg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31
+ 853&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm1/match/200000014596868
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596868
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-06-20-00-so-maritime-boulogne-mulhouse-basket-agglo
+ meration@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261106T200000
+DTEND;TZID=Europe/Paris:20261106T220000
+SUMMARY:✈️ SO MARITIME BOULOGNE – MULHOUSE BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SO MARITIME BOULOGNE vs MULHOUSE B
+ ASKET AGGLOMERATION\n\nPALAIS DES SPORTS DAMREMONT\n📍 Place Léon Blum 
+ Boulogne-sur-Mer 62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.603
+ 58&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nm1/match/200000014596886
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place Léon Blum Boulogne-sur-Mer 62
+ 200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596886
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-13-20-00-mulhouse-basket-agglomeration-pays-salonai
+ s-basket-@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – PAYS SALONAIS BASKET 13 (PSB
+  13) - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs P
+ AYS SALONAIS BASKET 13 (PSB 13) - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n
+ 📍 Rue de l'Illberg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.73904\,7.31853&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match/2
+ 00000014596896
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596896
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-17-20-00-sas-performance-1-mulhouse-basket-agglomer
+ ation@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261117T200000
+DTEND;TZID=Europe/Paris:20261117T220000
+SUMMARY:✈️ SAS PERFORMANCE - 1 – MULHOUSE BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SAS PERFORMANCE - 1 vs MULHOUSE BA
+ SKET AGGLOMERATION\n\nHALLE PAUL BERT - LA CANOPEE\n📍 Rue Charles de Ga
+ ulle Oullins-Pierre-Bénite 69310\n🚗 Waze : https://waze.com/ul?ll=45.6
+ 9946\,4.81769&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000
+ 014596911
+LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
+ e-Bénite 69310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596911
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-20-20-00-mulhouse-basket-agglomeration-val-de-seine
+ -basket@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261120T200000
+DTEND;TZID=Europe/Paris:20261120T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – VAL DE SEINE BASKET
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs V
+ AL DE SEINE BASKET\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illb
+ erg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm1/match/200000014596924
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596924
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-08-20-00-loon-plage-as-mulhouse-basket-agglomeratio
+ n@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261208T200000
+DTEND;TZID=Europe/Paris:20261208T220000
+SUMMARY:✈️ LOON PLAGE AS – MULHOUSE BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE AS vs MULHOUSE BASKET A
+ GGLOMERATION\n\nLéo LAGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Wa
+ ze : https://waze.com/ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm1/match/200000014596952
+LOCATION:Léo LAGRANGE\, Rue du Stade Loon-Plage 59279
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596952
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-12-20-00-mulhouse-basket-agglomeration-saint-chamon
+ d-andrezi@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – SAINT-CHAMOND ANDREZIEUX BOU
+ THEON BASKET - SCABB
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
+ AINT-CHAMOND ANDREZIEUX BOUTHEON BASKET - SCABB\n\nPALAIS DES SPORTS (GRAN
+ DE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n🚗 Waze : https://waze.
+ com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm
+ 1/match/200000014597009
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597009
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-15-20-00-mulhouse-basket-agglomeration-etoile-de-ch
+ arleville@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261215T200000
+DTEND;TZID=Europe/Paris:20261215T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – ETOILE DE CHARLEVILLE MEZIER
+ ES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs E
+ TOILE DE CHARLEVILLE MEZIERES\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Ru
+ e de l'Illberg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904
+ \,7.31853&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nm1/match/2000000145
+ 96965
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596965
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-18-20-30-saint-vallier-basket-drome-1-mulhouse-bask
+ et-agglom@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20261218T203000
+DTEND;TZID=Europe/Paris:20261218T223000
+SUMMARY:✈️ SAINT-VALLIER BASKET DRÔME - 1 – MULHOUSE BASKET AGGLOMER
+ ATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SAINT-VALLIER BASKET DRÔME - 1 vs
+  MULHOUSE BASKET AGGLOMERATION\n\nLES DEUX RIVES 1\n📍 Rue Marcel Paul S
+ aint-Vallier 26240\n🚗 Waze : https://waze.com/ul?ll=45.19308\,4.81613&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm1/match/200000014596980
+LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596980
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-08-20-00-sasp-bc-orchies-mulhouse-basket-agglomerat
+ ion@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20270108T200000
+DTEND;TZID=Europe/Paris:20270108T220000
+SUMMARY:✈️ SASP BC ORCHIES – MULHOUSE BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs MULHOUSE BASKET
+  AGGLOMERATION\n\nPEVELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 5931
+ 0\n🚗 Waze : https://waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm1/match/200000014596994
+LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596994
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-19-20-00-besancon-avenir-comtois-mulhouse-basket-ag
+ glomerati@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20270119T200000
+DTEND;TZID=Europe/Paris:20270119T220000
+SUMMARY:✈️ BESANCON AVENIR COMTOIS – MULHOUSE BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON AVENIR COMTOIS vs MULHOUS
+ E BASKET AGGLOMERATION\n\nPALAIS DES SPORTS\n📍 Avenue Léo Lagrange Bes
+ ançon 25000\n🚗 Waze : https://waze.com/ul?ll=47.24505\,5.99788&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014597022
+LOCATION:PALAIS DES SPORTS\, Avenue Léo Lagrange Besançon 25000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597022
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-22-20-00-mulhouse-basket-agglomeration-sas-fos-prov
+ ence-bask@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20270122T200000
+DTEND;TZID=Europe/Paris:20270122T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – SAS FOS PROVENCE BASKET
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
+ AS FOS PROVENCE BASKET\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'
+ Illberg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.318
+ 53&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nm1/match/200000014597035
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597035
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-30-20-00-berck-rang-du-fliers-1-mulhouse-basket-agg
+ lomeratio@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ BERCK/RANG DU FLIERS - 1 – MULHOUSE BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK/RANG DU FLIERS - 1 vs MULHOU
+ SE BASKET AGGLOMERATION\n\nPALAIS DES SPORTS\n📍 Rue Émile Lavezzari Be
+ rck 62600\n🚗 Waze : https://waze.com/ul?ll=50.40323\,1.5726&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm1/match/200000014597050
+LOCATION:PALAIS DES SPORTS\, Rue Émile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597050
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-05-20-00-mulhouse-basket-agglomeration-so-maritime-
+ boulogne@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20270205T200000
+DTEND;TZID=Europe/Paris:20270205T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – SO MARITIME BOULOGNE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
+ O MARITIME BOULOGNE\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Ill
+ berg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014597068
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597068
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-12-20-00-pays-salonais-basket-13-psb-13-1-mulhouse-
+ basket-ag@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:✈️ PAYS SALONAIS BASKET 13 (PSB 13) - 1 – MULHOUSE BASKET AGG
+ LOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PAYS SALONAIS BASKET 13 (PSB 13) -
+  1 vs MULHOUSE BASKET AGGLOMERATION\n\nHALLE DES SPORTS SAINT COME\n📍 B
+ oulevard de l'Europe Salon-de-Provence 13300\n🚗 Waze : https://waze.com
+ /ul?ll=43.64615\,5.10302&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/m
+ atch/200000014597078
+LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
+ nce 13300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597078
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-16-20-00-mulhouse-basket-agglomeration-sas-performa
+ nce-1@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20270216T200000
+DTEND;TZID=Europe/Paris:20270216T220000
+SUMMARY:🏠 MULHOUSE BASKET AGGLOMERATION – SAS PERFORMANCE - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
+ AS PERFORMANCE - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illb
+ erg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm1/match/200000014597093
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597093
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-19-20-00-val-de-seine-basket-mulhouse-basket-agglom
+ eration@ffbb-agenda
+DTSTAMP:20260817T085523Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:✈️ VAL DE SEINE BASKET – MULHOUSE BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE BASKET vs MULHOUSE BA
+ SKET AGGLOMERATION\n\nGYMNASE GUIMIER\n📍 Route du Pavillon de l'Abbé M
+ eudon 92360\n🚗 Waze : https://waze.com/ul?ll=48.80867\,2.2189&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm1/match/200000014597106
+LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'Abbé Meudon 92360
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597106
+END:VEVENT
+END:VCALENDAR

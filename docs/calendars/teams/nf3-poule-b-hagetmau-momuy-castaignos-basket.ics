@@ -1,0 +1,364 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – HAGETMAU MOMUY CASTAIGNOS BASKET  [NF3 –  – Poule B]
+X-WR-CALDESC:Matchs de HAGETMAU MOMUY CASTAIGNOS BASKET – NF3 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-09-13-15-30-hagetmau-momuy-castaignos-basket-le-tailla
+ n-basket-@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – LE TAILLAN BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s LE TAILLAN BASKET - 1\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin des 
+ Loussets Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,-0.5
+ 9268&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nf3/match/200000014601611
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601611
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-09-20-15-30-feytiat-basket-87-2-hagetmau-momuy-castaig
+ nos-baske@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ FEYTIAT BASKET 87 - 2 – HAGETMAU MOMUY CASTAIGNOS BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ FEYTIAT BASKET 87 - 2 vs HAGETMAU 
+ MOMUY CASTAIGNOS BASKET\n\nSALLE ROGER COUDERC\n📍 Rue du Manège Feytia
+ t 87220\n🚗 Waze : https://waze.com/ul?ll=45.80542\,1.32598&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf3/match/200000014601659
+LOCATION:SALLE ROGER COUDERC\, Rue du Manège Feytiat 87220
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601659
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-09-27-15-30-hagetmau-momuy-castaignos-basket-lons-bask
+ et-1@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – LONS BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s LONS BASKET - 1\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin des Lousse
+ ts Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,-0.59268&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf3/match/200000014601707
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601707
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-10-03-20-00-elan-chalossais-1-hagetmau-momuy-castaigno
+ s-basket@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ ELAN CHALOSSAIS - 1 – HAGETMAU MOMUY CASTAIGNOS BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ ELAN CHALOSSAIS - 1 vs HAGETMAU MO
+ MUY CASTAIGNOS BASKET\n\nSALLE DE SORT EN CHALOSSE\n📍 Route du Moulin S
+ ort-en-Chalosse 40180\n🚗 Waze : https://waze.com/ul?ll=43.68226\,-0.929
+ 02&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf3/match/200000014601755
+LOCATION:SALLE DE SORT EN CHALOSSE\, Route du Moulin Sort-en-Chalosse 40180
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601755
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-10-11-15-30-hagetmau-momuy-castaignos-basket-ie-ctc-ca
+ ussade-gi@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – IE - CTC CAUSSADE-GIMBELE
+ T
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s IE - CTC CAUSSADE-GIMBELET\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin
+  des Loussets Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\
+ ,-0.59268&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nf3/match/2000000146
+ 01803
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601803
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-10-25-15-30-ie-auch-basket-club-1-hagetmau-momuy-casta
+ ignos-bas@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20261025T153000
+DTEND;TZID=Europe/Paris:20261025T173000
+SUMMARY:✈️ IE - AUCH BASKET CLUB - 1 – HAGETMAU MOMUY CASTAIGNOS BASK
+ ET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ IE - AUCH BASKET CLUB - 1 vs HAGET
+ MAU MOMUY CASTAIGNOS BASKET\n\nSALLE MATHALIN\n📍 Rue du 11 Novembre Auc
+ h 32000\n🚗 Waze : https://waze.com/ul?ll=43.64229\,0.5911&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf3/match/200000014601851
+LOCATION:SALLE MATHALIN\, Rue du 11 Novembre Auch 32000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601851
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-11-01-15-30-hagetmau-momuy-castaignos-basket-albi-bask
+ et-81-1@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – ALBI BASKET 81 - 1
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s ALBI BASKET 81 - 1\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin des Lou
+ ssets Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,-0.5926
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf3/match/200000014601894
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601894
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-11-08-15-30-aytre-basket-ball-1-hagetmau-momuy-castaig
+ nos-baske@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ AYTRE  BASKET BALL - 1 – HAGETMAU MOMUY CASTAIGNOS BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ AYTRE  BASKET BALL - 1 vs HAGETMAU
+  MOMUY CASTAIGNOS BASKET\n\nCOMPLEXE SPORTIF DES GALERES\n📍 Rue des Pâ
+ querettes Aytré 17440\n🚗 Waze : https://waze.com/ul?ll=46.13303\,-1.12
+ 513&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf3/match/200000014601944
+LOCATION:COMPLEXE SPORTIF DES GALERES\, Rue des Pâquerettes Aytré 17440
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601944
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-11-15-15-30-hagetmau-momuy-castaignos-basket-coteaux-d
+ u-luy-bas@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – COTEAUX DU LUY BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s COTEAUX DU LUY BASKET\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin des 
+ Loussets Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,-0.5
+ 9268&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nf3/match/200000014601992
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601992
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-11-29-15-30-abb-cornebarrieu-1-hagetmau-momuy-castaign
+ os-basket@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ ABB CORNEBARRIEU - 1 – HAGETMAU MOMUY CASTAIGNOS BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ ABB CORNEBARRIEU - 1 vs HAGETMAU M
+ OMUY CASTAIGNOS BASKET\n\nESPACE SPORTIF P. de COUBERTIN\n📍 Chemin des 
+ Ambrits Cornebarrieu 31700\n🚗 Waze : https://waze.com/ul?ll=43.65299\,1
+ .31894&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf3/match/2000000146020
+ 39
+LOCATION:ESPACE SPORTIF P. de COUBERTIN\, Chemin des Ambrits Cornebarrieu 3
+ 1700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602039
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2026-12-06-15-30-ca-begles-1-hagetmau-momuy-castaignos-bask
+ et@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ CA BEGLES - 1 – HAGETMAU MOMUY CASTAIGNOS BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ CA BEGLES - 1 vs HAGETMAU MOMUY CA
+ STAIGNOS BASKET\n\nGYMNASE LANGEVIN\n📍 Rue de Lauriol Bègles 33130\n
+ 🚗 Waze : https://waze.com/ul?ll=44.81001\,-0.56811&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014602088
+LOCATION:GYMNASE LANGEVIN\, Rue de Lauriol Bègles 33130
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602088
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-01-10-15-30-le-taillan-basket-1-hagetmau-momuy-castaig
+ nos-baske@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ LE TAILLAN BASKET - 1 – HAGETMAU MOMUY CASTAIGNOS BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ LE TAILLAN BASKET - 1 vs HAGETMAU 
+ MOMUY CASTAIGNOS BASKET\n\nSALLE DES SPORTS\n📍 Avenue du Stade Le Taill
+ an-Médoc 33320\n🚗 Waze : https://waze.com/ul?ll=44.91573\,-0.68197&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf3/match/200000014602139
+LOCATION:SALLE DES SPORTS\, Avenue du Stade Le Taillan-Médoc 33320
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602139
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-01-17-15-30-hagetmau-momuy-castaignos-basket-feytiat-b
+ asket-87-@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – FEYTIAT BASKET 87 - 2
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s FEYTIAT BASKET 87 - 2\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin des 
+ Loussets Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,-0.5
+ 9268&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nf3/match/200000014602187
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602187
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-01-31-15-30-lons-basket-1-hagetmau-momuy-castaignos-ba
+ sket@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ LONS BASKET - 1 – HAGETMAU MOMUY CASTAIGNOS BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ LONS BASKET - 1 vs HAGETMAU MOMUY 
+ CASTAIGNOS BASKET\n\nSALLE SP. J.R.BELLOCQ\n📍 Avenue de Pau Lons 64140\
+ n🚗 Waze : https://waze.com/ul?ll=43.30951\,-0.40772&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602235
+LOCATION:SALLE SP. J.R.BELLOCQ\, Avenue de Pau Lons 64140
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602235
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-02-06-20-00-hagetmau-momuy-castaignos-basket-elan-chal
+ ossais-1@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – ELAN CHALOSSAIS - 1
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s ELAN CHALOSSAIS - 1\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin des Lo
+ ussets Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,-0.592
+ 68&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf3/match/200000014602283
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602283
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-02-14-15-30-ie-ctc-caussade-gimbelet-hagetmau-momuy-ca
+ staignos-@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ IE - CTC CAUSSADE-GIMBELET – HAGETMAU MOMUY CASTAIGNOS BAS
+ KET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ IE - CTC CAUSSADE-GIMBELET vs HAGE
+ TMAU MOMUY CASTAIGNOS BASKET\n\nGYMNASE MUNICIPAL\n📍 Rue Jean Moulin Ca
+ ussade 82300\n🚗 Waze : https://waze.com/ul?ll=44.15329\,1.53331&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf3/match/200000014602331
+LOCATION:GYMNASE MUNICIPAL\, Rue Jean Moulin Caussade 82300
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602331
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-02-28-15-30-hagetmau-momuy-castaignos-basket-ie-auch-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – IE - AUCH BASKET CLUB - 1
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s IE - AUCH BASKET CLUB - 1\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin 
+ des Loussets Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,
+ -0.59268&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nf3/match/20000001460
+ 2379
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602379
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-03-07-15-30-albi-basket-81-1-hagetmau-momuy-castaignos
+ -basket@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:✈️ ALBI BASKET 81 - 1 – HAGETMAU MOMUY CASTAIGNOS BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ ALBI BASKET 81 - 1 vs HAGETMAU MOM
+ UY CASTAIGNOS BASKET\n\nSALLE DU COSEC\n📍 Avenue Colonel Teyssier Albi 
+ 81000\n🚗 Waze : https://waze.com/ul?ll=43.9225\,2.16223&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf3/match/200000014602422
+LOCATION:SALLE DU COSEC\, Avenue Colonel Teyssier Albi 81000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602422
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-03-14-15-30-hagetmau-momuy-castaignos-basket-aytre-bas
+ ket-ball-@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – AYTRE  BASKET BALL - 1
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s AYTRE  BASKET BALL - 1\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin des
+  Loussets Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,-0.
+ 59268&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf3/match/20000001460247
+ 2
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602472
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-03-28-15-30-coteaux-du-luy-basket-hagetmau-momuy-casta
+ ignos-bas@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:✈️ COTEAUX DU LUY BASKET – HAGETMAU MOMUY CASTAIGNOS BASKET
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ COTEAUX DU LUY BASKET vs HAGETMAU 
+ MOMUY CASTAIGNOS BASKET\n\nSALLE DE MONSEGUR\n📍 Route des Pyrénées Mo
+ nségur 40700\n🚗 Waze : https://waze.com/ul?ll=43.6043\,-0.54151&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nf3/match/200000014602520
+LOCATION:SALLE DE MONSEGUR\, Route des Pyrénées Monségur 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602520
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-04-11-15-30-hagetmau-momuy-castaignos-basket-abb-corne
+ barrieu-1@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – ABB CORNEBARRIEU - 1
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s ABB CORNEBARRIEU - 1\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin des L
+ oussets Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,-0.59
+ 268&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf3/match/200000014602567
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602567
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-b-2027-04-18-15-30-hagetmau-momuy-castaignos-basket-ca-begles
+ -1@ffbb-agenda
+DTSTAMP:20260817T084746Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:🏠 HAGETMAU MOMUY CASTAIGNOS BASKET – CA BEGLES - 1
+DESCRIPTION:🏀 NF3 – Poule B\n⚔️ HAGETMAU MOMUY CASTAIGNOS BASKET v
+ s CA BEGLES - 1\n\nHAGETMAU Salle ALAIN LANSAMAN\n📍 Chemin des Loussets
+  Hagetmau 40700\n🚗 Waze : https://waze.com/ul?ll=43.65177\,-0.59268&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf3/match/200000014602616
+LOCATION:HAGETMAU Salle ALAIN LANSAMAN\, Chemin des Loussets Hagetmau 40700
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602616
+END:VEVENT
+END:VCALENDAR

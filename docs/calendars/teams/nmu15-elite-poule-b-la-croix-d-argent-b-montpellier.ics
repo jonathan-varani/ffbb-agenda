@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LA CROIX D'ARGENT B MONTPELLIER  [NMU15-ELITE –  – Poule B]
+X-WR-CALDESC:Matchs de LA CROIX D'ARGENT B MONTPELLIER – NMU15-ELITE – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-09-13-13-15-la-croix-d-argent-b-montpellier-cl
+ ermont-ba@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – CLERMONT BASKET
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs CLERMONT BASKET\n\nGYMNASE ROGER COUDERC\n📍 Rue du Mas de Lema
+ sson Montpellier 34070\n🚗 Waze : https://waze.com/ul?ll=43.59708\,3.869
+ 22&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nmu15-elite/match/200000014
+ 600535
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00535
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-09-20-13-15-ie-ctc-avenir-toulouse-basket-1-la
+ -croix-d-@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20260920T131500
+DTEND;TZID=Europe/Paris:20260920T151500
+SUMMARY:✈️ IE - CTC AVENIR TOULOUSE BASKET - 1 – LA CROIX D'ARGENT B 
+ MONTPELLIER
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ IE - CTC AVENIR TOULOUSE B
+ ASKET - 1 vs LA CROIX D'ARGENT B MONTPELLIER\n\nSALLE E. DEWOITINE\n📍 C
+ hemin de Garric Toulouse 31200\n🚗 Waze : https://waze.com/ul?ll=43.6212
+ 8\,1.40842&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/2
+ 00000014600563
+LOCATION:SALLE E. DEWOITINE\, Chemin de Garric Toulouse 31200
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00563
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-09-27-13-15-la-croix-d-argent-b-montpellier-un
+ ion-loire@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – UNION LOIRE SUD BASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs UNION LOIRE SUD BASKET - 1\n\nGYMNASE ROGER COUDERC\n📍 Rue du 
+ Mas de Lemasson Montpellier 34070\n🚗 Waze : https://waze.com/ul?ll=43.5
+ 9708\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/matc
+ h/200000014600588
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00588
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-10-04-13-15-montauban-basket-club-la-croix-d-a
+ rgent-b-m@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:✈️ MONTAUBAN BASKET CLUB – LA CROIX D'ARGENT B MONTPELLIER
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ MONTAUBAN BASKET CLUB vs L
+ A CROIX D'ARGENT B MONTPELLIER\n\nSALLE MULTISPORTS\n📍 Rue du Ramiérou
+  Montauban 82000\n🚗 Waze : https://waze.com/ul?ll=44.01268\,1.37509&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nmu15-elite/match/200000014600616
+LOCATION:SALLE MULTISPORTS\, Rue du Ramiérou Montauban 82000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00616
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-10-11-13-15-bruguieres-basket-club-1-la-croix-
+ d-argent-@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:✈️ BRUGUIERES BASKET CLUB - 1 – LA CROIX D'ARGENT B MONTPELLI
+ ER
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ BRUGUIERES BASKET CLUB - 1
+  vs LA CROIX D'ARGENT B MONTPELLIER\n\nGYMNASE RENE ALBUS ROUGE\n📍 All
+ ée Pierre de Coubertin Bruguières 31150\n🚗 Waze : https://waze.com/ul
+ ?ll=43.72011\,1.41298&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-el
+ ite/match/200000014600642
+LOCATION:GYMNASE RENE ALBUS ROUGE\, Allée Pierre de Coubertin Bruguières 
+ 31150
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00642
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-11-01-13-15-clermont-basket-la-croix-d-argent-
+ b-montpel@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:✈️ CLERMONT BASKET – LA CROIX D'ARGENT B MONTPELLIER
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ CLERMONT BASKET vs LA CROI
+ X D'ARGENT B MONTPELLIER\n\nGYMNASE GRANOUILLET\n📍 Rue de Châteaudun C
+ lermont-Ferrand 63000\n🚗 Waze : https://waze.com/ul?ll=45.78035\,3.1001
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00670
+LOCATION:GYMNASE GRANOUILLET\, Rue de Châteaudun Clermont-Ferrand 63000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00670
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-11-08-13-15-la-croix-d-argent-b-montpellier-ie
+ -ctc-aven@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – IE - CTC AVENIR TOULOUSE B
+ ASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs IE - CTC AVENIR TOULOUSE BASKET - 1\n\nGYMNASE ROGER COUDERC\n
+ 📍 Rue du Mas de Lemasson Montpellier 34070\n🚗 Waze : https://waze.co
+ m/ul?ll=43.59708\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
+ 5-elite/match/200000014600698
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00698
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-11-15-13-15-union-loire-sud-basket-1-la-croix-
+ d-argent-@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:✈️ UNION LOIRE SUD BASKET - 1 – LA CROIX D'ARGENT B MONTPELLI
+ ER
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ UNION LOIRE SUD BASKET - 1
+  vs LA CROIX D'ARGENT B MONTPELLIER\n\nSALLE DU JARDIN PUBLIC\n📍 Rue de
+ s Écoles Saint-Just-Saint-Rambert 42170\n🚗 Waze : https://waze.com/ul?
+ ll=45.50455\,4.26419&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-eli
+ te/match/200000014600723
+LOCATION:SALLE DU JARDIN PUBLIC\, Rue des Écoles Saint-Just-Saint-Rambert 
+ 42170
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00723
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-11-29-13-15-la-croix-d-argent-b-montpellier-mo
+ ntauban-b@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – MONTAUBAN BASKET CLUB
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs MONTAUBAN BASKET CLUB\n\nGYMNASE ROGER COUDERC\n📍 Rue du Mas d
+ e Lemasson Montpellier 34070\n🚗 Waze : https://waze.com/ul?ll=43.59708\
+ ,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/200
+ 000014600751
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00751
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-b-2026-12-06-13-15-la-croix-d-argent-b-montpellier-br
+ uguieres-@ffbb-agenda
+DTSTAMP:20260817T085904Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – BRUGUIERES BASKET CLUB - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs BRUGUIERES BASKET CLUB - 1\n\nGYMNASE ROGER COUDERC\n📍 Rue du 
+ Mas de Lemasson Montpellier 34070\n🚗 Waze : https://waze.com/ul?ll=43.5
+ 9708\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/matc
+ h/200000014600777
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00777
+END:VEVENT
+END:VCALENDAR

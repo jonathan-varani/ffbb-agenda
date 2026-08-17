@@ -1,0 +1,367 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BORDEAUX ETUDIANTS CLUB  [NF2 –  – Poule B]
+X-WR-CALDESC:Matchs de BORDEAUX ETUDIANTS CLUB – NF2 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-12-20-00-bordeaux-etudiants-club-ie-as-st-delphin-2
+ @ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – IE - AS ST DELPHIN - 2
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs IE - AS
+  ST DELPHIN - 2\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800\n🚗 
+ Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nf2/match/200000014601079
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601079
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-19-20-00-avenir-basket-chalosse-1-bordeaux-etudiant
+ s-club@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ AVENIR BASKET CHALOSSE - 1 – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AVENIR BASKET CHALOSSE - 1 vs BORD
+ EAUX ETUDIANTS CLUB\n\nPOMAREZ S. A.GARBAY\n📍 Place des Arènes Pomarez
+  40360\n🚗 Waze : https://waze.com/ul?ll=43.62818\,-0.82899&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf2/match/200000014601103
+LOCATION:POMAREZ S. A.GARBAY\, Place des Arènes Pomarez 40360
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601103
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-26-20-00-bordeaux-etudiants-club-toulouse-metropole
+ -basket-s@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – TOULOUSE METROPOLE BASKET SAS - ES
+ POIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs TOULOUS
+ E METROPOLE BASKET SAS - ESPOIR\n\nGYMNASE BARBEY\n📍 Cours Barbey Borde
+ aux 33800\n🚗 Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf2/match/200000014601127
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601127
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-03-20-00-as-tournefeuille-1-bordeaux-etudiants-club
+ @ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ AS TOURNEFEUILLE - 1 – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs BORDEAUX E
+ TUDIANTS CLUB\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tournefe
+ uille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf2/match/200000014601151
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601151
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-10-20-00-bordeaux-etudiants-club-us-orthez-basket@f
+ fbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – US ORTHEZ BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs US ORTH
+ EZ BASKET\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800\n🚗 Waze :
+  https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nf2/match/200000014601175
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601175
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-24-20-00-stade-rochelais-basket-bordeaux-etudiants-
+ club@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:✈️ STADE ROCHELAIS BASKET – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs BORDEAUX
+  ETUDIANTS CLUB\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochel
+ le 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf2/match/200000014601199
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601199
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-31-20-00-anglet-cote-basque-basket-1-bordeaux-etudi
+ ants-club@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ ANGLET COTE BASQUE BASKET - 1 – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ ANGLET COTE BASQUE BASKET - 1 vs B
+ ORDEAUX ETUDIANTS CLUB\n\nC.SP. EL HOGAR\n📍 Rue de Hausquette Anglet 64
+ 600\n🚗 Waze : https://waze.com/ul?ll=43.49495\,-1.50988&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf2/match/200000014601223
+LOCATION:C.SP. EL HOGAR\, Rue de Hausquette Anglet 64600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601223
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-07-20-00-bordeaux-etudiants-club-garonne-avenir-bas
+ ket-du-ma@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – GARONNE AVENIR BASKET DU MARMANDAI
+ S
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs GARONNE
+  AVENIR BASKET DU MARMANDAIS\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux
+  33800\n🚗 Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf2/match/200000014601247
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601247
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-14-20-00-bordeaux-etudiants-club-blma-espoir@ffbb-a
+ genda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – BLMA - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs BLMA - 
+ ESPOIR\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800\n🚗 Waze : ht
+ tps://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
+ petitions/nf2/match/200000014601270
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601270
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-28-17-15-basket-landes-sasp-espoir-bordeaux-etudian
+ ts-club@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261128T171500
+DTEND;TZID=Europe/Paris:20261128T191500
+SUMMARY:✈️ BASKET LANDES SASP - ESPOIR – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BASKET LANDES SASP - ESPOIR vs BOR
+ DEAUX ETUDIANTS CLUB\n\nESPACE F. MITTERRAND\n📍 Rue de la Ferme du Cont
+ e Mont-de-Marsan 40000\n🚗 Waze : https://waze.com/ul?ll=43.89754\,-0.46
+ 468&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf2/match/200000014601293
+LOCATION:ESPACE F. MITTERRAND\, Rue de la Ferme du Conte Mont-de-Marsan 400
+ 00
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601293
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-12-05-20-00-bordeaux-etudiants-club-ie-etoile-sportive
+ -gimontoi@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – IE - ETOILE SPORTIVE GIMONTOISE BB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs IE - ET
+ OILE SPORTIVE GIMONTOISE BB\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 
+ 33800\n🚗 Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf2/match/200000014601318
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601318
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-09-20-00-ie-as-st-delphin-2-bordeaux-etudiants-club
+ @ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:✈️ IE - AS ST DELPHIN - 2 – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ IE - AS ST DELPHIN - 2 vs BORDEAUX
+  ETUDIANTS CLUB\n\nCOMPLEXE SP. ELISABETH RIFFIOD\n📍 Chemin de Leysotte
+  Villenave-d'Ornon 33140\n🚗 Waze : https://waze.com/ul?ll=44.79429\,-0.
+ 58076&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460134
+ 3
+LOCATION:COMPLEXE SP. ELISABETH RIFFIOD\, Chemin de Leysotte Villenave-d'Or
+ non 33140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601343
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-16-20-00-bordeaux-etudiants-club-avenir-basket-chal
+ osse-1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – AVENIR BASKET CHALOSSE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs AVENIR 
+ BASKET CHALOSSE - 1\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800\n
+ 🚗 Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf2/match/200000014601367
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601367
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-30-17-15-toulouse-metropole-basket-sas-espoir-borde
+ aux-etudi@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270130T171500
+DTEND;TZID=Europe/Paris:20270130T191500
+SUMMARY:✈️ TOULOUSE METROPOLE BASKET SAS - ESPOIR – BORDEAUX ETUDIANT
+ S CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs BORDEAUX ETUDIANTS CLUB\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue Pi
+ erre Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127\,1
+ .43452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000146013
+ 91
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601391
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-06-20-00-bordeaux-etudiants-club-as-tournefeuille-1
+ @ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs AS TOUR
+ NEFEUILLE - 1\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800\n🚗 Wa
+ ze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nf2/match/200000014601415
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601415
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-13-20-00-us-orthez-basket-bordeaux-etudiants-club@f
+ fbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ US ORTHEZ BASKET – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ US ORTHEZ BASKET vs BORDEAUX ETUDI
+ ANTS CLUB\n\nSALLE P. SEILLANT\n📍 Boulevard Charles de Gaulle Orthez 64
+ 300\n🚗 Waze : https://waze.com/ul?ll=43.48636\,-0.75921&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf2/match/200000014601439
+LOCATION:SALLE P. SEILLANT\, Boulevard Charles de Gaulle Orthez 64300
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601439
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-27-20-00-bordeaux-etudiants-club-stade-rochelais-ba
+ sket@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs STADE R
+ OCHELAIS BASKET\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800\n🚗 
+ Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nf2/match/200000014601463
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601463
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-06-20-00-bordeaux-etudiants-club-anglet-cote-basque
+ -basket-1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – ANGLET COTE BASQUE BASKET - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs ANGLET 
+ COTE BASQUE BASKET - 1\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800
+ \n🚗 Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601487
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601487
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-13-20-00-garonne-avenir-basket-du-marmandais-bordea
+ ux-etudia@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ GARONNE AVENIR BASKET DU MARMANDAIS – BORDEAUX ETUDIANTS C
+ LUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ GARONNE AVENIR BASKET DU MARMANDAI
+ S vs BORDEAUX ETUDIANTS CLUB\n\nSALLE DES SPORTS\n📍 Chemin de Ronde de 
+ Sillac Meilhan-sur-Garonne 47180\n🚗 Waze : https://waze.com/ul?ll=44.52
+ 256\,0.03386&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000
+ 14601511
+LOCATION:SALLE DES SPORTS\, Chemin de Ronde de Sillac Meilhan-sur-Garonne 4
+ 7180
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601511
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-27-17-15-blma-espoir-bordeaux-etudiants-club@ffbb-a
+ genda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270327T171500
+DTEND;TZID=Europe/Paris:20270327T191500
+SUMMARY:✈️ BLMA - ESPOIR – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BLMA - ESPOIR vs BORDEAUX ETUDIANT
+ S CLUB\n\nPALAIS DES SPORTS\n📍 Rue des Jonquilles Lattes 34970\n🚗 Wa
+ ze : https://waze.com/ul?ll=43.57016\,3.90224&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nf2/match/200000014601534
+LOCATION:PALAIS DES SPORTS\, Rue des Jonquilles Lattes 34970
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601534
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-04-10-20-00-bordeaux-etudiants-club-basket-landes-sasp
+ -espoir@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 BORDEAUX ETUDIANTS CLUB – BASKET LANDES SASP - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs BASKET 
+ LANDES SASP - ESPOIR\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800\n
+ 🚗 Waze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf2/match/200000014601557
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601557
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-04-17-20-00-ie-etoile-sportive-gimontoise-bb-bordeaux-
+ etudiants@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:✈️ IE - ETOILE SPORTIVE GIMONTOISE BB – BORDEAUX ETUDIANTS CL
+ UB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ IE - ETOILE SPORTIVE GIMONTOISE BB
+  vs BORDEAUX ETUDIANTS CLUB\n\nGYMNASE EN PETRE\n📍 Route de Saramon Gim
+ ont 32200\n🚗 Waze : https://waze.com/ul?ll=43.6294\,0.86519&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf2/match/200000014601582
+LOCATION:GYMNASE EN PETRE\, Route de Saramon Gimont 32200
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601582
+END:VEVENT
+END:VCALENDAR

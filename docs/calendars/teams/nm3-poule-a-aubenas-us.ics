@@ -1,0 +1,417 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AUBENAS US  [NM3 –  – Poule A]
+X-WR-CALDESC:Matchs de AUBENAS US – NM3 – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-09-05-20-00-aubenas-us-mantaille-sportif@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:🏠 AUBENAS US – MANTAILLE SPORTIF
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs MANTAILLE SPORTIF\n\
+ nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubenas 07200\
+ n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm3/match/200000014598806
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598806
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-09-12-20-00-basket-club-la-garde-1-aubenas-us@ffbb-age
+ nda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ BASKET CLUB LA GARDE - 1 – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ BASKET CLUB LA GARDE - 1 vs AUBENA
+ S US\n\nGYMNASE JACQUES TROIN\n📍 Avenue Jean Jaurès La Garde 83130\n
+ 🚗 Waze : https://waze.com/ul?ll=43.12183\,6.01015&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014598867
+LOCATION:GYMNASE JACQUES TROIN\, Avenue Jean Jaurès La Garde 83130
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598867
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-09-19-20-00-etoile-filante-o-bastia-bb-aubenas-us@ffbb
+ -agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ ETOILE FILANTE O BASTIA BB – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ ETOILE FILANTE O BASTIA BB vs AUBE
+ NAS US\n\nCOSEC PEPITO FERETTI\n📍 Bastia 20200\n🚗 Waze : https://waz
+ e.com/ul?ll=42.70257\,9.42778&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/
+ nm3/match/200000014598919
+LOCATION:COSEC PEPITO FERETTI\, Bastia 20200
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598919
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-09-26-20-00-aubenas-us-bbc-eybens-poisat-1@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 AUBENAS US – BBC EYBENS POISAT - 1
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs BBC EYBENS POISAT - 
+ 1\n\nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubenas 07
+ 200\n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014598974
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014598974
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-10-03-20-00-aubenas-us-as-monaco-basket@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 AUBENAS US – AS MONACO BASKET
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs AS MONACO BASKET\n\n
+ HALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubenas 07200\n
+ 🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014599033
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599033
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-10-10-20-00-aubenas-us-terres-froides-basket-1@ffbb-ag
+ enda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 AUBENAS US – TERRES FROIDES BASKET - 1
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs TERRES FROIDES BASKE
+ T - 1\n\nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubena
+ s 07200\n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nm3/match/200000014599086
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599086
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-10-17-20-00-es-lorguaise-basket-club-1-aubenas-us@ffbb
+ -agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:✈️ ES LORGUAISE BASKET CLUB - 1 – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ ES LORGUAISE BASKET CLUB - 1 vs AU
+ BENAS US\n\nSALLE Raoûl LIMBRON\n📍 Boulevard Réal Calamar Lorgues 835
+ 10\n🚗 Waze : https://waze.com/ul?ll=43.49503\,6.36729&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599147
+LOCATION:SALLE Raoûl LIMBRON\, Boulevard Réal Calamar Lorgues 83510
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599147
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-10-31-20-00-aubenas-us-bandol-basket-club-1@ffbb-agend
+ a
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 AUBENAS US – BANDOL BASKET CLUB - 1
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs BANDOL BASKET CLUB -
+  1\n\nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubenas 0
+ 7200\n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nm3/match/200000014599198
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599198
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-11-07-20-00-tain-tournon-ag-1-aubenas-us@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ TAIN TOURNON AG - 1 – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ TAIN TOURNON AG - 1 vs AUBENAS US\
+ n\nFERNAND CHAPELLE\n📍 Rue Jean Monnet Tain-l'Hermitage 26600\n🚗 Waz
+ e : https://waze.com/ul?ll=45.06952\,4.86041&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nm3/match/200000014599253
+LOCATION:FERNAND CHAPELLE\, Rue Jean Monnet Tain-l'Hermitage 26600
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599253
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-11-14-20-00-aubenas-us-ail-de-rousset@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 AUBENAS US – AIL DE ROUSSET
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs AIL DE ROUSSET\n\nHA
+ LLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubenas 07200\n
+ 🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014599310
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599310
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-11-28-20-00-al-saint-priest-aubenas-us@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:✈️ AL SAINT PRIEST – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AL SAINT PRIEST vs AUBENAS US\n\nG
+ YMNASE LEON PERRIER\n📍 Rue Joan Miró Saint-Priest 69800\n🚗 Waze : h
+ ttps://waze.com/ul?ll=45.69538\,4.93685&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
+ petitions/nm3/match/200000014599368
+LOCATION:GYMNASE LEON PERRIER\, Rue Joan Miró Saint-Priest 69800
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599368
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-12-05-20-00-aubenas-us-ac-golfe-juan-vallauris-1@ffbb-
+ agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 AUBENAS US – AC GOLFE JUAN VALLAURIS - 1
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs AC GOLFE JUAN VALLAU
+ RIS - 1\n\nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aube
+ nas 07200\n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm3/match/200000014599422
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599422
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2026-12-12-20-00-aubagne-garlaban-basket-aubenas-us@ffbb-ag
+ enda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:✈️ AUBAGNE GARLABAN BASKET – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBAGNE GARLABAN BASKET vs AUBENAS
+  US\n\nGYMNASE DU BRAS D'OR\n📍 Avenue des Goums Aubagne 13400\n🚗 Waz
+ e : https://waze.com/ul?ll=43.29095\,5.56051&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nm3/match/200000014599482
+LOCATION:GYMNASE DU BRAS D'OR\, Avenue des Goums Aubagne 13400
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599482
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-01-02-20-00-mantaille-sportif-aubenas-us@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:✈️ MANTAILLE SPORTIF – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ MANTAILLE SPORTIF vs AUBENAS US\n\
+ nSALLE MARCEL MAGNAN\n📍 Route de Châteauneuf Anneyron 26140\n🚗 Waze
+  : https://waze.com/ul?ll=45.25131\,4.92429&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm3/match/200000014599534
+LOCATION:SALLE MARCEL MAGNAN\, Route de Châteauneuf Anneyron 26140
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599534
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-01-09-20-00-aubenas-us-basket-club-la-garde-1@ffbb-age
+ nda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 AUBENAS US – BASKET CLUB LA GARDE - 1
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs BASKET CLUB LA GARDE
+  - 1\n\nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubenas
+  07200\n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm3/match/200000014599595
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599595
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-01-16-20-00-aubenas-us-etoile-filante-o-bastia-bb@ffbb
+ -agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 AUBENAS US – ETOILE FILANTE O BASTIA BB
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs ETOILE FILANTE O BAS
+ TIA BB\n\nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Auben
+ as 07200\n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm3/match/200000014599647
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599647
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-01-30-20-00-bbc-eybens-poisat-1-aubenas-us@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ BBC EYBENS POISAT - 1 – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ BBC EYBENS POISAT - 1 vs AUBENAS U
+ S\n\nGYMNASE FERNAND FAIVRE\n📍 Rue Charles Piot Eybens 38320\n🚗 Waze
+  : https://waze.com/ul?ll=45.15754\,5.75291&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm3/match/200000014599702
+LOCATION:GYMNASE FERNAND FAIVRE\, Rue Charles Piot Eybens 38320
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599702
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-02-06-20-00-as-monaco-basket-aubenas-us@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ AS MONACO BASKET – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AS MONACO BASKET vs AUBENAS US\n\n
+ GYMNASE SCOLAIRE LOUIS II\n📍 Avenue des Castelans Monaco 98000\n🚗 Wa
+ ze : https://waze.com/ul?ll=43.72658\,7.41522&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm3/match/200000014599761
+LOCATION:GYMNASE SCOLAIRE LOUIS II\, Avenue des Castelans Monaco 98000
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599761
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-02-13-20-00-terres-froides-basket-1-aubenas-us@ffbb-ag
+ enda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ TERRES FROIDES BASKET - 1 – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ TERRES FROIDES BASKET - 1 vs AUBEN
+ AS US\n\nSALLE SPORTIVE L'ENVOL\n📍 Route du Rivier Apprieu 38140\n🚗 
+ Waze : https://waze.com/ul?ll=45.39603\,5.50211&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nm3/match/200000014599814
+LOCATION:SALLE SPORTIVE L'ENVOL\, Route du Rivier Apprieu 38140
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599814
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-02-27-20-00-aubenas-us-es-lorguaise-basket-club-1@ffbb
+ -agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 AUBENAS US – ES LORGUAISE BASKET CLUB - 1
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs ES LORGUAISE BASKET 
+ CLUB - 1\n\nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aub
+ enas 07200\n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm3/match/200000014599875
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599875
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-03-06-20-00-bandol-basket-club-1-aubenas-us@ffbb-agend
+ a
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ BANDOL BASKET CLUB - 1 – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ BANDOL BASKET CLUB - 1 vs AUBENAS 
+ US\n\nGYMNASE MUNICIPAL\n📍 Chemin de Saint-Marc Bandol 83150\n🚗 Waze
+  : https://waze.com/ul?ll=43.13887\,5.74696&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm3/match/200000014599926
+LOCATION:GYMNASE MUNICIPAL\, Chemin de Saint-Marc Bandol 83150
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599926
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-03-13-20-00-aubenas-us-tain-tournon-ag-1@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 AUBENAS US – TAIN TOURNON AG - 1
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs TAIN TOURNON AG - 1\
+ n\nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubenas 0720
+ 0\n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014599981
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014599981
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-03-27-20-00-ail-de-rousset-aubenas-us@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:✈️ AIL DE ROUSSET – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AIL DE ROUSSET vs AUBENAS US\n\nNo
+ uveau GYMNASE R et J.PEISSON\n📍 Avenue Louis Alard Rousset 13790\n🚗 
+ Waze : https://waze.com/ul?ll=43.47943\,5.62701&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nm3/match/200000014600038
+LOCATION:Nouveau GYMNASE R et J.PEISSON\, Avenue Louis Alard Rousset 13790
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600038
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-04-03-20-00-aubenas-us-al-saint-priest@ffbb-agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:🏠 AUBENAS US – AL SAINT PRIEST
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs AL SAINT PRIEST\n\nH
+ ALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubenas 07200\n
+ 🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm3/match/200000014600096
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600096
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-04-17-20-00-ac-golfe-juan-vallauris-1-aubenas-us@ffbb-
+ agenda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:✈️ AC GOLFE JUAN VALLAURIS - 1 – AUBENAS US
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AC GOLFE JUAN VALLAURIS - 1 vs AUB
+ ENAS US\n\nGYMNASE JACQUES ALLINEI\n📍 Avenue des Mimosas Vallauris 0622
+ 0\n🚗 Waze : https://waze.com/ul?ll=43.57156\,7.07819&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm3/match/200000014600150
+LOCATION:GYMNASE JACQUES ALLINEI\, Avenue des Mimosas Vallauris 06220
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600150
+END:VEVENT
+BEGIN:VEVENT
+UID:nm3-poule-a-2027-04-25-15-30-aubenas-us-aubagne-garlaban-basket@ffbb-ag
+ enda
+DTSTAMP:20260817T085609Z
+DTSTART;TZID=Europe/Paris:20270425T153000
+DTEND;TZID=Europe/Paris:20270425T173000
+SUMMARY:🏠 AUBENAS US – AUBAGNE GARLABAN BASKET
+DESCRIPTION:🏀 NM3 – Poule A\n⚔️ AUBENAS US vs AUBAGNE GARLABAN BAS
+ KET\n\nHALLE DES SPORTS AUBENAS\n📍 Boulevard Maréchal Leclerc Aubenas 
+ 07200\n🚗 Waze : https://waze.com/ul?ll=44.61646\,4.38642&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nm3/match/200000014600210
+LOCATION:HALLE DES SPORTS AUBENAS\, Boulevard Maréchal Leclerc Aubenas 072
+ 00
+URL:https://competitions.ffbb.com/competitions/nm3/match/200000014600210
+END:VEVENT
+END:VCALENDAR

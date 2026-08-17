@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSL DIJONNAIS - 2  [NF3 –  – Poule G]
+X-WR-CALDESC:Matchs de CSL DIJONNAIS - 2 – NF3 – Poule G
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-09-13-15-30-csl-dijonnais-2-marne-la-vallee-basket-val
+ -maubuee@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – MARNE-LA-VALLEE BASKET VAL MAUBUEE
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs MARNE-LA-VALL
+ EE BASKET VAL MAUBUEE\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n
+ 🚗 Waze : https://waze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf3/match/200000014601639
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601639
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-09-20-15-30-jeunesse-laique-bourg-en-bresse-csl-dijonn
+ ais-2@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ JEUNESSE LAIQUE BOURG EN BRESSE – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ JEUNESSE LAIQUE BOURG EN BRESSE vs
+  CSL DIJONNAIS - 2\n\nSALLE AMEDEE MERCIER\n📍 Boulevard Saint-Nicolas B
+ ourg-en-Bresse 01000\n🚗 Waze : https://waze.com/ul?ll=46.20378\,5.23417
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf3/match/200000014601687
+LOCATION:SALLE AMEDEE MERCIER\, Boulevard Saint-Nicolas Bourg-en-Bresse 010
+ 00
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601687
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-09-27-15-30-csl-dijonnais-2-bb-cournon-d-auvergne-1@ff
+ bb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – BB COURNON D'AUVERGNE - 1
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs BB COURNON D'
+ AUVERGNE - 1\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n🚗 Waze : 
+ https://waze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nf3/match/200000014601735
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601735
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-10-04-15-30-da-dijon-21-1-csl-dijonnais-2@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ DA DIJON 21 - 1 – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ DA DIJON 21 - 1 vs CSL DIJONNAIS -
+  2\n\nSALLE HERVE LIEMANS\n📍 Boulevard Robert Schuman Dijon 21000\n🚗
+  Waze : https://waze.com/ul?ll=47.30506\,5.05215&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nf3/match/200000014601783
+LOCATION:SALLE HERVE LIEMANS\, Boulevard Robert Schuman Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601783
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-10-11-15-30-csl-dijonnais-2-ie-neulise-al@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – IE - NEULISE AL
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs IE - NEULISE 
+ AL\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n🚗 Waze : https://wa
+ ze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nf3/match/200000014601831
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601831
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-10-25-15-30-pontcharra-sports-csl-dijonnais-2@ffbb-age
+ nda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20261025T153000
+DTEND;TZID=Europe/Paris:20261025T173000
+SUMMARY:✈️ PONTCHARRA SPORTS – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ PONTCHARRA SPORTS vs CSL DIJONNAIS
+  - 2\n\nSALLE PIERRE JUNET\n📍 Route du Stade Vindry-sur-Turdine 69490\n
+ 🚗 Waze : https://waze.com/ul?ll=45.87302\,4.50668&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf3/match/200000014601879
+LOCATION:SALLE PIERRE JUNET\, Route du Stade Vindry-sur-Turdine 69490
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601879
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-11-01-15-30-csl-dijonnais-2-st-remy-sports-basket-1@ff
+ bb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – St REMY SPORTS BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs St REMY SPORT
+ S BASKET - 1\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n🚗 Waze : 
+ https://waze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nf3/match/200000014601926
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601926
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-11-08-15-30-union-sportive-asm-beaumont-basket-ball-cs
+ l-dijonna@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ UNION SPORTIVE ASM BEAUMONT BASKET-BALL – CSL DIJONNAIS - 
+ 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ UNION SPORTIVE ASM BEAUMONT BASKET
+ -BALL vs CSL DIJONNAIS - 2\n\nHALLE DE LA MOURETTE\n📍 Chemin du Mas Bea
+ umont 63110\n🚗 Waze : https://waze.com/ul?ll=45.75007\,3.09679&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf3/match/200000014601973
+LOCATION:HALLE DE LA MOURETTE\, Chemin du Mas Beaumont 63110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601973
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-11-15-15-30-csl-dijonnais-2-eiffel-basket-club@ffbb-ag
+ enda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – EIFFEL BASKET CLUB
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs EIFFEL BASKET
+  CLUB\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n🚗 Waze : https:/
+ /waze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nf3/match/200000014602020
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602020
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-11-29-15-30-union-moneteau-vermenton-csl-dijonnais-2@f
+ fbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ UNION MONETEAU-VERMENTON – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ UNION MONETEAU-VERMENTON vs CSL DI
+ JONNAIS - 2\n\nGYMNASE MUNICIPAL\n📍 Rue d'Auxerre Monéteau 89470\n🚗
+  Waze : https://waze.com/ul?ll=47.84825\,3.57905&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nf3/match/200000014602070
+LOCATION:GYMNASE MUNICIPAL\, Rue d'Auxerre Monéteau 89470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602070
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2026-12-06-15-30-csl-dijonnais-2-red-star-club-de-champigny
+ @ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – RED STAR CLUB DE CHAMPIGNY
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs RED STAR CLUB
+  DE CHAMPIGNY\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n🚗 Waze :
+  https://waze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nf3/match/200000014602118
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602118
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-01-10-15-30-marne-la-vallee-basket-val-maubuee-csl-dij
+ onnais-2@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ MARNE-LA-VALLEE BASKET VAL MAUBUEE – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ MARNE-LA-VALLEE BASKET VAL MAUBUEE
+  vs CSL DIJONNAIS - 2\n\nGYMNASE DE LA LIBERTE\n📍 Mail Le Corbusier Log
+ nes 77185\n🚗 Waze : https://waze.com/ul?ll=48.83945\,2.64389&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf3/match/200000014602167
+LOCATION:GYMNASE DE LA LIBERTE\, Mail Le Corbusier Lognes 77185
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602167
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-01-17-15-30-csl-dijonnais-2-jeunesse-laique-bourg-en-b
+ resse@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – JEUNESSE LAIQUE BOURG EN BRESSE
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs JEUNESSE LAIQ
+ UE BOURG EN BRESSE\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n🚗 W
+ aze : https://waze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nf3/match/200000014602215
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602215
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-01-31-15-30-bb-cournon-d-auvergne-1-csl-dijonnais-2@ff
+ bb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ BB COURNON D'AUVERGNE - 1 – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ BB COURNON D'AUVERGNE - 1 vs CSL D
+ IJONNAIS - 2\n\nSALLE JOSEPH ET MICHEL GARDET\n📍 Avenue de la Libérati
+ on Cournon-d'Auvergne 63800\n🚗 Waze : https://waze.com/ul?ll=45.73245\,
+ 3.19175&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nf3/match/200000014602
+ 263
+LOCATION:SALLE JOSEPH ET MICHEL GARDET\, Avenue de la Libération Cournon-d
+ 'Auvergne 63800
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602263
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-02-07-15-30-csl-dijonnais-2-da-dijon-21-1@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – DA DIJON 21 - 1
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs DA DIJON 21 -
+  1\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n🚗 Waze : https://wa
+ ze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nf3/match/200000014602311
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602311
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-02-14-15-30-ie-neulise-al-csl-dijonnais-2@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ IE - NEULISE AL – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ IE - NEULISE AL vs CSL DIJONNAIS -
+  2\n\nLE NEULIZIUM\n📍 Route de la Digue Neulise 42590\n🚗 Waze : http
+ s://waze.com/ul?ll=45.88998\,4.17362&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nf3/match/200000014602359
+LOCATION:LE NEULIZIUM\, Route de la Digue Neulise 42590
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602359
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-02-28-15-30-csl-dijonnais-2-pontcharra-sports@ffbb-age
+ nda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – PONTCHARRA SPORTS
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs PONTCHARRA SP
+ ORTS\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n🚗 Waze : https://
+ waze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nf3/match/200000014602407
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602407
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-03-07-15-30-st-remy-sports-basket-1-csl-dijonnais-2@ff
+ bb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:✈️ St REMY SPORTS BASKET - 1 – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ St REMY SPORTS BASKET - 1 vs CSL D
+ IJONNAIS - 2\n\nCENTRE SPORTIF COMMUNAL\n📍 D45 Saint-Rémy 01310\n🚗 
+ Waze : https://waze.com/ul?ll=46.19248\,5.167&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nf3/match/200000014602454
+LOCATION:CENTRE SPORTIF COMMUNAL\, D45 Saint-Rémy 01310
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602454
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-03-14-15-30-csl-dijonnais-2-union-sportive-asm-beaumon
+ t-basket-@ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – UNION SPORTIVE ASM BEAUMONT BASKET-BALL
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs UNION SPORTIV
+ E ASM BEAUMONT BASKET-BALL\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000
+ \n🚗 Waze : https://waze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602501
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602501
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-03-28-15-30-eiffel-basket-club-csl-dijonnais-2@ffbb-ag
+ enda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:✈️ EIFFEL BASKET CLUB – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ EIFFEL BASKET CLUB vs CSL DIJONNAI
+ S - 2\n\nGymnase Rue de la Fédération\n📍 Rue de la Fédération Paris
+  75015\n🚗 Waze : https://waze.com/ul?ll=48.85458\,2.29094&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf3/match/200000014602548
+LOCATION:Gymnase Rue de la Fédération\, Rue de la Fédération Paris 7501
+ 5
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602548
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-04-11-15-30-csl-dijonnais-2-union-moneteau-vermenton@f
+ fbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 CSL DIJONNAIS - 2 – UNION MONETEAU-VERMENTON
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ CSL DIJONNAIS - 2 vs UNION MONETEA
+ U-VERMENTON\n\nEPIREY\n📍 Rue Marius Chanteur Dijon 21000\n🚗 Waze : h
+ ttps://waze.com/ul?ll=47.33643\,5.06489&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
+ petitions/nf3/match/200000014602598
+LOCATION:EPIREY\, Rue Marius Chanteur Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602598
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-g-2027-04-18-15-30-red-star-club-de-champigny-csl-dijonnais-2
+ @ffbb-agenda
+DTSTAMP:20260817T084910Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:✈️ RED STAR CLUB DE CHAMPIGNY – CSL DIJONNAIS - 2
+DESCRIPTION:🏀 NF3 – Poule G\n⚔️ RED STAR CLUB DE CHAMPIGNY vs CSL 
+ DIJONNAIS - 2\n\nGYMNASE SIMONE JAFFRAY\n📍 Rue Parmentier Champigny-sur
+ -Marne 94500\n🚗 Waze : https://waze.com/ul?ll=48.81289\,2.54563&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf3/match/200000014602646
+LOCATION:GYMNASE SIMONE JAFFRAY\, Rue Parmentier Champigny-sur-Marne 94500
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602646
+END:VEVENT
+END:VCALENDAR

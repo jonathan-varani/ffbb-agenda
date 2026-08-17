@@ -1,0 +1,549 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NMU15-ELITE – Poule G
+X-WR-CALDESC:Tous les matchs NMU15-ELITE – Poule G
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-09-13-13-15-ie-ctc-centre-essonne-1-sqbb-jsc@f
+ fbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:IE - CTC CENTRE ESSONNE - 1 – SQBB - JSC
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ IE - CTC CENTRE ESSONNE - 
+ 1 vs SQBB - JSC\n\nSALLE JESSE OWENS\n📍 Avenue de l'Aunette Ris-Orangis
+  91130\n🚗 Waze : https://waze.com/ul?ll=48.63879\,2.4138&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu15-elite/match/200000014600549
+LOCATION:SALLE JESSE OWENS\, Avenue de l'Aunette Ris-Orangis 91130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00549
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-09-13-13-15-saint-charles-charenton-saint-maur
+ ice-1-uni@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – UNION LAMBERSART LILL
+ E VILLENEUVE D'ASCQ
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SAINT CHARLES CHARENTON SA
+ INT MAURICE - 1 vs UNION LAMBERSART LILLE VILLENEUVE D'ASCQ\n\nSALLE NELSO
+ N PAILLOU\n📍 Avenue Anatole France Charenton-le-Pont 94220\n🚗 Waze :
+  https://waze.com/ul?ll=48.82277\,2.4128&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nmu15-elite/match/200000014600550
+LOCATION:SALLE NELSON PAILLOU\, Avenue Anatole France Charenton-le-Pont 942
+ 20
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00550
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-09-13-13-15-union-denain-lievin-basket-1-marne
+ -la-valle@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:UNION DENAIN LIEVIN BASKET - 1 – MARNE-LA-VALLEE BASKET VAL MAUBU
+ EE
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION DENAIN LIEVIN BASKET
+  - 1 vs MARNE-LA-VALLEE BASKET VAL MAUBUEE\n\nSalle Jean DEGROS\n📍 Boul
+ evard du 8 Mai 1945 Denain 59220\n🚗 Waze : https://waze.com/ul?ll=50.32
+ 283\,3.39604&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match
+ /200000014600551
+LOCATION:Salle Jean DEGROS\, Boulevard du 8 Mai 1945 Denain 59220
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00551
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-09-20-13-15-union-lambersart-lille-villeneuve-
+ d-ascq-ie@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20260920T131500
+DTEND;TZID=Europe/Paris:20260920T151500
+SUMMARY:UNION LAMBERSART LILLE VILLENEUVE D'ASCQ – IE - CTC CENTRE ESSONN
+ E - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION LAMBERSART LILLE VIL
+ LENEUVE D'ASCQ vs IE - CTC CENTRE ESSONNE - 1\n\nPOLE SPORTIF COUBERTIN\n
+ 📍 Rue André Chénier Lambersart 59130\n🚗 Waze : https://waze.com/ul
+ ?ll=50.65552\,3.02847&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-el
+ ite/match/200000014600576
+LOCATION:POLE SPORTIF COUBERTIN\, Rue André Chénier Lambersart 59130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00576
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-09-20-13-15-sqbb-jsc-union-denain-lievin-baske
+ t-1@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20260920T131500
+DTEND;TZID=Europe/Paris:20260920T151500
+SUMMARY:SQBB - JSC – UNION DENAIN LIEVIN BASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SQBB - JSC vs UNION DENAIN
+  LIEVIN BASKET - 1\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Saint-Quentin 0
+ 2100\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.29771&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nmu15-elite/match/200000014600577
+LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00577
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-09-20-13-15-marne-la-vallee-basket-val-maubuee
+ -saint-ch@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20260920T131500
+DTEND;TZID=Europe/Paris:20260920T151500
+SUMMARY:MARNE-LA-VALLEE BASKET VAL MAUBUEE – SAINT CHARLES CHARENTON SAIN
+ T MAURICE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ MARNE-LA-VALLEE BASKET VAL
+  MAUBUEE vs SAINT CHARLES CHARENTON SAINT MAURICE - 1\n\nGYMNASE DE LA LIB
+ ERTE\n📍 Mail Le Corbusier Lognes 77185\n🚗 Waze : https://waze.com/ul
+ ?ll=48.83945\,2.64389&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-el
+ ite/match/200000014600578
+LOCATION:GYMNASE DE LA LIBERTE\, Mail Le Corbusier Lognes 77185
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00578
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-09-27-13-15-union-lambersart-lille-villeneuve-
+ d-ascq-sq@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:UNION LAMBERSART LILLE VILLENEUVE D'ASCQ – SQBB - JSC
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION LAMBERSART LILLE VIL
+ LENEUVE D'ASCQ vs SQBB - JSC\n\nPOLE SPORTIF COUBERTIN\n📍 Rue André Ch
+ énier Lambersart 59130\n🚗 Waze : https://waze.com/ul?ll=50.65552\,3.02
+ 847&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nmu15-elite/match/20000001
+ 4600605
+LOCATION:POLE SPORTIF COUBERTIN\, Rue André Chénier Lambersart 59130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00605
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-09-27-13-15-ie-ctc-centre-essonne-1-marne-la-v
+ allee-bas@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:IE - CTC CENTRE ESSONNE - 1 – MARNE-LA-VALLEE BASKET VAL MAUBUEE
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ IE - CTC CENTRE ESSONNE - 
+ 1 vs MARNE-LA-VALLEE BASKET VAL MAUBUEE\n\nSALLE JESSE OWENS\n📍 Avenue 
+ de l'Aunette Ris-Orangis 91130\n🚗 Waze : https://waze.com/ul?ll=48.6387
+ 9\,2.4138&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/20
+ 0000014600604
+LOCATION:SALLE JESSE OWENS\, Avenue de l'Aunette Ris-Orangis 91130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00604
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-09-27-13-15-saint-charles-charenton-saint-maur
+ ice-1-uni@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – UNION DENAIN LIEVIN B
+ ASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SAINT CHARLES CHARENTON SA
+ INT MAURICE - 1 vs UNION DENAIN LIEVIN BASKET - 1\n\nSALLE NELSON PAILLOU\
+ n📍 Avenue Anatole France Charenton-le-Pont 94220\n🚗 Waze : https://w
+ aze.com/ul?ll=48.82277\,2.4128&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nmu15-elite/match/200000014600603
+LOCATION:SALLE NELSON PAILLOU\, Avenue Anatole France Charenton-le-Pont 942
+ 20
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00603
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-10-04-13-15-marne-la-vallee-basket-val-maubuee
+ -union-la@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:MARNE-LA-VALLEE BASKET VAL MAUBUEE – UNION LAMBERSART LILLE VILLE
+ NEUVE D'ASCQ
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ MARNE-LA-VALLEE BASKET VAL
+  MAUBUEE vs UNION LAMBERSART LILLE VILLENEUVE D'ASCQ\n\nGYMNASE DE LA LIBE
+ RTE\n📍 Mail Le Corbusier Lognes 77185\n🚗 Waze : https://waze.com/ul?
+ ll=48.83945\,2.64389&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-eli
+ te/match/200000014600632
+LOCATION:GYMNASE DE LA LIBERTE\, Mail Le Corbusier Lognes 77185
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00632
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-10-04-13-15-sqbb-jsc-saint-charles-charenton-s
+ aint-maur@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:SQBB - JSC – SAINT CHARLES CHARENTON SAINT MAURICE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SQBB - JSC vs SAINT CHARLE
+ S CHARENTON SAINT MAURICE - 1\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Sain
+ t-Quentin 02100\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.29771&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nmu15-elite/match/200000014600631
+LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00631
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-10-04-13-15-union-denain-lievin-basket-1-ie-ct
+ c-centre-@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:UNION DENAIN LIEVIN BASKET - 1 – IE - CTC CENTRE ESSONNE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION DENAIN LIEVIN BASKET
+  - 1 vs IE - CTC CENTRE ESSONNE - 1\n\nSalle Jean DEGROS\n📍 Boulevard d
+ u 8 Mai 1945 Denain 59220\n🚗 Waze : https://waze.com/ul?ll=50.32283\,3.
+ 39604&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/200000
+ 014600630
+LOCATION:Salle Jean DEGROS\, Boulevard du 8 Mai 1945 Denain 59220
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00630
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-10-11-13-15-ie-ctc-centre-essonne-1-saint-char
+ les-chare@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:IE - CTC CENTRE ESSONNE - 1 – SAINT CHARLES CHARENTON SAINT MAURI
+ CE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ IE - CTC CENTRE ESSONNE - 
+ 1 vs SAINT CHARLES CHARENTON SAINT MAURICE - 1\n\nSALLE JESSE OWENS\n📍 
+ Avenue de l'Aunette Ris-Orangis 91130\n🚗 Waze : https://waze.com/ul?ll=
+ 48.63879\,2.4138&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite
+ /match/200000014600657
+LOCATION:SALLE JESSE OWENS\, Avenue de l'Aunette Ris-Orangis 91130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00657
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-10-11-13-15-sqbb-jsc-marne-la-vallee-basket-va
+ l-maubuee@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:SQBB - JSC – MARNE-LA-VALLEE BASKET VAL MAUBUEE
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SQBB - JSC vs MARNE-LA-VAL
+ LEE BASKET VAL MAUBUEE\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Saint-Quent
+ in 02100\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.29771&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nmu15-elite/match/200000014600658
+LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00658
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-10-11-13-15-union-lambersart-lille-villeneuve-
+ d-ascq-un@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:UNION LAMBERSART LILLE VILLENEUVE D'ASCQ – UNION DENAIN LIEVIN BA
+ SKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION LAMBERSART LILLE VIL
+ LENEUVE D'ASCQ vs UNION DENAIN LIEVIN BASKET - 1\n\nPOLE SPORTIF COUBERTIN
+ \n📍 Rue André Chénier Lambersart 59130\n🚗 Waze : https://waze.com/
+ ul?ll=50.65552\,3.02847&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-
+ elite/match/200000014600659
+LOCATION:POLE SPORTIF COUBERTIN\, Rue André Chénier Lambersart 59130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00659
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-01-13-15-marne-la-vallee-basket-val-maubuee
+ -union-de@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:MARNE-LA-VALLEE BASKET VAL MAUBUEE – UNION DENAIN LIEVIN BASKET -
+  1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ MARNE-LA-VALLEE BASKET VAL
+  MAUBUEE vs UNION DENAIN LIEVIN BASKET - 1\n\nGYMNASE DE LA LIBERTE\n📍 
+ Mail Le Corbusier Lognes 77185\n🚗 Waze : https://waze.com/ul?ll=48.8394
+ 5\,2.64389&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/2
+ 00000014600686
+LOCATION:GYMNASE DE LA LIBERTE\, Mail Le Corbusier Lognes 77185
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00686
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-01-13-15-union-lambersart-lille-villeneuve-
+ d-ascq-sa@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:UNION LAMBERSART LILLE VILLENEUVE D'ASCQ – SAINT CHARLES CHARENTO
+ N SAINT MAURICE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION LAMBERSART LILLE VIL
+ LENEUVE D'ASCQ vs SAINT CHARLES CHARENTON SAINT MAURICE - 1\n\nPOLE SPORTI
+ F COUBERTIN\n📍 Rue André Chénier Lambersart 59130\n🚗 Waze : https:
+ //waze.com/ul?ll=50.65552\,3.02847&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nmu15-elite/match/200000014600685
+LOCATION:POLE SPORTIF COUBERTIN\, Rue André Chénier Lambersart 59130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00685
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-01-13-15-sqbb-jsc-ie-ctc-centre-essonne-1@f
+ fbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:SQBB - JSC – IE - CTC CENTRE ESSONNE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SQBB - JSC vs IE - CTC CEN
+ TRE ESSONNE - 1\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Saint-Quentin 0210
+ 0\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.29771&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu15-elite/match/200000014600684
+LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00684
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-08-13-15-ie-ctc-centre-essonne-1-union-lamb
+ ersart-li@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:IE - CTC CENTRE ESSONNE - 1 – UNION LAMBERSART LILLE VILLENEUVE D
+ 'ASCQ
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ IE - CTC CENTRE ESSONNE - 
+ 1 vs UNION LAMBERSART LILLE VILLENEUVE D'ASCQ\n\nSALLE JESSE OWENS\n📍 A
+ venue de l'Aunette Ris-Orangis 91130\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.63879\,2.4138&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite
+ /match/200000014600711
+LOCATION:SALLE JESSE OWENS\, Avenue de l'Aunette Ris-Orangis 91130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00711
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-08-13-15-union-denain-lievin-basket-1-sqbb-
+ jsc@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:UNION DENAIN LIEVIN BASKET - 1 – SQBB - JSC
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION DENAIN LIEVIN BASKET
+  - 1 vs SQBB - JSC\n\nSalle Jean DEGROS\n📍 Boulevard du 8 Mai 1945 Dena
+ in 59220\n🚗 Waze : https://waze.com/ul?ll=50.32283\,3.39604&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nmu15-elite/match/200000014600712
+LOCATION:Salle Jean DEGROS\, Boulevard du 8 Mai 1945 Denain 59220
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00712
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-08-13-15-saint-charles-charenton-saint-maur
+ ice-1-mar@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – MARNE-LA-VALLEE BASKE
+ T VAL MAUBUEE
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SAINT CHARLES CHARENTON SA
+ INT MAURICE - 1 vs MARNE-LA-VALLEE BASKET VAL MAUBUEE\n\nSALLE NELSON PAIL
+ LOU\n📍 Avenue Anatole France Charenton-le-Pont 94220\n🚗 Waze : https
+ ://waze.com/ul?ll=48.82277\,2.4128&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nmu15-elite/match/200000014600713
+LOCATION:SALLE NELSON PAILLOU\, Avenue Anatole France Charenton-le-Pont 942
+ 20
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00713
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-15-13-15-union-denain-lievin-basket-1-saint
+ -charles-@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:UNION DENAIN LIEVIN BASKET - 1 – SAINT CHARLES CHARENTON SAINT MA
+ URICE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION DENAIN LIEVIN BASKET
+  - 1 vs SAINT CHARLES CHARENTON SAINT MAURICE - 1\n\nSalle Jean DEGROS\n
+ 📍 Boulevard du 8 Mai 1945 Denain 59220\n🚗 Waze : https://waze.com/ul
+ ?ll=50.32283\,3.39604&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-el
+ ite/match/200000014600738
+LOCATION:Salle Jean DEGROS\, Boulevard du 8 Mai 1945 Denain 59220
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00738
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-15-13-15-marne-la-vallee-basket-val-maubuee
+ -ie-ctc-c@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:MARNE-LA-VALLEE BASKET VAL MAUBUEE – IE - CTC CENTRE ESSONNE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ MARNE-LA-VALLEE BASKET VAL
+  MAUBUEE vs IE - CTC CENTRE ESSONNE - 1\n\nGYMNASE DE LA LIBERTE\n📍 Mai
+ l Le Corbusier Lognes 77185\n🚗 Waze : https://waze.com/ul?ll=48.83945\,
+ 2.64389&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/2000
+ 00014600739
+LOCATION:GYMNASE DE LA LIBERTE\, Mail Le Corbusier Lognes 77185
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00739
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-15-13-15-sqbb-jsc-union-lambersart-lille-vi
+ lleneuve-@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:SQBB - JSC – UNION LAMBERSART LILLE VILLENEUVE D'ASCQ
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SQBB - JSC vs UNION LAMBER
+ SART LILLE VILLENEUVE D'ASCQ\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Saint
+ -Quentin 02100\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.29771&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nmu15-elite/match/200000014600740
+LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00740
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-29-13-15-ie-ctc-centre-essonne-1-union-dena
+ in-lievin@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:IE - CTC CENTRE ESSONNE - 1 – UNION DENAIN LIEVIN BASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ IE - CTC CENTRE ESSONNE - 
+ 1 vs UNION DENAIN LIEVIN BASKET - 1\n\nSALLE JESSE OWENS\n📍 Avenue de l
+ 'Aunette Ris-Orangis 91130\n🚗 Waze : https://waze.com/ul?ll=48.63879\,2
+ .4138&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/200000
+ 014600765
+LOCATION:SALLE JESSE OWENS\, Avenue de l'Aunette Ris-Orangis 91130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00765
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-29-13-15-saint-charles-charenton-saint-maur
+ ice-1-sqb@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – SQBB - JSC
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SAINT CHARLES CHARENTON SA
+ INT MAURICE - 1 vs SQBB - JSC\n\nSALLE NELSON PAILLOU\n📍 Avenue Anatole
+  France Charenton-le-Pont 94220\n🚗 Waze : https://waze.com/ul?ll=48.822
+ 77\,2.4128&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/2
+ 00000014600766
+LOCATION:SALLE NELSON PAILLOU\, Avenue Anatole France Charenton-le-Pont 942
+ 20
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00766
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-11-29-13-15-union-lambersart-lille-villeneuve-
+ d-ascq-ma@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:UNION LAMBERSART LILLE VILLENEUVE D'ASCQ – MARNE-LA-VALLEE BASKET
+  VAL MAUBUEE
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION LAMBERSART LILLE VIL
+ LENEUVE D'ASCQ vs MARNE-LA-VALLEE BASKET VAL MAUBUEE\n\nPOLE SPORTIF COUBE
+ RTIN\n📍 Rue André Chénier Lambersart 59130\n🚗 Waze : https://waze.
+ com/ul?ll=50.65552\,3.02847&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm
+ u15-elite/match/200000014600767
+LOCATION:POLE SPORTIF COUBERTIN\, Rue André Chénier Lambersart 59130
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00767
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-12-06-13-15-union-denain-lievin-basket-1-union
+ -lambersa@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:UNION DENAIN LIEVIN BASKET - 1 – UNION LAMBERSART LILLE VILLENEUV
+ E D'ASCQ
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ UNION DENAIN LIEVIN BASKET
+  - 1 vs UNION LAMBERSART LILLE VILLENEUVE D'ASCQ\n\nSalle Jean DEGROS\n
+ 📍 Boulevard du 8 Mai 1945 Denain 59220\n🚗 Waze : https://waze.com/ul
+ ?ll=50.32283\,3.39604&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-el
+ ite/match/200000014600794
+LOCATION:Salle Jean DEGROS\, Boulevard du 8 Mai 1945 Denain 59220
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00794
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-12-06-13-15-marne-la-vallee-basket-val-maubuee
+ -sqbb-jsc@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:MARNE-LA-VALLEE BASKET VAL MAUBUEE – SQBB - JSC
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ MARNE-LA-VALLEE BASKET VAL
+  MAUBUEE vs SQBB - JSC\n\nGYMNASE DE LA LIBERTE\n📍 Mail Le Corbusier Lo
+ gnes 77185\n🚗 Waze : https://waze.com/ul?ll=48.83945\,2.64389&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu15-elite/match/200000014600793
+LOCATION:GYMNASE DE LA LIBERTE\, Mail Le Corbusier Lognes 77185
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00793
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-g-2026-12-06-13-15-saint-charles-charenton-saint-maur
+ ice-1-ie-@ffbb-agenda
+DTSTAMP:20260817T085938Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – IE - CTC CENTRE ESSON
+ NE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule G\n⚔️ SAINT CHARLES CHARENTON SA
+ INT MAURICE - 1 vs IE - CTC CENTRE ESSONNE - 1\n\nSALLE NELSON PAILLOU\n
+ 📍 Avenue Anatole France Charenton-le-Pont 94220\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.82277\,2.4128&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/
+ nmu15-elite/match/200000014600792
+LOCATION:SALLE NELSON PAILLOU\, Avenue Anatole France Charenton-le-Pont 942
+ 20
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00792
+END:VEVENT
+END:VCALENDAR

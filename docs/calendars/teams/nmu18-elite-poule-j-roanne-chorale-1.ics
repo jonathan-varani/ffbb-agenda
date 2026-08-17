@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ROANNE CHORALE - 1  [NMU18-ELITE –  – Poule J]
+X-WR-CALDESC:Matchs de ROANNE CHORALE - 1 – NMU18-ELITE – Poule J
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-09-13-15-30-sem-elan-chalon-roanne-chorale-1@f
+ fbb-agenda
+DTSTAMP:20260817T085849Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:✈️ SEM ELAN CHALON – ROANNE CHORALE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ SEM ELAN CHALON vs ROANNE 
+ CHORALE - 1\n\nLE COLISEE GRANDE SALLE\n📍 Rue d'Amsterdam Chalon-sur-Sa
+ ône 71100\n🚗 Waze : https://waze.com/ul?ll=46.78565\,4.86593&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu18-elite/match/200000014603196
+LOCATION:LE COLISEE GRANDE SALLE\, Rue d'Amsterdam Chalon-sur-Saône 71100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03196
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-09-20-15-30-roanne-chorale-1-jda-dijon-bourgog
+ ne@ffbb-agenda
+DTSTAMP:20260817T085849Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 ROANNE CHORALE - 1 – JDA DIJON BOURGOGNE
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ ROANNE CHORALE - 1 vs JDA 
+ DIJON BOURGOGNE\n\nPALAIS DES SPORTS\n📍 Rue Albert Thomas Roanne 42300\
+ n🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07401&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nmu18-elite/match/200000014603225
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03225
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-09-27-15-30-roanne-chorale-1-amicale-laique-le
+ donienne-@ffbb-agenda
+DTSTAMP:20260817T085849Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 ROANNE CHORALE - 1 – AMICALE LAÏQUE LÉDONIENNE JURA BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ ROANNE CHORALE - 1 vs AMIC
+ ALE LAÏQUE LÉDONIENNE JURA BASKET\n\nPALAIS DES SPORTS\n📍 Rue Albert 
+ Thomas Roanne 42300\n🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07401&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603
+ 257
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03257
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-10-11-15-30-roanne-chorale-1-j-l-bourg-basket@
+ ffbb-agenda
+DTSTAMP:20260817T085849Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 ROANNE CHORALE - 1 – J.L. BOURG BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ ROANNE CHORALE - 1 vs J.L.
+  BOURG BASKET\n\nPALAIS DES SPORTS\n📍 Rue Albert Thomas Roanne 42300\n
+ 🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07401&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu18-elite/match/200000014603317
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03317
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-11-01-15-30-roanne-chorale-1-sem-elan-chalon@f
+ fbb-agenda
+DTSTAMP:20260817T085849Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 ROANNE CHORALE - 1 – SEM ELAN CHALON
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ ROANNE CHORALE - 1 vs SEM 
+ ELAN CHALON\n\nPALAIS DES SPORTS\n📍 Rue Albert Thomas Roanne 42300\n
+ 🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07401&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu18-elite/match/200000014603346
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03346
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-11-08-15-30-jda-dijon-bourgogne-roanne-chorale
+ -1@ffbb-agenda
+DTSTAMP:20260817T085849Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ JDA DIJON BOURGOGNE – ROANNE CHORALE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ JDA DIJON BOURGOGNE vs ROA
+ NNE CHORALE - 1\n\nSALLE JEAN MARC BOIVIN\n📍 Rue de la Côte d'Or Dijon
+  21000\n🚗 Waze : https://waze.com/ul?ll=47.33321\,5.03662&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nmu18-elite/match/200000014603375
+LOCATION:SALLE JEAN MARC BOIVIN\, Rue de la Côte d'Or Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03375
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-11-15-15-30-amicale-laique-ledonienne-jura-bas
+ ket-roann@ffbb-agenda
+DTSTAMP:20260817T085849Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ AMICALE LAÏQUE LÉDONIENNE JURA BASKET – ROANNE CHORALE -
+  1
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ AMICALE LAÏQUE LÉDONIENN
+ E JURA BASKET vs ROANNE CHORALE - 1\n\nGRAND ENSEMBLE SPORTIF\n📍 Rue Ro
+ bert Schuman Lons-le-Saunier 39000\n🚗 Waze : https://waze.com/ul?ll=46.
+ 68127\,5.56277&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/mat
+ ch/200000014603407
+LOCATION:GRAND ENSEMBLE SPORTIF\, Rue Robert Schuman Lons-le-Saunier 39000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03407
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-12-06-15-30-j-l-bourg-basket-roanne-chorale-1@
+ ffbb-agenda
+DTSTAMP:20260817T085849Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ J.L. BOURG BASKET – ROANNE CHORALE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ J.L. BOURG BASKET vs ROANN
+ E CHORALE - 1\n\nSALLE AMEDEE MERCIER\n📍 Boulevard Saint-Nicolas Bourg-
+ en-Bresse 01000\n🚗 Waze : https://waze.com/ul?ll=46.20378\,5.23417&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603467
+LOCATION:SALLE AMEDEE MERCIER\, Boulevard Saint-Nicolas Bourg-en-Bresse 010
+ 00
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03467
+END:VEVENT
+END:VCALENDAR

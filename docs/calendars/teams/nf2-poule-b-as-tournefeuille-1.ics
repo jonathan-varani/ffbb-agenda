@@ -1,0 +1,361 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS TOURNEFEUILLE - 1  [NF2 –  – Poule B]
+X-WR-CALDESC:Matchs de AS TOURNEFEUILLE - 1 – NF2 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-12-20-00-garonne-avenir-basket-du-marmandais-as-tou
+ rnefeuill@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ GARONNE AVENIR BASKET DU MARMANDAIS – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ GARONNE AVENIR BASKET DU MARMANDAI
+ S vs AS TOURNEFEUILLE - 1\n\nSALLE DES SPORTS\n📍 Chemin de Ronde de Sil
+ lac Meilhan-sur-Garonne 47180\n🚗 Waze : https://waze.com/ul?ll=44.52256
+ \,0.03386&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000146
+ 01082
+LOCATION:SALLE DES SPORTS\, Chemin de Ronde de Sillac Meilhan-sur-Garonne 4
+ 7180
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601082
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-19-20-00-as-tournefeuille-1-ie-etoile-sportive-gimo
+ ntoise-bb@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – IE - ETOILE SPORTIVE GIMONTOISE BB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs IE - ETOIL
+ E SPORTIVE GIMONTOISE BB\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitr
+ ie Tournefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.326
+ 54&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf2/match/200000014601105
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601105
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-09-26-20-00-anglet-cote-basque-basket-1-as-tournefeuil
+ le-1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ ANGLET COTE BASQUE BASKET - 1 – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ ANGLET COTE BASQUE BASKET - 1 vs A
+ S TOURNEFEUILLE - 1\n\nC.SP. EL HOGAR\n📍 Rue de Hausquette Anglet 64600
+ \n🚗 Waze : https://waze.com/ul?ll=43.49495\,-1.50988&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601128
+LOCATION:C.SP. EL HOGAR\, Rue de Hausquette Anglet 64600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601128
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-03-20-00-as-tournefeuille-1-bordeaux-etudiants-club
+ @ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – BORDEAUX ETUDIANTS CLUB
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs BORDEAUX E
+ TUDIANTS CLUB\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tournefe
+ uille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf2/match/200000014601151
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601151
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-10-17-15-blma-espoir-as-tournefeuille-1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261010T171500
+DTEND;TZID=Europe/Paris:20261010T191500
+SUMMARY:✈️ BLMA - ESPOIR – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BLMA - ESPOIR vs AS TOURNEFEUILLE 
+ - 1\n\nPALAIS DES SPORTS\n📍 Rue des Jonquilles Lattes 34970\n🚗 Waze 
+ : https://waze.com/ul?ll=43.57016\,3.90224&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nf2/match/200000014601174
+LOCATION:PALAIS DES SPORTS\, Rue des Jonquilles Lattes 34970
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601174
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-24-20-00-as-tournefeuille-1-basket-landes-sasp-espo
+ ir@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – BASKET LANDES SASP - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs BASKET LAN
+ DES SASP - ESPOIR\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tour
+ nefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601197
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601197
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-10-31-20-00-as-tournefeuille-1-us-orthez-basket@ffbb-a
+ genda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – US ORTHEZ BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs US ORTHEZ 
+ BASKET\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tournefeuille 3
+ 1170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf2/match/200000014601224
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601224
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-07-20-00-ie-as-st-delphin-2-as-tournefeuille-1@ffbb
+ -agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ IE - AS ST DELPHIN - 2 – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ IE - AS ST DELPHIN - 2 vs AS TOURN
+ EFEUILLE - 1\n\nCOMPLEXE SP. ELISABETH RIFFIOD\n📍 Chemin de Leysotte Vi
+ llenave-d'Ornon 33140\n🚗 Waze : https://waze.com/ul?ll=44.79429\,-0.580
+ 76&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf2/match/200000014601250
+LOCATION:COMPLEXE SP. ELISABETH RIFFIOD\, Chemin de Leysotte Villenave-d'Or
+ non 33140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601250
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-14-20-00-as-tournefeuille-1-toulouse-metropole-bask
+ et-sas-es@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – TOULOUSE METROPOLE BASKET SAS - ESPOI
+ R
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs TOULOUSE M
+ ETROPOLE BASKET SAS - ESPOIR\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre La
+ bitrie Tournefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1
+ .32654&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000146012
+ 74
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601274
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-11-28-20-00-stade-rochelais-basket-as-tournefeuille-1@
+ ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:✈️ STADE ROCHELAIS BASKET – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ STADE ROCHELAIS BASKET vs AS TOURN
+ EFEUILLE - 1\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochelle 
+ 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf2/match/200000014601297
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601297
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2026-12-05-20-00-avenir-basket-chalosse-1-as-tournefeuille-
+ 1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ AVENIR BASKET CHALOSSE - 1 – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AVENIR BASKET CHALOSSE - 1 vs AS T
+ OURNEFEUILLE - 1\n\nPOMAREZ S. A.GARBAY\n📍 Place des Arènes Pomarez 40
+ 360\n🚗 Waze : https://waze.com/ul?ll=43.62818\,-0.82899&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf2/match/200000014601322
+LOCATION:POMAREZ S. A.GARBAY\, Place des Arènes Pomarez 40360
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601322
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-09-20-00-as-tournefeuille-1-garonne-avenir-basket-d
+ u-marmand@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – GARONNE AVENIR BASKET DU MARMANDAIS
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs GARONNE AV
+ ENIR BASKET DU MARMANDAIS\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labit
+ rie Tournefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32
+ 654&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf2/match/200000014601346
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601346
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-16-20-00-ie-etoile-sportive-gimontoise-bb-as-tourne
+ feuille-1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:✈️ IE - ETOILE SPORTIVE GIMONTOISE BB – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ IE - ETOILE SPORTIVE GIMONTOISE BB
+  vs AS TOURNEFEUILLE - 1\n\nGYMNASE EN PETRE\n📍 Route de Saramon Gimont
+  32200\n🚗 Waze : https://waze.com/ul?ll=43.6294\,0.86519&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nf2/match/200000014601369
+LOCATION:GYMNASE EN PETRE\, Route de Saramon Gimont 32200
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601369
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-01-30-20-00-as-tournefeuille-1-anglet-cote-basque-bask
+ et-1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – ANGLET COTE BASQUE BASKET - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs ANGLET COT
+ E BASQUE BASKET - 1\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie To
+ urnefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf2/match/200000014601392
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601392
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-06-20-00-bordeaux-etudiants-club-as-tournefeuille-1
+ @ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ BORDEAUX ETUDIANTS CLUB – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BORDEAUX ETUDIANTS CLUB vs AS TOUR
+ NEFEUILLE - 1\n\nGYMNASE BARBEY\n📍 Cours Barbey Bordeaux 33800\n🚗 Wa
+ ze : https://waze.com/ul?ll=44.82741\,-0.56304&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nf2/match/200000014601415
+LOCATION:GYMNASE BARBEY\, Cours Barbey Bordeaux 33800
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601415
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-13-20-00-as-tournefeuille-1-blma-espoir@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – BLMA - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs BLMA - ESP
+ OIR\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tournefeuille 3117
+ 0\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601438
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601438
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-02-27-17-15-basket-landes-sasp-espoir-as-tournefeuille
+ -1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270227T171500
+DTEND;TZID=Europe/Paris:20270227T191500
+SUMMARY:✈️ BASKET LANDES SASP - ESPOIR – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ BASKET LANDES SASP - ESPOIR vs AS 
+ TOURNEFEUILLE - 1\n\nESPACE F. MITTERRAND\n📍 Rue de la Ferme du Conte M
+ ont-de-Marsan 40000\n🚗 Waze : https://waze.com/ul?ll=43.89754\,-0.46468
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf2/match/200000014601461
+LOCATION:ESPACE F. MITTERRAND\, Rue de la Ferme du Conte Mont-de-Marsan 400
+ 00
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601461
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-06-20-00-us-orthez-basket-as-tournefeuille-1@ffbb-a
+ genda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:✈️ US ORTHEZ BASKET – AS TOURNEFEUILLE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ US ORTHEZ BASKET vs AS TOURNEFEUIL
+ LE - 1\n\nSALLE P. SEILLANT\n📍 Boulevard Charles de Gaulle Orthez 64300
+ \n🚗 Waze : https://waze.com/ul?ll=43.48636\,-0.75921&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601488
+LOCATION:SALLE P. SEILLANT\, Boulevard Charles de Gaulle Orthez 64300
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601488
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-13-20-00-as-tournefeuille-1-ie-as-st-delphin-2@ffbb
+ -agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – IE - AS ST DELPHIN - 2
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs IE - AS ST
+  DELPHIN - 2\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tournefeu
+ ille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf2/match/200000014601514
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601514
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-03-27-17-15-toulouse-metropole-basket-sas-espoir-as-to
+ urnefeuil@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270327T171500
+DTEND;TZID=Europe/Paris:20270327T191500
+SUMMARY:✈️ TOULOUSE METROPOLE BASKET SAS - ESPOIR – AS TOURNEFEUILLE 
+ - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ TOULOUSE METROPOLE BASKET SAS - ES
+ POIR vs AS TOURNEFEUILLE - 1\n\nGYMNASE COMPANS CAFFARELLI\n📍 Rue Pierr
+ e Laplace Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.6127\,1.43
+ 452&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf2/match/200000014601538
+LOCATION:GYMNASE COMPANS CAFFARELLI\, Rue Pierre Laplace Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601538
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-04-10-20-00-as-tournefeuille-1-stade-rochelais-basket@
+ ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs STADE ROCH
+ ELAIS BASKET\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tournefeu
+ ille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf2/match/200000014601561
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601561
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-b-2027-04-17-20-00-as-tournefeuille-1-avenir-basket-chalosse-
+ 1@ffbb-agenda
+DTSTAMP:20260817T084653Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:🏠 AS TOURNEFEUILLE - 1 – AVENIR BASKET CHALOSSE - 1
+DESCRIPTION:🏀 NF2 – Poule B\n⚔️ AS TOURNEFEUILLE - 1 vs AVENIR BAS
+ KET CHALOSSE - 1\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tourn
+ efeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf2/match/200000014601586
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601586
+END:VEVENT
+END:VCALENDAR

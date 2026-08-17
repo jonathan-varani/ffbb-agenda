@@ -1,0 +1,516 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NMU15-ELITE – Poule I
+X-WR-CALDESC:Tous les matchs NMU15-ELITE – Poule I
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-09-13-13-15-ie-ctc-lyon-so-basket-territoire-1
+ -rumilly-@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – RUMILLY BASKET CLUB
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ IE - CTC LYON SO BASKET TE
+ RRITOIRE - 1 vs RUMILLY BASKET CLUB\n\nGYMNASE SAINTE BARBE\n📍 Rue Sain
+ te-Barbe Sainte-Foy-lès-Lyon 69110\n🚗 Waze : https://waze.com/ul?ll=45
+ .73464\,4.78675&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite
+ /match/200000014600557
+LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lès-Lyon 69110
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00557
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-09-13-13-15-elan-chalon-1-roanne-chorale-1@ffb
+ b-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:ELAN CHALON - 1 – ROANNE CHORALE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ELAN CHALON - 1 vs ROANNE 
+ CHORALE - 1\n\nLE COLISEE GRANDE SALLE\n📍 Rue d'Amsterdam Chalon-sur-Sa
+ ône 71100\n🚗 Waze : https://waze.com/ul?ll=46.78565\,4.86593&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu15-elite/match/200000014600556
+LOCATION:LE COLISEE GRANDE SALLE\, Rue d'Amsterdam Chalon-sur-Saône 71100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00556
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-09-13-13-15-jda-dijon-bourgogne-asvel-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:JDA DIJON BOURGOGNE – ASVEL BASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ JDA DIJON BOURGOGNE vs ASV
+ EL BASKET - 1\n\nSALLE JEAN MARC BOIVIN\n📍 Rue de la Côte d'Or Dijon 2
+ 1000\n🚗 Waze : https://waze.com/ul?ll=47.33321\,5.03662&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nmu15-elite/match/200000014600555
+LOCATION:SALLE JEAN MARC BOIVIN\, Rue de la Côte d'Or Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00555
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-09-20-13-15-rumilly-basket-club-elan-chalon-1@
+ ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20260920T131500
+DTEND;TZID=Europe/Paris:20260920T151500
+SUMMARY:RUMILLY BASKET CLUB – ELAN CHALON - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ RUMILLY BASKET CLUB vs ELA
+ N CHALON - 1\n\nGYMNASE DU CLERGEON\n📍 Boulevard Louis Dagand Rumilly 7
+ 4150\n🚗 Waze : https://waze.com/ul?ll=45.86758\,5.93873&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nmu15-elite/match/200000014600584
+LOCATION:GYMNASE DU CLERGEON\, Boulevard Louis Dagand Rumilly 74150
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00584
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-09-20-13-15-asvel-basket-1-ie-ctc-lyon-so-bask
+ et-territ@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20260920T131500
+DTEND;TZID=Europe/Paris:20260920T151500
+SUMMARY:ASVEL BASKET - 1 – IE - CTC LYON SO BASKET TERRITOIRE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ASVEL BASKET - 1 vs IE - C
+ TC LYON SO BASKET TERRITOIRE - 1\n\nSALLE RAPHAEL DE BARROS\n📍 Cours É
+ mile Zola Villeurbanne 69100\n🚗 Waze : https://waze.com/ul?ll=45.76799\
+ ,4.88853&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/200
+ 000014600583
+LOCATION:SALLE RAPHAEL DE BARROS\, Cours Émile Zola Villeurbanne 69100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00583
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-09-20-13-15-roanne-chorale-1-jda-dijon-bourgog
+ ne@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20260920T131500
+DTEND;TZID=Europe/Paris:20260920T151500
+SUMMARY:ROANNE CHORALE - 1 – JDA DIJON BOURGOGNE
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ROANNE CHORALE - 1 vs JDA 
+ DIJON BOURGOGNE\n\nPALAIS DES SPORTS\n📍 Rue Albert Thomas Roanne 42300\
+ n🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07401&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nmu15-elite/match/200000014600582
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00582
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-09-27-13-15-jda-dijon-bourgogne-rumilly-basket
+ -club@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:JDA DIJON BOURGOGNE – RUMILLY BASKET CLUB
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ JDA DIJON BOURGOGNE vs RUM
+ ILLY BASKET CLUB\n\nSALLE JEAN MARC BOIVIN\n📍 Rue de la Côte d'Or Dijo
+ n 21000\n🚗 Waze : https://waze.com/ul?ll=47.33321\,5.03662&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nmu15-elite/match/200000014600610
+LOCATION:SALLE JEAN MARC BOIVIN\, Rue de la Côte d'Or Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00610
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-09-27-13-15-elan-chalon-1-ie-ctc-lyon-so-baske
+ t-territo@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:ELAN CHALON - 1 – IE - CTC LYON SO BASKET TERRITOIRE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ELAN CHALON - 1 vs IE - CT
+ C LYON SO BASKET TERRITOIRE - 1\n\nLE COLISEE GRANDE SALLE\n📍 Rue d'Ams
+ terdam Chalon-sur-Saône 71100\n🚗 Waze : https://waze.com/ul?ll=46.7856
+ 5\,4.86593&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/2
+ 00000014600609
+LOCATION:LE COLISEE GRANDE SALLE\, Rue d'Amsterdam Chalon-sur-Saône 71100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00609
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-09-27-13-15-roanne-chorale-1-asvel-basket-1@ff
+ bb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:ROANNE CHORALE - 1 – ASVEL BASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ROANNE CHORALE - 1 vs ASVE
+ L BASKET - 1\n\nPALAIS DES SPORTS\n📍 Rue Albert Thomas Roanne 42300\n
+ 🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07401&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu15-elite/match/200000014600611
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00611
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-10-04-13-15-asvel-basket-1-elan-chalon-1@ffbb-
+ agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:ASVEL BASKET - 1 – ELAN CHALON - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ASVEL BASKET - 1 vs ELAN C
+ HALON - 1\n\nSALLE RAPHAEL DE BARROS\n📍 Cours Émile Zola Villeurbanne 
+ 69100\n🚗 Waze : https://waze.com/ul?ll=45.76799\,4.88853&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu15-elite/match/200000014600637
+LOCATION:SALLE RAPHAEL DE BARROS\, Cours Émile Zola Villeurbanne 69100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00637
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-10-04-13-15-rumilly-basket-club-roanne-chorale
+ -1@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:RUMILLY BASKET CLUB – ROANNE CHORALE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ RUMILLY BASKET CLUB vs ROA
+ NNE CHORALE - 1\n\nGYMNASE DU CLERGEON\n📍 Boulevard Louis Dagand Rumill
+ y 74150\n🚗 Waze : https://waze.com/ul?ll=45.86758\,5.93873&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nmu15-elite/match/200000014600638
+LOCATION:GYMNASE DU CLERGEON\, Boulevard Louis Dagand Rumilly 74150
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00638
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-10-04-13-15-ie-ctc-lyon-so-basket-territoire-1
+ -jda-dijo@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – JDA DIJON BOURGOGNE
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ IE - CTC LYON SO BASKET TE
+ RRITOIRE - 1 vs JDA DIJON BOURGOGNE\n\nGYMNASE SAINTE BARBE\n📍 Rue Sain
+ te-Barbe Sainte-Foy-lès-Lyon 69110\n🚗 Waze : https://waze.com/ul?ll=45
+ .73464\,4.78675&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite
+ /match/200000014600636
+LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lès-Lyon 69110
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00636
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-10-11-13-15-asvel-basket-1-rumilly-basket-club
+ @ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:ASVEL BASKET - 1 – RUMILLY BASKET CLUB
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ASVEL BASKET - 1 vs RUMILL
+ Y BASKET CLUB\n\nSALLE RAPHAEL DE BARROS\n📍 Cours Émile Zola Villeurba
+ nne 69100\n🚗 Waze : https://waze.com/ul?ll=45.76799\,4.88853&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nmu15-elite/match/200000014600664
+LOCATION:SALLE RAPHAEL DE BARROS\, Cours Émile Zola Villeurbanne 69100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00664
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-10-11-13-15-jda-dijon-bourgogne-elan-chalon-1@
+ ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:JDA DIJON BOURGOGNE – ELAN CHALON - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ JDA DIJON BOURGOGNE vs ELA
+ N CHALON - 1\n\nSALLE JEAN MARC BOIVIN\n📍 Rue de la Côte d'Or Dijon 21
+ 000\n🚗 Waze : https://waze.com/ul?ll=47.33321\,5.03662&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu15-elite/match/200000014600663
+LOCATION:SALLE JEAN MARC BOIVIN\, Rue de la Côte d'Or Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00663
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-10-11-13-15-roanne-chorale-1-ie-ctc-lyon-so-ba
+ sket-terr@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:ROANNE CHORALE - 1 – IE - CTC LYON SO BASKET TERRITOIRE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ROANNE CHORALE - 1 vs IE -
+  CTC LYON SO BASKET TERRITOIRE - 1\n\nPALAIS DES SPORTS\n📍 Rue Albert T
+ homas Roanne 42300\n🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07401&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146006
+ 65
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00665
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-01-13-15-asvel-basket-1-jda-dijon-bourgogne
+ @ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:ASVEL BASKET - 1 – JDA DIJON BOURGOGNE
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ASVEL BASKET - 1 vs JDA DI
+ JON BOURGOGNE\n\nSALLE RAPHAEL DE BARROS\n📍 Cours Émile Zola Villeurba
+ nne 69100\n🚗 Waze : https://waze.com/ul?ll=45.76799\,4.88853&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nmu15-elite/match/200000014600690
+LOCATION:SALLE RAPHAEL DE BARROS\, Cours Émile Zola Villeurbanne 69100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00690
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-01-13-15-rumilly-basket-club-ie-ctc-lyon-so
+ -basket-t@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:RUMILLY BASKET CLUB – IE - CTC LYON SO BASKET TERRITOIRE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ RUMILLY BASKET CLUB vs IE 
+ - CTC LYON SO BASKET TERRITOIRE - 1\n\nGYMNASE DU CLERGEON\n📍 Boulevard
+  Louis Dagand Rumilly 74150\n🚗 Waze : https://waze.com/ul?ll=45.86758\,
+ 5.93873&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/2000
+ 00014600692
+LOCATION:GYMNASE DU CLERGEON\, Boulevard Louis Dagand Rumilly 74150
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00692
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-01-13-15-roanne-chorale-1-elan-chalon-1@ffb
+ b-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:ROANNE CHORALE - 1 – ELAN CHALON - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ROANNE CHORALE - 1 vs ELAN
+  CHALON - 1\n\nPALAIS DES SPORTS\n📍 Rue Albert Thomas Roanne 42300\n
+ 🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07401&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu15-elite/match/200000014600691
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00691
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-08-13-15-jda-dijon-bourgogne-roanne-chorale
+ -1@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:JDA DIJON BOURGOGNE – ROANNE CHORALE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ JDA DIJON BOURGOGNE vs ROA
+ NNE CHORALE - 1\n\nSALLE JEAN MARC BOIVIN\n📍 Rue de la Côte d'Or Dijon
+  21000\n🚗 Waze : https://waze.com/ul?ll=47.33321\,5.03662&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nmu15-elite/match/200000014600717
+LOCATION:SALLE JEAN MARC BOIVIN\, Rue de la Côte d'Or Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00717
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-08-13-15-ie-ctc-lyon-so-basket-territoire-1
+ -asvel-ba@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – ASVEL BASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ IE - CTC LYON SO BASKET TE
+ RRITOIRE - 1 vs ASVEL BASKET - 1\n\nGYMNASE SAINTE BARBE\n📍 Rue Sainte-
+ Barbe Sainte-Foy-lès-Lyon 69110\n🚗 Waze : https://waze.com/ul?ll=45.73
+ 464\,4.78675&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match
+ /200000014600718
+LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lès-Lyon 69110
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00718
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-08-13-15-elan-chalon-1-rumilly-basket-club@
+ ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:ELAN CHALON - 1 – RUMILLY BASKET CLUB
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ELAN CHALON - 1 vs RUMILLY
+  BASKET CLUB\n\nLE COLISEE GRANDE SALLE\n📍 Rue d'Amsterdam Chalon-sur-S
+ aône 71100\n🚗 Waze : https://waze.com/ul?ll=46.78565\,4.86593&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nmu15-elite/match/200000014600719
+LOCATION:LE COLISEE GRANDE SALLE\, Rue d'Amsterdam Chalon-sur-Saône 71100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00719
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-15-13-15-rumilly-basket-club-jda-dijon-bour
+ gogne@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:RUMILLY BASKET CLUB – JDA DIJON BOURGOGNE
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ RUMILLY BASKET CLUB vs JDA
+  DIJON BOURGOGNE\n\nGYMNASE DU CLERGEON\n📍 Boulevard Louis Dagand Rumil
+ ly 74150\n🚗 Waze : https://waze.com/ul?ll=45.86758\,5.93873&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nmu15-elite/match/200000014600745
+LOCATION:GYMNASE DU CLERGEON\, Boulevard Louis Dagand Rumilly 74150
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00745
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-15-13-15-asvel-basket-1-roanne-chorale-1@ff
+ bb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:ASVEL BASKET - 1 – ROANNE CHORALE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ASVEL BASKET - 1 vs ROANNE
+  CHORALE - 1\n\nSALLE RAPHAEL DE BARROS\n📍 Cours Émile Zola Villeurban
+ ne 69100\n🚗 Waze : https://waze.com/ul?ll=45.76799\,4.88853&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nmu15-elite/match/200000014600746
+LOCATION:SALLE RAPHAEL DE BARROS\, Cours Émile Zola Villeurbanne 69100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00746
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-15-13-15-ie-ctc-lyon-so-basket-territoire-1
+ -elan-cha@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – ELAN CHALON - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ IE - CTC LYON SO BASKET TE
+ RRITOIRE - 1 vs ELAN CHALON - 1\n\nGYMNASE SAINTE BARBE\n📍 Rue Sainte-B
+ arbe Sainte-Foy-lès-Lyon 69110\n🚗 Waze : https://waze.com/ul?ll=45.734
+ 64\,4.78675&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/
+ 200000014600744
+LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lès-Lyon 69110
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00744
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-29-13-15-jda-dijon-bourgogne-ie-ctc-lyon-so
+ -basket-t@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:JDA DIJON BOURGOGNE – IE - CTC LYON SO BASKET TERRITOIRE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ JDA DIJON BOURGOGNE vs IE 
+ - CTC LYON SO BASKET TERRITOIRE - 1\n\nSALLE JEAN MARC BOIVIN\n📍 Rue de
+  la Côte d'Or Dijon 21000\n🚗 Waze : https://waze.com/ul?ll=47.33321\,5
+ .03662&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/20000
+ 0014600771
+LOCATION:SALLE JEAN MARC BOIVIN\, Rue de la Côte d'Or Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00771
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-29-13-15-elan-chalon-1-asvel-basket-1@ffbb-
+ agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:ELAN CHALON - 1 – ASVEL BASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ELAN CHALON - 1 vs ASVEL B
+ ASKET - 1\n\nLE COLISEE GRANDE SALLE\n📍 Rue d'Amsterdam Chalon-sur-Saô
+ ne 71100\n🚗 Waze : https://waze.com/ul?ll=46.78565\,4.86593&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nmu15-elite/match/200000014600772
+LOCATION:LE COLISEE GRANDE SALLE\, Rue d'Amsterdam Chalon-sur-Saône 71100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00772
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-11-29-13-15-roanne-chorale-1-rumilly-basket-cl
+ ub@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:ROANNE CHORALE - 1 – RUMILLY BASKET CLUB
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ROANNE CHORALE - 1 vs RUMI
+ LLY BASKET CLUB\n\nPALAIS DES SPORTS\n📍 Rue Albert Thomas Roanne 42300\
+ n🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07401&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nmu15-elite/match/200000014600773
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00773
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-12-06-13-15-ie-ctc-lyon-so-basket-territoire-1
+ -roanne-c@ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – ROANNE CHORALE - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ IE - CTC LYON SO BASKET TE
+ RRITOIRE - 1 vs ROANNE CHORALE - 1\n\nGYMNASE SAINTE BARBE\n📍 Rue Saint
+ e-Barbe Sainte-Foy-lès-Lyon 69110\n🚗 Waze : https://waze.com/ul?ll=45.
+ 73464\,4.78675&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/mat
+ ch/200000014600800
+LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lès-Lyon 69110
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00800
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-12-06-13-15-elan-chalon-1-jda-dijon-bourgogne@
+ ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:ELAN CHALON - 1 – JDA DIJON BOURGOGNE
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ ELAN CHALON - 1 vs JDA DIJ
+ ON BOURGOGNE\n\nLE COLISEE GRANDE SALLE\n📍 Rue d'Amsterdam Chalon-sur-S
+ aône 71100\n🚗 Waze : https://waze.com/ul?ll=46.78565\,4.86593&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nmu15-elite/match/200000014600798
+LOCATION:LE COLISEE GRANDE SALLE\, Rue d'Amsterdam Chalon-sur-Saône 71100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00798
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-i-2026-12-06-13-15-rumilly-basket-club-asvel-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T085948Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:RUMILLY BASKET CLUB – ASVEL BASKET - 1
+DESCRIPTION:🏀 NMU15-ELITE – Poule I\n⚔️ RUMILLY BASKET CLUB vs ASV
+ EL BASKET - 1\n\nGYMNASE DU CLERGEON\n📍 Boulevard Louis Dagand Rumilly 
+ 74150\n🚗 Waze : https://waze.com/ul?ll=45.86758\,5.93873&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu15-elite/match/200000014600799
+LOCATION:GYMNASE DU CLERGEON\, Boulevard Louis Dagand Rumilly 74150
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00799
+END:VEVENT
+END:VCALENDAR

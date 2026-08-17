@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LA CROIX D'ARGENT B MONTPELLIER  [NMU18-ELITE –  – Poule B]
+X-WR-CALDESC:Matchs de LA CROIX D'ARGENT B MONTPELLIER – NMU18-ELITE – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-09-13-15-30-sas-fos-provence-basket-la-croix-d
+ -argent-b@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:✈️ SAS FOS PROVENCE BASKET – LA CROIX D'ARGENT B MONTPELLIER
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ SAS FOS PROVENCE BASKET vs
+  LA CROIX D'ARGENT B MONTPELLIER\n\nCOMPLEXE SPORTIF PARSEMAIN\n📍 Avenu
+ e Jean Moulin Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul?ll=43.433
+ 14\,4.94793&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/
+ 200000014603171
+LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03171
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-09-20-15-30-la-croix-d-argent-b-montpellier-ie
+ -ctc-lyon@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – IE - CTC LYON SO BASKET TE
+ RRITOIRE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs IE - CTC LYON SO BASKET TERRITOIRE - 1\n\nGYMNASE ROGER COUDERC\n
+ 📍 Rue du Mas de Lemasson Montpellier 34070\n🚗 Waze : https://waze.co
+ m/ul?ll=43.59708\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
+ 8-elite/match/200000014603202
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03202
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-09-27-15-30-saint-chamond-andrezieux-boutheon-
+ basket-sc@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ SAINT-CHAMOND ANDREZIEUX BOUTHEON BASKET - SCABB – LA CROI
+ X D'ARGENT B MONTPELLIER
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ SAINT-CHAMOND ANDREZIEUX B
+ OUTHEON BASKET - SCABB vs LA CROIX D'ARGENT B MONTPELLIER\n\nARENA SAINT E
+ TIENNE ( Annexe )\n📍 Rue Saint-André Saint-Chamond 42400\n🚗 Waze : 
+ https://waze.com/ul?ll=45.46392\,4.50414&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nmu18-elite/match/200000014603233
+LOCATION:ARENA SAINT ETIENNE ( Annexe )\, Rue Saint-André Saint-Chamond 42
+ 400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03233
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-10-04-15-30-la-croix-d-argent-b-montpellier-ie
+ -ctc-mars@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – IE - CTC MARSEILLE - STADE
+  MARSEILLAIS UC
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs IE - CTC MARSEILLE - STADE MARSEILLAIS UC\n\nGYMNASE ROGER COUDER
+ C\n📍 Rue du Mas de Lemasson Montpellier 34070\n🚗 Waze : https://waze
+ .com/ul?ll=43.59708\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
+ mu18-elite/match/200000014603262
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03262
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-10-11-15-30-la-croix-d-argent-b-montpellier-je
+ anne-d-ar@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – JEANNE D’ARC DE VICHY
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs JEANNE D’ARC DE VICHY\n\nGYMNASE ROGER COUDERC\n📍 Rue du Mas
+  de Lemasson Montpellier 34070\n🚗 Waze : https://waze.com/ul?ll=43.5970
+ 8\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
+ 00000014603292
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03292
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-11-01-15-30-la-croix-d-argent-b-montpellier-sa
+ s-fos-pro@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – SAS FOS PROVENCE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs SAS FOS PROVENCE BASKET\n\nGYMNASE ROGER COUDERC\n📍 Rue du Mas
+  de Lemasson Montpellier 34070\n🚗 Waze : https://waze.com/ul?ll=43.5970
+ 8\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
+ 00000014603321
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03321
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-11-08-15-30-ie-ctc-lyon-so-basket-territoire-1
+ -la-croix@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ IE - CTC LYON SO BASKET TERRITOIRE - 1 – LA CROIX D'ARGENT
+  B MONTPELLIER
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC LYON SO BASKET TE
+ RRITOIRE - 1 vs LA CROIX D'ARGENT B MONTPELLIER\n\nGYMNASE SAINTE BARBE\n
+ 📍 Rue Sainte-Barbe Sainte-Foy-lès-Lyon 69110\n🚗 Waze : https://waze
+ .com/ul?ll=45.73464\,4.78675&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
+ mu18-elite/match/200000014603352
+LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lès-Lyon 69110
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03352
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-11-15-15-30-la-croix-d-argent-b-montpellier-sa
+ int-chamo@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 LA CROIX D'ARGENT B MONTPELLIER – SAINT-CHAMOND ANDREZIEUX B
+ OUTHEON BASKET - SCABB
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs SAINT-CHAMOND ANDREZIEUX BOUTHEON BASKET - SCABB\n\nGYMNASE ROGER
+  COUDERC\n📍 Rue du Mas de Lemasson Montpellier 34070\n🚗 Waze : https
+ ://waze.com/ul?ll=43.59708\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nmu18-elite/match/200000014603383
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03383
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-11-29-15-30-ie-ctc-marseille-stade-marseillais
+ -uc-la-cr@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ IE - CTC MARSEILLE - STADE MARSEILLAIS UC – LA CROIX D'ARG
+ ENT B MONTPELLIER
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC MARSEILLE - STADE
+  MARSEILLAIS UC vs LA CROIX D'ARGENT B MONTPELLIER\n\nTECHNO SPORT AIX MAR
+ SEILLE\n📍 Avenue de Luminy Marseille 13009\n🚗 Waze : https://waze.co
+ m/ul?ll=43.23488\,5.43799&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
+ 8-elite/match/200000014603412
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03412
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-12-06-15-30-jeanne-d-arc-de-vichy-la-croix-d-a
+ rgent-b-m@ffbb-agenda
+DTSTAMP:20260817T085752Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ JEANNE D’ARC DE VICHY – LA CROIX D'ARGENT B MONTPELLIER
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ JEANNE D’ARC DE VICHY vs
+  LA CROIX D'ARGENT B MONTPELLIER\n\nGYMNASE PIERRE COULON A\n📍 Route du
+  Pont de l'Europe Bellerive-sur-Allier 03700\n🚗 Waze : https://waze.com
+ /ul?ll=46.14134\,3.40348&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18
+ -elite/match/200000014603442
+LOCATION:GYMNASE PIERRE COULON A\, Route du Pont de l'Europe Bellerive-sur-
+ Allier 03700
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03442
+END:VEVENT
+END:VCALENDAR

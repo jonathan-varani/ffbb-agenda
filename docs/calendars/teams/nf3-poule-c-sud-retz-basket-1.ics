@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SUD RETZ BASKET - 1  [NF3 –  – Poule C]
+X-WR-CALDESC:Matchs de SUD RETZ BASKET - 1 – NF3 – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-13-15-30-rennes-pole-association-sud-retz-basket-1@
+ ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:✈️ RENNES POLE ASSOCIATION – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ RENNES POLE ASSOCIATION vs SUD RET
+ Z BASKET - 1\n\nESPACE DES 2 RIVES\n📍 Allée Georges Palante Rennes 350
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.10813\,-1.65993&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601616
+LOCATION:ESPACE DES 2 RIVES\, Allée Georges Palante Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601616
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-20-15-30-sud-retz-basket-1-vertou-basket-1@ffbb-age
+ nda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – VERTOU BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs VERTOU BASK
+ ET - 1\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Saint-Même 44
+ 270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf3/match/200000014601663
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601663
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-09-27-15-30-carquefou-basket-sud-retz-basket-1@ffbb-ag
+ enda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ CARQUEFOU BASKET – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CARQUEFOU BASKET vs SUD RETZ BASKE
+ T - 1\n\nCOMPLEXE JEAN GAUVRIT N1\n📍 Rue Louis Armand Carquefou 44470\n
+ 🚗 Waze : https://waze.com/ul?ll=47.29603\,-1.48851&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014601710
+LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601710
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-04-15-30-sud-retz-basket-1-chantonnay-st-germain-ba
+ sket@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – CHANTONNAY-ST GERMAIN BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs CHANTONNAY-
+ ST GERMAIN BASKET\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Sai
+ nt-Même 44270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf3/match/200000014601757
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601757
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-11-15-30-rennes-cercle-paul-bert-basket-1-sud-retz-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ RENNES CERCLE PAUL BERT BASKET - 1 – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ RENNES CERCLE PAUL BERT BASKET - 1
+  vs SUD RETZ BASKET - 1\n\nSALLE GINGUENE\n📍 Rue Ginguené Rennes 35000
+ \n🚗 Waze : https://waze.com/ul?ll=48.09935\,-1.68563&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601804
+LOCATION:SALLE GINGUENE\, Rue Ginguené Rennes 35000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601804
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-10-25-15-30-sud-retz-basket-1-etoile-saint-laurent-bre
+ st-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261025T153000
+DTEND;TZID=Europe/Paris:20261025T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – ETOILE SAINT LAURENT BREST - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs ETOILE SAIN
+ T LAURENT BREST - 1\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-S
+ aint-Même 44270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf3/match/200000014601857
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601857
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-01-15-30-sud-retz-basket-1-cholet-jf-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – CHOLET JF - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs CHOLET JF -
+  1\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Saint-Même 44270\
+ n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601904
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601904
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-08-15-30-alpc-moulin-nantes-basket-2-sud-retz-baske
+ t-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ ALPC MOULIN NANTES BASKET - 2 – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ ALPC MOULIN NANTES BASKET - 2 vs S
+ UD RETZ BASKET - 1\n\nGYMNASE DU COUDRAY\n📍 Rue du Coudray Nantes 44000
+ \n🚗 Waze : https://waze.com/ul?ll=47.23305\,-1.54255&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601951
+LOCATION:GYMNASE DU COUDRAY\, Rue du Coudray Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601951
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-15-15-30-vendee-bellevigny-basket-sud-retz-basket-1
+ @ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ VENDEE BELLEVIGNY BASKET – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VENDEE BELLEVIGNY BASKET vs SUD RE
+ TZ BASKET - 1\n\nSALLE SPORTS BELLEVILLE SUR VIE\n📍 Boulevard André Ma
+ lraux Bellevigny 85170\n🚗 Waze : https://waze.com/ul?ll=46.77817\,-1.42
+ 289&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf3/match/200000014602001
+LOCATION:SALLE SPORTS BELLEVILLE SUR VIE\, Boulevard André Malraux Bellevi
+ gny 85170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602001
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-11-29-15-30-sud-retz-basket-1-ie-cep-lorient-basket-1@
+ ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – IE - CEP LORIENT BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs IE - CEP LO
+ RIENT BASKET - 1\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Sain
+ t-Même 44270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf3/match/200000014602049
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602049
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2026-12-06-15-30-vitre-aurore-1-sud-retz-basket-1@ffbb-agen
+ da
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ VITRE AURORE - 1 – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VITRE AURORE - 1 vs SUD RETZ BASKE
+ T - 1\n\nSALLE POULTIERE AURORE DE VITRE\n📍 Rue de la Poultière Vitré
+  35500\n🚗 Waze : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf3/match/200000014602096
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la Poultière Vitré 3550
+ 0
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602096
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-10-15-30-sud-retz-basket-1-rennes-pole-association@
+ ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – RENNES POLE ASSOCIATION
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs RENNES POLE
+  ASSOCIATION\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Saint-M
+ ême 44270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf3/match/200000014602144
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602144
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-17-15-30-vertou-basket-1-sud-retz-basket-1@ffbb-age
+ nda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:✈️ VERTOU BASKET - 1 – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ VERTOU BASKET - 1 vs SUD RETZ BASK
+ ET - 1\n\nGYMNASE DES ECHALONNIERES\n📍 Boulevard Luc Dejoie Vertou 4412
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.17039\,-1.45686&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602191
+LOCATION:GYMNASE DES ECHALONNIERES\, Boulevard Luc Dejoie Vertou 44120
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602191
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-01-31-15-30-sud-retz-basket-1-carquefou-basket@ffbb-ag
+ enda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – CARQUEFOU BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs CARQUEFOU B
+ ASKET\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Saint-Même 442
+ 70\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602238
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602238
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-07-15-30-chantonnay-st-germain-basket-sud-retz-bask
+ et-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:✈️ CHANTONNAY-ST GERMAIN BASKET – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHANTONNAY-ST GERMAIN BASKET vs SU
+ D RETZ BASKET - 1\n\nSALLE POLYVALENTE\n📍 Rue Louis Marchegay Saint-Ger
+ main-de-Prinçay 85110\n🚗 Waze : https://waze.com/ul?ll=46.722\,-1.0242
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf3/match/200000014602285
+LOCATION:SALLE POLYVALENTE\, Rue Louis Marchegay Saint-Germain-de-Prinçay 
+ 85110
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602285
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-14-15-30-sud-retz-basket-1-rennes-cercle-paul-bert-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – RENNES CERCLE PAUL BERT BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs RENNES CERC
+ LE PAUL BERT BASKET - 1\n\nSALLE CAHOUET\n📍 Allée de la Rabine Macheco
+ ul-Saint-Même 44270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.8158
+ 7&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf3/match/200000014602332
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602332
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-02-28-15-30-etoile-saint-laurent-brest-1-sud-retz-bask
+ et-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:✈️ ETOILE SAINT LAURENT BREST - 1 – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ ETOILE SAINT LAURENT BREST - 1 vs 
+ SUD RETZ BASKET - 1\n\nSALLE DE LA BRASSERIE (A)\n📍 Rue Marguerite Dura
+ s Brest 29200\n🚗 Waze : https://waze.com/ul?ll=48.41717\,-4.49513&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf3/match/200000014602385
+LOCATION:SALLE DE LA BRASSERIE (A)\, Rue Marguerite Duras Brest 29200
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602385
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-07-15-30-cholet-jf-1-sud-retz-basket-1@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:✈️ CHOLET JF - 1 – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ CHOLET JF - 1 vs SUD RETZ BASKET -
+  1\n\nSALLE DARMAILLACQ N01\n📍 Rue Alphonse Darmaillacq Cholet 49300\n
+ 🚗 Waze : https://waze.com/ul?ll=47.06463\,-0.87401&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014602432
+LOCATION:SALLE DARMAILLACQ N01\, Rue Alphonse Darmaillacq Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602432
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-14-15-30-sud-retz-basket-1-alpc-moulin-nantes-baske
+ t-2@ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – ALPC MOULIN NANTES BASKET - 2
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs ALPC MOULIN
+  NANTES BASKET - 2\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Sa
+ int-Même 44270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf3/match/200000014602479
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602479
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-03-28-15-30-sud-retz-basket-1-vendee-bellevigny-basket
+ @ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – VENDEE BELLEVIGNY BASKET
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs VENDEE BELL
+ EVIGNY BASKET\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Saint-M
+ ême 44270\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf3/match/200000014602529
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602529
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-04-11-15-30-ie-cep-lorient-basket-1-sud-retz-basket-1@
+ ffbb-agenda
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:✈️ IE - CEP LORIENT BASKET - 1 – SUD RETZ BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ IE - CEP LORIENT BASKET - 1 vs SUD
+  RETZ BASKET - 1\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dreyfus Lo
+ rient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf3/match/200000014602577
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602577
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-c-2027-04-18-15-30-sud-retz-basket-1-vitre-aurore-1@ffbb-agen
+ da
+DTSTAMP:20260817T084808Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:🏠 SUD RETZ BASKET - 1 – VITRE AURORE - 1
+DESCRIPTION:🏀 NF3 – Poule C\n⚔️ SUD RETZ BASKET - 1 vs VITRE AUROR
+ E - 1\n\nSALLE CAHOUET\n📍 Allée de la Rabine Machecoul-Saint-Même 442
+ 70\n🚗 Waze : https://waze.com/ul?ll=46.98896\,-1.81587&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602624
+LOCATION:SALLE CAHOUET\, Allée de la Rabine Machecoul-Saint-Même 44270
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602624
+END:VEVENT
+END:VCALENDAR

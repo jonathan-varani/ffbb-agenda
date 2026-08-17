@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET BALL LIVRY GARGAN  [NFU15-ELITE –  – Poule H]
+X-WR-CALDESC:Matchs de BASKET BALL LIVRY GARGAN – NFU15-ELITE – Poule H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-09-13-13-15-union-basket-lambersart-villeneuve
+ -d-ascq-b@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:✈️ UNION BASKET LAMBERSART / VILLENEUVE D'ASCQ – BASKET BALL 
+ LIVRY GARGAN
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ UNION BASKET LAMBERSART / 
+ VILLENEUVE D'ASCQ vs BASKET BALL LIVRY GARGAN\n\nC.S. PALACIUM\n📍 Rue B
+ reughel Villeneuve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.626
+ 17\,3.13464&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/match/
+ 200000014602680
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02680
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-09-20-13-30-basket-ball-livry-gargan-e-l-witry
+ -les-reim@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20260920T133000
+DTEND;TZID=Europe/Paris:20260920T153000
+SUMMARY:🏠 BASKET BALL LIVRY GARGAN – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ BASKET BALL LIVRY GARGAN v
+ s E- L-WITRY LES REIMS BASKET\n\nGYMNASE JEAN JAURES\n📍 Boulevard Jean 
+ Jaurès Livry-Gargan 93190\n🚗 Waze : https://waze.com/ul?ll=48.92073\,2
+ .52708&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/match/20000
+ 0014602707
+LOCATION:GYMNASE JEAN JAURES\, Boulevard Jean Jaurès Livry-Gargan 93190
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02707
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-09-27-13-15-marne-la-vallee-basket-val-maubuee
+ -basket-b@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:✈️ MARNE-LA-VALLEE BASKET VAL MAUBUEE – BASKET BALL LIVRY GAR
+ GAN
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ MARNE-LA-VALLEE BASKET VAL
+  MAUBUEE vs BASKET BALL LIVRY GARGAN\n\nGYMNASE DE LA LIBERTE\n📍 Mail L
+ e Corbusier Lognes 77185\n🚗 Waze : https://waze.com/ul?ll=48.83945\,2.6
+ 4389&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000
+ 14602733
+LOCATION:GYMNASE DE LA LIBERTE\, Mail Le Corbusier Lognes 77185
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02733
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-10-04-13-30-basket-ball-livry-gargan-cote-d-op
+ ale-baske@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20261004T133000
+DTEND;TZID=Europe/Paris:20261004T153000
+SUMMARY:🏠 BASKET BALL LIVRY GARGAN – COTE D'OPALE BASKET CALAIS - 1
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ BASKET BALL LIVRY GARGAN v
+ s COTE D'OPALE BASKET CALAIS - 1\n\nGYMNASE JEAN JAURES\n📍 Boulevard Je
+ an Jaurès Livry-Gargan 93190\n🚗 Waze : https://waze.com/ul?ll=48.92073
+ \,2.52708&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/match/20
+ 0000014602761
+LOCATION:GYMNASE JEAN JAURES\, Boulevard Jean Jaurès Livry-Gargan 93190
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02761
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-10-11-13-15-templeuve-l-p-basket-ball-livry-ga
+ rgan@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:✈️ TEMPLEUVE L P – BASKET BALL LIVRY GARGAN
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ TEMPLEUVE L P vs BASKET BA
+ LL LIVRY GARGAN\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeu
+ ve-en-Pévèle 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nfu15-elite/match/200000014602
+ 787
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-Pévèle 
+ 59242
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02787
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-11-01-13-15-basket-ball-livry-gargan-union-bas
+ ket-lambe@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:🏠 BASKET BALL LIVRY GARGAN – UNION BASKET LAMBERSART / VILLENE
+ UVE D'ASCQ
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ BASKET BALL LIVRY GARGAN v
+ s UNION BASKET LAMBERSART / VILLENEUVE D'ASCQ\n\nGYMNASE JEAN JAURES\n📍
+  Boulevard Jean Jaurès Livry-Gargan 93190\n🚗 Waze : https://waze.com/u
+ l?ll=48.92073\,2.52708&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-e
+ lite/match/200000014602815
+LOCATION:GYMNASE JEAN JAURES\, Boulevard Jean Jaurès Livry-Gargan 93190
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02815
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-11-08-13-15-e-l-witry-les-reims-basket-basket-
+ ball-livr@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – BASKET BALL LIVRY GARGAN
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ E- L-WITRY LES REIMS BASKE
+ T vs BASKET BALL LIVRY GARGAN\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue
+  de Bétheny Witry-lès-Reims 51420\n🚗 Waze : https://waze.com/ul?ll=49
+ .29189\,4.11144&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite
+ /match/200000014602842
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02842
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-11-15-13-15-basket-ball-livry-gargan-marne-la-
+ vallee-ba@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:🏠 BASKET BALL LIVRY GARGAN – MARNE-LA-VALLEE BASKET VAL MAUBUE
+ E
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ BASKET BALL LIVRY GARGAN v
+ s MARNE-LA-VALLEE BASKET VAL MAUBUEE\n\nGYMNASE JEAN JAURES\n📍 Boulevar
+ d Jean Jaurès Livry-Gargan 93190\n🚗 Waze : https://waze.com/ul?ll=48.9
+ 2073\,2.52708&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/matc
+ h/200000014602868
+LOCATION:GYMNASE JEAN JAURES\, Boulevard Jean Jaurès Livry-Gargan 93190
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02868
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-11-29-13-15-cote-d-opale-basket-calais-1-baske
+ t-ball-li@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:✈️ COTE D'OPALE BASKET CALAIS - 1 – BASKET BALL LIVRY GARGAN
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ COTE D'OPALE BASKET CALAIS
+  - 1 vs BASKET BALL LIVRY GARGAN\n\nSALLE CALYPSO\n📍 Rue Roger Martin d
+ u Gard Calais 62100\n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nfu15-elite/match/200000014602
+ 896
+LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02896
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-h-2026-12-06-13-15-basket-ball-livry-gargan-templeuve
+ -l-p@ffbb-agenda
+DTSTAMP:20260817T085159Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:🏠 BASKET BALL LIVRY GARGAN – TEMPLEUVE L P
+DESCRIPTION:🏀 NFU15-ELITE – Poule H\n⚔️ BASKET BALL LIVRY GARGAN v
+ s TEMPLEUVE L P\n\nGYMNASE JEAN JAURES\n📍 Boulevard Jean Jaurès Livry-
+ Gargan 93190\n🚗 Waze : https://waze.com/ul?ll=48.92073\,2.52708&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nfu15-elite/match/200000014602922
+LOCATION:GYMNASE JEAN JAURES\, Boulevard Jean Jaurès Livry-Gargan 93190
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02922
+END:VEVENT
+END:VCALENDAR

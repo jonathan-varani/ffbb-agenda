@@ -1,0 +1,380 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - OL. ANTIBES BASKET AMA - 1  [NF2 –  – Poule A]
+X-WR-CALDESC:Matchs de IE - OL. ANTIBES BASKET AMA - 1 – NF2 – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-09-12-20-00-ie-ol-antibes-basket-ama-1-charnay-basket-
+ bourgogne@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – CHARNAY BASKET BOURGOGNE S
+ UD - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  CHARNAY BASKET BOURGOGNE SUD - ESPOIR\n\nSALLE SALUSSE SANTONI\n📍 Aven
+ ue Lemeray Antibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.1
+ 2111&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nf2/match/200000014601073
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601073
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-09-19-17-15-bc-la-tronche-meylan-espoir-ie-ol-antibes-
+ basket-am@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20260919T171500
+DTEND;TZID=Europe/Paris:20260919T191500
+SUMMARY:✈️ BC LA TRONCHE MEYLAN - ESPOIR – IE - OL. ANTIBES BASKET AM
+ A - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ BC LA TRONCHE MEYLAN - ESPOIR vs I
+ E - OL. ANTIBES BASKET AMA - 1\n\nGYMNASE CHARLAIX MAUPERTUIS\n📍 Chemin
+  du Monarié Meylan 38240\n🚗 Waze : https://waze.com/ul?ll=45.21119\,5.
+ 80082&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460109
+ 7
+LOCATION:GYMNASE CHARLAIX MAUPERTUIS\, Chemin du Monarié Meylan 38240
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601097
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-09-26-20-00-ie-ol-antibes-basket-ama-1-saint-martin-d-
+ heres-bas@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – SAINT MARTIN D'HERES BASKE
+ TBALL - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  SAINT MARTIN D'HERES BASKETBALL - 1\n\nSALLE SALUSSE SANTONI\n📍 Avenue
+  Lemeray Antibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.121
+ 11&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf2/match/200000014601121
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601121
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-10-03-20-00-al-meyzieu-1-ie-ol-antibes-basket-ama-1@ff
+ bb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ AL MEYZIEU - 1 – IE - OL. ANTIBES BASKET AMA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ AL MEYZIEU - 1 vs IE - OL. ANTIBES
+  BASKET AMA - 1\n\nGYMNASE DU BOURG\n📍 Avenue Lucien Buisson Meyzieu 69
+ 330\n🚗 Waze : https://waze.com/ul?ll=45.76514\,4.99935&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601145
+LOCATION:GYMNASE DU BOURG\, Avenue Lucien Buisson Meyzieu 69330
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601145
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-10-10-20-00-ie-ol-antibes-basket-ama-1-amicale-laique-
+ ledonienn@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – AMICALE LAÏQUE LÉDONIENN
+ E JURA BASKET
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  AMICALE LAÏQUE LÉDONIENNE JURA BASKET\n\nSALLE SALUSSE SANTONI\n📍 Av
+ enue Lemeray Antibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7
+ .12111&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nf2/match/2000000146011
+ 69
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601169
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-10-24-20-00-pantheres-mulhouse-basket-alsace-ie-ol-ant
+ ibes-bask@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:✈️ PANTHERES MULHOUSE BASKET ALSACE – IE - OL. ANTIBES BASKET
+  AMA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ PANTHERES MULHOUSE BASKET ALSACE v
+ s IE - OL. ANTIBES BASKET AMA - 1\n\nGYMNASE DE LA DOLLER\n📍 Rue de Tou
+ lon Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.77531\,7.33278&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf2/match/200000014601193
+LOCATION:GYMNASE DE LA DOLLER\, Rue de Toulon Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601193
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-10-31-20-00-champagnole-jura-basket-ie-ol-antibes-bask
+ et-ama-1@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ CHAMPAGNOLE JURA BASKET – IE - OL. ANTIBES BASKET AMA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ CHAMPAGNOLE JURA BASKET vs IE - OL
+ . ANTIBES BASKET AMA - 1\n\nSALLE LEO LAGRANGE\n📍 Rue de la Liberté Ch
+ ampagnole 39300\n🚗 Waze : https://waze.com/ul?ll=46.74169\,5.92385&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601217
+LOCATION:SALLE LEO LAGRANGE\, Rue de la Liberté Champagnole 39300
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601217
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-11-07-20-00-ie-ol-antibes-basket-ama-1-basket-club-de-
+ chenove@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – BASKET CLUB DE CHENOVE
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  BASKET CLUB DE CHENOVE\n\nSALLE SALUSSE SANTONI\n📍 Avenue Lemeray Anti
+ bes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.12111&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf2/match/200000014601241
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601241
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-11-14-20-00-ie-ol-antibes-basket-ama-1-mauguio-basket@
+ ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – MAUGUIO BASKET
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  MAUGUIO BASKET\n\nSALLE SALUSSE SANTONI\n📍 Avenue Lemeray Antibes 0660
+ 0\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.12111&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601264
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601264
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-11-28-17-15-pays-voironnais-basket-club-2-ie-ol-antibe
+ s-basket-@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20261128T171500
+DTEND;TZID=Europe/Paris:20261128T191500
+SUMMARY:✈️ PAYS VOIRONNAIS BASKET CLUB - 2 – IE - OL. ANTIBES BASKET 
+ AMA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ PAYS VOIRONNAIS BASKET CLUB - 2 vs
+  IE - OL. ANTIBES BASKET AMA - 1\n\nGYMNASE HENRI CHAUTARD\n📍 Boulevard
+  Denfert-Rochereau Voiron 38500\n🚗 Waze : https://waze.com/ul?ll=45.360
+ 15\,5.59527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001
+ 4601287
+LOCATION:GYMNASE HENRI CHAUTARD\, Boulevard Denfert-Rochereau Voiron 38500
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601287
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2026-12-05-20-00-ie-ol-antibes-basket-ama-1-fc-lyon-asvel-f
+ eminin-es@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – FC LYON ASVEL FEMININ - ES
+ POIR
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  FC LYON ASVEL FEMININ - ESPOIR\n\nSALLE SALUSSE SANTONI\n📍 Avenue Leme
+ ray Antibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.12111&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf2/match/200000014601312
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601312
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-01-09-17-15-charnay-basket-bourgogne-sud-espoir-ie-ol-
+ antibes-b@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270109T171500
+DTEND;TZID=Europe/Paris:20270109T191500
+SUMMARY:✈️ CHARNAY BASKET BOURGOGNE SUD - ESPOIR – IE - OL. ANTIBES B
+ ASKET AMA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ CHARNAY BASKET BOURGOGNE SUD - ESP
+ OIR vs IE - OL. ANTIBES BASKET AMA - 1\n\nCentre Sportif Maurice CHEVALIER
+ \n📍 Allée des Écoliers Charnay-lès-Mâcon 71850\n🚗 Waze : https:/
+ /waze.com/ul?ll=46.30702\,4.81086&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nf2/match/200000014601337
+LOCATION:Centre Sportif Maurice CHEVALIER\, Allée des Écoliers Charnay-l
+ ès-Mâcon 71850
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601337
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-01-16-20-00-ie-ol-antibes-basket-ama-1-bc-la-tronche-m
+ eylan-esp@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – BC LA TRONCHE MEYLAN - ESP
+ OIR
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  BC LA TRONCHE MEYLAN - ESPOIR\n\nSALLE SALUSSE SANTONI\n📍 Avenue Lemer
+ ay Antibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.12111&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf2/match/200000014601361
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601361
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-01-30-20-00-saint-martin-d-heres-basketball-1-ie-ol-an
+ tibes-bas@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ SAINT MARTIN D'HERES BASKETBALL - 1 – IE - OL. ANTIBES BAS
+ KET AMA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ SAINT MARTIN D'HERES BASKETBALL - 
+ 1 vs IE - OL. ANTIBES BASKET AMA - 1\n\nGYMNASE COLETTE BESSON\n📍 Rue A
+ lphonse Daudet Saint-Martin-d'Hères 38400\n🚗 Waze : https://waze.com/u
+ l?ll=45.17825\,5.76838&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/mat
+ ch/200000014601385
+LOCATION:GYMNASE COLETTE BESSON\, Rue Alphonse Daudet Saint-Martin-d'Hères
+  38400
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601385
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-02-06-20-00-ie-ol-antibes-basket-ama-1-al-meyzieu-1@ff
+ bb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – AL MEYZIEU - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  AL MEYZIEU - 1\n\nSALLE SALUSSE SANTONI\n📍 Avenue Lemeray Antibes 0660
+ 0\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.12111&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601409
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601409
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-02-13-20-00-amicale-laique-ledonienne-jura-basket-ie-o
+ l-antibes@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ AMICALE LAÏQUE LÉDONIENNE JURA BASKET – IE - OL. ANTIBES
+  BASKET AMA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ AMICALE LAÏQUE LÉDONIENNE JURA B
+ ASKET vs IE - OL. ANTIBES BASKET AMA - 1\n\nGRAND ENSEMBLE SPORTIF\n📍 R
+ ue Robert Schuman Lons-le-Saunier 39000\n🚗 Waze : https://waze.com/ul?l
+ l=46.68127\,5.56277&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/
+ 200000014601433
+LOCATION:GRAND ENSEMBLE SPORTIF\, Rue Robert Schuman Lons-le-Saunier 39000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601433
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-02-27-20-00-ie-ol-antibes-basket-ama-1-pantheres-mulho
+ use-baske@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – PANTHERES MULHOUSE BASKET 
+ ALSACE
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  PANTHERES MULHOUSE BASKET ALSACE\n\nSALLE SALUSSE SANTONI\n📍 Avenue Le
+ meray Antibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.12111&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf2/match/200000014601457
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601457
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-03-06-20-00-ie-ol-antibes-basket-ama-1-champagnole-jur
+ a-basket@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – CHAMPAGNOLE JURA BASKET
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  CHAMPAGNOLE JURA BASKET\n\nSALLE SALUSSE SANTONI\n📍 Avenue Lemeray Ant
+ ibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.12111&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf2/match/200000014601481
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601481
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-03-13-20-00-basket-club-de-chenove-ie-ol-antibes-baske
+ t-ama-1@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ BASKET CLUB DE CHENOVE – IE - OL. ANTIBES BASKET AMA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ BASKET CLUB DE CHENOVE vs IE - OL.
+  ANTIBES BASKET AMA - 1\n\nGYMNASE DU MAIL\n📍 Rue Olympe de Gouges Chen
+ ôve 21300\n🚗 Waze : https://waze.com/ul?ll=47.29969\,5.01223&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf2/match/200000014601505
+LOCATION:GYMNASE DU MAIL\, Rue Olympe de Gouges Chenôve 21300
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601505
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-03-27-20-00-mauguio-basket-ie-ol-antibes-basket-ama-1@
+ ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:✈️ MAUGUIO BASKET – IE - OL. ANTIBES BASKET AMA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ MAUGUIO BASKET vs IE - OL. ANTIBES
+  BASKET AMA - 1\n\nHALLE DES SPORTS J-P. BEUGNOT\n📍 Rue du Souvenir Fra
+ nçais Mauguio 34130\n🚗 Waze : https://waze.com/ul?ll=43.62258\,4.00671
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf2/match/200000014601528
+LOCATION:HALLE DES SPORTS J-P. BEUGNOT\, Rue du Souvenir Français Mauguio 
+ 34130
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601528
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-04-10-20-00-ie-ol-antibes-basket-ama-1-pays-voironnais
+ -basket-c@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 IE - OL. ANTIBES BASKET AMA - 1 – PAYS VOIRONNAIS BASKET CLU
+ B - 2
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ IE - OL. ANTIBES BASKET AMA - 1 vs
+  PAYS VOIRONNAIS BASKET CLUB - 2\n\nSALLE SALUSSE SANTONI\n📍 Avenue Lem
+ eray Antibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.12111&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf2/match/200000014601551
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601551
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-a-2027-04-17-17-15-fc-lyon-asvel-feminin-espoir-ie-ol-antibes
+ -basket-a@ffbb-agenda
+DTSTAMP:20260817T084641Z
+DTSTART;TZID=Europe/Paris:20270417T171500
+DTEND;TZID=Europe/Paris:20270417T191500
+SUMMARY:✈️ FC LYON ASVEL FEMININ - ESPOIR – IE - OL. ANTIBES BASKET A
+ MA - 1
+DESCRIPTION:🏀 NF2 – Poule A\n⚔️ FC LYON ASVEL FEMININ - ESPOIR vs 
+ IE - OL. ANTIBES BASKET AMA - 1\n\nPETIT PALAIS DES SPORTS GERLAND\n📍 A
+ venue Jean Jaurès Lyon 69007\n🚗 Waze : https://waze.com/ul?ll=45.7239\
+ ,4.82889&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460
+ 1576
+LOCATION:PETIT PALAIS DES SPORTS GERLAND\, Avenue Jean Jaurès Lyon 69007
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601576
+END:VEVENT
+END:VCALENDAR

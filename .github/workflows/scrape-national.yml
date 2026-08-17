@@ -1,10 +1,9 @@
-name: Scrape FFBB — région GES
+name: Scrape FFBB — championnats nationaux
 
 on:
   schedule:
-    # 8h00 et 23h00 heure de Paris = 6h00 et 21h00 UTC (heure d'été)
+    # 23h00 heure de Paris = 21h00 UTC (heure d'été)
     # ⚠️ GitHub Actions ne gère que l'UTC : décaler d'1h en hiver (heure d'hiver = UTC+1)
-    - cron: "0 6 * * *"
     - cron: "0 21 * * *"
   workflow_dispatch: {}   # permet un lancement manuel depuis l'onglet Actions
 
@@ -12,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  scrape:
+  scrape-national:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -26,8 +25,8 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
-      - name: Lancer le scraping (région GES)
-        run: python generate_ics.py --region "https://competitions.ffbb.com/ligues/ges"
+      - name: Lancer le scraping (championnats nationaux)
+        run: python generate_ics.py --national
 
       - name: Commit + push si changements
         run: |
@@ -37,6 +36,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Aucun changement."
           else
-            git commit -m "Auto: mise à jour calendriers FFBB $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Auto: mise à jour calendriers nationaux FFBB $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi

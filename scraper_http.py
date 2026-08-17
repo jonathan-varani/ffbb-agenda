@@ -700,10 +700,10 @@ async def _resolve_phase_url(slug_path: str) -> str | None:
 
 
 # ── Championnats nationaux (liste fixe, hors /ligues/) ────────────────────────
-# NF1-3, NFU18 Elite A/B, NFU15 Elite, TPEF, NM1-3, NMU18/U15 Elite
+# NF1-3, NFU18 Elite A/B, NFU15 Elite, NM1-3, NMU18/U15 Elite
 # (championnats FFBB > Nationaux > Championnats, cf. competitions.ffbb.com)
 NATIONAL_COMPETITIONS = [
-    "nf1", "nf2", "nf3", "nfu18-elite-a", "nfu18-elite-b", "nfu15-elite", "tpef",
+    "nf1", "nf2", "nf3", "nfu18-elite-a", "nfu18-elite-b", "nfu15-elite",
     "nm1", "nm2", "nm3", "nmu18-elite", "nmu15-elite",
 ]
 

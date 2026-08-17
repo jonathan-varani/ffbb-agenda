@@ -1,0 +1,435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – UNION RENNES BASKET 35 (URB 35)  [NM1 –  – Poule B]
+X-WR-CALDESC:Matchs de UNION RENNES BASKET 35 (URB 35) – NM1 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-18-20-00-union-rennes-basket-35-urb-35-aurore-vitre
+ -basket-b@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20260918T200000
+DTEND;TZID=Europe/Paris:20260918T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – AURORE VITRE BASKET BRETAG
+ NE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  AURORE VITRE BASKET BRETAGNE\n\nSALLE COLETTE BESSON\n📍 Boulevard Albe
+ rt 1er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014596765
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596765
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-25-20-30-toulouse-basketball-club-union-rennes-bask
+ et-35-urb@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20260925T203000
+DTEND;TZID=Europe/Paris:20260925T223000
+SUMMARY:✈️ TOULOUSE BASKETBALL CLUB – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOULOUSE BASKETBALL CLUB vs UNION 
+ RENNES BASKET 35 (URB 35)\n\nPALAIS DES SPORTS A. BROUAT\n📍 Rue du Cano
+ n d'Arcole Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.61207\,1.
+ 43621&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nm1/match/20000001459677
+ 9
+LOCATION:PALAIS DES SPORTS A. BROUAT\, Rue du Canon d'Arcole Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596779
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-29-20-00-union-rennes-basket-35-urb-35-us-laval-bas
+ ket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20260929T200000
+DTEND;TZID=Europe/Paris:20260929T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – US LAVAL BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  US LAVAL BASKET - 1\n\nSALLE COLETTE BESSON\n📍 Boulevard Albert 1er Re
+ nnes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nm1/match/200000014596793
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596793
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-02-20-30-c-chartres-metropole-basket-union-rennes-b
+ asket-35-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261002T203000
+DTEND;TZID=Europe/Paris:20261002T223000
+SUMMARY:✈️ C’CHARTRES METROPOLE BASKET – UNION RENNES BASKET 35 (UR
+ B 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ C’CHARTRES METROPOLE BASKET vs U
+ NION RENNES BASKET 35 (URB 35)\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet 
+ Chartres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm1/match/200000014596803
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596803
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-09-20-00-union-rennes-basket-35-urb-35-les-sables-v
+ endee-bas@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261009T200000
+DTEND;TZID=Europe/Paris:20261009T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – LES SABLES VENDEE BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  LES SABLES VENDEE BASKET\n\nSALLE COLETTE BESSON\n📍 Boulevard Albert 1
+ er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm1/match/200000014596821
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596821
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-16-20-30-vendee-challans-basket-1-union-rennes-bask
+ et-35-urb@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261016T203000
+DTEND;TZID=Europe/Paris:20261016T223000
+SUMMARY:✈️ VENDEE CHALLANS BASKET - 1 – UNION RENNES BASKET 35 (URB 3
+ 5)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VENDEE CHALLANS BASKET - 1 vs UNIO
+ N RENNES BASKET 35 (URB 35)\n\nSALLE VRIGNAUD A CHALLANS\n📍 Boulevard J
+ ean Yole Challans 85300\n🚗 Waze : https://waze.com/ul?ll=46.84111\,-1.8
+ 7667&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm1/match/200000014596833
+LOCATION:SALLE VRIGNAUD A CHALLANS\, Boulevard Jean Yole Challans 85300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596833
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-23-20-30-pays-de-fougeres-basket-union-rennes-baske
+ t-35-urb-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261023T203000
+DTEND;TZID=Europe/Paris:20261023T223000
+SUMMARY:✈️ PAYS DE FOUGERES BASKET – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ PAYS DE FOUGERES BASKET vs UNION R
+ ENNES BASKET 35 (URB 35)\n\nSALLE JUSTY SPECKER\n📍 Avenue Georges Pompi
+ dou Fougères 35300\n🚗 Waze : https://waze.com/ul?ll=48.34565\,-1.20166
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm1/match/200000014596865
+LOCATION:SALLE JUSTY SPECKER\, Avenue Georges Pompidou Fougères 35300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596865
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-27-20-00-union-rennes-basket-35-urb-35-centre-feder
+ al-bb@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261027T200000
+DTEND;TZID=Europe/Paris:20261027T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  CENTRE FEDERAL BB\n\nSALLE COLETTE BESSON\n📍 Boulevard Albert 1er Renn
+ es 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm1/match/200000014596849
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596849
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-30-20-00-union-tarbes-lourdes-pyrenees-basket-1-uni
+ on-rennes@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261030T200000
+DTEND;TZID=Europe/Paris:20261030T220000
+SUMMARY:✈️ UNION TARBES LOURDES PYRENEES BASKET - 1 – UNION RENNES BA
+ SKET 35 (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION TARBES LOURDES PYRENEES BASK
+ ET - 1 vs UNION RENNES BASKET 35 (URB 35)\n\nPALAIS DES SPORTS\n📍 Quai 
+ de l'Adour Tarbes 65000\n🚗 Waze : https://waze.com/ul?ll=43.23015\,0.08
+ 784&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm1/match/200000014596878
+LOCATION:PALAIS DES SPORTS\, Quai de l'Adour Tarbes 65000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596878
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-06-20-00-union-rennes-basket-35-urb-35-tours-metrop
+ ole-baske@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261106T200000
+DTEND;TZID=Europe/Paris:20261106T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – TOURS METROPOLE BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  TOURS METROPOLE BASKET\n\nSALLE COLETTE BESSON\n📍 Boulevard Albert 1er
+  Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm1/match/200000014596891
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596891
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-13-20-00-etoile-angers-basket-1-union-rennes-basket
+ -35-urb-3@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:✈️ ETOILE ANGERS BASKET - 1 – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs UNION 
+ RENNES BASKET 35 (URB 35)\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Co
+ ubertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.5325
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nm1/match/200000014596901
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596901
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-17-20-00-union-rennes-basket-35-urb-35-cep-lorient-
+ breizh-ba@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261117T200000
+DTEND;TZID=Europe/Paris:20261117T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – CEP LORIENT BREIZH BASKET 
+ - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  CEP LORIENT BREIZH BASKET - 1\n\nSALLE COLETTE BESSON\n📍 Boulevard Alb
+ ert 1er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm1/match/200000014596919
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596919
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-20-20-00-jsa-bordeaux-metropole-basket-1-union-renn
+ es-basket@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261120T200000
+DTEND;TZID=Europe/Paris:20261120T220000
+SUMMARY:✈️ JSA BORDEAUX METROPOLE BASKET - 1 – UNION RENNES BASKET 35
+  (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ JSA BORDEAUX METROPOLE BASKET - 1 
+ vs UNION RENNES BASKET 35 (URB 35)\n\nPALAIS DES SPORTS\n📍 Place de la 
+ Ferme de Richemont Bordeaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.8
+ 3568\,-0.57212&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match/20000
+ 0014596931
+LOCATION:PALAIS DES SPORTS\, Place de la Ferme de Richemont Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596931
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-04-20-30-aurore-vitre-basket-bretagne-union-rennes-
+ basket-35@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261204T203000
+DTEND;TZID=Europe/Paris:20261204T223000
+SUMMARY:✈️ AURORE VITRE BASKET BRETAGNE – UNION RENNES BASKET 35 (URB
+  35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ AURORE VITRE BASKET BRETAGNE vs UN
+ ION RENNES BASKET 35 (URB 35)\n\nSALLE POULTIERE AURORE DE VITRE\n📍 Rue
+  de la Poultière Vitré 35500\n🚗 Waze : https://waze.com/ul?ll=48.1247
+ 2\,-1.19931&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nm1/match/20000001
+ 4596947
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la Poultière Vitré 3550
+ 0
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596947
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-11-20-00-union-rennes-basket-35-urb-35-toulouse-bas
+ ketball-c@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261211T200000
+DTEND;TZID=Europe/Paris:20261211T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – TOULOUSE BASKETBALL CLUB
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  TOULOUSE BASKETBALL CLUB\n\nSALLE COLETTE BESSON\n📍 Boulevard Albert 1
+ er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm1/match/200000014596961
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596961
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-15-20-00-us-laval-basket-1-union-rennes-basket-35-u
+ rb-35@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261215T200000
+DTEND;TZID=Europe/Paris:20261215T220000
+SUMMARY:✈️ US LAVAL BASKET - 1 – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ US LAVAL BASKET - 1 vs UNION RENNE
+ S BASKET 35 (URB 35)\n\nSALLE POLYVALENTE\n📍 Place de Hercé Laval 5300
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.06597\,-0.77173&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm1/match/200000014596975
+LOCATION:SALLE POLYVALENTE\, Place de Hercé Laval 53000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596975
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-18-20-00-union-rennes-basket-35-urb-35-c-chartres-m
+ etropole-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261218T200000
+DTEND;TZID=Europe/Paris:20261218T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – C’CHARTRES METROPOLE BAS
+ KET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  C’CHARTRES METROPOLE BASKET\n\nSALLE COLETTE BESSON\n📍 Boulevard Alb
+ ert 1er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm1/match/200000014596985
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596985
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-08-20-00-les-sables-vendee-basket-union-rennes-bask
+ et-35-urb@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270108T200000
+DTEND;TZID=Europe/Paris:20270108T220000
+SUMMARY:✈️ LES SABLES VENDEE BASKET – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ LES SABLES VENDEE BASKET vs UNION 
+ RENNES BASKET 35 (URB 35)\n\nARENA - LES SABLES D'OLONNE\n📍 Rue du Bonh
+ eur Les Sables-d'Olonne 85340\n🚗 Waze : https://waze.com/ul?ll=46.51714
+ \,-1.75532&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000014
+ 597003
+LOCATION:ARENA - LES SABLES D'OLONNE\, Rue du Bonheur Les Sables-d'Olonne 8
+ 5340
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597003
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-15-20-00-union-rennes-basket-35-urb-35-vendee-chall
+ ans-baske@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270115T200000
+DTEND;TZID=Europe/Paris:20270115T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – VENDEE CHALLANS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  VENDEE CHALLANS BASKET - 1\n\nSALLE COLETTE BESSON\n📍 Boulevard Albert
+  1er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm1/match/200000014597015
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597015
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-19-20-00-centre-federal-bb-union-rennes-basket-35-u
+ rb-35@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270119T200000
+DTEND;TZID=Europe/Paris:20270119T220000
+SUMMARY:✈️ CENTRE FEDERAL BB – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CENTRE FEDERAL BB vs UNION RENNES 
+ BASKET 35 (URB 35)\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Trembla
+ y Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm1/match/200000014597031
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597031
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-22-20-00-union-rennes-basket-35-urb-35-pays-de-foug
+ eres-bask@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270122T200000
+DTEND;TZID=Europe/Paris:20270122T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – PAYS DE FOUGERES BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  PAYS DE FOUGERES BASKET\n\nSALLE COLETTE BESSON\n📍 Boulevard Albert 1e
+ r Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm1/match/200000014597047
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597047
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-29-20-00-union-rennes-basket-35-urb-35-union-tarbes
+ -lourdes-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270129T200000
+DTEND;TZID=Europe/Paris:20270129T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – UNION TARBES LOURDES PYREN
+ EES BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  UNION TARBES LOURDES PYRENEES BASKET - 1\n\nSALLE COLETTE BESSON\n📍 Bo
+ ulevard Albert 1er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.089
+ 07\,-1.6887&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nm1/match/20000001
+ 4597060
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597060
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-05-20-00-tours-metropole-basket-union-rennes-basket
+ -35-urb-3@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270205T200000
+DTEND;TZID=Europe/Paris:20270205T220000
+SUMMARY:✈️ TOURS METROPOLE BASKET – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS METROPOLE BASKET vs UNION RE
+ NNES BASKET 35 (URB 35)\n\nHALLE MONCONSEIL\n📍 Rue de la Chapelle Tours
+  37100\n🚗 Waze : https://waze.com/ul?ll=47.42071\,0.69992&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm1/match/200000014597073
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597073
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-12-20-00-union-rennes-basket-35-urb-35-etoile-anger
+ s-basket-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  ETOILE ANGERS BASKET - 1\n\nSALLE COLETTE BESSON\n📍 Boulevard Albert 1
+ er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm1/match/200000014597083
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597083
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-16-20-00-cep-lorient-breizh-basket-1-union-rennes-b
+ asket-35-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270216T200000
+DTEND;TZID=Europe/Paris:20270216T220000
+SUMMARY:✈️ CEP LORIENT BREIZH BASKET - 1 – UNION RENNES BASKET 35 (UR
+ B 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs U
+ NION RENNES BASKET 35 (URB 35)\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alf
+ red Dreyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3
+ .39003&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nm1/match/2000000145971
+ 01
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597101
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-19-20-00-union-rennes-basket-35-urb-35-jsa-bordeaux
+ -metropol@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:🏠 UNION RENNES BASKET 35 (URB 35) – JSA BORDEAUX METROPOLE BAS
+ KET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  JSA BORDEAUX METROPOLE BASKET - 1\n\nSALLE COLETTE BESSON\n📍 Boulevard
+  Albert 1er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.
+ 6887&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm1/match/200000014597113
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597113
+END:VEVENT
+END:VCALENDAR

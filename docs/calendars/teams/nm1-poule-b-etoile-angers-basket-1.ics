@@ -1,0 +1,423 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ETOILE ANGERS BASKET - 1  [NM1 –  – Poule B]
+X-WR-CALDESC:Matchs de ETOILE ANGERS BASKET - 1 – NM1 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-18-20-00-etoile-angers-basket-1-tours-metropole-bas
+ ket@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20260918T200000
+DTEND;TZID=Europe/Paris:20260918T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – TOURS METROPOLE BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs TOURS 
+ METROPOLE BASKET\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coubertin A
+ ngers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014596761
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596761
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-25-20-00-jsa-bordeaux-metropole-basket-1-etoile-ang
+ ers-baske@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20260925T200000
+DTEND;TZID=Europe/Paris:20260925T220000
+SUMMARY:✈️ JSA BORDEAUX METROPOLE BASKET - 1 – ETOILE ANGERS BASKET -
+  1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ JSA BORDEAUX METROPOLE BASKET - 1 
+ vs ETOILE ANGERS BASKET - 1\n\nPALAIS DES SPORTS\n📍 Place de la Ferme d
+ e Richemont Bordeaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.83568\,-
+ 0.57212&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000014596
+ 777
+LOCATION:PALAIS DES SPORTS\, Place de la Ferme de Richemont Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596777
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-29-20-00-etoile-angers-basket-1-pays-de-fougeres-ba
+ sket@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20260929T200000
+DTEND;TZID=Europe/Paris:20260929T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – PAYS DE FOUGERES BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs PAYS D
+ E FOUGERES BASKET\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coubertin 
+ Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm1/match/200000014596789
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596789
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-02-20-30-aurore-vitre-basket-bretagne-etoile-angers
+ -basket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261002T203000
+DTEND;TZID=Europe/Paris:20261002T223000
+SUMMARY:✈️ AURORE VITRE BASKET BRETAGNE – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ AURORE VITRE BASKET BRETAGNE vs ET
+ OILE ANGERS BASKET - 1\n\nSALLE POULTIERE AURORE DE VITRE\n📍 Rue de la 
+ Poultière Vitré 35500\n🚗 Waze : https://waze.com/ul?ll=48.12472\,-1.1
+ 9931&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm1/match/200000014596806
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la Poultière Vitré 3550
+ 0
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596806
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-09-20-00-etoile-angers-basket-1-toulouse-basketball
+ -club@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261009T200000
+DTEND;TZID=Europe/Paris:20261009T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – TOULOUSE BASKETBALL CLUB
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs TOULOU
+ SE BASKETBALL CLUB\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coubertin
+  Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm1/match/200000014596817
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596817
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-16-20-30-c-chartres-metropole-basket-etoile-angers-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261016T203000
+DTEND;TZID=Europe/Paris:20261016T223000
+SUMMARY:✈️ C’CHARTRES METROPOLE BASKET – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ C’CHARTRES METROPOLE BASKET vs E
+ TOILE ANGERS BASKET - 1\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet Chartre
+ s 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nm1/match/200000014596831
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596831
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-20-20-00-etoile-angers-basket-1-us-laval-basket-1@f
+ fbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261020T200000
+DTEND;TZID=Europe/Paris:20261020T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – US LAVAL BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs US LAV
+ AL BASKET - 1\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coubertin Ange
+ rs 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm1/match/200000014596845
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596845
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-23-20-30-vendee-challans-basket-1-etoile-angers-bas
+ ket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261023T203000
+DTEND;TZID=Europe/Paris:20261023T223000
+SUMMARY:✈️ VENDEE CHALLANS BASKET - 1 – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VENDEE CHALLANS BASKET - 1 vs ETOI
+ LE ANGERS BASKET - 1\n\nSALLE VRIGNAUD A CHALLANS\n📍 Boulevard Jean Yol
+ e Challans 85300\n🚗 Waze : https://waze.com/ul?ll=46.84111\,-1.87667&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm1/match/200000014596861
+LOCATION:SALLE VRIGNAUD A CHALLANS\, Boulevard Jean Yole Challans 85300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596861
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-30-20-00-etoile-angers-basket-1-les-sables-vendee-b
+ asket@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261030T200000
+DTEND;TZID=Europe/Paris:20261030T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – LES SABLES VENDEE BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs LES SA
+ BLES VENDEE BASKET\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coubertin
+  Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm1/match/200000014596873
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596873
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-06-18-00-centre-federal-bb-etoile-angers-basket-1@f
+ fbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261106T180000
+DTEND;TZID=Europe/Paris:20261106T200000
+SUMMARY:✈️ CENTRE FEDERAL BB – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CENTRE FEDERAL BB vs ETOILE ANGERS
+  BASKET - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris
+  75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm1/match/200000014596890
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596890
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-13-20-00-etoile-angers-basket-1-union-rennes-basket
+ -35-urb-3@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – UNION RENNES BASKET 35 (URB 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs UNION 
+ RENNES BASKET 35 (URB 35)\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Co
+ ubertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.5325
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nm1/match/200000014596901
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596901
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-17-20-00-union-tarbes-lourdes-pyrenees-basket-1-eto
+ ile-anger@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261117T200000
+DTEND;TZID=Europe/Paris:20261117T220000
+SUMMARY:✈️ UNION TARBES LOURDES PYRENEES BASKET - 1 – ETOILE ANGERS B
+ ASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION TARBES LOURDES PYRENEES BASK
+ ET - 1 vs ETOILE ANGERS BASKET - 1\n\nPALAIS DES SPORTS\n📍 Quai de l'Ad
+ our Tarbes 65000\n🚗 Waze : https://waze.com/ul?ll=43.23015\,0.08784&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nm1/match/200000014596920
+LOCATION:PALAIS DES SPORTS\, Quai de l'Adour Tarbes 65000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596920
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-20-20-00-etoile-angers-basket-1-cep-lorient-breizh-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261120T200000
+DTEND;TZID=Europe/Paris:20261120T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – CEP LORIENT BREIZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs CEP LO
+ RIENT BREIZH BASKET - 1\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coub
+ ertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014596929
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596929
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-04-20-00-tours-metropole-basket-etoile-angers-baske
+ t-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261204T200000
+DTEND;TZID=Europe/Paris:20261204T220000
+SUMMARY:✈️ TOURS METROPOLE BASKET – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS METROPOLE BASKET vs ETOILE A
+ NGERS BASKET - 1\n\nHALLE MONCONSEIL\n📍 Rue de la Chapelle Tours 37100\
+ n🚗 Waze : https://waze.com/ul?ll=47.42071\,0.69992&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014596943
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596943
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-11-20-00-etoile-angers-basket-1-jsa-bordeaux-metrop
+ ole-baske@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261211T200000
+DTEND;TZID=Europe/Paris:20261211T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – JSA BORDEAUX METROPOLE BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs JSA BO
+ RDEAUX METROPOLE BASKET - 1\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de 
+ Coubertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53
+ 251&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm1/match/200000014596959
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596959
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-15-20-00-pays-de-fougeres-basket-etoile-angers-bask
+ et-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261215T200000
+DTEND;TZID=Europe/Paris:20261215T220000
+SUMMARY:✈️ PAYS DE FOUGERES BASKET – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ PAYS DE FOUGERES BASKET vs ETOILE 
+ ANGERS BASKET - 1\n\nSALLE JUSTY SPECKER\n📍 Avenue Georges Pompidou Fou
+ gères 35300\n🚗 Waze : https://waze.com/ul?ll=48.34565\,-1.20166&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nm1/match/200000014596971
+LOCATION:SALLE JUSTY SPECKER\, Avenue Georges Pompidou Fougères 35300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596971
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-18-20-00-etoile-angers-basket-1-aurore-vitre-basket
+ -bretagne@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261218T200000
+DTEND;TZID=Europe/Paris:20261218T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – AURORE VITRE BASKET BRETAGNE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs AURORE
+  VITRE BASKET BRETAGNE\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coube
+ rtin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm1/match/200000014596988
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596988
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-22-20-30-toulouse-basketball-club-etoile-angers-bas
+ ket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261222T203000
+DTEND;TZID=Europe/Paris:20261222T223000
+SUMMARY:✈️ TOULOUSE BASKETBALL CLUB – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOULOUSE BASKETBALL CLUB vs ETOILE
+  ANGERS BASKET - 1\n\nPALAIS DES SPORTS A. BROUAT\n📍 Rue du Canon d'Arc
+ ole Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.61207\,1.43621&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm1/match/200000014596999
+LOCATION:PALAIS DES SPORTS A. BROUAT\, Rue du Canon d'Arcole Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596999
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-15-20-00-etoile-angers-basket-1-c-chartres-metropol
+ e-basket@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270115T200000
+DTEND;TZID=Europe/Paris:20270115T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – C’CHARTRES METROPOLE BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs C’CH
+ ARTRES METROPOLE BASKET\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coub
+ ertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014597013
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597013
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-19-20-30-us-laval-basket-1-etoile-angers-basket-1@f
+ fbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270119T203000
+DTEND;TZID=Europe/Paris:20270119T223000
+SUMMARY:✈️ US LAVAL BASKET - 1 – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ US LAVAL BASKET - 1 vs ETOILE ANGE
+ RS BASKET - 1\n\nSALLE POLYVALENTE\n📍 Place de Hercé Laval 53000\n🚗
+  Waze : https://waze.com/ul?ll=48.06597\,-0.77173&navigate=yes\n\n📢 Arb
+ itres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/competitions/nm1/match/200000014597027
+LOCATION:SALLE POLYVALENTE\, Place de Hercé Laval 53000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597027
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-22-20-00-etoile-angers-basket-1-vendee-challans-bas
+ ket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270122T200000
+DTEND;TZID=Europe/Paris:20270122T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – VENDEE CHALLANS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs VENDEE
+  CHALLANS BASKET - 1\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coubert
+ in Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nm1/match/200000014597043
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597043
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-29-20-00-les-sables-vendee-basket-etoile-angers-bas
+ ket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270129T200000
+DTEND;TZID=Europe/Paris:20270129T220000
+SUMMARY:✈️ LES SABLES VENDEE BASKET – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ LES SABLES VENDEE BASKET vs ETOILE
+  ANGERS BASKET - 1\n\nARENA - LES SABLES D'OLONNE\n📍 Rue du Bonheur Les
+  Sables-d'Olonne 85340\n🚗 Waze : https://waze.com/ul?ll=46.51714\,-1.75
+ 532&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm1/match/200000014597055
+LOCATION:ARENA - LES SABLES D'OLONNE\, Rue du Bonheur Les Sables-d'Olonne 8
+ 5340
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597055
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-05-20-00-etoile-angers-basket-1-centre-federal-bb@f
+ fbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270205T200000
+DTEND;TZID=Europe/Paris:20270205T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs CENTRE
+  FEDERAL BB\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coubertin Angers
+  49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nm1/match/200000014597072
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597072
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-12-20-00-union-rennes-basket-35-urb-35-etoile-anger
+ s-basket-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:✈️ UNION RENNES BASKET 35 (URB 35) – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  ETOILE ANGERS BASKET - 1\n\nSALLE COLETTE BESSON\n📍 Boulevard Albert 1
+ er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nm1/match/200000014597083
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597083
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-16-20-00-etoile-angers-basket-1-union-tarbes-lourde
+ s-pyrenee@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270216T200000
+DTEND;TZID=Europe/Paris:20270216T220000
+SUMMARY:🏠 ETOILE ANGERS BASKET - 1 – UNION TARBES LOURDES PYRENEES BAS
+ KET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs UNION 
+ TARBES LOURDES PYRENEES BASKET - 1\n\nSALLE JEAN BOUIN\n📍 Boulevard Pie
+ rre de Coubertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186
+ \,-0.53251&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000014
+ 597102
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597102
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-19-20-00-cep-lorient-breizh-basket-1-etoile-angers-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:✈️ CEP LORIENT BREIZH BASKET - 1 – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs E
+ TOILE ANGERS BASKET - 1\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dre
+ yfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014597111
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597111
+END:VEVENT
+END:VCALENDAR

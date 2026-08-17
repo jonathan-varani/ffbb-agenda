@@ -1,0 +1,362 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AVRILLE BASKET - 1  [NF3 –  – Poule D]
+X-WR-CALDESC:Matchs de AVRILLE BASKET - 1 – NF3 – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-09-13-15-30-avrille-basket-1-boigny-bc-1@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – BOIGNY BC - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs BOIGNY BC - 
+ 1\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de la Ronde Avrillé 4924
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.586&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601618
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601618
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-09-20-15-30-sable-basket-avrille-basket-1@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ SABLE BASKET – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ SABLE BASKET vs AVRILLE BASKET - 1
+ \n\nSALLE GEORGES MENTION\n📍 Boulevard de la Gare Sablé-sur-Sarthe 723
+ 00\n🚗 Waze : https://waze.com/ul?ll=47.8403\,-0.34105&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014601666
+LOCATION:SALLE GEORGES MENTION\, Boulevard de la Gare Sablé-sur-Sarthe 723
+ 00
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601666
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-09-27-15-30-avrille-basket-1-garennes-loire-basket-clu
+ b-49-glbc@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – GARENNES LOIRE BASKET CLUB 49 - GLBC 49
+ .
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs GARENNES LOI
+ RE BASKET CLUB 49 - GLBC 49.\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenu
+ e de la Ronde Avrillé 49240\n🚗 Waze : https://waze.com/ul?ll=47.49342\
+ ,-0.586&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nf3/match/200000014601
+ 714
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601714
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-10-04-15-30-grez-neuville-1-avrille-basket-1@ffbb-agen
+ da
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ GREZ NEUVILLE - 1 – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ GREZ NEUVILLE - 1 vs AVRILLE BASKE
+ T - 1\n\nSALLE B - GREZ NEUVILLE\n📍 Rue du Port Grez-Neuville 49220\n
+ 🚗 Waze : https://waze.com/ul?ll=47.60208\,-0.68318&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014601762
+LOCATION:SALLE B - GREZ NEUVILLE\, Rue du Port Grez-Neuville 49220
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601762
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-10-11-15-30-avrille-basket-1-ie-basket-club-deolois-1@
+ ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – IE - BASKET CLUB DEOLOIS - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs IE - BASKET 
+ CLUB DEOLOIS - 1\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de la Rond
+ e Avrillé 49240\n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.586&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf3/match/200000014601810
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601810
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-10-25-15-30-us-palaiseau-1-avrille-basket-1@ffbb-agend
+ a
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20261025T153000
+DTEND;TZID=Europe/Paris:20261025T173000
+SUMMARY:✈️ US PALAISEAU - 1 – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ US PALAISEAU - 1 vs AVRILLE BASKET
+  - 1\n\nGYMNASE GEORGES CASTAING\n📍 Rue Maximilien de Robespierre Palai
+ seau 91120\n🚗 Waze : https://waze.com/ul?ll=48.71926\,2.23481&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf3/match/200000014601858
+LOCATION:GYMNASE GEORGES CASTAING\, Rue Maximilien de Robespierre Palaiseau
+  91120
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601858
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-11-01-15-30-vie-au-grand-air-saint-maur-avrille-basket
+ -1@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ VIE AU GRAND AIR SAINT MAUR – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ VIE AU GRAND AIR SAINT MAUR vs AVR
+ ILLE BASKET - 1\n\nGYMNASE HENRY PATE\n📍 Avenue Pierre Brossolette Sain
+ t-Maur-des-Fossés 94100\n🚗 Waze : https://waze.com/ul?ll=48.80771\,2.4
+ 9286&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nf3/match/200000014601906
+LOCATION:GYMNASE HENRY PATE\, Avenue Pierre Brossolette Saint-Maur-des-Foss
+ és 94100
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601906
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-11-08-15-30-avrille-basket-1-lamboisieres-martin-baske
+ t@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – LAMBOISIERES-MARTIN BASKET
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs LAMBOISIERES
+ -MARTIN BASKET\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de la Ronde 
+ Avrillé 49240\n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.586&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nf3/match/200000014601954
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014601954
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-11-15-15-30-ie-ctc-pays-de-laval-basket-53-1-avrille-b
+ asket-1@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ IE - CTC PAYS DE LAVAL BASKET 53 - 1 – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ IE - CTC PAYS DE LAVAL BASKET 53 -
+  1 vs AVRILLE BASKET - 1\n\nSALLE COSEC\n📍 Place Pierre de Coubertin Sa
+ int-Berthevin 53940\n🚗 Waze : https://waze.com/ul?ll=48.07623\,-0.82638
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf3/match/200000014602002
+LOCATION:SALLE COSEC\, Place Pierre de Coubertin Saint-Berthevin 53940
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602002
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-11-29-15-30-avrille-basket-1-av-sp-jocondien-1@ffbb-ag
+ enda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – AV SP. JOCONDIEN - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs AV SP. JOCON
+ DIEN - 1\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de la Ronde Avrill
+ é 49240\n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.586&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf3/match/200000014602050
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602050
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2026-12-06-15-30-entente-sportive-massy-avrille-basket-1@ff
+ bb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ ENTENTE SPORTIVE MASSY – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ ENTENTE SPORTIVE MASSY vs AVRILLE 
+ BASKET - 1\n\nGYMNASE DE LA POTERNE\n📍 Rue de Migneaux Massy 91300\n
+ 🚗 Waze : https://waze.com/ul?ll=48.73523\,2.26667&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf3/match/200000014602098
+LOCATION:GYMNASE DE LA POTERNE\, Rue de Migneaux Massy 91300
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602098
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-01-10-15-30-boigny-bc-1-avrille-basket-1@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ BOIGNY BC - 1 – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ BOIGNY BC - 1 vs AVRILLE BASKET - 
+ 1\n\nGYMNASE VAL DE BIONNE\n📍 Rue de Ponchapt Boigny-sur-Bionne 45760\n
+ 🚗 Waze : https://waze.com/ul?ll=47.92152\,2.01382&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf3/match/200000014602146
+LOCATION:GYMNASE VAL DE BIONNE\, Rue de Ponchapt Boigny-sur-Bionne 45760
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602146
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-01-17-15-30-avrille-basket-1-sable-basket@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – SABLE BASKET
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs SABLE BASKET
+ \n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de la Ronde Avrillé 49240
+ \n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.586&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf3/match/200000014602194
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602194
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-01-31-15-30-garennes-loire-basket-club-49-glbc-49-avri
+ lle-baske@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ GARENNES LOIRE BASKET CLUB 49 - GLBC 49. – AVRILLE BASKET 
+ - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ GARENNES LOIRE BASKET CLUB 49 - GL
+ BC 49. vs AVRILLE BASKET - 1\n\nSALLE LA LIMOUSINE\n📍 Route de Buchêne
+  Les Garennes sur Loire 49320\n🚗 Waze : https://waze.com/ul?ll=47.39535
+ \,-0.45259&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nf3/match/200000014
+ 602242
+LOCATION:SALLE LA LIMOUSINE\, Route de Buchêne Les Garennes sur Loire 4932
+ 0
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602242
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-02-07-15-30-avrille-basket-1-grez-neuville-1@ffbb-agen
+ da
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – GREZ NEUVILLE - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs GREZ NEUVILL
+ E - 1\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de la Ronde Avrillé 
+ 49240\n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.586&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf3/match/200000014602290
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602290
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-02-14-15-30-ie-basket-club-deolois-1-avrille-basket-1@
+ ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ IE - BASKET CLUB DEOLOIS - 1 – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ IE - BASKET CLUB DEOLOIS - 1 vs AV
+ RILLE BASKET - 1\n\nGYMNASE MARCEL LEMOINE\n📍 Avenue Paul Langevin Déo
+ ls 36130\n🚗 Waze : https://waze.com/ul?ll=46.82478\,1.7058&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf3/match/200000014602338
+LOCATION:GYMNASE MARCEL LEMOINE\, Avenue Paul Langevin Déols 36130
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602338
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-02-28-15-30-avrille-basket-1-us-palaiseau-1@ffbb-agend
+ a
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270228T153000
+DTEND;TZID=Europe/Paris:20270228T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – US PALAISEAU - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs US PALAISEAU
+  - 1\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de la Ronde Avrillé 4
+ 9240\n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.586&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf3/match/200000014602386
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602386
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-03-07-15-30-avrille-basket-1-vie-au-grand-air-saint-ma
+ ur@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270307T153000
+DTEND;TZID=Europe/Paris:20270307T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – VIE AU GRAND AIR SAINT MAUR
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs VIE AU GRAND
+  AIR SAINT MAUR\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de la Ronde
+  Avrillé 49240\n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.586&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf3/match/200000014602434
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602434
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-03-14-15-30-lamboisieres-martin-basket-avrille-basket-
+ 1@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ LAMBOISIERES-MARTIN BASKET – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ LAMBOISIERES-MARTIN BASKET vs AVRI
+ LLE BASKET - 1\n\nSALLE DE LA COUDRE\n📍 Rue des Ferrières Saint-Léger
+ -de-Linières 49170\n🚗 Waze : https://waze.com/ul?ll=47.4617\,-0.71148&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf3/match/200000014602482
+LOCATION:SALLE DE LA COUDRE\, Rue des Ferrières Saint-Léger-de-Linières 
+ 49170
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602482
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-03-28-15-30-avrille-basket-1-ie-ctc-pays-de-laval-bask
+ et-53-1@ffbb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – IE - CTC PAYS DE LAVAL BASKET 53 - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs IE - CTC PAY
+ S DE LAVAL BASKET 53 - 1\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de
+  la Ronde Avrillé 49240\n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.
+ 586&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nf3/match/200000014602530
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602530
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-04-11-15-30-av-sp-jocondien-1-avrille-basket-1@ffbb-ag
+ enda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:✈️ AV SP. JOCONDIEN - 1 – AVRILLE BASKET - 1
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AV SP. JOCONDIEN - 1 vs AVRILLE BA
+ SKET - 1\n\nSALLE MARCEL CERDAN\n📍 Avenue de la République Joué-lès-
+ Tours 37300\n🚗 Waze : https://waze.com/ul?ll=47.35142\,0.66292&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf3/match/200000014602578
+LOCATION:SALLE MARCEL CERDAN\, Avenue de la République Joué-lès-Tours 37
+ 300
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602578
+END:VEVENT
+BEGIN:VEVENT
+UID:nf3-poule-d-2027-04-18-15-30-avrille-basket-1-entente-sportive-massy@ff
+ bb-agenda
+DTSTAMP:20260817T101402Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:🏠 AVRILLE BASKET - 1 – ENTENTE SPORTIVE MASSY
+DESCRIPTION:🏀 NF3 – Poule D\n⚔️ AVRILLE BASKET - 1 vs ENTENTE SPOR
+ TIVE MASSY\n\nSALLE des SPORTS MARIE PARADIS\n📍 Avenue de la Ronde Avri
+ llé 49240\n🚗 Waze : https://waze.com/ul?ll=47.49342\,-0.586&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf3/match/200000014602626
+LOCATION:SALLE des SPORTS MARIE PARADIS\, Avenue de la Ronde Avrillé 49240
+URL:https://competitions.ffbb.com/competitions/nf3/match/200000014602626
+END:VEVENT
+END:VCALENDAR

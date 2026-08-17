@@ -1,0 +1,433 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CEP LORIENT BREIZH BASKET - 1  [NM1 –  – Poule B]
+X-WR-CALDESC:Matchs de CEP LORIENT BREIZH BASKET - 1 – NM1 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-18-20-30-cep-lorient-breizh-basket-1-us-laval-baske
+ t-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20260918T203000
+DTEND;TZID=Europe/Paris:20260918T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – US LAVAL BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs U
+ S LAVAL BASKET - 1\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dreyfus 
+ Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nm1/match/200000014596767
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596767
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-25-20-00-tours-metropole-basket-cep-lorient-breizh-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20260925T200000
+DTEND;TZID=Europe/Paris:20260925T220000
+SUMMARY:✈️ TOURS METROPOLE BASKET – CEP LORIENT BREIZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS METROPOLE BASKET vs CEP LORI
+ ENT BREIZH BASKET - 1\n\nHALLE MONCONSEIL\n📍 Rue de la Chapelle Tours 3
+ 7100\n🚗 Waze : https://waze.com/ul?ll=47.42071\,0.69992&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nm1/match/200000014596776
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596776
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-29-20-30-cep-lorient-breizh-basket-1-aurore-vitre-b
+ asket-bre@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20260929T203000
+DTEND;TZID=Europe/Paris:20260929T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – AURORE VITRE BASKET BRETAGNE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs A
+ URORE VITRE BASKET BRETAGNE\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred
+  Dreyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39
+ 003&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm1/match/200000014596795
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596795
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-02-20-00-jsa-bordeaux-metropole-basket-1-cep-lorien
+ t-breizh-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261002T200000
+DTEND;TZID=Europe/Paris:20261002T220000
+SUMMARY:✈️ JSA BORDEAUX METROPOLE BASKET - 1 – CEP LORIENT BREIZH BAS
+ KET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ JSA BORDEAUX METROPOLE BASKET - 1 
+ vs CEP LORIENT BREIZH BASKET - 1\n\nPALAIS DES SPORTS\n📍 Place de la Fe
+ rme de Richemont Bordeaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.835
+ 68\,-0.57212&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nm1/match/2000000
+ 14596805
+LOCATION:PALAIS DES SPORTS\, Place de la Ferme de Richemont Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596805
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-09-20-30-cep-lorient-breizh-basket-1-pays-de-fouger
+ es-basket@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261009T203000
+DTEND;TZID=Europe/Paris:20261009T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – PAYS DE FOUGERES BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs P
+ AYS DE FOUGERES BASKET\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Drey
+ fus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm1/match/200000014596823
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596823
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-16-20-30-toulouse-basketball-club-cep-lorient-breiz
+ h-basket-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261016T203000
+DTEND;TZID=Europe/Paris:20261016T223000
+SUMMARY:✈️ TOULOUSE BASKETBALL CLUB – CEP LORIENT BREIZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOULOUSE BASKETBALL CLUB vs CEP LO
+ RIENT BREIZH BASKET - 1\n\nPALAIS DES SPORTS A. BROUAT\n📍 Rue du Canon 
+ d'Arcole Toulouse 31000\n🚗 Waze : https://waze.com/ul?ll=43.61207\,1.43
+ 621&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm1/match/200000014596835
+LOCATION:PALAIS DES SPORTS A. BROUAT\, Rue du Canon d'Arcole Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596835
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-20-20-30-cep-lorient-breizh-basket-1-les-sables-ven
+ dee-baske@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261020T203000
+DTEND;TZID=Europe/Paris:20261020T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – LES SABLES VENDEE BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs L
+ ES SABLES VENDEE BASKET\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dre
+ yfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014596851
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596851
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-23-20-30-c-chartres-metropole-basket-cep-lorient-br
+ eizh-bask@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261023T203000
+DTEND;TZID=Europe/Paris:20261023T223000
+SUMMARY:✈️ C’CHARTRES METROPOLE BASKET – CEP LORIENT BREIZH BASKET 
+ - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ C’CHARTRES METROPOLE BASKET vs C
+ EP LORIENT BREIZH BASKET - 1\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet Ch
+ artres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014596859
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596859
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-30-20-30-cep-lorient-breizh-basket-1-centre-federal
+ -bb@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261030T203000
+DTEND;TZID=Europe/Paris:20261030T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs C
+ ENTRE FEDERAL BB\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dreyfus Lo
+ rient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014596879
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596879
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-06-20-30-vendee-challans-basket-1-cep-lorient-breiz
+ h-basket-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261106T203000
+DTEND;TZID=Europe/Paris:20261106T223000
+SUMMARY:✈️ VENDEE CHALLANS BASKET - 1 – CEP LORIENT BREIZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VENDEE CHALLANS BASKET - 1 vs CEP 
+ LORIENT BREIZH BASKET - 1\n\nSALLE VRIGNAUD A CHALLANS\n📍 Boulevard Jea
+ n Yole Challans 85300\n🚗 Waze : https://waze.com/ul?ll=46.84111\,-1.876
+ 67&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nm1/match/200000014596889
+LOCATION:SALLE VRIGNAUD A CHALLANS\, Boulevard Jean Yole Challans 85300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596889
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-13-20-30-cep-lorient-breizh-basket-1-union-tarbes-l
+ ourdes-py@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261113T203000
+DTEND;TZID=Europe/Paris:20261113T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – UNION TARBES LOURDES PYRENEE
+ S BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs U
+ NION TARBES LOURDES PYRENEES BASKET - 1\n\nPALAIS DES SPORTS KERVARIC\n
+ 📍 Rue Alfred Dreyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=
+ 47.74791\,-3.39003&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match/2
+ 00000014596907
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596907
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-17-20-00-union-rennes-basket-35-urb-35-cep-lorient-
+ breizh-ba@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261117T200000
+DTEND;TZID=Europe/Paris:20261117T220000
+SUMMARY:✈️ UNION RENNES BASKET 35 (URB 35) – CEP LORIENT BREIZH BASKE
+ T - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION RENNES BASKET 35 (URB 35) vs
+  CEP LORIENT BREIZH BASKET - 1\n\nSALLE COLETTE BESSON\n📍 Boulevard Alb
+ ert 1er Rennes 35200\n🚗 Waze : https://waze.com/ul?ll=48.08907\,-1.6887
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nm1/match/200000014596919
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596919
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-20-20-00-etoile-angers-basket-1-cep-lorient-breizh-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261120T200000
+DTEND;TZID=Europe/Paris:20261120T220000
+SUMMARY:✈️ ETOILE ANGERS BASKET - 1 – CEP LORIENT BREIZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ETOILE ANGERS BASKET - 1 vs CEP LO
+ RIENT BREIZH BASKET - 1\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre de Coub
+ ertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.53251&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014596929
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596929
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-06-17-00-us-laval-basket-1-cep-lorient-breizh-baske
+ t-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261206T170000
+DTEND;TZID=Europe/Paris:20261206T190000
+SUMMARY:✈️ US LAVAL BASKET - 1 – CEP LORIENT BREIZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ US LAVAL BASKET - 1 vs CEP LORIENT
+  BREIZH BASKET - 1\n\nSalle PEGASE - Espace Mayenne\n📍 Rue Joséphine B
+ aker Laval 53000\n🚗 Waze : https://waze.com/ul?ll=48.08238\,-0.79116&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm1/match/200000014596949
+LOCATION:Salle PEGASE - Espace Mayenne\, Rue Joséphine Baker Laval 53000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596949
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-11-20-30-cep-lorient-breizh-basket-1-tours-metropol
+ e-basket@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261211T203000
+DTEND;TZID=Europe/Paris:20261211T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – TOURS METROPOLE BASKET
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs T
+ OURS METROPOLE BASKET\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dreyf
+ us Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm1/match/200000014596958
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596958
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-15-20-30-aurore-vitre-basket-bretagne-cep-lorient-b
+ reizh-bas@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261215T203000
+DTEND;TZID=Europe/Paris:20261215T223000
+SUMMARY:✈️ AURORE VITRE BASKET BRETAGNE – CEP LORIENT BREIZH BASKET -
+  1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ AURORE VITRE BASKET BRETAGNE vs CE
+ P LORIENT BREIZH BASKET - 1\n\nSALLE POULTIERE AURORE DE VITRE\n📍 Rue d
+ e la Poultière Vitré 35500\n🚗 Waze : https://waze.com/ul?ll=48.12472\
+ ,-1.19931&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nm1/match/2000000145
+ 96977
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la Poultière Vitré 3550
+ 0
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596977
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-18-20-30-cep-lorient-breizh-basket-1-jsa-bordeaux-m
+ etropole-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20261218T203000
+DTEND;TZID=Europe/Paris:20261218T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – JSA BORDEAUX METROPOLE BASKE
+ T - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs J
+ SA BORDEAUX METROPOLE BASKET - 1\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue A
+ lfred Dreyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,
+ -3.39003&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nm1/match/20000001459
+ 6987
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596987
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-08-20-30-pays-de-fougeres-basket-cep-lorient-breizh
+ -basket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270108T203000
+DTEND;TZID=Europe/Paris:20270108T223000
+SUMMARY:✈️ PAYS DE FOUGERES BASKET – CEP LORIENT BREIZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ PAYS DE FOUGERES BASKET vs CEP LOR
+ IENT BREIZH BASKET - 1\n\nSALLE JUSTY SPECKER\n📍 Avenue Georges Pompido
+ u Fougères 35300\n🚗 Waze : https://waze.com/ul?ll=48.34565\,-1.20166&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm1/match/200000014597005
+LOCATION:SALLE JUSTY SPECKER\, Avenue Georges Pompidou Fougères 35300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597005
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-15-20-30-cep-lorient-breizh-basket-1-toulouse-baske
+ tball-clu@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270115T203000
+DTEND;TZID=Europe/Paris:20270115T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – TOULOUSE BASKETBALL CLUB
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs T
+ OULOUSE BASKETBALL CLUB\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dre
+ yfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014597017
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597017
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-19-20-00-les-sables-vendee-basket-cep-lorient-breiz
+ h-basket-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270119T200000
+DTEND;TZID=Europe/Paris:20270119T220000
+SUMMARY:✈️ LES SABLES VENDEE BASKET – CEP LORIENT BREIZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ LES SABLES VENDEE BASKET vs CEP LO
+ RIENT BREIZH BASKET - 1\n\nARENA - LES SABLES D'OLONNE\n📍 Rue du Bonheu
+ r Les Sables-d'Olonne 85340\n🚗 Waze : https://waze.com/ul?ll=46.51714\,
+ -1.75532&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nm1/match/20000001459
+ 7033
+LOCATION:ARENA - LES SABLES D'OLONNE\, Rue du Bonheur Les Sables-d'Olonne 8
+ 5340
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597033
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-22-20-30-cep-lorient-breizh-basket-1-c-chartres-met
+ ropole-ba@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270122T203000
+DTEND;TZID=Europe/Paris:20270122T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – C’CHARTRES METROPOLE BASKE
+ T
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs C
+ ’CHARTRES METROPOLE BASKET\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfre
+ d Dreyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.3
+ 9003&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm1/match/200000014597041
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597041
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-29-17-00-centre-federal-bb-cep-lorient-breizh-baske
+ t-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270129T170000
+DTEND;TZID=Europe/Paris:20270129T190000
+SUMMARY:✈️ CENTRE FEDERAL BB – CEP LORIENT BREIZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CENTRE FEDERAL BB vs CEP LORIENT B
+ REIZH BASKET - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay 
+ Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm1/match/200000014597061
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597061
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-05-20-30-cep-lorient-breizh-basket-1-vendee-challan
+ s-basket-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270205T203000
+DTEND;TZID=Europe/Paris:20270205T223000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – VENDEE CHALLANS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs V
+ ENDEE CHALLANS BASKET - 1\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred D
+ reyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.3900
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nm1/match/200000014597071
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597071
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-12-20-00-union-tarbes-lourdes-pyrenees-basket-1-cep
+ -lorient-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:✈️ UNION TARBES LOURDES PYRENEES BASKET - 1 – CEP LORIENT BRE
+ IZH BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ UNION TARBES LOURDES PYRENEES BASK
+ ET - 1 vs CEP LORIENT BREIZH BASKET - 1\n\nPALAIS DES SPORTS\n📍 Quai de
+  l'Adour Tarbes 65000\n🚗 Waze : https://waze.com/ul?ll=43.23015\,0.0878
+ 4&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nm1/match/200000014597089
+LOCATION:PALAIS DES SPORTS\, Quai de l'Adour Tarbes 65000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597089
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-16-20-00-cep-lorient-breizh-basket-1-union-rennes-b
+ asket-35-@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270216T200000
+DTEND;TZID=Europe/Paris:20270216T220000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – UNION RENNES BASKET 35 (URB 
+ 35)
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs U
+ NION RENNES BASKET 35 (URB 35)\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alf
+ red Dreyfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3
+ .39003&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nm1/match/2000000145971
+ 01
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597101
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-19-20-00-cep-lorient-breizh-basket-1-etoile-angers-
+ basket-1@ffbb-agenda
+DTSTAMP:20260817T101701Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:🏠 CEP LORIENT BREIZH BASKET - 1 – ETOILE ANGERS BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CEP LORIENT BREIZH BASKET - 1 vs E
+ TOILE ANGERS BASKET - 1\n\nPALAIS DES SPORTS KERVARIC\n📍 Rue Alfred Dre
+ yfus Lorient 56100\n🚗 Waze : https://waze.com/ul?ll=47.74791\,-3.39003&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014597111
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597111
+END:VEVENT
+END:VCALENDAR

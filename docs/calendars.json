@@ -1,6 +1,48 @@
 {
   "calendriers": [
     {
+      "nom": "RF2 – GES – Poule B",
+      "slug": "rf2-ges-poule-b",
+      "fichier": "calendars/rf2-ges-poule-b.ics",
+      "meta": {
+        "slug": "RF2",
+        "poule": "Poule B",
+        "region": "GES",
+        "titre": "Régionale Féminine Seniors - Division 2 - Ligue Régionale Grand Est",
+        "phase": "200000002897418",
+        "poule_id": "200000003054932",
+        "key": "rf2-ges-poule b"
+      }
+    },
+    {
+      "nom": "RF2 – GES – Poule C",
+      "slug": "rf2-ges-poule-c",
+      "fichier": "calendars/rf2-ges-poule-c.ics",
+      "meta": {
+        "slug": "RF2",
+        "poule": "Poule C",
+        "region": "GES",
+        "titre": "Régionale Féminine Seniors - Division 2 - Ligue Régionale Grand Est",
+        "phase": "200000002897418",
+        "poule_id": "200000003054933",
+        "key": "rf2-ges-poule c"
+      }
+    },
+    {
+      "nom": "RM2 – GES – Poule B",
+      "slug": "rm2-ges-poule-b",
+      "fichier": "calendars/rm2-ges-poule-b.ics",
+      "meta": {
+        "slug": "RM2",
+        "poule": "Poule B",
+        "region": "GES",
+        "titre": "Régionale Masculine Seniors - Division 2 - Ligue Régionale Grand Est",
+        "phase": "200000002897416",
+        "poule_id": "200000003054927",
+        "key": "rm2-ges-poule b"
+      }
+    },
+    {
       "nom": "PNF – GES – Poule A",
       "slug": "pnf-ges-poule-a",
       "fichier": "calendars/pnf-ges-poule-a.ics",
@@ -40,34 +82,6 @@
         "phase": "200000002897418",
         "poule_id": "200000003054931",
         "key": "rf2-ges-poule a"
-      }
-    },
-    {
-      "nom": "RF2 – GES – Poule B",
-      "slug": "rf2-ges-poule-b",
-      "fichier": "calendars/rf2-ges-poule-b.ics",
-      "meta": {
-        "slug": "RF2",
-        "poule": "Poule B",
-        "region": "GES",
-        "titre": "Régionale Féminine Seniors - Division 2 - Ligue Régionale Grand Est",
-        "phase": "200000002897418",
-        "poule_id": "200000003054932",
-        "key": "rf2-ges-poule b"
-      }
-    },
-    {
-      "nom": "RF2 – GES – Poule C",
-      "slug": "rf2-ges-poule-c",
-      "fichier": "calendars/rf2-ges-poule-c.ics",
-      "meta": {
-        "slug": "RF2",
-        "poule": "Poule C",
-        "region": "GES",
-        "titre": "Régionale Féminine Seniors - Division 2 - Ligue Régionale Grand Est",
-        "phase": "200000002897418",
-        "poule_id": "200000003054933",
-        "key": "rf2-ges-poule c"
       }
     },
     {
@@ -127,20 +141,6 @@
       }
     },
     {
-      "nom": "RM2 – GES – Poule B",
-      "slug": "rm2-ges-poule-b",
-      "fichier": "calendars/rm2-ges-poule-b.ics",
-      "meta": {
-        "slug": "RM2",
-        "poule": "Poule B",
-        "region": "GES",
-        "titre": "Régionale Masculine Seniors - Division 2 - Ligue Régionale Grand Est",
-        "phase": "200000002897416",
-        "poule_id": "200000003054927",
-        "key": "rm2-ges-poule b"
-      }
-    },
-    {
       "nom": "RM2 – GES – Poule C",
       "slug": "rm2-ges-poule-c",
       "fichier": "calendars/rm2-ges-poule-c.ics",
@@ -184,6 +184,346 @@
     }
   ],
   "equipes": [
+    {
+      "nom": "AS CHAMPIGNEULLES BASKETBALL",
+      "nom_complet": "AS CHAMPIGNEULLES BASKETBALL  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-as-champigneulles-basketball",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-as-champigneulles-basketball.ics"
+    },
+    {
+      "nom": "ASC CHARNY SUR MEUSE",
+      "nom_complet": "ASC CHARNY SUR MEUSE  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-asc-charny-sur-meuse",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-asc-charny-sur-meuse.ics"
+    },
+    {
+      "nom": "ASP STE MARIE AUX CHENES - 2",
+      "nom_complet": "ASP STE MARIE AUX CHENES - 2  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-asp-ste-marie-aux-chenes-2",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-asp-ste-marie-aux-chenes-2.ics"
+    },
+    {
+      "nom": "CHAMPAGNE BASKET FEMININ",
+      "nom_complet": "CHAMPAGNE BASKET FEMININ  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-champagne-basket-feminin",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-champagne-basket-feminin.ics"
+    },
+    {
+      "nom": "COLLECTIF SPORTS VAL DE LORRAINE SUD",
+      "nom_complet": "COLLECTIF SPORTS VAL DE LORRAINE SUD  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-collectif-sports-val-de-lorraine-sud",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-collectif-sports-val-de-lorraine-sud.ics"
+    },
+    {
+      "nom": "CSLB BAR LE DUC",
+      "nom_complet": "CSLB BAR LE DUC  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-cslb-bar-le-duc",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-cslb-bar-le-duc.ics"
+    },
+    {
+      "nom": "DUKES DE FAMECK",
+      "nom_complet": "DUKES DE FAMECK  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-dukes-de-fameck",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-dukes-de-fameck.ics"
+    },
+    {
+      "nom": "E- L-WITRY LES REIMS BASKET",
+      "nom_complet": "E- L-WITRY LES REIMS BASKET  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-e-l-witry-les-reims-basket",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-e-l-witry-les-reims-basket.ics"
+    },
+    {
+      "nom": "ROMBAS OC",
+      "nom_complet": "ROMBAS OC  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-rombas-oc",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-rombas-oc.ics"
+    },
+    {
+      "nom": "US BOULANGE FONTOY BB",
+      "nom_complet": "US BOULANGE FONTOY BB  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-us-boulange-fontoy-bb",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-us-boulange-fontoy-bb.ics"
+    },
+    {
+      "nom": "US SILVANGE BASKET",
+      "nom_complet": "US SILVANGE BASKET  [RF2 – GES – Poule B]",
+      "slug": "rf2-ges-poule-b-us-silvange-basket",
+      "comp_slug": "rf2-ges-poule-b",
+      "comp_nom": "RF2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rf2-ges-poule-b-us-silvange-basket.ics"
+    },
+    {
+      "nom": "ASA WEYERSHEIM",
+      "nom_complet": "ASA WEYERSHEIM  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-asa-weyersheim",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-asa-weyersheim.ics"
+    },
+    {
+      "nom": "ASPTT NANCY TOMBLAINE - 2",
+      "nom_complet": "ASPTT NANCY TOMBLAINE - 2  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-asptt-nancy-tomblaine-2",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-asptt-nancy-tomblaine-2.ics"
+    },
+    {
+      "nom": "BASK FURDENHEIM",
+      "nom_complet": "BASK FURDENHEIM  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-bask-furdenheim",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-bask-furdenheim.ics"
+    },
+    {
+      "nom": "BASKET CLUB CHAVELOTAIS",
+      "nom_complet": "BASKET CLUB CHAVELOTAIS  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-basket-club-chavelotais",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-basket-club-chavelotais.ics"
+    },
+    {
+      "nom": "CSE FOLKLING",
+      "nom_complet": "CSE FOLKLING  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-cse-folkling",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-cse-folkling.ics"
+    },
+    {
+      "nom": "ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL)",
+      "nom_complet": "ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL)  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-entente-sportive-thaon-basket-ball-e-s-thaon-basket-ball",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-entente-sportive-thaon-basket-ball-e-s-thaon-basket-ball.ics"
+    },
+    {
+      "nom": "NBC SARREBOURG",
+      "nom_complet": "NBC SARREBOURG  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-nbc-sarrebourg",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-nbc-sarrebourg.ics"
+    },
+    {
+      "nom": "PHALSBOURG B.C.",
+      "nom_complet": "PHALSBOURG B.C.  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-phalsbourg-b-c",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-phalsbourg-b-c.ics"
+    },
+    {
+      "nom": "S.I. GRAFFENSTADEN - 3",
+      "nom_complet": "S.I. GRAFFENSTADEN - 3  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-s-i-graffenstaden-3",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-s-i-graffenstaden-3.ics"
+    },
+    {
+      "nom": "SLUC NANCY BASKET ASSOCIATION",
+      "nom_complet": "SLUC NANCY BASKET ASSOCIATION  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-sluc-nancy-basket-association",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-sluc-nancy-basket-association.ics"
+    },
+    {
+      "nom": "VENDENHEIM BC - 2",
+      "nom_complet": "VENDENHEIM BC - 2  [RF2 – GES – Poule C]",
+      "slug": "rf2-ges-poule-c-vendenheim-bc-2",
+      "comp_slug": "rf2-ges-poule-c",
+      "comp_nom": "RF2 – GES – Poule C",
+      "region": "GES",
+      "poule": "Poule C",
+      "fichier": "calendars/teams/rf2-ges-poule-c-vendenheim-bc-2.ics"
+    },
+    {
+      "nom": "ASC SAINT ROMAIN REININGUE",
+      "nom_complet": "ASC SAINT ROMAIN REININGUE  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-asc-saint-romain-reiningue",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-asc-saint-romain-reiningue.ics"
+    },
+    {
+      "nom": "ASC STE AFRE RIEDISHEIM",
+      "nom_complet": "ASC STE AFRE RIEDISHEIM  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-asc-ste-afre-riedisheim",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-asc-ste-afre-riedisheim.ics"
+    },
+    {
+      "nom": "CSSL RIXHEIM",
+      "nom_complet": "CSSL RIXHEIM  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-cssl-rixheim",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-cssl-rixheim.ics"
+    },
+    {
+      "nom": "GEISPOLSHEIM C.J.S. - 2",
+      "nom_complet": "GEISPOLSHEIM C.J.S. - 2  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-geispolsheim-c-j-s-2",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-geispolsheim-c-j-s-2.ics"
+    },
+    {
+      "nom": "MUSTANGS ASSOCIATION",
+      "nom_complet": "MUSTANGS ASSOCIATION  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-mustangs-association",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-mustangs-association.ics"
+    },
+    {
+      "nom": "S.I. GRAFFENSTADEN - 2",
+      "nom_complet": "S.I. GRAFFENSTADEN - 2  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-s-i-graffenstaden-2",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-s-i-graffenstaden-2.ics"
+    },
+    {
+      "nom": "S.U. SCHILTIGHEIM BASKET BALL",
+      "nom_complet": "S.U. SCHILTIGHEIM BASKET BALL  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-s-u-schiltigheim-basket-ball",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-s-u-schiltigheim-basket-ball.ics"
+    },
+    {
+      "nom": "SAINT JOSEPH - STRASBOURG - 2",
+      "nom_complet": "SAINT JOSEPH - STRASBOURG - 2  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-saint-joseph-strasbourg-2",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-saint-joseph-strasbourg-2.ics"
+    },
+    {
+      "nom": "SCHAEFFERSHEIM A.S.L.C.",
+      "nom_complet": "SCHAEFFERSHEIM A.S.L.C.  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-schaeffersheim-a-s-l-c",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-schaeffersheim-a-s-l-c.ics"
+    },
+    {
+      "nom": "SELESTAT BC - 2",
+      "nom_complet": "SELESTAT BC - 2  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-selestat-bc-2",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-selestat-bc-2.ics"
+    },
+    {
+      "nom": "STRASBOURG ELECTRICITE A.S.",
+      "nom_complet": "STRASBOURG ELECTRICITE A.S.  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-strasbourg-electricite-a-s",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-strasbourg-electricite-a-s.ics"
+    },
+    {
+      "nom": "US WITTENHEIM",
+      "nom_complet": "US WITTENHEIM  [RM2 – GES – Poule B]",
+      "slug": "rm2-ges-poule-b-us-wittenheim",
+      "comp_slug": "rm2-ges-poule-b",
+      "comp_nom": "RM2 – GES – Poule B",
+      "region": "GES",
+      "poule": "Poule B",
+      "fichier": "calendars/teams/rm2-ges-poule-b-us-wittenheim.ics"
+    },
     {
       "nom": "AS HAUT DU LIEVRE  NANCY",
       "nom_complet": "AS HAUT DU LIEVRE  NANCY  [PNF – GES – Poule A]",
@@ -483,226 +823,6 @@
       "region": "GES",
       "poule": "Poule A",
       "fichier": "calendars/teams/rf2-ges-poule-a-us-wittenheim.ics"
-    },
-    {
-      "nom": "AS CHAMPIGNEULLES BASKETBALL",
-      "nom_complet": "AS CHAMPIGNEULLES BASKETBALL  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-as-champigneulles-basketball",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-as-champigneulles-basketball.ics"
-    },
-    {
-      "nom": "ASC CHARNY SUR MEUSE",
-      "nom_complet": "ASC CHARNY SUR MEUSE  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-asc-charny-sur-meuse",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-asc-charny-sur-meuse.ics"
-    },
-    {
-      "nom": "ASP STE MARIE AUX CHENES - 2",
-      "nom_complet": "ASP STE MARIE AUX CHENES - 2  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-asp-ste-marie-aux-chenes-2",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-asp-ste-marie-aux-chenes-2.ics"
-    },
-    {
-      "nom": "CHAMPAGNE BASKET FEMININ",
-      "nom_complet": "CHAMPAGNE BASKET FEMININ  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-champagne-basket-feminin",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-champagne-basket-feminin.ics"
-    },
-    {
-      "nom": "COLLECTIF SPORTS VAL DE LORRAINE SUD",
-      "nom_complet": "COLLECTIF SPORTS VAL DE LORRAINE SUD  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-collectif-sports-val-de-lorraine-sud",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-collectif-sports-val-de-lorraine-sud.ics"
-    },
-    {
-      "nom": "CSLB BAR LE DUC",
-      "nom_complet": "CSLB BAR LE DUC  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-cslb-bar-le-duc",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-cslb-bar-le-duc.ics"
-    },
-    {
-      "nom": "DUKES DE FAMECK",
-      "nom_complet": "DUKES DE FAMECK  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-dukes-de-fameck",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-dukes-de-fameck.ics"
-    },
-    {
-      "nom": "E- L-WITRY LES REIMS BASKET",
-      "nom_complet": "E- L-WITRY LES REIMS BASKET  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-e-l-witry-les-reims-basket",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-e-l-witry-les-reims-basket.ics"
-    },
-    {
-      "nom": "ROMBAS OC",
-      "nom_complet": "ROMBAS OC  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-rombas-oc",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-rombas-oc.ics"
-    },
-    {
-      "nom": "US BOULANGE FONTOY BB",
-      "nom_complet": "US BOULANGE FONTOY BB  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-us-boulange-fontoy-bb",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-us-boulange-fontoy-bb.ics"
-    },
-    {
-      "nom": "US SILVANGE BASKET",
-      "nom_complet": "US SILVANGE BASKET  [RF2 – GES – Poule B]",
-      "slug": "rf2-ges-poule-b-us-silvange-basket",
-      "comp_slug": "rf2-ges-poule-b",
-      "comp_nom": "RF2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rf2-ges-poule-b-us-silvange-basket.ics"
-    },
-    {
-      "nom": "ASA WEYERSHEIM",
-      "nom_complet": "ASA WEYERSHEIM  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-asa-weyersheim",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-asa-weyersheim.ics"
-    },
-    {
-      "nom": "ASPTT NANCY TOMBLAINE - 2",
-      "nom_complet": "ASPTT NANCY TOMBLAINE - 2  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-asptt-nancy-tomblaine-2",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-asptt-nancy-tomblaine-2.ics"
-    },
-    {
-      "nom": "BASK FURDENHEIM",
-      "nom_complet": "BASK FURDENHEIM  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-bask-furdenheim",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-bask-furdenheim.ics"
-    },
-    {
-      "nom": "BASKET CLUB CHAVELOTAIS",
-      "nom_complet": "BASKET CLUB CHAVELOTAIS  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-basket-club-chavelotais",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-basket-club-chavelotais.ics"
-    },
-    {
-      "nom": "CSE FOLKLING",
-      "nom_complet": "CSE FOLKLING  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-cse-folkling",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-cse-folkling.ics"
-    },
-    {
-      "nom": "ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL)",
-      "nom_complet": "ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL)  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-entente-sportive-thaon-basket-ball-e-s-thaon-basket-ball",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-entente-sportive-thaon-basket-ball-e-s-thaon-basket-ball.ics"
-    },
-    {
-      "nom": "NBC SARREBOURG",
-      "nom_complet": "NBC SARREBOURG  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-nbc-sarrebourg",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-nbc-sarrebourg.ics"
-    },
-    {
-      "nom": "PHALSBOURG B.C.",
-      "nom_complet": "PHALSBOURG B.C.  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-phalsbourg-b-c",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-phalsbourg-b-c.ics"
-    },
-    {
-      "nom": "S.I. GRAFFENSTADEN - 3",
-      "nom_complet": "S.I. GRAFFENSTADEN - 3  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-s-i-graffenstaden-3",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-s-i-graffenstaden-3.ics"
-    },
-    {
-      "nom": "SLUC NANCY BASKET ASSOCIATION",
-      "nom_complet": "SLUC NANCY BASKET ASSOCIATION  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-sluc-nancy-basket-association",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-sluc-nancy-basket-association.ics"
-    },
-    {
-      "nom": "VENDENHEIM BC - 2",
-      "nom_complet": "VENDENHEIM BC - 2  [RF2 – GES – Poule C]",
-      "slug": "rf2-ges-poule-c-vendenheim-bc-2",
-      "comp_slug": "rf2-ges-poule-c",
-      "comp_nom": "RF2 – GES – Poule C",
-      "region": "GES",
-      "poule": "Poule C",
-      "fichier": "calendars/teams/rf2-ges-poule-c-vendenheim-bc-2.ics"
     },
     {
       "nom": "AMICALE DES JEUNES DE BETHENY",
@@ -1183,126 +1303,6 @@
       "region": "GES",
       "poule": "Poule A",
       "fichier": "calendars/teams/rm2-ges-poule-a-villers-semeuse-basket.ics"
-    },
-    {
-      "nom": "ASC SAINT ROMAIN REININGUE",
-      "nom_complet": "ASC SAINT ROMAIN REININGUE  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-asc-saint-romain-reiningue",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-asc-saint-romain-reiningue.ics"
-    },
-    {
-      "nom": "ASC STE AFRE RIEDISHEIM",
-      "nom_complet": "ASC STE AFRE RIEDISHEIM  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-asc-ste-afre-riedisheim",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-asc-ste-afre-riedisheim.ics"
-    },
-    {
-      "nom": "CSSL RIXHEIM",
-      "nom_complet": "CSSL RIXHEIM  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-cssl-rixheim",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-cssl-rixheim.ics"
-    },
-    {
-      "nom": "GEISPOLSHEIM C.J.S. - 2",
-      "nom_complet": "GEISPOLSHEIM C.J.S. - 2  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-geispolsheim-c-j-s-2",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-geispolsheim-c-j-s-2.ics"
-    },
-    {
-      "nom": "MUSTANGS ASSOCIATION",
-      "nom_complet": "MUSTANGS ASSOCIATION  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-mustangs-association",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-mustangs-association.ics"
-    },
-    {
-      "nom": "S.I. GRAFFENSTADEN - 2",
-      "nom_complet": "S.I. GRAFFENSTADEN - 2  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-s-i-graffenstaden-2",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-s-i-graffenstaden-2.ics"
-    },
-    {
-      "nom": "S.U. SCHILTIGHEIM BASKET BALL",
-      "nom_complet": "S.U. SCHILTIGHEIM BASKET BALL  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-s-u-schiltigheim-basket-ball",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-s-u-schiltigheim-basket-ball.ics"
-    },
-    {
-      "nom": "SAINT JOSEPH - STRASBOURG - 2",
-      "nom_complet": "SAINT JOSEPH - STRASBOURG - 2  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-saint-joseph-strasbourg-2",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-saint-joseph-strasbourg-2.ics"
-    },
-    {
-      "nom": "SCHAEFFERSHEIM A.S.L.C.",
-      "nom_complet": "SCHAEFFERSHEIM A.S.L.C.  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-schaeffersheim-a-s-l-c",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-schaeffersheim-a-s-l-c.ics"
-    },
-    {
-      "nom": "SELESTAT BC - 2",
-      "nom_complet": "SELESTAT BC - 2  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-selestat-bc-2",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-selestat-bc-2.ics"
-    },
-    {
-      "nom": "STRASBOURG ELECTRICITE A.S.",
-      "nom_complet": "STRASBOURG ELECTRICITE A.S.  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-strasbourg-electricite-a-s",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-strasbourg-electricite-a-s.ics"
-    },
-    {
-      "nom": "US WITTENHEIM",
-      "nom_complet": "US WITTENHEIM  [RM2 – GES – Poule B]",
-      "slug": "rm2-ges-poule-b-us-wittenheim",
-      "comp_slug": "rm2-ges-poule-b",
-      "comp_nom": "RM2 – GES – Poule B",
-      "region": "GES",
-      "poule": "Poule B",
-      "fichier": "calendars/teams/rm2-ges-poule-b-us-wittenheim.ics"
     },
     {
       "nom": "AS CHAMPIGNEULLES BASKETBALL",

@@ -37,5 +37,11 @@ jobs:
             echo "Aucun changement."
           else
             git commit -m "Auto: mise à jour calendriers nationaux FFBB $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            # Un autre run (région GES, ou un push manuel) peut avoir poussé entre-temps :
+            # on rebase sur origin/main avant de pousser, avec quelques tentatives.
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push && break
+              echo "Push rejeté, nouvel essai ($i/5)…"
+              sleep $((RANDOM % 10 + 5))
+            done
           fi

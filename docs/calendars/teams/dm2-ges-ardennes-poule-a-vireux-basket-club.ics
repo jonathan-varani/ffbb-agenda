@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VIREUX BASKET CLUB  [DM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de VIREUX BASKET CLUB – DM2 – GES – Ardennes – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-09-26-00-00-ea-vaillante-vrigne-aux-bois-
+ 3-vireux-@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ EA VAILLANTE VRIGNE AUX BOIS - 3 – VIREUX BASKET CLUB
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ EA VAILLANTE 
+ VRIGNE AUX BOIS - 3 vs VIREUX BASKET CLUB\n\nSALLE BEREGOVOY\n📍 Avenue 
+ Jean Jaurès Vrigne aux Bois 08330\n🚗 Waze : https://waze.com/ul?ll=49.
+ 73658\,4.85224&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/comp
+ etitions/dm2/match/200000014571042
+LOCATION:SALLE BEREGOVOY\, Avenue Jean Jaurès Vrigne aux Bois 08330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571042
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-03-00-00-vireux-basket-club-marcassins
+ -de-revin@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 VIREUX BASKET CLUB – MARCASSINS DE REVIN
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VIREUX BASKET
+  CLUB vs MARCASSINS DE REVIN\n\nCOSEC\n📍 Rue de la Campagne Vireux-Wall
+ erand 08320\n🚗 Waze : https://waze.com/ul?ll=50.08867\,4.73133&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/match/2000
+ 00014571046
+LOCATION:COSEC\, Rue de la Campagne Vireux-Wallerand 08320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571046
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-10-00-00-vireux-basket-club-villers-se
+ meuse-bas@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 VIREUX BASKET CLUB – VILLERS SEMEUSE BASKET - 3
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VIREUX BASKET
+  CLUB vs VILLERS SEMEUSE BASKET - 3\n\nCOSEC\n📍 Rue de la Campagne Vire
+ ux-Wallerand 08320\n🚗 Waze : https://waze.com/ul?ll=50.08867\,4.73133&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/mat
+ ch/200000014571049
+LOCATION:COSEC\, Rue de la Campagne Vireux-Wallerand 08320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571049
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-17-00-00-vireux-basket-club-union-spor
+ tive-de-l@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 VIREUX BASKET CLUB – UNION SPORTIVE DE LAIFOUR - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VIREUX BASKET
+  CLUB vs UNION SPORTIVE DE LAIFOUR - 2\n\nCOSEC\n📍 Rue de la Campagne V
+ ireux-Wallerand 08320\n🚗 Waze : https://waze.com/ul?ll=50.08867\,4.7313
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571052
+LOCATION:COSEC\, Rue de la Campagne Vireux-Wallerand 08320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571052
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-24-00-00-vireux-basket-club-ea-vaillan
+ te-vrigne@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261024T000000
+DTEND;TZID=Europe/Paris:20261024T020000
+SUMMARY:🏠 VIREUX BASKET CLUB – EA VAILLANTE VRIGNE AUX BOIS - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VIREUX BASKET
+  CLUB vs EA VAILLANTE VRIGNE AUX BOIS - 2\n\nCOSEC\n📍 Rue de la Campagn
+ e Vireux-Wallerand 08320\n🚗 Waze : https://waze.com/ul?ll=50.08867\,4.7
+ 3133&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/d
+ m2/match/200000014571059
+LOCATION:COSEC\, Rue de la Campagne Vireux-Wallerand 08320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571059
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-31-00-00-vireux-basket-club-basket-clu
+ b-de-hara@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261031T000000
+DTEND;TZID=Europe/Paris:20261031T020000
+SUMMARY:🏠 VIREUX BASKET CLUB – BASKET CLUB DE HARAUCOURT - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VIREUX BASKET
+  CLUB vs BASKET CLUB DE HARAUCOURT - 2\n\nCOSEC\n📍 Rue de la Campagne V
+ ireux-Wallerand 08320\n🚗 Waze : https://waze.com/ul?ll=50.08867\,4.7313
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571063
+LOCATION:COSEC\, Rue de la Campagne Vireux-Wallerand 08320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571063
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-11-07-00-00-basket-club-mouzonnais-vireux
+ -basket-c@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ BASKET CLUB MOUZONNAIS – VIREUX BASKET CLUB
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB M
+ OUZONNAIS vs VIREUX BASKET CLUB\n\nGYMNASE DE MOUZON\n📍 Rue Jean-Claude
+  Stolz Mouzon 08210\n🚗 Waze : https://waze.com/ul?ll=49.60599\,5.07328&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/ma
+ tch/200000014571067
+LOCATION:GYMNASE DE MOUZON\, Rue Jean-Claude Stolz Mouzon 08210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571067
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-11-14-00-00-vireux-basket-club-ea-vaillan
+ te-vrigne@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 VIREUX BASKET CLUB – EA VAILLANTE VRIGNE AUX BOIS - 3
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VIREUX BASKET
+  CLUB vs EA VAILLANTE VRIGNE AUX BOIS - 3\n\nCOSEC\n📍 Rue de la Campagn
+ e Vireux-Wallerand 08320\n🚗 Waze : https://waze.com/ul?ll=50.08867\,4.7
+ 3133&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/d
+ m2/match/200000014571070
+LOCATION:COSEC\, Rue de la Campagne Vireux-Wallerand 08320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571070
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-11-21-00-00-marcassins-de-revin-vireux-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ MARCASSINS DE REVIN – VIREUX BASKET CLUB
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ MARCASSINS DE
+  REVIN vs VIREUX BASKET CLUB\n\nCOSEC SALENGRO\n📍 Rue Roger Salengro Re
+ vin 08500\n🚗 Waze : https://waze.com/ul?ll=49.93462\,4.63024&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/match/200000
+ 014571074
+LOCATION:COSEC SALENGRO\, Rue Roger Salengro Revin 08500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571074
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-12-05-00-00-villers-semeuse-basket-3-vire
+ ux-basket@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET - 3 – VIREUX BASKET CLUB
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VILLERS SEMEU
+ SE BASKET - 3 vs VIREUX BASKET CLUB\n\nCOSEC\n📍 Avenue Jean Jaurès Vil
+ lers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.74446&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/mat
+ ch/200000014571077
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571077
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-12-12-00-00-union-sportive-de-laifour-2-v
+ ireux-bas@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ UNION SPORTIVE DE LAIFOUR - 2 – VIREUX BASKET CLUB
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ UNION SPORTIV
+ E DE LAIFOUR - 2 vs VIREUX BASKET CLUB\n\nSALLE J.GILLARD\n📍 Rue de la 
+ Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.91125\,4.69269&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/mat
+ ch/200000014571080
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571080
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2027-01-09-00-00-ea-vaillante-vrigne-aux-bois-
+ 2-vireux-@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20270109T000000
+DTEND;TZID=Europe/Paris:20270109T020000
+SUMMARY:✈️ EA VAILLANTE VRIGNE AUX BOIS - 2 – VIREUX BASKET CLUB
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ EA VAILLANTE 
+ VRIGNE AUX BOIS - 2 vs VIREUX BASKET CLUB\n\nSALLE BEREGOVOY\n📍 Avenue 
+ Jean Jaurès Vrigne aux Bois 08330\n🚗 Waze : https://waze.com/ul?ll=49.
+ 73658\,4.85224&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/comp
+ etitions/dm2/match/200000014571087
+LOCATION:SALLE BEREGOVOY\, Avenue Jean Jaurès Vrigne aux Bois 08330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571087
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2027-01-16-17-30-basket-club-de-haraucourt-2-v
+ ireux-bas@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20270116T173000
+DTEND;TZID=Europe/Paris:20270116T193000
+SUMMARY:✈️ BASKET CLUB DE HARAUCOURT - 2 – VIREUX BASKET CLUB
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB D
+ E HARAUCOURT - 2 vs VIREUX BASKET CLUB\n\nSALLE MUNICIPALE\n📍 Rue de la
+  Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4.961
+ 15&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2
+ /match/200000014571091
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571091
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2027-01-23-00-00-vireux-basket-club-basket-clu
+ b-mouzonn@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 VIREUX BASKET CLUB – BASKET CLUB MOUZONNAIS
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VIREUX BASKET
+  CLUB vs BASKET CLUB MOUZONNAIS\n\nCOSEC\n📍 Rue de la Campagne Vireux-W
+ allerand 08320\n🚗 Waze : https://waze.com/ul?ll=50.08867\,4.73133&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/match/2
+ 00000014571095
+LOCATION:COSEC\, Rue de la Campagne Vireux-Wallerand 08320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571095
+END:VEVENT
+END:VCALENDAR

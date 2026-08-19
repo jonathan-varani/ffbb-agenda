@@ -1,0 +1,407 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LES LYNX MAXEVILLOIS  [DM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de LES LYNX MAXEVILLOIS – DM2 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2026-09-27-17-30-gs-arnaville-novean
+ t-les-lyn@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20260927T173000
+DTEND;TZID=Europe/Paris:20260927T193000
+SUMMARY:✈️ GS ARNAVILLE NOVEANT – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ GS 
+ ARNAVILLE NOVEANT vs LES LYNX MAXEVILLOIS\n\nSALLE POLYVALENTE\n📍 Rue d
+ 'Arnaville Novéant-sur-Moselle 57680\n🚗 Waze : https://waze.com/ul?ll=
+ 49.02059\,6.04819&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dm2/match/200000014627840
+LOCATION:SALLE POLYVALENTE\, Rue d'Arnaville Novéant-sur-Moselle 57680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627840
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2026-10-03-20-30-les-lynx-maxevilloi
+ s-la-port@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – LA PORTE VERTE BASKET - 2
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs LA PORTE VERTE BASKET - 2\n\nSALLE LEO LAGRANGE\n📍
+  Rue de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.96407\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dm2/match/200000014627846
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627846
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2026-10-10-20-30-basket-nomeny-les-l
+ ynx-maxev@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ BASKET NOMENY – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BAS
+ KET NOMENY vs LES LYNX MAXEVILLOIS\n\nHALLE DES SPORTS DU COLLEGE\n📍 Ru
+ e Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=48.88715\,6
+ .2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/
+ dm2/match/200000014627850
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627850
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2026-11-07-20-30-les-lynx-maxevilloi
+ s-ie-ctc-@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – IE - CTC COLLECTIF BASKET VAL DE LORR
+ AINE SUD - 1
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD - 1\n\n
+ SALLE LEO LAGRANGE\n📍 Rue de l'Orne Mantes-la-Ville 78711\n🚗 Waze : 
+ https://waze.com/ul?ll=48.96407\,1.72023&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0054/competitions/dm2/match/200000014627858
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627858
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2026-11-14-20-30-as-champigneulles-b
+ asketball@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL - 3 – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ AS 
+ CHAMPIGNEULLES BASKETBALL - 3 vs LES LYNX MAXEVILLOIS\n\nCOMPLEXE SPORTIF 
+ BELLEFONTAINE\n📍 Rue de Roncevaux Champigneulles 54250\n🚗 Waze : htt
+ ps://waze.com/ul?ll=48.72533\,6.14893&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0054/competitions/dm2/match/200000014627866
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux Champigneulles 5
+ 4250
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627866
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2026-11-21-20-30-les-lynx-maxevilloi
+ s-basket-@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – BASKET ALL STAR MUSSIPONTAIN - 1
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs BASKET ALL STAR MUSSIPONTAIN - 1\n\nSALLE LEO LAGRANG
+ E\n📍 Rue de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/
+ ul?ll=48.96407\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0054/competitions/dm2/match/200000014627870
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627870
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2026-11-28-20-30-dombasle-basket-1-l
+ es-lynx-m@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:✈️ DOMBASLE BASKET - 1 – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ DOM
+ BASLE BASKET - 1 vs LES LYNX MAXEVILLOIS\n\nSALLE ROGER BOILEAU\n📍 Aven
+ ue du Général Leclerc Dombasle-sur-Meurthe 54110\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.62034\,6.35076&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/dm2/match/200000014627879
+LOCATION:SALLE ROGER BOILEAU\, Avenue du Général Leclerc Dombasle-sur-Meu
+ rthe 54110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627879
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2026-12-05-20-30-les-lynx-maxevilloi
+ s-cercle-@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – CERCLE SPORTIF MUNICIPAL AUBOUE - 1
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs CERCLE SPORTIF MUNICIPAL AUBOUE - 1\n\nSALLE LEO LAGR
+ ANGE\n📍 Rue de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.c
+ om/ul?ll=48.96407\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0054/competitions/dm2/match/200000014627885
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627885
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2026-12-12-20-30-les-lynx-maxevilloi
+ s-ludres-@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – LUDRES PONT ST VINCENT BASKET CL - 3
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs LUDRES PONT ST VINCENT BASKET CL - 3\n\nSALLE LEO LAG
+ RANGE\n📍 Rue de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.
+ com/ul?ll=48.96407\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/dm2/match/200000014627890
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627890
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-01-09-20-30-aurore-basket-hussi
+ gny-les-l@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ AURORE BASKET HUSSIGNY – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ AUR
+ ORE BASKET HUSSIGNY vs LES LYNX MAXEVILLOIS\n\nSALLE MUNICIPALE\n📍 Rue 
+ des Tilleuls Hussigny-Godbrange 54590\n🚗 Waze : https://waze.com/ul?ll=
+ 49.49615\,5.86901&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dm2/match/200000014627895
+LOCATION:SALLE MUNICIPALE\, Rue des Tilleuls Hussigny-Godbrange 54590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627895
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-01-16-20-30-les-lynx-maxevilloi
+ s-as-haut@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – AS HAUT DU LIEVRE  NANCY - 4
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs AS HAUT DU LIEVRE  NANCY - 4\n\nSALLE LEO LAGRANGE\n
+ 📍 Rue de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?
+ ll=48.96407\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/dm2/match/200000014627902
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627902
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-01-23-20-30-les-lynx-maxevilloi
+ s-gs-arna@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – GS ARNAVILLE NOVEANT
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs GS ARNAVILLE NOVEANT\n\nSALLE LEO LAGRANGE\n📍 Rue 
+ de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.964
+ 07\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/dm2/match/200000014627906
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627906
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-01-30-20-30-la-porte-verte-bask
+ et-2-les-@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ LA PORTE VERTE BASKET - 2 – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA 
+ PORTE VERTE BASKET - 2 vs LES LYNX MAXEVILLOIS\n\nSALLE DES SPORTS\n📍 R
+ ue d'Essey Saulxures-lès-Nancy 54420\n🚗 Waze : https://waze.com/ul?ll=
+ 48.69559\,6.24137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dm2/match/200000014627912
+LOCATION:SALLE DES SPORTS\, Rue d'Essey Saulxures-lès-Nancy 54420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627912
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-02-06-20-30-les-lynx-maxevilloi
+ s-basket-@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – BASKET NOMENY
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs BASKET NOMENY\n\nSALLE LEO LAGRANGE\n📍 Rue de l'Or
+ ne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.96407\,1.7
+ 2023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/d
+ m2/match/200000014627916
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627916
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-02-13-20-30-ie-ctc-collectif-ba
+ sket-val-@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD - 1 – LES LY
+ NX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ IE 
+ - CTC COLLECTIF BASKET VAL DE LORRAINE SUD - 1 vs LES LYNX MAXEVILLOIS\n\n
+ SALLE INTERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : http
+ s://waze.com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/dm2/match/200000014627924
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627924
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-03-13-20-30-les-lynx-maxevilloi
+ s-as-cham@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – AS CHAMPIGNEULLES BASKETBALL - 3
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs AS CHAMPIGNEULLES BASKETBALL - 3\n\nSALLE LEO LAGRANG
+ E\n📍 Rue de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/
+ ul?ll=48.96407\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0054/competitions/dm2/match/200000014627932
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627932
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-03-20-20-30-basket-all-star-mus
+ sipontain@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ BASKET ALL STAR MUSSIPONTAIN - 1 – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BAS
+ KET ALL STAR MUSSIPONTAIN - 1 vs LES LYNX MAXEVILLOIS\n\nCENTRE DES SPORTS
+  BERNARD GUY 1\n📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 W
+ aze : https://waze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0054/competitions/dm2/match/200000014627936
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627936
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-03-27-20-30-les-lynx-maxevilloi
+ s-dombasl@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – DOMBASLE BASKET - 1
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs DOMBASLE BASKET - 1\n\nSALLE LEO LAGRANGE\n📍 Rue d
+ e l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.9640
+ 7\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competit
+ ions/dm2/match/200000014627945
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627945
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-04-03-20-30-cercle-sportif-muni
+ cipal-aub@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ CERCLE SPORTIF MUNICIPAL AUBOUE - 1 – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ CER
+ CLE SPORTIF MUNICIPAL AUBOUE - 1 vs LES LYNX MAXEVILLOIS\n\nHALLE DES SPOR
+ TS MAURICE PICHON\n📍 Place Albert Lebrun Auboué 54580\n🚗 Waze : htt
+ ps://waze.com/ul?ll=49.21117\,5.9751&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/dm2/match/200000014627951
+LOCATION:HALLE DES SPORTS MAURICE PICHON\, Place Albert Lebrun Auboué 5458
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627951
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-04-10-20-30-ludres-pont-st-vinc
+ ent-baske@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ LUDRES PONT ST VINCENT BASKET CL - 3 – LES LYNX MAXEVILLOI
+ S
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LUD
+ RES PONT ST VINCENT BASKET CL - 3 vs LES LYNX MAXEVILLOIS\n\nSALLE MARIE M
+ ARVINGT\n📍 Rue Marie Marvingt Ludres 54710\n🚗 Waze : https://waze.co
+ m/ul?ll=48.6185\,6.16361&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/dm2/match/200000014627956
+LOCATION:SALLE MARIE MARVINGT\, Rue Marie Marvingt Ludres 54710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627956
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-05-08-20-30-les-lynx-maxevilloi
+ s-aurore-@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – AURORE BASKET HUSSIGNY
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LES
+  LYNX MAXEVILLOIS vs AURORE BASKET HUSSIGNY\n\nSALLE LEO LAGRANGE\n📍 Ru
+ e de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.9
+ 6407\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compe
+ titions/dm2/match/200000014627961
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627961
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-meurthe-et-moselle-poule-a-2027-05-23-16-30-as-haut-du-lievre-n
+ ancy-4-le@ffbb-agenda
+DTSTAMP:20260819T081119Z
+DTSTART;TZID=Europe/Paris:20270523T163000
+DTEND;TZID=Europe/Paris:20270523T183000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 4 – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DM2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ AS 
+ HAUT DU LIEVRE  NANCY - 4 vs LES LYNX MAXEVILLOIS\n\nGYMNASE BUFFON\n📍 
+ Rue Dominique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.701
+ 67\,6.15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/dm2/match/200000014627968
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm2/
+ match/200000014627968
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ENT SIERENTZ/BLOTZHEIM  [DMU18-6 – GES]
+X-WR-CALDESC:Matchs de ENT SIERENTZ/BLOTZHEIM – DMU18-6 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-09-19-16-00-colmar-basket-3-ent-sierentz-blo
+ tzheim@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:✈️ COLMAR BASKET - 3 – ENT SIERENTZ/BLOTZHEIM
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 3 vs
+  ENT SIERENTZ/BLOTZHEIM\n\nGYMNASE PFEFFEL\n📍 Rue de la Bagatelle Colma
+ r 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-6/match/2000
+ 00014560400
+LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560400
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-09-26-00-00-ent-sierentz-blotzheim-guebwille
+ r-as-sain@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 ENT SIERENTZ/BLOTZHEIM – GUEBWILLER AS SAINT LEGER - 2
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ ENT SIERENTZ/BLOTZHE
+ IM vs GUEBWILLER AS SAINT LEGER - 2\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 068/competitions/dmu18-6/match/200000014560402
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560402
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-10-03-00-00-bc-st-georges-carspach-1-ent-sie
+ rentz-blo@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BC ST GEORGES CARSPACH - 1 – ENT SIERENTZ/BLOTZHEIM
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPA
+ CH - 1 vs ENT SIERENTZ/BLOTZHEIM\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème
+  Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=
+ 47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu18-6/match/200000014560404
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560404
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-10-10-19-00-basket-club-3-pays-2-ent-sierent
+ z-blotzhe@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20261010T190000
+DTEND;TZID=Europe/Paris:20261010T210000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 2 – ENT SIERENTZ/BLOTZHEIM
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  2 vs ENT SIERENTZ/BLOTZHEIM\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège H
+ égenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-6/ma
+ tch/200000014560408
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560408
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-10-17-00-00-ent-sierentz-blotzheim-as-kayser
+ sberg-amm@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 ENT SIERENTZ/BLOTZHEIM – AS KAYSERSBERG AMMERSCHWIHR BCA
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ ENT SIERENTZ/BLOTZHE
+ IM vs AS KAYSERSBERG AMMERSCHWIHR BCA\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0068/competitions/dmu18-6/match/200000014560412
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560412
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-11-07-00-00-ent-sierentz-blotzheim-colmar-ba
+ sket-3@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 ENT SIERENTZ/BLOTZHEIM – COLMAR BASKET - 3
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ ENT SIERENTZ/BLOTZHE
+ IM vs COLMAR BASKET - 3\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dmu18-6/match/200000014560415
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560415
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-11-14-00-00-guebwiller-as-saint-leger-2-ent-
+ sierentz-@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 2 – ENT SIERENTZ/BLOTZHEIM
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT 
+ LEGER - 2 vs ENT SIERENTZ/BLOTZHEIM\n\nGYMNASE THEODORE DECK\n📍 Rue Th
+ éodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723
+ \,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu18-6/match/200000014560417
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560417
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-11-28-00-00-ent-sierentz-blotzheim-bc-st-geo
+ rges-cars@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 ENT SIERENTZ/BLOTZHEIM – BC ST GEORGES CARSPACH - 1
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ ENT SIERENTZ/BLOTZHE
+ IM vs BC ST GEORGES CARSPACH - 1\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/dmu18-6/match/200000014560419
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560419
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-12-05-00-00-ent-sierentz-blotzheim-basket-cl
+ ub-3-pays@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 ENT SIERENTZ/BLOTZHEIM – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ ENT SIERENTZ/BLOTZHE
+ IM vs BASKET-CLUB 3 PAYS - 2\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu18-6/match/200000014560423
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560423
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-6-ges-haut-rhin-2026-12-12-00-00-as-kaysersberg-ammerschwihr-bca-
+ ent-siere@ffbb-agenda
+DTSTAMP:20260819T080911Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ AS KAYSERSBERG AMMERSCHWIHR BCA – ENT SIERENTZ/BLOTZHEIM
+DESCRIPTION:🏀 DMU18-6 – GES – Haut-Rhin\n⚔️ AS KAYSERSBERG AMMER
+ SCHWIHR BCA vs ENT SIERENTZ/BLOTZHEIM\n\nSALLE THEO FALLER\n📍 Rue des T
+ illeuls Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.
+ 14653\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dmu18-6/match/200000014560427
+LOCATION:SALLE THEO FALLER\, Rue des Tilleuls Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-6/match/200000014560427
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DUKES DE FAMECK  [IDMU13 – GES – Poule C]
+X-WR-CALDESC:Matchs de DUKES DE FAMECK – IDMU13 – GES – Vosges – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-c-2026-09-19-16-00-dukes-de-fameck-basket-club-
+ longwy-re@ffbb-agenda
+DTSTAMP:20260819T081223Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:🏠 DUKES DE FAMECK – BASKET CLUB LONGWY REHON - 2
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule C\n⚔️ DUKES DE FAM
+ ECK vs BASKET CLUB LONGWY REHON - 2\n\nSalle VISOSA\n📍 Rue Antoine de S
+ aint-Exupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6
+ .11256&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions
+ /idmu13/match/200000014626278
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626278
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-c-2026-09-26-14-00-district-basket-rodemack-kan
+ fen-dbrk-@ffbb-agenda
+DTSTAMP:20260819T081223Z
+DTSTART;TZID=Europe/Paris:20260926T140000
+DTEND;TZID=Europe/Paris:20260926T160000
+SUMMARY:✈️ DISTRICT BASKET RODEMACK KANFEN (DBRK) – DUKES DE FAMECK
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule C\n⚔️ DISTRICT BAS
+ KET RODEMACK KANFEN (DBRK) vs DUKES DE FAMECK\n\nESPACE OMNISPORTS\n📍 I
+ mpasse Jean II Rodemack 57570\n🚗 Waze : https://waze.com/ul?ll=49.46949
+ \,6.2398&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitio
+ ns/idmu13/match/200000014626292
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626292
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-c-2026-10-03-13-00-us-silvange-basket-dukes-de-
+ fameck@ffbb-agenda
+DTSTAMP:20260819T081223Z
+DTSTART;TZID=Europe/Paris:20261003T130000
+DTEND;TZID=Europe/Paris:20261003T150000
+SUMMARY:✈️ US SILVANGE BASKET – DUKES DE FAMECK
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule C\n⚔️ US SILVANGE 
+ BASKET vs DUKES DE FAMECK\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Mar
+ ange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu13
+ /match/200000014626303
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626303
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-c-2026-10-10-16-00-dukes-de-fameck-cse-folkling
+ @ffbb-agenda
+DTSTAMP:20260819T081223Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 DUKES DE FAMECK – CSE FOLKLING
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule C\n⚔️ DUKES DE FAM
+ ECK vs CSE FOLKLING\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Exupéry Fa
+ meck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu13/match/20
+ 0000014626313
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626313
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-c-2026-11-07-13-00-asp-ste-marie-aux-chenes-duk
+ es-de-fam@ffbb-agenda
+DTSTAMP:20260819T081223Z
+DTSTART;TZID=Europe/Paris:20261107T130000
+DTEND;TZID=Europe/Paris:20261107T150000
+SUMMARY:✈️ ASP STE MARIE AUX CHENES – DUKES DE FAMECK
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule C\n⚔️ ASP STE MARI
+ E AUX CHENES vs DUKES DE FAMECK\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot S
+ ainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.19465
+ \,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competiti
+ ons/idmu13/match/200000014626325
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626325
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-c-2026-11-21-16-00-dukes-de-fameck-basket-club-
+ hayange-m@ffbb-agenda
+DTSTAMP:20260819T081223Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:🏠 DUKES DE FAMECK – BASKET CLUB HAYANGE MARSPICH
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule C\n⚔️ DUKES DE FAM
+ ECK vs BASKET CLUB HAYANGE MARSPICH\n\nSalle VISOSA\n📍 Rue Antoine de S
+ aint-Exupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6
+ .11256&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions
+ /idmu13/match/200000014626338
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626338
+END:VEVENT
+END:VCALENDAR

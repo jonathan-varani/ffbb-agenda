@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC KUNHEIM - 3  [DM4 – GES – Poule A]
+X-WR-CALDESC:Matchs de BC KUNHEIM - 3 – DM4 – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2026-09-27-09-00-basket-club-3-pays-3-bc-kunh
+ eim-3@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20260927T090000
+DTEND;TZID=Europe/Paris:20260927T110000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 3 – BC KUNHEIM - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BASKET-CLUB 
+ 3 PAYS - 3 vs BC KUNHEIM - 3\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège H
+ égenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/
+ 200000014558999
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014558999
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2026-10-03-00-00-bc-kunheim-3-cssm-altkirch-2
+ @ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BC KUNHEIM - 3 – CSSM ALTKIRCH - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM -
+  3 vs CSSM ALTKIRCH - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 
+ 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000001455
+ 9003
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559003
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2026-10-17-00-00-bc-st-georges-carspach-3-bc-
+ kunheim-3@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ BC ST GEORGES CARSPACH - 3 – BC KUNHEIM - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BC ST GEORGE
+ S CARSPACH - 3 vs BC KUNHEIM - 3\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème
+  Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=
+ 47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dm4/match/200000014559007
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559007
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2026-11-07-00-00-bc-kunheim-3-mustangs-associ
+ ation-4@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BC KUNHEIM - 3 – MUSTANGS ASSOCIATION - 4
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM -
+  3 vs MUSTANGS ASSOCIATION - 4\n\nSALLE DES SPORTS\n📍 Rue Jules Verne K
+ unheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/2000
+ 00014559015
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559015
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2026-11-14-00-00-union-sportive-flaxlanden-2-
+ bc-kunhei@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ UNION SPORTIVE FLAXLANDEN - 2 – BC KUNHEIM - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ UNION SPORTI
+ VE FLAXLANDEN - 2 vs BC KUNHEIM - 3\n\nSALLE DE SPORT\n📍 Allée des Noy
+ ers Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?ll=47.69174\,7.32584
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/m
+ atch/200000014559021
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559021
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2026-11-22-14-00-basket-club-illzach-3-bc-kun
+ heim-3@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20261122T140000
+DTEND;TZID=Europe/Paris:20261122T160000
+SUMMARY:✈️ BASKET CLUB ILLZACH - 3 – BC KUNHEIM - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BASKET CLUB 
+ ILLZACH - 3 vs BC KUNHEIM - 3\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illza
+ ch 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/2000000
+ 14559024
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559024
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2026-12-05-00-00-cb-kientzheim-2-bc-kunheim-3
+ @ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ CB KIENTZHEIM - 2 – BC KUNHEIM - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ CB KIENTZHEI
+ M - 2 vs BC KUNHEIM - 3\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kaysers
+ berg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/mat
+ ch/200000014559030
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559030
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2026-12-12-00-00-bc-kunheim-3-ie-ctc-thur-dol
+ ler-baske@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BC KUNHEIM - 3 – IE - CTC THUR DOLLER BASKET CLUB - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM -
+  3 vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nSALLE DES SPORTS\n📍 Rue J
+ ules Verne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53
+ 638&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ 4/match/200000014559034
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559034
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2027-01-23-00-00-bc-kunheim-3-basket-club-3-p
+ ays-3@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 BC KUNHEIM - 3 – BASKET-CLUB 3 PAYS - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM -
+  3 vs BASKET-CLUB 3 PAYS - 3\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kun
+ heim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/200000
+ 014559044
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559044
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2027-02-06-00-00-cssm-altkirch-2-bc-kunheim-3
+ @ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:✈️ CSSM ALTKIRCH - 2 – BC KUNHEIM - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ CSSM ALTKIRC
+ H - 2 vs BC KUNHEIM - 3\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altkirch 
+ 68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000001455
+ 9048
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559048
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2027-02-13-00-00-bc-kunheim-3-bc-st-georges-c
+ arspach-3@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 BC KUNHEIM - 3 – BC ST GEORGES CARSPACH - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM -
+  3 vs BC ST GEORGES CARSPACH - 3\n\nSALLE DES SPORTS\n📍 Rue Jules Verne
+  Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20
+ 0000014559052
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559052
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2027-03-14-09-00-mustangs-association-4-bc-ku
+ nheim-3@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20270314T090000
+DTEND;TZID=Europe/Paris:20270314T110000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 4 – BC KUNHEIM - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ MUSTANGS ASS
+ OCIATION - 4 vs BC KUNHEIM - 3\n\nSALLE POLYVALENTE\n📍 Rue de Kingershe
+ im Pfastatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/matc
+ h/200000014559060
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559060
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2027-03-20-00-00-bc-kunheim-3-union-sportive-
+ flaxlande@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:🏠 BC KUNHEIM - 3 – UNION SPORTIVE FLAXLANDEN - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM -
+  3 vs UNION SPORTIVE FLAXLANDEN - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Ve
+ rne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match
+ /200000014559066
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559066
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2027-04-03-00-00-bc-kunheim-3-basket-club-ill
+ zach-3@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:🏠 BC KUNHEIM - 3 – BASKET CLUB ILLZACH - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM -
+  3 vs BASKET CLUB ILLZACH - 3\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Ku
+ nheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000
+ 0014559069
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559069
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2027-04-10-00-00-bc-kunheim-3-cb-kientzheim-2
+ @ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 BC KUNHEIM - 3 – CB KIENTZHEIM - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM -
+  3 vs CB KIENTZHEIM - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 
+ 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000001455
+ 9075
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559075
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-a-2027-05-09-00-00-ie-ctc-thur-doller-basket-cl
+ ub-3-bc-k@ffbb-agenda
+DTSTAMP:20260819T080844Z
+DTSTART;TZID=Europe/Paris:20270509T000000
+DTEND;TZID=Europe/Paris:20270509T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 3 – BC KUNHEIM - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 3 vs BC KUNHEIM - 3\n\nSALLE POLYVALENTE\n📍 Rue 
+ de la Grande Armée Willer-sur-Thur 68760\n🚗 Waze : https://waze.com/ul
+ ?ll=47.84454\,7.06851&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/dm4/match/200000014559079
+LOCATION:SALLE POLYVALENTE\, Rue de la Grande Armée Willer-sur-Thur 68760
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559079
+END:VEVENT
+END:VCALENDAR

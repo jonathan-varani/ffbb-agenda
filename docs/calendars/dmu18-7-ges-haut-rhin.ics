@@ -1,0 +1,507 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DMU18-7 – GES – Haut-Rhin
+X-WR-CALDESC:Tous les matchs DMU18-7 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-09-26-00-00-ie-ctc-jura-alsacien-basket-2-bc
+ -st-georg@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:IE - CTC JURA ALSACIEN BASKET - 2 – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACI
+ EN BASKET - 2 vs BC ST GEORGES CARSPACH - 2\n\nGYMNASE DU COLLEGE\n📍 Ru
+ e Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.5014
+ 4\,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dmu18-7/match/200000014560591
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560591
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-09-26-00-00-basket-nord-sundgau-3-richwiller
+ -union-sp@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:BASKET NORD SUNDGAU - 3 – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 3 vs RICHWILLER UNION SPORTIVE\n\nPOLY ILLFURTH\n📍 Route de Spechbach
+  Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/ma
+ tch/200000014560593
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560593
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-09-26-16-30-as-attenschwiller-2-bc-kunheim@f
+ fbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20260926T163000
+DTEND;TZID=Europe/Paris:20260926T183000
+SUMMARY:AS ATTENSCHWILLER - 2 – BC KUNHEIM
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ AS ATTENSCHWILLER - 
+ 2 vs BC KUNHEIM\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gaulle Attenschw
+ iller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.45741&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/
+ 200000014560590
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560590
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-09-26-19-30-colmar-basket-4-ie-ctc-thur-doll
+ er-basket@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20260926T193000
+DTEND;TZID=Europe/Paris:20260926T213000
+SUMMARY:COLMAR BASKET - 4 – IE - CTC THUR DOLLER BASKET CLUB - 3
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 4 vs
+  IE - CTC THUR DOLLER BASKET CLUB - 3\n\nGYMNASE ST EXUPERY\n📍 Rue de V
+ arsovie Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18
+ -7/match/200000014560592
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560592
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-03-00-00-bc-st-georges-carspach-2-as-atte
+ nschwille@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:BC ST GEORGES CARSPACH - 2 – AS ATTENSCHWILLER - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPA
+ CH - 2 vs AS ATTENSCHWILLER - 2\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème 
+ Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu18-7/match/200000014560595
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560595
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-03-00-00-bc-kunheim-basket-nord-sundgau-3
+ @ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:BC KUNHEIM – BASKET NORD SUNDGAU - 3
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC KUNHEIM vs BASKET
+  NORD SUNDGAU - 3\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\
+ n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/2000000145605
+ 94
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560594
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-03-00-00-ie-ctc-thur-doller-basket-club-3
+ -ie-ctc-j@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 3 – IE - CTC JURA ALSACIEN BAS
+ KET - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 3 vs IE - CTC JURA ALSACIEN BASKET - 2\n\nCENTRE SPORTIF BO
+ URGER\n📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : https://
+ waze.com/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0068/competitions/dmu18-7/match/200000014560596
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560596
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-03-17-45-richwiller-union-sportive-colmar
+ -basket-4@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261003T174500
+DTEND;TZID=Europe/Paris:20261003T194500
+SUMMARY:RICHWILLER UNION SPORTIVE – COLMAR BASKET - 4
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ RICHWILLER UNION SPO
+ RTIVE vs COLMAR BASKET - 4\n\nSALLE JEAN-MARIE PFEFFER\n📍 Rue de la For
+ êt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78251\,7.27582
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18
+ -7/match/200000014560597
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560597
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-10-00-00-basket-nord-sundgau-3-bc-st-geor
+ ges-carsp@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:BASKET NORD SUNDGAU - 3 – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 3 vs BC ST GEORGES CARSPACH - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbac
+ h Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/m
+ atch/200000014560601
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560601
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-10-00-00-ie-ctc-jura-alsacien-basket-2-ri
+ chwiller-@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:IE - CTC JURA ALSACIEN BASKET - 2 – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACI
+ EN BASKET - 2 vs RICHWILLER UNION SPORTIVE\n\nGYMNASE DU COLLEGE\n📍 Rue
+  Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144
+ \,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu18-7/match/200000014560599
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560599
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-10-18-00-as-attenschwiller-2-ie-ctc-thur-
+ doller-ba@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:AS ATTENSCHWILLER - 2 – IE - CTC THUR DOLLER BASKET CLUB - 3
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ AS ATTENSCHWILLER - 
+ 2 vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nSALLE POLYVALENTE\n📍 Rue C
+ harles de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=
+ 47.56918\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu18-7/match/200000014560598
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560598
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-10-19-30-colmar-basket-4-bc-kunheim@ffbb-
+ agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261010T193000
+DTEND;TZID=Europe/Paris:20261010T213000
+SUMMARY:COLMAR BASKET - 4 – BC KUNHEIM
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 4 vs
+  BC KUNHEIM\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar 68000\n
+ 🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/2000000145606
+ 00
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560600
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-07-00-00-ie-ctc-thur-doller-basket-club-3
+ -basket-n@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 3 – BASKET NORD SUNDGAU - 3
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 3 vs BASKET NORD SUNDGAU - 3\n\nCENTRE SPORTIF BOURGER\n
+ 📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : https://waze.co
+ m/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0068/competitions/dmu18-7/match/200000014560602
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560602
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-07-00-00-bc-kunheim-ie-ctc-jura-alsacien-
+ basket-2@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:BC KUNHEIM – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC KUNHEIM vs IE - C
+ TC JURA ALSACIEN BASKET - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunh
+ eim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/200
+ 000014560604
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560604
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-07-00-00-bc-st-georges-carspach-2-colmar-
+ basket-4@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:BC ST GEORGES CARSPACH - 2 – COLMAR BASKET - 4
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPA
+ CH - 2 vs COLMAR BASKET - 4\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Rég
+ iment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47.62
+ 416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/dmu18-7/match/200000014560605
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560605
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-07-16-00-richwiller-union-sportive-as-att
+ enschwill@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:RICHWILLER UNION SPORTIVE – AS ATTENSCHWILLER - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ RICHWILLER UNION SPO
+ RTIVE vs AS ATTENSCHWILLER - 2\n\nSALLE JEAN-MARIE PFEFFER\n📍 Rue de la
+  Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78251\,7.2
+ 7582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ mu18-7/match/200000014560603
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560603
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-14-00-00-basket-nord-sundgau-3-as-attensc
+ hwiller-2@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:BASKET NORD SUNDGAU - 3 – AS ATTENSCHWILLER - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 3 vs AS ATTENSCHWILLER - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach Ill
+ furth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/
+ 200000014560606
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560606
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-14-00-00-bc-kunheim-bc-st-georges-carspac
+ h-2@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:BC KUNHEIM – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC KUNHEIM vs BC ST 
+ GEORGES CARSPACH - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 683
+ 20\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/20000001
+ 4560607
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560607
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-14-17-30-colmar-basket-4-ie-ctc-jura-alsa
+ cien-bask@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261114T173000
+DTEND;TZID=Europe/Paris:20261114T193000
+SUMMARY:COLMAR BASKET - 4 – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 4 vs
+  IE - CTC JURA ALSACIEN BASKET - 2\n\nGYMNASE CAMILLE SEE\n📍 Avenue de 
+ l'Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.3258
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560609
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560609
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-14-18-00-richwiller-union-sportive-ie-ctc
+ -thur-dol@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:RICHWILLER UNION SPORTIVE – IE - CTC THUR DOLLER BASKET CLUB - 3
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ RICHWILLER UNION SPO
+ RTIVE vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nSALLE JEAN-MARIE PFEFFER\
+ n📍 Rue de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?l
+ l=47.78251\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/dmu18-7/match/200000014560608
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560608
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-28-00-00-ie-ctc-jura-alsacien-basket-2-ba
+ sket-nord@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:IE - CTC JURA ALSACIEN BASKET - 2 – BASKET NORD SUNDGAU - 3
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACI
+ EN BASKET - 2 vs BASKET NORD SUNDGAU - 3\n\nGYMNASE DU COLLEGE\n📍 Rue A
+ lphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,
+ 7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dmu18-7/match/200000014560610
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560610
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-28-00-00-ie-ctc-thur-doller-basket-club-3
+ -bc-kunhe@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 3 – BC KUNHEIM
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 3 vs BC KUNHEIM\n\nCENTRE SPORTIF BOURGER\n📍 Place de la
+  Halle des Sports Thann 68800\n🚗 Waze : https://waze.com/ul?ll=47.80333
+ \,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu18-7/match/200000014560613
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560613
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-28-00-00-as-attenschwiller-2-colmar-baske
+ t-4@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:AS ATTENSCHWILLER - 2 – COLMAR BASKET - 4
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ AS ATTENSCHWILLER - 
+ 2 vs COLMAR BASKET - 4\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gaulle At
+ tenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.45741&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7
+ /match/200000014560612
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560612
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-28-00-00-bc-st-georges-carspach-2-richwil
+ ler-union@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:BC ST GEORGES CARSPACH - 2 – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPA
+ CH - 2 vs RICHWILLER UNION SPORTIVE\n\nGYMNASE PLESSIER\n📍 Avenue du 8
+ ème Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul
+ ?ll=47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/dmu18-7/match/200000014560611
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560611
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-12-12-00-00-basket-nord-sundgau-3-colmar-bas
+ ket-4@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:BASKET NORD SUNDGAU - 3 – COLMAR BASKET - 4
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 3 vs COLMAR BASKET - 4\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurt
+ h 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/2000
+ 00014560614
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560614
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-12-12-00-00-ie-ctc-jura-alsacien-basket-2-as
+ -attensch@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:IE - CTC JURA ALSACIEN BASKET - 2 – AS ATTENSCHWILLER - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACI
+ EN BASKET - 2 vs AS ATTENSCHWILLER - 2\n\nGYMNASE DU COLLEGE\n📍 Rue Alp
+ honse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.
+ 31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dmu18-7/match/200000014560616
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560616
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-12-12-00-00-bc-kunheim-richwiller-union-spor
+ tive@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:BC KUNHEIM – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC KUNHEIM vs RICHWI
+ LLER UNION SPORTIVE\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 6832
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/20000001
+ 4560615
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560615
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-12-12-00-00-bc-st-georges-carspach-2-ie-ctc-
+ thur-doll@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:BC ST GEORGES CARSPACH - 2 – IE - CTC THUR DOLLER BASKET CLUB - 3
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPA
+ CH - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nGYMNASE PLESSIER\n📍 A
+ venue du 8ème Régiment de Hussards Altkirch 68130\n🚗 Waze : https://w
+ aze.com/ul?ll=47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0068/competitions/dmu18-7/match/200000014560617
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560617
+END:VEVENT
+END:VCALENDAR

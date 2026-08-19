@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB MOERNACH  [DFU13 – GES]
+X-WR-CALDESC:Matchs de BASKET CLUB MOERNACH – DFU13 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-09-12-14-00-cssl-sausheim-1-basket-club-moerna
+ ch@ffbb-agenda
+DTSTAMP:20260819T080751Z
+DTSTART;TZID=Europe/Paris:20260912T140000
+DTEND;TZID=Europe/Paris:20260912T160000
+SUMMARY:✈️ CSSL SAUSHEIM - 1 – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 1 vs B
+ ASKET CLUB MOERNACH\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 68390
+ \n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13/match/2000000145
+ 58364
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558364
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-09-26-14-00-ie-ctc-de-la-hardt-basket-club-moe
+ rnach@ffbb-agenda
+DTSTAMP:20260819T080751Z
+DTSTART;TZID=Europe/Paris:20260926T140000
+DTEND;TZID=Europe/Paris:20260926T160000
+SUMMARY:✈️ IE - CTC DE LA HARDT – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ IE - CTC DE LA HARDT v
+ s BASKET CLUB MOERNACH\n\nSALLE DES SPORTS\n📍 Route Nationale Rumershei
+ m-le-Haut 68740\n🚗 Waze : https://waze.com/ul?ll=47.85101\,7.51746&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13/matc
+ h/200000014558380
+LOCATION:SALLE DES SPORTS\, Route Nationale Rumersheim-le-Haut 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558380
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-10-03-00-00-berrwiller-staffelfelden-bc-2-bask
+ et-club-m@ffbb-agenda
+DTSTAMP:20260819T080751Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 2 – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFELD
+ EN BC - 2 vs BASKET CLUB MOERNACH\n\nSALLE DES SPORTS\n📍 Rue de Hartman
+ nswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\,7.
+ 21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dfu13/match/200000014558390
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558390
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-10-10-00-00-basket-club-moernach-bc-kunheim-1@
+ ffbb-agenda
+DTSTAMP:20260819T080751Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH – BC KUNHEIM - 1
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH v
+ s BC KUNHEIM - 1\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Ferrant Moernach
+  68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13/match/2000000
+ 14558400
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558400
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-10-17-00-00-basket-club-moernach-cssl-sausheim
+ -1@ffbb-agenda
+DTSTAMP:20260819T080751Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH – CSSL SAUSHEIM - 1
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH v
+ s CSSL SAUSHEIM - 1\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Ferrant Moern
+ ach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13/match/2000
+ 00014558409
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558409
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-11-07-00-00-basket-club-moernach-ie-ctc-de-la-
+ hardt@ffbb-agenda
+DTSTAMP:20260819T080751Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH – IE - CTC DE LA HARDT
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH v
+ s IE - CTC DE LA HARDT\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Ferrant Mo
+ ernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13/match/2
+ 00000014558425
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558425
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-11-21-00-00-basket-club-moernach-berrwiller-st
+ affelfeld@ffbb-agenda
+DTSTAMP:20260819T080751Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH v
+ s BERRWILLER/STAFFELFELDEN BC - 2\n\nSALLE DE SPORT\n📍 Rue du Maréchal
+ -Ferrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25
+ 416&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df
+ u13/match/200000014558435
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558435
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-11-28-00-00-bc-kunheim-1-basket-club-moernach@
+ ffbb-agenda
+DTSTAMP:20260819T080751Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ BC KUNHEIM - 1 – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 1 vs BASK
+ ET CLUB MOERNACH\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\n
+ 🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0068/competitions/dfu13/match/200000014558445
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558445
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – COLMAR BASKET  [DFU18-2 – GES]
+X-WR-CALDESC:Matchs de COLMAR BASKET – DFU18-2 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-2-ges-haut-rhin-2026-09-26-00-00-basket-nord-sundgau-2-colmar-bas
+ ket@ffbb-agenda
+DTSTAMP:20260819T080726Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 2 – COLMAR BASKET
+DESCRIPTION:🏀 DFU18-2 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 2 vs COLMAR BASKET\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 68
+ 720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18-2/match/20000001
+ 4558595
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8-2/match/200000014558595
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-haut-rhin-2026-10-03-00-00-colmar-basket-pantheres-mulhouse
+ -basket-a@ffbb-agenda
+DTSTAMP:20260819T080726Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 COLMAR BASKET – PANTHERES MULHOUSE BASKET ALSACE - 3
+DESCRIPTION:🏀 DFU18-2 – GES – Haut-Rhin\n⚔️ COLMAR BASKET vs PAN
+ THERES MULHOUSE BASKET ALSACE - 3\n\nGYMNASE PFEFFEL\n📍 Rue de la Bagat
+ elle Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18-2/
+ match/200000014558599
+LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8-2/match/200000014558599
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-haut-rhin-2026-10-10-00-00-ie-ctc-jura-alsacien-basket-2-co
+ lmar-bask@ffbb-agenda
+DTSTAMP:20260819T080726Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 2 – COLMAR BASKET
+DESCRIPTION:🏀 DFU18-2 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACI
+ EN BASKET - 2 vs COLMAR BASKET\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse Je
+ nn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18-2/
+ match/200000014558603
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8-2/match/200000014558603
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-haut-rhin-2026-10-17-00-00-colmar-basket-as-attenschwiller@
+ ffbb-agenda
+DTSTAMP:20260819T080726Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 COLMAR BASKET – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DFU18-2 – GES – Haut-Rhin\n⚔️ COLMAR BASKET vs AS 
+ ATTENSCHWILLER\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar 6800
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18-2/match/20000001
+ 4558607
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8-2/match/200000014558607
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-haut-rhin-2026-11-07-19-15-berrwiller-staffelfelden-bc-3-co
+ lmar-bask@ffbb-agenda
+DTSTAMP:20260819T080726Z
+DTSTART;TZID=Europe/Paris:20261107T191500
+DTEND;TZID=Europe/Paris:20261107T211500
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 3 – COLMAR BASKET
+DESCRIPTION:🏀 DFU18-2 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFE
+ LDEN BC - 3 vs COLMAR BASKET\n\nSALLE DES SPORTS\n📍 Rue de Hartmannswil
+ ler Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\,7.21998
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18
+ -2/match/200000014558615
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8-2/match/200000014558615
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-haut-rhin-2026-11-14-00-00-colmar-basket-ie-ctc-de-l-ill@ff
+ bb-agenda
+DTSTAMP:20260819T080726Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 COLMAR BASKET – IE - CTC DE L'ILL
+DESCRIPTION:🏀 DFU18-2 – GES – Haut-Rhin\n⚔️ COLMAR BASKET vs IE 
+ - CTC DE L'ILL\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar 6800
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18-2/match/20000001
+ 4558619
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8-2/match/200000014558619
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-haut-rhin-2026-11-21-00-00-colmar-basket-cb-kientzheim-2@ff
+ bb-agenda
+DTSTAMP:20260819T080726Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 COLMAR BASKET – CB KIENTZHEIM - 2
+DESCRIPTION:🏀 DFU18-2 – GES – Haut-Rhin\n⚔️ COLMAR BASKET vs CB 
+ KIENTZHEIM - 2\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar 6800
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18-2/match/20000001
+ 4558626
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8-2/match/200000014558626
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-haut-rhin-2026-12-05-17-00-basket-club-illzach-colmar-baske
+ t@ffbb-agenda
+DTSTAMP:20260819T080726Z
+DTSTART;TZID=Europe/Paris:20261205T170000
+DTEND;TZID=Europe/Paris:20261205T190000
+SUMMARY:✈️ BASKET CLUB ILLZACH – COLMAR BASKET
+DESCRIPTION:🏀 DFU18-2 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ vs COLMAR BASKET\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 68110\n
+ 🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dfu18-2/match/2000000145586
+ 30
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8-2/match/200000014558630
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-haut-rhin-2026-12-12-16-30-fcsl-eguisheim-2-colmar-basket@f
+ fbb-agenda
+DTSTAMP:20260819T080726Z
+DTSTART;TZID=Europe/Paris:20261212T163000
+DTEND;TZID=Europe/Paris:20261212T183000
+SUMMARY:✈️ FCSL EGUISHEIM - 2 – COLMAR BASKET
+DESCRIPTION:🏀 DFU18-2 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM - 2 v
+ s COLMAR BASKET\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinterzarten Eg
+ uisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31428&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18-2/matc
+ h/200000014558635
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8-2/match/200000014558635
+END:VEVENT
+END:VCALENDAR

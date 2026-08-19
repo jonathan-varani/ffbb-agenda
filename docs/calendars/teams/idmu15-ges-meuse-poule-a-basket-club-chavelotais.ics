@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB CHAVELOTAIS  [IDMU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB CHAVELOTAIS – IDMU15 – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-09-19-15-00-as-haut-du-lievre-nancy-baske
+ t-club-ch@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20260919T150000
+DTEND;TZID=Europe/Paris:20260919T170000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
+ EVRE  NANCY vs BASKET CLUB CHAVELOTAIS\n\nGYMNASE BUFFON\n📍 Rue Dominiq
+ ue Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.15411
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu1
+ 5/match/200000014610468
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610468
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-09-26-15-30-basket-club-chavelotais-ludre
+ s-pont-st@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20260926T153000
+DTEND;TZID=Europe/Paris:20260926T173000
+SUMMARY:🏠 BASKET CLUB CHAVELOTAIS – LUDRES PONT ST VINCENT BASKET CL
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ BASKET CLUB C
+ HAVELOTAIS vs LUDRES PONT ST VINCENT BASKET CL\n\nSALLE DES SPORTS\n📍 P
+ lace de la République Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll=
+ 48.23758\,6.43697&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idmu15/match/200000014610479
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610479
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-10-03-16-00-sluc-nancy-basket-association
+ -1-basket@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – BASKET CLUB CHAVELOTAI
+ S
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 1 vs BASKET CLUB CHAVELOTAIS\n\nGYMNASE LOUIS ARMAND\n
+ 📍 Rue des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48
+ .67025\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idmu15/match/200000014610490
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610490
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-10-10-15-30-basket-club-chavelotais-baske
+ t-club-go@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:🏠 BASKET CLUB CHAVELOTAIS – BASKET CLUB GOLBEY EPINAL
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ BASKET CLUB C
+ HAVELOTAIS vs BASKET CLUB GOLBEY EPINAL\n\nSALLE DES SPORTS\n📍 Place de
+  la République Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll=48.2375
+ 8\,6.43697&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competit
+ ions/idmu15/match/200000014610504
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610504
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-11-07-15-30-basket-club-chavelotais-saint
+ -die-vosg@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261107T153000
+DTEND;TZID=Europe/Paris:20261107T173000
+SUMMARY:🏠 BASKET CLUB CHAVELOTAIS – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ BASKET CLUB C
+ HAVELOTAIS vs SAINT DIE VOSGES BASKET\n\nSALLE DES SPORTS\n📍 Place de l
+ a République Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll=48.23758\
+ ,6.43697&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitio
+ ns/idmu15/match/200000014610516
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610516
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-11-14-15-00-cslb-bar-le-duc-basket-club-c
+ havelotai@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261114T150000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:✈️ CSLB BAR LE DUC – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ CSLB BAR LE D
+ UC vs BASKET CLUB CHAVELOTAIS\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'
+ École Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.763
+ 6\,5.1546&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competiti
+ ons/idmu15/match/200000014610528
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610528
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-11-21-15-30-basket-club-chavelotais-mjc-a
+ ncerville@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261121T153000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:🏠 BASKET CLUB CHAVELOTAIS – MJC ANCERVILLE
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ BASKET CLUB C
+ HAVELOTAIS vs MJC ANCERVILLE\n\nSALLE DES SPORTS\n📍 Place de la Républ
+ ique Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll=48.23758\,6.43697&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15
+ /match/200000014610540
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610540
+END:VEVENT
+END:VCALENDAR

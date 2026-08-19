@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASCA WITTELSHEIM  [DF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de ASCA WITTELSHEIM – DF2 – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-19-00-00-ie-ctc-jura-alsacien-basket-
+ 2-asca-wi@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 2 – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC JUR
+ A ALSACIEN BASKET - 2 vs ASCA WITTELSHEIM\n\nGYMNASE DU COLLEGE\n📍 Rue 
+ Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\
+ ,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/df2/match/200000014558199
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558199
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-26-18-30-asca-wittelsheim-bc-kunheim@
+ ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260926T183000
+DTEND;TZID=Europe/Paris:20260926T203000
+SUMMARY:🏠 ASCA WITTELSHEIM – BC KUNHEIM
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASCA WITTELS
+ HEIM vs BC KUNHEIM\n\nSALLE AMELIE ZURCHER\n📍 Rue de la 2ème D.I.M. Wi
+ ttelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.80135\,7.23869&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/match/
+ 200000014558203
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558203
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-10-11-10-30-basket-club-illzach-asca-wit
+ telsheim@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261011T103000
+DTEND;TZID=Europe/Paris:20261011T123000
+SUMMARY:✈️ BASKET CLUB ILLZACH – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ BASKET CLUB 
+ ILLZACH vs ASCA WITTELSHEIM\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach
+  68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/match/200000014
+ 558209
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558209
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-07-18-00-asca-wittelsheim-ie-ctc-thur
+ -doller-b@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:🏠 ASCA WITTELSHEIM – IE - CTC THUR DOLLER BASKET CLUB - 3
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASCA WITTELS
+ HEIM vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nSALLE AMELIE ZURCHER\n📍
+  Rue de la 2ème D.I.M. Wittelsheim 68310\n🚗 Waze : https://waze.com/ul
+ ?ll=47.80135\,7.23869&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/df2/match/200000014558213
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558213
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-14-18-30-asca-wittelsheim-as-wickersc
+ hwihr@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261114T183000
+DTEND;TZID=Europe/Paris:20261114T203000
+SUMMARY:🏠 ASCA WITTELSHEIM – AS WICKERSCHWIHR
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASCA WITTELS
+ HEIM vs AS WICKERSCHWIHR\n\nSALLE AMELIE ZURCHER\n📍 Rue de la 2ème D.I
+ .M. Wittelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.80135\,7.2386
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558216
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558216
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-05-00-00-asc-ste-afre-riedisheim-2-as
+ ca-wittel@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 2 – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASC STE AFRE
+  RIEDISHEIM - 2 vs ASCA WITTELSHEIM\n\nGYMNASE BARTHOLDI\n📍 Rue du Rév
+ érend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=
+ 47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/df2/match/200000014558222
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558222
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-12-18-00-asca-wittelsheim-asc-saint-r
+ omain-rei@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:🏠 ASCA WITTELSHEIM – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASCA WITTELS
+ HEIM vs ASC SAINT ROMAIN REININGUE\n\nSALLE PIERRE ALBOUY\n📍 Rue de Rei
+ ningue Wittelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.79763\,7.2
+ 3188&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ f2/match/200000014558224
+LOCATION:SALLE PIERRE ALBOUY\, Rue de Reiningue Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558224
+END:VEVENT
+END:VCALENDAR

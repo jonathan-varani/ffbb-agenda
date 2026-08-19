@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC KUNHEIM - 1  [PRM – GES – Poule Unique]
+X-WR-CALDESC:Matchs de BC KUNHEIM - 1 – PRM – GES – Haut-Rhin – Poule Unique
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-09-20-17-00-cssl-rixheim-2-bc-kunhe
+ im-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20260920T170000
+DTEND;TZID=Europe/Paris:20260920T190000
+SUMMARY:✈️ CSSL RIXHEIM - 2 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ CSSL RI
+ XHEIM - 2 vs BC KUNHEIM - 1\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixhe
+ im 68170\n🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/2000000
+ 14561086
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561086
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-09-26-00-00-bc-kunheim-1-colmar-bas
+ ket-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs COLMAR BASKET - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kun
+ heim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/200000
+ 014561091
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561091
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-10-02-21-00-csc-rustenhart-1-bc-kun
+ heim-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261002T210000
+DTEND;TZID=Europe/Paris:20261002T230000
+SUMMARY:✈️ CSC RUSTENHART - 1 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ CSC RUS
+ TENHART - 1 vs BC KUNHEIM - 1\n\nSALLE POLYVALENTE\n📍 Rue des Violettes
+  Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/
+ 200000014561096
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561096
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-10-17-00-00-bc-kunheim-1-basket-nor
+ d-sundgau@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs BASKET NORD SUNDGAU - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Ver
+ ne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/
+ 200000014561101
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561101
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-11-08-10-00-mustangs-association-3-
+ bc-kunhei@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261108T100000
+DTEND;TZID=Europe/Paris:20261108T120000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 3 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ MUSTANG
+ S ASSOCIATION - 3 vs BC KUNHEIM - 1\n\nSALLE POLYVALENTE\n📍 Rue de King
+ ersheim Pfastatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.307
+ 77&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm
+ /match/200000014561112
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561112
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-11-14-00-00-bc-kunheim-1-ie-ctc-thu
+ r-doller-@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – IE - CTC THUR DOLLER BASKET CLUB - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nSALLE DES SPORTS\n📍 
+ Rue Jules Verne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\
+ ,7.53638&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/prm/match/200000014561117
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561117
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-11-21-00-00-bc-kunheim-1-fcsl-eguis
+ heim-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – FCSL EGUISHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs FCSL EGUISHEIM - 1\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Ku
+ nheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/20000
+ 0014561124
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561124
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-12-05-20-00-abc-lutterbach-1-bc-kun
+ heim-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ ABC LUTTERBACH - 1 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ ABC LUT
+ TERBACH - 1 vs BC KUNHEIM - 1\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterba
+ ch 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/2000000
+ 14561129
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561129
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-12-12-00-00-bc-kunheim-1-asl-dessen
+ heim-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs ASL DESSENHEIM - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Ku
+ nheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/20000
+ 0014561134
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561134
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-12-19-00-00-guebwiller-as-saint-leg
+ er-1-bc-k@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 1 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ GUEBWIL
+ LER AS SAINT LEGER - 1 vs BC KUNHEIM - 1\n\nGYMNASE THEODORE DECK\n📍 Ru
+ e Théodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.9
+ 0723\,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/prm/match/200000014561142
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561142
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-01-16-00-00-bc-kunheim-1-basket-clu
+ b-de-king@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – BASKET CLUB DE KINGERSHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs BASKET CLUB DE KINGERSHEIM - 1\n\nSALLE DES SPORTS\n📍 Rue Ju
+ les Verne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.536
+ 38&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm
+ /match/200000014561148
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561148
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-01-23-00-00-bc-kunheim-1-cssl-rixhe
+ im-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – CSSL RIXHEIM - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs CSSL RIXHEIM - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunh
+ eim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/2000000
+ 14561152
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561152
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-02-06-00-00-colmar-basket-2-bc-kunh
+ eim-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:✈️ COLMAR BASKET - 2 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs BC KUNHEIM - 1\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Euro
+ pe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/
+ 200000014561157
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561157
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-02-13-00-00-bc-kunheim-1-csc-rusten
+ hart-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – CSC RUSTENHART - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs CSC RUSTENHART - 1\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Ku
+ nheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/20000
+ 0014561162
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561162
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-03-13-00-00-basket-nord-sundgau-2-b
+ c-kunheim@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 2 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs BC KUNHEIM - 1\n\nPOLY ILLFURTH\n📍 Route de Spechba
+ ch Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/matc
+ h/200000014561167
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561167
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-03-20-00-00-bc-kunheim-1-mustangs-a
+ ssociatio@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – MUSTANGS ASSOCIATION - 3
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs MUSTANGS ASSOCIATION - 3\n\nSALLE DES SPORTS\n📍 Rue Jules Ve
+ rne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match
+ /200000014561178
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561178
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-04-03-00-00-ie-ctc-thur-doller-bask
+ et-club-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 1 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ IE - CT
+ C THUR DOLLER BASKET CLUB - 1 vs BC KUNHEIM - 1\n\nCENTRE SPORTIF BOURGER\
+ n📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : https://waze.c
+ om/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0068/competitions/prm/match/200000014561183
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561183
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-04-10-20-30-fcsl-eguisheim-1-bc-kun
+ heim-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM - 1 vs BC KUNHEIM - 1\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de H
+ interzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,
+ 7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/prm/match/200000014561190
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561190
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-04-17-00-00-bc-kunheim-1-abc-lutter
+ bach-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270417T000000
+DTEND;TZID=Europe/Paris:20270417T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – ABC LUTTERBACH - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs ABC LUTTERBACH - 1\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Ku
+ nheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/20000
+ 0014561195
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561195
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-05-15-00-00-asl-dessenheim-2-bc-kun
+ heim-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ ASL DESSENHEIM - 2 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ ASL DES
+ SENHEIM - 2 vs BC KUNHEIM - 1\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colm
+ ar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/ma
+ tch/200000014561200
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561200
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-05-22-00-00-bc-kunheim-1-guebwiller
+ -as-saint@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – GUEBWILLER AS SAINT LEGER - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs GUEBWILLER AS SAINT LEGER - 1\n\nSALLE DES SPORTS\n📍 Rue Jul
+ es Verne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.5363
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561208
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561208
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-05-29-20-30-basket-club-de-kingersh
+ eim-1-bc-@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270529T203000
+DTEND;TZID=Europe/Paris:20270529T223000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM - 1 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ CLUB DE KINGERSHEIM - 1 vs BC KUNHEIM - 1\n\nCOSEC KINGERSHEIM\n📍 Rue P
+ ierre de Coubertin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.78757\,7.32801&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/prm/match/200000014561214
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561214
+END:VEVENT
+END:VCALENDAR

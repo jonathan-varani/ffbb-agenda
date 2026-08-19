@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB SIERENTZ  [DMU18-5 – GES]
+X-WR-CALDESC:Matchs de BASKET CLUB SIERENTZ – DMU18-5 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-12-16-00-cssl-sausheim-1-basket-club-sier
+ entz@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20260912T160000
+DTEND;TZID=Europe/Paris:20260912T180000
+SUMMARY:✈️ CSSL SAUSHEIM - 1 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 1 vs
+  BASKET CLUB SIERENTZ\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 683
+ 90\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/20000001
+ 4560058
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560058
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-19-18-00-basket-club-sierentz-basket-club
+ -de-kinge@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – BASKET CLUB DE KINGERSHEIM - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET CLUB SIERENTZ
+  vs BASKET CLUB DE KINGERSHEIM - 1\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg
+ -Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18
+ -5/match/200000014560062
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560062
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-26-19-30-colmar-basket-1-basket-club-sier
+ entz@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20260926T193000
+DTEND;TZID=Europe/Paris:20260926T213000
+SUMMARY:✈️ COLMAR BASKET - 1 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 1 vs
+  BASKET CLUB SIERENTZ\n\nGYMNASE PFEFFEL\n📍 Rue de la Bagatelle Colmar 
+ 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/200000
+ 014560064
+LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560064
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-03-18-00-basket-club-sierentz-ie-ctc-jura
+ -alsacien@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – IE - CTC JURA ALSACIEN BASKET - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET CLUB SIERENTZ
+  vs IE - CTC JURA ALSACIEN BASKET - 1\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue R
+ ogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45
+ 955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u18-5/match/200000014560068
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560068
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-17-18-00-basket-club-sierentz-asl-dessenh
+ eim-1@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – ASL DESSENHEIM - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET CLUB SIERENTZ
+  vs ASL DESSENHEIM - 1\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas Sieren
+ tz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/200
+ 000014560079
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560079
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-24-00-00-basket-nord-sundgau-1-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20261024T000000
+DTEND;TZID=Europe/Paris:20261024T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 1 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 1 vs BASKET CLUB SIERENTZ\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illf
+ urth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/2
+ 00000014560083
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560083
+END:VEVENT
+END:VCALENDAR

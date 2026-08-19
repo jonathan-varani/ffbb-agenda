@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ROMBAS OC  [IDFU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de ROMBAS OC – IDFU15 – GES – Vosges – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-b-2026-09-19-16-00-rombas-oc-asp-ste-marie-aux-
+ chenes@ffbb-agenda
+DTSTAMP:20260819T081214Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:🏠 ROMBAS OC – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule B\n⚔️ ROMBAS OC vs
+  ASP STE MARIE AUX CHENES\n\nCOSEC ANDRE RUPPERT\n📍 Rue Maréchal Joffr
+ e Rombas 57120\n🚗 Waze : https://waze.com/ul?ll=49.2535\,6.09994&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu15/match
+ /200000014624822
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624822
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-b-2026-09-26-16-00-rombas-oc-cse-folkling@ffbb-
+ agenda
+DTSTAMP:20260819T081214Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
+SUMMARY:🏠 ROMBAS OC – CSE FOLKLING
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule B\n⚔️ ROMBAS OC vs
+  CSE FOLKLING\n\nCOSEC ANDRE RUPPERT\n📍 Rue Maréchal Joffre Rombas 571
+ 20\n🚗 Waze : https://waze.com/ul?ll=49.2535\,6.09994&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0088/competitions/idfu15/match/200000014
+ 624830
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624830
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-b-2026-10-03-16-00-metz-bc-rombas-oc@ffbb-agend
+ a
+DTSTAMP:20260819T081214Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ METZ BC – ROMBAS OC
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule B\n⚔️ METZ BC vs R
+ OMBAS OC\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n🚗 W
+ aze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0088/competitions/idfu15/match/200000014624837
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624837
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-b-2026-11-08-11-00-sluc-nancy-basket-associatio
+ n-2-romba@ffbb-agenda
+DTSTAMP:20260819T081214Z
+DTSTART;TZID=Europe/Paris:20261108T110000
+DTEND;TZID=Europe/Paris:20261108T130000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – ROMBAS OC
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule B\n⚔️ SLUC NANCY B
+ ASKET ASSOCIATION - 2 vs ROMBAS OC\n\nGYMNASE BOURGUIGNON\n📍 Rue Turina
+ z Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.6749\,6.17369&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu15/match/
+ 200000014624851
+LOCATION:GYMNASE BOURGUIGNON\, Rue Turinaz Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624851
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-b-2026-11-14-16-00-rombas-oc-basket-club-longwy
+ -rehon@ffbb-agenda
+DTSTAMP:20260819T081214Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 ROMBAS OC – BASKET CLUB LONGWY REHON
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule B\n⚔️ ROMBAS OC vs
+  BASKET CLUB LONGWY REHON\n\nCOSEC ANDRE RUPPERT\n📍 Rue Maréchal Joffr
+ e Rombas 57120\n🚗 Waze : https://waze.com/ul?ll=49.2535\,6.09994&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu15/match
+ /200000014624861
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624861
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-b-2026-11-21-15-30-us-silvange-basket-rombas-oc
+ @ffbb-agenda
+DTSTAMP:20260819T081214Z
+DTSTART;TZID=Europe/Paris:20261121T153000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:✈️ US SILVANGE BASKET – ROMBAS OC
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule B\n⚔️ US SILVANGE 
+ BASKET vs ROMBAS OC\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-S
+ ilvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu15/match
+ /200000014624870
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624870
+END:VEVENT
+END:VCALENDAR

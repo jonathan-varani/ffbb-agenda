@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB SIERENTZ  [DXU9 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB SIERENTZ – DXU9 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-03-00-00-asl-dessenheim-2-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ASL DESSENHEIM - 2 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASL DESSENH
+ EIM - 2 vs BASKET CLUB SIERENTZ\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Co
+ lmar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.4842
+ 6&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560672
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560672
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-10-00-00-ie-ctc-thur-doller-basket-c
+ lub-1-bas@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 1 – BASKET CLUB SIERENT
+ Z
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 1 vs BASKET CLUB SIERENTZ\n\nSALLE DE SPORTS DANIE
+ L ECK\n📍 Cernay 68700\n🚗 Waze : https://waze.com/ul?ll=47.80915\,7.1
+ 7839&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ xu9/match/200000014560676
+LOCATION:SALLE DE SPORTS DANIEL ECK\, Cernay 68700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560676
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-17-13-30-basket-club-sierentz-basket
+ -nord-sun@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261017T133000
+DTEND;TZID=Europe/Paris:20261017T153000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB
+  SIERENTZ vs BASKET NORD SUNDGAU - 1\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Ro
+ gg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.459
+ 55&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu
+ 9/match/200000014560680
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560680
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-07-13-30-basket-club-3-pays-1-basket
+ -club-sie@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 1 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET-CLUB
+  3 PAYS - 1 vs BASKET CLUB SIERENTZ\n\nCOSEC DE HEGENHEIM\n📍 Rue du Col
+ lège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.526
+ 39&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu
+ 9/match/200000014560684
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560684
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-14-13-30-basket-club-sierentz-cssm-a
+ ltkirch@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261114T133000
+DTEND;TZID=Europe/Paris:20261114T153000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB
+  SIERENTZ vs CSSM ALTKIRCH\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas Si
+ erentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20
+ 0000014560688
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560688
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-21-14-00-abc-lutterbach-basket-club-
+ sierentz@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:✈️ ABC LUTTERBACH – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERB
+ ACH vs BASKET CLUB SIERENTZ\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach
+  68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000001
+ 4560695
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560695
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-05-00-00-asc-ste-afre-riedisheim-1-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 1 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC STE AFR
+ E RIEDISHEIM - 1 vs BASKET CLUB SIERENTZ\n\nGYMNASE BARTHOLDI\n📍 Rue du
+  Révérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/u
+ l?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 068/competitions/dxu9/match/200000014560700
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560700
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-12-13-30-basket-club-sierentz-asc-sa
+ int-romai@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261212T133000
+DTEND;TZID=Europe/Paris:20261212T153000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB
+  SIERENTZ vs ASC SAINT ROMAIN REININGUE\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue
+  Rogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.
+ 45955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dxu9/match/200000014560706
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560706
+END:VEVENT
+END:VCALENDAR

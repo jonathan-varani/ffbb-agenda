@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NANCY BASKETBALL  [IDMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de NANCY BASKETBALL – IDMU13 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-09-19-14-00-nancy-basketball-as-haut-du-
+ lievre-na@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:🏠 NANCY BASKETBALL – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ NANCY BASKET
+ BALL vs AS HAUT DU LIEVRE  NANCY\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue 
+ de Phalsbourg Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.
+ 18168&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/
+ idmu13/match/200000014626274
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626274
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-09-26-14-00-basket-club-golbey-epinal-2-
+ nancy-bas@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20260926T140000
+DTEND;TZID=Europe/Paris:20260926T160000
+SUMMARY:✈️ BASKET CLUB GOLBEY EPINAL - 2 – NANCY BASKETBALL
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ BASKET CLUB 
+ GOLBEY EPINAL - 2 vs NANCY BASKETBALL\n\nSALLE FERNAND DAVID\n📍 Avenue 
+ de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com/ul?ll=48.19073
+ \,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competiti
+ ons/idmu13/match/200000014626285
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626285
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-10-03-14-00-ie-ctc-collectif-basket-val-
+ de-lorrai@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – NANCY BASK
+ ETBALL
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ IE - CTC COL
+ LECTIF BASKET VAL DE LORRAINE SUD vs NANCY BASKETBALL\n\nSALLE INTERCOMMUN
+ ALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : https://waze.com/ul?l
+ l=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088
+ /competitions/idmu13/match/200000014626295
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626295
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-11-07-14-00-sluc-nancy-basket-associatio
+ n-1-nancy@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – NANCY BASKETBALL
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ SLUC NANCY B
+ ASKET ASSOCIATION - 1 vs NANCY BASKETBALL\n\nGYMNASE LOUIS ARMAND\n📍 Ru
+ e des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.67025\
+ ,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitio
+ ns/idmu13/match/200000014626315
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626315
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-11-14-14-00-nancy-basketball-basket-club
+ -chavelot@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 NANCY BASKETBALL – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ NANCY BASKET
+ BALL vs BASKET CLUB CHAVELOTAIS\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue d
+ e Phalsbourg Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.1
+ 8168&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/i
+ dmu13/match/200000014626328
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626328
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-11-21-14-00-fleville-loisirs-nancy-baske
+ tball@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:✈️ FLEVILLE LOISIRS – NANCY BASKETBALL
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ FLEVILLE LOI
+ SIRS vs NANCY BASKETBALL\n\nSALLE JEAN MICHEL MOREAU\n📍 Rue de la Woivr
+ e Fléville-devant-Nancy 54710\n🚗 Waze : https://waze.com/ul?ll=48.6298
+ 4\,6.21088&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competit
+ ions/idmu13/match/200000014626337
+LOCATION:SALLE JEAN MICHEL MOREAU\, Rue de la Woivre Fléville-devant-Nancy
+  54710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626337
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB RIBEAUVILLE  [DMU15-3 – GES]
+X-WR-CALDESC:Matchs de BASKET CLUB RIBEAUVILLE – DMU15-3 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-09-26-00-00-ie-ctc-thur-doller-basket-club-2
+ -basket-c@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 2 – BASKET CLUB RIBEAUV
+ ILLE
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 2 vs BASKET CLUB RIBEAUVILLE\n\nSALLE POLYVALENTE\n📍 Rue
+  de la Grande Armée Willer-sur-Thur 68760\n🚗 Waze : https://waze.com/u
+ l?ll=47.84454\,7.06851&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 068/competitions/dmu15-3/match/200000014559985
+LOCATION:SALLE POLYVALENTE\, Rue de la Grande Armée Willer-sur-Thur 68760
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559985
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-10-03-00-00-basket-club-ribeauville-bc-kunhe
+ im-2@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BASKET CLUB RIBEAUVILLE – BC KUNHEIM - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB RIBEAUVI
+ LLE vs BC KUNHEIM - 2\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu15-3/match/200000014559989
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559989
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-10-10-15-30-colmar-basket-2-basket-club-ribe
+ auville@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:✈️ COLMAR BASKET - 2 – BASKET CLUB RIBEAUVILLE
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 2 vs
+  BASKET CLUB RIBEAUVILLE\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe C
+ olmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/
+ 200000014559993
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559993
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-10-17-00-00-basket-club-ribeauville-basket-c
+ lub-illza@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 BASKET CLUB RIBEAUVILLE – BASKET CLUB ILLZACH - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB RIBEAUVI
+ LLE vs BASKET CLUB ILLZACH - 2\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu15-3/match/200000014560001
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560001
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-11-07-13-30-fcsl-eguisheim-2-basket-club-rib
+ eauville@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:✈️ FCSL EGUISHEIM - 2 – BASKET CLUB RIBEAUVILLE
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM - 2 v
+ s BASKET CLUB RIBEAUVILLE\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinte
+ rzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31
+ 428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u15-3/match/200000014560007
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560007
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-11-14-00-00-ie-ctc-jura-alsacien-basket-bask
+ et-club-r@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET – BASKET CLUB RIBEAUVILLE
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACI
+ EN BASKET vs BASKET CLUB RIBEAUVILLE\n\nGYMNASE DU COLLEGE\n📍 Rue Alpho
+ nse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31
+ 309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u15-3/match/200000014560010
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560010
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-12-05-00-00-basket-club-ribeauville-zillishe
+ im-societ@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BASKET CLUB RIBEAUVILLE – ZILLISHEIM SOCIETE SPORTIVE
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB RIBEAUVI
+ LLE vs ZILLISHEIM SOCIETE SPORTIVE\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/dmu15-3/match/200000014560020
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560020
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-12-12-00-00-basket-club-ribeauville-as-de-ch
+ alampe@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BASKET CLUB RIBEAUVILLE – AS DE CHALAMPE
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB RIBEAUVI
+ LLE vs AS DE CHALAMPE\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu15-3/match/200000014560025
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560025
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET-CLUB 3 PAYS - 1  [DMU15 – GES]
+X-WR-CALDESC:Matchs de BASKET-CLUB 3 PAYS - 1 – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-13-15-00-basket-club-3-pays-1-basket-club-d
+ e-kingers@ffbb-agenda
+DTSTAMP:20260819T080926Z
+DTSTART;TZID=Europe/Paris:20260913T150000
+DTEND;TZID=Europe/Paris:20260913T170000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 1 – BASKET CLUB DE KINGERSHEIM - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 1
+  vs BASKET CLUB DE KINGERSHEIM - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du Coll
+ ège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.5263
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559955
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559955
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-19-16-00-colmar-basket-1-basket-club-3-pays
+ -1@ffbb-agenda
+DTSTAMP:20260819T080926Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:✈️ COLMAR BASKET - 1 – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 1 vs B
+ ASKET-CLUB 3 PAYS - 1\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colm
+ ar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20000
+ 0014559958
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559958
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-26-17-00-basket-club-3-pays-1-asc-ste-afre-
+ riedishei@ffbb-agenda
+DTSTAMP:20260819T080926Z
+DTSTART;TZID=Europe/Paris:20260926T170000
+DTEND;TZID=Europe/Paris:20260926T190000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 1 – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 1
+  vs ASC STE AFRE RIEDISHEIM - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collèg
+ e Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/m
+ atch/200000014559960
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559960
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-04-13-30-basket-club-3-pays-1-asl-dessenhei
+ m-1@ffbb-agenda
+DTSTAMP:20260819T080926Z
+DTSTART;TZID=Europe/Paris:20261004T133000
+DTEND;TZID=Europe/Paris:20261004T153000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 1 – ASL DESSENHEIM - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 1
+  vs ASL DESSENHEIM - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenh
+ eim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000
+ 00014559962
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559962
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-31-16-00-basket-club-de-kingersheim-1-baske
+ t-club-3-@ffbb-agenda
+DTSTAMP:20260819T080926Z
+DTSTART;TZID=Europe/Paris:20261031T160000
+DTEND;TZID=Europe/Paris:20261031T180000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM - 1 – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB DE KINGERS
+ HEIM - 1 vs BASKET-CLUB 3 PAYS - 1\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre d
+ e Coubertin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757
+ \,7.32801&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu15/match/200000014559970
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559970
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-08-15-30-basket-club-3-pays-1-colmar-basket
+ -1@ffbb-agenda
+DTSTAMP:20260819T080926Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 1 – COLMAR BASKET - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 1
+  vs COLMAR BASKET - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenhe
+ im 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20000
+ 0014559973
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559973
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-14-00-00-asc-ste-afre-riedisheim-1-basket-c
+ lub-3-pay@ffbb-agenda
+DTSTAMP:20260819T080926Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 1 – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC STE AFRE RIEDISHEI
+ M - 1 vs BASKET-CLUB 3 PAYS - 1\n\nGYMNASE BARTHOLDI\n📍 Rue du Révére
+ nd Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47.7
+ 4155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/dmu15/match/200000014559975
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559975
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-00-00-asl-dessenheim-1-basket-club-3-pay
+ s-1@ffbb-agenda
+DTSTAMP:20260819T080926Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ ASL DESSENHEIM - 1 – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASL DESSENHEIM - 1 vs 
+ BASKET-CLUB 3 PAYS - 1\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Dess
+ enheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2
+ 00000014559977
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559977
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ABC LUTTERBACH - 1  [DMU18-5 – GES]
+X-WR-CALDESC:Matchs de ABC LUTTERBACH - 1 – DMU18-5 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-12-00-00-basket-nord-sundgau-2-abc-lutter
+ bach-1@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 2 – ABC LUTTERBACH - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 2 vs ABC LUTTERBACH - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfur
+ th 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/200
+ 000014560029
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560029
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-19-18-00-abc-lutterbach-1-mustangs-associ
+ ation-2@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:🏠 ABC LUTTERBACH - 1 – MUSTANGS ASSOCIATION - 2
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ ABC LUTTERBACH - 1 v
+ s MUSTANGS ASSOCIATION - 2\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach 
+ 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/200000
+ 014560033
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560033
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-27-15-30-basket-club-3-pays-1-abc-lutterb
+ ach-1@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 1 – ABC LUTTERBACH - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  1 vs ABC LUTTERBACH - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hége
+ nheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/
+ 200000014560039
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560039
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-03-18-00-abc-lutterbach-1-cssm-altkirch@f
+ fbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 ABC LUTTERBACH - 1 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ ABC LUTTERBACH - 1 v
+ s CSSM ALTKIRCH\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach 68460\n🚗
+  Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0068/competitions/dmu18-5/match/200000014560043
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560043
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-11-17-30-fcsl-eguisheim-1-abc-lutterbach-
+ 1@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261011T173000
+DTEND;TZID=Europe/Paris:20261011T193000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – ABC LUTTERBACH - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM - 1 v
+ s ABC LUTTERBACH - 1\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinterzart
+ en Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31428&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5
+ /match/200000014560045
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560045
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-24-18-00-abc-lutterbach-1-asc-ste-afre-ri
+ edisheim-@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261024T180000
+DTEND;TZID=Europe/Paris:20261024T200000
+SUMMARY:🏠 ABC LUTTERBACH - 1 – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ ABC LUTTERBACH - 1 v
+ s ASC STE AFRE RIEDISHEIM - 1\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterba
+ ch 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/200
+ 000014560055
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560055
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB ILLZACH  [DFU13-2 – GES]
+X-WR-CALDESC:Matchs de BASKET CLUB ILLZACH – DFU13-2 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-27-11-00-basket-club-3-pays-2-basket-club
+ -illzach@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20260927T110000
+DTEND;TZID=Europe/Paris:20260927T130000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 2 – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  2 vs BASKET CLUB ILLZACH\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hég
+ enheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match
+ /200000014558476
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558476
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-03-15-00-basket-club-illzach-bc-kunheim-2
+ @ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:🏠 BASKET CLUB ILLZACH – BC KUNHEIM - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ vs BC KUNHEIM - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 68110\n
+ 🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/2000000145584
+ 80
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558480
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-11-14-00-colmar-basket-basket-club-illzac
+ h@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261011T140000
+DTEND;TZID=Europe/Paris:20261011T160000
+SUMMARY:✈️ COLMAR BASKET – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ COLMAR BASKET vs BAS
+ KET CLUB ILLZACH\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar 68
+ 000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/20000001
+ 4558482
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558482
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-07-14-00-basket-club-illzach-as-horbourg-
+ wihr-2@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 BASKET CLUB ILLZACH – AS HORBOURG-WIHR - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ vs AS HORBOURG-WIHR - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 681
+ 10\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/20000001
+ 4558486
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558486
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-14-15-30-pantheres-mulhouse-basket-alsace
+ -2-basket@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:✈️ PANTHERES MULHOUSE BASKET ALSACE - 2 – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ PANTHERES MULHOUSE B
+ ASKET ALSACE - 2 vs BASKET CLUB ILLZACH\n\nGYMNASE MAURICE SCHOENACKER\n
+ 📍 Rue Jules Verne Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47
+ .73233\,7.29448&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu13-2/match/200000014558492
+LOCATION:GYMNASE MAURICE SCHOENACKER\, Rue Jules Verne Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558492
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-28-14-00-basket-club-illzach-ie-ctc-thur-
+ doller-ba@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 BASKET CLUB ILLZACH – IE - CTC THUR DOLLER BASKET CLUB - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nGYMNASE DU CANAL\n📍 Rue du C
+ anal Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2
+ /match/200000014558497
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558497
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-12-12-00-00-blotzheim-regio-basket-club-bask
+ et-club-i@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ BLOTZHEIM REGIO BASKET CLUB – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BLOTZHEIM REGIO BASK
+ ET CLUB vs BASKET CLUB ILLZACH\n\nPALAIS BEAU BOURG\n📍 Avenue Nathan Ka
+ tz Blotzheim 68730\n🚗 Waze : https://waze.com/ul?ll=47.5939\,7.50387&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/
+ match/200000014558501
+LOCATION:PALAIS BEAU BOURG\, Avenue Nathan Katz Blotzheim 68730
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558501
+END:VEVENT
+END:VCALENDAR

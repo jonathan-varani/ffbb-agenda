@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CS SAINT PP WALDIGHOFFEN  [DFU11 – GES – Poule C]
+X-WR-CALDESC:Matchs de CS SAINT PP WALDIGHOFFEN – DFU11 – GES – Haut-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-09-26-15-00-fcsl-eguisheim-cs-saint-pp
+ -waldigho@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:✈️ FCSL EGUISHEIM – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ FCSL EGUIS
+ HEIM vs CS SAINT PP WALDIGHOFFEN\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue d
+ e Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.0443
+ 9\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dfu11/match/200000014558330
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558330
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-10-03-14-00-cs-saint-pp-waldighoffen-b
+ errwiller@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 CS SAINT PP WALDIGHOFFEN – BERRWILLER/STAFFELFELDEN BC - 3
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ CS SAINT P
+ P WALDIGHOFFEN vs BERRWILLER/STAFFELFELDEN BC - 3\n\nSALLE NATHAN KATZ\n
+ 📍 Rue des Écoles Waldighofen 68640\n🚗 Waze : https://waze.com/ul?ll
+ =47.55167\,7.31429&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu11/match/200000014558334
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558334
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-10-10-13-30-as-de-chalampe-cs-saint-pp
+ -waldigho@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:✈️ AS DE CHALAMPE – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ AS DE CHAL
+ AMPE vs CS SAINT PP WALDIGHOFFEN\n\nSALLE POLYVALENTE\n📍 Avenue de la G
+ are Chalampé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/
+ match/200000014558336
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558336
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-11-07-16-00-cs-saint-pp-waldighoffen-a
+ sca-witte@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 CS SAINT PP WALDIGHOFFEN – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ CS SAINT P
+ P WALDIGHOFFEN vs ASCA WITTELSHEIM\n\nSALLE NATHAN KATZ\n📍 Rue des Éco
+ les Waldighofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.3142
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558340
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558340
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-11-14-00-00-ie-ctc-de-l-ill-2-cs-saint
+ -pp-waldi@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 2 – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ IE - CTC D
+ E L'ILL - 2 vs CS SAINT PP WALDIGHOFFEN\n\nCOMPLEXE SPORTIF E. VOGT\n📍 
+ Rue de l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701
+ \,7.36244&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu11/match/200000014558346
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558346
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-11-28-00-00-cs-saint-pp-waldighoffen-i
+ e-ctc-jur@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 CS SAINT PP WALDIGHOFFEN – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ CS SAINT P
+ P WALDIGHOFFEN vs IE - CTC JURA ALSACIEN BASKET - 2\n\nSALLE NATHAN KATZ\n
+ 📍 Rue des Écoles Waldighofen 68640\n🚗 Waze : https://waze.com/ul?ll
+ =47.55167\,7.31429&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu11/match/200000014558351
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558351
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-12-12-14-00-pantheres-mulhouse-basket-
+ alsace-2-@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ PANTHERES MULHOUSE BASKET ALSACE - 2 – CS SAINT PP WALDIGH
+ OFFEN
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ PANTHERES 
+ MULHOUSE BASKET ALSACE - 2 vs CS SAINT PP WALDIGHOFFEN\n\nGYMNASE MAURICE 
+ SCHOENACKER\n📍 Rue Jules Verne Mulhouse 68200\n🚗 Waze : https://waze
+ .com/ul?ll=47.73233\,7.29448&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0068/competitions/dfu11/match/200000014558355
+LOCATION:GYMNASE MAURICE SCHOENACKER\, Rue Jules Verne Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558355
+END:VEVENT
+END:VCALENDAR

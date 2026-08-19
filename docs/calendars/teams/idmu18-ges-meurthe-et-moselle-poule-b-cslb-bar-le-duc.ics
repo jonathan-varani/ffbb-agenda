@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSLB BAR LE DUC  [IDMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de CSLB BAR LE DUC – IDMU18 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-09-19-18-00-as-champigneulle
+ s-basketb@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – CSLB BAR LE DUC
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ AS CHAMPIGNEULLES BASKETBALL vs CSLB BAR LE DUC\n\nCOMPLEXE SPORTIF BELLEF
+ ONTAINE\n📍 Rue de Roncevaux Champigneulles 54250\n🚗 Waze : https://w
+ aze.com/ul?ll=48.72533\,6.14893&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0054/competitions/idmu18/match/200000014615440
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux Champigneulles 5
+ 4250
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615440
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-09-26-18-00-cslb-bar-le-duc-
+ as-haut-d@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:🏠 CSLB BAR LE DUC – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ CSLB BAR LE DUC vs AS HAUT DU LIEVRE  NANCY - 2\n\nSALLE JEAN PAUL BEUGNOT
+ \n📍 Place de l'École Normale Bar-le-Duc 55000\n🚗 Waze : https://waz
+ e.com/ul?ll=48.7636\,5.1546&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/idmu18/match/200000014615454
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615454
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-03-18-00-saint-max-basket
+ -club-csl@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ SAINT MAX BASKET CLUB – CSLB BAR LE DUC
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ SAINT MAX BASKET CLUB vs CSLB BAR LE DUC\n\nGYMNASE HENRI COCHET\n📍 Rue
+  de la Haie le Comte Saint-Max 54130\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.70584\,6.20643&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615474
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte Saint-Max 54130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615474
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-10-18-00-cslb-bar-le-duc-
+ sluc-nanc@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 CSLB BAR LE DUC – SLUC NANCY BASKET ASSOCIATION - 3
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ CSLB BAR LE DUC vs SLUC NANCY BASKET ASSOCIATION - 3\n\nSALLE JEAN PAUL BE
+ UGNOT\n📍 Place de l'École Normale Bar-le-Duc 55000\n🚗 Waze : https:
+ //waze.com/ul?ll=48.7636\,5.1546&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0054/competitions/idmu18/match/200000014615492
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615492
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-17-18-00-nancy-basketball
+ -2-cslb-b@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:✈️ NANCY BASKETBALL - 2 – CSLB BAR LE DUC
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ NANCY BASKETBALL - 2 vs CSLB BAR LE DUC\n\nGYMNASE PIERRE DE COUBERTIN\n
+ 📍 Rue de Phalsbourg Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.
+ 68294\,6.18168&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idmu18/match/200000014615508
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615508
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-07-18-00-cslb-bar-le-duc-
+ la-valdaj@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:🏠 CSLB BAR LE DUC – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ CSLB BAR LE DUC vs LA VALDAJOLAISE\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place 
+ de l'École Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.7636\,5.1546&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idmu18/match/200000014615529
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615529
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-14-18-00-basket-club-golb
+ ey-epinal@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:✈️ BASKET CLUB GOLBEY EPINAL - 1 – CSLB BAR LE DUC
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ BASKET CLUB GOLBEY EPINAL - 1 vs CSLB BAR LE DUC\n\nSALLE FERNAND DAVID\n
+ 📍 Avenue de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com/ul
+ ?ll=48.19073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 54/competitions/idmu18/match/200000014615546
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615546
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-21-18-00-cslb-bar-le-duc-
+ basket-cl@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:🏠 CSLB BAR LE DUC – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ CSLB BAR LE DUC vs BASKET CLUB CHAVELOTAIS\n\nSALLE JEAN PAUL BEUGNOT\n
+ 📍 Place de l'École Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.
+ com/ul?ll=48.7636\,5.1546&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0054/competitions/idmu18/match/200000014615566
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615566
+END:VEVENT
+END:VCALENDAR

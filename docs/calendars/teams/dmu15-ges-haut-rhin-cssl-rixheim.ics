@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSSL RIXHEIM  [DMU15 – GES]
+X-WR-CALDESC:Matchs de CSSL RIXHEIM – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-20-15-00-cssl-rixheim-asc-saint-romain-rein
+ ingue@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20260920T150000
+DTEND;TZID=Europe/Paris:20260920T170000
+SUMMARY:🏠 CSSL RIXHEIM – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL RIXHEIM vs ASC SA
+ INT ROMAIN REININGUE\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 6817
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59895
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559895
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-17-00-cssl-rixheim-cs-saint-pp-waldighof
+ fen-1@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261003T170000
+DTEND;TZID=Europe/Paris:20261003T190000
+SUMMARY:🏠 CSSL RIXHEIM – CS SAINT PP WALDIGHOFFEN - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL RIXHEIM vs CS SAI
+ NT PP WALDIGHOFFEN - 1\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 68
+ 170\n🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59900
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559900
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-10-15-00-cssl-rixheim-asl-dessenheim-3@ffbb
+ -agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261010T150000
+DTEND;TZID=Europe/Paris:20261010T170000
+SUMMARY:🏠 CSSL RIXHEIM – ASL DESSENHEIM - 3
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL RIXHEIM vs ASL DE
+ SSENHEIM - 3\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 68170\n🚗 
+ Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559902
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559902
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-18-11-00-basket-club-3-pays-2-cssl-rixheim@
+ ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261018T110000
+DTEND;TZID=Europe/Paris:20261018T130000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 2 – CSSL RIXHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 2
+  vs CSSL RIXHEIM\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenheim 68
+ 220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59906
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559906
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-31-15-00-basket-andolsheim-cssl-rixheim@ffb
+ b-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261031T150000
+DTEND;TZID=Europe/Paris:20261031T170000
+SUMMARY:✈️ BASKET ANDOLSHEIM – CSSL RIXHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET ANDOLSHEIM vs C
+ SSL RIXHEIM\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar Fortschwihr 68320\n
+ 🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559898
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559898
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-08-14-30-asc-saint-romain-reiningue-cssl-ri
+ xheim@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261108T143000
+DTEND;TZID=Europe/Paris:20261108T163000
+SUMMARY:✈️ ASC SAINT ROMAIN REININGUE – CSSL RIXHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC SAINT ROMAIN REINI
+ NGUE vs CSSL RIXHEIM\n\nHALLE DES SPORTS\n📍 Rue des Pierres Reiningue 6
+ 8950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014
+ 559910
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559910
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-14-15-30-cssl-rixheim-basket-andolsheim@ffb
+ b-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:🏠 CSSL RIXHEIM – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL RIXHEIM vs BASKET
+  ANDOLSHEIM\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 68170\n🚗 W
+ aze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559913
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559913
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-00-00-cs-saint-pp-waldighoffen-1-cssl-ri
+ xheim@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ CS SAINT PP WALDIGHOFFEN - 1 – CSSL RIXHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHOFF
+ EN - 1 vs CSSL RIXHEIM\n\nSALLE NATHAN KATZ\n📍 Rue des Écoles Waldigho
+ fen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31429&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000
+ 00014559915
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559915
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-05-00-00-asl-dessenheim-3-cssl-rixheim@ffbb
+ -agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ ASL DESSENHEIM - 3 – CSSL RIXHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASL DESSENHEIM - 3 vs 
+ CSSL RIXHEIM\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Dessenheim 686
+ 00\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59917
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559917
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-17-00-cssl-rixheim-basket-club-3-pays-2@
+ ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261212T170000
+DTEND;TZID=Europe/Paris:20261212T190000
+SUMMARY:🏠 CSSL RIXHEIM – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL RIXHEIM vs BASKET
+ -CLUB 3 PAYS - 2\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 68170\n
+ 🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559921
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559921
+END:VEVENT
+END:VCALENDAR

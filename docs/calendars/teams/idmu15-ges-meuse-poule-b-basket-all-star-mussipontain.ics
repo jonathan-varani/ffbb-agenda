@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET ALL STAR MUSSIPONTAIN  [IDMU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET ALL STAR MUSSIPONTAIN – IDMU15 – GES – Meuse – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-09-19-16-00-sluc-nancy-basket-association
+ -2-basket@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – BASKET ALL STAR MUSSIP
+ ONTAIN
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 2 vs BASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE LOUIS ARMA
+ ND\n📍 Rue des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?l
+ l=48.67025\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055
+ /competitions/idmu15/match/200000014610472
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610472
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-10-03-15-00-asptt-nancy-tomblaine-basket-
+ all-star-@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ ASPTT NANCY T
+ OMBLAINE vs BASKET ALL STAR MUSSIPONTAIN\n\nCOSEC 1\n📍 Rue Jean Moulin 
+ Tomblaine 54510\n🚗 Waze : https://waze.com/ul?ll=48.69542\,6.21374&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/mat
+ ch/200000014610494
+LOCATION:COSEC 1\, Rue Jean Moulin Tomblaine 54510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610494
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-10-10-15-00-basket-all-star-mussipontain-
+ bcv-verdu@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261010T150000
+DTEND;TZID=Europe/Paris:20261010T170000
+SUMMARY:🏠 BASKET ALL STAR MUSSIPONTAIN – BCV VERDUN
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ BASKET ALL ST
+ AR MUSSIPONTAIN vs BCV VERDUN\n\nCENTRE DES SPORTS BERNARD GUY 1\n📍 Ave
+ nue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : https://waze.com/u
+ l?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 055/competitions/idmu15/match/200000014610508
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610508
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-11-07-15-00-basket-all-star-mussipontain-
+ us-silvan@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:🏠 BASKET ALL STAR MUSSIPONTAIN – US SILVANGE BASKET
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ BASKET ALL ST
+ AR MUSSIPONTAIN vs US SILVANGE BASKET\n\nCENTRE DES SPORTS BERNARD GUY 1\n
+ 📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0055/competitions/idmu15/match/200000014610520
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610520
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-11-15-14-00-basket-club-longwy-rehon-1-ba
+ sket-all-@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261115T140000
+DTEND;TZID=Europe/Paris:20261115T160000
+SUMMARY:✈️ BASKET CLUB LONGWY REHON - 1 – BASKET ALL STAR MUSSIPONTAI
+ N
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ BASKET CLUB L
+ ONGWY REHON - 1 vs BASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE LEON BASSOMPIER
+ RE\n📍 Rue Albert Legendre Longwy 54400\n🚗 Waze : https://waze.com/ul
+ ?ll=49.51894\,5.76872&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 55/competitions/idmu15/match/200000014610532
+LOCATION:GYMNASE LEON BASSOMPIERRE\, Rue Albert Legendre Longwy 54400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610532
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-11-21-15-00-basket-all-star-mussipontain-
+ nancy-bas@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:🏠 BASKET ALL STAR MUSSIPONTAIN – NANCY BASKETBALL
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ BASKET ALL ST
+ AR MUSSIPONTAIN vs NANCY BASKETBALL\n\nCENTRE DES SPORTS BERNARD GUY 1\n
+ 📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0055/competitions/idmu15/match/200000014610544
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610544
+END:VEVENT
+END:VCALENDAR

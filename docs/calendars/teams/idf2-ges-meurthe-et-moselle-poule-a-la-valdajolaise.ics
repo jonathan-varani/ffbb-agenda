@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LA VALDAJOLAISE  [IDF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de LA VALDAJOLAISE – IDF2 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-10-03-20-30-entente-granges-ge
+ rardmer-l@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:✈️ ENTENTE GRANGES GERARDMER – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EN
+ TENTE GRANGES GERARDMER vs LA VALDAJOLAISE\n\nGYMNASE MUNICIPAL\n📍 Rue 
+ P. Ancel Seitz Granges-Aumontzey 88640\n🚗 Waze : https://waze.com/ul?ll
+ =48.14517\,6.79376&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646345
+LOCATION:GYMNASE MUNICIPAL\, Rue P. Ancel Seitz Granges-Aumontzey 88640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646345
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-10-17-18-00-la-valdajolaise-es
+ perance-t@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:🏠 LA VALDAJOLAISE – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs ESPERANCE TOUL\n\nSALLE MUNICIPALE SPORTS\n📍 Rue des O
+ euvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.92639\,6
+ .47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /idf2/match/200000014646361
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646361
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-07-20-30-cos-villers-les-na
+ ncy-la-va@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ COS VILLERS LES NANCY – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ CO
+ S VILLERS LES NANCY vs LA VALDAJOLAISE\n\nSALLE GILBERT BAUVIN\n📍 Rue M
+ aurice André Villers-lès-Nancy 54600\n🚗 Waze : https://waze.com/ul?ll
+ =48.67362\,6.15439&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646369
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646369
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-14-18-00-la-valdajolaise-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 LA VALDAJOLAISE – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs BASKET CLUB GIRONCOURT\n\nSALLE MUNICIPALE SPORTS\n📍 R
+ ue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.
+ 92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idf2/match/200000014646383
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646383
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-22-15-30-effort-basket-mire
+ court-la-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ EFFORT BASKET MIRECOURT – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EF
+ FORT BASKET MIRECOURT vs LA VALDAJOLAISE\n\nSALLE CLAUDE HACQUARD\n📍 Ru
+ e de Bonn-Buel Mirecourt 88500\n🚗 Waze : https://waze.com/ul?ll=48.2943
+ 3\,6.13292&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competit
+ ions/idf2/match/200000014646393
+LOCATION:SALLE CLAUDE HACQUARD\, Rue de Bonn-Buel Mirecourt 88500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646393
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-28-18-00-la-valdajolaise-en
+ tente-spo@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:🏠 LA VALDAJOLAISE – ENTENTE SPORTIVE THAON BASKET BALL (E.S. T
+ HAON BASKET BALL)
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BAL
+ L)\n\nSALLE MUNICIPALE SPORTS\n📍 Rue des Oeuvres Le Val-d'Ajol 88340\n
+ 🚗 Waze : https://waze.com/ul?ll=47.92639\,6.47849&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0054/competitions/idf2/match/200000014646402
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646402
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-12-05-20-30-basket-club-therma
+ l-la-vald@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ BASKET CLUB THERMAL – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB THERMAL vs LA VALDAJOLAISE\n\nCENTRE PREPARATION OLYMPIQUE\n📍
+  Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/ul?ll=48
+ .1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idf2/match/200000014646413
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646413
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-12-12-18-00-la-valdajolaise-pa
+ gny-sur-m@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:🏠 LA VALDAJOLAISE – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs PAGNY SUR MEUSE BC\n\nSALLE MUNICIPALE SPORTS\n📍 Rue d
+ es Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.9263
+ 9\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competit
+ ions/idf2/match/200000014646424
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646424
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-09-20-30-basket-club-gondre
+ ville-la-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ BASKET CLUB GONDREVILLE – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs LA VALDAJOLAISE\n\nSALLE POLYVALENTE\n📍 Rue de
+  la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.69526\
+ ,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/idf2/match/200000014646434
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646434
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-17-14-00-as-haut-du-lievre-
+ nancy-2-l@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270117T140000
+DTEND;TZID=Europe/Paris:20270117T160000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 2 – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ AS
+  HAUT DU LIEVRE  NANCY - 2 vs LA VALDAJOLAISE\n\nGYMNASE BUFFON\n📍 Rue 
+ Dominique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,
+ 6.15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competition
+ s/idf2/match/200000014646441
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646441
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-30-18-00-la-valdajolaise-en
+ tente-gra@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270130T180000
+DTEND;TZID=Europe/Paris:20270130T200000
+SUMMARY:🏠 LA VALDAJOLAISE – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs ENTENTE GRANGES GERARDMER\n\nSALLE MUNICIPALE SPORTS\n
+ 📍 Rue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?
+ ll=47.92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/idf2/match/200000014646456
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646456
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-02-06-20-30-esperance-toul-la-
+ valdajola@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ ESPERANCE TOUL – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs LA VALDAJOLAISE\n\nGYMNASE J et H BALSON\n📍 Place de la
+  Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67875\,5.
+ 89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/
+ idf2/match/200000014646472
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646472
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-02-13-18-00-la-valdajolaise-co
+ s-villers@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270213T180000
+DTEND;TZID=Europe/Paris:20270213T200000
+SUMMARY:🏠 LA VALDAJOLAISE – COS VILLERS LES NANCY
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs COS VILLERS LES NANCY\n\nSALLE MUNICIPALE SPORTS\n📍 Ru
+ e des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.9
+ 2639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compe
+ titions/idf2/match/200000014646480
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646480
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-13-20-30-basket-club-gironc
+ ourt-la-v@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:✈️ BASKET CLUB GIRONCOURT – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs LA VALDAJOLAISE\n\nSALLE POLYVALENTE\n📍 Rue Jea
+ nne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.com/ul?ll=
+ 48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646494
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646494
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-20-18-00-la-valdajolaise-ef
+ fort-bask@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270320T180000
+DTEND;TZID=Europe/Paris:20270320T200000
+SUMMARY:🏠 LA VALDAJOLAISE – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs EFFORT BASKET MIRECOURT\n\nSALLE MUNICIPALE SPORTS\n📍 
+ Rue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47
+ .92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646504
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646504
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-27-20-30-entente-sportive-t
+ haon-bask@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:✈️ ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) 
+ – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EN
+ TENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) vs LA VALDAJOLAI
+ SE\n\nGYMNASE DE LA POSTE\n📍 Rue Thiers Thaon-les-Vosges 88150\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.25107\,6.42202&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0054/competitions/idf2/match/200000014646513
+LOCATION:GYMNASE DE LA POSTE\, Rue Thiers Thaon-les-Vosges 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646513
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-04-03-18-00-la-valdajolaise-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270403T180000
+DTEND;TZID=Europe/Paris:20270403T200000
+SUMMARY:🏠 LA VALDAJOLAISE – BASKET CLUB THERMAL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs BASKET CLUB THERMAL\n\nSALLE MUNICIPALE SPORTS\n📍 Rue 
+ des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.926
+ 39\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/idf2/match/200000014646524
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646524
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-04-10-18-00-pagny-sur-meuse-bc
+ -la-valda@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270410T180000
+DTEND;TZID=Europe/Paris:20270410T200000
+SUMMARY:✈️ PAGNY SUR MEUSE BC – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ PA
+ GNY SUR MEUSE BC vs LA VALDAJOLAISE\n\nSALLE DE SPORTS - LES CORVEES\n📍
+  Allée des Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/u
+ l?ll=48.69532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 054/competitions/idf2/match/200000014646535
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646535
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-05-08-18-00-la-valdajolaise-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270508T180000
+DTEND;TZID=Europe/Paris:20270508T200000
+SUMMARY:🏠 LA VALDAJOLAISE – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs BASKET CLUB GONDREVILLE\n\nSALLE MUNICIPALE SPORTS\n📍 
+ Rue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47
+ .92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646545
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646545
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-05-22-18-00-la-valdajolaise-as
+ -haut-du-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270522T180000
+DTEND;TZID=Europe/Paris:20270522T200000
+SUMMARY:🏠 LA VALDAJOLAISE – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs AS HAUT DU LIEVRE  NANCY - 2\n\nSALLE MUNICIPALE SPORTS\n
+ 📍 Rue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?
+ ll=47.92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/idf2/match/200000014646552
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646552
+END:VEVENT
+END:VCALENDAR

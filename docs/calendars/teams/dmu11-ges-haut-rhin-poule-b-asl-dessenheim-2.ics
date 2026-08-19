@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASL DESSENHEIM - 2  [DMU11 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASL DESSENHEIM - 2 – DMU11 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-b-2026-09-26-15-00-basket-club-3-pays-1-asl-d
+ essenheim@ffbb-agenda
+DTSTAMP:20260819T081015Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 1 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule B\n⚔️ BASKET-CLU
+ B 3 PAYS - 1 vs ASL DESSENHEIM - 2\n\nCOSEC DE HEGENHEIM\n📍 Rue du Coll
+ ège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.5263
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559312
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559312
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-b-2026-10-03-00-00-asl-dessenheim-2-ie-ctc-de
+ -l-ill-1@ffbb-agenda
+DTSTAMP:20260819T081015Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 ASL DESSENHEIM - 2 – IE - CTC DE L'ILL - 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule B\n⚔️ ASL DESSEN
+ HEIM - 2 vs IE - CTC DE L'ILL - 1\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de 
+ Colmar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48
+ 426&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u11/match/200000014559321
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559321
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-b-2026-10-10-00-00-asl-dessenheim-2-ie-ctc-th
+ ur-doller@ffbb-agenda
+DTSTAMP:20260819T081015Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 ASL DESSENHEIM - 2 – IE - CTC THUR DOLLER BASKET CLUB - 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule B\n⚔️ ASL DESSEN
+ HEIM - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nSALLE SPORTS ET LOISIR
+ S\n📍 Rue de Colmar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll
+ =47.98036\,7.48426&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu11/match/200000014559326
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559326
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-b-2026-10-17-00-00-basket-nord-sundgau-2-asl-
+ dessenhei@ffbb-agenda
+DTSTAMP:20260819T081015Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 2 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule B\n⚔️ BASKET NOR
+ D SUNDGAU - 2 vs ASL DESSENHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spechb
+ ach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/m
+ atch/200000014559331
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559331
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-b-2026-11-07-00-00-asl-dessenheim-2-ent-hegen
+ heim-blot@ffbb-agenda
+DTSTAMP:20260819T081015Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 ASL DESSENHEIM - 2 – ENT HEGENHEIM/BLOTZHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule B\n⚔️ ASL DESSEN
+ HEIM - 2 vs ENT HEGENHEIM/BLOTZHEIM\n\nSALLE SPORTS ET LOISIRS\n📍 Rue d
+ e Colmar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.
+ 48426&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dmu11/match/200000014559336
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559336
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-b-2026-11-14-00-00-csc-rustenhart-1-asl-desse
+ nheim-2@ffbb-agenda
+DTSTAMP:20260819T081015Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ CSC RUSTENHART - 1 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTEN
+ HART - 1 vs ASL DESSENHEIM - 2\n\nSALLE POLYVALENTE\n📍 Rue des Violette
+ s Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/mat
+ ch/200000014559341
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559341
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-b-2026-11-21-15-30-abc-lutterbach-1-asl-desse
+ nheim-2@ffbb-agenda
+DTSTAMP:20260819T081015Z
+DTSTART;TZID=Europe/Paris:20261121T153000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:✈️ ABC LUTTERBACH - 1 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTER
+ BACH - 1 vs ASL DESSENHEIM - 2\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterb
+ ach 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/2000
+ 00014559346
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559346
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-b-2026-12-05-00-00-cssm-altkirch-asl-dessenhe
+ im-2@ffbb-agenda
+DTSTAMP:20260819T081015Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ CSSM ALTKIRCH – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKI
+ RCH vs ASL DESSENHEIM - 2\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altkirc
+ h 68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/2000000
+ 14559351
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559351
+END:VEVENT
+END:VCALENDAR

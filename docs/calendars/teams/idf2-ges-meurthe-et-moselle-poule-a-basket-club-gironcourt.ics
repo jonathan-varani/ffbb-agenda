@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB GIRONCOURT  [IDF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB GIRONCOURT – IDF2 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-09-26-18-00-as-haut-du-lievre-
+ nancy-2-b@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 2 – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ AS
+  HAUT DU LIEVRE  NANCY - 2 vs BASKET CLUB GIRONCOURT\n\nGYMNASE BUFFON\n
+ 📍 Rue Dominique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.70167\,6.15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646337
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646337
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-10-03-20-30-basket-club-gironc
+ ourt-bask@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – BASKET CLUB THERMAL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs BASKET CLUB THERMAL\n\nSALLE POLYVALENTE\n📍 Rue
+  Jeanne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.com/ul
+ ?ll=48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 54/competitions/idf2/match/200000014646348
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646348
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-10-10-20-30-basket-club-gondre
+ ville-bas@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ BASKET CLUB GONDREVILLE – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs BASKET CLUB GIRONCOURT\n\nSALLE POLYVALENTE\n📍
+  Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48
+ .69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646357
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646357
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-07-20-30-basket-club-gironc
+ ourt-ente@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – ENTENTE SPORTIVE THAON BASKET BALL 
+ (E.S. THAON BASKET BALL)
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BAS
+ KET BALL)\n\nSALLE POLYVALENTE\n📍 Rue Jeanne d'Arc Gironcourt-sur-Vrain
+ e 88170\n🚗 Waze : https://waze.com/ul?ll=48.31056\,5.92418&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2/match/2000000
+ 14646370
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646370
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-14-18-00-la-valdajolaise-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:✈️ LA VALDAJOLAISE – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs BASKET CLUB GIRONCOURT\n\nSALLE MUNICIPALE SPORTS\n📍 R
+ ue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.
+ 92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idf2/match/200000014646383
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646383
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-21-20-30-basket-club-gironc
+ ourt-pagn@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs PAGNY SUR MEUSE BC\n\nSALLE POLYVALENTE\n📍 Rue 
+ Jeanne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.com/ul?
+ ll=48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/idf2/match/200000014646392
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646392
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-28-20-30-basket-club-gironc
+ ourt-cos-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – COS VILLERS LES NANCY
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs COS VILLERS LES NANCY\n\nSALLE POLYVALENTE\n📍 R
+ ue Jeanne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.com/
+ ul?ll=48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0054/competitions/idf2/match/200000014646405
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646405
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-12-05-20-30-esperance-toul-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ ESPERANCE TOUL – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs BASKET CLUB GIRONCOURT\n\nGYMNASE J et H BALSON\n📍 Plac
+ e de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67
+ 875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compet
+ itions/idf2/match/200000014646415
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646415
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-12-12-20-30-basket-club-gironc
+ ourt-ente@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs ENTENTE GRANGES GERARDMER\n\nSALLE POLYVALENTE\n
+ 📍 Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waz
+ e.com/ul?ll=48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0054/competitions/idf2/match/200000014646425
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646425
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-10-15-30-effort-basket-mire
+ court-bas@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ EFFORT BASKET MIRECOURT – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EF
+ FORT BASKET MIRECOURT vs BASKET CLUB GIRONCOURT\n\nSALLE CLAUDE HACQUARD\n
+ 📍 Rue de Bonn-Buel Mirecourt 88500\n🚗 Waze : https://waze.com/ul?ll=
+ 48.29433\,6.13292&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646438
+LOCATION:SALLE CLAUDE HACQUARD\, Rue de Bonn-Buel Mirecourt 88500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646438
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-23-20-30-basket-club-gironc
+ ourt-as-h@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs AS HAUT DU LIEVRE  NANCY - 2\n\nSALLE POLYVALENTE\
+ n📍 Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/idf2/match/200000014646448
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646448
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-30-20-30-basket-club-therma
+ l-basket-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ BASKET CLUB THERMAL – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB THERMAL vs BASKET CLUB GIRONCOURT\n\nCENTRE PREPARATION OLYMPIQU
+ E\n📍 Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/u
+ l?ll=48.1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 54/competitions/idf2/match/200000014646459
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646459
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-02-06-20-30-basket-club-gironc
+ ourt-bask@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs BASKET CLUB GONDREVILLE\n\nSALLE POLYVALENTE\n📍
+  Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.co
+ m/ul?ll=48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0054/competitions/idf2/match/200000014646468
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646468
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-02-13-20-30-entente-sportive-t
+ haon-bask@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) 
+ – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EN
+ TENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) vs BASKET CLUB G
+ IRONCOURT\n\nGYMNASE DE LA POSTE\n📍 Rue Thiers Thaon-les-Vosges 88150\n
+ 🚗 Waze : https://waze.com/ul?ll=48.25107\,6.42202&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0054/competitions/idf2/match/200000014646481
+LOCATION:GYMNASE DE LA POSTE\, Rue Thiers Thaon-les-Vosges 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646481
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-13-20-30-basket-club-gironc
+ ourt-la-v@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs LA VALDAJOLAISE\n\nSALLE POLYVALENTE\n📍 Rue Jea
+ nne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.com/ul?ll=
+ 48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646494
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646494
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-20-18-00-pagny-sur-meuse-bc
+ -basket-c@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270320T180000
+DTEND;TZID=Europe/Paris:20270320T200000
+SUMMARY:✈️ PAGNY SUR MEUSE BC – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ PA
+ GNY SUR MEUSE BC vs BASKET CLUB GIRONCOURT\n\nSALLE DE SPORTS - LES CORVEE
+ S\n📍 Allée des Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waz
+ e.com/ul?ll=48.69532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0054/competitions/idf2/match/200000014646503
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646503
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-27-20-30-cos-villers-les-na
+ ncy-baske@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:✈️ COS VILLERS LES NANCY – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ CO
+ S VILLERS LES NANCY vs BASKET CLUB GIRONCOURT\n\nSALLE GILBERT BAUVIN\n
+ 📍 Rue Maurice André Villers-lès-Nancy 54600\n🚗 Waze : https://waze
+ .com/ul?ll=48.67362\,6.15439&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/idf2/match/200000014646516
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646516
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-04-03-20-30-basket-club-gironc
+ ourt-espe@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs ESPERANCE TOUL\n\nSALLE POLYVALENTE\n📍 Rue Jean
+ ne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646526
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646526
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-04-10-15-30-entente-granges-ge
+ rardmer-b@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270410T153000
+DTEND;TZID=Europe/Paris:20270410T173000
+SUMMARY:✈️ ENTENTE GRANGES GERARDMER – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EN
+ TENTE GRANGES GERARDMER vs BASKET CLUB GIRONCOURT\n\nGYMNASE PIERRE ET PAU
+ L DIDIER\n📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.co
+ m/ul?ll=48.07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0054/competitions/idf2/match/200000014646536
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646536
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-05-08-20-30-basket-club-gironc
+ ourt-effo@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs EFFORT BASKET MIRECOURT\n\nSALLE POLYVALENTE\n📍
+  Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.co
+ m/ul?ll=48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0054/competitions/idf2/match/200000014646549
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646549
+END:VEVENT
+END:VCALENDAR

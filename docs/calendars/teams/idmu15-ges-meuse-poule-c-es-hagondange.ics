@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ES HAGONDANGE  [IDMU15 – GES – Poule C]
+X-WR-CALDESC:Matchs de ES HAGONDANGE – IDMU15 – GES – Meuse – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-09-19-16-00-cse-folkling-es-hagondange@ff
+ bb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:✈️ CSE FOLKLING – ES HAGONDANGE
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ CSE FOLKLING 
+ vs ES HAGONDANGE\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Folkli
+ ng 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/2000
+ 00014610477
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610477
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-09-27-10-30-es-hagondange-bc-aumetz@ffbb-
+ agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20260927T103000
+DTEND;TZID=Europe/Paris:20260927T123000
+SUMMARY:🏠 ES HAGONDANGE – BC AUMETZ
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ ES HAGONDANGE
+  vs BC AUMETZ\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri Hoffmann Hago
+ ndange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.16551&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/
+ 200000014610486
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610486
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-10-11-10-30-es-hagondange-basket-club-lon
+ gwy-rehon@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261011T103000
+DTEND;TZID=Europe/Paris:20261011T123000
+SUMMARY:🏠 ES HAGONDANGE – BASKET CLUB LONGWY REHON - 2
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ ES HAGONDANGE
+  vs BASKET CLUB LONGWY REHON - 2\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue 
+ Henri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.253
+ 91\,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competi
+ tions/idmu15/match/200000014610511
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610511
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-11-07-15-00-metz-bc-es-hagondange@ffbb-ag
+ enda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:✈️ METZ BC – ES HAGONDANGE
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ METZ BC vs ES
+  HAGONDANGE\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n
+ 🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/20000001461052
+ 5
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610525
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-11-15-10-30-es-hagondange-basket-club-hay
+ ange-mars@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261115T103000
+DTEND;TZID=Europe/Paris:20261115T123000
+SUMMARY:🏠 ES HAGONDANGE – BASKET CLUB HAYANGE MARSPICH
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ ES HAGONDANGE
+  vs BASKET CLUB HAYANGE MARSPICH\n\nCOSEC\n📍 Rue des Pêcheurs Hagondan
+ ge 57300\n🚗 Waze : https://waze.com/ul?ll=49.25007\,6.17271&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/2000
+ 00014610536
+LOCATION:COSEC\, Rue des Pêcheurs Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610536
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-11-21-15-00-asp-ste-marie-aux-chenes-es-h
+ agondange@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:✈️ ASP STE MARIE AUX CHENES – ES HAGONDANGE
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ ASP STE MARIE
+  AUX CHENES vs ES HAGONDANGE\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot Sain
+ te-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.19465\,5
+ .99704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions
+ /idmu15/match/200000014610547
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610547
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,390 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DF2 – GES – Haut-Rhin – Poule B
+X-WR-CALDESC:Tous les matchs DF2 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-09-19-00-00-bc-st-georges-carspach-2-ie-
+ ctc-thur-@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:BC ST GEORGES CARSPACH - 2 – IE - CTC THUR DOLLER BASKET CLUB - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BC ST GEORGE
+ S CARSPACH - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nGYMNASE PLESSIER
+ \n📍 Avenue du 8ème Régiment de Hussards Altkirch 68130\n🚗 Waze : h
+ ttps://waze.com/ul?ll=47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0068/competitions/df2/match/200000014558229
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558229
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-09-19-18-00-as-attenschwiller-basket-clu
+ b-moernac@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:AS ATTENSCHWILLER – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs BASKET CLUB MOERNACH\n\nSALLE POLYVALENTE\n📍 Rue Charles de Ga
+ ulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.
+ 45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ df2/match/200000014558227
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558227
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-09-20-09-00-berrwiller-staffelfelden-bc-
+ 5-union-s@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20260920T090000
+DTEND;TZID=Europe/Paris:20260920T110000
+SUMMARY:BERRWILLER/STAFFELFELDEN BC - 5 – UNION SPORTIVE FLAXLANDEN
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BERRWILLER/S
+ TAFFELFELDEN BC - 5 vs UNION SPORTIVE FLAXLANDEN\n\nSALLE DES SPORTS\n📍
+  Rue de Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?
+ ll=47.85229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/df2/match/200000014558228
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558228
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-09-26-00-00-union-sportive-flaxlanden-as
+ -attensch@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:UNION SPORTIVE FLAXLANDEN – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN vs AS ATTENSCHWILLER\n\nSALLE DE SPORT\n📍 Allée des Noye
+ rs Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?ll=47.69174\,7.32584&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/ma
+ tch/200000014558232
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558232
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-09-26-00-00-basket-club-moernach-ie-ctc-
+ de-l-ill-@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:BASKET CLUB MOERNACH – IE - CTC DE L'ILL - 3
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ MOERNACH vs IE - CTC DE L'ILL - 3\n\nSALLE DE SPORT\n📍 Rue du Maréchal
+ -Ferrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25
+ 416&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df
+ 2/match/200000014558231
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558231
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-09-26-00-00-ie-ctc-thur-doller-basket-cl
+ ub-2-berr@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 2 – BERRWILLER/STAFFELFELDEN B
+ C - 5
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 2 vs BERRWILLER/STAFFELFELDEN BC - 5\n\nCOMPLEXE GA
+ UGLER (GRANDE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗
+  Waze : https://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0068/competitions/df2/match/200000014558233
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558233
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-10-10-00-00-ie-ctc-de-l-ill-3-union-spor
+ tive-flax@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:IE - CTC DE L'ILL - 3 – UNION SPORTIVE FLAXLANDEN
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC DE 
+ L'ILL - 3 vs UNION SPORTIVE FLAXLANDEN\n\nCOMPLEXE SPORTIF E. VOGT\n📍 R
+ ue de l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\
+ ,7.36244&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/df2/match/200000014558238
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558238
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-10-10-00-00-bc-st-georges-carspach-2-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:BC ST GEORGES CARSPACH - 2 – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BC ST GEORGE
+ S CARSPACH - 2 vs BASKET CLUB MOERNACH\n\nGYMNASE PLESSIER\n📍 Avenue du
+  8ème Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/
+ ul?ll=47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0068/competitions/df2/match/200000014558237
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558237
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-10-11-16-30-as-attenschwiller-ie-ctc-thu
+ r-doller-@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261011T163000
+DTEND;TZID=Europe/Paris:20261011T183000
+SUMMARY:AS ATTENSCHWILLER – IE - CTC THUR DOLLER BASKET CLUB - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nSALLE POLYVALENTE\n📍 R
+ ue Charles de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul
+ ?ll=47.56918\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/df2/match/200000014558235
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558235
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-07-00-00-union-sportive-flaxlanden-bc
+ -st-georg@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:UNION SPORTIVE FLAXLANDEN – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN vs BC ST GEORGES CARSPACH - 2\n\nSALLE DE SPORT\n📍 Allée
+  des Noyers Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?ll=47.69174\
+ ,7.32584&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/df2/match/200000014558242
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558242
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-07-00-00-ie-ctc-thur-doller-basket-cl
+ ub-2-ie-c@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 2 – IE - CTC DE L'ILL - 3
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 2 vs IE - CTC DE L'ILL - 3\n\nCOMPLEXE GAUGLER (GRA
+ NDE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : ht
+ tps://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0068/competitions/df2/match/200000014558239
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558239
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-07-00-00-basket-club-moernach-berrwil
+ ler-staff@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:BASKET CLUB MOERNACH – BERRWILLER/STAFFELFELDEN BC - 5
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ MOERNACH vs BERRWILLER/STAFFELFELDEN BC - 5\n\nSALLE DE SPORT\n📍 Rue du
+  Maréchal-Ferrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.4
+ 9889\,7.25416&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/df2/match/200000014558241
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558241
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-14-00-00-ie-ctc-de-l-ill-3-as-attensc
+ hwiller@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:IE - CTC DE L'ILL - 3 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC DE 
+ L'ILL - 3 vs AS ATTENSCHWILLER\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'
+ Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/m
+ atch/200000014558243
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558243
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-14-00-00-basket-club-moernach-union-s
+ portive-f@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:BASKET CLUB MOERNACH – UNION SPORTIVE FLAXLANDEN
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ MOERNACH vs UNION SPORTIVE FLAXLANDEN\n\nSALLE DE SPORT\n📍 Rue du Maré
+ chal-Ferrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,
+ 7.25416&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/df2/match/200000014558244
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558244
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-14-00-00-bc-st-georges-carspach-2-ber
+ rwiller-s@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:BC ST GEORGES CARSPACH - 2 – BERRWILLER/STAFFELFELDEN BC - 5
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BC ST GEORGE
+ S CARSPACH - 2 vs BERRWILLER/STAFFELFELDEN BC - 5\n\nGYMNASE PLESSIER\n
+ 📍 Avenue du 8ème Régiment de Hussards Altkirch 68130\n🚗 Waze : htt
+ ps://waze.com/ul?ll=47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0068/competitions/df2/match/200000014558246
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558246
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-12-05-00-00-ie-ctc-thur-doller-basket-cl
+ ub-2-bask@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 2 – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 2 vs BASKET CLUB MOERNACH\n\nCOMPLEXE GAUGLER (GRAN
+ DE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : htt
+ ps://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0068/competitions/df2/match/200000014558250
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558250
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-12-05-20-00-as-attenschwiller-bc-st-geor
+ ges-carsp@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:AS ATTENSCHWILLER – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs BC ST GEORGES CARSPACH - 2\n\nSALLE POLYVALENTE\n📍 Rue Charles
+  de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.569
+ 18\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/df2/match/200000014558249
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558249
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-12-06-09-00-berrwiller-staffelfelden-bc-
+ 5-ie-ctc-@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261206T090000
+DTEND;TZID=Europe/Paris:20261206T110000
+SUMMARY:BERRWILLER/STAFFELFELDEN BC - 5 – IE - CTC DE L'ILL - 3
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BERRWILLER/S
+ TAFFELFELDEN BC - 5 vs IE - CTC DE L'ILL - 3\n\nSALLE DES SPORTS\n📍 Rue
+  de Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.85229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/df2/match/200000014558247
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558247
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-12-12-00-00-ie-ctc-de-l-ill-3-bc-st-geor
+ ges-carsp@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:IE - CTC DE L'ILL - 3 – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC DE 
+ L'ILL - 3 vs BC ST GEORGES CARSPACH - 2\n\nCOMPLEXE SPORTIF E. VOGT\n📍 
+ Rue de l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701
+ \,7.36244&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/df2/match/200000014558251
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558251
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-12-12-00-00-union-sportive-flaxlanden-ie
+ -ctc-thur@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:UNION SPORTIVE FLAXLANDEN – IE - CTC THUR DOLLER BASKET CLUB - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nSALLE DE SPORT\n
+ 📍 Allée des Noyers Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?l
+ l=47.69174\,7.32584&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/df2/match/200000014558254
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558254
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-12-13-09-00-berrwiller-staffelfelden-bc-
+ 5-as-atte@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261213T090000
+DTEND;TZID=Europe/Paris:20261213T110000
+SUMMARY:BERRWILLER/STAFFELFELDEN BC - 5 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BERRWILLER/S
+ TAFFELFELDEN BC - 5 vs AS ATTENSCHWILLER\n\nSALLE DES SPORTS\n📍 Rue de 
+ Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85
+ 229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/df2/match/200000014558253
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558253
+END:VEVENT
+END:VCALENDAR

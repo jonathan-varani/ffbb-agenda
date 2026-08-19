@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC THUR DOLLER BASKET CLUB - 3  [DF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de IE - CTC THUR DOLLER BASKET CLUB - 3 – DF2 – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-19-00-00-ie-ctc-thur-doller-basket-cl
+ ub-3-as-w@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 IE - CTC THUR DOLLER BASKET CLUB - 3 – AS WICKERSCHWIHR
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 3 vs AS WICKERSCHWIHR\n\nCOMPLEXE GAUGLER (GRANDE S
+ ALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : https:/
+ /waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0068/competitions/df2/match/200000014558200
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558200
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-26-00-00-asc-ste-afre-riedisheim-2-ie
+ -ctc-thur@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 2 – IE - CTC THUR DOLLER BASKET 
+ CLUB - 3
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASC STE AFRE
+  RIEDISHEIM - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nGYMNASE BARTHOL
+ DI\n📍 Rue du Révérend Père Musslin Riedisheim 68400\n🚗 Waze : htt
+ ps://waze.com/ul?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0068/competitions/df2/match/200000014558205
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558205
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-10-10-00-00-ie-ctc-thur-doller-basket-cl
+ ub-3-asc-@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 IE - CTC THUR DOLLER BASKET CLUB - 3 – ASC SAINT ROMAIN REIN
+ INGUE
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 3 vs ASC SAINT ROMAIN REININGUE\n\nCOMPLEXE GAUGLER
+  (GRANDE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze
+  : https://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0068/competitions/df2/match/200000014558208
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558208
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-07-18-00-asca-wittelsheim-ie-ctc-thur
+ -doller-b@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ ASCA WITTELSHEIM – IE - CTC THUR DOLLER BASKET CLUB - 3
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASCA WITTELS
+ HEIM vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nSALLE AMELIE ZURCHER\n📍
+  Rue de la 2ème D.I.M. Wittelsheim 68310\n🚗 Waze : https://waze.com/ul
+ ?ll=47.80135\,7.23869&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/df2/match/200000014558213
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558213
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-15-10-30-basket-club-illzach-ie-ctc-t
+ hur-dolle@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261115T103000
+DTEND;TZID=Europe/Paris:20261115T123000
+SUMMARY:✈️ BASKET CLUB ILLZACH – IE - CTC THUR DOLLER BASKET CLUB - 3
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ BASKET CLUB 
+ ILLZACH vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nGYMNASE DU CANAL\n📍 
+ Rue du Canal Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7
+ .36189&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /df2/match/200000014558218
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558218
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-05-00-00-ie-ctc-thur-doller-basket-cl
+ ub-3-bc-k@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 IE - CTC THUR DOLLER BASKET CLUB - 3 – BC KUNHEIM
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 3 vs BC KUNHEIM\n\nCOMPLEXE GAUGLER (GRANDE SALLE)\
+ n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : https://waze.
+ com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0068/competitions/df2/match/200000014558219
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558219
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-12-00-00-ie-ctc-thur-doller-basket-cl
+ ub-3-ie-c@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 IE - CTC THUR DOLLER BASKET CLUB - 3 – IE - CTC JURA ALSACIE
+ N BASKET - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 3 vs IE - CTC JURA ALSACIEN BASKET - 2\n\nCOMPLEXE 
+ GAUGLER (GRANDE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n
+ 🚗 Waze : https://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/df2/match/200000014558225
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558225
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB THERMAL  [IDMU18 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB THERMAL – IDMU18 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-09-19-18-00-nancy-basketball
+ -3-basket@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:✈️ NANCY BASKETBALL - 3 – BASKET CLUB THERMAL
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ NANCY BASKETBALL - 3 vs BASKET CLUB THERMAL\n\nGYMNASE PIERRE DE COUBERTIN
+ \n📍 Rue de Phalsbourg Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.68294\,6.18168&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615433
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615433
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-09-26-18-00-basket-club-ther
+ mal-cos-v@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:🏠 BASKET CLUB THERMAL – COS VILLERS LES NANCY
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ BASKET CLUB THERMAL vs COS VILLERS LES NANCY\n\nCENTRE PREPARATION OLYMPIQ
+ UE\n📍 Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/
+ ul?ll=48.1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 054/competitions/idmu18/match/200000014615451
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615451
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-10-03-18-00-sluc-nancy-baske
+ t-associa@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – BASKET CLUB THERMAL
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ SLUC NANCY BASKET ASSOCIATION - 2 vs BASKET CLUB THERMAL\n\nGYMNASE LOUIS 
+ ARMAND\n📍 Rue des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/
+ ul?ll=48.67025\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0054/competitions/idmu18/match/200000014615467
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615467
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-10-10-18-00-basket-club-ther
+ mal-saint@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 BASKET CLUB THERMAL – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ BASKET CLUB THERMAL vs SAINT DIE VOSGES BASKET\n\nCENTRE PREPARATION OLYMP
+ IQUE\n📍 Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.co
+ m/ul?ll=48.1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/idmu18/match/200000014615489
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615489
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-11-07-18-00-basket-club-golb
+ ey-epinal@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ BASKET CLUB GOLBEY EPINAL - 2 – BASKET CLUB THERMAL
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ BASKET CLUB GOLBEY EPINAL - 2 vs BASKET CLUB THERMAL\n\nSALLE FERNAND DAVI
+ D\n📍 Avenue de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com
+ /ul?ll=48.19073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/idmu18/match/200000014615525
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615525
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-11-14-18-00-basket-club-ther
+ mal-flevi@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 BASKET CLUB THERMAL – FLEVILLE LOISIRS
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ BASKET CLUB THERMAL vs FLEVILLE LOISIRS\n\nCENTRE PREPARATION OLYMPIQUE\n
+ 📍 Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/ul?l
+ l=48.1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615541
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615541
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-11-21-18-00-as-haut-du-lievr
+ e-nancy-1@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 1 – BASKET CLUB THERMAL
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ AS HAUT DU LIEVRE  NANCY - 1 vs BASKET CLUB THERMAL\n\nGYMNASE BUFFON\n
+ 📍 Rue Dominique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.70167\,6.15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615560
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615560
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-11-28-18-00-basket-club-ther
+ mal-ludre@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:🏠 BASKET CLUB THERMAL – LUDRES PONT ST VINCENT BASKET CL
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ BASKET CLUB THERMAL vs LUDRES PONT ST VINCENT BASKET CL\n\nCENTRE PREPARAT
+ ION OLYMPIQUE\n📍 Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https:
+ //waze.com/ul?ll=48.1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0054/competitions/idmu18/match/200000014615569
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615569
+END:VEVENT
+END:VCALENDAR

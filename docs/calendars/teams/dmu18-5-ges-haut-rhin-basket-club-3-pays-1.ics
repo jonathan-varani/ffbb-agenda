@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET-CLUB 3 PAYS - 1  [DMU18-5 – GES]
+X-WR-CALDESC:Matchs de BASKET-CLUB 3 PAYS - 1 – DMU18-5 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-20-17-30-fcsl-eguisheim-1-basket-club-3-p
+ ays-1@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20260920T173000
+DTEND;TZID=Europe/Paris:20260920T193000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM - 1 v
+ s BASKET-CLUB 3 PAYS - 1\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinter
+ zarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.314
+ 28&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu
+ 18-5/match/200000014560032
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560032
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-27-15-30-basket-club-3-pays-1-abc-lutterb
+ ach-1@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 1 – ABC LUTTERBACH - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  1 vs ABC LUTTERBACH - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hége
+ nheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/
+ 200000014560039
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560039
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-03-00-00-asc-ste-afre-riedisheim-1-basket
+ -club-3-p@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 1 – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ ASC STE AFRE RIEDISH
+ EIM - 1 vs BASKET-CLUB 3 PAYS - 1\n\nGYMNASE BARTHOLDI\n📍 Rue du Révé
+ rend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47
+ .74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu18-5/match/200000014560040
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560040
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-11-15-30-basket-club-3-pays-1-mustangs-as
+ sociation@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 1 – MUSTANGS ASSOCIATION - 2
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  1 vs MUSTANGS ASSOCIATION - 2\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège
+  Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/
+ match/200000014560044
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560044
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-17-00-00-basket-nord-sundgau-2-basket-clu
+ b-3-pays-@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 2 – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 2 vs BASKET-CLUB 3 PAYS - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Il
+ lfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match
+ /200000014560048
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560048
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-25-17-30-basket-club-3-pays-1-cssm-altkir
+ ch@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261025T173000
+DTEND;TZID=Europe/Paris:20261025T193000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 1 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  1 vs CSSM ALTKIRCH\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenheim
+  68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/20000
+ 0014560052
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560052
+END:VEVENT
+END:VCALENDAR

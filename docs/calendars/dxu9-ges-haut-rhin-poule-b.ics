@@ -1,0 +1,642 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DXU9 – GES – Haut-Rhin – Poule B
+X-WR-CALDESC:Tous les matchs DXU9 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-09-19-13-30-asc-ste-afre-riedisheim-1-a
+ bc-lutter@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20260919T133000
+DTEND;TZID=Europe/Paris:20260919T153000
+SUMMARY:ASC STE AFRE RIEDISHEIM - 1 – ABC LUTTERBACH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC STE AFR
+ E RIEDISHEIM - 1 vs ABC LUTTERBACH\n\nGYMNASE BARTHOLDI\n📍 Rue du Rév
+ érend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=
+ 47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dxu9/match/200000014560681
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560681
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-09-26-00-00-basket-nord-sundgau-1-asc-s
+ te-afre-r@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:BASKET NORD SUNDGAU - 1 – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET NORD
+  SUNDGAU - 1 vs ASC STE AFRE RIEDISHEIM - 1\n\nPOLY ILLFURTH\n📍 Route d
+ e Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7
+ .25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dxu9/match/200000014560665
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560665
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-09-26-00-00-ie-ctc-thur-doller-basket-c
+ lub-1-asc@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 1 – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 1 vs ASC SAINT ROMAIN REININGUE\n\nSALLE DE SPORTS
+  DANIEL ECK\n📍 Cernay 68700\n🚗 Waze : https://waze.com/ul?ll=47.8091
+ 5\,7.17839&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dxu9/match/200000014560666
+LOCATION:SALLE DE SPORTS DANIEL ECK\, Cernay 68700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560666
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-09-26-00-00-cssm-altkirch-asl-dessenhei
+ m-2@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:CSSM ALTKIRCH – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKIR
+ CH vs ASL DESSENHEIM - 2\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altkirch
+  68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/200000014
+ 560663
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560663
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-09-26-15-00-basket-club-3-pays-1-abc-lu
+ tterbach@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:BASKET-CLUB 3 PAYS - 1 – ABC LUTTERBACH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET-CLUB
+  3 PAYS - 1 vs ABC LUTTERBACH\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège 
+ Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/matc
+ h/200000014560664
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560664
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-03-00-00-asc-ste-afre-riedisheim-1-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:ASC STE AFRE RIEDISHEIM - 1 – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC STE AFR
+ E RIEDISHEIM - 1 vs BASKET-CLUB 3 PAYS - 1\n\nGYMNASE BARTHOLDI\n📍 Rue 
+ du Révérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com
+ /ul?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0068/competitions/dxu9/match/200000014560669
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560669
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-03-00-00-asl-dessenheim-2-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:ASL DESSENHEIM - 2 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASL DESSENH
+ EIM - 2 vs BASKET CLUB SIERENTZ\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Co
+ lmar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.4842
+ 6&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560672
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560672
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-03-13-30-abc-lutterbach-cssm-altkirc
+ h@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:ABC LUTTERBACH – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERB
+ ACH vs CSSM ALTKIRCH\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach 68460\
+ n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/200000014560668
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560668
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-03-14-30-asc-saint-romain-reiningue-
+ basket-no@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261003T143000
+DTEND;TZID=Europe/Paris:20261003T163000
+SUMMARY:ASC SAINT ROMAIN REININGUE – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC SAINT R
+ OMAIN REININGUE vs BASKET NORD SUNDGAU - 1\n\nHALLE DES SPORTS\n📍 Rue d
+ es Pierres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7
+ .23204&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dxu9/match/200000014560670
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560670
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-10-00-00-cssm-altkirch-asc-ste-afre-
+ riedishei@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:CSSM ALTKIRCH – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKIR
+ CH vs ASC STE AFRE RIEDISHEIM - 1\n\nLA PALESTRE\n📍 Chemin de Hirtzbach
+  Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/
+ 200000014560673
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560673
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-10-00-00-ie-ctc-thur-doller-basket-c
+ lub-1-bas@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 1 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 1 vs BASKET CLUB SIERENTZ\n\nSALLE DE SPORTS DANIE
+ L ECK\n📍 Cernay 68700\n🚗 Waze : https://waze.com/ul?ll=47.80915\,7.1
+ 7839&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ xu9/match/200000014560676
+LOCATION:SALLE DE SPORTS DANIEL ECK\, Cernay 68700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560676
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-10-00-00-asl-dessenheim-2-abc-lutter
+ bach@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:ASL DESSENHEIM - 2 – ABC LUTTERBACH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASL DESSENH
+ EIM - 2 vs ABC LUTTERBACH\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar D
+ essenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match
+ /200000014560677
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560677
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-10-13-30-basket-club-3-pays-1-asc-sa
+ int-romai@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:BASKET-CLUB 3 PAYS - 1 – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET-CLUB
+  3 PAYS - 1 vs ASC SAINT ROMAIN REININGUE\n\nCOSEC DE HEGENHEIM\n📍 Rue 
+ du Collège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\
+ ,7.52639&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dxu9/match/200000014560674
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560674
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-17-00-00-ie-ctc-thur-doller-basket-c
+ lub-1-asl@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 1 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 1 vs ASL DESSENHEIM - 2\n\nSALLE DE SPORTS DANIEL 
+ ECK\n📍 Cernay 68700\n🚗 Waze : https://waze.com/ul?ll=47.80915\,7.178
+ 39&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu
+ 9/match/200000014560682
+LOCATION:SALLE DE SPORTS DANIEL ECK\, Cernay 68700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560682
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-17-13-30-basket-club-sierentz-basket
+ -nord-sun@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261017T133000
+DTEND;TZID=Europe/Paris:20261017T153000
+SUMMARY:BASKET CLUB SIERENTZ – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB
+  SIERENTZ vs BASKET NORD SUNDGAU - 1\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Ro
+ gg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.459
+ 55&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu
+ 9/match/200000014560680
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560680
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-17-14-30-asc-saint-romain-reiningue-
+ cssm-altk@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261017T143000
+DTEND;TZID=Europe/Paris:20261017T163000
+SUMMARY:ASC SAINT ROMAIN REININGUE – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC SAINT R
+ OMAIN REININGUE vs CSSM ALTKIRCH\n\nHALLE DES SPORTS\n📍 Rue des Pierres
+  Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/matc
+ h/200000014560678
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560678
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-07-00-00-asl-dessenheim-2-asc-ste-af
+ re-riedis@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:ASL DESSENHEIM - 2 – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASL DESSENH
+ EIM - 2 vs ASC STE AFRE RIEDISHEIM - 1\n\nSALLE SPORTS ET LOISIRS\n📍 Ru
+ e de Colmar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\
+ ,7.48426&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dxu9/match/200000014560687
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560687
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-07-13-30-basket-club-3-pays-1-basket
+ -club-sie@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:BASKET-CLUB 3 PAYS - 1 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET-CLUB
+  3 PAYS - 1 vs BASKET CLUB SIERENTZ\n\nCOSEC DE HEGENHEIM\n📍 Rue du Col
+ lège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.526
+ 39&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu
+ 9/match/200000014560684
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560684
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-07-16-00-abc-lutterbach-asc-saint-ro
+ main-rein@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:ABC LUTTERBACH – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERB
+ ACH vs ASC SAINT ROMAIN REININGUE\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutt
+ erbach 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20
+ 0000014560686
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560686
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-14-00-00-ie-ctc-thur-doller-basket-c
+ lub-1-bas@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 1 – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 1 vs BASKET-CLUB 3 PAYS - 1\n\nSALLE DE SPORTS DAN
+ IEL ECK\n📍 Cernay 68700\n🚗 Waze : https://waze.com/ul?ll=47.80915\,7
+ .17839&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dxu9/match/200000014560689
+LOCATION:SALLE DE SPORTS DANIEL ECK\, Cernay 68700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560689
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-14-00-00-basket-nord-sundgau-1-asl-d
+ essenheim@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:BASKET NORD SUNDGAU - 1 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET NORD
+  SUNDGAU - 1 vs ASL DESSENHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spechba
+ ch Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/mat
+ ch/200000014560692
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560692
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-14-13-30-basket-club-sierentz-cssm-a
+ ltkirch@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261114T133000
+DTEND;TZID=Europe/Paris:20261114T153000
+SUMMARY:BASKET CLUB SIERENTZ – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB
+  SIERENTZ vs CSSM ALTKIRCH\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas Si
+ erentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20
+ 0000014560688
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560688
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-14-14-30-asc-saint-romain-reiningue-
+ asc-ste-a@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261114T143000
+DTEND;TZID=Europe/Paris:20261114T163000
+SUMMARY:ASC SAINT ROMAIN REININGUE – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC SAINT R
+ OMAIN REININGUE vs ASC STE AFRE RIEDISHEIM - 1\n\nHALLE DES SPORTS\n📍 R
+ ue des Pierres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.7527
+ 5\,7.23204&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dxu9/match/200000014560690
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560690
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-21-00-00-cssm-altkirch-ie-ctc-thur-d
+ oller-bas@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:CSSM ALTKIRCH – IE - CTC THUR DOLLER BASKET CLUB - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKIR
+ CH vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nLA PALESTRE\n📍 Chemin de 
+ Hirtzbach Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23
+ 491&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dx
+ u9/match/200000014560693
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560693
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-21-13-30-basket-club-3-pays-1-basket
+ -nord-sun@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261121T133000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:BASKET-CLUB 3 PAYS - 1 – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET-CLUB
+  3 PAYS - 1 vs BASKET NORD SUNDGAU - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du 
+ Collège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.
+ 52639&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dxu9/match/200000014560694
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560694
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-21-14-00-abc-lutterbach-basket-club-
+ sierentz@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:ABC LUTTERBACH – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERB
+ ACH vs BASKET CLUB SIERENTZ\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach
+  68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000001
+ 4560695
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560695
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-21-14-30-asc-saint-romain-reiningue-
+ asl-desse@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261121T143000
+DTEND;TZID=Europe/Paris:20261121T163000
+SUMMARY:ASC SAINT ROMAIN REININGUE – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC SAINT R
+ OMAIN REININGUE vs ASL DESSENHEIM - 2\n\nHALLE DES SPORTS\n📍 Rue des Pi
+ erres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.2320
+ 4&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560697
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560697
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-28-13-30-basket-nord-sundgau-1-ie-ct
+ c-thur-do@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261128T133000
+DTEND;TZID=Europe/Paris:20261128T153000
+SUMMARY:BASKET NORD SUNDGAU - 1 – IE - CTC THUR DOLLER BASKET CLUB - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET NORD
+  SUNDGAU - 1 vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nPOLY SPECHBACH\n
+ 📍 Place de l'Église Spechbach 68720\n🚗 Waze : https://waze.com/ul?l
+ l=47.66884\,7.22709&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/dxu9/match/200000014560685
+LOCATION:POLY SPECHBACH\, Place de l'Église Spechbach 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560685
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-05-00-00-asc-ste-afre-riedisheim-1-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:ASC STE AFRE RIEDISHEIM - 1 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC STE AFR
+ E RIEDISHEIM - 1 vs BASKET CLUB SIERENTZ\n\nGYMNASE BARTHOLDI\n📍 Rue du
+  Révérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/u
+ l?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 068/competitions/dxu9/match/200000014560700
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560700
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-05-00-00-ie-ctc-thur-doller-basket-c
+ lub-1-abc@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 1 – ABC LUTTERBACH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 1 vs ABC LUTTERBACH\n\nSALLE DE SPORTS DANIEL ECK\
+ n📍 Cernay 68700\n🚗 Waze : https://waze.com/ul?ll=47.80915\,7.17839&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/ma
+ tch/200000014560699
+LOCATION:SALLE DE SPORTS DANIEL ECK\, Cernay 68700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560699
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-05-00-00-basket-nord-sundgau-1-cssm-
+ altkirch@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:BASKET NORD SUNDGAU - 1 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET NORD
+  SUNDGAU - 1 vs CSSM ALTKIRCH\n\nPOLY ILLFURTH\n📍 Route de Spechbach Il
+ lfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20
+ 0000014560698
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560698
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-05-13-30-basket-club-3-pays-1-asl-de
+ ssenheim-@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261205T133000
+DTEND;TZID=Europe/Paris:20261205T153000
+SUMMARY:BASKET-CLUB 3 PAYS - 1 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET-CLUB
+  3 PAYS - 1 vs ASL DESSENHEIM - 2\n\nCOSEC DE HEGENHEIM\n📍 Rue du Coll
+ ège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.5263
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560702
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560702
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-12-00-00-asc-ste-afre-riedisheim-1-i
+ e-ctc-thu@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:ASC STE AFRE RIEDISHEIM - 1 – IE - CTC THUR DOLLER BASKET CLUB - 
+ 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC STE AFR
+ E RIEDISHEIM - 1 vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nGYMNASE BARTHO
+ LDI\n📍 Rue du Révérend Père Musslin Riedisheim 68400\n🚗 Waze : ht
+ tps://waze.com/ul?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0068/competitions/dxu9/match/200000014560705
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560705
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-12-00-00-cssm-altkirch-basket-club-3
+ -pays-1@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:CSSM ALTKIRCH – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKIR
+ CH vs BASKET-CLUB 3 PAYS - 1\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altk
+ irch 68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000
+ 0014560703
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560703
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-12-13-30-basket-club-sierentz-asc-sa
+ int-romai@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261212T133000
+DTEND;TZID=Europe/Paris:20261212T153000
+SUMMARY:BASKET CLUB SIERENTZ – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB
+  SIERENTZ vs ASC SAINT ROMAIN REININGUE\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue
+  Rogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.
+ 45955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dxu9/match/200000014560706
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560706
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-12-13-30-abc-lutterbach-basket-nord-
+ sundgau-1@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261212T133000
+DTEND;TZID=Europe/Paris:20261212T153000
+SUMMARY:ABC LUTTERBACH – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERB
+ ACH vs BASKET NORD SUNDGAU - 1\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterb
+ ach 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000
+ 0014560704
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560704
+END:VEVENT
+END:VCALENDAR

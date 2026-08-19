@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – UNION SPORTIVE DE LAIFOUR - 1  [PRM – GES – Poule A]
+X-WR-CALDESC:Matchs de UNION SPORTIVE DE LAIFOUR - 1 – PRM – GES – Ardennes – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2026-09-26-20-00-basket-club-de-haraucourt-1-u
+ nion-spor@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ BASKET CLUB DE HARAUCOURT - 1 – UNION SPORTIVE DE LAIFOUR 
+ - 1
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ BASKET CLUB D
+ E HARAUCOURT - 1 vs UNION SPORTIVE DE LAIFOUR - 1\n\nSALLE MUNICIPALE\n
+ 📍 Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.61976\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/
+ competitions/prm/match/200000014570984
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014570984
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2026-10-03-00-00-villers-semeuse-basket-2-unio
+ n-sportiv@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET - 2 – UNION SPORTIVE DE LAIFOUR - 1
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ VILLERS SEMEU
+ SE BASKET - 2 vs UNION SPORTIVE DE LAIFOUR - 1\n\nCOSEC\n📍 Avenue Jean 
+ Jaurès Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096
+ \,4.74446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competiti
+ ons/prm/match/200000014570990
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014570990
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2026-10-10-00-00-union-sportive-de-laifour-1-f
+ lammes-ca@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 UNION SPORTIVE DE LAIFOUR - 1 – FLAMMES CAROLO BASKET ARDENN
+ ES
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ UNION SPORTIV
+ E DE LAIFOUR - 1 vs FLAMMES CAROLO BASKET ARDENNES\n\nSALLE J.GILLARD\n
+ 📍 Rue de la Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.9
+ 1125\,4.69269&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/compe
+ titions/prm/match/200000014570995
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014570995
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2026-10-24-00-00-etoile-de-charleville-meziere
+ s-union-s@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20261024T000000
+DTEND;TZID=Europe/Paris:20261024T020000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES – UNION SPORTIVE DE LAIFOUR
+  - 1
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ ETOILE DE CHA
+ RLEVILLE MEZIERES vs UNION SPORTIVE DE LAIFOUR - 1\n\nGuinguette Arena\n
+ 📍 Rue de la Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : htt
+ ps://waze.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0008/competitions/prm/match/200000014571002
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571002
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2026-10-31-00-00-union-sportive-de-laifour-1-r
+ ethel-spo@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20261031T000000
+DTEND;TZID=Europe/Paris:20261031T020000
+SUMMARY:🏠 UNION SPORTIVE DE LAIFOUR - 1 – RETHEL SPORTIF BASKET
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ UNION SPORTIV
+ E DE LAIFOUR - 1 vs RETHEL SPORTIF BASKET\n\nSALLE J.GILLARD\n📍 Rue de 
+ la Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.91125\,4.6926
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571005
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571005
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2026-11-07-00-00-union-sportive-de-laifour-1-e
+ a-vaillan@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 UNION SPORTIVE DE LAIFOUR - 1 – EA VAILLANTE VRIGNE AUX BOIS
+  - 1
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ UNION SPORTIV
+ E DE LAIFOUR - 1 vs EA VAILLANTE VRIGNE AUX BOIS - 1\n\nSALLE J.GILLARD\n
+ 📍 Rue de la Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.9
+ 1125\,4.69269&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/compe
+ titions/prm/match/200000014571009
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571009
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2026-11-14-00-00-union-sportive-de-laifour-1-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 UNION SPORTIVE DE LAIFOUR - 1 – BASKET CLUB DE HARAUCOURT - 
+ 1
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ UNION SPORTIV
+ E DE LAIFOUR - 1 vs BASKET CLUB DE HARAUCOURT - 1\n\nSALLE J.GILLARD\n📍
+  Rue de la Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.91125
+ \,4.69269&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competiti
+ ons/prm/match/200000014571012
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571012
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2026-11-21-00-00-union-sportive-de-laifour-1-v
+ illers-se@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 UNION SPORTIVE DE LAIFOUR - 1 – VILLERS SEMEUSE BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ UNION SPORTIV
+ E DE LAIFOUR - 1 vs VILLERS SEMEUSE BASKET - 2\n\nSALLE J.GILLARD\n📍 Ru
+ e de la Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.91125\,4
+ .69269&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions
+ /prm/match/200000014571018
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571018
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2026-12-05-00-00-flammes-carolo-basket-ardenne
+ s-union-s@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ FLAMMES CAROLO BASKET ARDENNES – UNION SPORTIVE DE LAIFOUR
+  - 1
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ FLAMMES CAROL
+ O BASKET ARDENNES vs UNION SPORTIVE DE LAIFOUR - 1\n\nGuinguette Arena\n
+ 📍 Rue de la Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : htt
+ ps://waze.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0008/competitions/prm/match/200000014571023
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571023
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2027-01-09-00-00-union-sportive-de-laifour-1-e
+ toile-de-@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20270109T000000
+DTEND;TZID=Europe/Paris:20270109T020000
+SUMMARY:🏠 UNION SPORTIVE DE LAIFOUR - 1 – ETOILE DE CHARLEVILLE MEZIER
+ ES
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ UNION SPORTIV
+ E DE LAIFOUR - 1 vs ETOILE DE CHARLEVILLE MEZIERES\n\nSALLE J.GILLARD\n
+ 📍 Rue de la Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.9
+ 1125\,4.69269&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/compe
+ titions/prm/match/200000014571030
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571030
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2027-01-16-00-00-rethel-sportif-basket-union-s
+ portive-d@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ RETHEL SPORTIF BASKET – UNION SPORTIVE DE LAIFOUR - 1
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ RETHEL SPORTI
+ F BASKET vs UNION SPORTIVE DE LAIFOUR - 1\n\nGYMNASE MERMOZ\n📍 Rue Norm
+ andie-Niémen Rethel 08300\n🚗 Waze : https://waze.com/ul?ll=49.5165\,4.
+ 37261&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/
+ prm/match/200000014571033
+LOCATION:GYMNASE MERMOZ\, Rue Normandie-Niémen Rethel 08300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571033
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-ardennes-poule-a-2027-01-23-00-00-ea-vaillante-vrigne-aux-bois-
+ 1-union-s@ffbb-agenda
+DTSTAMP:20260819T080559Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ EA VAILLANTE VRIGNE AUX BOIS - 1 – UNION SPORTIVE DE LAIFO
+ UR - 1
+DESCRIPTION:🏀 PRM – GES – Ardennes – Poule A\n⚔️ EA VAILLANTE 
+ VRIGNE AUX BOIS - 1 vs UNION SPORTIVE DE LAIFOUR - 1\n\nSALLE BEREGOVOY\n
+ 📍 Avenue Jean Jaurès Vrigne aux Bois 08330\n🚗 Waze : https://waze.c
+ om/ul?ll=49.73658\,4.85224&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0008/competitions/prm/match/200000014571037
+LOCATION:SALLE BEREGOVOY\, Avenue Jean Jaurès Vrigne aux Bois 08330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/prm/
+ match/200000014571037
+END:VEVENT
+END:VCALENDAR

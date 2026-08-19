@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASC SAINT ROMAIN REININGUE  [DXU9 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASC SAINT ROMAIN REININGUE – DXU9 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-09-26-00-00-ie-ctc-thur-doller-basket-c
+ lub-1-asc@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 1 – ASC SAINT ROMAIN RE
+ ININGUE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 1 vs ASC SAINT ROMAIN REININGUE\n\nSALLE DE SPORTS
+  DANIEL ECK\n📍 Cernay 68700\n🚗 Waze : https://waze.com/ul?ll=47.8091
+ 5\,7.17839&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dxu9/match/200000014560666
+LOCATION:SALLE DE SPORTS DANIEL ECK\, Cernay 68700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560666
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-03-14-30-asc-saint-romain-reiningue-
+ basket-no@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261003T143000
+DTEND;TZID=Europe/Paris:20261003T163000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC SAINT R
+ OMAIN REININGUE vs BASKET NORD SUNDGAU - 1\n\nHALLE DES SPORTS\n📍 Rue d
+ es Pierres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7
+ .23204&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dxu9/match/200000014560670
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560670
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-10-13-30-basket-club-3-pays-1-asc-sa
+ int-romai@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 1 – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET-CLUB
+  3 PAYS - 1 vs ASC SAINT ROMAIN REININGUE\n\nCOSEC DE HEGENHEIM\n📍 Rue 
+ du Collège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\
+ ,7.52639&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dxu9/match/200000014560674
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560674
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-17-14-30-asc-saint-romain-reiningue-
+ cssm-altk@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261017T143000
+DTEND;TZID=Europe/Paris:20261017T163000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC SAINT R
+ OMAIN REININGUE vs CSSM ALTKIRCH\n\nHALLE DES SPORTS\n📍 Rue des Pierres
+  Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/matc
+ h/200000014560678
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560678
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-07-16-00-abc-lutterbach-asc-saint-ro
+ main-rein@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:✈️ ABC LUTTERBACH – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERB
+ ACH vs ASC SAINT ROMAIN REININGUE\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutt
+ erbach 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20
+ 0000014560686
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560686
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-14-14-30-asc-saint-romain-reiningue-
+ asc-ste-a@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261114T143000
+DTEND;TZID=Europe/Paris:20261114T163000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC SAINT R
+ OMAIN REININGUE vs ASC STE AFRE RIEDISHEIM - 1\n\nHALLE DES SPORTS\n📍 R
+ ue des Pierres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.7527
+ 5\,7.23204&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dxu9/match/200000014560690
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560690
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-21-14-30-asc-saint-romain-reiningue-
+ asl-desse@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261121T143000
+DTEND;TZID=Europe/Paris:20261121T163000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC SAINT R
+ OMAIN REININGUE vs ASL DESSENHEIM - 2\n\nHALLE DES SPORTS\n📍 Rue des Pi
+ erres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.2320
+ 4&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560697
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560697
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-12-13-30-basket-club-sierentz-asc-sa
+ int-romai@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261212T133000
+DTEND;TZID=Europe/Paris:20261212T153000
+SUMMARY:✈️ BASKET CLUB SIERENTZ – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB
+  SIERENTZ vs ASC SAINT ROMAIN REININGUE\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue
+  Rogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.
+ 45955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dxu9/match/200000014560706
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560706
+END:VEVENT
+END:VCALENDAR

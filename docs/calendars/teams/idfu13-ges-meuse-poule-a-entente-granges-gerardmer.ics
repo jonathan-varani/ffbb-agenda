@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ENTENTE GRANGES GERARDMER  [IDFU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de ENTENTE GRANGES GERARDMER – IDFU13 – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-19-13-30-basket-all-star-mussipontain-
+ entente-g@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20260919T133000
+DTEND;TZID=Europe/Paris:20260919T153000
+SUMMARY:✈️ BASKET ALL STAR MUSSIPONTAIN – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ BASKET ALL ST
+ AR MUSSIPONTAIN vs ENTENTE GRANGES GERARDMER\n\nCENTRE DES SPORTS BERNARD 
+ GUY 1\n📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : htt
+ ps://waze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0055/competitions/idfu13/match/200000014616244
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616244
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-26-13-30-entente-granges-gerardmer-as-
+ haut-du-l@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:🏠 ENTENTE GRANGES GERARDMER – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ ENTENTE GRANG
+ ES GERARDMER vs AS HAUT DU LIEVRE  NANCY\n\nGYMNASE PIERRE ET PAUL DIDIER\
+ n📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616250
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616250
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-10-03-14-00-sluc-nancy-basket-association
+ -1-entent@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – ENTENTE GRANGES GERARD
+ MER
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 1 vs ENTENTE GRANGES GERARDMER\n\nGYMNASE DU PLACIEUX\n
+ 📍 Rue John Fitzgerald Kennedy Villers-lès-Nancy 54600\n🚗 Waze : htt
+ ps://waze.com/ul?ll=48.67325\,6.16224&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0055/competitions/idfu13/match/200000014616256
+LOCATION:GYMNASE DU PLACIEUX\, Rue John Fitzgerald Kennedy Villers-lès-Nan
+ cy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616256
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-10-10-13-30-entente-granges-gerardmer-sai
+ nt-die-vo@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:🏠 ENTENTE GRANGES GERARDMER – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ ENTENTE GRANG
+ ES GERARDMER vs SAINT DIE VOSGES BASKET\n\nGYMNASE PIERRE ET PAUL DIDIER\n
+ 📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=48
+ .07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616265
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616265
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-14-13-30-basket-club-golbey-epinal-ent
+ ente-gran@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261114T133000
+DTEND;TZID=Europe/Paris:20261114T153000
+SUMMARY:✈️ BASKET CLUB GOLBEY EPINAL – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ BASKET CLUB G
+ OLBEY EPINAL vs ENTENTE GRANGES GERARDMER\n\nSALLE FERNAND DAVID\n📍 Ave
+ nue de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com/ul?ll=48.1
+ 9073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/idfu13/match/200000014616279
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616279
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-21-13-30-entente-granges-gerardmer-us-
+ silvange-@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261121T133000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:🏠 ENTENTE GRANGES GERARDMER – US SILVANGE BASKET - 2
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ ENTENTE GRANG
+ ES GERARDMER vs US SILVANGE BASKET - 2\n\nGYMNASE PIERRE ET PAUL DIDIER\n
+ 📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=48
+ .07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616283
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616283
+END:VEVENT
+END:VCALENDAR

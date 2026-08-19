@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – COLMAR BASKET - 2  [PRM – GES – Poule Unique]
+X-WR-CALDESC:Matchs de COLMAR BASKET - 2 – PRM – GES – Haut-Rhin – Poule Unique
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-09-19-18-00-colmar-basket-2-fcsl-eg
+ uisheim-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:🏠 COLMAR BASKET - 2 – FCSL EGUISHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs FCSL EGUISHEIM - 1\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'
+ Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/ma
+ tch/200000014561085
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561085
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-09-26-00-00-bc-kunheim-1-colmar-bas
+ ket-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BC KUNHEIM - 1 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs COLMAR BASKET - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kun
+ heim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/200000
+ 014561091
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561091
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-10-03-18-00-colmar-basket-2-guebwil
+ ler-as-sa@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 COLMAR BASKET - 2 – GUEBWILLER AS SAINT LEGER - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs GUEBWILLER AS SAINT LEGER - 1\n\nGYMNASE CAMILLE SEE\n📍 A
+ venue de l'Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.0806
+ 7\,7.32589&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/prm/match/200000014561097
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561097
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-10-17-20-30-basket-club-de-kingersh
+ eim-1-col@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM - 1 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ CLUB DE KINGERSHEIM - 1 vs COLMAR BASKET - 2\n\nCOSEC KINGERSHEIM\n📍 Ru
+ e Pierre de Coubertin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?l
+ l=47.78757\,7.32801&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/prm/match/200000014561103
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561103
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-11-07-20-30-colmar-basket-2-asl-des
+ senheim-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 COLMAR BASKET - 2 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs ASL DESSENHEIM - 2\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'
+ Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/ma
+ tch/200000014561109
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561109
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-11-14-20-00-abc-lutterbach-1-colmar
+ -basket-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ ABC LUTTERBACH - 1 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ ABC LUT
+ TERBACH - 1 vs COLMAR BASKET - 2\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutte
+ rbach 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/2000
+ 00014561115
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561115
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-11-22-17-00-cssl-rixheim-2-colmar-b
+ asket-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261122T170000
+DTEND;TZID=Europe/Paris:20261122T190000
+SUMMARY:✈️ CSSL RIXHEIM - 2 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ CSSL RI
+ XHEIM - 2 vs COLMAR BASKET - 2\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Ri
+ xheim 68170\n🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/2000
+ 00014561121
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561121
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-12-05-17-30-colmar-basket-2-mustang
+ s-associa@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261205T173000
+DTEND;TZID=Europe/Paris:20261205T193000
+SUMMARY:🏠 COLMAR BASKET - 2 – MUSTANGS ASSOCIATION - 3
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs MUSTANGS ASSOCIATION - 3\n\nGYMNASE CAMILLE SEE\n📍 Avenue
+  de l'Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.
+ 32589&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ prm/match/200000014561127
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561127
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-12-13-17-30-colmar-basket-2-csc-rus
+ tenhart-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261213T173000
+DTEND;TZID=Europe/Paris:20261213T193000
+SUMMARY:🏠 COLMAR BASKET - 2 – CSC RUSTENHART - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs CSC RUSTENHART - 1\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'
+ Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/ma
+ tch/200000014561132
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561132
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-12-19-00-00-basket-nord-sundgau-2-c
+ olmar-bas@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 2 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs COLMAR BASKET - 2\n\nPOLY ILLFURTH\n📍 Route de Spec
+ hbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/m
+ atch/200000014561137
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561137
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-01-16-00-00-colmar-basket-2-ie-ctc-
+ thur-doll@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 COLMAR BASKET - 2 – IE - CTC THUR DOLLER BASKET CLUB - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nGYMNASE CAMILLE SEE\
+ n📍 Avenue de l'Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=
+ 48.08067\,7.32589&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/prm/match/200000014561144
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561144
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-01-23-20-30-fcsl-eguisheim-1-colmar
+ -basket-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM - 1 vs COLMAR BASKET - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue d
+ e Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.0443
+ 9\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/prm/match/200000014561151
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561151
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-02-06-00-00-colmar-basket-2-bc-kunh
+ eim-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 COLMAR BASKET - 2 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs BC KUNHEIM - 1\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Euro
+ pe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/
+ 200000014561157
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561157
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-02-13-00-00-guebwiller-as-saint-leg
+ er-1-colm@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 1 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ GUEBWIL
+ LER AS SAINT LEGER - 1 vs COLMAR BASKET - 2\n\nGYMNASE THEODORE DECK\n📍
+  Rue Théodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.90723\,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/prm/match/200000014561163
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561163
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-03-13-18-00-colmar-basket-2-basket-
+ club-de-k@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270313T180000
+DTEND;TZID=Europe/Paris:20270313T200000
+SUMMARY:🏠 COLMAR BASKET - 2 – BASKET CLUB DE KINGERSHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs BASKET CLUB DE KINGERSHEIM - 1\n\nGYMNASE CAMILLE SEE\n📍 
+ Avenue de l'Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.080
+ 67\,7.32589&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/prm/match/200000014561169
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561169
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-03-20-00-00-asl-dessenheim-2-colmar
+ -basket-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ ASL DESSENHEIM - 2 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ ASL DES
+ SENHEIM - 2 vs COLMAR BASKET - 2\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de C
+ olmar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.484
+ 26&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm
+ /match/200000014561175
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561175
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-04-03-18-00-colmar-basket-2-abc-lut
+ terbach-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270403T180000
+DTEND;TZID=Europe/Paris:20270403T200000
+SUMMARY:🏠 COLMAR BASKET - 2 – ABC LUTTERBACH - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs ABC LUTTERBACH - 1\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'
+ Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/ma
+ tch/200000014561181
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561181
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-04-10-00-00-colmar-basket-2-cssl-ri
+ xheim-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 COLMAR BASKET - 2 – CSSL RIXHEIM - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs CSSL RIXHEIM - 2\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Eu
+ rope Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/matc
+ h/200000014561187
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561187
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-04-18-17-30-mustangs-association-3-
+ colmar-ba@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270418T173000
+DTEND;TZID=Europe/Paris:20270418T193000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 3 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ MUSTANG
+ S ASSOCIATION - 3 vs COLMAR BASKET - 2\n\nSALLE POLYVALENTE\n📍 Rue de K
+ ingersheim Pfastatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.
+ 30777&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ prm/match/200000014561193
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561193
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-05-15-00-00-csc-rustenhart-1-colmar
+ -basket-2@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ CSC RUSTENHART - 1 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ CSC RUS
+ TENHART - 1 vs COLMAR BASKET - 2\n\nSALLE POLYVALENTE\n📍 Rue des Violet
+ tes Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/mat
+ ch/200000014561198
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561198
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-05-22-00-00-colmar-basket-2-basket-
+ nord-sund@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:🏠 COLMAR BASKET - 2 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs BASKET NORD SUNDGAU - 2\n\nGYMNASE CAMILLE SEE\n📍 Avenue 
+ de l'Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.3
+ 2589&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/p
+ rm/match/200000014561203
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561203
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-05-29-00-00-ie-ctc-thur-doller-bask
+ et-club-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270529T000000
+DTEND;TZID=Europe/Paris:20270529T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 1 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ IE - CT
+ C THUR DOLLER BASKET CLUB - 1 vs COLMAR BASKET - 2\n\nCENTRE SPORTIF BOURG
+ ER\n📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : https://waz
+ e.com/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0068/competitions/prm/match/200000014561210
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561210
+END:VEVENT
+END:VCALENDAR

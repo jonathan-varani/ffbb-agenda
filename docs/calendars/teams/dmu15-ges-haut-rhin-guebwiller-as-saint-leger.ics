@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GUEBWILLER AS SAINT LEGER  [DMU15 – GES]
+X-WR-CALDESC:Matchs de GUEBWILLER AS SAINT LEGER – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-20-14-00-basket-club-sierentz-guebwiller-as
+ -saint-le@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20260920T140000
+DTEND;TZID=Europe/Paris:20260920T160000
+SUMMARY:✈️ BASKET CLUB SIERENTZ – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB SIERENTZ v
+ s GUEBWILLER AS SAINT LEGER\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas S
+ ierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/
+ 200000014559864
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559864
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-26-00-00-guebwiller-as-saint-leger-mulhouse
+ -basket-c@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – MULHOUSE BASKET CLUB AMATEUR
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT LE
+ GER vs MULHOUSE BASKET CLUB AMATEUR\n\nGYMNASE THEODORE DECK\n📍 Rue Th
+ éodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723
+ \,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu15/match/200000014559868
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559868
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-00-00-ie-ctc-de-l-ill-2-guebwiller-as-sa
+ int-leger@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 2 – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 2 
+ vs GUEBWILLER AS SAINT LEGER\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'Il
+ l Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/m
+ atch/200000014559871
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559871
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-10-00-00-guebwiller-as-saint-leger-asc-ste-
+ afre-ried@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT LE
+ GER vs ASC STE AFRE RIEDISHEIM - 2\n\nGYMNASE THEODORE DECK\n📍 Rue Thé
+ odore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723\,
+ 7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dmu15/match/200000014559873
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559873
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-17-00-00-guebwiller-as-saint-leger-bc-st-ge
+ orges-car@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT LE
+ GER vs BC ST GEORGES CARSPACH\n\nGYMNASE THEODORE DECK\n📍 Rue Théodore
+  Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723\,7.209
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559875
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559875
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-07-00-00-guebwiller-as-saint-leger-basket-c
+ lub-siere@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT LE
+ GER vs BASKET CLUB SIERENTZ\n\nGYMNASE THEODORE DECK\n📍 Rue Théodore D
+ eck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723\,7.2099&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/
+ match/200000014559879
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559879
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-15-11-00-mulhouse-basket-club-amateur-guebw
+ iller-as-@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261115T110000
+DTEND;TZID=Europe/Paris:20261115T130000
+SUMMARY:✈️ MULHOUSE BASKET CLUB AMATEUR – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ MULHOUSE BASKET CLUB A
+ MATEUR vs GUEBWILLER AS SAINT LEGER\n\nGYMNASE MARCEL TSCHANZ\n📍 Rue Al
+ bert Camus Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73426\,7.
+ 30339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dmu15/match/200000014559883
+LOCATION:GYMNASE MARCEL TSCHANZ\, Rue Albert Camus Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559883
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-21-19-00-asc-ste-afre-riedisheim-2-guebwill
+ er-as-sai@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261121T190000
+DTEND;TZID=Europe/Paris:20261121T210000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 2 – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC STE AFRE RIEDISHEI
+ M - 2 vs GUEBWILLER AS SAINT LEGER\n\nGYMNASE BARTHOLDI\n📍 Rue du Rév
+ érend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=
+ 47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu15/match/200000014559888
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559888
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-00-00-guebwiller-as-saint-leger-ie-ctc-d
+ e-l-ill-2@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT LE
+ GER vs IE - CTC DE L'ILL - 2\n\nGYMNASE THEODORE DECK\n📍 Rue Théodore 
+ Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723\,7.2099
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15
+ /match/200000014559886
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559886
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-00-00-bc-st-georges-carspach-guebwiller-
+ as-saint-@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ BC ST GEORGES CARSPACH – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPACH
+  vs GUEBWILLER AS SAINT LEGER\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème R
+ égiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47
+ .62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu15/match/200000014559890
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559890
+END:VEVENT
+END:VCALENDAR

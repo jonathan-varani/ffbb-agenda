@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS HORBOURG-WIHR  [DXU9 – GES – Poule F]
+X-WR-CALDESC:Matchs de AS HORBOURG-WIHR – DXU9 – GES – Haut-Rhin – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-09-26-13-30-csc-rustenhart-as-horbourg-
+ wihr@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:✈️ CSC RUSTENHART – AS HORBOURG-WIHR
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ CSC RUSTENH
+ ART vs AS HORBOURG-WIHR\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Ruste
+ nhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000
+ 0014560844
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560844
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-10-03-13-30-as-horbourg-wihr-colmar-bas
+ ket-3@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:🏠 AS HORBOURG-WIHR – COLMAR BASKET - 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ AS HORBOURG
+ -WIHR vs COLMAR BASKET - 3\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorr
+ aine Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437\,7.3
+ 9293&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ xu9/match/200000014560848
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560848
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-10-10-00-00-guebwiller-as-saint-leger-2
+ -as-horbo@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 2 – AS HORBOURG-WIHR
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ GUEBWILLER 
+ AS SAINT LEGER - 2 vs AS HORBOURG-WIHR\n\nGYMNASE THEODORE DECK\n📍 Rue 
+ Théodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.907
+ 23\,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dxu9/match/200000014560857
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560857
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-10-17-00-00-cb-kientzheim-as-horbourg-w
+ ihr@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ CB KIENTZHEIM – AS HORBOURG-WIHR
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ CB KIENTZHE
+ IM vs AS HORBOURG-WIHR\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kaysersb
+ erg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/mat
+ ch/200000014560861
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560861
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-11-08-13-30-as-horbourg-wihr-bc-kunheim
+ @ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261108T133000
+DTEND;TZID=Europe/Paris:20261108T153000
+SUMMARY:🏠 AS HORBOURG-WIHR – BC KUNHEIM
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ AS HORBOURG
+ -WIHR vs BC KUNHEIM\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine Ho
+ rbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437\,7.39293&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/mat
+ ch/200000014560866
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560866
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-11-21-14-00-as-horbourg-wihr-fcsl-eguis
+ heim-3@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:🏠 AS HORBOURG-WIHR – FCSL EGUISHEIM - 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ AS HORBOURG
+ -WIHR vs FCSL EGUISHEIM - 3\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lor
+ raine Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437\,7.
+ 39293&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dxu9/match/200000014560875
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560875
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-12-05-13-30-fcsl-eguisheim-2-as-horbour
+ g-wihr@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261205T133000
+DTEND;TZID=Europe/Paris:20261205T153000
+SUMMARY:✈️ FCSL EGUISHEIM - 2 – AS HORBOURG-WIHR
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ FCSL EGUISH
+ EIM - 2 vs AS HORBOURG-WIHR\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hin
+ terzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.
+ 31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dxu9/match/200000014560879
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560879
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-12-12-18-00-as-horbourg-wihr-ie-ctc-de-
+ l-ill-2@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:🏠 AS HORBOURG-WIHR – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ AS HORBOURG
+ -WIHR vs IE - CTC DE L'ILL - 2\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de 
+ Lorraine Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437\
+ ,7.39293&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dxu9/match/200000014560884
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560884
+END:VEVENT
+END:VCALENDAR

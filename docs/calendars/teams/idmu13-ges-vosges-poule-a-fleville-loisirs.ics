@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – FLEVILLE LOISIRS  [IDMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de FLEVILLE LOISIRS – IDMU13 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-09-19-14-00-ie-ctc-collectif-basket-val-
+ de-lorrai@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – FLEVILLE L
+ OISIRS
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ IE - CTC COL
+ LECTIF BASKET VAL DE LORRAINE SUD vs FLEVILLE LOISIRS\n\nSALLE INTERCOMMUN
+ ALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : https://waze.com/ul?l
+ l=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088
+ /competitions/idmu13/match/200000014626273
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626273
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-10-03-14-00-sluc-nancy-basket-associatio
+ n-1-flevi@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – FLEVILLE LOISIRS
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ SLUC NANCY B
+ ASKET ASSOCIATION - 1 vs FLEVILLE LOISIRS\n\nGYMNASE LOUIS ARMAND\n📍 Ru
+ e des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.67025\
+ ,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitio
+ ns/idmu13/match/200000014626293
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626293
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-10-10-14-00-fleville-loisirs-basket-club
+ -chavelot@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 FLEVILLE LOISIRS – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ FLEVILLE LOI
+ SIRS vs BASKET CLUB CHAVELOTAIS\n\nSALLE JEAN MICHEL MOREAU\n📍 Rue de l
+ a Woivre Fléville-devant-Nancy 54710\n🚗 Waze : https://waze.com/ul?ll=
+ 48.62984\,6.21088&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/idmu13/match/200000014626307
+LOCATION:SALLE JEAN MICHEL MOREAU\, Rue de la Woivre Fléville-devant-Nancy
+  54710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626307
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-11-07-14-00-fleville-loisirs-basket-club
+ -golbey-e@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 FLEVILLE LOISIRS – BASKET CLUB GOLBEY EPINAL - 2
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ FLEVILLE LOI
+ SIRS vs BASKET CLUB GOLBEY EPINAL - 2\n\nSALLE JEAN MICHEL MOREAU\n📍 Ru
+ e de la Woivre Fléville-devant-Nancy 54710\n🚗 Waze : https://waze.com/
+ ul?ll=48.62984\,6.21088&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0088/competitions/idmu13/match/200000014626318
+LOCATION:SALLE JEAN MICHEL MOREAU\, Rue de la Woivre Fléville-devant-Nancy
+  54710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626318
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-11-15-11-00-as-haut-du-lievre-nancy-flev
+ ille-lois@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20261115T110000
+DTEND;TZID=Europe/Paris:20261115T130000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY – FLEVILLE LOISIRS
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ AS HAUT DU L
+ IEVRE  NANCY vs FLEVILLE LOISIRS\n\nGYMNASE BUFFON\n📍 Rue Dominique Lou
+ is Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.15411&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu13/matc
+ h/200000014626329
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626329
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-a-2026-11-21-14-00-fleville-loisirs-nancy-baske
+ tball@ffbb-agenda
+DTSTAMP:20260819T081217Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:🏠 FLEVILLE LOISIRS – NANCY BASKETBALL
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule A\n⚔️ FLEVILLE LOI
+ SIRS vs NANCY BASKETBALL\n\nSALLE JEAN MICHEL MOREAU\n📍 Rue de la Woivr
+ e Fléville-devant-Nancy 54710\n🚗 Waze : https://waze.com/ul?ll=48.6298
+ 4\,6.21088&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competit
+ ions/idmu13/match/200000014626337
+LOCATION:SALLE JEAN MICHEL MOREAU\, Rue de la Woivre Fléville-devant-Nancy
+  54710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626337
+END:VEVENT
+END:VCALENDAR

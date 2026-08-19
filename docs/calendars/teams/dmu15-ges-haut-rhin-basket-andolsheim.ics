@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET ANDOLSHEIM  [DMU15 – GES]
+X-WR-CALDESC:Matchs de BASKET ANDOLSHEIM – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-19-16-00-cs-saint-pp-waldighoffen-1-basket-
+ andolshei@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:✈️ CS SAINT PP WALDIGHOFFEN - 1 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHOFF
+ EN - 1 vs BASKET ANDOLSHEIM\n\nSALLE NATHAN KATZ\n📍 Rue des Écoles Wal
+ dighofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31429&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match
+ /200000014559894
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559894
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-15-00-basket-club-3-pays-2-basket-andols
+ heim@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 2 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 2
+  vs BASKET ANDOLSHEIM\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenhe
+ im 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20000
+ 0014559901
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559901
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-10-15-00-basket-andolsheim-asc-saint-romain
+ -reiningu@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261010T150000
+DTEND;TZID=Europe/Paris:20261010T170000
+SUMMARY:🏠 BASKET ANDOLSHEIM – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET ANDOLSHEIM vs A
+ SC SAINT ROMAIN REININGUE\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar Forts
+ chwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2
+ 00000014559903
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559903
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-17-00-00-asl-dessenheim-3-basket-andolsheim
+ @ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ ASL DESSENHEIM - 3 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASL DESSENHEIM - 3 vs 
+ BASKET ANDOLSHEIM\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Dessenhei
+ m 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000
+ 014559905
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559905
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-31-15-00-basket-andolsheim-cssl-rixheim@ffb
+ b-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261031T150000
+DTEND;TZID=Europe/Paris:20261031T170000
+SUMMARY:🏠 BASKET ANDOLSHEIM – CSSL RIXHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET ANDOLSHEIM vs C
+ SSL RIXHEIM\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar Fortschwihr 68320\n
+ 🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559898
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559898
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-07-15-00-basket-andolsheim-cs-saint-pp-wald
+ ighoffen-@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:🏠 BASKET ANDOLSHEIM – CS SAINT PP WALDIGHOFFEN - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET ANDOLSHEIM vs C
+ S SAINT PP WALDIGHOFFEN - 1\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar For
+ tschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match
+ /200000014559909
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559909
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-14-15-30-cssl-rixheim-basket-andolsheim@ffb
+ b-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:✈️ CSSL RIXHEIM – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL RIXHEIM vs BASKET
+  ANDOLSHEIM\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 68170\n🚗 W
+ aze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559913
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559913
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-15-00-basket-andolsheim-basket-club-3-pa
+ ys-2@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261128T150000
+DTEND;TZID=Europe/Paris:20261128T170000
+SUMMARY:🏠 BASKET ANDOLSHEIM – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET ANDOLSHEIM vs B
+ ASKET-CLUB 3 PAYS - 2\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar Fortschwi
+ hr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20000
+ 0014559916
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559916
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-05-17-30-asc-saint-romain-reiningue-basket-
+ andolshei@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261205T173000
+DTEND;TZID=Europe/Paris:20261205T193000
+SUMMARY:✈️ ASC SAINT ROMAIN REININGUE – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC SAINT ROMAIN REINI
+ NGUE vs BASKET ANDOLSHEIM\n\nHALLE DES SPORTS\n📍 Rue des Pierres Reinin
+ gue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000
+ 00014559918
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559918
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-15-00-basket-andolsheim-asl-dessenheim-3
+ @ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261212T150000
+DTEND;TZID=Europe/Paris:20261212T170000
+SUMMARY:🏠 BASKET ANDOLSHEIM – ASL DESSENHEIM - 3
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET ANDOLSHEIM vs A
+ SL DESSENHEIM - 3\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar Fortschwihr 6
+ 8320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014
+ 559920
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559920
+END:VEVENT
+END:VCALENDAR

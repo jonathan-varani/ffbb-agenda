@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC ST GEORGES CARSPACH  [DMU15 – GES]
+X-WR-CALDESC:Matchs de BC ST GEORGES CARSPACH – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-19-00-00-ie-ctc-de-l-ill-2-bc-st-georges-ca
+ rspach@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 2 – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 2 
+ vs BC ST GEORGES CARSPACH\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'Ill R
+ uelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/matc
+ h/200000014559863
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559863
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-26-16-30-basket-club-sierentz-bc-st-georges
+ -carspach@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20260926T163000
+DTEND;TZID=Europe/Paris:20260926T183000
+SUMMARY:✈️ BASKET CLUB SIERENTZ – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB SIERENTZ v
+ s BC ST GEORGES CARSPACH\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas Sier
+ entz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200
+ 000014559866
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559866
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-00-00-bc-st-georges-carspach-asc-ste-afr
+ e-riedish@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPACH
+  vs ASC STE AFRE RIEDISHEIM - 2\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème 
+ Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu15/match/200000014559869
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559869
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-10-17-00-mulhouse-basket-club-amateur-bc-st
+ -georges-@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261010T170000
+DTEND;TZID=Europe/Paris:20261010T190000
+SUMMARY:✈️ MULHOUSE BASKET CLUB AMATEUR – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ MULHOUSE BASKET CLUB A
+ MATEUR vs BC ST GEORGES CARSPACH\n\nGYMNASE MARCEL TSCHANZ\n📍 Rue Alber
+ t Camus Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73426\,7.303
+ 39&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu
+ 15/match/200000014559872
+LOCATION:GYMNASE MARCEL TSCHANZ\, Rue Albert Camus Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559872
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-17-00-00-guebwiller-as-saint-leger-bc-st-ge
+ orges-car@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT LE
+ GER vs BC ST GEORGES CARSPACH\n\nGYMNASE THEODORE DECK\n📍 Rue Théodore
+  Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723\,7.209
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559875
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559875
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-07-00-00-bc-st-georges-carspach-ie-ctc-de-l
+ -ill-2@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPACH
+  vs IE - CTC DE L'ILL - 2\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régim
+ ent de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47.6241
+ 6\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dmu15/match/200000014559878
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559878
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-15-14-00-bc-st-georges-carspach-basket-club
+ -sierentz@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261115T140000
+DTEND;TZID=Europe/Paris:20261115T160000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPACH
+  vs BASKET CLUB SIERENTZ\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régime
+ nt de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47.62416
+ \,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu15/match/200000014559881
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559881
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-00-00-asc-ste-afre-riedisheim-2-bc-st-ge
+ orges-car@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 2 – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC STE AFRE RIEDISHEI
+ M - 2 vs BC ST GEORGES CARSPACH\n\nGYMNASE BARTHOLDI\n📍 Rue du Révére
+ nd Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47.7
+ 4155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/dmu15/match/200000014559884
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559884
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-05-00-00-bc-st-georges-carspach-mulhouse-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – MULHOUSE BASKET CLUB AMATEUR
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPACH
+  vs MULHOUSE BASKET CLUB AMATEUR\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème
+  Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=
+ 47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu15/match/200000014559887
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559887
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-00-00-bc-st-georges-carspach-guebwiller-
+ as-saint-@ffbb-agenda
+DTSTAMP:20260819T080933Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BC ST GEORGES CARSPACH – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPACH
+  vs GUEBWILLER AS SAINT LEGER\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème R
+ égiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47
+ .62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu15/match/200000014559890
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559890
+END:VEVENT
+END:VCALENDAR

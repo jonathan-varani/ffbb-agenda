@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC KUNHEIM - 1  [DMU15 – GES]
+X-WR-CALDESC:Matchs de BC KUNHEIM - 1 – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-19-00-00-bc-kunheim-1-as-attenschwiller@ffb
+ b-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 1 vs AS A
+ TTENSCHWILLER\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\n
+ 🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559833
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559833
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-26-17-00-mustangs-association-3-bc-kunheim-
+ 1@ffbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20260926T170000
+DTEND;TZID=Europe/Paris:20260926T190000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 3 – BC KUNHEIM - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ MUSTANGS ASSOCIATION -
+  3 vs BC KUNHEIM - 1\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pfastat
+ t 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000
+ 014559837
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559837
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-00-00-bc-kunheim-1-ie-ctc-de-l-ill-1@ffb
+ b-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – IE - CTC DE L'ILL - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 1 vs IE -
+  CTC DE L'ILL - 1\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\
+ n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559841
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559841
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-11-17-00-basket-club-de-kingersheim-2-bc-ku
+ nheim-1@ffbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261011T170000
+DTEND;TZID=Europe/Paris:20261011T190000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM - 2 – BC KUNHEIM - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB DE KINGERS
+ HEIM - 2 vs BC KUNHEIM - 1\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Couber
+ tin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.3280
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559844
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559844
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-17-00-00-bc-kunheim-1-csc-rustenhart@ffbb-a
+ genda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – CSC RUSTENHART
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 1 vs CSC 
+ RUSTENHART\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\n🚗 W
+ aze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0068/competitions/dmu15/match/200000014559846
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559846
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-07-00-00-as-attenschwiller-bc-kunheim-1@ffb
+ b-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ AS ATTENSCHWILLER – BC KUNHEIM - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ AS ATTENSCHWILLER vs B
+ C KUNHEIM - 1\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gaulle Attenschwil
+ ler 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.45741&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000
+ 00014559848
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559848
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-14-00-00-bc-kunheim-1-mustangs-association-
+ 3@ffbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – MUSTANGS ASSOCIATION - 3
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 1 vs MUST
+ ANGS ASSOCIATION - 3\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 683
+ 20\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59852
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559852
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-00-00-ie-ctc-de-l-ill-1-bc-kunheim-1@ffb
+ b-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 1 – BC KUNHEIM - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 1 
+ vs BC KUNHEIM - 1\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'Ill Ruelishei
+ m 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000
+ 014559856
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559856
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-05-00-00-bc-kunheim-1-basket-club-de-kinger
+ sheim-2@ffbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BC KUNHEIM - 1 – BASKET CLUB DE KINGERSHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 1 vs BASK
+ ET CLUB DE KINGERSHEIM - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunhe
+ im 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000
+ 014559859
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559859
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-00-00-csc-rustenhart-bc-kunheim-1@ffbb-a
+ genda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ CSC RUSTENHART – BC KUNHEIM - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSC RUSTENHART vs BC K
+ UNHEIM - 1\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Rustenhart 68740\n
+ 🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=yes\n\n📢 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559861
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559861
+END:VEVENT
+END:VCALENDAR

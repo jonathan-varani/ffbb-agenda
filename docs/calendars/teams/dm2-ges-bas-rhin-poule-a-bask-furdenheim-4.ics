@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASK FURDENHEIM - 4  [DM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASK FURDENHEIM - 4 – DM2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-09-26-00-00-hattmatt-ss-2-bask-furdenheim
+ -4@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ HATTMATT SS - 2 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ HATTMATT SS -
+  2 vs BASK FURDENHEIM - 4\n\nSALLE POLYVALENTE\n📍 Rue de Dettwiller Hat
+ tmatt 67330\n🚗 Waze : https://waze.com/ul?ll=48.7902\,7.42964&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/match/20000
+ 0014650271
+LOCATION:SALLE POLYVALENTE\, Rue de Dettwiller Hattmatt 67330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650271
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-10-03-00-00-bask-furdenheim-4-morschwille
+ r-fcj-2@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs MORSCHWILLER FCJ - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du S
+ tade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.5633
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650276
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650276
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-10-10-00-00-vendenheim-bc-2-bask-furdenhe
+ im-4@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ VENDENHEIM BC - 2 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ VENDENHEIM BC
+  - 2 vs BASK FURDENHEIM - 4\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles G
+ ounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.710
+ 54&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2
+ /match/200000014650281
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650281
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-10-17-00-00-bask-furdenheim-4-asa-souffel
+ weyershei@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – ASA SOUFFELWEYERSHEIM - 3
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs ASA SOUFFELWEYERSHEIM - 3\n\nESPACE SPORTIF DE L'UNION\n📍 Rue
+  du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7
+ .56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dm2/match/200000014650286
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650286
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-11-14-00-00-strasbourg-electricite-a-s-2-
+ bask-furd@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. - 2 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 2 vs BASK FURDENHEIM - 4\n\nCENTRE SPORTIF SUD\n📍 Rue 
+ des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837
+ \,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dm2/match/200000014650297
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650297
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-11-21-00-00-bask-furdenheim-4-phalsbourg-
+ b-c-1@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – PHALSBOURG B.C. - 1
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs PHALSBOURG B.C. - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du St
+ ade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/m
+ atch/200000014650302
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650302
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-11-28-00-00-bask-furdenheim-4-saint-josep
+ h-strasbo@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – SAINT JOSEPH - STRASBOURG - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs SAINT JOSEPH - STRASBOURG - 4\n\nESPACE SPORTIF DE L'UNION\n📍
+  Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.6165
+ 2\,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dm2/match/200000014650309
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650309
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-12-05-00-00-eckbolsheim-bb-1-bask-furdenh
+ eim-4@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ ECKBOLSHEIM BB - 1 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM B
+ B - 1 vs BASK FURDENHEIM - 4\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsh
+ eim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/match/2000000
+ 14650314
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650314
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-12-12-00-00-bask-furdenheim-4-walbourg-es
+ chbach-ba@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – WALBOURG ESCHBACH BASKET - 2
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs WALBOURG ESCHBACH BASKET - 2\n\nESPACE SPORTIF DE L'UNION\n📍 
+ Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652
+ \,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dm2/match/200000014650319
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650319
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2026-12-19-00-00-racing-club-de-strasbourg-1-b
+ ask-furde@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:✈️ RACING CLUB DE STRASBOURG - 1 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs BASK FURDENHEIM - 4\n\nSALLE JEAN NICOLAS MULLER 2\n
+ 📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll
+ =48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm2/match/200000014650327
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650327
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-01-16-00-00-bask-furdenheim-4-eschau-bc-2
+ @ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – ESCHAU BC - 2
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs ESCHAU BC - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Fu
+ rdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/match/2
+ 00000014650333
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650333
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-01-23-00-00-bask-furdenheim-4-hattmatt-ss
+ -2@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – HATTMATT SS - 2
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs HATTMATT SS - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade 
+ Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/match
+ /200000014650337
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650337
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-01-30-00-00-morschwiller-fcj-2-bask-furde
+ nheim-4@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ MORSCHWILLER FCJ - 2 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs BASK FURDENHEIM - 4\n\nESPACE SPORTIF ET CULTUREL\n📍 Route d
+ e Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\
+ ,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dm2/match/200000014650342
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650342
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-02-06-00-00-bask-furdenheim-4-vendenheim-
+ bc-2@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – VENDENHEIM BC - 2
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs VENDENHEIM BC - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stad
+ e Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/mat
+ ch/200000014650347
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650347
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-02-13-00-00-asa-souffelweyersheim-3-bask-
+ furdenhei@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 3 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ ASA SOUFFELWE
+ YERSHEIM - 3 vs BASK FURDENHEIM - 4\n\nGYMNASE MUNICIPAL\n📍 Rue des Sep
+ t Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dm2/match/200000014650352
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650352
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-03-13-00-00-bask-furdenheim-4-strasbourg-
+ electrici@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – STRASBOURG ELECTRICITE A.S. - 2
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs STRASBOURG ELECTRICITE A.S. - 2\n\nESPACE SPORTIF DE L'UNION\n
+ 📍 Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.
+ 61652\,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dm2/match/200000014650363
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650363
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-03-20-00-00-phalsbourg-b-c-1-bask-furdenh
+ eim-4@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ PHALSBOURG B.C. - 1 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ PHALSBOURG B.
+ C. - 1 vs BASK FURDENHEIM - 4\n\nSALLE VAUBAN\n📍 Allée des Sports Phal
+ sbourg 57370\n🚗 Waze : https://waze.com/ul?ll=48.76986\,7.25521&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/match/200
+ 000014650368
+LOCATION:SALLE VAUBAN\, Allée des Sports Phalsbourg 57370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650368
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-03-27-00-00-saint-joseph-strasbourg-4-bas
+ k-furdenh@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 4 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ SAINT JOSEPH 
+ - STRASBOURG - 4 vs BASK FURDENHEIM - 4\n\nCENTRE SPORTIF ESPLANADE\n📍 
+ Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.577\,7
+ .76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dm2/match/200000014650375
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650375
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-04-10-00-00-bask-furdenheim-4-eckbolsheim
+ -bb-1@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – ECKBOLSHEIM BB - 1
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs ECKBOLSHEIM BB - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Sta
+ de Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/ma
+ tch/200000014650380
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650380
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-05-01-00-00-walbourg-eschbach-basket-2-ba
+ sk-furden@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270501T000000
+DTEND;TZID=Europe/Paris:20270501T020000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 2 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 2 vs BASK FURDENHEIM - 4\n\nESPACE SPORTIF\n📍 Rue de la F
+ orêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.73658
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/m
+ atch/200000014650385
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650385
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-05-15-00-00-bask-furdenheim-4-racing-club
+ -de-stras@ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:🏠 BASK FURDENHEIM - 4 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 4 vs RACING CLUB DE STRASBOURG - 1\n\nESPACE SPORTIF DE L'UNION\n📍
+  Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.6165
+ 2\,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dm2/match/200000014650393
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650393
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-bas-rhin-poule-a-2027-05-22-00-00-eschau-bc-2-bask-furdenheim-4
+ @ffbb-agenda
+DTSTAMP:20260819T080647Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:✈️ ESCHAU BC - 2 – BASK FURDENHEIM - 4
+DESCRIPTION:🏀 DM2 – GES – Bas-Rhin – Poule A\n⚔️ ESCHAU BC - 2
+  vs BASK FURDENHEIM - 4\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes 
+ Eschau 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/match/20000
+ 0014650399
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm2/
+ match/200000014650399
+END:VEVENT
+END:VCALENDAR

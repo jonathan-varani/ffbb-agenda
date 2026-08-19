@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – COLMAR BASKET - 2  [DMU11 – GES – Poule D]
+X-WR-CALDESC:Matchs de COLMAR BASKET - 2 – DMU11 – GES – Haut-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-09-26-13-30-colmar-basket-2-basket-clu
+ b-illzach@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:🏠 COLMAR BASKET - 2 – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ COLMAR BAS
+ KET - 2 vs BASKET CLUB ILLZACH\n\nGYMNASE PFEFFEL\n📍 Rue de la Bagatell
+ e Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match
+ /200000014559404
+LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559404
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-03-13-30-fcsl-eguisheim-1-colmar-ba
+ sket-2@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – COLMAR BASKET - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ FCSL EGUIS
+ HEIM - 1 vs COLMAR BASKET - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de H
+ interzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,
+ 7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dmu11/match/200000014559409
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559409
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-10-18-00-colmar-basket-2-mulhouse-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 COLMAR BASKET - 2 – MULHOUSE BASKET CLUB AMATEUR
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ COLMAR BAS
+ KET - 2 vs MULHOUSE BASKET CLUB AMATEUR\n\nGYMNASE ST EXUPERY\n📍 Rue de
+  Varsovie Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.327
+ 57&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu
+ 11/match/200000014559414
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559414
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-17-00-00-guebwiller-as-saint-leger-
+ 2-colmar-@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 2 – COLMAR BASKET - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ GUEBWILLER
+  AS SAINT LEGER - 2 vs COLMAR BASKET - 2\n\nGYMNASE THEODORE DECK\n📍 Ru
+ e Théodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.9
+ 0723\,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/dmu11/match/200000014559419
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559419
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-07-16-30-colmar-basket-2-mustangs-a
+ ssociatio@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261107T163000
+DTEND;TZID=Europe/Paris:20261107T183000
+SUMMARY:🏠 COLMAR BASKET - 2 – MUSTANGS ASSOCIATION - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ COLMAR BAS
+ KET - 2 vs MUSTANGS ASSOCIATION - 2\n\nGYMNASE ST EXUPERY\n📍 Rue de Var
+ sovie Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/m
+ atch/200000014559424
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559424
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-14-16-30-colmar-basket-2-bc-kunheim
+ @ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261114T163000
+DTEND;TZID=Europe/Paris:20261114T183000
+SUMMARY:🏠 COLMAR BASKET - 2 – BC KUNHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ COLMAR BAS
+ KET - 2 vs BC KUNHEIM\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar 6
+ 8000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/200000014
+ 559431
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559431
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-21-00-00-asc-ste-afre-riedisheim-2-
+ colmar-ba@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 2 – COLMAR BASKET - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ ASC STE AF
+ RE RIEDISHEIM - 2 vs COLMAR BASKET - 2\n\nGYMNASE BARTHOLDI\n📍 Rue du R
+ évérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?
+ ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/dmu11/match/200000014559433
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559433
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-12-05-16-30-colmar-basket-2-as-de-chal
+ ampe@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261205T163000
+DTEND;TZID=Europe/Paris:20261205T183000
+SUMMARY:🏠 COLMAR BASKET - 2 – AS DE CHALAMPE
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ COLMAR BAS
+ KET - 2 vs AS DE CHALAMPE\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colm
+ ar 68000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/20000
+ 0014559437
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559437
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-12-12-00-00-as-kaysersberg-ammerschwih
+ r-bca-2-c@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ AS KAYSERSBERG AMMERSCHWIHR BCA - 2 – COLMAR BASKET - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ AS KAYSERS
+ BERG AMMERSCHWIHR BCA - 2 vs COLMAR BASKET - 2\n\nSALLE THEO FALLER\n📍 
+ Rue des Tilleuls Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/
+ ul?ll=48.14653\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0068/competitions/dmu11/match/200000014559443
+LOCATION:SALLE THEO FALLER\, Rue des Tilleuls Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559443
+END:VEVENT
+END:VCALENDAR

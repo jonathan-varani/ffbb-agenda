@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSC RUSTENHART - 2  [DM3 – GES – Poule B]
+X-WR-CALDESC:Matchs de CSC RUSTENHART - 2 – DM3 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2026-09-27-09-00-csc-rustenhart-2-bc-kunheim-
+ 2@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20260927T090000
+DTEND;TZID=Europe/Paris:20260927T110000
+SUMMARY:🏠 CSC RUSTENHART - 2 – BC KUNHEIM - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTENHA
+ RT - 2 vs BC KUNHEIM - 2\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Rust
+ enhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/20000
+ 0014558911
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558911
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2026-10-03-20-00-mulhouse-basket-club-amateur
+ -1-csc-ru@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ MULHOUSE BASKET CLUB AMATEUR - 1 – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ MULHOUSE BAS
+ KET CLUB AMATEUR - 1 vs CSC RUSTENHART - 2\n\nGYMNASE MARCEL TSCHANZ\n📍
+  Rue Albert Camus Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73
+ 426\,7.30339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/dm3/match/200000014558916
+LOCATION:GYMNASE MARCEL TSCHANZ\, Rue Albert Camus Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558916
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2026-10-18-17-30-colmar-basket-3-csc-rustenha
+ rt-2@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20261018T173000
+DTEND;TZID=Europe/Paris:20261018T193000
+SUMMARY:✈️ COLMAR BASKET - 3 – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ COLMAR BASKE
+ T - 3 vs CSC RUSTENHART - 2\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europ
+ e Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/2
+ 00000014558920
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558920
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2026-11-07-00-00-blotzheim-regio-basket-club-
+ 2-csc-rus@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ BLOTZHEIM REGIO BASKET CLUB - 2 – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ BLOTZHEIM RE
+ GIO BASKET CLUB - 2 vs CSC RUSTENHART - 2\n\nPALAIS BEAU BOURG\n📍 Avenu
+ e Nathan Katz Blotzheim 68730\n🚗 Waze : https://waze.com/ul?ll=47.5939\
+ ,7.50387&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dm3/match/200000014558924
+LOCATION:PALAIS BEAU BOURG\, Avenue Nathan Katz Blotzheim 68730
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558924
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2026-11-13-20-00-nbc-wintzenheim-csc-rustenha
+ rt-2@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:✈️ NBC WINTZENHEIM – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ NBC WINTZENH
+ EIM vs CSC RUSTENHART - 2\n\nSALLE TOMI UNGERER\n📍 Rue Herzog Wintzenhe
+ im 68124\n🚗 Waze : https://waze.com/ul?ll=48.08535\,7.31693&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/2000000
+ 14558928
+LOCATION:SALLE TOMI UNGERER\, Rue Herzog Wintzenheim 68124
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558928
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2026-11-21-00-00-csc-rustenhart-2-cssm-altkir
+ ch-1@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 CSC RUSTENHART - 2 – CSSM ALTKIRCH - 1
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTENHA
+ RT - 2 vs CSSM ALTKIRCH - 1\n\nSALLE POLYVALENTE\n📍 Rue des Violettes R
+ ustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/20
+ 0000014558932
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558932
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2026-12-05-00-00-ie-ctc-jura-alsacien-basket-
+ 2-csc-rus@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 2 – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC JUR
+ A ALSACIEN BASKET - 2 vs CSC RUSTENHART - 2\n\nGYMNASE DU COLLEGE\n📍 Ru
+ e Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.5014
+ 4\,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dm3/match/200000014558939
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558939
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2026-12-13-09-00-ascl-eschentzwiller-1-csc-ru
+ stenhart-@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20261213T090000
+DTEND;TZID=Europe/Paris:20261213T110000
+SUMMARY:✈️ ASCL ESCHENTZWILLER - 1 – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ ASCL ESCHENT
+ ZWILLER - 1 vs CSC RUSTENHART - 2\n\nSALLE POLYVALENTE\n📍 Rue de Mulhou
+ se Eschentzwiller 68440\n🚗 Waze : https://waze.com/ul?ll=47.71584\,7.39
+ 85&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3
+ /match/200000014558944
+LOCATION:SALLE POLYVALENTE\, Rue de Mulhouse Eschentzwiller 68440
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558944
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-01-17-16-00-basket-club-illzach-2-csc-ru
+ stenhart-@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270117T160000
+DTEND;TZID=Europe/Paris:20270117T180000
+SUMMARY:✈️ BASKET CLUB ILLZACH - 2 – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ ILLZACH - 2 vs CSC RUSTENHART - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal I
+ llzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/200
+ 000014558950
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558950
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-01-23-00-00-bc-kunheim-2-csc-rustenhart-
+ 2@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ BC KUNHEIM - 2 – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ BC KUNHEIM -
+  2 vs CSC RUSTENHART - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim
+  68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/2000000145
+ 58956
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558956
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-02-06-00-00-csc-rustenhart-2-mulhouse-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 CSC RUSTENHART - 2 – MULHOUSE BASKET CLUB AMATEUR - 1
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTENHA
+ RT - 2 vs MULHOUSE BASKET CLUB AMATEUR - 1\n\nSALLE POLYVALENTE\n📍 Rue 
+ des Violettes Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.9413
+ 4\,7.465&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dm3/match/200000014558961
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558961
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-02-13-00-00-csc-rustenhart-2-colmar-bask
+ et-3@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 CSC RUSTENHART - 2 – COLMAR BASKET - 3
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTENHA
+ RT - 2 vs COLMAR BASKET - 3\n\nSALLE POLYVALENTE\n📍 Rue des Violettes R
+ ustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/20
+ 0000014558965
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558965
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-03-13-00-00-csc-rustenhart-2-blotzheim-r
+ egio-bask@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 CSC RUSTENHART - 2 – BLOTZHEIM REGIO BASKET CLUB - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTENHA
+ RT - 2 vs BLOTZHEIM REGIO BASKET CLUB - 2\n\nSALLE POLYVALENTE\n📍 Rue d
+ es Violettes Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134
+ \,7.465&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dm3/match/200000014558969
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558969
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-03-20-00-00-csc-rustenhart-2-nbc-wintzen
+ heim@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:🏠 CSC RUSTENHART - 2 – NBC WINTZENHEIM
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTENHA
+ RT - 2 vs NBC WINTZENHEIM\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Rus
+ tenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/2000
+ 00014558973
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558973
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-04-03-00-00-cssm-altkirch-1-csc-rustenha
+ rt-2@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:✈️ CSSM ALTKIRCH - 1 – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKIRC
+ H - 1 vs CSC RUSTENHART - 2\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altki
+ rch 68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/2000000
+ 14558977
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558977
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-04-10-00-00-csc-rustenhart-2-ie-ctc-jura
+ -alsacien@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 CSC RUSTENHART - 2 – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTENHA
+ RT - 2 vs IE - CTC JURA ALSACIEN BASKET - 2\n\nSALLE POLYVALENTE\n📍 Rue
+  des Violettes Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.941
+ 34\,7.465&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dm3/match/200000014558984
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558984
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-05-08-00-00-csc-rustenhart-2-ascl-eschen
+ tzwiller-@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270508T000000
+DTEND;TZID=Europe/Paris:20270508T020000
+SUMMARY:🏠 CSC RUSTENHART - 2 – ASCL ESCHENTZWILLER - 1
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTENHA
+ RT - 2 vs ASCL ESCHENTZWILLER - 1\n\nSALLE POLYVALENTE\n📍 Rue des Viole
+ ttes Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/ma
+ tch/200000014558989
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558989
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-b-2027-05-15-00-00-csc-rustenhart-2-basket-club
+ -illzach-@ffbb-agenda
+DTSTAMP:20260819T080839Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:🏠 CSC RUSTENHART - 2 – BASKET CLUB ILLZACH - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule B\n⚔️ CSC RUSTENHA
+ RT - 2 vs BASKET CLUB ILLZACH - 2\n\nSALLE POLYVALENTE\n📍 Rue des Viole
+ ttes Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/ma
+ tch/200000014558995
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558995
+END:VEVENT
+END:VCALENDAR

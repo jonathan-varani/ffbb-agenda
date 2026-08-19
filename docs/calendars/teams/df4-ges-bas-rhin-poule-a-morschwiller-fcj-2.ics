@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MORSCHWILLER FCJ - 2  [DF4 – GES – Poule A]
+X-WR-CALDESC:Matchs de MORSCHWILLER FCJ - 2 – DF4 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-09-26-00-00-hatten-bc-1-morschwiller-fcj-
+ 2@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ HATTEN BC - 1 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HATTEN BC - 1
+  vs MORSCHWILLER FCJ - 2\n\nSALLE POLYVALENTE\n📍 Rue des Écoles Hatten
+  67690\n🚗 Waze : https://waze.com/ul?ll=48.90169\,7.98235&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000014
+ 651933
+LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651933
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-10-03-00-00-morschwiller-fcj-2-hambach-bc
+ -2@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 MORSCHWILLER FCJ - 2 – HAMBACH BC - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs HAMBACH BC - 2\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Bru
+ math Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63
+ 323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ 4/match/200000014651937
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651937
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-10-10-00-00-wissembourg-bc-1-morschwiller
+ -fcj-2@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ WISSEMBOURG BC - 1 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WISSEMBOURG B
+ C - 1 vs MORSCHWILLER FCJ - 2\n\nGYMNASE DU LYCEE\n📍 Rue du Lycée Wiss
+ embourg 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.9609&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200
+ 000014651941
+LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651941
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-11-14-00-00-morschwiller-fcj-2-saverne-tr
+ icolore-s@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 MORSCHWILLER FCJ - 2 – SAVERNE TRICOLORE ST JEAN - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs SAVERNE TRICOLORE ST JEAN - 1\n\nESPACE SPORTIF ET CULTUREL\n
+ 📍 Route de Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?
+ ll=48.81323\,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/df4/match/200000014651949
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651949
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-12-05-00-00-walbourg-eschbach-basket-2-mo
+ rschwille@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 2 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 2 vs MORSCHWILLER FCJ - 2\n\nESPACE SPORTIF\n📍 Rue de la 
+ Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.7365
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651958
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651958
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-12-12-00-00-morschwiller-fcj-2-soufflenhe
+ im-c-c-s-@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 MORSCHWILLER FCJ - 2 – SOUFFLENHEIM C.C.S.A - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs SOUFFLENHEIM C.C.S.A - 1\n\nESPACE SPORTIF ET CULTUREL\n📍 Ro
+ ute de Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.8
+ 1323\,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/df4/match/200000014651964
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651964
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-12-19-00-00-bitche-pays-de-1-morschwiller
+ -fcj-2@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:✈️ BITCHE (PAYS DE) - 1 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
+ DE) - 1 vs MORSCHWILLER FCJ - 2\n\nCOSEC\n📍 Rue du Capitaine Mondelli B
+ itche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000
+ 0014651968
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651968
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-01-16-00-00-morschwiller-fcj-2-marienthal
+ -a-s-c-c-@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 MORSCHWILLER FCJ - 2 – MARIENTHAL A.S.C.C - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs MARIENTHAL A.S.C.C - 1\n\nESPACE SPORTIF ET CULTUREL\n📍 Rout
+ e de Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.813
+ 23\,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/df4/match/200000014651973
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651973
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-01-23-00-00-morschwiller-fcj-2-hatten-bc-
+ 1@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 MORSCHWILLER FCJ - 2 – HATTEN BC - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs HATTEN BC - 1\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brum
+ ath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.633
+ 23&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4
+ /match/200000014651978
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651978
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-01-30-00-00-hambach-bc-2-morschwiller-fcj
+ -2@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ HAMBACH BC - 2 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC - 
+ 2 vs MORSCHWILLER FCJ - 2\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambach 
+ 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2000000146
+ 51982
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651982
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-02-06-00-00-morschwiller-fcj-2-wissembour
+ g-bc-1@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 MORSCHWILLER FCJ - 2 – WISSEMBOURG BC - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs WISSEMBOURG BC - 1\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de
+  Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,
+ 7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/df4/match/200000014651986
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651986
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-02-13-00-00-saverne-tricolore-st-jean-1-m
+ orschwill@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ SAVERNE TRICOLORE ST JEAN - 1 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE TRICO
+ LORE ST JEAN - 1 vs MORSCHWILLER FCJ - 2\n\nSALLE DES SPORTS DE ST J SAVER
+ NE\n📍 Rue de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : https://w
+ aze.com/ul?ll=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0067/competitions/df4/match/200000014651994
+LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
+ verne 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651994
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-03-20-00-00-morschwiller-fcj-2-walbourg-e
+ schbach-b@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:🏠 MORSCHWILLER FCJ - 2 – WALBOURG ESCHBACH BASKET - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs WALBOURG ESCHBACH BASKET - 2\n\nESPACE SPORTIF ET CULTUREL\n
+ 📍 Route de Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?
+ ll=48.81323\,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/df4/match/200000014652003
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652003
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-03-27-00-00-soufflenheim-c-c-s-a-1-morsch
+ willer-fc@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ SOUFFLENHEIM C.C.S.A - 1 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 1 vs MORSCHWILLER FCJ - 2\n\nCENTRE SPORTIF LE CERAM\n📍 Souff
+ lenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20
+ 0000014652009
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652009
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-04-10-00-00-morschwiller-fcj-2-bitche-pay
+ s-de-1@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 MORSCHWILLER FCJ - 2 – BITCHE (PAYS DE) - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs BITCHE (PAYS DE) - 1\n\nESPACE SPORTIF ET CULTUREL\n📍 Route 
+ de Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323
+ \,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/df4/match/200000014652013
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652013
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-05-15-00-00-marienthal-a-s-c-c-1-morschwi
+ ller-fcj-@ffbb-agenda
+DTSTAMP:20260819T080625Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ MARIENTHAL A.S.C.C - 1 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MARIENTHAL A.
+ S.C.C - 1 vs MORSCHWILLER FCJ - 2\n\nSALLE POLYVALENTE\n📍 Rue de Lourde
+ s Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.78304\,7.81814&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match
+ /200000014652018
+LOCATION:SALLE POLYVALENTE\, Rue de Lourdes Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652018
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB SIERENTZ  [DM4 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB SIERENTZ – DM4 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-09-26-20-30-basket-club-sierentz-basket-
+ club-ribe@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20260926T203000
+DTEND;TZID=Europe/Paris:20260926T223000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – BASKET CLUB RIBEAUVILLE
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs BASKET CLUB RIBEAUVILLE\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rog
+ g-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.4595
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559088
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559088
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-10-03-00-00-ie-ctc-jura-alsacien-basket-
+ 3-basket-@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 3 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC JUR
+ A ALSACIEN BASKET - 3 vs BASKET CLUB SIERENTZ\n\nGYMNASE DU COLLEGE\n📍 
+ Rue Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50
+ 144\,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/dm4/match/200000014559093
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559093
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-10-17-20-30-basket-club-sierentz-union-s
+ portive-f@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – UNION SPORTIVE FLAXLANDEN - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs UNION SPORTIVE FLAXLANDEN - 3\n\nSALLE ECOLE J.SCHMIDT\n📍 R
+ ue Rogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,
+ 7.45955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dm4/match/200000014559098
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559098
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-08-09-00-abc-lutterbach-3-basket-club
+ -sierentz@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261108T090000
+DTEND;TZID=Europe/Paris:20261108T110000
+SUMMARY:✈️ ABC LUTTERBACH - 3 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERBA
+ CH - 3 vs BASKET CLUB SIERENTZ\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterb
+ ach 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/200000
+ 014559103
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559103
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-14-20-30-basket-club-sierentz-ie-ctc-
+ de-l-ill-@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – IE - CTC DE L'ILL - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs IE - CTC DE L'ILL - 3\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-
+ Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/ma
+ tch/200000014559108
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559108
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-21-00-00-basket-club-rosenau-2-basket
+ -club-sie@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ BASKET CLUB ROSENAU - 2 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ ROSENAU - 2 vs BASKET CLUB SIERENTZ\n\nSALLE DES SPORTS L'ESCALE\n📍 Ros
+ enau 68128\n🚗 Waze : https://waze.com/ul?ll=47.63686\,7.53491&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000
+ 0014559113
+LOCATION:SALLE DES SPORTS L'ESCALE\, Rosenau 68128
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559113
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-12-05-20-30-basket-club-sierentz-as-atte
+ nschwille@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs AS ATTENSCHWILLER\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas
+  Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/
+ 200000014559118
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559118
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-12-12-20-30-basket-club-sierentz-richwil
+ ler-union@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – RICHWILLER UNION SPORTIVE - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs RICHWILLER UNION SPORTIVE - 2\n\nSALLE ECOLE J.SCHMIDT\n📍 R
+ ue Rogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,
+ 7.45955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dm4/match/200000014559126
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559126
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-01-17-10-30-basket-andolsheim-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270117T103000
+DTEND;TZID=Europe/Paris:20270117T123000
+SUMMARY:✈️ BASKET ANDOLSHEIM – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs BASKET CLUB SIERENTZ\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar F
+ ortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match
+ /200000014559127
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559127
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-01-23-00-00-basket-club-ribeauville-bask
+ et-club-s@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ BASKET CLUB RIBEAUVILLE – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ RIBEAUVILLE vs BASKET CLUB SIERENTZ\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 068/competitions/dm4/match/200000014559133
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559133
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-02-06-20-30-basket-club-sierentz-ie-ctc-
+ jura-alsa@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – IE - CTC JURA ALSACIEN BASKET - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs IE - CTC JURA ALSACIEN BASKET - 3\n\nSALLE ECOLE J.SCHMIDT\n
+ 📍 Rue Rogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.6
+ 5031\,7.45955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/dm4/match/200000014559138
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559138
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-02-13-00-00-union-sportive-flaxlanden-3-
+ basket-cl@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ UNION SPORTIVE FLAXLANDEN - 3 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN - 3 vs BASKET CLUB SIERENTZ\n\nSALLE DE SPORT\n📍 Allée d
+ es Noyers Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?ll=47.69174\,7
+ .32584&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dm4/match/200000014559143
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559143
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-03-13-20-30-basket-club-sierentz-abc-lut
+ terbach-3@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – ABC LUTTERBACH - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs ABC LUTTERBACH - 3\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haa
+ s Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match
+ /200000014559148
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559148
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-03-20-00-00-ie-ctc-de-l-ill-3-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 3 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC DE 
+ L'ILL - 3 vs BASKET CLUB SIERENTZ\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de
+  l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36
+ 244&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ 4/match/200000014559153
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559153
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-04-03-20-30-basket-club-sierentz-basket-
+ club-rose@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – BASKET CLUB ROSENAU - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs BASKET CLUB ROSENAU - 2\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rog
+ g-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.4595
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559158
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559158
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-04-10-20-00-as-attenschwiller-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:✈️ AS ATTENSCHWILLER – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs BASKET CLUB SIERENTZ\n\nSALLE POLYVALENTE\n📍 Rue Charles de Ga
+ ulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.
+ 45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dm4/match/200000014559163
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559163
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-05-08-20-00-richwiller-union-sportive-2-
+ basket-cl@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270508T200000
+DTEND;TZID=Europe/Paris:20270508T220000
+SUMMARY:✈️ RICHWILLER UNION SPORTIVE - 2 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE - 2 vs BASKET CLUB SIERENTZ\n\nSALLE JEAN-MARIE PFEFFER\n
+ 📍 Rue de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll
+ =47.78251\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dm4/match/200000014559171
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559171
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-05-16-10-30-basket-club-sierentz-basket-
+ andolshei@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270516T103000
+DTEND;TZID=Europe/Paris:20270516T123000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs BASKET ANDOLSHEIM\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas
+  Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/
+ 200000014559172
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559172
+END:VEVENT
+END:VCALENDAR

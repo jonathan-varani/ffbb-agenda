@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – US BOULANGE FONTOY BB  [IDFU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de US BOULANGE FONTOY BB – IDFU18 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-19-16-00-us-boulange-fontoy-bb-fensc
+ h-basket-@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:🏠 US BOULANGE FONTOY BB – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US BOULANGE
+  FONTOY BB vs FENSCH BASKET AVENIR FBA\n\nSALLE DES SPORTS\n📍 Rue du St
+ ade Boulange 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/
+ match/200000014651769
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651769
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-26-18-00-rombas-oc-us-boulange-fonto
+ y-bb@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:✈️ ROMBAS OC – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ ROMBAS OC v
+ s US BOULANGE FONTOY BB\n\nCOSEC ANDRE RUPPERT\n📍 Rue Maréchal Joffre 
+ Rombas 57120\n🚗 Waze : https://waze.com/ul?ll=49.2535\,6.09994&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/2
+ 00000014651780
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651780
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-03-18-00-longeville-et-st-avold-bask
+ et-us-bou@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ LONGEVILLE 
+ ET ST AVOLD BASKET vs US BOULANGE FONTOY BB\n\nGYMNASE DU CASTEL\n📍 Rue
+  des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze
+ .com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0057/competitions/idfu18/match/200000014651788
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651788
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-10-16-00-us-boulange-fontoy-bb-metz-
+ bc@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 US BOULANGE FONTOY BB – METZ BC
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US BOULANGE
+  FONTOY BB vs METZ BC\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 5765
+ 5\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/200000014
+ 651796
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651796
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-07-18-00-us-silvange-basket-us-boula
+ nge-fonto@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ US SILVANGE BASKET – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US SILVANGE
+  BASKET vs US BOULANGE FONTOY BB\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Mige
+ tte Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6
+ .11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /idfu18/match/200000014651803
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651803
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-15-13-00-us-boulange-fontoy-bb-cse-f
+ olkling@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261115T130000
+DTEND;TZID=Europe/Paris:20261115T150000
+SUMMARY:🏠 US BOULANGE FONTOY BB – CSE FOLKLING
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US BOULANGE
+  FONTOY BB vs CSE FOLKLING\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange
+  57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/200000
+ 014651812
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651812
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-29-13-00-us-boulange-fontoy-bb-asp-s
+ te-marie-@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261129T130000
+DTEND;TZID=Europe/Paris:20261129T150000
+SUMMARY:🏠 US BOULANGE FONTOY BB – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US BOULANGE
+  FONTOY BB vs ASP STE MARIE AUX CHENES\n\nSALLE DES SPORTS\n📍 Rue du St
+ ade Boulange 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/
+ match/200000014651818
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651818
+END:VEVENT
+END:VCALENDAR

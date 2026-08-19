@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS ATTENSCHWILLER  [DXU9 – GES – Poule C]
+X-WR-CALDESC:Matchs de AS ATTENSCHWILLER – DXU9 – GES – Haut-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-c-2026-09-26-13-30-as-attenschwiller-ie-ctc-ju
+ ra-alsaci@ffbb-agenda
+DTSTAMP:20260819T081040Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:🏠 AS ATTENSCHWILLER – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule C\n⚔️ AS ATTENSCH
+ WILLER vs IE - CTC JURA ALSACIEN BASKET - 2\n\nSALLE POLYVALENTE\n📍 Rue
+  Charles de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?l
+ l=47.56918\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/dxu9/match/200000014560708
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560708
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-c-2026-10-03-00-00-ent-blotzheim-hegenheim-as-
+ attenschw@ffbb-agenda
+DTSTAMP:20260819T081040Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ENT BLOTZHEIM/HEGENHEIM – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule C\n⚔️ ENT BLOTZHE
+ IM/HEGENHEIM vs AS ATTENSCHWILLER\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/dxu9/match/200000014560713
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560713
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-c-2026-10-11-13-30-as-attenschwiller-richwille
+ r-union-s@ffbb-agenda
+DTSTAMP:20260819T081040Z
+DTSTART;TZID=Europe/Paris:20261011T133000
+DTEND;TZID=Europe/Paris:20261011T153000
+SUMMARY:🏠 AS ATTENSCHWILLER – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule C\n⚔️ AS ATTENSCH
+ WILLER vs RICHWILLER UNION SPORTIVE\n\nSALLE POLYVALENTE\n📍 Rue Charles
+  de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.569
+ 18\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dxu9/match/200000014560718
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560718
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-c-2026-10-17-14-00-cssl-rixheim-as-attenschwil
+ ler@ffbb-agenda
+DTSTAMP:20260819T081040Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T160000
+SUMMARY:✈️ CSSL RIXHEIM – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule C\n⚔️ CSSL RIXHEI
+ M vs AS ATTENSCHWILLER\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 68
+ 170\n🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000001456
+ 0723
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560723
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-c-2026-11-15-13-30-basket-club-3-pays-2-as-att
+ enschwill@ffbb-agenda
+DTSTAMP:20260819T081040Z
+DTSTART;TZID=Europe/Paris:20261115T133000
+DTEND;TZID=Europe/Paris:20261115T153000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 2 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule C\n⚔️ BASKET-CLUB
+  3 PAYS - 2 vs AS ATTENSCHWILLER\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collè
+ ge Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/m
+ atch/200000014560733
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560733
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-c-2026-11-21-15-00-as-attenschwiller-basket-no
+ rd-sundga@ffbb-agenda
+DTSTAMP:20260819T081040Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:🏠 AS ATTENSCHWILLER – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule C\n⚔️ AS ATTENSCH
+ WILLER vs BASKET NORD SUNDGAU - 2\n\nSALLE POLYVALENTE\n📍 Rue Charles d
+ e Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918
+ \,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dxu9/match/200000014560738
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560738
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-c-2026-12-05-00-00-ie-ctc-jura-alsacien-basket
+ -1-as-att@ffbb-agenda
+DTSTAMP:20260819T081040Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 1 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule C\n⚔️ IE - CTC JU
+ RA ALSACIEN BASKET - 1 vs AS ATTENSCHWILLER\n\nGYMNASE DU COLLEGE\n📍 Ru
+ e Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.5014
+ 4\,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dxu9/match/200000014560743
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560743
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-c-2026-12-12-14-00-as-attenschwiller-basket-cl
+ ub-3-pays@ffbb-agenda
+DTSTAMP:20260819T081040Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:🏠 AS ATTENSCHWILLER – BASKET-CLUB 3 PAYS - 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule C\n⚔️ AS ATTENSCH
+ WILLER vs BASKET-CLUB 3 PAYS - 3\n\nSALLE POLYVALENTE\n📍 Rue Charles de
+  Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\
+ ,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dxu9/match/200000014560748
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560748
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC KUNHEIM  [DMU18-7 – GES]
+X-WR-CALDESC:Matchs de BC KUNHEIM – DMU18-7 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-09-26-16-30-as-attenschwiller-2-bc-kunheim@f
+ fbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20260926T163000
+DTEND;TZID=Europe/Paris:20260926T183000
+SUMMARY:✈️ AS ATTENSCHWILLER - 2 – BC KUNHEIM
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ AS ATTENSCHWILLER - 
+ 2 vs BC KUNHEIM\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gaulle Attenschw
+ iller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.45741&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/
+ 200000014560590
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560590
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-03-00-00-bc-kunheim-basket-nord-sundgau-3
+ @ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BC KUNHEIM – BASKET NORD SUNDGAU - 3
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC KUNHEIM vs BASKET
+  NORD SUNDGAU - 3\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\
+ n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/2000000145605
+ 94
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560594
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-10-19-30-colmar-basket-4-bc-kunheim@ffbb-
+ agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261010T193000
+DTEND;TZID=Europe/Paris:20261010T213000
+SUMMARY:✈️ COLMAR BASKET - 4 – BC KUNHEIM
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 4 vs
+  BC KUNHEIM\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar 68000\n
+ 🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/2000000145606
+ 00
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560600
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-07-00-00-bc-kunheim-ie-ctc-jura-alsacien-
+ basket-2@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BC KUNHEIM – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC KUNHEIM vs IE - C
+ TC JURA ALSACIEN BASKET - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunh
+ eim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/200
+ 000014560604
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560604
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-14-00-00-bc-kunheim-bc-st-georges-carspac
+ h-2@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 BC KUNHEIM – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC KUNHEIM vs BC ST 
+ GEORGES CARSPACH - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 683
+ 20\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/20000001
+ 4560607
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560607
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-28-00-00-ie-ctc-thur-doller-basket-club-3
+ -bc-kunhe@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 3 – BC KUNHEIM
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 3 vs BC KUNHEIM\n\nCENTRE SPORTIF BOURGER\n📍 Place de la
+  Halle des Sports Thann 68800\n🚗 Waze : https://waze.com/ul?ll=47.80333
+ \,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu18-7/match/200000014560613
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560613
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-12-12-00-00-bc-kunheim-richwiller-union-spor
+ tive@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BC KUNHEIM – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC KUNHEIM vs RICHWI
+ LLER UNION SPORTIVE\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 6832
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/20000001
+ 4560615
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560615
+END:VEVENT
+END:VCALENDAR

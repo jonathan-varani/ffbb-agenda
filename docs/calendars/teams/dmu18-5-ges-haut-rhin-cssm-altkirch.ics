@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSSM ALTKIRCH  [DMU18-5 – GES]
+X-WR-CALDESC:Matchs de CSSM ALTKIRCH – DMU18-5 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-12-00-00-cssm-altkirch-asc-ste-afre-riedi
+ sheim-1@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 CSSM ALTKIRCH – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ CSSM ALTKIRCH vs ASC
+  STE AFRE RIEDISHEIM - 1\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altkirch
+  68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/200000
+ 014560030
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560030
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-26-00-00-cssm-altkirch-fcsl-eguisheim-1@f
+ fbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 CSSM ALTKIRCH – FCSL EGUISHEIM - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ CSSM ALTKIRCH vs FCS
+ L EGUISHEIM - 1\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altkirch 68130\n
+ 🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/20000001456003
+ 8
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560038
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-03-18-00-abc-lutterbach-1-cssm-altkirch@f
+ fbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ ABC LUTTERBACH - 1 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ ABC LUTTERBACH - 1 v
+ s CSSM ALTKIRCH\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach 68460\n🚗
+  Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0068/competitions/dmu18-5/match/200000014560043
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560043
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-10-00-00-cssm-altkirch-basket-nord-sundga
+ u-2@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 CSSM ALTKIRCH – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ CSSM ALTKIRCH vs BAS
+ KET NORD SUNDGAU - 2\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altkirch 681
+ 30\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/20000001
+ 4560047
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560047
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-18-16-30-mustangs-association-2-cssm-altk
+ irch@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261018T163000
+DTEND;TZID=Europe/Paris:20261018T183000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 2 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ MUSTANGS ASSOCIATION
+  - 2 vs CSSM ALTKIRCH\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pfasta
+ tt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/200
+ 000014560050
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560050
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-25-17-30-basket-club-3-pays-1-cssm-altkir
+ ch@ffbb-agenda
+DTSTAMP:20260819T080855Z
+DTSTART;TZID=Europe/Paris:20261025T173000
+DTEND;TZID=Europe/Paris:20261025T193000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 1 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  1 vs CSSM ALTKIRCH\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenheim
+  68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/20000
+ 0014560052
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560052
+END:VEVENT
+END:VCALENDAR

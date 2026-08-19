@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASP STE MARIE AUX CHENES  [IDFU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASP STE MARIE AUX CHENES – IDFU13 – GES – Meuse – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-09-19-17-00-basket-club-longwy-rehon-asp-
+ ste-marie@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20260919T170000
+DTEND;TZID=Europe/Paris:20260919T190000
+SUMMARY:✈️ BASKET CLUB LONGWY REHON – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ BASKET CLUB L
+ ONGWY REHON vs ASP STE MARIE AUX CHENES\n\nGYMNASE LEON BASSOMPIERRE\n📍
+  Rue Albert Legendre Longwy 54400\n🚗 Waze : https://waze.com/ul?ll=49.5
+ 1894\,5.76872&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/idfu13/match/200000014616247
+LOCATION:GYMNASE LEON BASSOMPIERRE\, Rue Albert Legendre Longwy 54400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616247
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-09-27-09-00-asp-ste-marie-aux-chenes-sluc
+ -nancy-ba@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20260927T090000
+DTEND;TZID=Europe/Paris:20260927T110000
+SUMMARY:🏠 ASP STE MARIE AUX CHENES – SLUC NANCY BASKET ASSOCIATION - 2
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ ASP STE MARIE
+  AUX CHENES vs SLUC NANCY BASKET ASSOCIATION - 2\n\nGYMNASE BERTHELOT\n
+ 📍 Rue Berthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waz
+ e.com/ul?ll=49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0055/competitions/idfu13/match/200000014616254
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616254
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-10-10-13-00-us-silvange-basket-1-asp-ste-
+ marie-aux@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20261010T130000
+DTEND;TZID=Europe/Paris:20261010T150000
+SUMMARY:✈️ US SILVANGE BASKET - 1 – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ US SILVANGE B
+ ASKET - 1 vs ASP STE MARIE AUX CHENES\n\nCOSEC LA ROUSSE\n📍 Rue Auguste
+  Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.212
+ 14\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competi
+ tions/idfu13/match/200000014616262
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616262
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-11-07-13-30-metz-bc-asp-ste-marie-aux-che
+ nes@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:✈️ METZ BC – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ METZ BC vs AS
+ P STE MARIE AUX CHENES\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz
+  57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu13/match/200000
+ 014616269
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616269
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-11-15-09-00-asp-ste-marie-aux-chenes-asc-
+ charny-su@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20261115T090000
+DTEND;TZID=Europe/Paris:20261115T110000
+SUMMARY:🏠 ASP STE MARIE AUX CHENES – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ ASP STE MARIE
+  AUX CHENES vs ASC CHARNY SUR MEUSE\n\nGYMNASE BERTHELOT\n📍 Rue Berthel
+ ot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.1
+ 9465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/idfu13/match/200000014616275
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616275
+END:VEVENT
+END:VCALENDAR

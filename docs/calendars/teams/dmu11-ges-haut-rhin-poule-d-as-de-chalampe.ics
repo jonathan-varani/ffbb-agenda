@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS DE CHALAMPE  [DMU11 – GES – Poule D]
+X-WR-CALDESC:Matchs de AS DE CHALAMPE – DMU11 – GES – Haut-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-09-26-15-00-as-de-chalampe-bc-kunheim@
+ ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:🏠 AS DE CHALAMPE – BC KUNHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ AS DE CHAL
+ AMPE vs BC KUNHEIM\n\nSALLE POLYVALENTE\n📍 Avenue de la Gare Chalampé 
+ 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/20000001
+ 4559402
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559402
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-03-00-00-as-kaysersberg-ammerschwih
+ r-bca-2-a@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ AS KAYSERSBERG AMMERSCHWIHR BCA - 2 – AS DE CHALAMPE
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ AS KAYSERS
+ BERG AMMERSCHWIHR BCA - 2 vs AS DE CHALAMPE\n\nSALLE THEO FALLER\n📍 Rue
+  des Tilleuls Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?
+ ll=48.14653\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/dmu11/match/200000014559407
+LOCATION:SALLE THEO FALLER\, Rue des Tilleuls Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559407
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-10-13-30-as-de-chalampe-basket-club
+ -illzach@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:🏠 AS DE CHALAMPE – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ AS DE CHAL
+ AMPE vs BASKET CLUB ILLZACH\n\nSALLE POLYVALENTE\n📍 Avenue de la Gare C
+ halampé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match
+ /200000014559412
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559412
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-18-11-00-fcsl-eguisheim-1-as-de-cha
+ lampe@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261018T110000
+DTEND;TZID=Europe/Paris:20261018T130000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – AS DE CHALAMPE
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ FCSL EGUIS
+ HEIM - 1 vs AS DE CHALAMPE\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hint
+ erzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.3
+ 1428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ mu11/match/200000014559417
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559417
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-07-15-00-as-de-chalampe-mulhouse-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:🏠 AS DE CHALAMPE – MULHOUSE BASKET CLUB AMATEUR
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ AS DE CHAL
+ AMPE vs MULHOUSE BASKET CLUB AMATEUR\n\nSALLE POLYVALENTE\n📍 Avenue de 
+ la Gare Chalampé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53
+ 992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u11/match/200000014559422
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559422
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-14-00-00-guebwiller-as-saint-leger-
+ 2-as-de-c@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 2 – AS DE CHALAMPE
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ GUEBWILLER
+  AS SAINT LEGER - 2 vs AS DE CHALAMPE\n\nGYMNASE THEODORE DECK\n📍 Rue T
+ héodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.9072
+ 3\,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu11/match/200000014559427
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559427
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-21-15-00-as-de-chalampe-mustangs-as
+ sociation@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:🏠 AS DE CHALAMPE – MUSTANGS ASSOCIATION - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ AS DE CHAL
+ AMPE vs MUSTANGS ASSOCIATION - 2\n\nSALLE POLYVALENTE\n📍 Avenue de la G
+ are Chalampé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/
+ match/200000014559432
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559432
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-12-05-16-30-colmar-basket-2-as-de-chal
+ ampe@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261205T163000
+DTEND;TZID=Europe/Paris:20261205T183000
+SUMMARY:✈️ COLMAR BASKET - 2 – AS DE CHALAMPE
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ COLMAR BAS
+ KET - 2 vs AS DE CHALAMPE\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colm
+ ar 68000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/20000
+ 0014559437
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559437
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-12-12-15-00-as-de-chalampe-asc-ste-afr
+ e-riedish@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261212T150000
+DTEND;TZID=Europe/Paris:20261212T170000
+SUMMARY:🏠 AS DE CHALAMPE – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ AS DE CHAL
+ AMPE vs ASC STE AFRE RIEDISHEIM - 2\n\nSALLE POLYVALENTE\n📍 Avenue de l
+ a Gare Chalampé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.539
+ 92&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu
+ 11/match/200000014559442
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559442
+END:VEVENT
+END:VCALENDAR

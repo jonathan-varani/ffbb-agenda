@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC AUMETZ  [IDMU15 – GES – Poule C]
+X-WR-CALDESC:Matchs de BC AUMETZ – IDMU15 – GES – Meuse – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-09-19-15-00-bc-aumetz-basket-club-hayange
+ -marspich@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20260919T150000
+DTEND;TZID=Europe/Paris:20260919T170000
+SUMMARY:🏠 BC AUMETZ – BASKET CLUB HAYANGE MARSPICH
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ BC AUMETZ vs 
+ BASKET CLUB HAYANGE MARSPICH\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger
+  de Montbrillais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194
+ \,5.94911&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competiti
+ ons/idmu15/match/200000014610476
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610476
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-09-27-10-30-es-hagondange-bc-aumetz@ffbb-
+ agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20260927T103000
+DTEND;TZID=Europe/Paris:20260927T123000
+SUMMARY:✈️ ES HAGONDANGE – BC AUMETZ
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ ES HAGONDANGE
+  vs BC AUMETZ\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri Hoffmann Hago
+ ndange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.16551&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/
+ 200000014610486
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610486
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-10-03-15-00-bc-aumetz-cse-folkling@ffbb-a
+ genda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:🏠 BC AUMETZ – CSE FOLKLING
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ BC AUMETZ vs 
+ CSE FOLKLING\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger de Montbrillais
+  Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194\,5.94911&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match
+ /200000014610500
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610500
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-10-10-13-00-asp-ste-marie-aux-chenes-bc-a
+ umetz@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261010T130000
+DTEND;TZID=Europe/Paris:20261010T150000
+SUMMARY:✈️ ASP STE MARIE AUX CHENES – BC AUMETZ
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ ASP STE MARIE
+  AUX CHENES vs BC AUMETZ\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot Sainte-M
+ arie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.19465\,5.997
+ 04&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idm
+ u15/match/200000014610513
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610513
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-11-14-15-00-bc-aumetz-basket-club-longwy-
+ rehon-2@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261114T150000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:🏠 BC AUMETZ – BASKET CLUB LONGWY REHON - 2
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ BC AUMETZ vs 
+ BASKET CLUB LONGWY REHON - 2\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger
+  de Montbrillais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194
+ \,5.94911&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competiti
+ ons/idmu15/match/200000014610534
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610534
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-11-21-15-00-metz-bc-bc-aumetz@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:✈️ METZ BC – BC AUMETZ
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ METZ BC vs BC
+  AUMETZ\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n🚗 Wa
+ ze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0055/competitions/idmu15/match/200000014610549
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610549
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET-CLUB 3 PAYS - 2  [DMU15 – GES]
+X-WR-CALDESC:Matchs de BASKET-CLUB 3 PAYS - 2 – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-20-00-00-basket-club-3-pays-2-asl-dessenhei
+ m-3@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20260920T000000
+DTEND;TZID=Europe/Paris:20260920T020000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 2 – ASL DESSENHEIM - 3
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 2
+  vs ASL DESSENHEIM - 3\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenh
+ eim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000
+ 00014559893
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559893
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-26-17-30-asc-saint-romain-reiningue-basket-
+ club-3-pa@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20260926T173000
+DTEND;TZID=Europe/Paris:20260926T193000
+SUMMARY:✈️ ASC SAINT ROMAIN REININGUE – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC SAINT ROMAIN REINI
+ NGUE vs BASKET-CLUB 3 PAYS - 2\n\nHALLE DES SPORTS\n📍 Rue des Pierres R
+ einingue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match
+ /200000014559897
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559897
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-15-00-basket-club-3-pays-2-basket-andols
+ heim@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 2 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 2
+  vs BASKET ANDOLSHEIM\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenhe
+ im 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20000
+ 0014559901
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559901
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-11-14-30-cs-saint-pp-waldighoffen-1-basket-
+ club-3-pa@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261011T143000
+DTEND;TZID=Europe/Paris:20261011T163000
+SUMMARY:✈️ CS SAINT PP WALDIGHOFFEN - 1 – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHOFF
+ EN - 1 vs BASKET-CLUB 3 PAYS - 2\n\nSALLE NATHAN KATZ\n📍 Rue des École
+ s Waldighofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31429&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/
+ match/200000014559904
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559904
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-18-11-00-basket-club-3-pays-2-cssl-rixheim@
+ ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261018T110000
+DTEND;TZID=Europe/Paris:20261018T130000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 2 – CSSL RIXHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 2
+  vs CSSL RIXHEIM\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenheim 68
+ 220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59906
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559906
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-07-00-00-asl-dessenheim-3-basket-club-3-pay
+ s-2@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ ASL DESSENHEIM - 3 – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASL DESSENHEIM - 3 vs 
+ BASKET-CLUB 3 PAYS - 2\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Dess
+ enheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2
+ 00000014559908
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559908
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-15-17-30-basket-club-3-pays-2-asc-saint-rom
+ ain-reini@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261115T173000
+DTEND;TZID=Europe/Paris:20261115T193000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 2 – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 2
+  vs ASC SAINT ROMAIN REININGUE\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège
+  Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/ma
+ tch/200000014559912
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559912
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-15-00-basket-andolsheim-basket-club-3-pa
+ ys-2@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261128T150000
+DTEND;TZID=Europe/Paris:20261128T170000
+SUMMARY:✈️ BASKET ANDOLSHEIM – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET ANDOLSHEIM vs B
+ ASKET-CLUB 3 PAYS - 2\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar Fortschwi
+ hr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20000
+ 0014559916
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559916
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-06-13-30-basket-club-3-pays-2-cs-saint-pp-w
+ aldighoff@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261206T133000
+DTEND;TZID=Europe/Paris:20261206T153000
+SUMMARY:🏠 BASKET-CLUB 3 PAYS - 2 – CS SAINT PP WALDIGHOFFEN - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 2
+  vs CS SAINT PP WALDIGHOFFEN - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collè
+ ge Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/
+ match/200000014559919
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559919
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-17-00-cssl-rixheim-basket-club-3-pays-2@
+ ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261212T170000
+DTEND;TZID=Europe/Paris:20261212T190000
+SUMMARY:✈️ CSSL RIXHEIM – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL RIXHEIM vs BASKET
+ -CLUB 3 PAYS - 2\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 68170\n
+ 🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559921
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559921
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MUSTANGS ASSOCIATION - 1  [DMU13-5 – GES]
+X-WR-CALDESC:Matchs de MUSTANGS ASSOCIATION - 1 – DMU13-5 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-5-ges-haut-rhin-2026-09-12-13-30-fcsl-eguisheim-1-mustangs-associ
+ ation-1@ffbb-agenda
+DTSTAMP:20260819T080947Z
+DTSTART;TZID=Europe/Paris:20260912T133000
+DTEND;TZID=Europe/Paris:20260912T153000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – MUSTANGS ASSOCIATION - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM - 1 v
+ s MUSTANGS ASSOCIATION - 1\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hint
+ erzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.3
+ 1428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ mu13-5/match/200000014559539
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-5/match/200000014559539
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-haut-rhin-2026-09-19-15-30-mustangs-association-1-basket-no
+ rd-sundga@ffbb-agenda
+DTSTAMP:20260819T080947Z
+DTSTART;TZID=Europe/Paris:20260919T153000
+DTEND;TZID=Europe/Paris:20260919T173000
+SUMMARY:🏠 MUSTANGS ASSOCIATION - 1 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 DMU13-5 – GES – Haut-Rhin\n⚔️ MUSTANGS ASSOCIATION
+  - 1 vs BASKET NORD SUNDGAU - 2\n\nSALLE POLYVALENTE\n📍 Rue de Kingersh
+ eim Pfastatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-5
+ /match/200000014559543
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-5/match/200000014559543
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-haut-rhin-2026-09-27-13-30-basket-club-3-pays-1-mustangs-as
+ sociation@ffbb-agenda
+DTSTAMP:20260819T080947Z
+DTSTART;TZID=Europe/Paris:20260927T133000
+DTEND;TZID=Europe/Paris:20260927T153000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 1 – MUSTANGS ASSOCIATION - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  1 vs MUSTANGS ASSOCIATION - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège
+  Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-5/
+ match/200000014559545
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-5/match/200000014559545
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-haut-rhin-2026-10-03-15-00-mustangs-association-1-cssl-saus
+ heim-1@ffbb-agenda
+DTSTAMP:20260819T080947Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:🏠 MUSTANGS ASSOCIATION - 1 – CSSL SAUSHEIM - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Haut-Rhin\n⚔️ MUSTANGS ASSOCIATION
+  - 1 vs CSSL SAUSHEIM - 1\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pf
+ astatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-5/match
+ /200000014559549
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-5/match/200000014559549
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-haut-rhin-2026-10-18-14-45-mustangs-association-1-cssm-altk
+ irch@ffbb-agenda
+DTSTAMP:20260819T080947Z
+DTSTART;TZID=Europe/Paris:20261018T144500
+DTEND;TZID=Europe/Paris:20261018T164500
+SUMMARY:🏠 MUSTANGS ASSOCIATION - 1 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DMU13-5 – GES – Haut-Rhin\n⚔️ MUSTANGS ASSOCIATION
+  - 1 vs CSSM ALTKIRCH\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pfasta
+ tt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-5/match/200
+ 000014559560
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-5/match/200000014559560
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-haut-rhin-2026-10-24-15-00-colmar-basket-1-mustangs-associa
+ tion-1@ffbb-agenda
+DTSTAMP:20260819T080947Z
+DTSTART;TZID=Europe/Paris:20261024T150000
+DTEND;TZID=Europe/Paris:20261024T170000
+SUMMARY:✈️ COLMAR BASKET - 1 – MUSTANGS ASSOCIATION - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 1 vs
+  MUSTANGS ASSOCIATION - 1\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe 
+ Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-5/match
+ /200000014559564
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-5/match/200000014559564
+END:VEVENT
+END:VCALENDAR

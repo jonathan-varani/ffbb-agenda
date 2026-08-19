@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC KUNHEIM  [DMU11 – GES – Poule D]
+X-WR-CALDESC:Matchs de BC KUNHEIM – DMU11 – GES – Haut-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-09-26-15-00-as-de-chalampe-bc-kunheim@
+ ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:✈️ AS DE CHALAMPE – BC KUNHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ AS DE CHAL
+ AMPE vs BC KUNHEIM\n\nSALLE POLYVALENTE\n📍 Avenue de la Gare Chalampé 
+ 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/20000001
+ 4559402
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559402
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-03-00-00-bc-kunheim-guebwiller-as-s
+ aint-lege@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BC KUNHEIM – GUEBWILLER AS SAINT LEGER - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ BC KUNHEIM
+  vs GUEBWILLER AS SAINT LEGER - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Vern
+ e Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match
+ /200000014559411
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559411
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-10-00-00-bc-kunheim-as-kaysersberg-
+ ammerschw@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BC KUNHEIM – AS KAYSERSBERG AMMERSCHWIHR BCA - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ BC KUNHEIM
+  vs AS KAYSERSBERG AMMERSCHWIHR BCA - 2\n\nSALLE DES SPORTS\n📍 Rue Jule
+ s Verne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11
+ /match/200000014559416
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559416
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-18-13-00-mustangs-association-2-bc-
+ kunheim@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261018T130000
+DTEND;TZID=Europe/Paris:20261018T150000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 2 – BC KUNHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ MUSTANGS A
+ SSOCIATION - 2 vs BC KUNHEIM\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim
+  Pfastatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/matc
+ h/200000014559421
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559421
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-07-00-00-bc-kunheim-basket-club-ill
+ zach@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BC KUNHEIM – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ BC KUNHEIM
+  vs BASKET CLUB ILLZACH\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 
+ 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/200000014
+ 559426
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559426
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-14-16-30-colmar-basket-2-bc-kunheim
+ @ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261114T163000
+DTEND;TZID=Europe/Paris:20261114T183000
+SUMMARY:✈️ COLMAR BASKET - 2 – BC KUNHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ COLMAR BAS
+ KET - 2 vs BC KUNHEIM\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar 6
+ 8000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/200000014
+ 559431
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559431
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-21-15-00-fcsl-eguisheim-1-bc-kunhei
+ m@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – BC KUNHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ FCSL EGUIS
+ HEIM - 1 vs BC KUNHEIM\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinterza
+ rten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31428
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11
+ /match/200000014559436
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559436
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-12-05-00-00-asc-ste-afre-riedisheim-2-
+ bc-kunhei@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 2 – BC KUNHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ ASC STE AF
+ RE RIEDISHEIM - 2 vs BC KUNHEIM\n\nGYMNASE BARTHOLDI\n📍 Rue du Révére
+ nd Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47.7
+ 4155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/dmu11/match/200000014559441
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559441
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-12-12-00-00-bc-kunheim-mulhouse-basket
+ -club-ama@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BC KUNHEIM – MULHOUSE BASKET CLUB AMATEUR
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ BC KUNHEIM
+  vs MULHOUSE BASKET CLUB AMATEUR\n\nSALLE DES SPORTS\n📍 Rue Jules Verne
+  Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/
+ 200000014559446
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559446
+END:VEVENT
+END:VCALENDAR

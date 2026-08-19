@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SLUC NANCY BASKET ASSOCIATION - 2  [IDFU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de SLUC NANCY BASKET ASSOCIATION - 2 – IDFU13 – GES – Meuse – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-09-19-14-00-sluc-nancy-basket-association
+ -2-us-sil@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION - 2 – US SILVANGE BASKET - 1
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 2 vs US SILVANGE BASKET - 1\n\nPALAIS DES SPORTS ANNEXE
+ \n📍 Rue du Capitaine Guynemer Nancy 54100\n🚗 Waze : https://waze.com
+ /ul?ll=48.69975\,6.13996&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0055/competitions/idfu13/match/200000014616246
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616246
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-09-27-09-00-asp-ste-marie-aux-chenes-sluc
+ -nancy-ba@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20260927T090000
+DTEND;TZID=Europe/Paris:20260927T110000
+SUMMARY:✈️ ASP STE MARIE AUX CHENES – SLUC NANCY BASKET ASSOCIATION -
+  2
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ ASP STE MARIE
+  AUX CHENES vs SLUC NANCY BASKET ASSOCIATION - 2\n\nGYMNASE BERTHELOT\n
+ 📍 Rue Berthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waz
+ e.com/ul?ll=49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0055/competitions/idfu13/match/200000014616254
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616254
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-10-10-16-00-sluc-nancy-basket-association
+ -2-metz-b@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION - 2 – METZ BC
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 2 vs METZ BC\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du C
+ apitaine Guynemer Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.69975
+ \,6.13996&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competiti
+ ons/idfu13/match/200000014616260
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616260
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-11-07-13-30-asc-charny-sur-meuse-sluc-nan
+ cy-basket@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE – SLUC NANCY BASKET ASSOCIATION - 2
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ ASC CHARNY SU
+ R MEUSE vs SLUC NANCY BASKET ASSOCIATION - 2\n\nSALLE DES SPORTS 1\n📍 L
+ otissement Sous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze
+ .com/ul?ll=49.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0055/competitions/idfu13/match/200000014616268
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616268
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-11-14-16-00-sluc-nancy-basket-association
+ -2-basket@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION - 2 – BASKET CLUB LONGWY REHON
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 2 vs BASKET CLUB LONGWY REHON\n\nGYMNASE LOUIS ARMAND\n
+ 📍 Rue des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48
+ .67025\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616274
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616274
+END:VEVENT
+END:VCALENDAR

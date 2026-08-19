@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSC RUSTENHART  [DMU15 – GES]
+X-WR-CALDESC:Matchs de CSC RUSTENHART – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-19-15-45-csc-rustenhart-mustangs-associatio
+ n-3@ffbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20260919T154500
+DTEND;TZID=Europe/Paris:20260919T174500
+SUMMARY:🏠 CSC RUSTENHART – MUSTANGS ASSOCIATION - 3
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSC RUSTENHART vs MUST
+ ANGS ASSOCIATION - 3\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Rustenha
+ rt 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000
+ 14559835
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559835
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-26-00-00-ie-ctc-de-l-ill-1-csc-rustenhart@f
+ fbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 1 – CSC RUSTENHART
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 1 
+ vs CSC RUSTENHART\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'Ill Ruelishei
+ m 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000
+ 014559838
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559838
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-00-00-csc-rustenhart-basket-club-de-king
+ ersheim-2@ffbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 CSC RUSTENHART – BASKET CLUB DE KINGERSHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSC RUSTENHART vs BASK
+ ET CLUB DE KINGERSHEIM - 2\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Ru
+ stenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2
+ 00000014559840
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559840
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-10-00-00-csc-rustenhart-as-attenschwiller@f
+ fbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 CSC RUSTENHART – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSC RUSTENHART vs AS A
+ TTENSCHWILLER\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Rustenhart 6874
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20000001455984
+ 2
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559842
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-17-00-00-bc-kunheim-1-csc-rustenhart@ffbb-a
+ genda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ BC KUNHEIM - 1 – CSC RUSTENHART
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 1 vs CSC 
+ RUSTENHART\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\n🚗 W
+ aze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0068/competitions/dmu15/match/200000014559846
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559846
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-08-13-30-mustangs-association-3-csc-rustenh
+ art@ffbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261108T133000
+DTEND;TZID=Europe/Paris:20261108T153000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 3 – CSC RUSTENHART
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ MUSTANGS ASSOCIATION -
+  3 vs CSC RUSTENHART\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pfastat
+ t 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000
+ 014559850
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559850
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-14-00-00-csc-rustenhart-ie-ctc-de-l-ill-1@f
+ fbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 CSC RUSTENHART – IE - CTC DE L'ILL - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSC RUSTENHART vs IE -
+  CTC DE L'ILL - 1\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Rustenhart 
+ 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59853
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559853
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-18-00-basket-club-de-kingersheim-2-csc-r
+ ustenhart@ffbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM - 2 – CSC RUSTENHART
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB DE KINGERS
+ HEIM - 2 vs CSC RUSTENHART\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Couber
+ tin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.3280
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559855
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559855
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-05-16-30-as-attenschwiller-csc-rustenhart@f
+ fbb-agenda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261205T163000
+DTEND;TZID=Europe/Paris:20261205T183000
+SUMMARY:✈️ AS ATTENSCHWILLER – CSC RUSTENHART
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ AS ATTENSCHWILLER vs C
+ SC RUSTENHART\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gaulle Attenschwil
+ ler 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.45741&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000
+ 00014559857
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559857
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-00-00-csc-rustenhart-bc-kunheim-1@ffbb-a
+ genda
+DTSTAMP:20260819T080936Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 CSC RUSTENHART – BC KUNHEIM - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSC RUSTENHART vs BC K
+ UNHEIM - 1\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Rustenhart 68740\n
+ 🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=yes\n\n📢 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559861
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559861
+END:VEVENT
+END:VCALENDAR

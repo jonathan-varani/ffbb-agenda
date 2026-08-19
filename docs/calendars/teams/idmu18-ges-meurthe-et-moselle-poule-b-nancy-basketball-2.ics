@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NANCY BASKETBALL - 2  [IDMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de NANCY BASKETBALL - 2 – IDMU18 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-09-26-16-00-la-valdajolaise-
+ nancy-bas@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
+SUMMARY:✈️ LA VALDAJOLAISE – NANCY BASKETBALL - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ LA VALDAJOLAISE vs NANCY BASKETBALL - 2\n\nSALLE MUNICIPALE SPORTS\n📍 R
+ ue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.
+ 92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idmu18/match/200000014615457
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615457
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-03-18-00-nancy-basketball
+ -2-basket@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 NANCY BASKETBALL - 2 – BASKET CLUB GOLBEY EPINAL - 1
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ NANCY BASKETBALL - 2 vs BASKET CLUB GOLBEY EPINAL - 1\n\nGYMNASE PIERRE DE
+  COUBERTIN\n📍 Rue de Phalsbourg Nancy 54000\n🚗 Waze : https://waze.c
+ om/ul?ll=48.68294\,6.18168&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0054/competitions/idmu18/match/200000014615472
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615472
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-10-18-00-basket-club-chav
+ elotais-n@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:✈️ BASKET CLUB CHAVELOTAIS – NANCY BASKETBALL - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ BASKET CLUB CHAVELOTAIS vs NANCY BASKETBALL - 2\n\nSALLE DES SPORTS\n📍 
+ Place de la République Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll
+ =48.23758\,6.43697&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615493
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615493
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-17-18-00-nancy-basketball
+ -2-cslb-b@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:🏠 NANCY BASKETBALL - 2 – CSLB BAR LE DUC
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ NANCY BASKETBALL - 2 vs CSLB BAR LE DUC\n\nGYMNASE PIERRE DE COUBERTIN\n
+ 📍 Rue de Phalsbourg Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.
+ 68294\,6.18168&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idmu18/match/200000014615508
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615508
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-07-18-00-as-champigneulle
+ s-basketb@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – NANCY BASKETBALL - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ AS CHAMPIGNEULLES BASKETBALL vs NANCY BASKETBALL - 2\n\nCOMPLEXE SPORTIF B
+ ELLEFONTAINE\n📍 Rue de Roncevaux Champigneulles 54250\n🚗 Waze : http
+ s://waze.com/ul?ll=48.72533\,6.14893&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/idmu18/match/200000014615528
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux Champigneulles 5
+ 4250
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615528
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-14-18-00-nancy-basketball
+ -2-as-hau@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 NANCY BASKETBALL - 2 – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ NANCY BASKETBALL - 2 vs AS HAUT DU LIEVRE  NANCY - 2\n\nGYMNASE PIERRE DE 
+ COUBERTIN\n📍 Rue de Phalsbourg Nancy 54000\n🚗 Waze : https://waze.co
+ m/ul?ll=48.68294\,6.18168&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0054/competitions/idmu18/match/200000014615544
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615544
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-21-18-00-saint-max-basket
+ -club-nan@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:✈️ SAINT MAX BASKET CLUB – NANCY BASKETBALL - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ SAINT MAX BASKET CLUB vs NANCY BASKETBALL - 2\n\nGYMNASE HENRI COCHET\n
+ 📍 Rue de la Haie le Comte Saint-Max 54130\n🚗 Waze : https://waze.com
+ /ul?ll=48.70584\,6.20643&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/idmu18/match/200000014615563
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte Saint-Max 54130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615563
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-28-18-00-nancy-basketball
+ -2-sluc-n@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:🏠 NANCY BASKETBALL - 2 – SLUC NANCY BASKET ASSOCIATION - 3
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ NANCY BASKETBALL - 2 vs SLUC NANCY BASKET ASSOCIATION - 3\n\nGYMNASE PIERR
+ E DE COUBERTIN\n📍 Rue de Phalsbourg Nancy 54000\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.68294\,6.18168&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/idmu18/match/200000014615572
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615572
+END:VEVENT
+END:VCALENDAR

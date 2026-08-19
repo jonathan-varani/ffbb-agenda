@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BCV VERDUN  [IDMU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de BCV VERDUN – IDMU15 – GES – Meuse – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-09-26-15-00-asptt-nancy-tomblaine-bcv-ver
+ dun@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE – BCV VERDUN
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ ASPTT NANCY T
+ OMBLAINE vs BCV VERDUN\n\nCOSEC 1\n📍 Rue Jean Moulin Tomblaine 54510\n
+ 🚗 Waze : https://waze.com/ul?ll=48.69542\,6.21374&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/20000001461048
+ 4
+LOCATION:COSEC 1\, Rue Jean Moulin Tomblaine 54510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610484
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-10-03-15-00-bcv-verdun-us-silvange-basket
+ @ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:🏠 BCV VERDUN – US SILVANGE BASKET
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ BCV VERDUN vs
+  US SILVANGE BASKET\n\nCOSEC DES PLANCHETTES\n📍 Rue Général Séré de
+  Rivières Verdun 55100\n🚗 Waze : https://waze.com/ul?ll=49.15282\,5.40
+ 878&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/id
+ mu15/match/200000014610497
+LOCATION:COSEC DES PLANCHETTES\, Rue Général Séré de Rivières Verdun 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610497
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-10-10-15-00-basket-all-star-mussipontain-
+ bcv-verdu@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261010T150000
+DTEND;TZID=Europe/Paris:20261010T170000
+SUMMARY:✈️ BASKET ALL STAR MUSSIPONTAIN – BCV VERDUN
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ BASKET ALL ST
+ AR MUSSIPONTAIN vs BCV VERDUN\n\nCENTRE DES SPORTS BERNARD GUY 1\n📍 Ave
+ nue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : https://waze.com/u
+ l?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 055/competitions/idmu15/match/200000014610508
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610508
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-11-07-15-00-bcv-verdun-basket-club-longwy
+ -rehon-1@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:🏠 BCV VERDUN – BASKET CLUB LONGWY REHON - 1
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ BCV VERDUN vs
+  BASKET CLUB LONGWY REHON - 1\n\nCOSEC DES PLANCHETTES\n📍 Rue Général
+  Séré de Rivières Verdun 55100\n🚗 Waze : https://waze.com/ul?ll=49.1
+ 5282\,5.40878&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/idmu15/match/200000014610521
+LOCATION:COSEC DES PLANCHETTES\, Rue Général Séré de Rivières Verdun 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610521
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-11-14-15-00-nancy-basketball-bcv-verdun@f
+ fbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261114T150000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:✈️ NANCY BASKETBALL – BCV VERDUN
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ NANCY BASKETB
+ ALL vs BCV VERDUN\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue de Phalsbourg N
+ ancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.18168&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/20
+ 0000014610531
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610531
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-11-21-15-00-bcv-verdun-sluc-nancy-basket-
+ associati@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:🏠 BCV VERDUN – SLUC NANCY BASKET ASSOCIATION - 2
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ BCV VERDUN vs
+  SLUC NANCY BASKET ASSOCIATION - 2\n\nCOSEC DES PLANCHETTES\n📍 Rue Gén
+ éral Séré de Rivières Verdun 55100\n🚗 Waze : https://waze.com/ul?ll
+ =49.15282\,5.40878&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idmu15/match/200000014610545
+LOCATION:COSEC DES PLANCHETTES\, Rue Général Séré de Rivières Verdun 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610545
+END:VEVENT
+END:VCALENDAR

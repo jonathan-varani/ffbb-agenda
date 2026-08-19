@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – METZ BC - 1  [IDMU18 – GES – Poule C]
+X-WR-CALDESC:Matchs de METZ BC - 1 – IDMU18 – GES – Meurthe-et-Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-19-18-00-metz-bc-1-aurore
+ -basket-h@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:🏠 METZ BC - 1 – AURORE BASKET HUSSIGNY
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ METZ BC - 1 vs AURORE BASKET HUSSIGNY\n\nGYMNASE DE L'ARSENAL\n📍 Rue de
+ s Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.1834
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615441
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615441
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-26-18-00-joeuf-homecourt-
+ basket-me@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:✈️ JOEUF HOMECOURT BASKET – METZ BC - 1
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ JOEUF HOMECOURT BASKET vs METZ BC - 1\n\nSALLE MUNICIPALE DES SPORTS\n📍
+  Rue Eugène Bastien Joeuf 54240\n🚗 Waze : https://waze.com/ul?ll=49.22
+ 76\,6.00446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/idmu18/match/200000014615462
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615462
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-03-18-00-bc-aumetz-metz-b
+ c-1@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ BC AUMETZ – METZ BC - 1
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ BC AUMETZ vs METZ BC - 1\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger de 
+ Montbrillais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194\,5.
+ 94911&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/
+ idmu18/match/200000014615480
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615480
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-10-18-00-metz-bc-1-basket
+ -all-star@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 METZ BC - 1 – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ METZ BC - 1 vs BASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE DE L'ARSENAL\n📍 
+ Rue des Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,
+ 6.18341&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competition
+ s/idmu18/match/200000014615498
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615498
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-07-16-00-asc-charny-sur-m
+ euse-metz@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE – METZ BC - 1
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ ASC CHARNY SUR MEUSE vs METZ BC - 1\n\nSALLE DES SPORTS 1\n📍 Lotissemen
+ t Sous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?l
+ l=49.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054
+ /competitions/idmu18/match/200000014615515
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615515
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-14-18-00-metz-bc-1-basket
+ -club-lon@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 METZ BC - 1 – BASKET CLUB LONGWY REHON
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ METZ BC - 1 vs BASKET CLUB LONGWY REHON\n\nGYMNASE DE L'ARSENAL\n📍 Rue 
+ des Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18
+ 341&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/id
+ mu18/match/200000014615534
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615534
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-21-18-00-metz-bc-1-gs-arn
+ aville-no@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:🏠 METZ BC - 1 – GS ARNAVILLE NOVEANT
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ METZ BC - 1 vs GS ARNAVILLE NOVEANT\n\nGYMNASE DE L'ARSENAL\n📍 Rue des 
+ Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu18
+ /match/200000014615550
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615550
+END:VEVENT
+END:VCALENDAR

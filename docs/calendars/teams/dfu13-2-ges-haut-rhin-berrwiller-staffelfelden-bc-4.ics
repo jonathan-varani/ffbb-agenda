@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BERRWILLER/STAFFELFELDEN BC - 4  [DFU13-2 – GES]
+X-WR-CALDESC:Matchs de BERRWILLER/STAFFELFELDEN BC - 4 – DFU13-2 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-26-15-45-asca-wittelsheim-berrwiller-staf
+ felfelden@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20260926T154500
+DTEND;TZID=Europe/Paris:20260926T174500
+SUMMARY:✈️ ASCA WITTELSHEIM – BERRWILLER/STAFFELFELDEN BC - 4
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ ASCA WITTELSHEIM vs 
+ BERRWILLER/STAFFELFELDEN BC - 4\n\nSALLE AMELIE ZURCHER\n📍 Rue de la 2
+ ème D.I.M. Wittelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.80135
+ \,7.23869&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu13-2/match/200000014558446
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558446
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-03-00-00-berrwiller-staffelfelden-bc-4-fc
+ sl-eguish@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BERRWILLER/STAFFELFELDEN BC - 4 – FCSL EGUISHEIM
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFE
+ LDEN BC - 4 vs FCSL EGUISHEIM\n\nSALLE DES SPORTS\n📍 Rue de Hartmannswi
+ ller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\,7.2199
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558450
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558450
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-10-16-30-as-de-chalampe-berrwiller-staffe
+ lfelden-b@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261010T163000
+DTEND;TZID=Europe/Paris:20261010T183000
+SUMMARY:✈️ AS DE CHALAMPE – BERRWILLER/STAFFELFELDEN BC - 4
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ AS DE CHALAMPE vs BE
+ RRWILLER/STAFFELFELDEN BC - 4\n\nSALLE POLYVALENTE\n📍 Avenue de la Gare
+  Chalampé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/m
+ atch/200000014558456
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558456
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-07-00-00-berrwiller-staffelfelden-bc-4-bc
+ -st-georg@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BERRWILLER/STAFFELFELDEN BC - 4 – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFE
+ LDEN BC - 4 vs BC ST GEORGES CARSPACH\n\nSALLE DES SPORTS\n📍 Rue de Har
+ tmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229
+ \,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu13-2/match/200000014558460
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558460
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-14-00-00-berrwiller-staffelfelden-bc-4-cs
+ -saint-pp@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 BERRWILLER/STAFFELFELDEN BC - 4 – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFE
+ LDEN BC - 4 vs CS SAINT PP WALDIGHOFFEN\n\nSALLE DES SPORTS\n📍 Rue de H
+ artmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.852
+ 29\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dfu13-2/match/200000014558463
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558463
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-28-14-00-cssl-sausheim-2-berrwiller-staff
+ elfelden-@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:✈️ CSSL SAUSHEIM - 2 – BERRWILLER/STAFFELFELDEN BC - 4
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs
+  BERRWILLER/STAFFELFELDEN BC - 4\n\nCOSEC - SALLE 1\n📍 Rue des Grains S
+ ausheim 68390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/matc
+ h/200000014558469
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558469
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-12-12-00-00-berrwiller-staffelfelden-bc-4-ie
+ -ctc-de-l@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BERRWILLER/STAFFELFELDEN BC - 4 – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFE
+ LDEN BC - 4 vs IE - CTC DE L'ILL - 2\n\nSALLE DES SPORTS\n📍 Rue de Hart
+ mannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\
+ ,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dfu13-2/match/200000014558471
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558471
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GS ARNAVILLE NOVEANT  [IDMU18 – GES – Poule C]
+X-WR-CALDESC:Matchs de GS ARNAVILLE NOVEANT – IDMU18 – GES – Meurthe-et-Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-19-18-00-joeuf-homecourt-
+ basket-gs@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:✈️ JOEUF HOMECOURT BASKET – GS ARNAVILLE NOVEANT
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ JOEUF HOMECOURT BASKET vs GS ARNAVILLE NOVEANT\n\nSALLE MUNICIPALE DES SPO
+ RTS\n📍 Rue Eugène Bastien Joeuf 54240\n🚗 Waze : https://waze.com/ul
+ ?ll=49.2276\,6.00446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/idmu18/match/200000014615444
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615444
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-26-18-00-gs-arnaville-nov
+ eant-bask@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:🏠 GS ARNAVILLE NOVEANT – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ GS ARNAVILLE NOVEANT vs BASKET ALL STAR MUSSIPONTAIN\n\nSALLE POLYVALENTE\
+ n📍 Rue d'Arnaville Novéant-sur-Moselle 57680\n🚗 Waze : https://waze
+ .com/ul?ll=49.02059\,6.04819&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/idmu18/match/200000014615459
+LOCATION:SALLE POLYVALENTE\, Rue d'Arnaville Novéant-sur-Moselle 57680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615459
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-03-20-00-basket-club-long
+ wy-rehon-@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ BASKET CLUB LONGWY REHON – GS ARNAVILLE NOVEANT
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ BASKET CLUB LONGWY REHON vs GS ARNAVILLE NOVEANT\n\nGYMNASE LEON BASSOMPIE
+ RRE\n📍 Rue Albert Legendre Longwy 54400\n🚗 Waze : https://waze.com/u
+ l?ll=49.51894\,5.76872&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 054/competitions/idmu18/match/200000014615478
+LOCATION:GYMNASE LEON BASSOMPIERRE\, Rue Albert Legendre Longwy 54400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615478
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-10-18-00-gs-arnaville-nov
+ eant-auro@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 GS ARNAVILLE NOVEANT – AURORE BASKET HUSSIGNY
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ GS ARNAVILLE NOVEANT vs AURORE BASKET HUSSIGNY\n\nSALLE POLYVALENTE\n📍 
+ Rue d'Arnaville Novéant-sur-Moselle 57680\n🚗 Waze : https://waze.com/u
+ l?ll=49.02059\,6.04819&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 054/competitions/idmu18/match/200000014615496
+LOCATION:SALLE POLYVALENTE\, Rue d'Arnaville Novéant-sur-Moselle 57680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615496
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-07-18-00-bc-aumetz-gs-arn
+ aville-no@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ BC AUMETZ – GS ARNAVILLE NOVEANT
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ BC AUMETZ vs GS ARNAVILLE NOVEANT\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-L
+ éger de Montbrillais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.
+ 42194\,5.94911&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idmu18/match/200000014615516
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615516
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-14-18-00-gs-arnaville-nov
+ eant-asc-@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 GS ARNAVILLE NOVEANT – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ GS ARNAVILLE NOVEANT vs ASC CHARNY SUR MEUSE\n\nSALLE POLYVALENTE\n📍 Ru
+ e d'Arnaville Novéant-sur-Moselle 57680\n🚗 Waze : https://waze.com/ul?
+ ll=49.02059\,6.04819&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/idmu18/match/200000014615533
+LOCATION:SALLE POLYVALENTE\, Rue d'Arnaville Novéant-sur-Moselle 57680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615533
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-21-18-00-metz-bc-1-gs-arn
+ aville-no@ffbb-agenda
+DTSTAMP:20260819T081138Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:✈️ METZ BC - 1 – GS ARNAVILLE NOVEANT
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ METZ BC - 1 vs GS ARNAVILLE NOVEANT\n\nGYMNASE DE L'ARSENAL\n📍 Rue des 
+ Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu18
+ /match/200000014615550
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615550
+END:VEVENT
+END:VCALENDAR

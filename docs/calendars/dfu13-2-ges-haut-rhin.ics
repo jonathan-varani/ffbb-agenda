@@ -1,0 +1,508 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DFU13-2 – GES – Haut-Rhin
+X-WR-CALDESC:Tous les matchs DFU13-2 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-26-00-00-bc-kunheim-2-blotzheim-regio-bas
+ ket-club@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:BC KUNHEIM - 2 – BLOTZHEIM REGIO BASKET CLUB
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs BL
+ OTZHEIM REGIO BASKET CLUB\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunhei
+ m 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/20000
+ 0014558475
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558475
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-26-16-30-colmar-basket-ie-ctc-thur-doller
+ -basket-c@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20260926T163000
+DTEND;TZID=Europe/Paris:20260926T183000
+SUMMARY:COLMAR BASKET – IE - CTC THUR DOLLER BASKET CLUB - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ COLMAR BASKET vs IE 
+ - CTC THUR DOLLER BASKET CLUB - 2\n\nGYMNASE PFEFFEL\n📍 Rue de la Bagat
+ elle Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/
+ match/200000014558474
+LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558474
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-27-11-00-basket-club-3-pays-2-basket-club
+ -illzach@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20260927T110000
+DTEND;TZID=Europe/Paris:20260927T130000
+SUMMARY:BASKET-CLUB 3 PAYS - 2 – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  2 vs BASKET CLUB ILLZACH\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hég
+ enheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match
+ /200000014558476
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558476
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-27-13-30-as-horbourg-wihr-2-pantheres-mul
+ house-bas@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20260927T133000
+DTEND;TZID=Europe/Paris:20260927T153000
+SUMMARY:AS HORBOURG-WIHR - 2 – PANTHERES MULHOUSE BASKET ALSACE - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ AS HORBOURG-WIHR - 2
+  vs PANTHERES MULHOUSE BASKET ALSACE - 2\n\nSALLE POLY. ALFRED KASTLER\n
+ 📍 Rue de Lorraine Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?
+ ll=48.08437\,7.39293&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/dfu13-2/match/200000014558477
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558477
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-03-00-00-blotzheim-regio-basket-club-colm
+ ar-basket@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:BLOTZHEIM REGIO BASKET CLUB – COLMAR BASKET
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BLOTZHEIM REGIO BASK
+ ET CLUB vs COLMAR BASKET\n\nPALAIS BEAU BOURG\n📍 Avenue Nathan Katz Blo
+ tzheim 68730\n🚗 Waze : https://waze.com/ul?ll=47.5939\,7.50387&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/
+ 200000014558479
+LOCATION:PALAIS BEAU BOURG\, Avenue Nathan Katz Blotzheim 68730
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558479
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-03-00-00-ie-ctc-thur-doller-basket-club-2
+ -as-horbo@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 2 – AS HORBOURG-WIHR - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 2 vs AS HORBOURG-WIHR - 2\n\nCOMPLEXE GAUGLER (GRANDE SALLE
+ )\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : https://waz
+ e.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0068/competitions/dfu13-2/match/200000014558478
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558478
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-03-15-00-basket-club-illzach-bc-kunheim-2
+ @ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:BASKET CLUB ILLZACH – BC KUNHEIM - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ vs BC KUNHEIM - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 68110\n
+ 🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/2000000145584
+ 80
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558480
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-03-15-30-pantheres-mulhouse-basket-alsace
+ -2-basket@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:PANTHERES MULHOUSE BASKET ALSACE - 2 – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ PANTHERES MULHOUSE B
+ ASKET ALSACE - 2 vs BASKET-CLUB 3 PAYS - 2\n\nGYMNASE MAURICE SCHOENACKER\
+ n📍 Rue Jules Verne Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.73233\,7.29448&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu13-2/match/200000014558481
+LOCATION:GYMNASE MAURICE SCHOENACKER\, Rue Jules Verne Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558481
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-10-00-00-bc-kunheim-2-pantheres-mulhouse-
+ basket-al@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:BC KUNHEIM - 2 – PANTHERES MULHOUSE BASKET ALSACE - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs PA
+ NTHERES MULHOUSE BASKET ALSACE - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Ver
+ ne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/ma
+ tch/200000014558483
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558483
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-11-11-00-basket-club-3-pays-2-ie-ctc-thur
+ -doller-b@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261011T110000
+DTEND;TZID=Europe/Paris:20261011T130000
+SUMMARY:BASKET-CLUB 3 PAYS - 2 – IE - CTC THUR DOLLER BASKET CLUB - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  2 vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nCOSEC DE HEGENHEIM\n📍 Rue
+  du Collège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982
+ \,7.52639&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu13-2/match/200000014558484
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558484
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-11-14-00-colmar-basket-basket-club-illzac
+ h@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261011T140000
+DTEND;TZID=Europe/Paris:20261011T160000
+SUMMARY:COLMAR BASKET – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ COLMAR BASKET vs BAS
+ KET CLUB ILLZACH\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar 68
+ 000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/20000001
+ 4558482
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558482
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-11-14-30-as-horbourg-wihr-2-blotzheim-reg
+ io-basket@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261011T143000
+DTEND;TZID=Europe/Paris:20261011T163000
+SUMMARY:AS HORBOURG-WIHR - 2 – BLOTZHEIM REGIO BASKET CLUB
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ AS HORBOURG-WIHR - 2
+  vs BLOTZHEIM REGIO BASKET CLUB\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de
+  Lorraine Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437
+ \,7.39293&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu13-2/match/200000014558485
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558485
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-07-00-00-blotzheim-regio-basket-club-bask
+ et-club-3@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:BLOTZHEIM REGIO BASKET CLUB – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BLOTZHEIM REGIO BASK
+ ET CLUB vs BASKET-CLUB 3 PAYS - 2\n\nPALAIS BEAU BOURG\n📍 Avenue Nathan
+  Katz Blotzheim 68730\n🚗 Waze : https://waze.com/ul?ll=47.5939\,7.50387
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13
+ -2/match/200000014558489
+LOCATION:PALAIS BEAU BOURG\, Avenue Nathan Katz Blotzheim 68730
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558489
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-07-00-00-ie-ctc-thur-doller-basket-club-2
+ -bc-kunhe@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 2 – BC KUNHEIM - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 2 vs BC KUNHEIM - 2\n\nCOMPLEXE GAUGLER (GRANDE SALLE)\n
+ 📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : https://waze.c
+ om/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0068/competitions/dfu13-2/match/200000014558488
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558488
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-07-14-00-basket-club-illzach-as-horbourg-
+ wihr-2@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:BASKET CLUB ILLZACH – AS HORBOURG-WIHR - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ vs AS HORBOURG-WIHR - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 681
+ 10\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/20000001
+ 4558486
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558486
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-07-15-30-pantheres-mulhouse-basket-alsace
+ -2-colmar@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261107T153000
+DTEND;TZID=Europe/Paris:20261107T173000
+SUMMARY:PANTHERES MULHOUSE BASKET ALSACE - 2 – COLMAR BASKET
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ PANTHERES MULHOUSE B
+ ASKET ALSACE - 2 vs COLMAR BASKET\n\nGYMNASE MAURICE SCHOENACKER\n📍 Rue
+  Jules Verne Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73233\,
+ 7.29448&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dfu13-2/match/200000014558487
+LOCATION:GYMNASE MAURICE SCHOENACKER\, Rue Jules Verne Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558487
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-14-00-00-ie-ctc-thur-doller-basket-club-2
+ -blotzhei@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 2 – BLOTZHEIM REGIO BASKET CLU
+ B
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 2 vs BLOTZHEIM REGIO BASKET CLUB\n\nCOMPLEXE GAUGLER (GRAND
+ E SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : http
+ s://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0068/competitions/dfu13-2/match/200000014558491
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558491
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-14-15-00-basket-club-3-pays-2-bc-kunheim-
+ 2@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261114T150000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:BASKET-CLUB 3 PAYS - 2 – BC KUNHEIM - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  2 vs BC KUNHEIM - 2\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégenhei
+ m 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/2000
+ 00014558493
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558493
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-14-15-30-pantheres-mulhouse-basket-alsace
+ -2-basket@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:PANTHERES MULHOUSE BASKET ALSACE - 2 – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ PANTHERES MULHOUSE B
+ ASKET ALSACE - 2 vs BASKET CLUB ILLZACH\n\nGYMNASE MAURICE SCHOENACKER\n
+ 📍 Rue Jules Verne Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47
+ .73233\,7.29448&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu13-2/match/200000014558492
+LOCATION:GYMNASE MAURICE SCHOENACKER\, Rue Jules Verne Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558492
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-14-17-00-as-horbourg-wihr-2-colmar-basket
+ @ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261114T170000
+DTEND;TZID=Europe/Paris:20261114T190000
+SUMMARY:AS HORBOURG-WIHR - 2 – COLMAR BASKET
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ AS HORBOURG-WIHR - 2
+  vs COLMAR BASKET\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorraine Horb
+ ourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437\,7.39293&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/ma
+ tch/200000014558490
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558490
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-28-00-00-bc-kunheim-2-as-horbourg-wihr-2@
+ ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:BC KUNHEIM - 2 – AS HORBOURG-WIHR - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs AS
+  HORBOURG-WIHR - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320
+ \n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/200000014558
+ 494
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558494
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-28-00-00-blotzheim-regio-basket-club-pant
+ heres-mul@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:BLOTZHEIM REGIO BASKET CLUB – PANTHERES MULHOUSE BASKET ALSACE - 
+ 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BLOTZHEIM REGIO BASK
+ ET CLUB vs PANTHERES MULHOUSE BASKET ALSACE - 2\n\nPALAIS BEAU BOURG\n📍
+  Avenue Nathan Katz Blotzheim 68730\n🚗 Waze : https://waze.com/ul?ll=47
+ .5939\,7.50387&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dfu13-2/match/200000014558495
+LOCATION:PALAIS BEAU BOURG\, Avenue Nathan Katz Blotzheim 68730
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558495
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-28-14-00-colmar-basket-basket-club-3-pays
+ -2@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:COLMAR BASKET – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ COLMAR BASKET vs BAS
+ KET-CLUB 3 PAYS - 2\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar
+  68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/20000
+ 0014558496
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558496
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-28-14-00-basket-club-illzach-ie-ctc-thur-
+ doller-ba@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:BASKET CLUB ILLZACH – IE - CTC THUR DOLLER BASKET CLUB - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nGYMNASE DU CANAL\n📍 Rue du C
+ anal Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2
+ /match/200000014558497
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558497
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-12-12-00-00-blotzheim-regio-basket-club-bask
+ et-club-i@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:BLOTZHEIM REGIO BASKET CLUB – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BLOTZHEIM REGIO BASK
+ ET CLUB vs BASKET CLUB ILLZACH\n\nPALAIS BEAU BOURG\n📍 Avenue Nathan Ka
+ tz Blotzheim 68730\n🚗 Waze : https://waze.com/ul?ll=47.5939\,7.50387&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/
+ match/200000014558501
+LOCATION:PALAIS BEAU BOURG\, Avenue Nathan Katz Blotzheim 68730
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558501
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-12-12-00-00-bc-kunheim-2-colmar-basket@ffbb-
+ agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:BC KUNHEIM - 2 – COLMAR BASKET
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs CO
+ LMAR BASKET\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\n🚗 
+ Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0068/competitions/dfu13-2/match/200000014558500
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558500
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-12-12-00-00-ie-ctc-thur-doller-basket-club-2
+ -panthere@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:IE - CTC THUR DOLLER BASKET CLUB - 2 – PANTHERES MULHOUSE BASKET 
+ ALSACE - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 2 vs PANTHERES MULHOUSE BASKET ALSACE - 2\n\nCOMPLEXE GAUGL
+ ER (GRANDE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Wa
+ ze : https://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0068/competitions/dfu13-2/match/200000014558499
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558499
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-12-12-16-00-as-horbourg-wihr-2-basket-club-3
+ -pays-2@ffbb-agenda
+DTSTAMP:20260819T080801Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:AS HORBOURG-WIHR - 2 – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ AS HORBOURG-WIHR - 2
+  vs BASKET-CLUB 3 PAYS - 2\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorr
+ aine Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437\,7.3
+ 9293&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ fu13-2/match/200000014558498
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558498
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASC STE AFRE RIEDISHEIM  [DFU11 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASC STE AFRE RIEDISHEIM – DFU11 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-09-26-00-00-asc-ste-afre-riedisheim-cb
+ -kientzhe@ffbb-agenda
+DTSTAMP:20260819T080809Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM – CB KIENTZHEIM - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ ASC STE AF
+ RE RIEDISHEIM vs CB KIENTZHEIM - 2\n\nGYMNASE BARTHOLDI\n📍 Rue du Rév
+ érend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=
+ 47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu11/match/200000014558287
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558287
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-10-03-00-00-bc-kunheim-asc-ste-afre-ri
+ edisheim@ffbb-agenda
+DTSTAMP:20260819T080809Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BC KUNHEIM – ASC STE AFRE RIEDISHEIM
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ BC KUNHEIM
+  vs ASC STE AFRE RIEDISHEIM\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunh
+ eim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/20000
+ 0014558292
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558292
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-10-10-14-15-cssl-sausheim-asc-ste-afre
+ -riedishe@ffbb-agenda
+DTSTAMP:20260819T080809Z
+DTSTART;TZID=Europe/Paris:20261010T141500
+DTEND;TZID=Europe/Paris:20261010T161500
+SUMMARY:✈️ CSSL SAUSHEIM – ASC STE AFRE RIEDISHEIM
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ CSSL SAUSH
+ EIM vs ASC STE AFRE RIEDISHEIM\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sau
+ sheim 68390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/20
+ 0000014558296
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558296
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-10-17-00-00-asc-ste-afre-riedisheim-ba
+ sket-nord@ffbb-agenda
+DTSTAMP:20260819T080809Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ ASC STE AF
+ RE RIEDISHEIM vs BASKET NORD SUNDGAU - 2\n\nGYMNASE BARTHOLDI\n📍 Rue du
+  Révérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/u
+ l?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 068/competitions/dfu11/match/200000014558300
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558300
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-11-07-00-00-berrwiller-staffelfelden-b
+ c-2-asc-s@ffbb-agenda
+DTSTAMP:20260819T080809Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 2 – ASC STE AFRE RIEDISHEIM
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ BERRWILLER
+ /STAFFELFELDEN BC - 2 vs ASC STE AFRE RIEDISHEIM\n\nSALLE DES SPORTS\n📍
+  Rue de Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?
+ ll=47.85229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/dfu11/match/200000014558304
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558304
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-11-14-00-00-asc-ste-afre-riedisheim-bc
+ -st-georg@ffbb-agenda
+DTSTAMP:20260819T080809Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ ASC STE AF
+ RE RIEDISHEIM vs BC ST GEORGES CARSPACH\n\nGYMNASE BARTHOLDI\n📍 Rue du 
+ Révérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul
+ ?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/dfu11/match/200000014558308
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558308
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-11-21-17-00-colmar-basket-asc-ste-afre
+ -riedishe@ffbb-agenda
+DTSTAMP:20260819T080809Z
+DTSTART;TZID=Europe/Paris:20261121T170000
+DTEND;TZID=Europe/Paris:20261121T190000
+SUMMARY:✈️ COLMAR BASKET – ASC STE AFRE RIEDISHEIM
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ COLMAR BAS
+ KET vs ASC STE AFRE RIEDISHEIM\n\nGYMNASE PFEFFEL\n📍 Rue de la Bagatell
+ e Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match
+ /200000014558315
+LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558315
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-12-05-00-00-ie-ctc-thur-doller-basket-
+ club-asc-@ffbb-agenda
+DTSTAMP:20260819T080809Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB – ASC STE AFRE RIEDISHEIM
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC T
+ HUR DOLLER BASKET CLUB vs ASC STE AFRE RIEDISHEIM\n\nCOMPLEXE GAUGLER (GRA
+ NDE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : ht
+ tps://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0068/competitions/dfu11/match/200000014558320
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558320
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-12-12-00-00-asc-ste-afre-riedisheim-as
+ -horbourg@ffbb-agenda
+DTSTAMP:20260819T080809Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM – AS HORBOURG-WIHR
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ ASC STE AF
+ RE RIEDISHEIM vs AS HORBOURG-WIHR\n\nGYMNASE BARTHOLDI\n📍 Rue du Révé
+ rend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47
+ .74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu11/match/200000014558326
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558326
+END:VEVENT
+END:VCALENDAR

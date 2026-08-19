@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – METZ BC  [IDFU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de METZ BC – IDFU18 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-19-18-00-metz-bc-us-silvange-basket@
+ ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:🏠 METZ BC – US SILVANGE BASKET
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ METZ BC vs 
+ US SILVANGE BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 570
+ 00\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/200000014
+ 651771
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651771
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-26-15-00-asp-ste-marie-aux-chenes-me
+ tz-bc@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:✈️ ASP STE MARIE AUX CHENES – METZ BC
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ ASP STE MAR
+ IE AUX CHENES vs METZ BC\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot Sainte-M
+ arie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.19465\,5.997
+ 04&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idf
+ u18/match/200000014651777
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651777
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-03-18-00-metz-bc-rombas-oc@ffbb-agen
+ da
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 METZ BC – ROMBAS OC
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ METZ BC vs 
+ ROMBAS OC\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n🚗 
+ Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0057/competitions/idfu18/match/200000014651787
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651787
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-10-16-00-us-boulange-fontoy-bb-metz-
+ bc@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:✈️ US BOULANGE FONTOY BB – METZ BC
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US BOULANGE
+  FONTOY BB vs METZ BC\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 5765
+ 5\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/200000014
+ 651796
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651796
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-07-16-00-cse-folkling-metz-bc@ffbb-a
+ genda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:✈️ CSE FOLKLING – METZ BC
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ CSE FOLKLIN
+ G vs METZ BC\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Folkling 5
+ 7600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/20000001
+ 4651802
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651802
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-15-18-00-metz-bc-fensch-basket-aveni
+ r-fba@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261115T180000
+DTEND;TZID=Europe/Paris:20261115T200000
+SUMMARY:🏠 METZ BC – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ METZ BC vs 
+ FENSCH BASKET AVENIR FBA\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Me
+ tz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/2000
+ 00014651809
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651809
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-29-18-00-longeville-et-st-avold-bask
+ et-metz-b@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261129T180000
+DTEND;TZID=Europe/Paris:20261129T200000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – METZ BC
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ LONGEVILLE 
+ ET ST AVOLD BASKET vs METZ BC\n\nGYMNASE DU CASTEL\n📍 Rue des Myrtilles
+  Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com/ul?ll=49.
+ 11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/idfu18/match/200000014651820
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651820
+END:VEVENT
+END:VCALENDAR

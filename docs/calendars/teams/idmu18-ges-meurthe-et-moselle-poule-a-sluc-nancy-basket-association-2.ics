@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SLUC NANCY BASKET ASSOCIATION - 2  [IDMU18 – GES – Poule A]
+X-WR-CALDESC:Matchs de SLUC NANCY BASKET ASSOCIATION - 2 – IDMU18 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-09-26-18-00-saint-die-vosges
+ -basket-s@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:✈️ SAINT DIE VOSGES BASKET – SLUC NANCY BASKET ASSOCIATION - 
+ 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ SAINT DIE VOSGES BASKET vs SLUC NANCY BASKET ASSOCIATION - 2\n\nPALAIS OMN
+ ISP. J. CLAUDEL S. 1\n📍 Rue du 12ème R.A. Prolongée Saint-Dié-des-Vo
+ sges 88100\n🚗 Waze : https://waze.com/ul?ll=48.28424\,6.96799&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu18/match/20
+ 0000014615452
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615452
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-10-03-18-00-sluc-nancy-baske
+ t-associa@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION - 2 – BASKET CLUB THERMAL
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ SLUC NANCY BASKET ASSOCIATION - 2 vs BASKET CLUB THERMAL\n\nGYMNASE LOUIS 
+ ARMAND\n📍 Rue des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/
+ ul?ll=48.67025\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0054/competitions/idmu18/match/200000014615467
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615467
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-10-10-18-00-basket-club-golb
+ ey-epinal@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:✈️ BASKET CLUB GOLBEY EPINAL - 2 – SLUC NANCY BASKET ASSOCIAT
+ ION - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ BASKET CLUB GOLBEY EPINAL - 2 vs SLUC NANCY BASKET ASSOCIATION - 2\n\nSALL
+ E FERNAND DAVID\n📍 Avenue de la Fontenelle Golbey 88190\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.19073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0054/competitions/idmu18/match/200000014615488
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615488
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-10-17-16-00-sluc-nancy-baske
+ t-associa@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261017T160000
+DTEND;TZID=Europe/Paris:20261017T180000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION - 2 – FLEVILLE LOISIRS
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ SLUC NANCY BASKET ASSOCIATION - 2 vs FLEVILLE LOISIRS\n\nGYMNASE DU PLACIE
+ UX\n📍 Rue John Fitzgerald Kennedy Villers-lès-Nancy 54600\n🚗 Waze :
+  https://waze.com/ul?ll=48.67325\,6.16224&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0054/competitions/idmu18/match/200000014615503
+LOCATION:GYMNASE DU PLACIEUX\, Rue John Fitzgerald Kennedy Villers-lès-Nan
+ cy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615503
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-11-07-18-00-as-haut-du-lievr
+ e-nancy-1@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 1 – SLUC NANCY BASKET ASSOCIATI
+ ON - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ AS HAUT DU LIEVRE  NANCY - 1 vs SLUC NANCY BASKET ASSOCIATION - 2\n\nGYMNA
+ SE BUFFON\n📍 Rue Dominique Louis Nancy 54100\n🚗 Waze : https://waze.
+ com/ul?ll=48.70167\,6.15411&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/idmu18/match/200000014615523
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615523
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-11-14-16-00-sluc-nancy-baske
+ t-associa@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION - 2 – LUDRES PONT ST VINCENT B
+ ASKET CL
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ SLUC NANCY BASKET ASSOCIATION - 2 vs LUDRES PONT ST VINCENT BASKET CL\n\nP
+ ALAIS DES SPORTS ANNEXE\n📍 Rue du Capitaine Guynemer Nancy 54100\n🚗 
+ Waze : https://waze.com/ul?ll=48.69975\,6.13996&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0054/competitions/idmu18/match/200000014615539
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615539
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-11-21-18-00-nancy-basketball
+ -3-sluc-n@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:✈️ NANCY BASKETBALL - 3 – SLUC NANCY BASKET ASSOCIATION - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ NANCY BASKETBALL - 3 vs SLUC NANCY BASKET ASSOCIATION - 2\n\nGYMNASE PIERR
+ E DE COUBERTIN\n📍 Rue de Phalsbourg Nancy 54000\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.68294\,6.18168&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/idmu18/match/200000014615558
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615558
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-a-2026-11-28-16-00-sluc-nancy-baske
+ t-associa@ffbb-agenda
+DTSTAMP:20260819T081130Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:🏠 SLUC NANCY BASKET ASSOCIATION - 2 – COS VILLERS LES NANCY
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ 
+ SLUC NANCY BASKET ASSOCIATION - 2 vs COS VILLERS LES NANCY\n\nPALAIS DES S
+ PORTS JEAN WEILLE\n📍 Rue du Capitaine Guynemer Nancy 54100\n🚗 Waze :
+  https://waze.com/ul?ll=48.69975\,6.13996&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0054/competitions/idmu18/match/200000014615567
+LOCATION:PALAIS DES SPORTS JEAN WEILLE\, Rue du Capitaine Guynemer Nancy 54
+ 100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615567
+END:VEVENT
+END:VCALENDAR

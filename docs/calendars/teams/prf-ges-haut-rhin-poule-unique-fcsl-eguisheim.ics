@@ -1,0 +1,401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – FCSL EGUISHEIM  [PRF – GES – Poule Unique]
+X-WR-CALDESC:Matchs de FCSL EGUISHEIM – PRF – GES – Haut-Rhin – Poule Unique
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-09-20-09-00-basket-club-3-pays-2-fc
+ sl-eguish@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20260920T090000
+DTEND;TZID=Europe/Paris:20260920T110000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 2 – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET-
+ CLUB 3 PAYS - 2 vs FCSL EGUISHEIM\n\nCOSEC DE HEGENHEIM\n📍 Rue du Coll
+ ège Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.5263
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561218
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561218
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-09-26-18-30-fcsl-eguisheim-basket-n
+ ord-sundg@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20260926T183000
+DTEND;TZID=Europe/Paris:20260926T203000
+SUMMARY:🏠 FCSL EGUISHEIM – BASKET NORD SUNDGAU - 3
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs BASKET NORD SUNDGAU - 3\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue
+  de Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04
+ 439\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/prf/match/200000014561223
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561223
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-10-03-18-00-cs-saint-pp-waldighoffe
+ n-fcsl-eg@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ CS SAINT PP WALDIGHOFFEN – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ CS SAIN
+ T PP WALDIGHOFFEN vs FCSL EGUISHEIM\n\nSALLE NATHAN KATZ\n📍 Rue des Éc
+ oles Waldighofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.314
+ 29&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf
+ /match/200000014561228
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561228
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-10-17-18-30-fcsl-eguisheim-berrwill
+ er-staffe@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20261017T183000
+DTEND;TZID=Europe/Paris:20261017T203000
+SUMMARY:🏠 FCSL EGUISHEIM – BERRWILLER/STAFFELFELDEN BC - 4
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs BERRWILLER/STAFFELFELDEN BC - 4\n\nCENTRE SPORTIF LA TUILERIE\n
+ 📍 Rue de Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?
+ ll=48.04439\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/prf/match/200000014561233
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561233
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-11-08-10-00-basket-club-sierentz-fc
+ sl-eguish@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20261108T100000
+DTEND;TZID=Europe/Paris:20261108T120000
+SUMMARY:✈️ BASKET CLUB SIERENTZ – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ CLUB SIERENTZ vs FCSL EGUISHEIM\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Ha
+ as Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/matc
+ h/200000014561244
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561244
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-11-14-18-30-fcsl-eguisheim-colmar-b
+ asket-2@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20261114T183000
+DTEND;TZID=Europe/Paris:20261114T203000
+SUMMARY:🏠 FCSL EGUISHEIM – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs COLMAR BASKET - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hi
+ nterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7
+ .31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /prf/match/200000014561249
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561249
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-11-21-20-30-fcsl-eguisheim-ie-ctc-d
+ e-la-hard@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 FCSL EGUISHEIM – IE - CTC DE LA HARDT - 2
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs IE - CTC DE LA HARDT - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Ru
+ e de Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.0
+ 4439\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/prf/match/200000014561256
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561256
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-12-05-00-00-cb-kientzheim-fcsl-egui
+ sheim@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ CB KIENTZHEIM – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ CB KIEN
+ TZHEIM vs FCSL EGUISHEIM\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kayser
+ sberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/ma
+ tch/200000014561261
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561261
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-12-12-18-30-fcsl-eguisheim-ie-ctc-d
+ e-l-ill-2@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20261212T183000
+DTEND;TZID=Europe/Paris:20261212T203000
+SUMMARY:🏠 FCSL EGUISHEIM – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs IE - CTC DE L'ILL - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue d
+ e Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.0443
+ 9\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/prf/match/200000014561266
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561266
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2026-12-19-00-00-ie-ctc-jura-alsacien-ba
+ sket-1-fc@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 1 – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ IE - CT
+ C JURA ALSACIEN BASKET - 1 vs FCSL EGUISHEIM\n\nGYMNASE DU COLLEGE\n📍 R
+ ue Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.501
+ 44\,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/prf/match/200000014561274
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561274
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-01-16-18-30-fcsl-eguisheim-ie-ctc-t
+ hur-dolle@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270116T183000
+DTEND;TZID=Europe/Paris:20270116T203000
+SUMMARY:🏠 FCSL EGUISHEIM – IE - CTC THUR DOLLER BASKET CLUB - 1
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nCENTRE SPORTIF LA TUILE
+ RIE\n📍 Rue de Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.co
+ m/ul?ll=48.04439\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0068/competitions/prf/match/200000014561280
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561280
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-01-23-18-30-fcsl-eguisheim-basket-c
+ lub-3-pay@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270123T183000
+DTEND;TZID=Europe/Paris:20270123T203000
+SUMMARY:🏠 FCSL EGUISHEIM – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs BASKET-CLUB 3 PAYS - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue 
+ de Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.044
+ 39\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/prf/match/200000014561284
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561284
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-02-06-00-00-basket-nord-sundgau-3-f
+ csl-eguis@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 3 – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 3 vs FCSL EGUISHEIM\n\nPOLY ILLFURTH\n📍 Route de Spechba
+ ch Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/matc
+ h/200000014561289
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561289
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-02-13-18-30-fcsl-eguisheim-cs-saint
+ -pp-waldi@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270213T183000
+DTEND;TZID=Europe/Paris:20270213T203000
+SUMMARY:🏠 FCSL EGUISHEIM – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs CS SAINT PP WALDIGHOFFEN\n\nCENTRE SPORTIF LA TUILERIE\n📍 Ru
+ e de Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.0
+ 4439\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/prf/match/200000014561294
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561294
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-03-14-09-00-berrwiller-staffelfelde
+ n-bc-4-fc@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270314T090000
+DTEND;TZID=Europe/Paris:20270314T110000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 4 – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ BERRWIL
+ LER/STAFFELFELDEN BC - 4 vs FCSL EGUISHEIM\n\nSALLE DES SPORTS\n📍 Rue d
+ e Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.
+ 85229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/prf/match/200000014561299
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561299
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-03-20-18-30-fcsl-eguisheim-basket-c
+ lub-siere@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270320T183000
+DTEND;TZID=Europe/Paris:20270320T203000
+SUMMARY:🏠 FCSL EGUISHEIM – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs BASKET CLUB SIERENTZ\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de
+  Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439
+ \,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/prf/match/200000014561310
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561310
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-04-03-00-00-colmar-basket-2-fcsl-eg
+ uisheim@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:✈️ COLMAR BASKET - 2 – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs FCSL EGUISHEIM\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Euro
+ pe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/match/
+ 200000014561315
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561315
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-04-10-20-00-ie-ctc-de-la-hardt-2-fc
+ sl-eguish@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:✈️ IE - CTC DE LA HARDT - 2 – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ IE - CT
+ C DE LA HARDT - 2 vs FCSL EGUISHEIM\n\nSALLE DES SPORTS\n📍 Route Nation
+ ale Rumersheim-le-Haut 68740\n🚗 Waze : https://waze.com/ul?ll=47.85101\
+ ,7.51746&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/prf/match/200000014561322
+LOCATION:SALLE DES SPORTS\, Route Nationale Rumersheim-le-Haut 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561322
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-04-17-20-30-fcsl-eguisheim-cb-kient
+ zheim@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:🏠 FCSL EGUISHEIM – CB KIENTZHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs CB KIENTZHEIM\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinter
+ zarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.314
+ 28&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf
+ /match/200000014561327
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561327
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-05-15-00-00-ie-ctc-de-l-ill-2-fcsl-
+ eguisheim@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 2 – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ IE - CT
+ C DE L'ILL - 2 vs FCSL EGUISHEIM\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue 
+ du Vercors Wittenheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.81142\,
+ 7.32895&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/prf/match/200000014561332
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors Wittenheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561332
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-05-22-18-30-fcsl-eguisheim-ie-ctc-j
+ ura-alsac@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270522T183000
+DTEND;TZID=Europe/Paris:20270522T203000
+SUMMARY:🏠 FCSL EGUISHEIM – IE - CTC JURA ALSACIEN BASKET - 1
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM vs IE - CTC JURA ALSACIEN BASKET - 1\n\nCENTRE SPORTIF LA TUILERIE
+ \n📍 Rue de Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/u
+ l?ll=48.04439\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 068/competitions/prf/match/200000014561340
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561340
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-haut-rhin-poule-unique-2027-05-29-00-00-ie-ctc-thur-doller-bask
+ et-club-1@ffbb-agenda
+DTSTAMP:20260819T080658Z
+DTSTART;TZID=Europe/Paris:20270529T000000
+DTEND;TZID=Europe/Paris:20270529T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 1 – FCSL EGUISHEIM
+DESCRIPTION:🏀 PRF – GES – Haut-Rhin – Poule Unique\n⚔️ IE - CT
+ C THUR DOLLER BASKET CLUB - 1 vs FCSL EGUISHEIM\n\nCOMPLEXE GAUGLER (GRAND
+ E SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : http
+ s://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0068/competitions/prf/match/200000014561346
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prf/
+ match/200000014561346
+END:VEVENT
+END:VCALENDAR

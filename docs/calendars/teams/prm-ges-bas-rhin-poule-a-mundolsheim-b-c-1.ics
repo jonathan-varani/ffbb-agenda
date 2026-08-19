@@ -1,0 +1,401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MUNDOLSHEIM B.C. - 1  [PRM – GES – Poule A]
+X-WR-CALDESC:Matchs de MUNDOLSHEIM B.C. - 1 – PRM – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-09-26-00-00-schirrhein-c-s-c-sn-2-mundols
+ heim-b-c-@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN - 2 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEIN C.
+ S.C.SN - 2 vs MUNDOLSHEIM B.C. - 1\n\nSALLE POLYVALENTE (ANNEXE)\n📍 Rue
+  du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.80224\,7
+ .9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ prm/match/200000014642450
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642450
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-10-03-00-00-mundolsheim-b-c-1-eckbolsheim
+ -bb-1@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – ECKBOLSHEIM BB - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs ECKBOLSHEIM BB - 1\n\nGYMNASE DU COLLEGE - COSEC\n📍 Rue du C
+ ollège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll=48.64379\,7.
+ 70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ prm/match/200000014642461
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642461
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-10-10-00-00-vendenheim-bc-1-mundolsheim-b
+ -c-1@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ VENDENHEIM BC - 1 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ VENDENHEIM BC
+  - 1 vs MUNDOLSHEIM B.C. - 1\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles 
+ Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.71
+ 054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/pr
+ m/match/200000014642466
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642466
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-10-17-00-00-mundolsheim-b-c-1-schweighous
+ e-ohlunge@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – SCHWEIGHOUSE/OHLUNGEN B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs SCHWEIGHOUSE/OHLUNGEN B.C. - 1\n\nGYMNASE DU COLLEGE - COSEC\n
+ 📍 Rue du Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll
+ =48.64379\,7.70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/prm/match/200000014642471
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642471
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-11-14-00-00-w-o-s-b-mundolsheim-b-c-1@ffb
+ b-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ W.O.S.B. – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. vs M
+ UNDOLSHEIM B.C. - 1\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Otter
+ swiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/match/20
+ 0000014642476
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642476
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-11-21-00-00-mundolsheim-b-c-1-wantzenau-l
+ a-a-s-c-s@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – WANTZENAU (LA) A.S.C.SP - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs WANTZENAU (LA) A.S.C.SP - 1\n\nGYMNASE DU COLLEGE - COSEC\n📍
+  Rue du Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll=48.
+ 64379\,7.70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/prm/match/200000014642481
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642481
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-11-28-00-00-walbourg-eschbach-basket-1-mu
+ ndolsheim@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 1 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 1 vs MUNDOLSHEIM B.C. - 1\n\nESPACE SPORTIF\n📍 Rue de la 
+ Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.7365
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642489
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642489
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-12-05-00-00-mundolsheim-b-c-1-schiltighei
+ m-au-1@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – SCHILTIGHEIM AU - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs SCHILTIGHEIM AU - 1\n\nGYMNASE DU COLLEGE - COSEC\n📍 Rue du 
+ Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll=48.64379\,7
+ .70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /prm/match/200000014642495
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642495
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-12-12-00-00-bask-furdenheim-3-mundolsheim
+ -b-c-1@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ BASK FURDENHEIM - 3 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDENHE
+ IM - 3 vs MUNDOLSHEIM B.C. - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du S
+ tade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.5633
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642501
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642501
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2026-12-19-00-00-mundolsheim-b-c-1-ie-ctc-alli
+ ance-spor@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – IE - CTC ALLIANCE SPORT ALSACE - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs IE - CTC ALLIANCE SPORT ALSACE - 2\n\nGYMNASE DU COLLEGE - COSE
+ C\n📍 Rue du Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul
+ ?ll=48.64379\,7.70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 67/competitions/prm/match/200000014642507
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642507
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-01-16-00-00-weitbruch-a-s-c-g-3-mundolshe
+ im-b-c-1@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ WEITBRUCH A.S.C.G - 3 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ WEITBRUCH A.S
+ .C.G - 3 vs MUNDOLSHEIM B.C. - 1\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de 
+ l'Église Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.
+ 77719&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ prm/match/200000014642513
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642513
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-01-23-00-00-mundolsheim-b-c-1-schirrhein-
+ c-s-c-sn-@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – SCHIRRHEIN C.S.C.SN - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs SCHIRRHEIN C.S.C.SN - 2\n\nGYMNASE DU COLLEGE - COSEC\n📍 Rue
+  du Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll=48.6437
+ 9\,7.70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/prm/match/200000014642516
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642516
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-01-30-00-00-eckbolsheim-bb-1-mundolsheim-
+ b-c-1@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ ECKBOLSHEIM BB - 1 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM B
+ B - 1 vs MUNDOLSHEIM B.C. - 1\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbols
+ heim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/match/200000
+ 014642527
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642527
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-02-06-00-00-mundolsheim-b-c-1-vendenheim-
+ bc-1@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs VENDENHEIM BC - 1\n\nGYMNASE DU COLLEGE - COSEC\n📍 Rue du Co
+ llège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll=48.64379\,7.7
+ 0957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/p
+ rm/match/200000014642532
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642532
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-02-13-00-00-schweighouse-ohlungen-b-c-1-m
+ undolshei@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ SCHWEIGHOUSE/OHLUNGEN B.C. - 1 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ SCHWEIGHOUSE/
+ OHLUNGEN B.C. - 1 vs MUNDOLSHEIM B.C. - 1\n\nCENTRE ROBERT KAEUFLING\n📍
+  Rue des Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https://waze.com
+ /ul?ll=48.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0067/competitions/prm/match/200000014642537
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642537
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-03-13-00-00-mundolsheim-b-c-1-w-o-s-b@ffb
+ b-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – W.O.S.B.
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs W.O.S.B.\n\nGYMNASE DU COLLEGE - COSEC\n📍 Rue du Collège Mu
+ ndolsheim 67450\n🚗 Waze : https://waze.com/ul?ll=48.64379\,7.70957&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/match/
+ 200000014642542
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642542
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-03-20-00-00-wantzenau-la-a-s-c-sp-1-mundo
+ lsheim-b-@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ WANTZENAU (LA) A.S.C.SP - 1 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ WANTZENAU (LA
+ ) A.S.C.SP - 1 vs MUNDOLSHEIM B.C. - 1\n\nESPACE JC KLEIN\n📍 Rue des Ve
+ rgers La Wantzenau 67610\n🚗 Waze : https://waze.com/ul?ll=48.66013\,7.8
+ 3203&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/p
+ rm/match/200000014642547
+LOCATION:ESPACE JC KLEIN\, Rue des Vergers La Wantzenau 67610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642547
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-03-27-00-00-mundolsheim-b-c-1-walbourg-es
+ chbach-ba@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – WALBOURG ESCHBACH BASKET - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs WALBOURG ESCHBACH BASKET - 1\n\nGYMNASE DU COLLEGE - COSEC\n
+ 📍 Rue du Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll
+ =48.64379\,7.70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/prm/match/200000014642555
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642555
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-04-10-00-00-schiltigheim-au-1-mundolsheim
+ -b-c-1@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ SCHILTIGHEIM AU - 1 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ SCHILTIGHEIM 
+ AU - 1 vs MUNDOLSHEIM B.C. - 1\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Ma
+ lteries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7
+ .74374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /prm/match/200000014642561
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642561
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-05-01-00-00-mundolsheim-b-c-1-bask-furden
+ heim-3@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270501T000000
+DTEND;TZID=Europe/Paris:20270501T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – BASK FURDENHEIM - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs BASK FURDENHEIM - 3\n\nGYMNASE DU COLLEGE - COSEC\n📍 Rue du 
+ Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll=48.64379\,7
+ .70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /prm/match/200000014642567
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642567
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-05-15-00-00-ie-ctc-alliance-sport-alsace-
+ 2-mundols@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ IE - CTC ALLIANCE SPORT ALSACE - 2 – MUNDOLSHEIM B.C. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ IE - CTC ALLI
+ ANCE SPORT ALSACE - 2 vs MUNDOLSHEIM B.C. - 1\n\nESPACE W - Salle JUPITER\
+ n📍 Rue des Prés Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.71464\,7.80788&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/prm/match/200000014642573
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642573
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-a-2027-05-22-00-00-mundolsheim-b-c-1-weitbruch-a
+ -s-c-g-3@ffbb-agenda
+DTSTAMP:20260819T080638Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:🏠 MUNDOLSHEIM B.C. - 1 – WEITBRUCH A.S.C.G - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHEIM B
+ .C. - 1 vs WEITBRUCH A.S.C.G - 3\n\nGYMNASE DU COLLEGE - COSEC\n📍 Rue d
+ u Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll=48.64379\
+ ,7.70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/prm/match/200000014642579
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642579
+END:VEVENT
+END:VCALENDAR

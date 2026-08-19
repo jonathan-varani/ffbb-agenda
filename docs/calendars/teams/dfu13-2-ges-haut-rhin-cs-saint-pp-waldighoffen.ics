@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CS SAINT PP WALDIGHOFFEN  [DFU13-2 – GES]
+X-WR-CALDESC:Matchs de CS SAINT PP WALDIGHOFFEN – DFU13-2 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-20-15-30-fcsl-eguisheim-cs-saint-pp-waldi
+ ghoffen@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ FCSL EGUISHEIM – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM vs CS
+  SAINT PP WALDIGHOFFEN\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinterza
+ rten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31428
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13
+ -2/match/200000014558457
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558457
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-26-00-00-bc-st-georges-carspach-cs-saint-
+ pp-waldig@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BC ST GEORGES CARSPACH – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPA
+ CH vs CS SAINT PP WALDIGHOFFEN\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème R
+ égiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47
+ .62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu13-2/match/200000014558447
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558447
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-03-15-30-cs-saint-pp-waldighoffen-asca-wi
+ ttelsheim@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:🏠 CS SAINT PP WALDIGHOFFEN – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHO
+ FFEN vs ASCA WITTELSHEIM\n\nSALLE NATHAN KATZ\n📍 Rue des Écoles Waldig
+ hofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31429&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/
+ 200000014558451
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558451
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-14-00-00-berrwiller-staffelfelden-bc-4-cs
+ -saint-pp@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 4 – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFE
+ LDEN BC - 4 vs CS SAINT PP WALDIGHOFFEN\n\nSALLE DES SPORTS\n📍 Rue de H
+ artmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.852
+ 29\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dfu13-2/match/200000014558463
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558463
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-21-15-30-cs-saint-pp-waldighoffen-as-de-c
+ halampe@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261121T153000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:🏠 CS SAINT PP WALDIGHOFFEN – AS DE CHALAMPE
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHO
+ FFEN vs AS DE CHALAMPE\n\nSALLE NATHAN KATZ\n📍 Rue des Écoles Waldigho
+ fen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31429&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/20
+ 0000014558461
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558461
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-28-00-00-cs-saint-pp-waldighoffen-ie-ctc-
+ de-l-ill-@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 CS SAINT PP WALDIGHOFFEN – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHO
+ FFEN vs IE - CTC DE L'ILL - 2\n\nSALLE NATHAN KATZ\n📍 Rue des Écoles W
+ aldighofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31429&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/m
+ atch/200000014558467
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558467
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-12-12-00-00-cs-saint-pp-waldighoffen-cssl-sa
+ usheim-2@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 CS SAINT PP WALDIGHOFFEN – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHO
+ FFEN vs CSSL SAUSHEIM - 2\n\nSALLE NATHAN KATZ\n📍 Rue des Écoles Waldi
+ ghofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31429&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match
+ /200000014558473
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558473
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS DE CHALAMPE  [DFU11 – GES – Poule C]
+X-WR-CALDESC:Matchs de AS DE CHALAMPE – DFU11 – GES – Haut-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-09-26-13-30-as-de-chalampe-ie-ctc-jura
+ -alsacien@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:🏠 AS DE CHALAMPE – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ AS DE CHAL
+ AMPE vs IE - CTC JURA ALSACIEN BASKET - 2\n\nSALLE POLYVALENTE\n📍 Avenu
+ e de la Gare Chalampé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\
+ ,7.53992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dfu11/match/200000014558328
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558328
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-10-03-14-00-pantheres-mulhouse-basket-
+ alsace-2-@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ PANTHERES MULHOUSE BASKET ALSACE - 2 – AS DE CHALAMPE
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ PANTHERES 
+ MULHOUSE BASKET ALSACE - 2 vs AS DE CHALAMPE\n\nGYMNASE MAURICE SCHOENACKE
+ R\n📍 Rue Jules Verne Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll
+ =47.73233\,7.29448&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu11/match/200000014558333
+LOCATION:GYMNASE MAURICE SCHOENACKER\, Rue Jules Verne Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558333
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-10-10-13-30-as-de-chalampe-cs-saint-pp
+ -waldigho@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:🏠 AS DE CHALAMPE – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ AS DE CHAL
+ AMPE vs CS SAINT PP WALDIGHOFFEN\n\nSALLE POLYVALENTE\n📍 Avenue de la G
+ are Chalampé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/
+ match/200000014558336
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558336
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-11-07-00-00-ie-ctc-de-l-ill-2-as-de-ch
+ alampe@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 2 – AS DE CHALAMPE
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ IE - CTC D
+ E L'ILL - 2 vs AS DE CHALAMPE\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'I
+ ll Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/
+ match/200000014558341
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558341
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-11-14-14-45-asca-wittelsheim-as-de-cha
+ lampe@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261114T144500
+DTEND;TZID=Europe/Paris:20261114T164500
+SUMMARY:✈️ ASCA WITTELSHEIM – AS DE CHALAMPE
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ ASCA WITTE
+ LSHEIM vs AS DE CHALAMPE\n\nSALLE AMELIE ZURCHER\n📍 Rue de la 2ème D.I
+ .M. Wittelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.80135\,7.2386
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558344
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558344
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-11-28-13-30-as-de-chalampe-fcsl-eguish
+ eim@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261128T133000
+DTEND;TZID=Europe/Paris:20261128T153000
+SUMMARY:🏠 AS DE CHALAMPE – FCSL EGUISHEIM
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ AS DE CHAL
+ AMPE vs FCSL EGUISHEIM\n\nSALLE POLYVALENTE\n📍 Avenue de la Gare Chalam
+ pé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/2000
+ 00014558350
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558350
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-12-12-00-00-berrwiller-staffelfelden-b
+ c-3-as-de@ffbb-agenda
+DTSTAMP:20260819T080812Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 3 – AS DE CHALAMPE
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ BERRWILLER
+ /STAFFELFELDEN BC - 3 vs AS DE CHALAMPE\n\nSALLE DES SPORTS\n📍 Rue de H
+ artmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.852
+ 29\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dfu11/match/200000014558354
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558354
+END:VEVENT
+END:VCALENDAR

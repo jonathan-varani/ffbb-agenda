@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAINT MAX BASKET CLUB  [IDMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de SAINT MAX BASKET CLUB – IDMU18 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-09-19-18-00-saint-max-basket
+ -club-bas@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:🏠 SAINT MAX BASKET CLUB – BASKET CLUB GOLBEY EPINAL - 1
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ SAINT MAX BASKET CLUB vs BASKET CLUB GOLBEY EPINAL - 1\n\nGYMNASE HENRI CO
+ CHET\n📍 Rue de la Haie le Comte Saint-Max 54130\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.70584\,6.20643&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/idmu18/match/200000014615438
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte Saint-Max 54130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615438
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-09-26-18-00-basket-club-chav
+ elotais-s@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:✈️ BASKET CLUB CHAVELOTAIS – SAINT MAX BASKET CLUB
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ BASKET CLUB CHAVELOTAIS vs SAINT MAX BASKET CLUB\n\nSALLE DES SPORTS\n📍
+  Place de la République Chavelot 88150\n🚗 Waze : https://waze.com/ul?l
+ l=48.23758\,6.43697&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054
+ /competitions/idmu18/match/200000014615455
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615455
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-03-18-00-saint-max-basket
+ -club-csl@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 SAINT MAX BASKET CLUB – CSLB BAR LE DUC
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ SAINT MAX BASKET CLUB vs CSLB BAR LE DUC\n\nGYMNASE HENRI COCHET\n📍 Rue
+  de la Haie le Comte Saint-Max 54130\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.70584\,6.20643&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615474
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte Saint-Max 54130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615474
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-10-18-00-as-champigneulle
+ s-basketb@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – SAINT MAX BASKET CLUB
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ AS CHAMPIGNEULLES BASKETBALL vs SAINT MAX BASKET CLUB\n\nCOMPLEXE SPORTIF 
+ BELLEFONTAINE\n📍 Rue de Roncevaux Champigneulles 54250\n🚗 Waze : htt
+ ps://waze.com/ul?ll=48.72533\,6.14893&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0054/competitions/idmu18/match/200000014615491
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux Champigneulles 5
+ 4250
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615491
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-17-18-00-saint-max-basket
+ -club-as-@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:🏠 SAINT MAX BASKET CLUB – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ SAINT MAX BASKET CLUB vs AS HAUT DU LIEVRE  NANCY - 2\n\nGYMNASE HENRI COC
+ HET\n📍 Rue de la Haie le Comte Saint-Max 54130\n🚗 Waze : https://waz
+ e.com/ul?ll=48.70584\,6.20643&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0054/competitions/idmu18/match/200000014615510
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte Saint-Max 54130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615510
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-14-14-00-sluc-nancy-baske
+ t-associa@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 3 – SAINT MAX BASKET CLUB
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ SLUC NANCY BASKET ASSOCIATION - 3 vs SAINT MAX BASKET CLUB\n\nPALAIS DES S
+ PORTS ANNEXE\n📍 Rue du Capitaine Guynemer Nancy 54100\n🚗 Waze : http
+ s://waze.com/ul?ll=48.69975\,6.13996&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/idmu18/match/200000014615545
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615545
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-21-18-00-saint-max-basket
+ -club-nan@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:🏠 SAINT MAX BASKET CLUB – NANCY BASKETBALL - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ SAINT MAX BASKET CLUB vs NANCY BASKETBALL - 2\n\nGYMNASE HENRI COCHET\n
+ 📍 Rue de la Haie le Comte Saint-Max 54130\n🚗 Waze : https://waze.com
+ /ul?ll=48.70584\,6.20643&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/idmu18/match/200000014615563
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte Saint-Max 54130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615563
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-28-15-30-la-valdajolaise-
+ saint-max@ffbb-agenda
+DTSTAMP:20260819T081135Z
+DTSTART;TZID=Europe/Paris:20261128T153000
+DTEND;TZID=Europe/Paris:20261128T173000
+SUMMARY:✈️ LA VALDAJOLAISE – SAINT MAX BASKET CLUB
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ LA VALDAJOLAISE vs SAINT MAX BASKET CLUB\n\nSALLE MUNICIPALE SPORTS\n📍 
+ Rue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47
+ .92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615575
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615575
+END:VEVENT
+END:VCALENDAR

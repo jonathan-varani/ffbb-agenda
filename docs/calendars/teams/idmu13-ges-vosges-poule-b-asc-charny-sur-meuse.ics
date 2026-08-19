@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASC CHARNY SUR MEUSE  [IDMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASC CHARNY SUR MEUSE – IDMU13 – GES – Vosges – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-09-19-14-00-sluc-nancy-basket-associatio
+ n-2-asc-c@ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ SLUC NANCY B
+ ASKET ASSOCIATION - 2 vs ASC CHARNY SUR MEUSE\n\nGYMNASE LOUIS ARMAND\n
+ 📍 Rue des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48
+ .67025\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/idmu13/match/200000014626277
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626277
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-09-26-14-00-asc-charny-sur-meuse-basket-
+ club-long@ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20260926T140000
+DTEND;TZID=Europe/Paris:20260926T160000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE – BASKET CLUB LONGWY REHON - 1
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ ASC CHARNY S
+ UR MEUSE vs BASKET CLUB LONGWY REHON - 1\n\nSALLE DES SPORTS 1\n📍 Lotis
+ sement Sous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com
+ /ul?ll=49.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0088/competitions/idmu13/match/200000014626286
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626286
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-10-10-14-00-basket-all-star-mussipontain
+ -asc-char@ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ BASKET ALL STAR MUSSIPONTAIN – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ BASKET ALL S
+ TAR MUSSIPONTAIN vs ASC CHARNY SUR MEUSE\n\nCENTRE DES SPORTS BERNARD GUY 
+ 1\n📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0088/competitions/idmu13/match/200000014626297
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626297
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-11-07-14-00-asc-charny-sur-meuse-metz-bc
+ @ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE – METZ BC
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ ASC CHARNY S
+ UR MEUSE vs METZ BC\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Moulin
+  Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.21061\,5.36
+ 486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/id
+ mu13/match/200000014626310
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626310
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-11-14-14-00-basket-club-golbey-epinal-1-
+ asc-charn@ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ BASKET CLUB GOLBEY EPINAL - 1 – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ BASKET CLUB 
+ GOLBEY EPINAL - 1 vs ASC CHARNY SUR MEUSE\n\nSALLE FERNAND DAVID\n📍 Ave
+ nue de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com/ul?ll=48.1
+ 9073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/compe
+ titions/idmu13/match/200000014626321
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626321
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASC SAINT ROMAIN REININGUE  [DF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de ASC SAINT ROMAIN REININGUE – DF2 – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-19-00-00-bc-kunheim-asc-saint-romain-
+ reiningue@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ BC KUNHEIM – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM v
+ s ASC SAINT ROMAIN REININGUE\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kun
+ heim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/match/200000
+ 014558202
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558202
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-26-20-00-asc-saint-romain-reiningue-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASC SAINT RO
+ MAIN REININGUE vs BASKET CLUB ILLZACH\n\nHALLE DES SPORTS\n📍 Rue des Pi
+ erres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.2320
+ 4&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558206
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558206
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-10-10-00-00-ie-ctc-thur-doller-basket-cl
+ ub-3-asc-@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 3 – ASC SAINT ROMAIN RE
+ ININGUE
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 3 vs ASC SAINT ROMAIN REININGUE\n\nCOMPLEXE GAUGLER
+  (GRANDE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze
+  : https://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0068/competitions/df2/match/200000014558208
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558208
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-08-16-00-asc-saint-romain-reiningue-i
+ e-ctc-jur@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261108T160000
+DTEND;TZID=Europe/Paris:20261108T180000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – IE - CTC JURA ALSACIEN BASKET -
+  2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASC SAINT RO
+ MAIN REININGUE vs IE - CTC JURA ALSACIEN BASKET - 2\n\nHALLE DES SPORTS\n
+ 📍 Rue des Pierres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.75275\,7.23204&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/df2/match/200000014558212
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558212
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-14-20-00-asc-saint-romain-reiningue-a
+ sc-ste-af@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASC SAINT RO
+ MAIN REININGUE vs ASC STE AFRE RIEDISHEIM - 2\n\nHALLE DES SPORTS\n📍 Ru
+ e des Pierres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275
+ \,7.23204&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/df2/match/200000014558217
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558217
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-05-00-00-as-wickerschwihr-asc-saint-r
+ omain-rei@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ AS WICKERSCHWIHR – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ AS WICKERSCH
+ WIHR vs ASC SAINT ROMAIN REININGUE\n\nCOSEC FORTSCHWIHR\n📍 Route de Col
+ mar Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.4413
+ 7&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558220
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558220
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-12-18-00-asca-wittelsheim-asc-saint-r
+ omain-rei@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:✈️ ASCA WITTELSHEIM – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASCA WITTELS
+ HEIM vs ASC SAINT ROMAIN REININGUE\n\nSALLE PIERRE ALBOUY\n📍 Rue de Rei
+ ningue Wittelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.79763\,7.2
+ 3188&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ f2/match/200000014558224
+LOCATION:SALLE PIERRE ALBOUY\, Rue de Reiningue Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558224
+END:VEVENT
+END:VCALENDAR

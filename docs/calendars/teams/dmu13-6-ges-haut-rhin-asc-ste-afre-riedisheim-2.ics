@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASC STE AFRE RIEDISHEIM - 2  [DMU13-6 – GES]
+X-WR-CALDESC:Matchs de ASC STE AFRE RIEDISHEIM - 2 – DMU13-6 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-09-19-16-30-as-attenschwiller-asc-ste-afre-r
+ iedisheim@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20260919T163000
+DTEND;TZID=Europe/Paris:20260919T183000
+SUMMARY:✈️ AS ATTENSCHWILLER – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ AS ATTENSCHWILLER vs
+  ASC STE AFRE RIEDISHEIM - 2\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gau
+ lle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.4
+ 5741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ mu13-6/match/200000014559684
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559684
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-09-26-00-00-asc-ste-afre-riedisheim-2-fcsl-e
+ guisheim-@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM - 2 – FCSL EGUISHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ ASC STE AFRE RIEDISH
+ EIM - 2 vs FCSL EGUISHEIM - 2\n\nGYMNASE BARTHOLDI\n📍 Rue du Révérend
+  Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47.741
+ 55\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dmu13-6/match/200000014559688
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559688
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-10-03-00-00-bc-kunheim-2-asc-ste-afre-riedis
+ heim-2@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BC KUNHEIM - 2 – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs AS
+ C STE AFRE RIEDISHEIM - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunhei
+ m 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/match/20000
+ 0014559691
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559691
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-10-10-00-00-asc-ste-afre-riedisheim-2-cssl-r
+ ixheim@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM - 2 – CSSL RIXHEIM
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ ASC STE AFRE RIEDISH
+ EIM - 2 vs CSSL RIXHEIM\n\nGYMNASE BARTHOLDI\n📍 Rue du Révérend Père
+  Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47.74155\,7.
+ 36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dmu13-6/match/200000014559693
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559693
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-10-17-00-00-ie-ctc-thur-doller-basket-club-2
+ -asc-ste-@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 2 – ASC STE AFRE RIEDIS
+ HEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 2 vs ASC STE AFRE RIEDISHEIM - 2\n\nCENTRE SPORTIF BOURGER\
+ n📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : https://waze.c
+ om/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0068/competitions/dmu13-6/match/200000014559695
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559695
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-11-07-00-00-asc-ste-afre-riedisheim-2-as-att
+ enschwill@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM - 2 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ ASC STE AFRE RIEDISH
+ EIM - 2 vs AS ATTENSCHWILLER\n\nGYMNASE BARTHOLDI\n📍 Rue du Révérend 
+ Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47.7415
+ 5\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dmu13-6/match/200000014559699
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559699
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-11-14-00-00-fcsl-eguisheim-2-asc-ste-afre-ri
+ edisheim-@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ FCSL EGUISHEIM - 2 – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM - 2 v
+ s ASC STE AFRE RIEDISHEIM - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de H
+ interzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,
+ 7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dmu13-6/match/200000014559703
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559703
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-11-28-00-00-asc-ste-afre-riedisheim-2-bc-kun
+ heim-2@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM - 2 – BC KUNHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ ASC STE AFRE RIEDISH
+ EIM - 2 vs BC KUNHEIM - 2\n\nGYMNASE BARTHOLDI\n📍 Rue du Révérend Pè
+ re Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47.74155\,
+ 7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dmu13-6/match/200000014559706
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559706
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-12-05-16-30-cssl-rixheim-asc-ste-afre-riedis
+ heim-2@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20261205T163000
+DTEND;TZID=Europe/Paris:20261205T183000
+SUMMARY:✈️ CSSL RIXHEIM – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ CSSL RIXHEIM vs ASC 
+ STE AFRE RIEDISHEIM - 2\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 6
+ 8170\n🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/match/2000000
+ 14559708
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559708
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-12-12-00-00-asc-ste-afre-riedisheim-2-ie-ctc
+ -thur-dol@ffbb-agenda
+DTSTAMP:20260819T081004Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM - 2 – IE - CTC THUR DOLLER BASKET CL
+ UB - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ ASC STE AFRE RIEDISH
+ EIM - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nGYMNASE BARTHOLDI\n📍
+  Rue du Révérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waz
+ e.com/ul?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0068/competitions/dmu13-6/match/200000014559710
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559710
+END:VEVENT
+END:VCALENDAR

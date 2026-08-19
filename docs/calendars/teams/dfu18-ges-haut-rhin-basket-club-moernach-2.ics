@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB MOERNACH - 2  [DFU18 – GES]
+X-WR-CALDESC:Matchs de BASKET CLUB MOERNACH - 2 – DFU18 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-09-19-00-00-basket-club-moernach-2-ie-ctc-de-l
+ a-hardt@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH - 2 – IE - CTC DE LA HARDT
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH -
+  2 vs IE - CTC DE LA HARDT\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Ferran
+ t Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18/mat
+ ch/200000014558502
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558502
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-09-26-00-00-ie-ctc-jura-alsacien-basket-1-bask
+ et-club-m@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 1 – BASKET CLUB MOERNACH -
+  2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACIEN
+  BASKET - 1 vs BASKET CLUB MOERNACH - 2\n\nGYMNASE DU COLLEGE\n📍 Rue Al
+ phonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7
+ .31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dfu18/match/200000014558506
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558506
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-10-03-00-00-basket-club-moernach-2-berrwiller-
+ staffelfe@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH - 2 – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH -
+  2 vs BERRWILLER/STAFFELFELDEN BC - 2\n\nSALLE DE SPORT\n📍 Rue du Maré
+ chal-Ferrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,
+ 7.25416&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dfu18/match/200000014558510
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558510
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-10-10-00-00-ent-carspach-altkirch-basket-club-
+ moernach-@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ ENT CARSPACH/ALTKIRCH – BASKET CLUB MOERNACH - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ ENT CARSPACH/ALTKIRCH 
+ vs BASKET CLUB MOERNACH - 2\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dfu18/match/200000014558513
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558513
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-10-17-00-00-basket-club-moernach-2-as-horbourg
+ -wihr-2@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH - 2 – AS HORBOURG-WIHR - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH -
+  2 vs AS HORBOURG-WIHR - 2\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Ferran
+ t Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18/mat
+ ch/200000014558515
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558515
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-11-07-00-00-ie-ctc-de-la-hardt-basket-club-moe
+ rnach-2@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ IE - CTC DE LA HARDT – BASKET CLUB MOERNACH - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ IE - CTC DE LA HARDT v
+ s BASKET CLUB MOERNACH - 2\n\nSALLE DES SPORTS\n📍 Route Nationale Rumer
+ sheim-le-Haut 68740\n🚗 Waze : https://waze.com/ul?ll=47.85101\,7.51746&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18/
+ match/200000014558517
+LOCATION:SALLE DES SPORTS\, Route Nationale Rumersheim-le-Haut 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558517
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-11-14-00-00-basket-club-moernach-2-ie-ctc-jura
+ -alsacien@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH - 2 – IE - CTC JURA ALSACIEN BASKET - 1
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH -
+  2 vs IE - CTC JURA ALSACIEN BASKET - 1\n\nSALLE DE SPORT\n📍 Rue du Mar
+ échal-Ferrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889
+ \,7.25416&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu18/match/200000014558521
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558521
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-11-29-11-00-berrwiller-staffelfelden-bc-2-bask
+ et-club-m@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261129T110000
+DTEND;TZID=Europe/Paris:20261129T130000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 2 – BASKET CLUB MOERNACH - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFELD
+ EN BC - 2 vs BASKET CLUB MOERNACH - 2\n\nSALLE DES SPORTS\n📍 Rue de Har
+ tmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229
+ \,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu18/match/200000014558525
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558525
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-12-05-00-00-basket-club-moernach-2-ent-carspac
+ h-altkirc@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH - 2 – ENT CARSPACH/ALTKIRCH
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH -
+  2 vs ENT CARSPACH/ALTKIRCH\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Ferra
+ nt Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18/ma
+ tch/200000014558528
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558528
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-12-13-16-30-as-horbourg-wihr-2-basket-club-moe
+ rnach-2@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261213T163000
+DTEND;TZID=Europe/Paris:20261213T183000
+SUMMARY:✈️ AS HORBOURG-WIHR - 2 – BASKET CLUB MOERNACH - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ AS HORBOURG-WIHR - 2 v
+ s BASKET CLUB MOERNACH - 2\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorr
+ aine Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437\,7.3
+ 9293&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ fu18/match/200000014558530
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558530
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LINGOLSHEIM C.C.S.S. - 2  [DF4 – GES – Poule C]
+X-WR-CALDESC:Matchs de LINGOLSHEIM C.C.S.S. - 2 – DF4 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2026-10-03-00-00-lingolsheim-c-c-s-s-2-geispol
+ sheim-c-j@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 LINGOLSHEIM C.C.S.S. - 2 – GEISPOLSHEIM C.J.S. - 5
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ LINGOLSHEIM C
+ .C.S.S. - 2 vs GEISPOLSHEIM C.J.S. - 5\n\nGYMNASE DES VOSGES\n📍 Rue des
+  Tulipes Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7
+ .68652&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /df4/match/200000014652119
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652119
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2026-10-10-00-00-eschau-bc-3-lingolsheim-c-c-s
+ -s-2@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ ESCHAU BC - 3 – LINGOLSHEIM C.C.S.S. - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ ESCHAU BC - 3
+  vs LINGOLSHEIM C.C.S.S. - 2\n\nCENTRE SPORTIF CULTUREL\n📍 Place des F
+ êtes Eschau 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match
+ /200000014652123
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652123
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2026-11-14-00-00-lingolsheim-c-c-s-s-2-kogenhe
+ im-sermer@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 LINGOLSHEIM C.C.S.S. - 2 – KOGENHEIM/SERMERSHEIM B.C. - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ LINGOLSHEIM C
+ .C.S.S. - 2 vs KOGENHEIM/SERMERSHEIM B.C. - 2\n\nGYMNASE DES VOSGES\n📍 
+ Rue des Tulipes Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.5
+ 6063\,7.68652&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/df4/match/200000014652127
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652127
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2026-11-21-00-00-ebersheim-c-c-a-1-lingolsheim
+ -c-c-s-s-@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ EBERSHEIM C.C.A - 1 – LINGOLSHEIM C.C.S.S. - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ EBERSHEIM C.C
+ .A - 1 vs LINGOLSHEIM C.C.S.S. - 2\n\nSALLE IGNACE HEINRICH\n📍 Rue de M
+ uttersholtz Ebersheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.30144\,
+ 7.50142&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/df4/match/200000014652131
+LOCATION:SALLE IGNACE HEINRICH\, Rue de Muttersholtz Ebersheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652131
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2026-12-05-00-00-lingolsheim-c-c-s-s-2-sainte-
+ croix-aux@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 LINGOLSHEIM C.C.S.S. - 2 – SAINTE CROIX AUX MINES C.S.N. - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ LINGOLSHEIM C
+ .C.S.S. - 2 vs SAINTE CROIX AUX MINES C.S.N. - 1\n\nGYMNASE DES VOSGES\n
+ 📍 Rue des Tulipes Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll
+ =48.56063\,7.68652&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df4/match/200000014652139
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652139
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2026-12-12-00-00-witternheim-2-lingolsheim-c-c
+ -s-s-2@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ WITTERNHEIM - 2 – LINGOLSHEIM C.C.S.S. - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ WITTERNHEIM -
+  2 vs LINGOLSHEIM C.C.S.S. - 2\n\nHALL DES SPORTS\n📍 Rue de Hilsenheim 
+ Witternheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.31211\,7.60834&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/matc
+ h/200000014652144
+LOCATION:HALL DES SPORTS\, Rue de Hilsenheim Witternheim 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652144
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2026-12-19-00-00-lingolsheim-c-c-s-s-2-duttlen
+ heim-lc-5@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:🏠 LINGOLSHEIM C.C.S.S. - 2 – DUTTLENHEIM LC - 5
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ LINGOLSHEIM C
+ .C.S.S. - 2 vs DUTTLENHEIM LC - 5\n\nGYMNASE DES VOSGES\n📍 Rue des Tuli
+ pes Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7.6865
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652149
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652149
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2027-01-30-00-00-geispolsheim-c-j-s-5-lingolsh
+ eim-c-c-s@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 5 – LINGOLSHEIM C.C.S.S. - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 5 vs LINGOLSHEIM C.C.S.S. - 2\n\nCENTRE SPORTIF\n📍 Rue de la P
+ orte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681
+ \,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/df4/match/200000014652164
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652164
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2027-02-06-00-00-lingolsheim-c-c-s-s-2-eschau-
+ bc-3@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 LINGOLSHEIM C.C.S.S. - 2 – ESCHAU BC - 3
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ LINGOLSHEIM C
+ .C.S.S. - 2 vs ESCHAU BC - 3\n\nGYMNASE DES VOSGES\n📍 Rue des Tulipes L
+ ingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7.68652&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match
+ /200000014652168
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652168
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2027-02-13-00-00-kogenheim-sermersheim-b-c-2-l
+ ingolshei@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ KOGENHEIM/SERMERSHEIM B.C. - 2 – LINGOLSHEIM C.C.S.S. - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ KOGENHEIM/SER
+ MERSHEIM B.C. - 2 vs LINGOLSHEIM C.C.S.S. - 2\n\nCENTRE SPORTIF\n📍 Rue 
+ du Stade Kogenheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.33771\,7.5
+ 479&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ 4/match/200000014652172
+LOCATION:CENTRE SPORTIF\, Rue du Stade Kogenheim 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652172
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2027-03-13-00-00-lingolsheim-c-c-s-s-2-ebershe
+ im-c-c-a-@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 LINGOLSHEIM C.C.S.S. - 2 – EBERSHEIM C.C.A - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ LINGOLSHEIM C
+ .C.S.S. - 2 vs EBERSHEIM C.C.A - 1\n\nGYMNASE DES VOSGES\n📍 Rue des Tul
+ ipes Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7.686
+ 52&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4
+ /match/200000014652176
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652176
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2027-03-20-00-00-sainte-croix-aux-mines-c-s-n-
+ 1-lingols@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ SAINTE CROIX AUX MINES C.S.N. - 1 – LINGOLSHEIM C.C.S.S. -
+  2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 1 vs LINGOLSHEIM C.C.S.S. - 2\n\nSALLE DES SPORTS DE LA
+  TIMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0067/competitions/df4/match/200000014652184
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652184
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2027-03-27-00-00-lingolsheim-c-c-s-s-2-wittern
+ heim-2@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:🏠 LINGOLSHEIM C.C.S.S. - 2 – WITTERNHEIM - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ LINGOLSHEIM C
+ .C.S.S. - 2 vs WITTERNHEIM - 2\n\nGYMNASE DES VOSGES\n📍 Rue des Tulipes
+  Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7.68652&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/mat
+ ch/200000014652189
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652189
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-c-2027-04-10-00-00-duttlenheim-lc-5-lingolsheim-
+ c-c-s-s-2@ffbb-agenda
+DTSTAMP:20260819T080633Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ DUTTLENHEIM LC - 5 – LINGOLSHEIM C.C.S.S. - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule C\n⚔️ DUTTLENHEIM L
+ C - 5 vs LINGOLSHEIM C.C.S.S. - 2\n\nSALLE DE LA CONCORDE\n📍 Rue du Sta
+ de Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56924
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/m
+ atch/200000014652194
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652194
+END:VEVENT
+END:VCALENDAR

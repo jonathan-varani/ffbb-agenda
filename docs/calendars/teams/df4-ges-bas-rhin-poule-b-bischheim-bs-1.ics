@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BISCHHEIM BS - 1  [DF4 – GES – Poule B]
+X-WR-CALDESC:Matchs de BISCHHEIM BS - 1 – DF4 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2026-09-26-00-00-griesheim-dingsheim-b-c-2-bis
+ chheim-bs@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ GRIESHEIM/DINGSHEIM B.C. - 2 – BISCHHEIM BS - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs BISCHHEIM BS - 1\n\nLES PORTES DU KOCHERSBERG\n📍 Rue
+  du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.638
+ 73\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/df4/match/200000014652021
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652021
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2026-10-10-00-00-bischheim-bs-1-strasbourg-ele
+ ctricite-@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BISCHHEIM BS - 1 – STRASBOURG ELECTRICITE A.S. - 3
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ BISCHHEIM BS 
+ - 1 vs STRASBOURG ELECTRICITE A.S. - 3\n\nGYMNASE LAMARTINE\n📍 Rue Lama
+ rtine Bischheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.7379
+ 7&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652035
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652035
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2026-11-14-00-00-strasbourg-ass-1-bischheim-bs
+ -1@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ STRASBOURG ASS - 1 – BISCHHEIM BS - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG AS
+ S - 1 vs BISCHHEIM BS - 1\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss S
+ trasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2
+ 00000014652040
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652040
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2026-11-21-00-00-bischheim-bs-1-vendenheim-bc-
+ 4@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BISCHHEIM BS - 1 – VENDENHEIM BC - 4
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ BISCHHEIM BS 
+ - 1 vs VENDENHEIM BC - 4\n\nGYMNASE LAMARTINE\n📍 Rue Lamartine Bischhei
+ m 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000001
+ 4652045
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652045
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2026-12-05-00-00-wolfisheim-basket-club-1-bisc
+ hheim-bs-@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ WOLFISHEIM BASKET CLUB - 1 – BISCHHEIM BS - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ WOLFISHEIM BA
+ SKET CLUB - 1 vs BISCHHEIM BS - 1\n\nSALLE POLYVALENTE\n📍 Rue du Moulin
+  Wolfisheim 67202\n🚗 Waze : https://waze.com/ul?ll=48.57993\,7.66509&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/matc
+ h/200000014652050
+LOCATION:SALLE POLYVALENTE\, Rue du Moulin Wolfisheim 67202
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652050
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2026-12-12-00-00-bischheim-bs-1-ascmcic-femini
+ nes-credi@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BISCHHEIM BS - 1 – ASCMCIC Féminines (Crédit Mutuel) - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ BISCHHEIM BS 
+ - 1 vs ASCMCIC Féminines (Crédit Mutuel) - 1\n\nGYMNASE LAMARTINE\n📍 
+ Rue Lamartine Bischheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387
+ \,7.73797&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/df4/match/200000014652055
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652055
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2026-12-19-00-00-schiltigheim-au-3-bischheim-b
+ s-1@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:✈️ SCHILTIGHEIM AU - 3 – BISCHHEIM BS - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ SCHILTIGHEIM 
+ AU - 3 vs BISCHHEIM BS - 1\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malter
+ ies Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.743
+ 74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4
+ /match/200000014652060
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652060
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2027-01-16-00-00-bischheim-bs-1-schweighouse-o
+ hlungen-b@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 BISCHHEIM BS - 1 – SCHWEIGHOUSE/OHLUNGEN B.C. - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ BISCHHEIM BS 
+ - 1 vs SCHWEIGHOUSE/OHLUNGEN B.C. - 2\n\nGYMNASE LAMARTINE\n📍 Rue Lamar
+ tine Bischheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/m
+ atch/200000014652065
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652065
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2027-01-23-00-00-bischheim-bs-1-griesheim-ding
+ sheim-b-c@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 BISCHHEIM BS - 1 – GRIESHEIM/DINGSHEIM B.C. - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ BISCHHEIM BS 
+ - 1 vs GRIESHEIM/DINGSHEIM B.C. - 2\n\nGYMNASE LAMARTINE\n📍 Rue Lamarti
+ ne Bischheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/mat
+ ch/200000014652066
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652066
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2027-02-06-00-00-strasbourg-electricite-a-s-3-
+ bischheim@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. - 3 – BISCHHEIM BS - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 3 vs BISCHHEIM BS - 1\n\nCENTRE SPORTIF SUD\n📍 Rue des
+  Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837\,7
+ .75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /df4/match/200000014652080
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652080
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2027-02-13-00-00-bischheim-bs-1-strasbourg-ass
+ -1@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 BISCHHEIM BS - 1 – STRASBOURG ASS - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ BISCHHEIM BS 
+ - 1 vs STRASBOURG ASS - 1\n\nGYMNASE LAMARTINE\n📍 Rue Lamartine Bischhe
+ im 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2000000
+ 14652085
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652085
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2027-03-13-00-00-vendenheim-bc-4-bischheim-bs-
+ 1@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:✈️ VENDENHEIM BC - 4 – BISCHHEIM BS - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ VENDENHEIM BC
+  - 4 vs BISCHHEIM BS - 1\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Goun
+ od Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.71054&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/ma
+ tch/200000014652090
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652090
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2027-03-20-00-00-bischheim-bs-1-wolfisheim-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:🏠 BISCHHEIM BS - 1 – WOLFISHEIM BASKET CLUB - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ BISCHHEIM BS 
+ - 1 vs WOLFISHEIM BASKET CLUB - 1\n\nGYMNASE LAMARTINE\n📍 Rue Lamartine
+  Bischheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match
+ /200000014652095
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652095
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2027-03-27-00-00-ascmcic-feminines-credit-mutu
+ el-1-bisc@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ ASCMCIC Féminines (Crédit Mutuel) - 1 – BISCHHEIM BS - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ ASCMCIC Fémi
+ nines (Crédit Mutuel) - 1 vs BISCHHEIM BS - 1\n\nLYCEE BRANLY\n📍 Rue L
+ éon Boll Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.59459\,7
+ .7634&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ df4/match/200000014652100
+LOCATION:LYCEE BRANLY\, Rue Léon Boll Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652100
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2027-04-10-00-00-bischheim-bs-1-schiltigheim-a
+ u-3@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 BISCHHEIM BS - 1 – SCHILTIGHEIM AU - 3
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ BISCHHEIM BS 
+ - 1 vs SCHILTIGHEIM AU - 3\n\nGYMNASE LAMARTINE\n📍 Rue Lamartine Bischh
+ eim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000
+ 014652105
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652105
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-b-2027-05-15-00-00-schweighouse-ohlungen-b-c-2-b
+ ischheim-@ffbb-agenda
+DTSTAMP:20260819T080629Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ SCHWEIGHOUSE/OHLUNGEN B.C. - 2 – BISCHHEIM BS - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule B\n⚔️ SCHWEIGHOUSE/
+ OHLUNGEN B.C. - 2 vs BISCHHEIM BS - 1\n\nCENTRE ROBERT KAEUFLING\n📍 Rue
+  des Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https://waze.com/ul?
+ ll=48.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/df4/match/200000014652110
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652110
+END:VEVENT
+END:VCALENDAR

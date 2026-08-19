@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CB KIENTZHEIM - 1  [DFU15 – GES]
+X-WR-CALDESC:Matchs de CB KIENTZHEIM - 1 – DFU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-ges-haut-rhin-2026-09-13-16-00-colmar-basket-cb-kientzheim-1@ffbb
+ -agenda
+DTSTAMP:20260819T080732Z
+DTSTART;TZID=Europe/Paris:20260913T160000
+DTEND;TZID=Europe/Paris:20260913T180000
+SUMMARY:✈️ COLMAR BASKET – CB KIENTZHEIM - 1
+DESCRIPTION:🏀 DFU15 – GES – Haut-Rhin\n⚔️ COLMAR BASKET vs CB KI
+ ENTZHEIM - 1\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar 68000\
+ n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0068/competitions/dfu15/match/20000001456102
+ 4
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 5/match/200000014561024
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-haut-rhin-2026-09-19-00-00-cb-kientzheim-1-berrwiller-staffel
+ felden-bc@ffbb-agenda
+DTSTAMP:20260819T080732Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 CB KIENTZHEIM - 1 – BERRWILLER/STAFFELFELDEN BC - 1
+DESCRIPTION:🏀 DFU15 – GES – Haut-Rhin\n⚔️ CB KIENTZHEIM - 1 vs B
+ ERRWILLER/STAFFELFELDEN BC - 1\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège 
+ Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7
+ .2614&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dfu15/match/200000014561028
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 5/match/200000014561028
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-haut-rhin-2026-10-03-00-00-cb-kientzheim-1-ie-ctc-de-la-hardt
+ -1@ffbb-agenda
+DTSTAMP:20260819T080732Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 CB KIENTZHEIM - 1 – IE - CTC DE LA HARDT - 1
+DESCRIPTION:🏀 DFU15 – GES – Haut-Rhin\n⚔️ CB KIENTZHEIM - 1 vs I
+ E - CTC DE LA HARDT - 1\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kaysers
+ berg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu15/m
+ atch/200000014561033
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 5/match/200000014561033
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-haut-rhin-2026-10-10-00-00-basket-nord-sundgau-cb-kientzheim-
+ 1@ffbb-agenda
+DTSTAMP:20260819T080732Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU – CB KIENTZHEIM - 1
+DESCRIPTION:🏀 DFU15 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU vs
+  CB KIENTZHEIM - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 6872
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu15/match/2000000145
+ 61035
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 5/match/200000014561035
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-haut-rhin-2026-10-17-00-00-cb-kientzheim-1-colmar-basket@ffbb
+ -agenda
+DTSTAMP:20260819T080732Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 CB KIENTZHEIM - 1 – COLMAR BASKET
+DESCRIPTION:🏀 DFU15 – GES – Haut-Rhin\n⚔️ CB KIENTZHEIM - 1 vs C
+ OLMAR BASKET\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kaysersberg Vignob
+ le 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu15/match/200000
+ 014561039
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 5/match/200000014561039
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-haut-rhin-2026-10-31-00-00-berrwiller-staffelfelden-bc-1-cb-k
+ ientzheim@ffbb-agenda
+DTSTAMP:20260819T080732Z
+DTSTART;TZID=Europe/Paris:20261031T000000
+DTEND;TZID=Europe/Paris:20261031T020000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 1 – CB KIENTZHEIM - 1
+DESCRIPTION:🏀 DFU15 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFELD
+ EN BC - 1 vs CB KIENTZHEIM - 1\n\nSALLE DES SPORTS\n📍 Rue de Hartmannsw
+ iller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\,7.219
+ 98&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu
+ 15/match/200000014561043
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 5/match/200000014561043
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-haut-rhin-2026-11-21-00-00-ie-ctc-de-la-hardt-1-cb-kientzheim
+ -1@ffbb-agenda
+DTSTAMP:20260819T080732Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ IE - CTC DE LA HARDT - 1 – CB KIENTZHEIM - 1
+DESCRIPTION:🏀 DFU15 – GES – Haut-Rhin\n⚔️ IE - CTC DE LA HARDT -
+  1 vs CB KIENTZHEIM - 1\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Ruste
+ nhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu15/match/2000
+ 00014561048
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 5/match/200000014561048
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-haut-rhin-2026-11-28-00-00-cb-kientzheim-1-basket-nord-sundga
+ u@ffbb-agenda
+DTSTAMP:20260819T080732Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 CB KIENTZHEIM - 1 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 DFU15 – GES – Haut-Rhin\n⚔️ CB KIENTZHEIM - 1 vs B
+ ASKET NORD SUNDGAU\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kaysersberg 
+ Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu15/match/
+ 200000014561050
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 5/match/200000014561050
+END:VEVENT
+END:VCALENDAR

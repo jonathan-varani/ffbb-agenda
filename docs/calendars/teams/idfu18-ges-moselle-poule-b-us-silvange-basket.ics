@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – US SILVANGE BASKET  [IDFU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de US SILVANGE BASKET – IDFU18 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-19-18-00-metz-bc-us-silvange-basket@
+ ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:✈️ METZ BC – US SILVANGE BASKET
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ METZ BC vs 
+ US SILVANGE BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 570
+ 00\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/200000014
+ 651771
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651771
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-27-15-30-us-silvange-basket-cse-folk
+ ling@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 US SILVANGE BASKET – CSE FOLKLING
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US SILVANGE
+  BASKET vs CSE FOLKLING\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Maran
+ ge-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/m
+ atch/200000014651778
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651778
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-03-18-00-fensch-basket-avenir-fba-us
+ -silvange@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ FENSCH BASKET AVENIR FBA – US SILVANGE BASKET
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ FENSCH BASK
+ ET AVENIR FBA vs US SILVANGE BASKET\n\nSALLE ALBERT BASSETTO\n📍 Rue de 
+ la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.34299\,6.
+ 04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ idfu18/match/200000014651785
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651785
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-11-13-00-us-silvange-basket-longevil
+ le-et-st-@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261011T130000
+DTEND;TZID=Europe/Paris:20261011T150000
+SUMMARY:🏠 US SILVANGE BASKET – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US SILVANGE
+  BASKET vs LONGEVILLE ET ST AVOLD BASKET\n\nCOSEC LA ROUSSE\n📍 Rue Augu
+ ste Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.
+ 21214\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/idfu18/match/200000014651795
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651795
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-07-18-00-us-silvange-basket-us-boula
+ nge-fonto@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:🏠 US SILVANGE BASKET – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US SILVANGE
+  BASKET vs US BOULANGE FONTOY BB\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Mige
+ tte Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6
+ .11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /idfu18/match/200000014651803
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651803
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-14-15-00-asp-ste-marie-aux-chenes-us
+ -silvange@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261114T150000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:✈️ ASP STE MARIE AUX CHENES – US SILVANGE BASKET
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ ASP STE MAR
+ IE AUX CHENES vs US SILVANGE BASKET\n\nGYMNASE BERTHELOT\n📍 Rue Berthel
+ ot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.1
+ 9465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/idfu18/match/200000014651811
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651811
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-29-18-00-us-silvange-basket-rombas-o
+ c@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261129T180000
+DTEND;TZID=Europe/Paris:20261129T200000
+SUMMARY:🏠 US SILVANGE BASKET – ROMBAS OC
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US SILVANGE
+  BASKET vs ROMBAS OC\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-
+ Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/matc
+ h/200000014651819
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651819
+END:VEVENT
+END:VCALENDAR

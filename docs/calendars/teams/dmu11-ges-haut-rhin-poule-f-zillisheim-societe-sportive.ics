@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ZILLISHEIM SOCIETE SPORTIVE  [DMU11 – GES – Poule F]
+X-WR-CALDESC:Matchs de ZILLISHEIM SOCIETE SPORTIVE – DMU11 – GES – Haut-Rhin – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-09-26-00-00-zillisheim-societe-sportiv
+ e-ie-ctc-@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 ZILLISHEIM SOCIETE SPORTIVE – IE - CTC THUR DOLLER BASKET CL
+ UB - 4
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ ZILLISHEIM
+  SOCIETE SPORTIVE vs IE - CTC THUR DOLLER BASKET CLUB - 4\n\nSALLE POLYVAL
+ ENTE\n📍 Rue de Didenheim Zillisheim 68720\n🚗 Waze : https://waze.com
+ /ul?ll=47.70057\,7.2941&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0068/competitions/dmu11/match/200000014559493
+LOCATION:SALLE POLYVALENTE\, Rue de Didenheim Zillisheim 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559493
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-10-03-14-45-richwiller-union-sportive-
+ zillishei@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261003T144500
+DTEND;TZID=Europe/Paris:20261003T164500
+SUMMARY:✈️ RICHWILLER UNION SPORTIVE – ZILLISHEIM SOCIETE SPORTIVE
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ RICHWILLER
+  UNION SPORTIVE vs ZILLISHEIM SOCIETE SPORTIVE\n\nSALLE JEAN-MARIE PFEFFER
+ \n📍 Rue de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?
+ ll=47.78251\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/dmu11/match/200000014559498
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559498
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-10-10-00-00-zillisheim-societe-sportiv
+ e-csc-rus@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 ZILLISHEIM SOCIETE SPORTIVE – CSC RUSTENHART - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ ZILLISHEIM
+  SOCIETE SPORTIVE vs CSC RUSTENHART - 2\n\nSALLE POLYVALENTE\n📍 Rue de 
+ Didenheim Zillisheim 68720\n🚗 Waze : https://waze.com/ul?ll=47.70057\,7
+ .2941&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dmu11/match/200000014559503
+LOCATION:SALLE POLYVALENTE\, Rue de Didenheim Zillisheim 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559503
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-11-07-00-00-zillisheim-societe-sportiv
+ e-fcsl-eg@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 ZILLISHEIM SOCIETE SPORTIVE – FCSL EGUISHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ ZILLISHEIM
+  SOCIETE SPORTIVE vs FCSL EGUISHEIM - 2\n\nSALLE POLYVALENTE\n📍 Rue de 
+ Didenheim Zillisheim 68720\n🚗 Waze : https://waze.com/ul?ll=47.70057\,7
+ .2941&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dmu11/match/200000014559513
+LOCATION:SALLE POLYVALENTE\, Rue de Didenheim Zillisheim 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559513
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-11-15-14-00-asca-wittelsheim-zillishei
+ m-societe@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261115T140000
+DTEND;TZID=Europe/Paris:20261115T160000
+SUMMARY:✈️ ASCA WITTELSHEIM – ZILLISHEIM SOCIETE SPORTIVE
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ ASCA WITTE
+ LSHEIM vs ZILLISHEIM SOCIETE SPORTIVE\n\nSALLE AMELIE ZURCHER\n📍 Rue de
+  la 2ème D.I.M. Wittelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.
+ 80135\,7.23869&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dmu11/match/200000014559518
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559518
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-11-21-00-00-zillisheim-societe-sportiv
+ e-colmar-@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 ZILLISHEIM SOCIETE SPORTIVE – COLMAR BASKET - 3
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ ZILLISHEIM
+  SOCIETE SPORTIVE vs COLMAR BASKET - 3\n\nSALLE POLYVALENTE\n📍 Rue de D
+ idenheim Zillisheim 68720\n🚗 Waze : https://waze.com/ul?ll=47.70057\,7.
+ 2941&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ mu11/match/200000014559523
+LOCATION:SALLE POLYVALENTE\, Rue de Didenheim Zillisheim 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559523
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-12-05-00-00-zillisheim-societe-sportiv
+ e-nbc-win@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 ZILLISHEIM SOCIETE SPORTIVE – NBC WINTZENHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ ZILLISHEIM
+  SOCIETE SPORTIVE vs NBC WINTZENHEIM\n\nSALLE POLYVALENTE\n📍 Rue de Did
+ enheim Zillisheim 68720\n🚗 Waze : https://waze.com/ul?ll=47.70057\,7.29
+ 41&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu
+ 11/match/200000014559531
+LOCATION:SALLE POLYVALENTE\, Rue de Didenheim Zillisheim 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559531
+END:VEVENT
+END:VCALENDAR

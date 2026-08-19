@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASP STE MARIE AUX CHENES  [IDFU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASP STE MARIE AUX CHENES – IDFU18 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-19-18-00-rombas-oc-asp-ste-marie-aux
+ -chenes@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:✈️ ROMBAS OC – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ ROMBAS OC v
+ s ASP STE MARIE AUX CHENES\n\nCOSEC ANDRE RUPPERT\n📍 Rue Maréchal Joff
+ re Rombas 57120\n🚗 Waze : https://waze.com/ul?ll=49.2535\,6.09994&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/matc
+ h/200000014651772
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651772
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-26-15-00-asp-ste-marie-aux-chenes-me
+ tz-bc@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:🏠 ASP STE MARIE AUX CHENES – METZ BC
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ ASP STE MAR
+ IE AUX CHENES vs METZ BC\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot Sainte-M
+ arie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.19465\,5.997
+ 04&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idf
+ u18/match/200000014651777
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651777
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-03-16-00-cse-folkling-asp-ste-marie-
+ aux-chene@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ CSE FOLKLING – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ CSE FOLKLIN
+ G vs ASP STE MARIE AUX CHENES\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembr
+ e 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.8930
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651786
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651786
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-11-17-30-asp-ste-marie-aux-chenes-fe
+ nsch-bask@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261011T173000
+DTEND;TZID=Europe/Paris:20261011T193000
+SUMMARY:🏠 ASP STE MARIE AUX CHENES – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ ASP STE MAR
+ IE AUX CHENES vs FENSCH BASKET AVENIR FBA\n\nGYMNASE BERTHELOT\n📍 Rue B
+ erthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?l
+ l=49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057
+ /competitions/idfu18/match/200000014651794
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651794
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-07-18-00-longeville-et-st-avold-bask
+ et-asp-st@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ LONGEVILLE 
+ ET ST AVOLD BASKET vs ASP STE MARIE AUX CHENES\n\nGYMNASE DU CASTEL\n📍 
+ Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://w
+ aze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0057/competitions/idfu18/match/200000014651804
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651804
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-14-15-00-asp-ste-marie-aux-chenes-us
+ -silvange@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261114T150000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:🏠 ASP STE MARIE AUX CHENES – US SILVANGE BASKET
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ ASP STE MAR
+ IE AUX CHENES vs US SILVANGE BASKET\n\nGYMNASE BERTHELOT\n📍 Rue Berthel
+ ot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.1
+ 9465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/idfu18/match/200000014651811
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651811
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-29-13-00-us-boulange-fontoy-bb-asp-s
+ te-marie-@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261129T130000
+DTEND;TZID=Europe/Paris:20261129T150000
+SUMMARY:✈️ US BOULANGE FONTOY BB – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US BOULANGE
+  FONTOY BB vs ASP STE MARIE AUX CHENES\n\nSALLE DES SPORTS\n📍 Rue du St
+ ade Boulange 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/
+ match/200000014651818
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651818
+END:VEVENT
+END:VCALENDAR

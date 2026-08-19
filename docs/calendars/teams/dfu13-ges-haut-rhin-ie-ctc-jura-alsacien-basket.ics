@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC JURA ALSACIEN BASKET  [DFU13 – GES]
+X-WR-CALDESC:Matchs de IE - CTC JURA ALSACIEN BASKET – DFU13 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-09-19-00-00-ie-ctc-jura-alsacien-basket-as-att
+ enschwill@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 IE - CTC JURA ALSACIEN BASKET – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACIEN
+  BASKET vs AS ATTENSCHWILLER\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse Jenn
+  Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13/matc
+ h/200000014558357
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558357
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-09-26-00-00-cb-kientzheim-ie-ctc-jura-alsacien
+ -basket@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ CB KIENTZHEIM – IE - CTC JURA ALSACIEN BASKET
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ CB KIENTZHEIM vs IE - 
+ CTC JURA ALSACIEN BASKET\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kayser
+ sberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13/
+ match/200000014558365
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558365
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-10-03-00-00-berrwiller-staffelfelden-bc-3-ie-c
+ tc-jura-a@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 3 – IE - CTC JURA ALSACIEN B
+ ASKET
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFELD
+ EN BC - 3 vs IE - CTC JURA ALSACIEN BASKET\n\nSALLE DES SPORTS\n📍 Rue d
+ e Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.
+ 85229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dfu13/match/200000014558375
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558375
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-10-10-00-00-ie-ctc-jura-alsacien-basket-ie-ctc
+ -de-l-ill@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 IE - CTC JURA ALSACIEN BASKET – IE - CTC DE L'ILL - 1
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACIEN
+  BASKET vs IE - CTC DE L'ILL - 1\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse 
+ Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13/
+ match/200000014558385
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558385
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-10-17-00-00-ie-ctc-thur-doller-basket-club-1-i
+ e-ctc-jur@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 1 – IE - CTC JURA ALSAC
+ IEN BASKET
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER B
+ ASKET CLUB - 1 vs IE - CTC JURA ALSACIEN BASKET\n\nCOMPLEXE GAUGLER (GRAND
+ E SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : http
+ s://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0068/competitions/dfu13/match/200000014558394
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558394
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-11-07-00-00-as-attenschwiller-ie-ctc-jura-alsa
+ cien-bask@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ AS ATTENSCHWILLER – IE - CTC JURA ALSACIEN BASKET
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ AS ATTENSCHWILLER vs I
+ E - CTC JURA ALSACIEN BASKET\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gau
+ lle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.4
+ 5741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ fu13/match/200000014558402
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558402
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-11-14-00-00-ie-ctc-jura-alsacien-basket-cb-kie
+ ntzheim@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 IE - CTC JURA ALSACIEN BASKET – CB KIENTZHEIM
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACIEN
+  BASKET vs CB KIENTZHEIM\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse Jenn Fer
+ rette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13/match/20
+ 0000014558410
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558410
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-11-28-00-00-ie-ctc-jura-alsacien-basket-berrwi
+ ller-staf@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 IE - CTC JURA ALSACIEN BASKET – BERRWILLER/STAFFELFELDEN BC 
+ - 3
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACIEN
+  BASKET vs BERRWILLER/STAFFELFELDEN BC - 3\n\nGYMNASE DU COLLEGE\n📍 Rue
+  Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144
+ \,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu13/match/200000014558420
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558420
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-12-05-00-00-ie-ctc-de-l-ill-1-ie-ctc-jura-alsa
+ cien-bask@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 1 – IE - CTC JURA ALSACIEN BASKET
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 1 
+ vs IE - CTC JURA ALSACIEN BASKET\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue 
+ du Vercors Wittenheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.81142\,
+ 7.32895&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dfu13/match/200000014558430
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors Wittenheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558430
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-haut-rhin-2026-12-12-00-00-ie-ctc-jura-alsacien-basket-ie-ctc
+ -thur-dol@ffbb-agenda
+DTSTAMP:20260819T080755Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 IE - CTC JURA ALSACIEN BASKET – IE - CTC THUR DOLLER BASKET 
+ CLUB - 1
+DESCRIPTION:🏀 DFU13 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACIEN
+  BASKET vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nGYMNASE DU COLLEGE\n
+ 📍 Rue Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=
+ 47.50144\,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu13/match/200000014558439
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3/match/200000014558439
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB ILLZACH - 2  [DMU15-3 – GES]
+X-WR-CALDESC:Matchs de BASKET CLUB ILLZACH - 2 – DMU15-3 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-09-26-00-00-bc-kunheim-2-basket-club-illzach
+ -2@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BC KUNHEIM - 2 – BASKET CLUB ILLZACH - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs BA
+ SKET CLUB ILLZACH - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68
+ 320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/20000001
+ 4559984
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559984
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-10-03-16-30-basket-club-illzach-2-colmar-bas
+ ket-2@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261003T163000
+DTEND;TZID=Europe/Paris:20261003T183000
+SUMMARY:🏠 BASKET CLUB ILLZACH - 2 – COLMAR BASKET - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ - 2 vs COLMAR BASKET - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 68
+ 110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/20000001
+ 4559988
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559988
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-10-11-00-00-fcsl-eguisheim-2-basket-club-ill
+ zach-2@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261011T000000
+DTEND;TZID=Europe/Paris:20261011T020000
+SUMMARY:✈️ FCSL EGUISHEIM - 2 – BASKET CLUB ILLZACH - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM - 2 v
+ s BASKET CLUB ILLZACH - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinte
+ rzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31
+ 428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u15-3/match/200000014559997
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559997
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-10-17-00-00-basket-club-ribeauville-basket-c
+ lub-illza@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ BASKET CLUB RIBEAUVILLE – BASKET CLUB ILLZACH - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB RIBEAUVI
+ LLE vs BASKET CLUB ILLZACH - 2\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu15-3/match/200000014560001
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560001
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-11-07-15-30-basket-club-illzach-2-ie-ctc-jur
+ a-alsacie@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261107T153000
+DTEND;TZID=Europe/Paris:20261107T173000
+SUMMARY:🏠 BASKET CLUB ILLZACH - 2 – IE - CTC JURA ALSACIEN BASKET
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ - 2 vs IE - CTC JURA ALSACIEN BASKET\n\nGYMNASE DU CANAL\n📍 Rue du Cana
+ l Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/ma
+ tch/200000014560006
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560006
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-11-21-13-30-basket-club-illzach-2-zillisheim
+ -societe-@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261121T133000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:🏠 BASKET CLUB ILLZACH - 2 – ZILLISHEIM SOCIETE SPORTIVE
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ - 2 vs ZILLISHEIM SOCIETE SPORTIVE\n\nGYMNASE DU CANAL\n📍 Rue du Canal 
+ Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/matc
+ h/200000014560015
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560015
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-12-05-15-00-as-de-chalampe-basket-club-illza
+ ch-2@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261205T150000
+DTEND;TZID=Europe/Paris:20261205T170000
+SUMMARY:✈️ AS DE CHALAMPE – BASKET CLUB ILLZACH - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ AS DE CHALAMPE vs BA
+ SKET CLUB ILLZACH - 2\n\nSALLE POLYVALENTE\n📍 Avenue de la Gare Chalamp
+ é 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/200
+ 000014560019
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560019
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-12-12-15-00-basket-club-illzach-2-ie-ctc-thu
+ r-doller-@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261212T150000
+DTEND;TZID=Europe/Paris:20261212T170000
+SUMMARY:🏠 BASKET CLUB ILLZACH - 2 – IE - CTC THUR DOLLER BASKET CLUB -
+  2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH 
+ - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nGYMNASE DU CANAL\n📍 Rue 
+ du Canal Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.361
+ 89&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu
+ 15-3/match/200000014560024
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560024
+END:VEVENT
+END:VCALENDAR

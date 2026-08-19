@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSE FOLKLING  [IDFU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de CSE FOLKLING – IDFU18 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-19-18-00-cse-folkling-longeville-et-
+ st-avold-@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:🏠 CSE FOLKLING – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ CSE FOLKLIN
+ G vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Dé
+ cembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6
+ .89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /idfu18/match/200000014651770
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651770
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-09-27-15-30-us-silvange-basket-cse-folk
+ ling@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ US SILVANGE BASKET – CSE FOLKLING
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US SILVANGE
+  BASKET vs CSE FOLKLING\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Maran
+ ge-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/m
+ atch/200000014651778
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651778
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-03-16-00-cse-folkling-asp-ste-marie-
+ aux-chene@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:🏠 CSE FOLKLING – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ CSE FOLKLIN
+ G vs ASP STE MARIE AUX CHENES\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembr
+ e 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.8930
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651786
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651786
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-10-10-18-00-rombas-oc-cse-folkling@ffbb
+ -agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:✈️ ROMBAS OC – CSE FOLKLING
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ ROMBAS OC v
+ s CSE FOLKLING\n\nCOSEC ANDRE RUPPERT\n📍 Rue Maréchal Joffre Rombas 57
+ 120\n🚗 Waze : https://waze.com/ul?ll=49.2535\,6.09994&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/200000014
+ 651793
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651793
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-07-16-00-cse-folkling-metz-bc@ffbb-a
+ genda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 CSE FOLKLING – METZ BC
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ CSE FOLKLIN
+ G vs METZ BC\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Folkling 5
+ 7600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/20000001
+ 4651802
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651802
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-15-13-00-us-boulange-fontoy-bb-cse-f
+ olkling@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261115T130000
+DTEND;TZID=Europe/Paris:20261115T150000
+SUMMARY:✈️ US BOULANGE FONTOY BB – CSE FOLKLING
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ US BOULANGE
+  FONTOY BB vs CSE FOLKLING\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange
+  57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18/match/200000
+ 014651812
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651812
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-ges-moselle-poule-b-2026-11-29-18-00-fensch-basket-avenir-fba-cs
+ e-folklin@ffbb-agenda
+DTSTAMP:20260819T081206Z
+DTSTART;TZID=Europe/Paris:20261129T180000
+DTEND;TZID=Europe/Paris:20261129T200000
+SUMMARY:✈️ FENSCH BASKET AVENIR FBA – CSE FOLKLING
+DESCRIPTION:🏀 IDFU18 – GES – Moselle – Poule B\n⚔️ FENSCH BASK
+ ET AVENIR FBA vs CSE FOLKLING\n\nSALLE ALBERT BASSETTO\n📍 Rue de la Mos
+ elle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.34299\,6.04802&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18
+ /match/200000014651817
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18/match/200000014651817
+END:VEVENT
+END:VCALENDAR

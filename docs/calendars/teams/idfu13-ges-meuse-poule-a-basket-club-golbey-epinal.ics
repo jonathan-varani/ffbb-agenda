@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB GOLBEY EPINAL  [IDFU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB GOLBEY EPINAL – IDFU13 – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-19-15-30-us-silvange-basket-2-basket-c
+ lub-golbe@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20260919T153000
+DTEND;TZID=Europe/Paris:20260919T173000
+SUMMARY:✈️ US SILVANGE BASKET - 2 – BASKET CLUB GOLBEY EPINAL
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ US SILVANGE B
+ ASKET - 2 vs BASKET CLUB GOLBEY EPINAL\n\nCOSEC LA ROUSSE\n📍 Rue August
+ e Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21
+ 214\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compet
+ itions/idfu13/match/200000014616245
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616245
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-26-13-30-basket-club-golbey-epinal-bas
+ ket-all-s@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:🏠 BASKET CLUB GOLBEY EPINAL – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ BASKET CLUB G
+ OLBEY EPINAL vs BASKET ALL STAR MUSSIPONTAIN\n\nSALLE FERNAND DAVID\n📍 
+ Avenue de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.19073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616249
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616249
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-10-03-13-30-as-haut-du-lievre-nancy-baske
+ t-club-go@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY – BASKET CLUB GOLBEY EPINAL
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
+ EVRE  NANCY vs BASKET CLUB GOLBEY EPINAL\n\nGYMNASE BUFFON\n📍 Rue Domin
+ ique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.154
+ 11&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idf
+ u13/match/200000014616257
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616257
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-10-10-13-30-basket-club-golbey-epinal-slu
+ c-nancy-b@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:🏠 BASKET CLUB GOLBEY EPINAL – SLUC NANCY BASKET ASSOCIATION - 
+ 1
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ BASKET CLUB G
+ OLBEY EPINAL vs SLUC NANCY BASKET ASSOCIATION - 1\n\nSALLE FERNAND DAVID\n
+ 📍 Avenue de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com/ul
+ ?ll=48.19073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 55/competitions/idfu13/match/200000014616264
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616264
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-07-13-30-saint-die-vosges-basket-baske
+ t-club-go@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:✈️ SAINT DIE VOSGES BASKET – BASKET CLUB GOLBEY EPINAL
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ SAINT DIE VOS
+ GES BASKET vs BASKET CLUB GOLBEY EPINAL\n\nPALAIS OMNISP. J. CLAUDEL S. 1\
+ n📍 Rue du 12ème R.A. Prolongée Saint-Dié-des-Vosges 88100\n🚗 Waze
+  : https://waze.com/ul?ll=48.28424\,6.96799&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0055/competitions/idfu13/match/200000014616273
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616273
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-14-13-30-basket-club-golbey-epinal-ent
+ ente-gran@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261114T133000
+DTEND;TZID=Europe/Paris:20261114T153000
+SUMMARY:🏠 BASKET CLUB GOLBEY EPINAL – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ BASKET CLUB G
+ OLBEY EPINAL vs ENTENTE GRANGES GERARDMER\n\nSALLE FERNAND DAVID\n📍 Ave
+ nue de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com/ul?ll=48.1
+ 9073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/idfu13/match/200000014616279
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616279
+END:VEVENT
+END:VCALENDAR

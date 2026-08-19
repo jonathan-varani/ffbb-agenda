@@ -1,0 +1,331 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSE FOLKLING - 2  [IDF2 – GES – Poule B]
+X-WR-CALDESC:Matchs de CSE FOLKLING - 2 – IDF2 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2026-10-03-20-30-cse-folkling-2-cer
+ cle-sport@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 CSE FOLKLING - 2 – CERCLE SPORTIF MUNICIPAL AUBOUE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CS
+ E FOLKLING - 2 vs CERCLE SPORTIF MUNICIPAL AUBOUE\n\nGYMNASE MUNICIPAL\n
+ 📍 Rue du 6 Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/
+ ul?ll=49.14622\,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0054/competitions/idf2/match/200000014646340
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646340
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2026-10-10-20-30-us-boulange-fontoy
+ -bb-2-cse@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ US BOULANGE FONTOY BB - 2 – CSE FOLKLING - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ US
+  BOULANGE FONTOY BB - 2 vs CSE FOLKLING - 2\n\nSALLE PIERRE SCHEYER\n📍 
+ Rue Jean Burger Fontoy 57650\n🚗 Waze : https://waze.com/ul?ll=49.35787\
+ ,6.00094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/idf2/match/200000014646354
+LOCATION:SALLE PIERRE SCHEYER\, Rue Jean Burger Fontoy 57650
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646354
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2026-11-08-15-30-cse-folkling-2-bas
+ ket-all-s@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 CSE FOLKLING - 2 – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CS
+ E FOLKLING - 2 vs BASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE MUNICIPAL\n📍 
+ Rue du 6 Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll
+ =49.14622\,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646362
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646362
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2026-11-14-17-00-basket-club-longwy
+ -rehon-cs@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20261114T170000
+DTEND;TZID=Europe/Paris:20261114T190000
+SUMMARY:✈️ BASKET CLUB LONGWY REHON – CSE FOLKLING - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BA
+ SKET CLUB LONGWY REHON vs CSE FOLKLING - 2\n\nGYMNASE LEON BASSOMPIERRE\n
+ 📍 Rue Albert Legendre Longwy 54400\n🚗 Waze : https://waze.com/ul?ll=
+ 49.51894\,5.76872&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646376
+LOCATION:GYMNASE LEON BASSOMPIERRE\, Rue Albert Legendre Longwy 54400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646376
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2026-11-29-15-30-cse-folkling-2-asp
+ tt-metz-b@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 CSE FOLKLING - 2 – ASPTT METZ - BASKET
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CS
+ E FOLKLING - 2 vs ASPTT METZ - BASKET\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 
+ Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622
+ \,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competiti
+ ons/idf2/match/200000014646384
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646384
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2026-12-05-20-15-creutzwald-bc-cse-
+ folkling-@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20261205T201500
+DTEND;TZID=Europe/Paris:20261205T221500
+SUMMARY:✈️ CREUTZWALD BC – CSE FOLKLING - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CR
+ EUTZWALD BC vs CSE FOLKLING - 2\n\nGYMNASE DU BRECKELBERG\n📍 Square Geo
+ rges Bastide Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891
+ \,6.69796&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competiti
+ ons/idf2/match/200000014646397
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646397
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2026-12-13-15-30-cse-folkling-2-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:🏠 CSE FOLKLING - 2 – BASKET CLUB TUCQUENOIS
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CS
+ E FOLKLING - 2 vs BASKET CLUB TUCQUENOIS\n\nGYMNASE MUNICIPAL\n📍 Rue du
+  6 Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14
+ 622\,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compet
+ itions/idf2/match/200000014646406
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646406
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-01-09-20-30-as-joudreville-pie
+ nne-bouli@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ AS JOUDREVILLE PIENNE BOULIGNY – CSE FOLKLING - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ AS
+  JOUDREVILLE PIENNE BOULIGNY vs CSE FOLKLING - 2\n\nSALLE CESAR MARKUT\n
+ 📍 Rue Joliot-Curie Joudreville 54490\n🚗 Waze : https://waze.com/ul?l
+ l=49.29914\,5.78635&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054
+ /competitions/idf2/match/200000014646418
+LOCATION:SALLE CESAR MARKUT\, Rue Joliot-Curie Joudreville 54490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646418
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-01-17-15-30-cse-folkling-2-fen
+ sch-baske@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 CSE FOLKLING - 2 – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CS
+ E FOLKLING - 2 vs FENSCH BASKET AVENIR FBA\n\nGYMNASE MUNICIPAL\n📍 Rue 
+ du 6 Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.
+ 14622\,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idf2/match/200000014646428
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646428
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-01-24-11-00-cercle-sportif-mun
+ icipal-au@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270124T110000
+DTEND;TZID=Europe/Paris:20270124T130000
+SUMMARY:✈️ CERCLE SPORTIF MUNICIPAL AUBOUE – CSE FOLKLING - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CE
+ RCLE SPORTIF MUNICIPAL AUBOUE vs CSE FOLKLING - 2\n\nHALLE DES SPORTS MAUR
+ ICE PICHON\n📍 Place Albert Lebrun Auboué 54580\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.21117\,5.9751&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0054/competitions/idf2/match/200000014646451
+LOCATION:HALLE DES SPORTS MAURICE PICHON\, Place Albert Lebrun Auboué 5458
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646451
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-02-07-15-30-cse-folkling-2-us-
+ boulange-@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 CSE FOLKLING - 2 – US BOULANGE FONTOY BB - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CS
+ E FOLKLING - 2 vs US BOULANGE FONTOY BB - 2\n\nGYMNASE MUNICIPAL\n📍 Rue
+  du 6 Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49
+ .14622\,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646465
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646465
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-02-13-20-30-basket-all-star-mu
+ ssipontai@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ BASKET ALL STAR MUSSIPONTAIN – CSE FOLKLING - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BA
+ SKET ALL STAR MUSSIPONTAIN vs CSE FOLKLING - 2\n\nCENTRE DES SPORTS BERNAR
+ D GUY 1\n📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0054/competitions/idf2/match/200000014646473
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646473
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-03-14-15-30-cse-folkling-2-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 CSE FOLKLING - 2 – BASKET CLUB LONGWY REHON
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CS
+ E FOLKLING - 2 vs BASKET CLUB LONGWY REHON\n\nGYMNASE MUNICIPAL\n📍 Rue 
+ du 6 Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.
+ 14622\,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idf2/match/200000014646487
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646487
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-03-21-13-15-asptt-metz-basket-
+ cse-folkl@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270321T131500
+DTEND;TZID=Europe/Paris:20270321T151500
+SUMMARY:✈️ ASPTT METZ - BASKET – CSE FOLKLING - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ AS
+ PTT METZ - BASKET vs CSE FOLKLING - 2\n\nCOSEC DE QUEULEU\n📍 Rue de Tiv
+ oli Metz 57070\n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.19469&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2/match/
+ 200000014646495
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646495
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-04-03-20-30-cse-folkling-2-cre
+ utzwald-b@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 CSE FOLKLING - 2 – CREUTZWALD BC
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CS
+ E FOLKLING - 2 vs CREUTZWALD BC\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décem
+ bre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89
+ 305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/id
+ f2/match/200000014646508
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646508
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-04-10-20-30-basket-club-tucque
+ nois-cse-@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ BASKET CLUB TUCQUENOIS – CSE FOLKLING - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BA
+ SKET CLUB TUCQUENOIS vs CSE FOLKLING - 2\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/idf2/match/200000014646517
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646517
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-05-09-15-30-cse-folkling-2-as-
+ joudrevil@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:🏠 CSE FOLKLING - 2 – AS JOUDREVILLE PIENNE BOULIGNY
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CS
+ E FOLKLING - 2 vs AS JOUDREVILLE PIENNE BOULIGNY\n\nGYMNASE MUNICIPAL\n
+ 📍 Rue du 6 Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/
+ ul?ll=49.14622\,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0054/competitions/idf2/match/200000014646529
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646529
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-b-2027-05-22-20-30-fensch-basket-aven
+ ir-fba-cs@ffbb-agenda
+DTSTAMP:20260819T081104Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:✈️ FENSCH BASKET AVENIR FBA – CSE FOLKLING - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule B\n⚔️ FE
+ NSCH BASKET AVENIR FBA vs CSE FOLKLING - 2\n\nSALLE ALBERT BASSETTO\n📍 
+ Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.34
+ 299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compet
+ itions/idf2/match/200000014646539
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646539
+END:VEVENT
+END:VCALENDAR

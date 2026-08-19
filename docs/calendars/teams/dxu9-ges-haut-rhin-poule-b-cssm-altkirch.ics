@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSSM ALTKIRCH  [DXU9 – GES – Poule B]
+X-WR-CALDESC:Matchs de CSSM ALTKIRCH – DXU9 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-09-26-00-00-cssm-altkirch-asl-dessenhei
+ m-2@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 CSSM ALTKIRCH – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKIR
+ CH vs ASL DESSENHEIM - 2\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altkirch
+  68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/200000014
+ 560663
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560663
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-03-13-30-abc-lutterbach-cssm-altkirc
+ h@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:✈️ ABC LUTTERBACH – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERB
+ ACH vs CSSM ALTKIRCH\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach 68460\
+ n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/200000014560668
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560668
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-10-00-00-cssm-altkirch-asc-ste-afre-
+ riedishei@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 CSSM ALTKIRCH – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKIR
+ CH vs ASC STE AFRE RIEDISHEIM - 1\n\nLA PALESTRE\n📍 Chemin de Hirtzbach
+  Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/
+ 200000014560673
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560673
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-10-17-14-30-asc-saint-romain-reiningue-
+ cssm-altk@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261017T143000
+DTEND;TZID=Europe/Paris:20261017T163000
+SUMMARY:✈️ ASC SAINT ROMAIN REININGUE – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ ASC SAINT R
+ OMAIN REININGUE vs CSSM ALTKIRCH\n\nHALLE DES SPORTS\n📍 Rue des Pierres
+  Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/matc
+ h/200000014560678
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560678
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-14-13-30-basket-club-sierentz-cssm-a
+ ltkirch@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261114T133000
+DTEND;TZID=Europe/Paris:20261114T153000
+SUMMARY:✈️ BASKET CLUB SIERENTZ – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB
+  SIERENTZ vs CSSM ALTKIRCH\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas Si
+ erentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20
+ 0000014560688
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560688
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-11-21-00-00-cssm-altkirch-ie-ctc-thur-d
+ oller-bas@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 CSSM ALTKIRCH – IE - CTC THUR DOLLER BASKET CLUB - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKIR
+ CH vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nLA PALESTRE\n📍 Chemin de 
+ Hirtzbach Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23
+ 491&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dx
+ u9/match/200000014560693
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560693
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-05-00-00-basket-nord-sundgau-1-cssm-
+ altkirch@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 1 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ BASKET NORD
+  SUNDGAU - 1 vs CSSM ALTKIRCH\n\nPOLY ILLFURTH\n📍 Route de Spechbach Il
+ lfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20
+ 0000014560698
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560698
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-b-2026-12-12-00-00-cssm-altkirch-basket-club-3
+ -pays-1@ffbb-agenda
+DTSTAMP:20260819T081036Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 CSSM ALTKIRCH – BASKET-CLUB 3 PAYS - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule B\n⚔️ CSSM ALTKIR
+ CH vs BASKET-CLUB 3 PAYS - 1\n\nLA PALESTRE\n📍 Chemin de Hirtzbach Altk
+ irch 68130\n🚗 Waze : https://waze.com/ul?ll=47.6153\,7.23491&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000
+ 0014560703
+LOCATION:LA PALESTRE\, Chemin de Hirtzbach Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560703
+END:VEVENT
+END:VCALENDAR

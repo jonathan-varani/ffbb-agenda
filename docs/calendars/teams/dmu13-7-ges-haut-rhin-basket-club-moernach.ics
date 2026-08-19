@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB MOERNACH  [DMU13-7 – GES]
+X-WR-CALDESC:Matchs de BASKET CLUB MOERNACH – DMU13-7 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-7-ges-haut-rhin-2026-09-26-00-00-basket-club-moernach-blotzheim-r
+ egio-bask@ffbb-agenda
+DTSTAMP:20260819T081008Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH – BLOTZHEIM REGIO BASKET CLUB
+DESCRIPTION:🏀 DMU13-7 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH
+  vs BLOTZHEIM REGIO BASKET CLUB\n\nSALLE DE SPORT\n📍 Rue du Maréchal-F
+ errant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.2541
+ 6&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559759
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559759
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-7-ges-haut-rhin-2026-10-03-00-00-zillisheim-societe-sportive-bask
+ et-club-m@ffbb-agenda
+DTSTAMP:20260819T081008Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ZILLISHEIM SOCIETE SPORTIVE – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DMU13-7 – GES – Haut-Rhin\n⚔️ ZILLISHEIM SOCIETE S
+ PORTIVE vs BASKET CLUB MOERNACH\n\nSALLE POLYVALENTE\n📍 Rue de Didenhei
+ m Zillisheim 68720\n🚗 Waze : https://waze.com/ul?ll=47.70057\,7.2941&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-7/
+ match/200000014559764
+LOCATION:SALLE POLYVALENTE\, Rue de Didenheim Zillisheim 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559764
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-7-ges-haut-rhin-2026-10-10-00-00-basket-club-moernach-nbc-wintzen
+ heim@ffbb-agenda
+DTSTAMP:20260819T081008Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH – NBC WINTZENHEIM
+DESCRIPTION:🏀 DMU13-7 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH
+  vs NBC WINTZENHEIM\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Ferrant Moern
+ ach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-7/match/20
+ 0000014559769
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559769
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-7-ges-haut-rhin-2026-10-17-13-30-as-de-chalampe-basket-club-moern
+ ach@ffbb-agenda
+DTSTAMP:20260819T081008Z
+DTSTART;TZID=Europe/Paris:20261017T133000
+DTEND;TZID=Europe/Paris:20261017T153000
+SUMMARY:✈️ AS DE CHALAMPE – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DMU13-7 – GES – Haut-Rhin\n⚔️ AS DE CHALAMPE vs BA
+ SKET CLUB MOERNACH\n\nSALLE POLYVALENTE\n📍 Avenue de la Gare Chalampé 
+ 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-7/match/200000
+ 014559774
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559774
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-7-ges-haut-rhin-2026-11-07-00-00-basket-club-moernach-cs-saint-pp
+ -waldigho@ffbb-agenda
+DTSTAMP:20260819T081008Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH – CS SAINT PP WALDIGHOFFEN
+DESCRIPTION:🏀 DMU13-7 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH
+  vs CS SAINT PP WALDIGHOFFEN\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Ferr
+ ant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-7
+ /match/200000014559779
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559779
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-7-ges-haut-rhin-2026-11-14-16-30-asca-wittelsheim-basket-club-moe
+ rnach@ffbb-agenda
+DTSTAMP:20260819T081008Z
+DTSTART;TZID=Europe/Paris:20261114T163000
+DTEND;TZID=Europe/Paris:20261114T183000
+SUMMARY:✈️ ASCA WITTELSHEIM – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DMU13-7 – GES – Haut-Rhin\n⚔️ ASCA WITTELSHEIM vs 
+ BASKET CLUB MOERNACH\n\nSALLE AMELIE ZURCHER\n📍 Rue de la 2ème D.I.M. 
+ Wittelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.80135\,7.23869&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-7/
+ match/200000014559784
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559784
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-7-ges-haut-rhin-2026-11-21-00-00-basket-club-moernach-bc-st-georg
+ es-carspa@ffbb-agenda
+DTSTAMP:20260819T081008Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DMU13-7 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH
+  vs BC ST GEORGES CARSPACH - 2\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Fe
+ rrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13
+ -7/match/200000014559789
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559789
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-7-ges-haut-rhin-2026-12-05-00-00-basket-club-moernach-basket-club
+ -rosenau@ffbb-agenda
+DTSTAMP:20260819T081008Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BASKET CLUB MOERNACH – BASKET CLUB ROSENAU
+DESCRIPTION:🏀 DMU13-7 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH
+  vs BASKET CLUB ROSENAU\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Ferrant M
+ oernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-7/matc
+ h/200000014559797
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559797
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-7-ges-haut-rhin-2026-12-12-00-00-ie-ctc-de-l-ill-2-basket-club-mo
+ ernach@ffbb-agenda
+DTSTAMP:20260819T081008Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 2 – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DMU13-7 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 
+ 2 vs BASKET CLUB MOERNACH\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'Ill R
+ uelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-7/ma
+ tch/200000014559798
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-7/match/200000014559798
+END:VEVENT
+END:VCALENDAR

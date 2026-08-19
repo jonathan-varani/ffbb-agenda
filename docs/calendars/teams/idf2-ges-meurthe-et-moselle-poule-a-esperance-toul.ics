@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ESPERANCE TOUL  [IDF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de ESPERANCE TOUL – IDF2 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-09-26-20-30-basket-club-gondre
+ ville-esp@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20260926T203000
+DTEND;TZID=Europe/Paris:20260926T223000
+SUMMARY:✈️ BASKET CLUB GONDREVILLE – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs ESPERANCE TOUL\n\nSALLE POLYVALENTE\n📍 Rue de 
+ la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.69526\,
+ 5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competition
+ s/idf2/match/200000014646335
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646335
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-10-03-20-30-esperance-toul-ent
+ ente-spor@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 ESPERANCE TOUL – ENTENTE SPORTIVE THAON BASKET BALL (E.S. TH
+ AON BASKET BALL)
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL
+ )\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Metz Toul 54200\n
+ 🚗 Waze : https://waze.com/ul?ll=48.67875\,5.89363&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0054/competitions/idf2/match/200000014646346
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646346
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-10-17-18-00-la-valdajolaise-es
+ perance-t@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:✈️ LA VALDAJOLAISE – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs ESPERANCE TOUL\n\nSALLE MUNICIPALE SPORTS\n📍 Rue des O
+ euvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.92639\,6
+ .47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /idf2/match/200000014646361
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646361
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-07-20-30-esperance-toul-pag
+ ny-sur-me@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 ESPERANCE TOUL – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs PAGNY SUR MEUSE BC\n\nGYMNASE J et H BALSON\n📍 Place de
+  la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67875\
+ ,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/idf2/match/200000014646368
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646368
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-15-14-00-as-haut-du-lievre-
+ nancy-2-e@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261115T140000
+DTEND;TZID=Europe/Paris:20261115T160000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 2 – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ AS
+  HAUT DU LIEVRE  NANCY - 2 vs ESPERANCE TOUL\n\nGYMNASE BUFFON\n📍 Rue D
+ ominique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6
+ .15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /idf2/match/200000014646381
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646381
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-21-20-30-esperance-toul-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 ESPERANCE TOUL – BASKET CLUB THERMAL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs BASKET CLUB THERMAL\n\nGYMNASE J et H BALSON\n📍 Place d
+ e la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67875
+ \,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competiti
+ ons/idf2/match/200000014646390
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646390
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-29-15-30-effort-basket-mire
+ court-esp@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ EFFORT BASKET MIRECOURT – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EF
+ FORT BASKET MIRECOURT vs ESPERANCE TOUL\n\nSALLE CLAUDE HACQUARD\n📍 Rue
+  de Bonn-Buel Mirecourt 88500\n🚗 Waze : https://waze.com/ul?ll=48.29433
+ \,6.13292&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competiti
+ ons/idf2/match/200000014646404
+LOCATION:SALLE CLAUDE HACQUARD\, Rue de Bonn-Buel Mirecourt 88500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646404
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-12-05-20-30-esperance-toul-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 ESPERANCE TOUL – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs BASKET CLUB GIRONCOURT\n\nGYMNASE J et H BALSON\n📍 Plac
+ e de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67
+ 875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compet
+ itions/idf2/match/200000014646415
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646415
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-12-12-20-30-cos-villers-les-na
+ ncy-esper@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:✈️ COS VILLERS LES NANCY – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ CO
+ S VILLERS LES NANCY vs ESPERANCE TOUL\n\nSALLE GILBERT BAUVIN\n📍 Rue Ma
+ urice André Villers-lès-Nancy 54600\n🚗 Waze : https://waze.com/ul?ll=
+ 48.67362\,6.15439&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646426
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646426
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-16-20-30-esperance-toul-ent
+ ente-gran@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 ESPERANCE TOUL – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs ENTENTE GRANGES GERARDMER\n\nGYMNASE J et H BALSON\n📍 P
+ lace de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48
+ .67875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646442
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646442
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-23-20-30-esperance-toul-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:🏠 ESPERANCE TOUL – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs BASKET CLUB GONDREVILLE\n\nGYMNASE J et H BALSON\n📍 Pla
+ ce de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 7875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compe
+ titions/idf2/match/200000014646446
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646446
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-30-20-30-entente-sportive-t
+ haon-bask@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) 
+ – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EN
+ TENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) vs ESPERANCE TOU
+ L\n\nGYMNASE DE LA POSTE\n📍 Rue Thiers Thaon-les-Vosges 88150\n🚗 Waz
+ e : https://waze.com/ul?ll=48.25107\,6.42202&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/comites/0054/competitions/idf2/match/200000014646457
+LOCATION:GYMNASE DE LA POSTE\, Rue Thiers Thaon-les-Vosges 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646457
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-02-06-20-30-esperance-toul-la-
+ valdajola@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 ESPERANCE TOUL – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs LA VALDAJOLAISE\n\nGYMNASE J et H BALSON\n📍 Place de la
+  Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67875\,5.
+ 89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/
+ idf2/match/200000014646472
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646472
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-02-13-18-00-pagny-sur-meuse-bc
+ -esperanc@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270213T180000
+DTEND;TZID=Europe/Paris:20270213T200000
+SUMMARY:✈️ PAGNY SUR MEUSE BC – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ PA
+ GNY SUR MEUSE BC vs ESPERANCE TOUL\n\nSALLE DE SPORTS - LES CORVEES\n📍 
+ Allée des Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul
+ ?ll=48.69532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 54/competitions/idf2/match/200000014646479
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646479
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-13-20-30-esperance-toul-as-
+ haut-du-l@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 ESPERANCE TOUL – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs AS HAUT DU LIEVRE  NANCY - 2\n\nGYMNASE J et H BALSON\n
+ 📍 Place de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul
+ ?ll=48.67875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 54/competitions/idf2/match/200000014646492
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646492
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-20-20-30-basket-club-therma
+ l-esperan@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ BASKET CLUB THERMAL – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB THERMAL vs ESPERANCE TOUL\n\nCENTRE PREPARATION OLYMPIQUE\n📍 
+ Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/ul?ll=48.
+ 1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compe
+ titions/idf2/match/200000014646501
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646501
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-27-20-30-esperance-toul-eff
+ ort-baske@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:🏠 ESPERANCE TOUL – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs EFFORT BASKET MIRECOURT\n\nGYMNASE J et H BALSON\n📍 Pla
+ ce de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 7875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compe
+ titions/idf2/match/200000014646515
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646515
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-04-03-20-30-basket-club-gironc
+ ourt-espe@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ BASKET CLUB GIRONCOURT – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs ESPERANCE TOUL\n\nSALLE POLYVALENTE\n📍 Rue Jean
+ ne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646526
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646526
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-04-10-20-30-esperance-toul-cos
+ -villers-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 ESPERANCE TOUL – COS VILLERS LES NANCY
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs COS VILLERS LES NANCY\n\nGYMNASE J et H BALSON\n📍 Place
+  de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.678
+ 75\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/idf2/match/200000014646537
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646537
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-05-23-15-30-entente-granges-ge
+ rardmer-e@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270523T153000
+DTEND;TZID=Europe/Paris:20270523T173000
+SUMMARY:✈️ ENTENTE GRANGES GERARDMER – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EN
+ TENTE GRANGES GERARDMER vs ESPERANCE TOUL\n\nGYMNASE PIERRE ET PAUL DIDIER
+ \n📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=
+ 48.07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646553
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646553
+END:VEVENT
+END:VCALENDAR

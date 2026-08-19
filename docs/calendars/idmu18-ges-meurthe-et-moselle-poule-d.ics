@@ -1,0 +1,503 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IDMU18 – GES – Meurthe-et-Moselle – Poule D
+X-WR-CALDESC:Tous les matchs IDMU18 – GES – Meurthe-et-Moselle – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-09-19-18-00-fensch-basket-av
+ enir-fba-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:FENSCH BASKET AVENIR FBA – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ FENSCH BASKET AVENIR FBA vs LOISIRS SPORT MONTIGNY\n\nSALLE ALBERT BASSETT
+ O\n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?
+ ll=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/idmu18/match/200000014615445
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615445
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-09-19-18-00-district-basket-
+ rodemack-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:DISTRICT BASKET RODEMACK KANFEN (DBRK) – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ DISTRICT BASKET RODEMACK KANFEN (DBRK) vs ASP STE MARIE AUX CHENES\n\nESPA
+ CE OMNISPORTS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0054/competitions/idmu18/match/200000014615447
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615447
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-09-19-18-00-basket-club-haya
+ nge-marsp@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:BASKET CLUB HAYANGE MARSPICH – METZ BC - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ BASKET CLUB HAYANGE MARSPICH vs METZ BC - 2\n\nC.O.S.E.C.\n📍 Rue du 6 J
+ uin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.080
+ 47&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idm
+ u18/match/200000014615448
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615448
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-09-19-20-30-cse-folkling-us-
+ silvange-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20260919T203000
+DTEND;TZID=Europe/Paris:20260919T223000
+SUMMARY:CSE FOLKLING – US SILVANGE BASKET
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ CSE FOLKLING vs US SILVANGE BASKET\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Dé
+ cembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6
+ .89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /idmu18/match/200000014615446
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615446
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-09-26-17-00-asp-ste-marie-au
+ x-chenes-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20260926T170000
+DTEND;TZID=Europe/Paris:20260926T190000
+SUMMARY:ASP STE MARIE AUX CHENES – CSE FOLKLING
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ ASP STE MARIE AUX CHENES vs CSE FOLKLING\n\nGYMNASE BERTHELOT\n📍 Rue Be
+ rthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll
+ =49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615464
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615464
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-09-26-18-00-basket-club-haya
+ nge-marsp@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:BASKET CLUB HAYANGE MARSPICH – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ BASKET CLUB HAYANGE MARSPICH vs FENSCH BASKET AVENIR FBA\n\nC.O.S.E.C.\n
+ 📍 Rue du 6 Juin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=
+ 49.33796\,6.08047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615466
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615466
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-09-26-18-00-loisirs-sport-mo
+ ntigny-us@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:LOISIRS SPORT MONTIGNY – US SILVANGE BASKET
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ LOISIRS SPORT MONTIGNY vs US SILVANGE BASKET\n\nGYMNASE MERMOZ\n📍 Rue d
+ u 11ème Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul
+ ?ll=49.08585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 54/competitions/idmu18/match/200000014615465
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615465
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-09-26-18-00-metz-bc-2-distri
+ ct-basket@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:METZ BC - 2 – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ METZ BC - 2 vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nGYMNASE DE L'ARSE
+ NAL\n📍 Rue des Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=
+ 49.12403\,6.18341&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615463
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615463
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-10-03-18-00-district-basket-
+ rodemack-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:DISTRICT BASKET RODEMACK KANFEN (DBRK) – BASKET CLUB HAYANGE MARS
+ PICH
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ DISTRICT BASKET RODEMACK KANFEN (DBRK) vs BASKET CLUB HAYANGE MARSPICH\n\n
+ ESPACE OMNISPORTS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https:
+ //waze.com/ul?ll=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0054/competitions/idmu18/match/200000014615483
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615483
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-10-03-18-00-us-silvange-bask
+ et-fensch@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:US SILVANGE BASKET – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ US SILVANGE BASKET vs FENSCH BASKET AVENIR FBA\n\nCOSEC LA ROUSSE\n📍 Ru
+ e Auguste Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?
+ ll=49.21214\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/idmu18/match/200000014615484
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615484
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-10-03-18-00-loisirs-sport-mo
+ ntigny-as@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:LOISIRS SPORT MONTIGNY – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ LOISIRS SPORT MONTIGNY vs ASP STE MARIE AUX CHENES\n\nGYMNASE MERMOZ\n📍
+  Rue du 11ème Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.
+ com/ul?ll=49.08585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/idmu18/match/200000014615481
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615481
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-10-03-18-00-cse-folkling-met
+ z-bc-2@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:CSE FOLKLING – METZ BC - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ CSE FOLKLING vs METZ BC - 2\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 
+ 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu18
+ /match/200000014615482
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615482
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-10-10-17-00-asp-ste-marie-au
+ x-chenes-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261010T170000
+DTEND;TZID=Europe/Paris:20261010T190000
+SUMMARY:ASP STE MARIE AUX CHENES – US SILVANGE BASKET
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ ASP STE MARIE AUX CHENES vs US SILVANGE BASKET\n\nGYMNASE BERTHELOT\n📍 
+ Rue Berthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com
+ /ul?ll=49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/idmu18/match/200000014615501
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615501
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-10-10-18-00-metz-bc-2-loisir
+ s-sport-m@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:METZ BC - 2 – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ METZ BC - 2 vs LOISIRS SPORT MONTIGNY\n\nGYMNASE DE L'ARSENAL\n📍 Rue de
+ s Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.1834
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615500
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615500
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-10-10-18-00-fensch-basket-av
+ enir-fba-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:FENSCH BASKET AVENIR FBA – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ FENSCH BASKET AVENIR FBA vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nSALL
+ E ALBERT BASSETTO\n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : http
+ s://waze.com/ul?ll=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/idmu18/match/200000014615502
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615502
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-10-10-18-00-basket-club-haya
+ nge-marsp@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:BASKET CLUB HAYANGE MARSPICH – CSE FOLKLING
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ BASKET CLUB HAYANGE MARSPICH vs CSE FOLKLING\n\nC.O.S.E.C.\n📍 Rue du 6 
+ Juin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.08
+ 047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/id
+ mu18/match/200000014615499
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615499
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-07-15-00-asp-ste-marie-au
+ x-chenes-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:ASP STE MARIE AUX CHENES – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ ASP STE MARIE AUX CHENES vs FENSCH BASKET AVENIR FBA\n\nGYMNASE BERTHELOT\
+ n📍 Rue Berthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/idmu18/match/200000014615519
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615519
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-07-18-00-us-silvange-bask
+ et-metz-b@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:US SILVANGE BASKET – METZ BC - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ US SILVANGE BASKET vs METZ BC - 2\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Mig
+ ette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,
+ 6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competition
+ s/idmu18/match/200000014615520
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615520
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-07-18-00-cse-folkling-dis
+ trict-bas@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:CSE FOLKLING – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ CSE FOLKLING vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nGYMNASE MUNICIPA
+ L\n📍 Rue du 6 Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.c
+ om/ul?ll=49.14622\,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0054/competitions/idmu18/match/200000014615518
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615518
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-07-18-00-loisirs-sport-mo
+ ntigny-ba@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:LOISIRS SPORT MONTIGNY – BASKET CLUB HAYANGE MARSPICH
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ LOISIRS SPORT MONTIGNY vs BASKET CLUB HAYANGE MARSPICH\n\nGYMNASE MERMOZ\n
+ 📍 Rue du 11ème Régiment d'Aviation Marly 57155\n🚗 Waze : https://w
+ aze.com/ul?ll=49.08585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0054/competitions/idmu18/match/200000014615517
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615517
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-14-18-00-fensch-basket-av
+ enir-fba-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:FENSCH BASKET AVENIR FBA – CSE FOLKLING
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ FENSCH BASKET AVENIR FBA vs CSE FOLKLING\n\nSALLE ALBERT BASSETTO\n📍 Ru
+ e de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.3429
+ 9\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competit
+ ions/idmu18/match/200000014615538
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615538
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-14-18-00-metz-bc-2-asp-st
+ e-marie-a@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:METZ BC - 2 – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ METZ BC - 2 vs ASP STE MARIE AUX CHENES\n\nGYMNASE DE L'ARSENAL\n📍 Rue 
+ des Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18
+ 341&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/id
+ mu18/match/200000014615537
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615537
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-14-18-00-basket-club-haya
+ nge-marsp@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:BASKET CLUB HAYANGE MARSPICH – US SILVANGE BASKET
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ BASKET CLUB HAYANGE MARSPICH vs US SILVANGE BASKET\n\nC.O.S.E.C.\n📍 Rue
+  du 6 Juin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796
+ \,6.08047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competiti
+ ons/idmu18/match/200000014615536
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615536
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-14-18-00-district-basket-
+ rodemack-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:DISTRICT BASKET RODEMACK KANFEN (DBRK) – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ DISTRICT BASKET RODEMACK KANFEN (DBRK) vs LOISIRS SPORT MONTIGNY\n\nESPACE
+  OMNISPORTS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https://waze
+ .com/ul?ll=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/idmu18/match/200000014615535
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615535
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-21-17-00-asp-ste-marie-au
+ x-chenes-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261121T170000
+DTEND;TZID=Europe/Paris:20261121T190000
+SUMMARY:ASP STE MARIE AUX CHENES – BASKET CLUB HAYANGE MARSPICH
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ ASP STE MARIE AUX CHENES vs BASKET CLUB HAYANGE MARSPICH\n\nGYMNASE BERTHE
+ LOT\n📍 Rue Berthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https:
+ //waze.com/ul?ll=49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0054/competitions/idmu18/match/200000014615555
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615555
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-21-18-00-loisirs-sport-mo
+ ntigny-cs@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:LOISIRS SPORT MONTIGNY – CSE FOLKLING
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ LOISIRS SPORT MONTIGNY vs CSE FOLKLING\n\nGYMNASE MERMOZ\n📍 Rue du 11è
+ me Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49
+ .08585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idmu18/match/200000014615553
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615553
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-21-18-00-fensch-basket-av
+ enir-fba-@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:FENSCH BASKET AVENIR FBA – METZ BC - 2
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ FENSCH BASKET AVENIR FBA vs METZ BC - 2\n\nSALLE ALBERT BASSETTO\n📍 Rue
+  de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.34299
+ \,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competiti
+ ons/idmu18/match/200000014615554
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615554
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-d-2026-11-21-18-00-us-silvange-bask
+ et-distri@ffbb-agenda
+DTSTAMP:20260819T081141Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:US SILVANGE BASKET – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule D\n⚔️ 
+ US SILVANGE BASKET vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nCOSEC LA R
+ OUSSE\n📍 Rue Auguste Migette Marange-Silvange 57535\n🚗 Waze : https:
+ //waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0054/competitions/idmu18/match/200000014615556
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615556
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – S.I. GRAFFENSTADEN - 3  [PRM – GES – Poule B]
+X-WR-CALDESC:Matchs de S.I. GRAFFENSTADEN - 3 – PRM – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-09-26-00-00-duttlenheim-lc-1-s-i-graffens
+ taden-3@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ DUTTLENHEIM LC - 1 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM L
+ C - 1 vs S.I. GRAFFENSTADEN - 3\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade
+  Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56924&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/mat
+ ch/200000014642585
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642585
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-10-03-00-00-s-i-graffenstaden-3-geispolsh
+ eim-c-j-s@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – GEISPOLSHEIM C.J.S. - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs GEISPOLSHEIM C.J.S. - 3\n\nSALLE DE LA S.I.G.\n📍 Rue de la
+  Poste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48
+ .52678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/prm/match/200000014642590
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642590
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-10-10-00-00-schaeffersheim-a-s-l-c-2-s-i-
+ graffenst@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ SCHAEFFERSHEIM A.S.L.C. - 2 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ SCHAEFFERSHEI
+ M A.S.L.C. - 2 vs S.I. GRAFFENSTADEN - 3\n\nSALLE EUGENE MARTZ\n📍 Rue B
+ elle Vue Schaeffersheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.42801
+ \,7.61627&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/prm/match/200000014642595
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue Schaeffersheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642595
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-10-17-00-00-s-i-graffenstaden-3-erstein-b
+ c-1@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – ERSTEIN BC - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs ERSTEIN BC - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Il
+ lkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7
+ .71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /prm/match/200000014642600
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642600
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-11-14-00-00-saint-joseph-strasbourg-3-s-i
+ -graffens@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 3 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ SAINT JOSEPH 
+ - STRASBOURG - 3 vs S.I. GRAFFENSTADEN - 3\n\nCENTRE SPORTIF ESPLANADE\n
+ 📍 Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.5
+ 77\,7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/prm/match/200000014642611
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642611
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-11-21-00-00-s-i-graffenstaden-3-rosheim-c
+ a-2@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – ROSHEIM CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs ROSHEIM CA - 2\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Il
+ lkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7
+ .71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /prm/match/200000014642616
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642616
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-11-28-00-00-s-i-graffenstaden-3-ohnheim-c
+ -s-s-a-1@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – OHNHEIM C.S.S.A. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs OHNHEIM C.S.S.A. - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Po
+ ste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52
+ 678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/prm/match/200000014642623
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642623
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-12-05-00-00-eschau-bc-1-s-i-graffenstaden
+ -3@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ ESCHAU BC - 1 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ ESCHAU BC - 1
+  vs S.I. GRAFFENSTADEN - 3\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêt
+ es Eschau 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/match/20
+ 0000014642628
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642628
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-12-12-00-00-s-i-graffenstaden-3-soultz-le
+ s-bains-a@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – SOULTZ LES BAINS A.S.L. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs SOULTZ LES BAINS A.S.L. - 1\n\nSALLE DE LA S.I.G.\n📍 Rue d
+ e la Poste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?l
+ l=48.52678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067
+ /competitions/prm/match/200000014642633
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642633
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-12-19-00-00-ent-barrgert-epfig-1-s-i-graf
+ fenstaden@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:✈️ ENT-BARRGERT/EPFIG - 1 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ ENT-BARRGERT/
+ EPFIG - 1 vs S.I. GRAFFENSTADEN - 3\n\nHALL DU SIVOM\n📍 Rue du Lycée B
+ arr 67140\n🚗 Waze : https://waze.com/ul?ll=48.4098\,7.45794&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/match/2000000
+ 14642641
+LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642641
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-01-16-00-00-s-i-graffenstaden-3-westhouse
+ -e-s-1@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – WESTHOUSE E.S. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs WESTHOUSE E.S. - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Post
+ e Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.5267
+ 8\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/prm/match/200000014642647
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642647
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-01-23-00-00-s-i-graffenstaden-3-duttlenhe
+ im-lc-1@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – DUTTLENHEIM LC - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs DUTTLENHEIM LC - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Post
+ e Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.5267
+ 8\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/prm/match/200000014642651
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642651
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-01-30-00-00-geispolsheim-c-j-s-3-s-i-graf
+ fenstaden@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 3 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 3 vs S.I. GRAFFENSTADEN - 3\n\nCENTRE SPORTIF\n📍 Rue de la Por
+ te Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,
+ 7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/prm/match/200000014642656
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642656
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-02-06-00-00-s-i-graffenstaden-3-schaeffer
+ sheim-a-s@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – SCHAEFFERSHEIM A.S.L.C. - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs SCHAEFFERSHEIM A.S.L.C. - 2\n\nSALLE DE LA S.I.G.\n📍 Rue d
+ e la Poste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?l
+ l=48.52678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067
+ /competitions/prm/match/200000014642661
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642661
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-02-13-00-00-erstein-bc-1-s-i-graffenstade
+ n-3@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ ERSTEIN BC - 1 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ ERSTEIN BC - 
+ 1 vs S.I. GRAFFENSTADEN - 3\n\nGYMNASE MARGUERITE YOURCENAR\n📍 Rue Vict
+ or Schoelcher Erstein 67150\n🚗 Waze : https://waze.com/ul?ll=48.42265\,
+ 7.64994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/prm/match/200000014642666
+LOCATION:GYMNASE MARGUERITE YOURCENAR\, Rue Victor Schoelcher Erstein 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642666
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-03-13-00-00-s-i-graffenstaden-3-saint-jos
+ eph-stras@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – SAINT JOSEPH - STRASBOURG - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs SAINT JOSEPH - STRASBOURG - 3\n\nSALLE DE LA S.I.G.\n📍 Rue
+  de la Poste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul
+ ?ll=48.52678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 67/competitions/prm/match/200000014642677
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642677
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-03-20-00-00-rosheim-ca-2-s-i-graffenstade
+ n-3@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ ROSHEIM CA - 2 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ ROSHEIM CA - 
+ 2 vs S.I. GRAFFENSTADEN - 3\n\nSALLE MUNICIPALE\n📍 Rue de l'Église Ros
+ heim 67560\n🚗 Waze : https://waze.com/ul?ll=48.49418\,7.46665&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/match/20000
+ 0014642682
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642682
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-03-27-00-00-ohnheim-c-s-s-a-1-s-i-graffen
+ staden-3@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ OHNHEIM C.S.S.A. - 1 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ OHNHEIM C.S.S
+ .A. - 1 vs S.I. GRAFFENSTADEN - 3\n\nCENTRE SPORTIF ET CULTUREL\n📍 Plac
+ e des Fêtes Fegersheim 67640\n🚗 Waze : https://waze.com/ul?ll=48.49126
+ \,7.68302&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/prm/match/200000014642689
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642689
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-04-10-00-00-s-i-graffenstaden-3-eschau-bc
+ -1@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – ESCHAU BC - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs ESCHAU BC - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Ill
+ kirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.
+ 71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ prm/match/200000014642694
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642694
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-05-01-00-00-soultz-les-bains-a-s-l-1-s-i-
+ graffenst@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270501T000000
+DTEND;TZID=Europe/Paris:20270501T020000
+SUMMARY:✈️ SOULTZ LES BAINS A.S.L. - 1 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ SOULTZ LES BA
+ INS A.S.L. - 1 vs S.I. GRAFFENSTADEN - 3\n\nSALLE POLYVALENTE\n📍 Rue de
+  Saverne Soultz-les-Bains 67120\n🚗 Waze : https://waze.com/ul?ll=48.573
+ 92\,7.48501&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/prm/match/200000014642699
+LOCATION:SALLE POLYVALENTE\, Rue de Saverne Soultz-les-Bains 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642699
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-05-15-00-00-s-i-graffenstaden-3-ent-barrg
+ ert-epfig@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – ENT-BARRGERT/EPFIG - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAFFENS
+ TADEN - 3 vs ENT-BARRGERT/EPFIG - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la 
+ Poste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.
+ 52678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/prm/match/200000014642707
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642707
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-05-22-00-00-westhouse-e-s-1-s-i-graffenst
+ aden-3@ffbb-agenda
+DTSTAMP:20260819T080642Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:✈️ WESTHOUSE E.S. - 1 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ WESTHOUSE E.S
+ . - 1 vs S.I. GRAFFENSTADEN - 3\n\nSALLE POLYVALENTE\n📍 Rue du Stade We
+ sthouse 67230\n🚗 Waze : https://waze.com/ul?ll=48.40179\,7.58972&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/match/20
+ 0000014642713
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Westhouse 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014642713
+END:VEVENT
+END:VCALENDAR

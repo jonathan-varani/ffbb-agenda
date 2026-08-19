@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS ATTENSCHWILLER  [DM4 – GES – Poule B]
+X-WR-CALDESC:Matchs de AS ATTENSCHWILLER – DM4 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-09-26-20-00-as-attenschwiller-ie-ctc-jur
+ a-alsacie@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:🏠 AS ATTENSCHWILLER – IE - CTC JURA ALSACIEN BASKET - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs IE - CTC JURA ALSACIEN BASKET - 3\n\nSALLE POLYVALENTE\n📍 Rue 
+ Charles de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll
+ =47.56918\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dm4/match/200000014559089
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559089
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-10-03-00-00-union-sportive-flaxlanden-3-
+ as-attens@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ UNION SPORTIVE FLAXLANDEN - 3 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN - 3 vs AS ATTENSCHWILLER\n\nSALLE DE SPORT\n📍 Allée des 
+ Noyers Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?ll=47.69174\,7.32
+ 584&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ 4/match/200000014559094
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559094
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-10-17-20-00-as-attenschwiller-abc-lutter
+ bach-3@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:🏠 AS ATTENSCHWILLER – ABC LUTTERBACH - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs ABC LUTTERBACH - 3\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gaul
+ le Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.45
+ 741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ 4/match/200000014559099
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559099
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-07-00-00-ie-ctc-de-l-ill-3-as-attensc
+ hwiller@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 3 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC DE 
+ L'ILL - 3 vs AS ATTENSCHWILLER\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'
+ Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/m
+ atch/200000014559104
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559104
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-14-16-00-as-attenschwiller-basket-clu
+ b-rosenau@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 AS ATTENSCHWILLER – BASKET CLUB ROSENAU - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs BASKET CLUB ROSENAU - 2\n\nSALLE POLYVALENTE\n📍 Rue Charles de
+  Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\
+ ,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dm4/match/200000014559109
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559109
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-21-20-00-as-attenschwiller-richwiller
+ -union-sp@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261121T200000
+DTEND;TZID=Europe/Paris:20261121T220000
+SUMMARY:🏠 AS ATTENSCHWILLER – RICHWILLER UNION SPORTIVE - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs RICHWILLER UNION SPORTIVE - 2\n\nSALLE POLYVALENTE\n📍 Rue Char
+ les de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.
+ 56918\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dm4/match/200000014559116
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559116
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-12-05-20-30-basket-club-sierentz-as-atte
+ nschwille@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ BASKET CLUB SIERENTZ – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs AS ATTENSCHWILLER\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas
+  Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/
+ 200000014559118
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559118
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-12-12-00-00-as-attenschwiller-basket-and
+ olsheim@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 AS ATTENSCHWILLER – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs BASKET ANDOLSHEIM\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gaull
+ e Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.457
+ 41&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4
+ /match/200000014559122
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559122
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-01-16-00-00-basket-club-ribeauville-as-a
+ ttenschwi@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ BASKET CLUB RIBEAUVILLE – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ RIBEAUVILLE vs AS ATTENSCHWILLER\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/dm4/match/200000014559128
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559128
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-01-23-00-00-ie-ctc-jura-alsacien-basket-
+ 3-as-atte@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 3 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC JUR
+ A ALSACIEN BASKET - 3 vs AS ATTENSCHWILLER\n\nGYMNASE DU COLLEGE\n📍 Rue
+  Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144
+ \,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dm4/match/200000014559134
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559134
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-02-06-20-00-as-attenschwiller-union-spor
+ tive-flax@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 AS ATTENSCHWILLER – UNION SPORTIVE FLAXLANDEN - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs UNION SPORTIVE FLAXLANDEN - 3\n\nSALLE POLYVALENTE\n📍 Rue Char
+ les de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.
+ 56918\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dm4/match/200000014559139
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559139
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-02-14-09-00-abc-lutterbach-3-as-attensch
+ willer@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270214T090000
+DTEND;TZID=Europe/Paris:20270214T110000
+SUMMARY:✈️ ABC LUTTERBACH - 3 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERBA
+ CH - 3 vs AS ATTENSCHWILLER\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach
+  68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/200000014
+ 559144
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559144
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-03-13-20-00-as-attenschwiller-ie-ctc-de-
+ l-ill-3@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 AS ATTENSCHWILLER – IE - CTC DE L'ILL - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs IE - CTC DE L'ILL - 3\n\nSALLE POLYVALENTE\n📍 Rue Charles de G
+ aulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7
+ .45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dm4/match/200000014559149
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559149
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-03-20-00-00-basket-club-rosenau-2-as-att
+ enschwill@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ BASKET CLUB ROSENAU - 2 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ ROSENAU - 2 vs AS ATTENSCHWILLER\n\nSALLE DES SPORTS L'ESCALE\n📍 Rosena
+ u 68128\n🚗 Waze : https://waze.com/ul?ll=47.63686\,7.53491&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000001
+ 4559154
+LOCATION:SALLE DES SPORTS L'ESCALE\, Rosenau 68128
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559154
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-04-03-20-00-richwiller-union-sportive-2-
+ as-attens@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:✈️ RICHWILLER UNION SPORTIVE - 2 – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE - 2 vs AS ATTENSCHWILLER\n\nSALLE JEAN-MARIE PFEFFER\n📍 R
+ ue de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78
+ 251\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/dm4/match/200000014559161
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559161
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-04-10-20-00-as-attenschwiller-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 AS ATTENSCHWILLER – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs BASKET CLUB SIERENTZ\n\nSALLE POLYVALENTE\n📍 Rue Charles de Ga
+ ulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.
+ 45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dm4/match/200000014559163
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559163
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-05-09-10-30-basket-andolsheim-as-attensc
+ hwiller@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270509T103000
+DTEND;TZID=Europe/Paris:20270509T123000
+SUMMARY:✈️ BASKET ANDOLSHEIM – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs AS ATTENSCHWILLER\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar Fort
+ schwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20
+ 0000014559167
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559167
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-05-15-20-00-as-attenschwiller-basket-clu
+ b-ribeauv@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270515T200000
+DTEND;TZID=Europe/Paris:20270515T220000
+SUMMARY:🏠 AS ATTENSCHWILLER – BASKET CLUB RIBEAUVILLE
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs BASKET CLUB RIBEAUVILLE\n\nSALLE POLYVALENTE\n📍 Rue Charles de
+  Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\
+ ,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dm4/match/200000014559173
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559173
+END:VEVENT
+END:VCALENDAR

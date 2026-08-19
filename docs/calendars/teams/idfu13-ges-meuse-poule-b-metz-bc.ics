@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – METZ BC  [IDFU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de METZ BC – IDFU13 – GES – Meuse – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-09-19-14-00-asc-charny-sur-meuse-metz-bc@
+ ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE – METZ BC
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ ASC CHARNY SU
+ R MEUSE vs METZ BC\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Moulin 
+ Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.21061\,5.364
+ 86&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idf
+ u13/match/200000014616248
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616248
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-09-26-13-30-metz-bc-basket-club-longwy-re
+ hon@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:🏠 METZ BC – BASKET CLUB LONGWY REHON
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ METZ BC vs BA
+ SKET CLUB LONGWY REHON\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz
+  57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu13/match/200000
+ 014616253
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616253
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-10-10-16-00-sluc-nancy-basket-association
+ -2-metz-b@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – METZ BC
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 2 vs METZ BC\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du C
+ apitaine Guynemer Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.69975
+ \,6.13996&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competiti
+ ons/idfu13/match/200000014616260
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616260
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-11-07-13-30-metz-bc-asp-ste-marie-aux-che
+ nes@ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:🏠 METZ BC – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ METZ BC vs AS
+ P STE MARIE AUX CHENES\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz
+  57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu13/match/200000
+ 014616269
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616269
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-b-2026-11-14-13-00-us-silvange-basket-1-metz-bc@
+ ffbb-agenda
+DTSTAMP:20260819T081149Z
+DTSTART;TZID=Europe/Paris:20261114T130000
+DTEND;TZID=Europe/Paris:20261114T150000
+SUMMARY:✈️ US SILVANGE BASKET - 1 – METZ BC
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule B\n⚔️ US SILVANGE B
+ ASKET - 1 vs METZ BC\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-
+ Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu13/matc
+ h/200000014616276
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616276
+END:VEVENT
+END:VCALENDAR

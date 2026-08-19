@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – RICHWILLER UNION SPORTIVE  [DMU18-7 – GES]
+X-WR-CALDESC:Matchs de RICHWILLER UNION SPORTIVE – DMU18-7 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-09-26-00-00-basket-nord-sundgau-3-richwiller
+ -union-sp@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 3 – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 3 vs RICHWILLER UNION SPORTIVE\n\nPOLY ILLFURTH\n📍 Route de Spechbach
+  Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/ma
+ tch/200000014560593
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560593
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-03-17-45-richwiller-union-sportive-colmar
+ -basket-4@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261003T174500
+DTEND;TZID=Europe/Paris:20261003T194500
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – COLMAR BASKET - 4
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ RICHWILLER UNION SPO
+ RTIVE vs COLMAR BASKET - 4\n\nSALLE JEAN-MARIE PFEFFER\n📍 Rue de la For
+ êt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78251\,7.27582
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18
+ -7/match/200000014560597
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560597
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-10-00-00-ie-ctc-jura-alsacien-basket-2-ri
+ chwiller-@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 2 – RICHWILLER UNION SPORT
+ IVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACI
+ EN BASKET - 2 vs RICHWILLER UNION SPORTIVE\n\nGYMNASE DU COLLEGE\n📍 Rue
+  Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144
+ \,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu18-7/match/200000014560599
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560599
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-07-16-00-richwiller-union-sportive-as-att
+ enschwill@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – AS ATTENSCHWILLER - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ RICHWILLER UNION SPO
+ RTIVE vs AS ATTENSCHWILLER - 2\n\nSALLE JEAN-MARIE PFEFFER\n📍 Rue de la
+  Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78251\,7.2
+ 7582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ mu18-7/match/200000014560603
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560603
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-14-18-00-richwiller-union-sportive-ie-ctc
+ -thur-dol@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – IE - CTC THUR DOLLER BASKET CLUB
+  - 3
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ RICHWILLER UNION SPO
+ RTIVE vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nSALLE JEAN-MARIE PFEFFER\
+ n📍 Rue de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?l
+ l=47.78251\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/dmu18-7/match/200000014560608
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560608
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-28-00-00-bc-st-georges-carspach-2-richwil
+ ler-union@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ BC ST GEORGES CARSPACH - 2 – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPA
+ CH - 2 vs RICHWILLER UNION SPORTIVE\n\nGYMNASE PLESSIER\n📍 Avenue du 8
+ ème Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul
+ ?ll=47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/dmu18-7/match/200000014560611
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560611
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-12-12-00-00-bc-kunheim-richwiller-union-spor
+ tive@ffbb-agenda
+DTSTAMP:20260819T080918Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ BC KUNHEIM – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ BC KUNHEIM vs RICHWI
+ LLER UNION SPORTIVE\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 6832
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/20000001
+ 4560615
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560615
+END:VEVENT
+END:VCALENDAR

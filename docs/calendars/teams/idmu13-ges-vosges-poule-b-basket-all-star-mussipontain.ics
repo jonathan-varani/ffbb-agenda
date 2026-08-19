@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET ALL STAR MUSSIPONTAIN  [IDMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET ALL STAR MUSSIPONTAIN – IDMU13 – GES – Vosges – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-09-19-14-00-basket-all-star-mussipontain
+ -basket-c@ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:🏠 BASKET ALL STAR MUSSIPONTAIN – BASKET CLUB GOLBEY EPINAL - 1
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ BASKET ALL S
+ TAR MUSSIPONTAIN vs BASKET CLUB GOLBEY EPINAL - 1\n\nCENTRE DES SPORTS BER
+ NARD GUY 1\n📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze 
+ : https://waze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ ligues/ges/comites/0088/competitions/idmu13/match/200000014626275
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626275
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-09-26-14-00-metz-bc-basket-all-star-muss
+ ipontain@ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20260926T140000
+DTEND;TZID=Europe/Paris:20260926T160000
+SUMMARY:✈️ METZ BC – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ METZ BC vs B
+ ASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts
+  Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu13/match/2
+ 00000014626287
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626287
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-10-10-14-00-basket-all-star-mussipontain
+ -asc-char@ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 BASKET ALL STAR MUSSIPONTAIN – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ BASKET ALL S
+ TAR MUSSIPONTAIN vs ASC CHARNY SUR MEUSE\n\nCENTRE DES SPORTS BERNARD GUY 
+ 1\n📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0088/competitions/idmu13/match/200000014626297
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626297
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-11-07-16-00-sluc-nancy-basket-associatio
+ n-2-baske@ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – BASKET ALL STAR MUSSIP
+ ONTAIN
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ SLUC NANCY B
+ ASKET ASSOCIATION - 2 vs BASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE LOUIS ARM
+ AND\n📍 Rue des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?
+ ll=48.67025\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/008
+ 8/competitions/idmu13/match/200000014626309
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626309
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu13-ges-vosges-poule-b-2026-11-14-14-00-basket-all-star-mussipontain
+ -basket-c@ffbb-agenda
+DTSTAMP:20260819T081220Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 BASKET ALL STAR MUSSIPONTAIN – BASKET CLUB LONGWY REHON - 1
+DESCRIPTION:🏀 IDMU13 – GES – Vosges – Poule B\n⚔️ BASKET ALL S
+ TAR MUSSIPONTAIN vs BASKET CLUB LONGWY REHON - 1\n\nCENTRE DES SPORTS BERN
+ ARD GUY 1\n📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze :
+  https://waze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0088/competitions/idmu13/match/200000014626319
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idmu
+ 13/match/200000014626319
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS WICKERSCHWIHR  [DF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de AS WICKERSCHWIHR – DF2 – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-19-00-00-ie-ctc-thur-doller-basket-cl
+ ub-3-as-w@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 3 – AS WICKERSCHWIHR
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 3 vs AS WICKERSCHWIHR\n\nCOMPLEXE GAUGLER (GRANDE S
+ ALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : https:/
+ /waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0068/competitions/df2/match/200000014558200
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558200
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-26-00-00-as-wickerschwihr-ie-ctc-jura
+ -alsacien@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 AS WICKERSCHWIHR – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ AS WICKERSCH
+ WIHR vs IE - CTC JURA ALSACIEN BASKET - 2\n\nCOSEC FORTSCHWIHR\n📍 Route
+  de Colmar Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\
+ ,7.44137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/df2/match/200000014558204
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558204
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-10-10-00-00-bc-kunheim-as-wickerschwihr@
+ ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BC KUNHEIM – AS WICKERSCHWIHR
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM v
+ s AS WICKERSCHWIHR\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320
+ \n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0068/competitions/df2/match/200000014558210
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558210
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-07-00-00-as-wickerschwihr-basket-club
+ -illzach@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 AS WICKERSCHWIHR – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ AS WICKERSCH
+ WIHR vs BASKET CLUB ILLZACH\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar For
+ tschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/match/2
+ 00000014558214
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558214
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-14-18-30-asca-wittelsheim-as-wickersc
+ hwihr@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261114T183000
+DTEND;TZID=Europe/Paris:20261114T203000
+SUMMARY:✈️ ASCA WITTELSHEIM – AS WICKERSCHWIHR
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASCA WITTELS
+ HEIM vs AS WICKERSCHWIHR\n\nSALLE AMELIE ZURCHER\n📍 Rue de la 2ème D.I
+ .M. Wittelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.80135\,7.2386
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558216
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558216
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-05-00-00-as-wickerschwihr-asc-saint-r
+ omain-rei@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 AS WICKERSCHWIHR – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ AS WICKERSCH
+ WIHR vs ASC SAINT ROMAIN REININGUE\n\nCOSEC FORTSCHWIHR\n📍 Route de Col
+ mar Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.4413
+ 7&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558220
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558220
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-12-00-00-as-wickerschwihr-asc-ste-afr
+ e-riedish@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 AS WICKERSCHWIHR – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ AS WICKERSCH
+ WIHR vs ASC STE AFRE RIEDISHEIM - 2\n\nCOSEC FORTSCHWIHR\n📍 Route de Co
+ lmar Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.441
+ 37&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2
+ /match/200000014558226
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558226
+END:VEVENT
+END:VCALENDAR

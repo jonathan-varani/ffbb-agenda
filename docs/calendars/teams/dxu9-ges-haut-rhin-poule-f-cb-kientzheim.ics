@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CB KIENTZHEIM  [DXU9 – GES – Poule F]
+X-WR-CALDESC:Matchs de CB KIENTZHEIM – DXU9 – GES – Haut-Rhin – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-09-26-00-00-ie-ctc-de-l-ill-2-cb-kientz
+ heim@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 2 – CB KIENTZHEIM
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ IE - CTC DE
+  L'ILL - 2 vs CB KIENTZHEIM\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'Ill
+  Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/mat
+ ch/200000014560845
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560845
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-10-03-00-00-cb-kientzheim-csc-rustenhar
+ t@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 CB KIENTZHEIM – CSC RUSTENHART
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ CB KIENTZHE
+ IM vs CSC RUSTENHART\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kaysersber
+ g Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match
+ /200000014560849
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560849
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-10-10-15-00-colmar-basket-3-cb-kientzhe
+ im@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261010T150000
+DTEND;TZID=Europe/Paris:20261010T170000
+SUMMARY:✈️ COLMAR BASKET - 3 – CB KIENTZHEIM
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ COLMAR BASK
+ ET - 3 vs CB KIENTZHEIM\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar
+  68000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000001
+ 4560853
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560853
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-10-17-00-00-cb-kientzheim-as-horbourg-w
+ ihr@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 CB KIENTZHEIM – AS HORBOURG-WIHR
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ CB KIENTZHE
+ IM vs AS HORBOURG-WIHR\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kaysersb
+ erg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/mat
+ ch/200000014560861
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560861
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-11-07-00-00-guebwiller-as-saint-leger-2
+ -cb-kient@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 2 – CB KIENTZHEIM
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ GUEBWILLER 
+ AS SAINT LEGER - 2 vs CB KIENTZHEIM\n\nGYMNASE THEODORE DECK\n📍 Rue Th
+ éodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723
+ \,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dxu9/match/200000014560867
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560867
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-11-14-00-00-bc-kunheim-cb-kientzheim@ff
+ bb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BC KUNHEIM – CB KIENTZHEIM
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ BC KUNHEIM 
+ vs CB KIENTZHEIM\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\n
+ 🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/200000014560870
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560870
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-12-05-00-00-cb-kientzheim-fcsl-eguishei
+ m-3@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 CB KIENTZHEIM – FCSL EGUISHEIM - 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ CB KIENTZHE
+ IM vs FCSL EGUISHEIM - 3\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kayser
+ sberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/m
+ atch/200000014560880
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560880
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-12-12-00-00-cb-kientzheim-fcsl-eguishei
+ m-2@ffbb-agenda
+DTSTAMP:20260819T081051Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 CB KIENTZHEIM – FCSL EGUISHEIM - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ CB KIENTZHE
+ IM vs FCSL EGUISHEIM - 2\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège Kayser
+ sberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,7.2614&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/m
+ atch/200000014560885
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560885
+END:VEVENT
+END:VCALENDAR

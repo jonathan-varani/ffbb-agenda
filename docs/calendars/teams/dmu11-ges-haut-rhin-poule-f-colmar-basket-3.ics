@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – COLMAR BASKET - 3  [DMU11 – GES – Poule F]
+X-WR-CALDESC:Matchs de COLMAR BASKET - 3 – DMU11 – GES – Haut-Rhin – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-09-26-15-00-colmar-basket-3-richwiller
+ -union-sp@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:🏠 COLMAR BASKET - 3 – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ COLMAR BAS
+ KET - 3 vs RICHWILLER UNION SPORTIVE\n\nGYMNASE PFEFFEL\n📍 Rue de la Ba
+ gatelle Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11
+ /match/200000014559494
+LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559494
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-10-03-00-00-csc-rustenhart-2-colmar-ba
+ sket-3@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ CSC RUSTENHART - 2 – COLMAR BASKET - 3
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ CSC RUSTEN
+ HART - 2 vs COLMAR BASKET - 3\n\nSALLE POLYVALENTE\n📍 Rue des Violettes
+  Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/matc
+ h/200000014559499
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559499
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-10-17-15-00-fcsl-eguisheim-2-colmar-ba
+ sket-3@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261017T150000
+DTEND;TZID=Europe/Paris:20261017T170000
+SUMMARY:✈️ FCSL EGUISHEIM - 2 – COLMAR BASKET - 3
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ FCSL EGUIS
+ HEIM - 2 vs COLMAR BASKET - 3\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de H
+ interzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,
+ 7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dmu11/match/200000014559509
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559509
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-11-07-18-00-colmar-basket-3-asca-witte
+ lsheim@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:🏠 COLMAR BASKET - 3 – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ COLMAR BAS
+ KET - 3 vs ASCA WITTELSHEIM\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Co
+ lmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/200
+ 000014559514
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559514
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-11-14-14-00-colmar-basket-3-nbc-wintze
+ nheim@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 COLMAR BASKET - 3 – NBC WINTZENHEIM
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ COLMAR BAS
+ KET - 3 vs NBC WINTZENHEIM\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe
+  Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/
+ 200000014559521
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559521
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-11-21-00-00-zillisheim-societe-sportiv
+ e-colmar-@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ ZILLISHEIM SOCIETE SPORTIVE – COLMAR BASKET - 3
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ ZILLISHEIM
+  SOCIETE SPORTIVE vs COLMAR BASKET - 3\n\nSALLE POLYVALENTE\n📍 Rue de D
+ idenheim Zillisheim 68720\n🚗 Waze : https://waze.com/ul?ll=47.70057\,7.
+ 2941&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ mu11/match/200000014559523
+LOCATION:SALLE POLYVALENTE\, Rue de Didenheim Zillisheim 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559523
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-f-2026-12-12-00-00-ie-ctc-thur-doller-basket-
+ club-4-co@ffbb-agenda
+DTSTAMP:20260819T081029Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 4 – COLMAR BASKET - 3
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule F\n⚔️ IE - CTC T
+ HUR DOLLER BASKET CLUB - 4 vs COLMAR BASKET - 3\n\nCENTRE SPORTIF BOURGER\
+ n📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : https://waze.c
+ om/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0068/competitions/dmu11/match/200000014559533
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559533
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASCA WITTELSHEIM  [DFU13-2 – GES]
+X-WR-CALDESC:Matchs de ASCA WITTELSHEIM – DFU13-2 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-26-15-45-asca-wittelsheim-berrwiller-staf
+ felfelden@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20260926T154500
+DTEND;TZID=Europe/Paris:20260926T174500
+SUMMARY:🏠 ASCA WITTELSHEIM – BERRWILLER/STAFFELFELDEN BC - 4
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ ASCA WITTELSHEIM vs 
+ BERRWILLER/STAFFELFELDEN BC - 4\n\nSALLE AMELIE ZURCHER\n📍 Rue de la 2
+ ème D.I.M. Wittelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.80135
+ \,7.23869&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu13-2/match/200000014558446
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558446
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-03-15-30-cs-saint-pp-waldighoffen-asca-wi
+ ttelsheim@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:✈️ CS SAINT PP WALDIGHOFFEN – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHO
+ FFEN vs ASCA WITTELSHEIM\n\nSALLE NATHAN KATZ\n📍 Rue des Écoles Waldig
+ hofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31429&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/
+ 200000014558451
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558451
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-11-16-00-asca-wittelsheim-cssl-sausheim-2
+ @ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261011T160000
+DTEND;TZID=Europe/Paris:20261011T180000
+SUMMARY:🏠 ASCA WITTELSHEIM – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ ASCA WITTELSHEIM vs 
+ CSSL SAUSHEIM - 2\n\nSALLE AMELIE ZURCHER\n📍 Rue de la 2ème D.I.M. Wit
+ telsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.80135\,7.23869&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/mat
+ ch/200000014558454
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558454
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-01-13-30-fcsl-eguisheim-asca-wittelsheim@
+ ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261101T133000
+DTEND;TZID=Europe/Paris:20261101T153000
+SUMMARY:✈️ FCSL EGUISHEIM – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM vs AS
+ CA WITTELSHEIM\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinterzarten Egu
+ isheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31428&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match
+ /200000014558462
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558462
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-07-00-00-ie-ctc-de-l-ill-2-asca-wittelshe
+ im@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 2 – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 
+ 2 vs ASCA WITTELSHEIM\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors 
+ Wittenheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.81142\,7.32895&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/m
+ atch/200000014558459
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors Wittenheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558459
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-28-14-00-asca-wittelsheim-as-de-chalampe@
+ ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 ASCA WITTELSHEIM – AS DE CHALAMPE
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ ASCA WITTELSHEIM vs 
+ AS DE CHALAMPE\n\nSALLE PIERRE ALBOUY\n📍 Rue de Reiningue Wittelsheim 6
+ 8310\n🚗 Waze : https://waze.com/ul?ll=47.79763\,7.23188&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/match/2000000
+ 14558468
+LOCATION:SALLE PIERRE ALBOUY\, Rue de Reiningue Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558468
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-12-12-00-00-bc-st-georges-carspach-asca-witt
+ elsheim@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ BC ST GEORGES CARSPACH – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPA
+ CH vs ASCA WITTELSHEIM\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Régiment
+  de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47.62416\,
+ 7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dfu13-2/match/200000014558472
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558472
+END:VEVENT
+END:VCALENDAR

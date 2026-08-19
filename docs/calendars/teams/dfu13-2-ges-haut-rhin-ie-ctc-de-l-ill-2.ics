@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC DE L'ILL - 2  [DFU13-2 – GES]
+X-WR-CALDESC:Matchs de IE - CTC DE L'ILL - 2 – DFU13-2 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-09-27-13-30-fcsl-eguisheim-ie-ctc-de-l-ill-2
+ @ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20260927T133000
+DTEND;TZID=Europe/Paris:20260927T153000
+SUMMARY:✈️ FCSL EGUISHEIM – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM vs IE
+  - CTC DE L'ILL - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinterzarte
+ n Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31428&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/
+ match/200000014558449
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558449
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-03-00-00-ie-ctc-de-l-ill-2-as-de-chalampe
+ @ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 IE - CTC DE L'ILL - 2 – AS DE CHALAMPE
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 
+ 2 vs AS DE CHALAMPE\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors Wi
+ ttenheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.81142\,7.32895&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/mat
+ ch/200000014558453
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors Wittenheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558453
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-10-10-00-00-bc-st-georges-carspach-ie-ctc-de
+ -l-ill-2@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BC ST GEORGES CARSPACH – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BC ST GEORGES CARSPA
+ CH vs IE - CTC DE L'ILL - 2\n\nGYMNASE PLESSIER\n📍 Avenue du 8ème Rég
+ iment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/ul?ll=47.62
+ 416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/dfu13-2/match/200000014558455
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558455
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-07-00-00-ie-ctc-de-l-ill-2-asca-wittelshe
+ im@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 IE - CTC DE L'ILL - 2 – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 
+ 2 vs ASCA WITTELSHEIM\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors 
+ Wittenheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.81142\,7.32895&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/m
+ atch/200000014558459
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors Wittenheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558459
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-14-00-00-ie-ctc-de-l-ill-2-cssl-sausheim-
+ 2@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 IE - CTC DE L'ILL - 2 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ IE - CTC DE L'ILL - 
+ 2 vs CSSL SAUSHEIM - 2\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue du Vercors
+  Wittenheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.81142\,7.32895&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/
+ match/200000014558464
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue du Vercors Wittenheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558464
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-11-28-00-00-cs-saint-pp-waldighoffen-ie-ctc-
+ de-l-ill-@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ CS SAINT PP WALDIGHOFFEN – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHO
+ FFEN vs IE - CTC DE L'ILL - 2\n\nSALLE NATHAN KATZ\n📍 Rue des Écoles W
+ aldighofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31429&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu13-2/m
+ atch/200000014558467
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558467
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-haut-rhin-2026-12-12-00-00-berrwiller-staffelfelden-bc-4-ie
+ -ctc-de-l@ffbb-agenda
+DTSTAMP:20260819T080758Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 4 – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFE
+ LDEN BC - 4 vs IE - CTC DE L'ILL - 2\n\nSALLE DES SPORTS\n📍 Rue de Hart
+ mannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\
+ ,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dfu13-2/match/200000014558471
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 3-2/match/200000014558471
+END:VEVENT
+END:VCALENDAR

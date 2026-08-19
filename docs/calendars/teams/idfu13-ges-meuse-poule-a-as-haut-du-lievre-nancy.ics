@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS HAUT DU LIEVRE  NANCY  [IDFU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de AS HAUT DU LIEVRE  NANCY – IDFU13 – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-19-13-30-as-haut-du-lievre-nancy-saint
+ -die-vosg@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20260919T133000
+DTEND;TZID=Europe/Paris:20260919T153000
+SUMMARY:🏠 AS HAUT DU LIEVRE  NANCY – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
+ EVRE  NANCY vs SAINT DIE VOSGES BASKET\n\nGYMNASE BUFFON\n📍 Rue Dominiq
+ ue Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.15411
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu1
+ 3/match/200000014616243
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616243
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-26-13-30-entente-granges-gerardmer-as-
+ haut-du-l@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:✈️ ENTENTE GRANGES GERARDMER – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ ENTENTE GRANG
+ ES GERARDMER vs AS HAUT DU LIEVRE  NANCY\n\nGYMNASE PIERRE ET PAUL DIDIER\
+ n📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616250
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616250
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-10-03-13-30-as-haut-du-lievre-nancy-baske
+ t-club-go@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:🏠 AS HAUT DU LIEVRE  NANCY – BASKET CLUB GOLBEY EPINAL
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
+ EVRE  NANCY vs BASKET CLUB GOLBEY EPINAL\n\nGYMNASE BUFFON\n📍 Rue Domin
+ ique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.154
+ 11&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idf
+ u13/match/200000014616257
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616257
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-10-10-15-30-us-silvange-basket-2-as-haut-
+ du-lievre@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:✈️ US SILVANGE BASKET - 2 – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ US SILVANGE B
+ ASKET - 2 vs AS HAUT DU LIEVRE  NANCY\n\nCOSEC LA ROUSSE\n📍 Rue Auguste
+  Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.212
+ 14\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competi
+ tions/idfu13/match/200000014616263
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616263
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-07-13-30-as-haut-du-lievre-nancy-baske
+ t-all-sta@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:🏠 AS HAUT DU LIEVRE  NANCY – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
+ EVRE  NANCY vs BASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE BUFFON\n📍 Rue Do
+ minique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.
+ 15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/
+ idfu13/match/200000014616271
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616271
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-21-14-00-sluc-nancy-basket-association
+ -1-as-hau@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – AS HAUT DU LIEVRE  NAN
+ CY
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 1 vs AS HAUT DU LIEVRE  NANCY\n\nGYMNASE LOUIS ARMAND\n
+ 📍 Rue des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48
+ .67025\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616281
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616281
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB –   [DM4 – GES – Poule C]
+X-WR-CALDESC:Matchs de  – DM4 – GES – Haut-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2026-09-27-11-00-ascl-eschentzwiller-2@ffbb-a
+ genda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20260927T110000
+DTEND;TZID=Europe/Paris:20260927T130000
+SUMMARY:ASCL ESCHENTZWILLER - 2 – 
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️ ASCL ESCHENT
+ ZWILLER - 2 vs \n\nSALLE POLYVALENTE\n📍 Rue de Mulhouse Eschentzwiller 
+ 68440\n🚗 Waze : https://waze.com/ul?ll=47.71584\,7.3985&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000001455
+ 9181
+LOCATION:SALLE POLYVALENTE\, Rue de Mulhouse Eschentzwiller 68440
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559181
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2026-10-04-10-30-richwiller-union-sportive-1@
+ ffbb-agenda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20261004T103000
+DTEND;TZID=Europe/Paris:20261004T123000
+SUMMARY: – RICHWILLER UNION SPORTIVE - 1
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️  vs RICHWILL
+ ER UNION SPORTIVE - 1\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar 6
+ 8000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000001455
+ 9185
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559185
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2026-11-08-10-30-asca-wittelsheim-2@ffbb-agen
+ da
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20261108T103000
+DTEND;TZID=Europe/Paris:20261108T123000
+SUMMARY: – ASCA WITTELSHEIM - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️  vs ASCA WIT
+ TELSHEIM - 2\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar 68000\n
+ 🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/200000014559193
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559193
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2026-11-14-20-00-as-de-chalampe@ffbb-agenda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:AS DE CHALAMPE – 
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️ AS DE CHALAM
+ PE vs \n\nSALLE POLYVALENTE\n📍 Avenue de la Gare Chalampé 68490\n🚗 
+ Waze : https://waze.com/ul?ll=47.81651\,7.53992&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0068/competitions/dm4/match/200000014559197
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559197
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2026-11-22-10-30-guebwiller-as-saint-leger-4@
+ ffbb-agenda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20261122T103000
+DTEND;TZID=Europe/Paris:20261122T123000
+SUMMARY: – GUEBWILLER AS SAINT LEGER - 4
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️  vs GUEBWILL
+ ER AS SAINT LEGER - 4\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar 6
+ 8000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000001455
+ 9205
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559205
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2026-12-06-10-30-as-kaysersberg-ammerschwihr-
+ bca-4@ffbb-agenda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20261206T103000
+DTEND;TZID=Europe/Paris:20261206T123000
+SUMMARY: – AS KAYSERSBERG AMMERSCHWIHR BCA - 4
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️  vs AS KAYSE
+ RSBERG AMMERSCHWIHR BCA - 4\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Co
+ lmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000
+ 0014559210
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559210
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2026-12-13-10-30-basket-club-hegenheim@ffbb-a
+ genda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20261213T103000
+DTEND;TZID=Europe/Paris:20261213T123000
+SUMMARY: – BASKET CLUB HEGENHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️  vs BASKET C
+ LUB HEGENHEIM\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar 68000\n
+ 🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/200000014559215
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559215
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2027-01-17-10-30-mulhouse-basket-club-amateur
+ -3@ffbb-agenda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20270117T103000
+DTEND;TZID=Europe/Paris:20270117T123000
+SUMMARY:MULHOUSE BASKET CLUB AMATEUR - 3 – 
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️ MULHOUSE BAS
+ KET CLUB AMATEUR - 3 vs \n\nGYMNASE MARCEL TSCHANZ\n📍 Rue Albert Camus 
+ Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73426\,7.30339&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/2
+ 00000014559221
+LOCATION:GYMNASE MARCEL TSCHANZ\, Rue Albert Camus Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559221
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2027-01-24-10-30-ascl-eschentzwiller-2@ffbb-a
+ genda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20270124T103000
+DTEND;TZID=Europe/Paris:20270124T123000
+SUMMARY: – ASCL ESCHENTZWILLER - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️  vs ASCL ESC
+ HENTZWILLER - 2\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar 68000\n
+ 🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/200000014559226
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559226
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2027-02-14-10-30-ie-ctc-de-l-ill-4@ffbb-agend
+ a
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20270214T103000
+DTEND;TZID=Europe/Paris:20270214T123000
+SUMMARY: – IE - CTC DE L'ILL - 4
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️  vs IE - CTC
+  DE L'ILL - 4\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar 68000\n
+ 🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/200000014559234
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559234
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2027-03-21-10-30-as-de-chalampe@ffbb-agenda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20270321T103000
+DTEND;TZID=Europe/Paris:20270321T123000
+SUMMARY: – AS DE CHALAMPE
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️  vs AS DE CH
+ ALAMPE\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colmar 68000\n🚗 Waze
+  : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0068/competitions/dm4/match/200000014559242
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559242
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2027-04-11-09-00-as-kaysersberg-ammerschwihr-
+ bca-4@ffbb-agenda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20270411T090000
+DTEND;TZID=Europe/Paris:20270411T110000
+SUMMARY:AS KAYSERSBERG AMMERSCHWIHR BCA - 4 – 
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️ AS KAYSERSBE
+ RG AMMERSCHWIHR BCA - 4 vs \n\nSALLE THEO FALLER\n📍 Rue des Tilleuls Ka
+ ysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.14653\,7.2
+ 5575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ m4/match/200000014559255
+LOCATION:SALLE THEO FALLER\, Rue des Tilleuls Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559255
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-c-2027-05-16-10-30-mulhouse-basket-club-amateur
+ -3@ffbb-agenda
+DTSTAMP:20260819T080852Z
+DTSTART;TZID=Europe/Paris:20270516T103000
+DTEND;TZID=Europe/Paris:20270516T123000
+SUMMARY: – MULHOUSE BASKET CLUB AMATEUR - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule C\n⚔️  vs MULHOUSE
+  BASKET CLUB AMATEUR - 3\n\nGYMNASE ST EXUPERY\n📍 Rue de Varsovie Colma
+ r 68000\n🚗 Waze : https://waze.com/ul?ll=48.07617\,7.32757&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000001
+ 4559266
+LOCATION:GYMNASE ST EXUPERY\, Rue de Varsovie Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559266
+END:VEVENT
+END:VCALENDAR

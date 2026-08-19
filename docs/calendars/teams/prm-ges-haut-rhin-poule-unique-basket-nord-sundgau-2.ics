@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET NORD SUNDGAU - 2  [PRM – GES – Poule Unique]
+X-WR-CALDESC:Matchs de BASKET NORD SUNDGAU - 2 – PRM – GES – Haut-Rhin – Poule Unique
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-09-19-00-00-basket-nord-sundgau-2-a
+ sl-dessen@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs ASL DESSENHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spe
+ chbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.2557
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561083
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561083
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-09-26-20-00-abc-lutterbach-1-basket
+ -nord-sun@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ ABC LUTTERBACH - 1 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ ABC LUT
+ TERBACH - 1 vs BASKET NORD SUNDGAU - 2\n\nSALLE REMY NOEL\n📍 Rue Wilson
+  Lutterbach 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/matc
+ h/200000014561089
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561089
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-10-03-00-00-basket-nord-sundgau-2-f
+ csl-eguis@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – FCSL EGUISHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs FCSL EGUISHEIM - 1\n\nPOLY ILLFURTH\n📍 Route de Spe
+ chbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.2557
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561095
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561095
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-10-17-00-00-bc-kunheim-1-basket-nor
+ d-sundgau@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ BC KUNHEIM - 1 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BC KUNH
+ EIM - 1 vs BASKET NORD SUNDGAU - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Ver
+ ne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/match/
+ 200000014561101
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561101
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-11-07-00-00-basket-nord-sundgau-2-g
+ uebwiller@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – GUEBWILLER AS SAINT LEGER - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs GUEBWILLER AS SAINT LEGER - 1\n\nPOLY ILLFURTH\n📍 R
+ oute de Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67
+ 735\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/prm/match/200000014561107
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561107
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-11-14-20-30-basket-club-de-kingersh
+ eim-1-bas@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM - 1 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ CLUB DE KINGERSHEIM - 1 vs BASKET NORD SUNDGAU - 2\n\nCOSEC KINGERSHEIM\n
+ 📍 Rue Pierre de Coubertin Kingersheim 68260\n🚗 Waze : https://waze.c
+ om/ul?ll=47.78757\,7.32801&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0068/competitions/prm/match/200000014561113
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561113
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-11-22-10-00-mustangs-association-3-
+ basket-no@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261122T100000
+DTEND;TZID=Europe/Paris:20261122T120000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 3 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ MUSTANG
+ S ASSOCIATION - 3 vs BASKET NORD SUNDGAU - 2\n\nSALLE POLYVALENTE\n📍 Ru
+ e de Kingersheim Pfastatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.772
+ 64\,7.30777&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/prm/match/200000014561119
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561119
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-12-05-00-00-basket-nord-sundgau-2-i
+ e-ctc-thu@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – IE - CTC THUR DOLLER BASKET CLUB -
+  1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 1\n\nPOLY ILLFURTH\
+ n📍 Route de Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?l
+ l=47.67735\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/prm/match/200000014561125
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561125
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-12-13-17-00-cssl-rixheim-2-basket-n
+ ord-sundg@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261213T170000
+DTEND;TZID=Europe/Paris:20261213T190000
+SUMMARY:✈️ CSSL RIXHEIM - 2 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ CSSL RI
+ XHEIM - 2 vs BASKET NORD SUNDGAU - 2\n\nSALLE SAINT JEAN\n📍 Rue Saint-J
+ ean Rixheim 68170\n🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/matc
+ h/200000014561131
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561131
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2026-12-19-00-00-basket-nord-sundgau-2-c
+ olmar-bas@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – COLMAR BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs COLMAR BASKET - 2\n\nPOLY ILLFURTH\n📍 Route de Spec
+ hbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/m
+ atch/200000014561137
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561137
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-01-16-00-00-csc-rustenhart-1-basket
+ -nord-sun@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ CSC RUSTENHART - 1 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ CSC RUS
+ TENHART - 1 vs BASKET NORD SUNDGAU - 2\n\nSALLE POLYVALENTE\n📍 Rue des 
+ Violettes Rustenhart 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7
+ .465&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/p
+ rm/match/200000014561143
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561143
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-01-23-00-00-asl-dessenheim-2-basket
+ -nord-sun@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ ASL DESSENHEIM - 2 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ ASL DES
+ SENHEIM - 2 vs BASKET NORD SUNDGAU - 2\n\nSALLE SPORTS ET LOISIRS\n📍 Ru
+ e de Colmar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\
+ ,7.48426&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/prm/match/200000014561149
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561149
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-02-06-00-00-basket-nord-sundgau-2-a
+ bc-lutter@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – ABC LUTTERBACH - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs ABC LUTTERBACH - 1\n\nPOLY ILLFURTH\n📍 Route de Spe
+ chbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.2557
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561155
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561155
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-02-13-20-30-fcsl-eguisheim-1-basket
+ -nord-sun@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ FCSL EG
+ UISHEIM - 1 vs BASKET NORD SUNDGAU - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍
+  Rue de Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.04439\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/prm/match/200000014561161
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561161
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-03-13-00-00-basket-nord-sundgau-2-b
+ c-kunheim@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – BC KUNHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs BC KUNHEIM - 1\n\nPOLY ILLFURTH\n📍 Route de Spechba
+ ch Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/matc
+ h/200000014561167
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561167
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-03-20-00-00-guebwiller-as-saint-leg
+ er-1-bask@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 1 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ GUEBWIL
+ LER AS SAINT LEGER - 1 vs BASKET NORD SUNDGAU - 2\n\nGYMNASE THEODORE DECK
+ \n📍 Rue Théodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/u
+ l?ll=47.90723\,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/prm/match/200000014561173
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561173
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-04-03-00-00-basket-nord-sundgau-2-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – BASKET CLUB DE KINGERSHEIM - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs BASKET CLUB DE KINGERSHEIM - 1\n\nPOLY ILLFURTH\n📍 
+ Route de Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.6
+ 7735\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/prm/match/200000014561179
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561179
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-04-10-00-00-basket-nord-sundgau-2-m
+ ustangs-a@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – MUSTANGS ASSOCIATION - 3
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs MUSTANGS ASSOCIATION - 3\n\nPOLY ILLFURTH\n📍 Route 
+ de Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,
+ 7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/prm/match/200000014561185
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561185
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-04-17-00-00-ie-ctc-thur-doller-bask
+ et-club-1@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270417T000000
+DTEND;TZID=Europe/Paris:20270417T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 1 – BASKET NORD SUNDGAU
+  - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ IE - CT
+ C THUR DOLLER BASKET CLUB - 1 vs BASKET NORD SUNDGAU - 2\n\nCENTRE SPORTIF
+  BOURGER\n📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : https
+ ://waze.com/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0068/competitions/prm/match/200000014561191
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561191
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-05-15-00-00-basket-nord-sundgau-2-c
+ ssl-rixhe@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – CSSL RIXHEIM - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs CSSL RIXHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spech
+ bach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/ma
+ tch/200000014561197
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561197
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-05-22-00-00-colmar-basket-2-basket-
+ nord-sund@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:✈️ COLMAR BASKET - 2 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ COLMAR 
+ BASKET - 2 vs BASKET NORD SUNDGAU - 2\n\nGYMNASE CAMILLE SEE\n📍 Avenue 
+ de l'Europe Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.3
+ 2589&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/p
+ rm/match/200000014561203
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561203
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-haut-rhin-poule-unique-2027-05-29-00-00-basket-nord-sundgau-2-c
+ sc-rusten@ffbb-agenda
+DTSTAMP:20260819T080817Z
+DTSTART;TZID=Europe/Paris:20270529T000000
+DTEND;TZID=Europe/Paris:20270529T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 2 – CSC RUSTENHART - 1
+DESCRIPTION:🏀 PRM – GES – Haut-Rhin – Poule Unique\n⚔️ BASKET 
+ NORD SUNDGAU - 2 vs CSC RUSTENHART - 1\n\nPOLY ILLFURTH\n📍 Route de Spe
+ chbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.2557
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561209
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/prm/
+ match/200000014561209
+END:VEVENT
+END:VCALENDAR

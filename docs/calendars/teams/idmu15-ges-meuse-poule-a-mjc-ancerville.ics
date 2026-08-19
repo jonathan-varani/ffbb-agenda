@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MJC ANCERVILLE  [IDMU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de MJC ANCERVILLE – IDMU15 – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-09-19-15-00-mjc-ancerville-cslb-bar-le-du
+ c@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20260919T150000
+DTEND;TZID=Europe/Paris:20260919T170000
+SUMMARY:🏠 MJC ANCERVILLE – CSLB BAR LE DUC
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ MJC ANCERVILL
+ E vs CSLB BAR LE DUC\n\nHALLE DES SPORTS\n📍 Rue Jean Bourgeois Ancervil
+ le 55170\n🚗 Waze : https://waze.com/ul?ll=48.63618\,5.01482&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/2000
+ 00014610469
+LOCATION:HALLE DES SPORTS\, Rue Jean Bourgeois Ancerville 55170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610469
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-09-26-15-00-mjc-ancerville-saint-die-vosg
+ es-basket@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:🏠 MJC ANCERVILLE – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ MJC ANCERVILL
+ E vs SAINT DIE VOSGES BASKET\n\nHALLE DES SPORTS\n📍 Rue Jean Bourgeois 
+ Ancerville 55170\n🚗 Waze : https://waze.com/ul?ll=48.63618\,5.01482&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/ma
+ tch/200000014610481
+LOCATION:HALLE DES SPORTS\, Rue Jean Bourgeois Ancerville 55170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610481
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-10-03-15-00-as-haut-du-lievre-nancy-mjc-a
+ ncerville@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY – MJC ANCERVILLE
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
+ EVRE  NANCY vs MJC ANCERVILLE\n\nGYMNASE BUFFON\n📍 Rue Dominique Louis 
+ Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.15411&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/2
+ 00000014610492
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610492
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-10-10-15-00-mjc-ancerville-ludres-pont-st
+ -vincent-@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261010T150000
+DTEND;TZID=Europe/Paris:20261010T170000
+SUMMARY:🏠 MJC ANCERVILLE – LUDRES PONT ST VINCENT BASKET CL
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ MJC ANCERVILL
+ E vs LUDRES PONT ST VINCENT BASKET CL\n\nHALLE DES SPORTS\n📍 Rue Jean B
+ ourgeois Ancerville 55170\n🚗 Waze : https://waze.com/ul?ll=48.63618\,5.
+ 01482&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/
+ idmu15/match/200000014610502
+LOCATION:HALLE DES SPORTS\, Rue Jean Bourgeois Ancerville 55170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610502
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-11-07-18-00-sluc-nancy-basket-association
+ -1-mjc-an@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – MJC ANCERVILLE
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 1 vs MJC ANCERVILLE\n\nGYMNASE LOUIS ARMAND\n📍 Rue d
+ es Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.67025\,6.
+ 16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/
+ idmu15/match/200000014610514
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610514
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-11-14-15-00-mjc-ancerville-basket-club-go
+ lbey-epin@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261114T150000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:🏠 MJC ANCERVILLE – BASKET CLUB GOLBEY EPINAL
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ MJC ANCERVILL
+ E vs BASKET CLUB GOLBEY EPINAL\n\nHALLE DES SPORTS\n📍 Rue Jean Bourgeoi
+ s Ancerville 55170\n🚗 Waze : https://waze.com/ul?ll=48.63618\,5.01482&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/
+ match/200000014610527
+LOCATION:HALLE DES SPORTS\, Rue Jean Bourgeois Ancerville 55170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610527
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-a-2026-11-21-15-30-basket-club-chavelotais-mjc-a
+ ncerville@ffbb-agenda
+DTSTAMP:20260819T081152Z
+DTSTART;TZID=Europe/Paris:20261121T153000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:✈️ BASKET CLUB CHAVELOTAIS – MJC ANCERVILLE
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule A\n⚔️ BASKET CLUB C
+ HAVELOTAIS vs MJC ANCERVILLE\n\nSALLE DES SPORTS\n📍 Place de la Républ
+ ique Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll=48.23758\,6.43697&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15
+ /match/200000014610540
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610540
+END:VEVENT
+END:VCALENDAR

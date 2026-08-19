@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NANCY BASKETBALL  [IDMU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de NANCY BASKETBALL – IDMU15 – GES – Meuse – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-09-19-15-00-nancy-basketball-basket-club-
+ longwy-re@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20260919T150000
+DTEND;TZID=Europe/Paris:20260919T170000
+SUMMARY:🏠 NANCY BASKETBALL – BASKET CLUB LONGWY REHON - 1
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ NANCY BASKETB
+ ALL vs BASKET CLUB LONGWY REHON - 1\n\nGYMNASE PIERRE DE COUBERTIN\n📍 R
+ ue de Phalsbourg Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\
+ ,6.18168&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitio
+ ns/idmu15/match/200000014610473
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610473
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-09-26-15-00-nancy-basketball-us-silvange-
+ basket@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:🏠 NANCY BASKETBALL – US SILVANGE BASKET
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ NANCY BASKETB
+ ALL vs US SILVANGE BASKET\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue de Phal
+ sbourg Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.18168&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/
+ match/200000014610485
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610485
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-10-03-16-00-sluc-nancy-basket-association
+ -2-nancy-@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 2 – NANCY BASKETBALL
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 2 vs NANCY BASKETBALL\n\nGYMNASE BOURGUIGNON\n📍 Rue 
+ Turinaz Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.6749\,6.17369&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/
+ match/200000014610496
+LOCATION:GYMNASE BOURGUIGNON\, Rue Turinaz Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610496
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-11-07-15-00-asptt-nancy-tomblaine-nancy-b
+ asketball@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE – NANCY BASKETBALL
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ ASPTT NANCY T
+ OMBLAINE vs NANCY BASKETBALL\n\nCOSEC 1\n📍 Rue Jean Moulin Tomblaine 54
+ 510\n🚗 Waze : https://waze.com/ul?ll=48.69542\,6.21374&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/200000014
+ 610518
+LOCATION:COSEC 1\, Rue Jean Moulin Tomblaine 54510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610518
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-11-14-15-00-nancy-basketball-bcv-verdun@f
+ fbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261114T150000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:🏠 NANCY BASKETBALL – BCV VERDUN
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ NANCY BASKETB
+ ALL vs BCV VERDUN\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue de Phalsbourg N
+ ancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.18168&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/20
+ 0000014610531
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610531
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-b-2026-11-21-15-00-basket-all-star-mussipontain-
+ nancy-bas@ffbb-agenda
+DTSTAMP:20260819T081155Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:✈️ BASKET ALL STAR MUSSIPONTAIN – NANCY BASKETBALL
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule B\n⚔️ BASKET ALL ST
+ AR MUSSIPONTAIN vs NANCY BASKETBALL\n\nCENTRE DES SPORTS BERNARD GUY 1\n
+ 📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0055/competitions/idmu15/match/200000014610544
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610544
+END:VEVENT
+END:VCALENDAR

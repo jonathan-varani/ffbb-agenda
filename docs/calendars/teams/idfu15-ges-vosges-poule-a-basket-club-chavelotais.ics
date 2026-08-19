@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB CHAVELOTAIS  [IDFU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB CHAVELOTAIS – IDFU15 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-09-26-16-00-les-lynx-maxevillois-basket-
+ club-chav@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
+SUMMARY:✈️ LES LYNX MAXEVILLOIS – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ LES LYNX MAX
+ EVILLOIS vs BASKET CLUB CHAVELOTAIS\n\nSALLE LEO LAGRANGE\n📍 Rue de l'O
+ rne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.96407\,1.
+ 72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/
+ idfu15/match/200000014624823
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624823
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-10-03-15-30-basket-club-chavelotais-la-v
+ aldajolai@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:🏠 BASKET CLUB CHAVELOTAIS – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ BASKET CLUB 
+ CHAVELOTAIS vs LA VALDAJOLAISE\n\nSALLE DES SPORTS\n📍 Place de la Répu
+ blique Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll=48.23758\,6.4369
+ 7&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624834
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624834
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-10-10-16-00-as-haut-du-lievre-nancy-bask
+ et-club-c@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ AS HAUT DU L
+ IEVRE  NANCY vs BASKET CLUB CHAVELOTAIS\n\nGYMNASE BUFFON\n📍 Rue Domini
+ que Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.1541
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624842
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624842
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-07-13-30-basket-club-chavelotais-ente
+ nte-bayon@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:🏠 BASKET CLUB CHAVELOTAIS – Entente Bayon Blainville Damelevi
+ ères Basketball
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ BASKET CLUB 
+ CHAVELOTAIS vs Entente Bayon Blainville Damelevières Basketball\n\nSALLE 
+ DES SPORTS\n📍 Place de la République Chavelot 88150\n🚗 Waze : https
+ ://waze.com/ul?ll=48.23758\,6.43697&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0088/competitions/idfu15/match/200000014624849
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624849
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-14-18-00-sluc-nancy-basket-associatio
+ n-1-baske@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – BASKET CLUB CHAVELOTAI
+ S
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ SLUC NANCY B
+ ASKET ASSOCIATION - 1 vs BASKET CLUB CHAVELOTAIS\n\nGYMNASE LOUIS ARMAND\n
+ 📍 Rue des Jonquilles Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48
+ .67025\,6.16085&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/idfu15/match/200000014624857
+LOCATION:GYMNASE LOUIS ARMAND\, Rue des Jonquilles Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624857
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-21-13-30-basket-club-chavelotais-aspt
+ t-nancy-t@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261121T133000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:🏠 BASKET CLUB CHAVELOTAIS – ASPTT NANCY TOMBLAINE
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ BASKET CLUB 
+ CHAVELOTAIS vs ASPTT NANCY TOMBLAINE\n\nSALLE DES SPORTS\n📍 Place de la
+  République Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll=48.23758\,
+ 6.43697&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competition
+ s/idfu15/match/200000014624865
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624865
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASC SAINT ROMAIN REININGUE  [DMU15 – GES]
+X-WR-CALDESC:Matchs de ASC SAINT ROMAIN REININGUE – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-20-15-00-cssl-rixheim-asc-saint-romain-rein
+ ingue@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20260920T150000
+DTEND;TZID=Europe/Paris:20260920T170000
+SUMMARY:✈️ CSSL RIXHEIM – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL RIXHEIM vs ASC SA
+ INT ROMAIN REININGUE\n\nSALLE SAINT JEAN\n📍 Rue Saint-Jean Rixheim 6817
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.74939\,7.39745&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59895
+LOCATION:SALLE SAINT JEAN\, Rue Saint-Jean Rixheim 68170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559895
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-26-17-30-asc-saint-romain-reiningue-basket-
+ club-3-pa@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20260926T173000
+DTEND;TZID=Europe/Paris:20260926T193000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC SAINT ROMAIN REINI
+ NGUE vs BASKET-CLUB 3 PAYS - 2\n\nHALLE DES SPORTS\n📍 Rue des Pierres R
+ einingue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match
+ /200000014559897
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559897
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-00-00-asl-dessenheim-3-asc-saint-romain-
+ reiningue@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ASL DESSENHEIM - 3 – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASL DESSENHEIM - 3 vs 
+ ASC SAINT ROMAIN REININGUE\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar 
+ Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/mat
+ ch/200000014559899
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559899
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-10-15-00-basket-andolsheim-asc-saint-romain
+ -reiningu@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261010T150000
+DTEND;TZID=Europe/Paris:20261010T170000
+SUMMARY:✈️ BASKET ANDOLSHEIM – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET ANDOLSHEIM vs A
+ SC SAINT ROMAIN REININGUE\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar Forts
+ chwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2
+ 00000014559903
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559903
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-17-17-30-asc-saint-romain-reiningue-cs-sain
+ t-pp-wald@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261017T173000
+DTEND;TZID=Europe/Paris:20261017T193000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – CS SAINT PP WALDIGHOFFEN - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC SAINT ROMAIN REINI
+ NGUE vs CS SAINT PP WALDIGHOFFEN - 1\n\nHALLE DES SPORTS\n📍 Rue des Pie
+ rres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15
+ /match/200000014559907
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559907
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-08-14-30-asc-saint-romain-reiningue-cssl-ri
+ xheim@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261108T143000
+DTEND;TZID=Europe/Paris:20261108T163000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – CSSL RIXHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC SAINT ROMAIN REINI
+ NGUE vs CSSL RIXHEIM\n\nHALLE DES SPORTS\n📍 Rue des Pierres Reiningue 6
+ 8950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014
+ 559910
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559910
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-15-17-30-basket-club-3-pays-2-asc-saint-rom
+ ain-reini@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261115T173000
+DTEND;TZID=Europe/Paris:20261115T193000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 2 – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS - 2
+  vs ASC SAINT ROMAIN REININGUE\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège
+  Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/ma
+ tch/200000014559912
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559912
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-16-00-asc-saint-romain-reiningue-asl-des
+ senheim-3@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – ASL DESSENHEIM - 3
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC SAINT ROMAIN REINI
+ NGUE vs ASL DESSENHEIM - 3\n\nHALLE DES SPORTS\n📍 Rue des Pierres Reini
+ ngue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200
+ 000014559914
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559914
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-05-17-30-asc-saint-romain-reiningue-basket-
+ andolshei@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261205T173000
+DTEND;TZID=Europe/Paris:20261205T193000
+SUMMARY:🏠 ASC SAINT ROMAIN REININGUE – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASC SAINT ROMAIN REINI
+ NGUE vs BASKET ANDOLSHEIM\n\nHALLE DES SPORTS\n📍 Rue des Pierres Reinin
+ gue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000
+ 00014559918
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559918
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-00-00-cs-saint-pp-waldighoffen-1-asc-sai
+ nt-romain@ffbb-agenda
+DTSTAMP:20260819T080940Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ CS SAINT PP WALDIGHOFFEN - 1 – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CS SAINT PP WALDIGHOFF
+ EN - 1 vs ASC SAINT ROMAIN REININGUE\n\nSALLE NATHAN KATZ\n📍 Rue des É
+ coles Waldighofen 68640\n🚗 Waze : https://waze.com/ul?ll=47.55167\,7.31
+ 429&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u15/match/200000014559922
+LOCATION:SALLE NATHAN KATZ\, Rue des Écoles Waldighofen 68640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559922
+END:VEVENT
+END:VCALENDAR

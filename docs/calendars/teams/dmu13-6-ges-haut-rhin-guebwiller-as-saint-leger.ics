@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GUEBWILLER AS SAINT LEGER  [DMU13-6 – GES]
+X-WR-CALDESC:Matchs de GUEBWILLER AS SAINT LEGER – DMU13-6 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-09-19-15-00-mulhouse-basket-club-amateur-gue
+ bwiller-a@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20260919T150000
+DTEND;TZID=Europe/Paris:20260919T170000
+SUMMARY:✈️ MULHOUSE BASKET CLUB AMATEUR – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ MULHOUSE BASKET CLUB
+  AMATEUR vs GUEBWILLER AS SAINT LEGER\n\nGYMNASE MARCEL TSCHANZ\n📍 Rue 
+ Albert Camus Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73426\,
+ 7.30339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dmu13-6/match/200000014559655
+LOCATION:GYMNASE MARCEL TSCHANZ\, Rue Albert Camus Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559655
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-09-26-00-00-guebwiller-as-saint-leger-basket
+ -club-3-p@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT 
+ LEGER vs BASKET-CLUB 3 PAYS - 2\n\nGYMNASE THEODORE DECK\n📍 Rue Théodo
+ re Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723\,7.2
+ 099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u13-6/match/200000014559657
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559657
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-10-03-17-30-asc-saint-romain-reiningue-guebw
+ iller-as-@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20261003T173000
+DTEND;TZID=Europe/Paris:20261003T193000
+SUMMARY:✈️ ASC SAINT ROMAIN REININGUE – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ ASC SAINT ROMAIN REI
+ NINGUE vs GUEBWILLER AS SAINT LEGER\n\nHALLE DES SPORTS\n📍 Rue des Pier
+ res Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275\,7.23204&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-
+ 6/match/200000014559659
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559659
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-10-10-14-00-colmar-basket-2-guebwiller-as-sa
+ int-leger@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ COLMAR BASKET - 2 – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 2 vs
+  GUEBWILLER AS SAINT LEGER\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe
+  Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/matc
+ h/200000014559663
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559663
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-10-17-00-00-guebwiller-as-saint-leger-richwi
+ ller-unio@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT 
+ LEGER vs RICHWILLER UNION SPORTIVE\n\nGYMNASE THEODORE DECK\n📍 Rue Thé
+ odore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723\,
+ 7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dmu13-6/match/200000014559667
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559667
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-11-07-00-00-guebwiller-as-saint-leger-mulhou
+ se-basket@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – MULHOUSE BASKET CLUB AMATEUR
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT 
+ LEGER vs MULHOUSE BASKET CLUB AMATEUR\n\nGYMNASE THEODORE DECK\n📍 Rue T
+ héodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.9072
+ 3\,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu13-6/match/200000014559670
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559670
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-11-15-15-30-basket-club-3-pays-2-guebwiller-
+ as-saint-@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS - 2 – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS -
+  2 vs GUEBWILLER AS SAINT LEGER\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collèg
+ e Hégenheim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6
+ /match/200000014559672
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559672
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-11-28-00-00-guebwiller-as-saint-leger-asc-sa
+ int-romai@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT 
+ LEGER vs ASC SAINT ROMAIN REININGUE\n\nGYMNASE THEODORE DECK\n📍 Rue Th
+ éodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723
+ \,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu13-6/match/200000014559674
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559674
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-12-05-00-00-guebwiller-as-saint-leger-colmar
+ -basket-2@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 GUEBWILLER AS SAINT LEGER – COLMAR BASKET - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ GUEBWILLER AS SAINT 
+ LEGER vs COLMAR BASKET - 2\n\nGYMNASE THEODORE DECK\n📍 Rue Théodore De
+ ck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.90723\,7.2099&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6
+ /match/200000014559678
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559678
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-12-12-16-15-richwiller-union-sportive-guebwi
+ ller-as-s@ffbb-agenda
+DTSTAMP:20260819T081001Z
+DTSTART;TZID=Europe/Paris:20261212T161500
+DTEND;TZID=Europe/Paris:20261212T181500
+SUMMARY:✈️ RICHWILLER UNION SPORTIVE – GUEBWILLER AS SAINT LEGER
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ RICHWILLER UNION SPO
+ RTIVE vs GUEBWILLER AS SAINT LEGER\n\nSALLE JEAN-MARIE PFEFFER\n📍 Rue d
+ e la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78251\
+ ,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu13-6/match/200000014559682
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559682
+END:VEVENT
+END:VCALENDAR

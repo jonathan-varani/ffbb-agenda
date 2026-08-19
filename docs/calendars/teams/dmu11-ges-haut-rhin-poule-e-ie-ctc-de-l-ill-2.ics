@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC DE L'ILL - 2  [DMU11 – GES – Poule E]
+X-WR-CALDESC:Matchs de IE - CTC DE L'ILL - 2 – DMU11 – GES – Haut-Rhin – Poule E
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-e-2026-09-26-00-00-ie-ctc-de-l-ill-2-asc-sain
+ t-romain-@ffbb-agenda
+DTSTAMP:20260819T081026Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 IE - CTC DE L'ILL - 2 – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule E\n⚔️ IE - CTC D
+ E L'ILL - 2 vs ASC SAINT ROMAIN REININGUE\n\nCOMPLEXE SPORTIF E. VOGT\n
+ 📍 Rue de l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.
+ 82701\,7.36244&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dmu11/match/200000014559448
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559448
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-e-2026-10-03-16-30-abc-lutterbach-2-ie-ctc-de
+ -l-ill-2@ffbb-agenda
+DTSTAMP:20260819T081026Z
+DTSTART;TZID=Europe/Paris:20261003T163000
+DTEND;TZID=Europe/Paris:20261003T183000
+SUMMARY:✈️ ABC LUTTERBACH - 2 – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule E\n⚔️ ABC LUTTER
+ BACH - 2 vs IE - CTC DE L'ILL - 2\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutt
+ erbach 68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/2
+ 00000014559453
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559453
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-e-2026-11-07-00-00-ie-ctc-de-l-ill-2-basket-c
+ lub-moern@ffbb-agenda
+DTSTAMP:20260819T081026Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 IE - CTC DE L'ILL - 2 – BASKET CLUB MOERNACH - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule E\n⚔️ IE - CTC D
+ E L'ILL - 2 vs BASKET CLUB MOERNACH - 2\n\nCOMPLEXE SPORTIF E. VOGT\n📍 
+ Rue de l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701
+ \,7.36244&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu11/match/200000014559468
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559468
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-e-2026-11-14-00-00-ascl-eschentzwiller-ie-ctc
+ -de-l-ill@ffbb-agenda
+DTSTAMP:20260819T081026Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ ASCL ESCHENTZWILLER – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule E\n⚔️ ASCL ESCHE
+ NTZWILLER vs IE - CTC DE L'ILL - 2\n\nSALLE POLYVALENTE\n📍 Rue de Mulho
+ use Eschentzwiller 68440\n🚗 Waze : https://waze.com/ul?ll=47.71584\,7.3
+ 985&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u11/match/200000014559473
+LOCATION:SALLE POLYVALENTE\, Rue de Mulhouse Eschentzwiller 68440
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559473
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-e-2026-11-21-00-00-ie-ctc-de-l-ill-2-basket-c
+ lub-de-ki@ffbb-agenda
+DTSTAMP:20260819T081026Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 IE - CTC DE L'ILL - 2 – BASKET CLUB DE KINGERSHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule E\n⚔️ IE - CTC D
+ E L'ILL - 2 vs BASKET CLUB DE KINGERSHEIM - 2\n\nCOMPLEXE SPORTIF E. VOGT\
+ n📍 Rue de l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47
+ .82701\,7.36244&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dmu11/match/200000014559478
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559478
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-e-2026-12-05-00-00-ie-ctc-de-l-ill-2-cssl-sau
+ sheim-2@ffbb-agenda
+DTSTAMP:20260819T081026Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 IE - CTC DE L'ILL - 2 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule E\n⚔️ IE - CTC D
+ E L'ILL - 2 vs CSSL SAUSHEIM - 2\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de 
+ l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.362
+ 44&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu
+ 11/match/200000014559486
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559486
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-e-2026-12-12-00-00-ie-ctc-thur-doller-basket-
+ club-3-ie@ffbb-agenda
+DTSTAMP:20260819T081026Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 3 – IE - CTC DE L'ILL -
+  2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule E\n⚔️ IE - CTC T
+ HUR DOLLER BASKET CLUB - 3 vs IE - CTC DE L'ILL - 2\n\nCOMPLEXE GAUGLER (G
+ RANDE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : 
+ https://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0068/competitions/dmu11/match/200000014559487
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559487
+END:VEVENT
+END:VCALENDAR

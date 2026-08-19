@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET NORD SUNDGAU - 1  [DFU18 – GES]
+X-WR-CALDESC:Matchs de BASKET NORD SUNDGAU - 1 – DFU18 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-09-19-00-00-basket-nord-sundgau-1-basket-club-
+ moernach-@ffbb-agenda
+DTSTAMP:20260819T080719Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 1 – BASKET CLUB MOERNACH - 1
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU - 
+ 1 vs BASKET CLUB MOERNACH - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Il
+ lfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18/match/2
+ 00000014558565
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558565
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-09-26-00-00-basket-nord-sundgau-1-pantheres-mu
+ lhouse-ba@ffbb-agenda
+DTSTAMP:20260819T080719Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 1 – PANTHERES MULHOUSE BASKET ALSACE -
+  2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU - 
+ 1 vs PANTHERES MULHOUSE BASKET ALSACE - 2\n\nPOLY ILLFURTH\n📍 Route de 
+ Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.2
+ 5575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ fu18/match/200000014558568
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558568
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-10-04-15-00-as-horbourg-wihr-1-basket-nord-sun
+ dgau-1@ffbb-agenda
+DTSTAMP:20260819T080719Z
+DTSTART;TZID=Europe/Paris:20261004T150000
+DTEND;TZID=Europe/Paris:20261004T170000
+SUMMARY:✈️ AS HORBOURG-WIHR - 1 – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ AS HORBOURG-WIHR - 1 v
+ s BASKET NORD SUNDGAU - 1\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorra
+ ine Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437\,7.39
+ 293&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df
+ u18/match/200000014558571
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558571
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-10-10-00-00-basket-nord-sundgau-1-basket-club-
+ 3-pays@ffbb-agenda
+DTSTAMP:20260819T080719Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 1 – BASKET-CLUB 3 PAYS
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU - 
+ 1 vs BASKET-CLUB 3 PAYS\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth
+  68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18/match/2000000
+ 14558574
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558574
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-10-31-00-00-basket-club-moernach-1-basket-nord
+ -sundgau-@ffbb-agenda
+DTSTAMP:20260819T080719Z
+DTSTART;TZID=Europe/Paris:20261031T000000
+DTEND;TZID=Europe/Paris:20261031T020000
+SUMMARY:✈️ BASKET CLUB MOERNACH - 1 – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH -
+  1 vs BASKET NORD SUNDGAU - 1\n\nSALLE DE SPORT\n📍 Rue du Maréchal-Fer
+ rant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.25416&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18/
+ match/200000014558580
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558580
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-11-08-17-30-pantheres-mulhouse-basket-alsace-2
+ -basket-n@ffbb-agenda
+DTSTAMP:20260819T080719Z
+DTSTART;TZID=Europe/Paris:20261108T173000
+DTEND;TZID=Europe/Paris:20261108T193000
+SUMMARY:✈️ PANTHERES MULHOUSE BASKET ALSACE - 2 – BASKET NORD SUNDGAU
+  - 1
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ PANTHERES MULHOUSE BAS
+ KET ALSACE - 2 vs BASKET NORD SUNDGAU - 1\n\nGYMNASE DE LA DOLLER\n📍 Ru
+ e de Toulon Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.77531\,7
+ .33278&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dfu18/match/200000014558583
+LOCATION:GYMNASE DE LA DOLLER\, Rue de Toulon Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558583
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-11-21-00-00-basket-nord-sundgau-1-as-horbourg-
+ wihr-1@ffbb-agenda
+DTSTAMP:20260819T080719Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 1 – AS HORBOURG-WIHR - 1
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU - 
+ 1 vs AS HORBOURG-WIHR - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfur
+ th 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18/match/20000
+ 0014558586
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558586
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-11-28-19-00-basket-club-3-pays-basket-nord-sun
+ dgau-1@ffbb-agenda
+DTSTAMP:20260819T080719Z
+DTSTART;TZID=Europe/Paris:20261128T190000
+DTEND;TZID=Europe/Paris:20261128T210000
+SUMMARY:✈️ BASKET-CLUB 3 PAYS – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET-CLUB 3 PAYS vs 
+ BASKET NORD SUNDGAU - 1\n\nCOSEC DE HEGENHEIM\n📍 Rue du Collège Hégen
+ heim 68220\n🚗 Waze : https://waze.com/ul?ll=47.56982\,7.52639&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu18/match/200
+ 000014558589
+LOCATION:COSEC DE HEGENHEIM\, Rue du Collège Hégenheim 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558589
+END:VEVENT
+END:VCALENDAR

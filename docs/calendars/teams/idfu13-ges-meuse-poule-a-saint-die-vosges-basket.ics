@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAINT DIE VOSGES BASKET  [IDFU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de SAINT DIE VOSGES BASKET – IDFU13 – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-19-13-30-as-haut-du-lievre-nancy-saint
+ -die-vosg@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20260919T133000
+DTEND;TZID=Europe/Paris:20260919T153000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
+ EVRE  NANCY vs SAINT DIE VOSGES BASKET\n\nGYMNASE BUFFON\n📍 Rue Dominiq
+ ue Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.15411
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu1
+ 3/match/200000014616243
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616243
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-26-16-00-sluc-nancy-basket-association
+ -1-saint-@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – SAINT DIE VOSGES BASKE
+ T
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 1 vs SAINT DIE VOSGES BASKET\n\nPALAIS DES SPORTS ANNEX
+ E\n📍 Rue du Capitaine Guynemer Nancy 54100\n🚗 Waze : https://waze.co
+ m/ul?ll=48.69975\,6.13996&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0055/competitions/idfu13/match/200000014616251
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616251
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-10-10-13-30-entente-granges-gerardmer-sai
+ nt-die-vo@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:✈️ ENTENTE GRANGES GERARDMER – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ ENTENTE GRANG
+ ES GERARDMER vs SAINT DIE VOSGES BASKET\n\nGYMNASE PIERRE ET PAUL DIDIER\n
+ 📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=48
+ .07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616265
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616265
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-07-13-30-saint-die-vosges-basket-baske
+ t-club-go@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:🏠 SAINT DIE VOSGES BASKET – BASKET CLUB GOLBEY EPINAL
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ SAINT DIE VOS
+ GES BASKET vs BASKET CLUB GOLBEY EPINAL\n\nPALAIS OMNISP. J. CLAUDEL S. 1\
+ n📍 Rue du 12ème R.A. Prolongée Saint-Dié-des-Vosges 88100\n🚗 Waze
+  : https://waze.com/ul?ll=48.28424\,6.96799&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0055/competitions/idfu13/match/200000014616273
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616273
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-14-15-30-us-silvange-basket-2-saint-di
+ e-vosges-@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:✈️ US SILVANGE BASKET - 2 – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ US SILVANGE B
+ ASKET - 2 vs SAINT DIE VOSGES BASKET\n\nCOSEC LA ROUSSE\n📍 Rue Auguste 
+ Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.2121
+ 4\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competit
+ ions/idfu13/match/200000014616278
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616278
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-21-13-30-saint-die-vosges-basket-baske
+ t-all-sta@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261121T133000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:🏠 SAINT DIE VOSGES BASKET – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ SAINT DIE VOS
+ GES BASKET vs BASKET ALL STAR MUSSIPONTAIN\n\nPALAIS OMNISP. J. CLAUDEL S.
+  1\n📍 Rue du 12ème R.A. Prolongée Saint-Dié-des-Vosges 88100\n🚗 W
+ aze : https://waze.com/ul?ll=48.28424\,6.96799&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0055/competitions/idfu13/match/200000014616284
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616284
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,270 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB DE HARAUCOURT - 2  [DM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB DE HARAUCOURT - 2 – DM2 – GES – Ardennes – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-09-26-17-30-basket-club-de-haraucourt-2-m
+ arcassins@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20260926T173000
+DTEND;TZID=Europe/Paris:20260926T193000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT - 2 – MARCASSINS DE REVIN
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB D
+ E HARAUCOURT - 2 vs MARCASSINS DE REVIN\n\nSALLE MUNICIPALE\n📍 Rue de l
+ a Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4.96
+ 115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm
+ 2/match/200000014571040
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571040
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-03-00-00-union-sportive-de-laifour-2-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ UNION SPORTIVE DE LAIFOUR - 2 – BASKET CLUB DE HARAUCOURT 
+ - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ UNION SPORTIV
+ E DE LAIFOUR - 2 vs BASKET CLUB DE HARAUCOURT - 2\n\nSALLE J.GILLARD\n📍
+  Rue de la Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.91125
+ \,4.69269&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competiti
+ ons/dm2/match/200000014571047
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571047
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-10-00-00-basket-club-mouzonnais-basket
+ -club-de-@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BASKET CLUB MOUZONNAIS – BASKET CLUB DE HARAUCOURT - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB M
+ OUZONNAIS vs BASKET CLUB DE HARAUCOURT - 2\n\nGYMNASE DE MOUZON\n📍 Rue 
+ Jean-Claude Stolz Mouzon 08210\n🚗 Waze : https://waze.com/ul?ll=49.6059
+ 9\,5.07328&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competit
+ ions/dm2/match/200000014571048
+LOCATION:GYMNASE DE MOUZON\, Rue Jean-Claude Stolz Mouzon 08210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571048
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-17-00-00-ea-vaillante-vrigne-aux-bois-
+ 3-basket-@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ EA VAILLANTE VRIGNE AUX BOIS - 3 – BASKET CLUB DE HARAUCOU
+ RT - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ EA VAILLANTE 
+ VRIGNE AUX BOIS - 3 vs BASKET CLUB DE HARAUCOURT - 2\n\nSALLE BEREGOVOY\n
+ 📍 Avenue Jean Jaurès Vrigne aux Bois 08330\n🚗 Waze : https://waze.c
+ om/ul?ll=49.73658\,4.85224&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0008/competitions/dm2/match/200000014571054
+LOCATION:SALLE BEREGOVOY\, Avenue Jean Jaurès Vrigne aux Bois 08330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571054
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-24-20-00-basket-club-de-haraucourt-2-v
+ illers-se@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT - 2 – VILLERS SEMEUSE BASKET - 3
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB D
+ E HARAUCOURT - 2 vs VILLERS SEMEUSE BASKET - 3\n\nSALLE MUNICIPALE\n📍 R
+ ue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.6197
+ 6\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competit
+ ions/dm2/match/200000014571057
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571057
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-10-31-00-00-vireux-basket-club-basket-clu
+ b-de-hara@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261031T000000
+DTEND;TZID=Europe/Paris:20261031T020000
+SUMMARY:✈️ VIREUX BASKET CLUB – BASKET CLUB DE HARAUCOURT - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VIREUX BASKET
+  CLUB vs BASKET CLUB DE HARAUCOURT - 2\n\nCOSEC\n📍 Rue de la Campagne V
+ ireux-Wallerand 08320\n🚗 Waze : https://waze.com/ul?ll=50.08867\,4.7313
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571063
+LOCATION:COSEC\, Rue de la Campagne Vireux-Wallerand 08320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571063
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-11-07-17-30-basket-club-de-haraucourt-2-e
+ a-vaillan@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261107T173000
+DTEND;TZID=Europe/Paris:20261107T193000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT - 2 – EA VAILLANTE VRIGNE AUX BOIS
+  - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB D
+ E HARAUCOURT - 2 vs EA VAILLANTE VRIGNE AUX BOIS - 2\n\nSALLE MUNICIPALE\n
+ 📍 Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.61976\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/
+ competitions/dm2/match/200000014571066
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571066
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-11-14-00-00-marcassins-de-revin-basket-cl
+ ub-de-har@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ MARCASSINS DE REVIN – BASKET CLUB DE HARAUCOURT - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ MARCASSINS DE
+  REVIN vs BASKET CLUB DE HARAUCOURT - 2\n\nCOSEC SALENGRO\n📍 Rue Roger 
+ Salengro Revin 08500\n🚗 Waze : https://waze.com/ul?ll=49.93462\,4.63024
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/m
+ atch/200000014571068
+LOCATION:COSEC SALENGRO\, Rue Roger Salengro Revin 08500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571068
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-11-21-17-30-basket-club-de-haraucourt-2-u
+ nion-spor@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261121T173000
+DTEND;TZID=Europe/Paris:20261121T193000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT - 2 – UNION SPORTIVE DE LAIFOUR - 
+ 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB D
+ E HARAUCOURT - 2 vs UNION SPORTIVE DE LAIFOUR - 2\n\nSALLE MUNICIPALE\n
+ 📍 Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.61976\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/
+ competitions/dm2/match/200000014571075
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571075
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-12-05-17-30-basket-club-de-haraucourt-2-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261205T173000
+DTEND;TZID=Europe/Paris:20261205T193000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT - 2 – BASKET CLUB MOUZONNAIS
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB D
+ E HARAUCOURT - 2 vs BASKET CLUB MOUZONNAIS\n\nSALLE MUNICIPALE\n📍 Rue d
+ e la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4
+ .96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions
+ /dm2/match/200000014571076
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571076
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2026-12-12-17-30-basket-club-de-haraucourt-2-e
+ a-vaillan@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20261212T173000
+DTEND;TZID=Europe/Paris:20261212T193000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT - 2 – EA VAILLANTE VRIGNE AUX BOIS
+  - 3
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB D
+ E HARAUCOURT - 2 vs EA VAILLANTE VRIGNE AUX BOIS - 3\n\nSALLE MUNICIPALE\n
+ 📍 Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.61976\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/
+ competitions/dm2/match/200000014571082
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571082
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2027-01-09-00-00-villers-semeuse-basket-3-bask
+ et-club-d@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20270109T000000
+DTEND;TZID=Europe/Paris:20270109T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET - 3 – BASKET CLUB DE HARAUCOURT - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ VILLERS SEMEU
+ SE BASKET - 3 vs BASKET CLUB DE HARAUCOURT - 2\n\nCOSEC\n📍 Avenue Jean 
+ Jaurès Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096
+ \,4.74446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competiti
+ ons/dm2/match/200000014571085
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571085
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2027-01-16-17-30-basket-club-de-haraucourt-2-v
+ ireux-bas@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20270116T173000
+DTEND;TZID=Europe/Paris:20270116T193000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT - 2 – VIREUX BASKET CLUB
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB D
+ E HARAUCOURT - 2 vs VIREUX BASKET CLUB\n\nSALLE MUNICIPALE\n📍 Rue de la
+  Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4.961
+ 15&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2
+ /match/200000014571091
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571091
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-ardennes-poule-a-2027-01-23-00-00-ea-vaillante-vrigne-aux-bois-
+ 2-basket-@ffbb-agenda
+DTSTAMP:20260819T080606Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ EA VAILLANTE VRIGNE AUX BOIS - 2 – BASKET CLUB DE HARAUCOU
+ RT - 2
+DESCRIPTION:🏀 DM2 – GES – Ardennes – Poule A\n⚔️ EA VAILLANTE 
+ VRIGNE AUX BOIS - 2 vs BASKET CLUB DE HARAUCOURT - 2\n\nSALLE BEREGOVOY\n
+ 📍 Avenue Jean Jaurès Vrigne aux Bois 08330\n🚗 Waze : https://waze.c
+ om/ul?ll=49.73658\,4.85224&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0008/competitions/dm2/match/200000014571094
+LOCATION:SALLE BEREGOVOY\, Avenue Jean Jaurès Vrigne aux Bois 08330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm2/
+ match/200000014571094
+END:VEVENT
+END:VCALENDAR

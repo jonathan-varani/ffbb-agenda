@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LES LYNX MAXEVILLOIS  [IDFU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de LES LYNX MAXEVILLOIS – IDFU15 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-09-19-16-00-la-valdajolaise-les-lynx-max
+ evillois@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:✈️ LA VALDAJOLAISE – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ LA VALDAJOLA
+ ISE vs LES LYNX MAXEVILLOIS\n\nSALLE MUNICIPALE SPORTS\n📍 Rue des Oeuvr
+ es Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.92639\,6.478
+ 49&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idf
+ u15/match/200000014624815
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624815
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-09-26-16-00-les-lynx-maxevillois-basket-
+ club-chav@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ LES LYNX MAX
+ EVILLOIS vs BASKET CLUB CHAVELOTAIS\n\nSALLE LEO LAGRANGE\n📍 Rue de l'O
+ rne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.96407\,1.
+ 72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/
+ idfu15/match/200000014624823
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624823
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-10-03-16-00-les-lynx-maxevillois-as-haut
+ -du-lievr@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ LES LYNX MAX
+ EVILLOIS vs AS HAUT DU LIEVRE  NANCY\n\nSALLE LEO LAGRANGE\n📍 Rue de l'
+ Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.96407\,1
+ .72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions
+ /idfu15/match/200000014624831
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624831
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-10-10-16-00-entente-bayon-blainville-dam
+ elevieres@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:✈️ Entente Bayon Blainville Damelevières Basketball – LES LY
+ NX MAXEVILLOIS
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ Entente Bayo
+ n Blainville Damelevières Basketball vs LES LYNX MAXEVILLOIS\n\nHALL DES 
+ SPORTS\n📍 Rue des Écoles Bayon 54290\n🚗 Waze : https://waze.com/ul?
+ ll=48.47701\,6.31581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/008
+ 8/competitions/idfu15/match/200000014624839
+LOCATION:HALL DES SPORTS\, Rue des Écoles Bayon 54290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624839
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-07-16-00-les-lynx-maxevillois-sluc-na
+ ncy-baske@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 LES LYNX MAXEVILLOIS – SLUC NANCY BASKET ASSOCIATION - 1
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ LES LYNX MAX
+ EVILLOIS vs SLUC NANCY BASKET ASSOCIATION - 1\n\nSALLE LEO LAGRANGE\n📍 
+ Rue de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48
+ .96407\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/idfu15/match/200000014624847
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624847
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-14-16-00-asptt-nancy-tomblaine-les-ly
+ nx-maxevi@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ ASPTT NANCY 
+ TOMBLAINE vs LES LYNX MAXEVILLOIS\n\nCOSEC 1\n📍 Rue Jean Moulin Tomblai
+ ne 54510\n🚗 Waze : https://waze.com/ul?ll=48.69542\,6.21374&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu15/match/2000
+ 00014624855
+LOCATION:COSEC 1\, Rue Jean Moulin Tomblaine 54510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624855
+END:VEVENT
+END:VCALENDAR

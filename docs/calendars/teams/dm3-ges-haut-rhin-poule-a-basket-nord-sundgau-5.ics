@@ -1,0 +1,335 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET NORD SUNDGAU - 5  [DM3 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET NORD SUNDGAU - 5 – DM3 – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2026-10-03-00-00-basket-nord-sundgau-5-cssl-s
+ ausheim-2@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 5 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NORD 
+ SUNDGAU - 5 vs CSSL SAUSHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach
+  Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/
+ 200000014558826
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558826
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2026-10-11-09-00-basket-nord-sundgau-5-bc-st-
+ georges-c@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20261011T090000
+DTEND;TZID=Europe/Paris:20261011T110000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 5 – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NORD 
+ SUNDGAU - 5 vs BC ST GEORGES CARSPACH - 2\n\nPOLY SPECHBACH\n📍 Place de
+  l'Église Spechbach 68720\n🚗 Waze : https://waze.com/ul?ll=47.66884\,7
+ .22709&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dm3/match/200000014558817
+LOCATION:POLY SPECHBACH\, Place de l'Église Spechbach 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558817
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2026-10-17-00-00-basket-nord-sundgau-5-basket
+ -club-ros@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 5 – BASKET CLUB ROSENAU - 1
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NORD 
+ SUNDGAU - 5 vs BASKET CLUB ROSENAU - 1\n\nPOLY ILLFURTH\n📍 Route de Spe
+ chbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.2557
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558831
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558831
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2026-11-08-16-30-basket-club-illzach-1-basket
+ -nord-sun@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20261108T163000
+DTEND;TZID=Europe/Paris:20261108T183000
+SUMMARY:✈️ BASKET CLUB ILLZACH - 1 – BASKET NORD SUNDGAU - 5
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET CLUB 
+ ILLZACH - 1 vs BASKET NORD SUNDGAU - 5\n\nGYMNASE DU CANAL\n📍 Rue du Ca
+ nal Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/matc
+ h/200000014558836
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558836
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2026-11-14-00-00-basket-nord-sundgau-5-as-kay
+ sersberg-@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 5 – AS KAYSERSBERG AMMERSCHWIHR BCA - 
+ 3
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NORD 
+ SUNDGAU - 5 vs AS KAYSERSBERG AMMERSCHWIHR BCA - 3\n\nPOLY ILLFURTH\n📍 
+ Route de Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.6
+ 7735\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/dm3/match/200000014558841
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558841
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2026-11-21-18-30-fcsl-eguisheim-3-basket-nord
+ -sundgau-@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20261121T183000
+DTEND;TZID=Europe/Paris:20261121T203000
+SUMMARY:✈️ FCSL EGUISHEIM - 3 – BASKET NORD SUNDGAU - 5
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ FCSL EGUISHE
+ IM - 3 vs BASKET NORD SUNDGAU - 5\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue 
+ de Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.044
+ 39\,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dm3/match/200000014558846
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558846
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2026-12-05-20-00-mulhouse-basket-club-amateur
+ -2-basket@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:✈️ MULHOUSE BASKET CLUB AMATEUR - 2 – BASKET NORD SUNDGAU - 5
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ MULHOUSE BAS
+ KET CLUB AMATEUR - 2 vs BASKET NORD SUNDGAU - 5\n\nGYMNASE MARCEL TSCHANZ\
+ n📍 Rue Albert Camus Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=
+ 47.73426\,7.30339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dm3/match/200000014558851
+LOCATION:GYMNASE MARCEL TSCHANZ\, Rue Albert Camus Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558851
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2026-12-12-00-00-guebwiller-as-saint-leger-3-
+ basket-no@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 3 – BASKET NORD SUNDGAU - 5
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ GUEBWILLER A
+ S SAINT LEGER - 3 vs BASKET NORD SUNDGAU - 5\n\nGYMNASE THEODORE DECK\n
+ 📍 Rue Théodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/ul?
+ ll=47.90723\,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/dm3/match/200000014558856
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558856
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-01-16-00-00-basket-nord-sundgau-5-asc-sa
+ int-romai@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 5 – ASC SAINT ROMAIN REININGUE - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NORD 
+ SUNDGAU - 5 vs ASC SAINT ROMAIN REININGUE - 2\n\nPOLY ILLFURTH\n📍 Route
+  de Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\
+ ,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dm3/match/200000014558861
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558861
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-01-23-00-00-bc-st-georges-carspach-2-bas
+ ket-nord-@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ BC ST GEORGES CARSPACH - 2 – BASKET NORD SUNDGAU - 5
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BC ST GEORGE
+ S CARSPACH - 2 vs BASKET NORD SUNDGAU - 5\n\nGYMNASE PLESSIER\n📍 Avenue
+  du 8ème Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.c
+ om/ul?ll=47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0068/competitions/dm3/match/200000014558862
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558862
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-02-07-10-00-cssl-sausheim-2-basket-nord-
+ sundgau-5@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270207T100000
+DTEND;TZID=Europe/Paris:20270207T120000
+SUMMARY:✈️ CSSL SAUSHEIM - 2 – BASKET NORD SUNDGAU - 5
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ CSSL SAUSHEI
+ M - 2 vs BASKET NORD SUNDGAU - 5\n\nCOSEC - SALLE 1\n📍 Rue des Grains S
+ ausheim 68390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/20
+ 0000014558871
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558871
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-02-13-00-00-basket-club-rosenau-1-basket
+ -nord-sun@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ BASKET CLUB ROSENAU - 1 – BASKET NORD SUNDGAU - 5
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET CLUB 
+ ROSENAU - 1 vs BASKET NORD SUNDGAU - 5\n\nSALLE DES SPORTS L'ESCALE\n📍 
+ Rosenau 68128\n🚗 Waze : https://waze.com/ul?ll=47.63686\,7.53491&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match/20
+ 0000014558876
+LOCATION:SALLE DES SPORTS L'ESCALE\, Rosenau 68128
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558876
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-03-13-00-00-basket-nord-sundgau-5-basket
+ -club-ill@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 5 – BASKET CLUB ILLZACH - 1
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NORD 
+ SUNDGAU - 5 vs BASKET CLUB ILLZACH - 1\n\nPOLY ILLFURTH\n📍 Route de Spe
+ chbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.2557
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558881
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558881
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-03-21-11-00-as-kaysersberg-ammerschwihr-
+ bca-3-bas@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270321T110000
+DTEND;TZID=Europe/Paris:20270321T130000
+SUMMARY:✈️ AS KAYSERSBERG AMMERSCHWIHR BCA - 3 – BASKET NORD SUNDGAU 
+ - 5
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ AS KAYSERSBE
+ RG AMMERSCHWIHR BCA - 3 vs BASKET NORD SUNDGAU - 5\n\nSALLE THEO FALLER\n
+ 📍 Rue des Tilleuls Kaysersberg Vignoble 68240\n🚗 Waze : https://waze
+ .com/ul?ll=48.14653\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0068/competitions/dm3/match/200000014558886
+LOCATION:SALLE THEO FALLER\, Rue des Tilleuls Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558886
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-04-03-00-00-basket-nord-sundgau-5-fcsl-e
+ guisheim-@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 5 – FCSL EGUISHEIM - 3
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NORD 
+ SUNDGAU - 5 vs FCSL EGUISHEIM - 3\n\nPOLY ILLFURTH\n📍 Route de Spechbac
+ h Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/match
+ /200000014558891
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558891
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-04-10-00-00-basket-nord-sundgau-5-mulhou
+ se-basket@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 5 – MULHOUSE BASKET CLUB AMATEUR - 2
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NORD 
+ SUNDGAU - 5 vs MULHOUSE BASKET CLUB AMATEUR - 2\n\nPOLY ILLFURTH\n📍 Rou
+ te de Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.6773
+ 5\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dm3/match/200000014558896
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558896
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-05-08-00-00-basket-nord-sundgau-5-guebwi
+ ller-as-s@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270508T000000
+DTEND;TZID=Europe/Paris:20270508T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 5 – GUEBWILLER AS SAINT LEGER - 3
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NORD 
+ SUNDGAU - 5 vs GUEBWILLER AS SAINT LEGER - 3\n\nPOLY ILLFURTH\n📍 Route 
+ de Spechbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,
+ 7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dm3/match/200000014558901
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558901
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-haut-rhin-poule-a-2027-05-15-18-30-asc-saint-romain-reiningue-2
+ -basket-n@ffbb-agenda
+DTSTAMP:20260819T080836Z
+DTSTART;TZID=Europe/Paris:20270515T183000
+DTEND;TZID=Europe/Paris:20270515T203000
+SUMMARY:✈️ ASC SAINT ROMAIN REININGUE - 2 – BASKET NORD SUNDGAU - 5
+DESCRIPTION:🏀 DM3 – GES – Haut-Rhin – Poule A\n⚔️ ASC SAINT RO
+ MAIN REININGUE - 2 vs BASKET NORD SUNDGAU - 5\n\nHALLE DES SPORTS\n📍 Ru
+ e des Pierres Reiningue 68950\n🚗 Waze : https://waze.com/ul?ll=47.75275
+ \,7.23204&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dm3/match/200000014558906
+LOCATION:HALLE DES SPORTS\, Rue des Pierres Reiningue 68950
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm3/
+ match/200000014558906
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB ILLZACH  [DMU11 – GES – Poule D]
+X-WR-CALDESC:Matchs de BASKET CLUB ILLZACH – DMU11 – GES – Haut-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-09-26-13-30-colmar-basket-2-basket-clu
+ b-illzach@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:✈️ COLMAR BASKET - 2 – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ COLMAR BAS
+ KET - 2 vs BASKET CLUB ILLZACH\n\nGYMNASE PFEFFEL\n📍 Rue de la Bagatell
+ e Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match
+ /200000014559404
+LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559404
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-03-13-30-basket-club-illzach-asc-st
+ e-afre-ri@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:🏠 BASKET CLUB ILLZACH – ASC STE AFRE RIEDISHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ BASKET CLU
+ B ILLZACH vs ASC STE AFRE RIEDISHEIM - 2\n\nGYMNASE DU CANAL\n📍 Rue du 
+ Canal Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/
+ match/200000014559408
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559408
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-10-13-30-as-de-chalampe-basket-club
+ -illzach@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:✈️ AS DE CHALAMPE – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ AS DE CHAL
+ AMPE vs BASKET CLUB ILLZACH\n\nSALLE POLYVALENTE\n📍 Avenue de la Gare C
+ halampé 68490\n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match
+ /200000014559412
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559412
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-10-17-14-00-basket-club-illzach-as-kay
+ sersberg-@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T160000
+SUMMARY:🏠 BASKET CLUB ILLZACH – AS KAYSERSBERG AMMERSCHWIHR BCA - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ BASKET CLU
+ B ILLZACH vs AS KAYSERSBERG AMMERSCHWIHR BCA - 2\n\nGYMNASE DU CANAL\n📍
+  Rue du Canal Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,
+ 7.36189&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dmu11/match/200000014559420
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559420
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-07-00-00-bc-kunheim-basket-club-ill
+ zach@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ BC KUNHEIM – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ BC KUNHEIM
+  vs BASKET CLUB ILLZACH\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 
+ 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/match/200000014
+ 559426
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559426
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-14-00-00-fcsl-eguisheim-1-basket-cl
+ ub-illzac@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ FCSL EGUISHEIM - 1 – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ FCSL EGUIS
+ HEIM - 1 vs BASKET CLUB ILLZACH\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de
+  Hinterzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439
+ \,7.31428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu11/match/200000014559429
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559429
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-11-21-17-00-mulhouse-basket-club-amate
+ ur-basket@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261121T170000
+DTEND;TZID=Europe/Paris:20261121T190000
+SUMMARY:✈️ MULHOUSE BASKET CLUB AMATEUR – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ MULHOUSE B
+ ASKET CLUB AMATEUR vs BASKET CLUB ILLZACH\n\nGYMNASE MARCEL TSCHANZ\n📍 
+ Rue Albert Camus Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.734
+ 26\,7.30339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dmu11/match/200000014559435
+LOCATION:GYMNASE MARCEL TSCHANZ\, Rue Albert Camus Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559435
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-12-05-13-30-basket-club-illzach-guebwi
+ ller-as-s@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261205T133000
+DTEND;TZID=Europe/Paris:20261205T153000
+SUMMARY:🏠 BASKET CLUB ILLZACH – GUEBWILLER AS SAINT LEGER - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ BASKET CLU
+ B ILLZACH vs GUEBWILLER AS SAINT LEGER - 2\n\nGYMNASE DU CANAL\n📍 Rue d
+ u Canal Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.3618
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559439
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559439
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-d-2026-12-12-13-30-basket-club-illzach-mustan
+ gs-associ@ffbb-agenda
+DTSTAMP:20260819T081022Z
+DTSTART;TZID=Europe/Paris:20261212T133000
+DTEND;TZID=Europe/Paris:20261212T153000
+SUMMARY:🏠 BASKET CLUB ILLZACH – MUSTANGS ASSOCIATION - 2
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule D\n⚔️ BASKET CLU
+ B ILLZACH vs MUSTANGS ASSOCIATION - 2\n\nGYMNASE DU CANAL\n📍 Rue du Can
+ al Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/mat
+ ch/200000014559444
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559444
+END:VEVENT
+END:VCALENDAR

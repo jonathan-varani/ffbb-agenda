@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSSL SAUSHEIM - 2  [DMU15 – GES]
+X-WR-CALDESC:Matchs de CSSL SAUSHEIM - 2 – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-19-14-00-cssl-sausheim-2-basket-club-illzac
+ h-1@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – BASKET CLUB ILLZACH - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs B
+ ASKET CLUB ILLZACH - 1\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 68
+ 390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59805
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559805
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-26-00-00-basket-nord-sundgau-2-cssl-saushei
+ m-2@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 2 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU - 
+ 2 vs CSSL SAUSHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 
+ 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20000001
+ 4559808
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559808
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-16-45-cssl-sausheim-2-ent-blotzheim-sier
+ entz@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261003T164500
+DTEND;TZID=Europe/Paris:20261003T184500
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – ENT BLOTZHEIM/SIERENTZ
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs E
+ NT BLOTZHEIM/SIERENTZ\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 683
+ 90\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59810
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559810
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-11-14-00-cssl-sausheim-2-asl-dessenheim-2@f
+ fbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261011T140000
+DTEND;TZID=Europe/Paris:20261011T160000
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs A
+ SL DESSENHEIM - 2\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 68390\n
+ 🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000014559812
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559812
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-17-00-00-as-kaysersberg-ammerschwihr-bca-cs
+ sl-saushe@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ AS KAYSERSBERG AMMERSCHWIHR BCA – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ AS KAYSERSBERG AMMERSC
+ HWIHR BCA vs CSSL SAUSHEIM - 2\n\nSALLE THEO FALLER\n📍 Rue des Tilleuls
+  Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.14653\,
+ 7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dmu15/match/200000014559816
+LOCATION:SALLE THEO FALLER\, Rue des Tilleuls Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559816
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-07-17-00-basket-club-illzach-1-cssl-saushei
+ m-2@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261107T170000
+DTEND;TZID=Europe/Paris:20261107T190000
+SUMMARY:✈️ BASKET CLUB ILLZACH - 1 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH - 
+ 1 vs CSSL SAUSHEIM - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 6811
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59820
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559820
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-14-18-00-cssl-sausheim-2-basket-nord-sundga
+ u-2@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs B
+ ASKET NORD SUNDGAU - 2\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 68
+ 390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59823
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559823
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-00-00-ent-blotzheim-sierentz-cssl-saushe
+ im-2@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ ENT BLOTZHEIM/SIERENTZ – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ENT BLOTZHEIM/SIERENTZ
+  vs CSSL SAUSHEIM - 2\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu15/match/200000014559825
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559825
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-05-00-00-asl-dessenheim-2-cssl-sausheim-2@f
+ fbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ ASL DESSENHEIM - 2 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASL DESSENHEIM - 2 vs 
+ CSSL SAUSHEIM - 2\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Dessenhei
+ m 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000
+ 014559827
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559827
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-16-00-cssl-sausheim-2-as-kaysersberg-amm
+ erschwihr@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – AS KAYSERSBERG AMMERSCHWIHR BCA
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs A
+ S KAYSERSBERG AMMERSCHWIHR BCA\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sau
+ sheim 68390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20
+ 0000014559831
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559831
+END:VEVENT
+END:VCALENDAR

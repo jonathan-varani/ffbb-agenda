@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BERRWILLER/STAFFELFELDEN BC - 2  [DFU18 – GES]
+X-WR-CALDESC:Matchs de BERRWILLER/STAFFELFELDEN BC - 2 – DFU18 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-09-19-00-00-ent-carspach-altkirch-berrwiller-s
+ taffelfel@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ ENT CARSPACH/ALTKIRCH – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ ENT CARSPACH/ALTKIRCH 
+ vs BERRWILLER/STAFFELFELDEN BC - 2\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 68/competitions/dfu18/match/200000014558503
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558503
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-09-26-19-00-berrwiller-staffelfelden-bc-2-as-h
+ orbourg-w@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20260926T190000
+DTEND;TZID=Europe/Paris:20260926T210000
+SUMMARY:🏠 BERRWILLER/STAFFELFELDEN BC - 2 – AS HORBOURG-WIHR - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFELD
+ EN BC - 2 vs AS HORBOURG-WIHR - 2\n\nSALLE DES SPORTS\n📍 Rue de Hartman
+ nswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\,7.
+ 21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dfu18/match/200000014558507
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558507
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-10-03-00-00-basket-club-moernach-2-berrwiller-
+ staffelfe@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BASKET CLUB MOERNACH - 2 – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BASKET CLUB MOERNACH -
+  2 vs BERRWILLER/STAFFELFELDEN BC - 2\n\nSALLE DE SPORT\n📍 Rue du Maré
+ chal-Ferrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,
+ 7.25416&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dfu18/match/200000014558510
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558510
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-10-11-10-30-berrwiller-staffelfelden-bc-2-ie-c
+ tc-jura-a@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261011T103000
+DTEND;TZID=Europe/Paris:20261011T123000
+SUMMARY:🏠 BERRWILLER/STAFFELFELDEN BC - 2 – IE - CTC JURA ALSACIEN BAS
+ KET - 1
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFELD
+ EN BC - 2 vs IE - CTC JURA ALSACIEN BASKET - 1\n\nSALLE DES SPORTS\n📍 R
+ ue de Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll
+ =47.85229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu18/match/200000014558512
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558512
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-10-17-00-00-ie-ctc-de-la-hardt-berrwiller-staf
+ felfelden@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ IE - CTC DE LA HARDT – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ IE - CTC DE LA HARDT v
+ s BERRWILLER/STAFFELFELDEN BC - 2\n\nSALLE DES SPORTS\n📍 Route National
+ e Rumersheim-le-Haut 68740\n🚗 Waze : https://waze.com/ul?ll=47.85101\,7
+ .51746&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dfu18/match/200000014558514
+LOCATION:SALLE DES SPORTS\, Route Nationale Rumersheim-le-Haut 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558514
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-11-07-17-15-berrwiller-staffelfelden-bc-2-ent-
+ carspach-@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261107T171500
+DTEND;TZID=Europe/Paris:20261107T191500
+SUMMARY:🏠 BERRWILLER/STAFFELFELDEN BC - 2 – ENT CARSPACH/ALTKIRCH
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFELD
+ EN BC - 2 vs ENT CARSPACH/ALTKIRCH\n\nSALLE DES SPORTS\n📍 Rue de Hartma
+ nnswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\,7
+ .21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dfu18/match/200000014558518
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558518
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-11-14-18-30-as-horbourg-wihr-2-berrwiller-staf
+ felfelden@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261114T183000
+DTEND;TZID=Europe/Paris:20261114T203000
+SUMMARY:✈️ AS HORBOURG-WIHR - 2 – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ AS HORBOURG-WIHR - 2 v
+ s BERRWILLER/STAFFELFELDEN BC - 2\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue 
+ de Lorraine Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.084
+ 37\,7.39293&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dfu18/match/200000014558522
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558522
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-11-29-11-00-berrwiller-staffelfelden-bc-2-bask
+ et-club-m@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261129T110000
+DTEND;TZID=Europe/Paris:20261129T130000
+SUMMARY:🏠 BERRWILLER/STAFFELFELDEN BC - 2 – BASKET CLUB MOERNACH - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFELD
+ EN BC - 2 vs BASKET CLUB MOERNACH - 2\n\nSALLE DES SPORTS\n📍 Rue de Har
+ tmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229
+ \,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dfu18/match/200000014558525
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558525
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-12-05-00-00-ie-ctc-jura-alsacien-basket-1-berr
+ willer-st@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 1 – BERRWILLER/STAFFELFELD
+ EN BC - 2
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACIEN
+  BASKET - 1 vs BERRWILLER/STAFFELFELDEN BC - 2\n\nGYMNASE DU COLLEGE\n📍
+  Rue Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.5
+ 0144\,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/dfu18/match/200000014558527
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558527
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-haut-rhin-2026-12-12-16-00-berrwiller-staffelfelden-bc-2-ie-c
+ tc-de-la-@ffbb-agenda
+DTSTAMP:20260819T080722Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:🏠 BERRWILLER/STAFFELFELDEN BC - 2 – IE - CTC DE LA HARDT
+DESCRIPTION:🏀 DFU18 – GES – Haut-Rhin\n⚔️ BERRWILLER/STAFFELFELD
+ EN BC - 2 vs IE - CTC DE LA HARDT\n\nSALLE DES SPORTS\n📍 Rue de Hartman
+ nswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\,7.
+ 21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dfu18/match/200000014558529
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 8/match/200000014558529
+END:VEVENT
+END:VCALENDAR

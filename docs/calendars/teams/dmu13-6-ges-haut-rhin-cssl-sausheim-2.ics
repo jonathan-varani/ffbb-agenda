@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSSL SAUSHEIM - 2  [DMU13-6 – GES]
+X-WR-CALDESC:Matchs de CSSL SAUSHEIM - 2 – DMU13-6 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-09-19-14-30-abc-lutterbach-cssl-sausheim-2@f
+ fbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20260919T143000
+DTEND;TZID=Europe/Paris:20260919T163000
+SUMMARY:✈️ ABC LUTTERBACH – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ ABC LUTTERBACH vs CS
+ SL SAUSHEIM - 2\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach 68460\n🚗
+  Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0068/competitions/dmu13-6/match/200000014559594
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559594
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-09-27-15-45-cssl-sausheim-2-basket-nord-sund
+ gau-3@ffbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20260927T154500
+DTEND;TZID=Europe/Paris:20260927T174500
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – BASKET NORD SUNDGAU - 3
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs
+  BASKET NORD SUNDGAU - 3\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 
+ 68390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/match/200000
+ 014559598
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559598
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-10-03-00-00-as-kaysersberg-ammerschwihr-bca-
+ cssl-saus@ffbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ AS KAYSERSBERG AMMERSCHWIHR BCA – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ AS KAYSERSBERG AMMER
+ SCHWIHR BCA vs CSSL SAUSHEIM - 2\n\nSALLE THEO FALLER\n📍 Rue des Tilleu
+ ls Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.14653
+ \,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu13-6/match/200000014559601
+LOCATION:SALLE THEO FALLER\, Rue des Tilleuls Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559601
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-10-11-10-00-cssl-sausheim-2-mustangs-associa
+ tion-3@ffbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20261011T100000
+DTEND;TZID=Europe/Paris:20261011T120000
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – MUSTANGS ASSOCIATION - 3
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs
+  MUSTANGS ASSOCIATION - 3\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim
+  68390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/match/20000
+ 0014559603
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559603
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-10-17-00-00-asl-dessenheim-2-cssl-sausheim-2
+ @ffbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ ASL DESSENHEIM - 2 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ ASL DESSENHEIM - 2 v
+ s CSSL SAUSHEIM - 2\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Dessenh
+ eim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/match/20
+ 0000014559605
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559605
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-11-07-17-00-cssl-sausheim-2-abc-lutterbach@f
+ fbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20261107T170000
+DTEND;TZID=Europe/Paris:20261107T190000
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – ABC LUTTERBACH
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs
+  ABC LUTTERBACH\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 68390\n
+ 🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/match/2000000145596
+ 09
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559609
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-11-14-00-00-basket-nord-sundgau-3-cssl-saush
+ eim-2@ffbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 3 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 3 vs CSSL SAUSHEIM - 2\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurt
+ h 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/match/2000
+ 00014559613
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559613
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-11-28-15-45-cssl-sausheim-2-as-kaysersberg-a
+ mmerschwi@ffbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20261128T154500
+DTEND;TZID=Europe/Paris:20261128T174500
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – AS KAYSERSBERG AMMERSCHWIHR BCA
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs
+  AS KAYSERSBERG AMMERSCHWIHR BCA\n\nCOSEC - SALLE 1\n📍 Rue des Grains S
+ ausheim 68390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/matc
+ h/200000014559616
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559616
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-12-05-17-00-mustangs-association-3-cssl-saus
+ heim-2@ffbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20261205T170000
+DTEND;TZID=Europe/Paris:20261205T190000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 3 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ MUSTANGS ASSOCIATION
+  - 3 vs CSSL SAUSHEIM - 2\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pf
+ astatt 68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/match
+ /200000014559618
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559618
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-6-ges-haut-rhin-2026-12-12-14-00-cssl-sausheim-2-asl-dessenheim-2
+ @ffbb-agenda
+DTSTAMP:20260819T080954Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:🏠 CSSL SAUSHEIM - 2 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DMU13-6 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs
+  ASL DESSENHEIM - 2\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 68390
+ \n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu13-6/match/20000001
+ 4559620
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 3-6/match/200000014559620
+END:VEVENT
+END:VCALENDAR

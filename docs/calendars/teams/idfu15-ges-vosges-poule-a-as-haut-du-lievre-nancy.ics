@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS HAUT DU LIEVRE  NANCY  [IDFU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de AS HAUT DU LIEVRE  NANCY – IDFU15 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-09-19-16-00-asptt-nancy-tomblaine-as-hau
+ t-du-liev@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ ASPTT NANCY 
+ TOMBLAINE vs AS HAUT DU LIEVRE  NANCY\n\nCOSEC 1\n📍 Rue Jean Moulin Tom
+ blaine 54510\n🚗 Waze : https://waze.com/ul?ll=48.69542\,6.21374&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu15/match/
+ 200000014624817
+LOCATION:COSEC 1\, Rue Jean Moulin Tomblaine 54510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624817
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-10-03-16-00-les-lynx-maxevillois-as-haut
+ -du-lievr@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ LES LYNX MAXEVILLOIS – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ LES LYNX MAX
+ EVILLOIS vs AS HAUT DU LIEVRE  NANCY\n\nSALLE LEO LAGRANGE\n📍 Rue de l'
+ Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.96407\,1
+ .72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions
+ /idfu15/match/200000014624831
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624831
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-10-10-16-00-as-haut-du-lievre-nancy-bask
+ et-club-c@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 AS HAUT DU LIEVRE  NANCY – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ AS HAUT DU L
+ IEVRE  NANCY vs BASKET CLUB CHAVELOTAIS\n\nGYMNASE BUFFON\n📍 Rue Domini
+ que Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.1541
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624842
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624842
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-07-16-00-as-haut-du-lievre-nancy-la-v
+ aldajolai@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 AS HAUT DU LIEVRE  NANCY – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ AS HAUT DU L
+ IEVRE  NANCY vs LA VALDAJOLAISE\n\nGYMNASE BUFFON\n📍 Rue Dominique Loui
+ s Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.15411&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu15/match
+ /200000014624850
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624850
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-14-16-00-entente-bayon-blainville-dam
+ elevieres@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:✈️ Entente Bayon Blainville Damelevières Basketball – AS HAU
+ T DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ Entente Bayo
+ n Blainville Damelevières Basketball vs AS HAUT DU LIEVRE  NANCY\n\nHALL 
+ DES SPORTS\n📍 Rue des Écoles Bayon 54290\n🚗 Waze : https://waze.com
+ /ul?ll=48.47701\,6.31581&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0088/competitions/idfu15/match/200000014624858
+LOCATION:HALL DES SPORTS\, Rue des Écoles Bayon 54290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624858
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-21-16-00-as-haut-du-lievre-nancy-sluc
+ -nancy-ba@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:🏠 AS HAUT DU LIEVRE  NANCY – SLUC NANCY BASKET ASSOCIATION - 1
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ AS HAUT DU L
+ IEVRE  NANCY vs SLUC NANCY BASKET ASSOCIATION - 1\n\nGYMNASE BUFFON\n📍 
+ Rue Dominique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.701
+ 67\,6.15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competi
+ tions/idfu15/match/200000014624866
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624866
+END:VEVENT
+END:VCALENDAR

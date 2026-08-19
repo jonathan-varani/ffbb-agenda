@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – UNION SPORTIVE FLAXLANDEN  [DF2 – GES – Poule B]
+X-WR-CALDESC:Matchs de UNION SPORTIVE FLAXLANDEN – DF2 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-09-20-09-00-berrwiller-staffelfelden-bc-
+ 5-union-s@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20260920T090000
+DTEND;TZID=Europe/Paris:20260920T110000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 5 – UNION SPORTIVE FLAXLANDE
+ N
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BERRWILLER/S
+ TAFFELFELDEN BC - 5 vs UNION SPORTIVE FLAXLANDEN\n\nSALLE DES SPORTS\n📍
+  Rue de Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?
+ ll=47.85229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/df2/match/200000014558228
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558228
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-09-26-00-00-union-sportive-flaxlanden-as
+ -attensch@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 UNION SPORTIVE FLAXLANDEN – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN vs AS ATTENSCHWILLER\n\nSALLE DE SPORT\n📍 Allée des Noye
+ rs Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?ll=47.69174\,7.32584&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/ma
+ tch/200000014558232
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558232
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-10-10-00-00-ie-ctc-de-l-ill-3-union-spor
+ tive-flax@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 3 – UNION SPORTIVE FLAXLANDEN
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC DE 
+ L'ILL - 3 vs UNION SPORTIVE FLAXLANDEN\n\nCOMPLEXE SPORTIF E. VOGT\n📍 R
+ ue de l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\
+ ,7.36244&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/df2/match/200000014558238
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558238
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-07-00-00-union-sportive-flaxlanden-bc
+ -st-georg@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 UNION SPORTIVE FLAXLANDEN – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN vs BC ST GEORGES CARSPACH - 2\n\nSALLE DE SPORT\n📍 Allée
+  des Noyers Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?ll=47.69174\
+ ,7.32584&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/df2/match/200000014558242
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558242
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-14-00-00-basket-club-moernach-union-s
+ portive-f@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BASKET CLUB MOERNACH – UNION SPORTIVE FLAXLANDEN
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ MOERNACH vs UNION SPORTIVE FLAXLANDEN\n\nSALLE DE SPORT\n📍 Rue du Maré
+ chal-Ferrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,
+ 7.25416&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/df2/match/200000014558244
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558244
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-12-12-00-00-union-sportive-flaxlanden-ie
+ -ctc-thur@ffbb-agenda
+DTSTAMP:20260819T080712Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 UNION SPORTIVE FLAXLANDEN – IE - CTC THUR DOLLER BASKET CLUB
+  - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nSALLE DE SPORT\n
+ 📍 Allée des Noyers Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?l
+ l=47.69174\,7.32584&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/df2/match/200000014558254
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558254
+END:VEVENT
+END:VCALENDAR

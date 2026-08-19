@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC KUNHEIM - 2  [DMU15-3 – GES]
+X-WR-CALDESC:Matchs de BC KUNHEIM - 2 – DMU15-3 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-09-26-00-00-bc-kunheim-2-basket-club-illzach
+ -2@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BC KUNHEIM - 2 – BASKET CLUB ILLZACH - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs BA
+ SKET CLUB ILLZACH - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68
+ 320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/20000001
+ 4559984
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559984
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-10-03-00-00-basket-club-ribeauville-bc-kunhe
+ im-2@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BASKET CLUB RIBEAUVILLE – BC KUNHEIM - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BASKET CLUB RIBEAUVI
+ LLE vs BC KUNHEIM - 2\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dmu15-3/match/200000014559989
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559989
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-10-10-00-00-bc-kunheim-2-ie-ctc-jura-alsacie
+ n-basket@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BC KUNHEIM - 2 – IE - CTC JURA ALSACIEN BASKET
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs IE
+  - CTC JURA ALSACIEN BASKET\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunh
+ eim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/200
+ 000014559994
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559994
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-11-07-00-00-bc-kunheim-2-zillisheim-societe-
+ sportive@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BC KUNHEIM - 2 – ZILLISHEIM SOCIETE SPORTIVE
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs ZI
+ LLISHEIM SOCIETE SPORTIVE\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunhei
+ m 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/20000
+ 0014560004
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560004
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-11-14-16-30-as-de-chalampe-bc-kunheim-2@ffbb
+ -agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261114T163000
+DTEND;TZID=Europe/Paris:20261114T183000
+SUMMARY:✈️ AS DE CHALAMPE – BC KUNHEIM - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ AS DE CHALAMPE vs BC
+  KUNHEIM - 2\n\nSALLE POLYVALENTE\n📍 Avenue de la Gare Chalampé 68490\
+ n🚗 Waze : https://waze.com/ul?ll=47.81651\,7.53992&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/200000014560
+ 009
+LOCATION:SALLE POLYVALENTE\, Avenue de la Gare Chalampé 68490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560009
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-11-21-00-00-bc-kunheim-2-ie-ctc-thur-doller-
+ basket-cl@ffbb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BC KUNHEIM - 2 – IE - CTC THUR DOLLER BASKET CLUB - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs IE
+  - CTC THUR DOLLER BASKET CLUB - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Ver
+ ne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/ma
+ tch/200000014560014
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560014
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-12-05-00-00-bc-kunheim-2-fcsl-eguisheim-2@ff
+ bb-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BC KUNHEIM - 2 – FCSL EGUISHEIM - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ BC KUNHEIM - 2 vs FC
+ SL EGUISHEIM - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320\n
+ 🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/20000001456002
+ 2
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560022
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-12-12-15-30-colmar-basket-2-bc-kunheim-2@ffb
+ b-agenda
+DTSTAMP:20260819T080943Z
+DTSTART;TZID=Europe/Paris:20261212T153000
+DTEND;TZID=Europe/Paris:20261212T173000
+SUMMARY:✈️ COLMAR BASKET - 2 – BC KUNHEIM - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ COLMAR BASKET - 2 vs
+  BC KUNHEIM - 2\n\nGYMNASE CAMILLE SEE\n📍 Avenue de l'Europe Colmar 680
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.08067\,7.32589&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15-3/match/20000001
+ 4560023
+LOCATION:GYMNASE CAMILLE SEE\, Avenue de l'Europe Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014560023
+END:VEVENT
+END:VCALENDAR

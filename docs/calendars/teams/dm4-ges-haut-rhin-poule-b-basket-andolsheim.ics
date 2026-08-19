@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET ANDOLSHEIM  [DM4 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET ANDOLSHEIM – DM4 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-09-26-00-00-basket-andolsheim-richwiller
+ -union-sp@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BASKET ANDOLSHEIM – RICHWILLER UNION SPORTIVE - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs RICHWILLER UNION SPORTIVE - 2\n\nCOSEC FORTSCHWIHR\n📍 Route de
+  Colmar Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.
+ 44137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dm4/match/200000014559087
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559087
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-10-03-00-00-basket-club-ribeauville-bask
+ et-andols@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BASKET CLUB RIBEAUVILLE – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ RIBEAUVILLE vs BASKET ANDOLSHEIM\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/dm4/match/200000014559092
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559092
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-10-18-10-30-basket-andolsheim-ie-ctc-jur
+ a-alsacie@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261018T103000
+DTEND;TZID=Europe/Paris:20261018T123000
+SUMMARY:🏠 BASKET ANDOLSHEIM – IE - CTC JURA ALSACIEN BASKET - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs IE - CTC JURA ALSACIEN BASKET - 3\n\nCOSEC FORTSCHWIHR\n📍 Rout
+ e de Colmar Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549
+ \,7.44137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dm4/match/200000014559097
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559097
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-07-00-00-union-sportive-flaxlanden-3-
+ basket-an@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ UNION SPORTIVE FLAXLANDEN - 3 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN - 3 vs BASKET ANDOLSHEIM\n\nSALLE DE SPORT\n📍 Allée des 
+ Noyers Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?ll=47.69174\,7.32
+ 584&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ 4/match/200000014559102
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559102
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-15-10-30-basket-andolsheim-abc-lutter
+ bach-3@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261115T103000
+DTEND;TZID=Europe/Paris:20261115T123000
+SUMMARY:🏠 BASKET ANDOLSHEIM – ABC LUTTERBACH - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs ABC LUTTERBACH - 3\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar For
+ tschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/2
+ 00000014559107
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559107
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-21-00-00-ie-ctc-de-l-ill-3-basket-and
+ olsheim@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ IE - CTC DE L'ILL - 3 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC DE 
+ L'ILL - 3 vs BASKET ANDOLSHEIM\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'
+ Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/m
+ atch/200000014559112
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559112
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-12-05-00-00-basket-andolsheim-basket-clu
+ b-rosenau@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BASKET ANDOLSHEIM – BASKET CLUB ROSENAU - 2
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs BASKET CLUB ROSENAU - 2\n\nCOSEC FORTSCHWIHR\n📍 Route de Colma
+ r Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/ma
+ tch/200000014559117
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559117
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-12-12-00-00-as-attenschwiller-basket-and
+ olsheim@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ AS ATTENSCHWILLER – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs BASKET ANDOLSHEIM\n\nSALLE POLYVALENTE\n📍 Rue Charles de Gaull
+ e Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.56918\,7.457
+ 41&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4
+ /match/200000014559122
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559122
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-01-17-10-30-basket-andolsheim-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270117T103000
+DTEND;TZID=Europe/Paris:20270117T123000
+SUMMARY:🏠 BASKET ANDOLSHEIM – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs BASKET CLUB SIERENTZ\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar F
+ ortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match
+ /200000014559127
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559127
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-01-23-20-00-richwiller-union-sportive-2-
+ basket-an@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270123T200000
+DTEND;TZID=Europe/Paris:20270123T220000
+SUMMARY:✈️ RICHWILLER UNION SPORTIVE - 2 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE - 2 vs BASKET ANDOLSHEIM\n\nSALLE JEAN-MARIE PFEFFER\n📍 R
+ ue de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78
+ 251\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/dm4/match/200000014559132
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559132
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-02-07-10-30-basket-andolsheim-basket-clu
+ b-ribeauv@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270207T103000
+DTEND;TZID=Europe/Paris:20270207T123000
+SUMMARY:🏠 BASKET ANDOLSHEIM – BASKET CLUB RIBEAUVILLE
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs BASKET CLUB RIBEAUVILLE\n\nCOSEC FORTSCHWIHR\n📍 Route de Colma
+ r Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/ma
+ tch/200000014559137
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559137
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-02-13-00-00-ie-ctc-jura-alsacien-basket-
+ 3-basket-@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 3 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC JUR
+ A ALSACIEN BASKET - 3 vs BASKET ANDOLSHEIM\n\nGYMNASE DU COLLEGE\n📍 Rue
+  Alphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144
+ \,7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dm4/match/200000014559142
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559142
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-03-13-00-00-basket-andolsheim-union-spor
+ tive-flax@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 BASKET ANDOLSHEIM – UNION SPORTIVE FLAXLANDEN - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs UNION SPORTIVE FLAXLANDEN - 3\n\nCOSEC FORTSCHWIHR\n📍 Route de
+  Colmar Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.
+ 44137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/
+ dm4/match/200000014559147
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559147
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-03-21-09-00-abc-lutterbach-3-basket-ando
+ lsheim@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270321T090000
+DTEND;TZID=Europe/Paris:20270321T110000
+SUMMARY:✈️ ABC LUTTERBACH - 3 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ ABC LUTTERBA
+ CH - 3 vs BASKET ANDOLSHEIM\n\nSALLE REMY NOEL\n📍 Rue Wilson Lutterbach
+  68460\n🚗 Waze : https://waze.com/ul?ll=47.75854\,7.28054&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/200000014
+ 559152
+LOCATION:SALLE REMY NOEL\, Rue Wilson Lutterbach 68460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559152
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-04-04-10-30-basket-andolsheim-ie-ctc-de-
+ l-ill-3@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270404T103000
+DTEND;TZID=Europe/Paris:20270404T123000
+SUMMARY:🏠 BASKET ANDOLSHEIM – IE - CTC DE L'ILL - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs IE - CTC DE L'ILL - 3\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar 
+ Fortschwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/matc
+ h/200000014559157
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559157
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-04-10-00-00-basket-club-rosenau-2-basket
+ -andolshe@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ BASKET CLUB ROSENAU - 2 – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ ROSENAU - 2 vs BASKET ANDOLSHEIM\n\nSALLE DES SPORTS L'ESCALE\n📍 Rosena
+ u 68128\n🚗 Waze : https://waze.com/ul?ll=47.63686\,7.53491&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20000001
+ 4559162
+LOCATION:SALLE DES SPORTS L'ESCALE\, Rosenau 68128
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559162
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-05-09-10-30-basket-andolsheim-as-attensc
+ hwiller@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270509T103000
+DTEND;TZID=Europe/Paris:20270509T123000
+SUMMARY:🏠 BASKET ANDOLSHEIM – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET ANDOL
+ SHEIM vs AS ATTENSCHWILLER\n\nCOSEC FORTSCHWIHR\n📍 Route de Colmar Fort
+ schwihr 68320\n🚗 Waze : https://waze.com/ul?ll=48.09549\,7.44137&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/20
+ 0000014559167
+LOCATION:COSEC FORTSCHWIHR\, Route de Colmar Fortschwihr 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559167
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-05-16-10-30-basket-club-sierentz-basket-
+ andolshei@ffbb-agenda
+DTSTAMP:20260819T080848Z
+DTSTART;TZID=Europe/Paris:20270516T103000
+DTEND;TZID=Europe/Paris:20270516T123000
+SUMMARY:✈️ BASKET CLUB SIERENTZ – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs BASKET ANDOLSHEIM\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-Haas
+  Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/match/
+ 200000014559172
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559172
+END:VEVENT
+END:VCALENDAR

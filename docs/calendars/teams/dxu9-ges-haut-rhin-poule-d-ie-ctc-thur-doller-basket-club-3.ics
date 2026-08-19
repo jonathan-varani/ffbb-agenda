@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC THUR DOLLER BASKET CLUB - 3  [DXU9 – GES – Poule D]
+X-WR-CALDESC:Matchs de IE - CTC THUR DOLLER BASKET CLUB - 3 – DXU9 – GES – Haut-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-d-2026-09-26-00-00-asc-ste-afre-riedisheim-2-i
+ e-ctc-thu@ffbb-agenda
+DTSTAMP:20260819T081043Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 2 – IE - CTC THUR DOLLER BASKET 
+ CLUB - 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule D\n⚔️ ASC STE AFR
+ E RIEDISHEIM - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nGYMNASE BARTHO
+ LDI\n📍 Rue du Révérend Père Musslin Riedisheim 68400\n🚗 Waze : ht
+ tps://waze.com/ul?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0068/competitions/dxu9/match/200000014560756
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560756
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-d-2026-10-03-00-00-ie-ctc-thur-doller-basket-c
+ lub-3-ie-@ffbb-agenda
+DTSTAMP:20260819T081043Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 IE - CTC THUR DOLLER BASKET CLUB - 3 – IE - CTC DE L'ILL - 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule D\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 3 vs IE - CTC DE L'ILL - 3\n\nCENTRE SPORTIF BOURG
+ ER\n📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : https://waz
+ e.com/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0068/competitions/dxu9/match/200000014560760
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560760
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-d-2026-10-10-13-30-asca-wittelsheim-1-ie-ctc-t
+ hur-dolle@ffbb-agenda
+DTSTAMP:20260819T081043Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:✈️ ASCA WITTELSHEIM - 1 – IE - CTC THUR DOLLER BASKET CLUB - 
+ 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule D\n⚔️ ASCA WITTEL
+ SHEIM - 1 vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nSALLE AMELIE ZURCHER\
+ n📍 Rue de la 2ème D.I.M. Wittelsheim 68310\n🚗 Waze : https://waze.c
+ om/ul?ll=47.80135\,7.23869&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0068/competitions/dxu9/match/200000014560764
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560764
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-d-2026-10-17-00-00-ie-ctc-thur-doller-basket-c
+ lub-3-ie-@ffbb-agenda
+DTSTAMP:20260819T081043Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 IE - CTC THUR DOLLER BASKET CLUB - 3 – IE - CTC DE LA HARDT
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule D\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 3 vs IE - CTC DE LA HARDT\n\nCENTRE SPORTIF BOURGE
+ R\n📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : https://waze
+ .com/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0068/competitions/dxu9/match/200000014560768
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560768
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-d-2026-11-07-00-00-ie-ctc-thur-doller-basket-c
+ lub-2-ie-@ffbb-agenda
+DTSTAMP:20260819T081043Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 2 – IE - CTC THUR DOLLE
+ R BASKET CLUB - 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule D\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nCOMPL
+ EXE GAUGLER (GRANDE SALLE)\n📍 Rue Paul Burgy Masevaux-Niederbruck 68290
+ \n🚗 Waze : https://waze.com/ul?ll=47.76707\,6.99783&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000001456
+ 0776
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560776
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-d-2026-11-14-00-00-ie-ctc-thur-doller-basket-c
+ lub-3-bas@ffbb-agenda
+DTSTAMP:20260819T081043Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 IE - CTC THUR DOLLER BASKET CLUB - 3 – BASKET CLUB DE KINGER
+ SHEIM - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule D\n⚔️ IE - CTC TH
+ UR DOLLER BASKET CLUB - 3 vs BASKET CLUB DE KINGERSHEIM - 2\n\nCENTRE SPOR
+ TIF BOURGER\n📍 Place de la Halle des Sports Thann 68800\n🚗 Waze : ht
+ tps://waze.com/ul?ll=47.80333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0068/competitions/dxu9/match/200000014560780
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560780
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-d-2026-12-12-15-00-mustangs-association-2-ie-c
+ tc-thur-d@ffbb-agenda
+DTSTAMP:20260819T081043Z
+DTSTART;TZID=Europe/Paris:20261212T150000
+DTEND;TZID=Europe/Paris:20261212T170000
+SUMMARY:✈️ MUSTANGS ASSOCIATION - 2 – IE - CTC THUR DOLLER BASKET CLU
+ B - 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule D\n⚔️ MUSTANGS AS
+ SOCIATION - 2 vs IE - CTC THUR DOLLER BASKET CLUB - 3\n\nSALLE POLYVALENTE
+ \n📍 Rue de Kingersheim Pfastatt 68120\n🚗 Waze : https://waze.com/ul?
+ ll=47.77264\,7.30777&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/dxu9/match/200000014560796
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560796
+END:VEVENT
+END:VCALENDAR

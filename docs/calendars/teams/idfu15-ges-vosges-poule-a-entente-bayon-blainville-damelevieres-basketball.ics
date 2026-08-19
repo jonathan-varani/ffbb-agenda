@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – Entente Bayon Blainville Damelevières Basketball  [IDFU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de Entente Bayon Blainville Damelevières Basketball – IDFU15 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-09-19-14-00-sluc-nancy-basket-associatio
+ n-1-enten@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – Entente Bayon Blainvil
+ le Damelevières Basketball
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ SLUC NANCY B
+ ASKET ASSOCIATION - 1 vs Entente Bayon Blainville Damelevières Basketball
+ \n\nGYMNASE DU PLACIEUX\n📍 Rue John Fitzgerald Kennedy Villers-lès-Nan
+ cy 54600\n🚗 Waze : https://waze.com/ul?ll=48.67325\,6.16224&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu15/match/2000
+ 00014624818
+LOCATION:GYMNASE DU PLACIEUX\, Rue John Fitzgerald Kennedy Villers-lès-Nan
+ cy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624818
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-09-26-16-00-entente-bayon-blainville-dam
+ elevieres@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
+SUMMARY:🏠 Entente Bayon Blainville Damelevières Basketball – ASPTT NA
+ NCY TOMBLAINE
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ Entente Bayo
+ n Blainville Damelevières Basketball vs ASPTT NANCY TOMBLAINE\n\nHALL DES
+  SPORTS\n📍 Rue des Écoles Bayon 54290\n🚗 Waze : https://waze.com/ul
+ ?ll=48.47701\,6.31581&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 88/competitions/idfu15/match/200000014624825
+LOCATION:HALL DES SPORTS\, Rue des Écoles Bayon 54290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624825
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-10-10-16-00-entente-bayon-blainville-dam
+ elevieres@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 Entente Bayon Blainville Damelevières Basketball – LES LYNX
+  MAXEVILLOIS
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ Entente Bayo
+ n Blainville Damelevières Basketball vs LES LYNX MAXEVILLOIS\n\nHALL DES 
+ SPORTS\n📍 Rue des Écoles Bayon 54290\n🚗 Waze : https://waze.com/ul?
+ ll=48.47701\,6.31581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/008
+ 8/competitions/idfu15/match/200000014624839
+LOCATION:HALL DES SPORTS\, Rue des Écoles Bayon 54290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624839
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-07-13-30-basket-club-chavelotais-ente
+ nte-bayon@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:✈️ BASKET CLUB CHAVELOTAIS – Entente Bayon Blainville Damelev
+ ières Basketball
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ BASKET CLUB 
+ CHAVELOTAIS vs Entente Bayon Blainville Damelevières Basketball\n\nSALLE 
+ DES SPORTS\n📍 Place de la République Chavelot 88150\n🚗 Waze : https
+ ://waze.com/ul?ll=48.23758\,6.43697&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0088/competitions/idfu15/match/200000014624849
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624849
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-14-16-00-entente-bayon-blainville-dam
+ elevieres@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 Entente Bayon Blainville Damelevières Basketball – AS HAUT 
+ DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ Entente Bayo
+ n Blainville Damelevières Basketball vs AS HAUT DU LIEVRE  NANCY\n\nHALL 
+ DES SPORTS\n📍 Rue des Écoles Bayon 54290\n🚗 Waze : https://waze.com
+ /ul?ll=48.47701\,6.31581&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0088/competitions/idfu15/match/200000014624858
+LOCATION:HALL DES SPORTS\, Rue des Écoles Bayon 54290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624858
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-ges-vosges-poule-a-2026-11-21-15-30-la-valdajolaise-entente-bayo
+ n-blainvi@ffbb-agenda
+DTSTAMP:20260819T081210Z
+DTSTART;TZID=Europe/Paris:20261121T153000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:✈️ LA VALDAJOLAISE – Entente Bayon Blainville Damelevières B
+ asketball
+DESCRIPTION:🏀 IDFU15 – GES – Vosges – Poule A\n⚔️ LA VALDAJOLA
+ ISE vs Entente Bayon Blainville Damelevières Basketball\n\nSALLE MUNICIPA
+ LE SPORTS\n📍 Rue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://w
+ aze.com/ul?ll=47.92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0088/competitions/idfu15/match/200000014624863
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/idfu
+ 15/match/200000014624863
+END:VEVENT
+END:VCALENDAR

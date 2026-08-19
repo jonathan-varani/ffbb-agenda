@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC DE LA HARDT  [DFU11 – GES – Poule A]
+X-WR-CALDESC:Matchs de IE - CTC DE LA HARDT – DFU11 – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-a-2026-09-19-16-45-basket-club-3-pays-ie-ctc-
+ de-la-har@ffbb-agenda
+DTSTAMP:20260819T080805Z
+DTSTART;TZID=Europe/Paris:20260919T164500
+DTEND;TZID=Europe/Paris:20260919T184500
+SUMMARY:✈️ BASKET-CLUB 3 PAYS – IE - CTC DE LA HARDT
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule A\n⚔️ BASKET-CLU
+ B 3 PAYS vs IE - CTC DE LA HARDT\n\nCENTRE SPORTIF REGIONAL\n📍 Rue des 
+ Frères Lumière Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.733
+ 13\,7.31626&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dfu11/match/200000014558256
+LOCATION:CENTRE SPORTIF REGIONAL\, Rue des Frères Lumière Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558256
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-a-2026-10-03-00-00-ie-ctc-de-la-hardt-berrwil
+ ler-staff@ffbb-agenda
+DTSTAMP:20260819T080805Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 IE - CTC DE LA HARDT – BERRWILLER/STAFFELFELDEN BC - 1
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC D
+ E LA HARDT vs BERRWILLER/STAFFELFELDEN BC - 1\n\nSALLE DES SPORTS\n📍 Ro
+ ute Nationale Rumersheim-le-Haut 68740\n🚗 Waze : https://waze.com/ul?ll
+ =47.85101\,7.51746&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu11/match/200000014558260
+LOCATION:SALLE DES SPORTS\, Route Nationale Rumersheim-le-Haut 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558260
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-a-2026-10-10-00-00-cb-kientzheim-1-ie-ctc-de-
+ la-hardt@ffbb-agenda
+DTSTAMP:20260819T080805Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ CB KIENTZHEIM - 1 – IE - CTC DE LA HARDT
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule A\n⚔️ CB KIENTZH
+ EIM - 1 vs IE - CTC DE LA HARDT\n\nCOSEC KAYSERSBERG\n📍 Rue du Collège
+  Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.13837\,
+ 7.2614&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions
+ /dfu11/match/200000014558266
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558266
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-a-2026-11-07-00-00-ie-ctc-de-la-hardt-panther
+ es-mulhou@ffbb-agenda
+DTSTAMP:20260819T080805Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 IE - CTC DE LA HARDT – PANTHERES MULHOUSE BASKET ALSACE - 1
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC D
+ E LA HARDT vs PANTHERES MULHOUSE BASKET ALSACE - 1\n\nSALLE DES SPORTS\n
+ 📍 Route Nationale Rumersheim-le-Haut 68740\n🚗 Waze : https://waze.co
+ m/ul?ll=47.85101\,7.51746&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0068/competitions/dfu11/match/200000014558270
+LOCATION:SALLE DES SPORTS\, Route Nationale Rumersheim-le-Haut 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558270
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-a-2026-11-14-00-00-basket-nord-sundgau-1-ie-c
+ tc-de-la-@ffbb-agenda
+DTSTAMP:20260819T080805Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 1 – IE - CTC DE LA HARDT
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule A\n⚔️ BASKET NOR
+ D SUNDGAU - 1 vs IE - CTC DE LA HARDT\n\nPOLY ILLFURTH\n📍 Route de Spec
+ hbach Illfurth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11
+ /match/200000014558272
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558272
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-a-2026-11-28-00-00-ie-ctc-de-la-hardt-ie-ctc-
+ jura-alsa@ffbb-agenda
+DTSTAMP:20260819T080805Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 IE - CTC DE LA HARDT – IE - CTC JURA ALSACIEN BASKET - 1
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC D
+ E LA HARDT vs IE - CTC JURA ALSACIEN BASKET - 1\n\nSALLE DES SPORTS\n📍 
+ Route Nationale Rumersheim-le-Haut 68740\n🚗 Waze : https://waze.com/ul?
+ ll=47.85101\,7.51746&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/dfu11/match/200000014558276
+LOCATION:SALLE DES SPORTS\, Route Nationale Rumersheim-le-Haut 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558276
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-a-2026-12-12-00-00-ie-ctc-de-la-hardt-ie-ctc-
+ de-l-ill-@ffbb-agenda
+DTSTAMP:20260819T080805Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 IE - CTC DE LA HARDT – IE - CTC DE L'ILL - 1
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC D
+ E LA HARDT vs IE - CTC DE L'ILL - 1\n\nSALLE DES SPORTS\n📍 Route Nation
+ ale Rumersheim-le-Haut 68740\n🚗 Waze : https://waze.com/ul?ll=47.85101\
+ ,7.51746&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dfu11/match/200000014558282
+LOCATION:SALLE DES SPORTS\, Route Nationale Rumersheim-le-Haut 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558282
+END:VEVENT
+END:VCALENDAR

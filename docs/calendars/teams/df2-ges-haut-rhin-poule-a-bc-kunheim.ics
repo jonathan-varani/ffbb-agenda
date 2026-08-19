@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC KUNHEIM  [DF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de BC KUNHEIM – DF2 – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-19-00-00-bc-kunheim-asc-saint-romain-
+ reiningue@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 BC KUNHEIM – ASC SAINT ROMAIN REININGUE
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM v
+ s ASC SAINT ROMAIN REININGUE\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kun
+ heim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/match/200000
+ 014558202
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558202
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-09-26-18-30-asca-wittelsheim-bc-kunheim@
+ ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20260926T183000
+DTEND;TZID=Europe/Paris:20260926T203000
+SUMMARY:✈️ ASCA WITTELSHEIM – BC KUNHEIM
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASCA WITTELS
+ HEIM vs BC KUNHEIM\n\nSALLE AMELIE ZURCHER\n📍 Rue de la 2ème D.I.M. Wi
+ ttelsheim 68310\n🚗 Waze : https://waze.com/ul?ll=47.80135\,7.23869&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/match/
+ 200000014558203
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558203
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-10-10-00-00-bc-kunheim-as-wickerschwihr@
+ ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BC KUNHEIM – AS WICKERSCHWIHR
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM v
+ s AS WICKERSCHWIHR\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68320
+ \n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0068/competitions/df2/match/200000014558210
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558210
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-07-00-00-asc-ste-afre-riedisheim-2-bc
+ -kunheim@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ ASC STE AFRE RIEDISHEIM - 2 – BC KUNHEIM
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ ASC STE AFRE
+  RIEDISHEIM - 2 vs BC KUNHEIM\n\nGYMNASE BARTHOLDI\n📍 Rue du Révérend
+  Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?ll=47.741
+ 55\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/df2/match/200000014558211
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558211
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-11-14-00-00-bc-kunheim-ie-ctc-jura-alsac
+ ien-baske@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 BC KUNHEIM – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM v
+ s IE - CTC JURA ALSACIEN BASKET - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Ve
+ rne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/match
+ /200000014558215
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558215
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-05-00-00-ie-ctc-thur-doller-basket-cl
+ ub-3-bc-k@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 3 – BC KUNHEIM
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ IE - CTC THU
+ R DOLLER BASKET CLUB - 3 vs BC KUNHEIM\n\nCOMPLEXE GAUGLER (GRANDE SALLE)\
+ n📍 Rue Paul Burgy Masevaux-Niederbruck 68290\n🚗 Waze : https://waze.
+ com/ul?ll=47.76707\,6.99783&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0068/competitions/df2/match/200000014558219
+LOCATION:COMPLEXE GAUGLER (GRANDE SALLE)\, Rue Paul Burgy Masevaux-Niederbr
+ uck 68290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558219
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-a-2026-12-12-00-00-bc-kunheim-basket-club-illza
+ ch@ffbb-agenda
+DTSTAMP:20260819T080709Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BC KUNHEIM – BASKET CLUB ILLZACH
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule A\n⚔️ BC KUNHEIM v
+ s BASKET CLUB ILLZACH\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68
+ 320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/df2/match/200000014558
+ 223
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014558223
+END:VEVENT
+END:VCALENDAR

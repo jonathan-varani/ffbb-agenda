@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET NORD SUNDGAU - 1  [DMU18-5 – GES]
+X-WR-CALDESC:Matchs de BASKET NORD SUNDGAU - 1 – DMU18-5 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-12-16-00-basket-club-de-kingersheim-1-bas
+ ket-nord-@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20260912T160000
+DTEND;TZID=Europe/Paris:20260912T180000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM - 1 – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET CLUB DE KINGE
+ RSHEIM - 1 vs BASKET NORD SUNDGAU - 1\n\nCOSEC KINGERSHEIM\n📍 Rue Pierr
+ e de Coubertin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78
+ 757\,7.32801&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/dmu18-5/match/200000014560057
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560057
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-19-00-00-basket-nord-sundgau-1-colmar-bas
+ ket-1@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 1 – COLMAR BASKET - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 1 vs COLMAR BASKET - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurt
+ h 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/2000
+ 00014560061
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560061
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-09-26-00-00-ie-ctc-jura-alsacien-basket-1-ba
+ sket-nord@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 1 – BASKET NORD SUNDGAU - 
+ 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACI
+ EN BASKET - 1 vs BASKET NORD SUNDGAU - 1\n\nGYMNASE DU COLLEGE\n📍 Rue A
+ lphonse Jenn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,
+ 7.31309&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competition
+ s/dmu18-5/match/200000014560067
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560067
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-03-00-00-basket-nord-sundgau-1-cssl-saush
+ eim-1@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 1 – CSSL SAUSHEIM - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 1 vs CSSL SAUSHEIM - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurt
+ h 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/2000
+ 00014560071
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560071
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-10-00-00-asl-dessenheim-1-basket-nord-sun
+ dgau-1@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ ASL DESSENHEIM - 1 – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ ASL DESSENHEIM - 1 v
+ s BASKET NORD SUNDGAU - 1\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar D
+ essenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/ma
+ tch/200000014560073
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560073
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-haut-rhin-2026-10-24-00-00-basket-nord-sundgau-1-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260819T080858Z
+DTSTART;TZID=Europe/Paris:20261024T000000
+DTEND;TZID=Europe/Paris:20261024T020000
+SUMMARY:🏠 BASKET NORD SUNDGAU - 1 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DMU18-5 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU 
+ - 1 vs BASKET CLUB SIERENTZ\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illf
+ urth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-5/match/2
+ 00000014560083
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-5/match/200000014560083
+END:VEVENT
+END:VCALENDAR

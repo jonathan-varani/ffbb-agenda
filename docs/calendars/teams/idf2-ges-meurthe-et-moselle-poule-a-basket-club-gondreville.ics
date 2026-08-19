@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB GONDREVILLE  [IDF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB GONDREVILLE – IDF2 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-09-26-20-30-basket-club-gondre
+ ville-esp@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20260926T203000
+DTEND;TZID=Europe/Paris:20260926T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – ESPERANCE TOUL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs ESPERANCE TOUL\n\nSALLE POLYVALENTE\n📍 Rue de 
+ la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.69526\,
+ 5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competition
+ s/idf2/match/200000014646335
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646335
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-10-03-20-30-cos-villers-les-na
+ ncy-baske@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:✈️ COS VILLERS LES NANCY – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ CO
+ S VILLERS LES NANCY vs BASKET CLUB GONDREVILLE\n\nSALLE GILBERT BAUVIN\n
+ 📍 Rue Maurice André Villers-lès-Nancy 54600\n🚗 Waze : https://waze
+ .com/ul?ll=48.67362\,6.15439&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/idf2/match/200000014646347
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646347
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-10-10-20-30-basket-club-gondre
+ ville-bas@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs BASKET CLUB GIRONCOURT\n\nSALLE POLYVALENTE\n📍
+  Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48
+ .69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646357
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646357
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-08-15-30-effort-basket-mire
+ court-bas@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ EFFORT BASKET MIRECOURT – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EF
+ FORT BASKET MIRECOURT vs BASKET CLUB GONDREVILLE\n\nSALLE CLAUDE HACQUARD\
+ n📍 Rue de Bonn-Buel Mirecourt 88500\n🚗 Waze : https://waze.com/ul?ll
+ =48.29433\,6.13292&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646371
+LOCATION:SALLE CLAUDE HACQUARD\, Rue de Bonn-Buel Mirecourt 88500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646371
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-21-20-30-entente-granges-ge
+ rardmer-b@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:✈️ ENTENTE GRANGES GERARDMER – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EN
+ TENTE GRANGES GERARDMER vs BASKET CLUB GONDREVILLE\n\nGYMNASE MUNICIPAL\n
+ 📍 Rue P. Ancel Seitz Granges-Aumontzey 88640\n🚗 Waze : https://waze.
+ com/ul?ll=48.14517\,6.79376&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/idf2/match/200000014646389
+LOCATION:GYMNASE MUNICIPAL\, Rue P. Ancel Seitz Granges-Aumontzey 88640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646389
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-11-28-18-00-pagny-sur-meuse-bc
+ -basket-c@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:✈️ PAGNY SUR MEUSE BC – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ PA
+ GNY SUR MEUSE BC vs BASKET CLUB GONDREVILLE\n\nSALLE DE SPORTS - LES CORVE
+ ES\n📍 Allée des Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.69532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/idf2/match/200000014646401
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646401
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-12-05-20-30-basket-club-gondre
+ ville-as-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – AS HAUT DU LIEVRE  NANCY - 2
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs AS HAUT DU LIEVRE  NANCY - 2\n\nSALLE POLYVALENTE
+ \n📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul
+ ?ll=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 54/competitions/idf2/match/200000014646412
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646412
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2026-12-12-20-30-basket-club-therma
+ l-basket-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:✈️ BASKET CLUB THERMAL – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB THERMAL vs BASKET CLUB GONDREVILLE\n\nCENTRE PREPARATION OLYMPIQ
+ UE\n📍 Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/
+ ul?ll=48.1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 054/competitions/idf2/match/200000014646423
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646423
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-09-20-30-basket-club-gondre
+ ville-la-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – LA VALDAJOLAISE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs LA VALDAJOLAISE\n\nSALLE POLYVALENTE\n📍 Rue de
+  la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.69526\
+ ,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/idf2/match/200000014646434
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646434
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-16-20-30-basket-club-gondre
+ ville-ent@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – ENTENTE SPORTIVE THAON BASKET BALL
+  (E.S. THAON BASKET BALL)
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BA
+ SKET BALL)\n\nSALLE POLYVALENTE\n📍 Rue de la Grève Gondreville 54840\n
+ 🚗 Waze : https://waze.com/ul?ll=48.69526\,5.95992&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0054/competitions/idf2/match/200000014646439
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646439
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-23-20-30-esperance-toul-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ ESPERANCE TOUL – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ ES
+ PERANCE TOUL vs BASKET CLUB GONDREVILLE\n\nGYMNASE J et H BALSON\n📍 Pla
+ ce de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 7875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compe
+ titions/idf2/match/200000014646446
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646446
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-01-30-20-30-basket-club-gondre
+ ville-cos@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – COS VILLERS LES NANCY
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs COS VILLERS LES NANCY\n\nSALLE POLYVALENTE\n📍 
+ Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.
+ 69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/comp
+ etitions/idf2/match/200000014646458
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646458
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-02-06-20-30-basket-club-gironc
+ ourt-bask@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ BASKET CLUB GIRONCOURT – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GIRONCOURT vs BASKET CLUB GONDREVILLE\n\nSALLE POLYVALENTE\n📍
+  Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.co
+ m/ul?ll=48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0054/competitions/idf2/match/200000014646468
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646468
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-02-13-20-30-basket-club-gondre
+ ville-eff@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs EFFORT BASKET MIRECOURT\n\nSALLE POLYVALENTE\n
+ 📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?l
+ l=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054
+ /competitions/idf2/match/200000014646482
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646482
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-20-20-30-basket-club-gondre
+ ville-ent@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs ENTENTE GRANGES GERARDMER\n\nSALLE POLYVALENTE\n
+ 📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?l
+ l=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054
+ /competitions/idf2/match/200000014646500
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646500
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-03-27-20-30-basket-club-gondre
+ ville-pag@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs PAGNY SUR MEUSE BC\n\nSALLE POLYVALENTE\n📍 Rue
+  de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.695
+ 26\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/idf2/match/200000014646512
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646512
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-04-03-20-30-as-haut-du-lievre-
+ nancy-2-b@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ AS HAUT DU LIEVRE  NANCY - 2 – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ AS
+  HAUT DU LIEVRE  NANCY - 2 vs BASKET CLUB GONDREVILLE\n\nGYMNASE BUFFON\n
+ 📍 Rue Dominique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.70167\,6.15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646523
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646523
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-04-10-20-30-basket-club-gondre
+ ville-bas@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – BASKET CLUB THERMAL
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ BA
+ SKET CLUB GONDREVILLE vs BASKET CLUB THERMAL\n\nSALLE POLYVALENTE\n📍 Ru
+ e de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.69
+ 526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compet
+ itions/idf2/match/200000014646534
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646534
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-05-08-18-00-la-valdajolaise-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270508T180000
+DTEND;TZID=Europe/Paris:20270508T200000
+SUMMARY:✈️ LA VALDAJOLAISE – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ LA
+  VALDAJOLAISE vs BASKET CLUB GONDREVILLE\n\nSALLE MUNICIPALE SPORTS\n📍 
+ Rue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47
+ .92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idf2/match/200000014646545
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646545
+END:VEVENT
+BEGIN:VEVENT
+UID:idf2-ges-meurthe-et-moselle-poule-a-2027-05-22-20-30-entente-sportive-t
+ haon-bask@ffbb-agenda
+DTSTAMP:20260819T081100Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:✈️ ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) 
+ – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 IDF2 – GES – Meurthe-et-Moselle – Poule A\n⚔️ EN
+ TENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) vs BASKET CLUB G
+ ONDREVILLE\n\nGYMNASE DE LA POSTE\n📍 Rue Thiers Thaon-les-Vosges 88150\
+ n🚗 Waze : https://waze.com/ul?ll=48.25107\,6.42202&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0054/competitions/idf2/match/200000014646550
+LOCATION:GYMNASE DE LA POSTE\, Rue Thiers Thaon-les-Vosges 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idf2
+ /match/200000014646550
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASC STE AFRE RIEDISHEIM - 1  [DMU11 – GES – Poule A]
+X-WR-CALDESC:Matchs de ASC STE AFRE RIEDISHEIM - 1 – DMU11 – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-a-2026-09-19-15-45-as-kaysersberg-ammerschwih
+ r-bca-1-a@ffbb-agenda
+DTSTAMP:20260819T081012Z
+DTSTART;TZID=Europe/Paris:20260919T154500
+DTEND;TZID=Europe/Paris:20260919T174500
+SUMMARY:✈️ AS KAYSERSBERG AMMERSCHWIHR BCA - 1 – ASC STE AFRE RIEDISH
+ EIM - 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule A\n⚔️ AS KAYSERS
+ BERG AMMERSCHWIHR BCA - 1 vs ASC STE AFRE RIEDISHEIM - 1\n\nCENTRE SPORTIF
+  REGIONAL\n📍 Rue des Frères Lumière Mulhouse 68200\n🚗 Waze : https
+ ://waze.com/ul?ll=47.73313\,7.31626&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0068/competitions/dmu11/match/200000014559270
+LOCATION:CENTRE SPORTIF REGIONAL\, Rue des Frères Lumière Mulhouse 68200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559270
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-a-2026-10-03-00-00-asc-ste-afre-riedisheim-1-
+ colmar-ba@ffbb-agenda
+DTSTAMP:20260819T081012Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM - 1 – COLMAR BASKET - 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule A\n⚔️ ASC STE AF
+ RE RIEDISHEIM - 1 vs COLMAR BASKET - 1\n\nGYMNASE BARTHOLDI\n📍 Rue du R
+ évérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.com/ul?
+ ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 8/competitions/dmu11/match/200000014559274
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559274
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-a-2026-10-10-00-00-asl-dessenheim-1-asc-ste-a
+ fre-riedi@ffbb-agenda
+DTSTAMP:20260819T081012Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ ASL DESSENHEIM - 1 – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule A\n⚔️ ASL DESSEN
+ HEIM - 1 vs ASC STE AFRE RIEDISHEIM - 1\n\nSALLE SPORTS ET LOISIRS\n📍 R
+ ue de Colmar Dessenheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036
+ \,7.48426&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dmu11/match/200000014559278
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559278
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-a-2026-10-17-00-00-asc-ste-afre-riedisheim-1-
+ basket-no@ffbb-agenda
+DTSTAMP:20260819T081012Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM - 1 – BASKET NORD SUNDGAU - 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule A\n⚔️ ASC STE AF
+ RE RIEDISHEIM - 1 vs BASKET NORD SUNDGAU - 1\n\nGYMNASE BARTHOLDI\n📍 Ru
+ e du Révérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.c
+ om/ul?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0068/competitions/dmu11/match/200000014559282
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559282
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-a-2026-11-07-15-00-basket-club-de-kingersheim
+ -1-asc-st@ffbb-agenda
+DTSTAMP:20260819T081012Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM - 1 – ASC STE AFRE RIEDISHEIM -
+  1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule A\n⚔️ BASKET CLU
+ B DE KINGERSHEIM - 1 vs ASC STE AFRE RIEDISHEIM - 1\n\nCOSEC KINGERSHEIM\n
+ 📍 Rue Pierre de Coubertin Kingersheim 68260\n🚗 Waze : https://waze.c
+ om/ul?ll=47.78757\,7.32801&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0068/competitions/dmu11/match/200000014559290
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559290
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-a-2026-11-14-00-00-asc-ste-afre-riedisheim-1-
+ basket-cl@ffbb-agenda
+DTSTAMP:20260819T081012Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM - 1 – BASKET CLUB SIERENTZ - 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule A\n⚔️ ASC STE AF
+ RE RIEDISHEIM - 1 vs BASKET CLUB SIERENTZ - 1\n\nGYMNASE BARTHOLDI\n📍 R
+ ue du Révérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.
+ com/ul?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0068/competitions/dmu11/match/200000014559294
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559294
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-a-2026-11-21-00-00-asc-ste-afre-riedisheim-1-
+ mustangs-@ffbb-agenda
+DTSTAMP:20260819T081012Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 ASC STE AFRE RIEDISHEIM - 1 – MUSTANGS ASSOCIATION - 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule A\n⚔️ ASC STE AF
+ RE RIEDISHEIM - 1 vs MUSTANGS ASSOCIATION - 1\n\nGYMNASE BARTHOLDI\n📍 R
+ ue du Révérend Père Musslin Riedisheim 68400\n🚗 Waze : https://waze.
+ com/ul?ll=47.74155\,7.36315&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0068/competitions/dmu11/match/200000014559301
+LOCATION:GYMNASE BARTHOLDI\, Rue du Révérend Père Musslin Riedisheim 684
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559301
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-a-2026-12-05-16-00-cssl-sausheim-1-asc-ste-af
+ re-riedis@ffbb-agenda
+DTSTAMP:20260819T081012Z
+DTSTART;TZID=Europe/Paris:20261205T160000
+DTEND;TZID=Europe/Paris:20261205T180000
+SUMMARY:✈️ CSSL SAUSHEIM - 1 – ASC STE AFRE RIEDISHEIM - 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule A\n⚔️ CSSL SAUSH
+ EIM - 1 vs ASC STE AFRE RIEDISHEIM - 1\n\nCOSEC - SALLE 1\n📍 Rue des Gr
+ ains Sausheim 68390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu11/
+ match/200000014559305
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559305
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-haut-rhin-poule-a-2026-12-12-00-00-guebwiller-as-saint-leger-
+ 1-asc-ste@ffbb-agenda
+DTSTAMP:20260819T081012Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ GUEBWILLER AS SAINT LEGER - 1 – ASC STE AFRE RIEDISHEIM - 
+ 1
+DESCRIPTION:🏀 DMU11 – GES – Haut-Rhin – Poule A\n⚔️ GUEBWILLER
+  AS SAINT LEGER - 1 vs ASC STE AFRE RIEDISHEIM - 1\n\nGYMNASE THEODORE DEC
+ K\n📍 Rue Théodore Deck Guebwiller 68500\n🚗 Waze : https://waze.com/
+ ul?ll=47.90723\,7.2099&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 068/competitions/dmu11/match/200000014559310
+LOCATION:GYMNASE THEODORE DECK\, Rue Théodore Deck Guebwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 1/match/200000014559310
+END:VEVENT
+END:VCALENDAR

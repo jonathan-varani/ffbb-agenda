@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB ILLZACH - 1  [DMU15 – GES]
+X-WR-CALDESC:Matchs de BASKET CLUB ILLZACH - 1 – DMU15 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-19-14-00-cssl-sausheim-2-basket-club-illzac
+ h-1@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:✈️ CSSL SAUSHEIM - 2 – BASKET CLUB ILLZACH - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ CSSL SAUSHEIM - 2 vs B
+ ASKET CLUB ILLZACH - 1\n\nCOSEC - SALLE 1\n📍 Rue des Grains Sausheim 68
+ 390\n🚗 Waze : https://waze.com/ul?ll=47.77624\,7.36791&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59805
+LOCATION:COSEC - SALLE 1\, Rue des Grains Sausheim 68390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559805
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-09-27-14-00-basket-club-illzach-1-as-kaysersbe
+ rg-ammers@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20260927T140000
+DTEND;TZID=Europe/Paris:20260927T160000
+SUMMARY:🏠 BASKET CLUB ILLZACH - 1 – AS KAYSERSBERG AMMERSCHWIHR BCA
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH - 
+ 1 vs AS KAYSERSBERG AMMERSCHWIHR BCA\n\nGYMNASE DU CANAL\n📍 Rue du Cana
+ l Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/matc
+ h/200000014559807
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559807
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-03-00-00-asl-dessenheim-2-basket-club-illza
+ ch-1@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ASL DESSENHEIM - 2 – BASKET CLUB ILLZACH - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ASL DESSENHEIM - 2 vs 
+ BASKET CLUB ILLZACH - 1\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Des
+ senheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/
+ 200000014559809
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559809
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-10-00-00-basket-nord-sundgau-2-basket-club-
+ illzach-1@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 2 – BASKET CLUB ILLZACH - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET NORD SUNDGAU - 
+ 2 vs BASKET CLUB ILLZACH - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Ill
+ furth 68720\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/20
+ 0000014559813
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559813
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-10-17-15-30-basket-club-illzach-1-ent-blotzhei
+ m-sierent@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261017T153000
+DTEND;TZID=Europe/Paris:20261017T173000
+SUMMARY:🏠 BASKET CLUB ILLZACH - 1 – ENT BLOTZHEIM/SIERENTZ
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH - 
+ 1 vs ENT BLOTZHEIM/SIERENTZ\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach
+  68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000
+ 14559817
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559817
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-07-17-00-basket-club-illzach-1-cssl-saushei
+ m-2@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261107T170000
+DTEND;TZID=Europe/Paris:20261107T190000
+SUMMARY:🏠 BASKET CLUB ILLZACH - 1 – CSSL SAUSHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH - 
+ 1 vs CSSL SAUSHEIM - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 6811
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59820
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559820
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-14-00-00-as-kaysersberg-ammerschwihr-bca-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ AS KAYSERSBERG AMMERSCHWIHR BCA – BASKET CLUB ILLZACH - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ AS KAYSERSBERG AMMERSC
+ HWIHR BCA vs BASKET CLUB ILLZACH - 1\n\nSALLE THEO FALLER\n📍 Rue des Ti
+ lleuls Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll=48.1
+ 4653\,7.25575&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/dmu15/match/200000014559822
+LOCATION:SALLE THEO FALLER\, Rue des Tilleuls Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559822
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-11-28-15-30-basket-club-illzach-1-asl-dessenhe
+ im-2@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261128T153000
+DTEND;TZID=Europe/Paris:20261128T173000
+SUMMARY:🏠 BASKET CLUB ILLZACH - 1 – ASL DESSENHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH - 
+ 1 vs ASL DESSENHEIM - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzach 681
+ 10\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/2000000145
+ 59824
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559824
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-05-15-00-basket-club-illzach-1-basket-nord-
+ sundgau-2@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261205T150000
+DTEND;TZID=Europe/Paris:20261205T170000
+SUMMARY:🏠 BASKET CLUB ILLZACH - 1 – BASKET NORD SUNDGAU - 2
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ BASKET CLUB ILLZACH - 
+ 1 vs BASKET NORD SUNDGAU - 2\n\nGYMNASE DU CANAL\n📍 Rue du Canal Illzac
+ h 68110\n🚗 Waze : https://waze.com/ul?ll=47.76936\,7.36189&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu15/match/200000
+ 014559828
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559828
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-haut-rhin-2026-12-12-00-00-ent-blotzheim-sierentz-basket-club
+ -illzach-@ffbb-agenda
+DTSTAMP:20260819T080929Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ ENT BLOTZHEIM/SIERENTZ – BASKET CLUB ILLZACH - 1
+DESCRIPTION:🏀 DMU15 – GES – Haut-Rhin\n⚔️ ENT BLOTZHEIM/SIERENTZ
+  vs BASKET CLUB ILLZACH - 1\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dmu15/match/200000014559832
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5/match/200000014559832
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB HAYANGE MARSPICH  [IDMU15 – GES – Poule C]
+X-WR-CALDESC:Matchs de BASKET CLUB HAYANGE MARSPICH – IDMU15 – GES – Meuse – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-09-19-15-00-bc-aumetz-basket-club-hayange
+ -marspich@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20260919T150000
+DTEND;TZID=Europe/Paris:20260919T170000
+SUMMARY:✈️ BC AUMETZ – BASKET CLUB HAYANGE MARSPICH
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ BC AUMETZ vs 
+ BASKET CLUB HAYANGE MARSPICH\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger
+  de Montbrillais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194
+ \,5.94911&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competiti
+ ons/idmu15/match/200000014610476
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610476
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-10-03-15-00-basket-club-longwy-rehon-2-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:✈️ BASKET CLUB LONGWY REHON - 2 – BASKET CLUB HAYANGE MARSPIC
+ H
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ BASKET CLUB L
+ ONGWY REHON - 2 vs BASKET CLUB HAYANGE MARSPICH\n\nGYMNASE LEON BASSOMPIER
+ RE\n📍 Rue Albert Legendre Longwy 54400\n🚗 Waze : https://waze.com/ul
+ ?ll=49.51894\,5.76872&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 55/competitions/idmu15/match/200000014610498
+LOCATION:GYMNASE LEON BASSOMPIERRE\, Rue Albert Legendre Longwy 54400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610498
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-10-10-16-00-basket-club-hayange-marspich-
+ metz-bc@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 BASKET CLUB HAYANGE MARSPICH – METZ BC
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ BASKET CLUB H
+ AYANGE MARSPICH vs METZ BC\n\nC.O.S.E.C.\n📍 Rue du 6 Juin 1944 Hayange 
+ 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.08047&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/2000000
+ 14610512
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610512
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-11-07-15-00-basket-club-hayange-marspich-
+ asp-ste-m@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:🏠 BASKET CLUB HAYANGE MARSPICH – ASP STE MARIE AUX CHENES
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ BASKET CLUB H
+ AYANGE MARSPICH vs ASP STE MARIE AUX CHENES\n\nC.O.S.E.C.\n📍 Rue du 6 J
+ uin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.080
+ 47&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idm
+ u15/match/200000014610524
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610524
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-11-15-10-30-es-hagondange-basket-club-hay
+ ange-mars@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261115T103000
+DTEND;TZID=Europe/Paris:20261115T123000
+SUMMARY:✈️ ES HAGONDANGE – BASKET CLUB HAYANGE MARSPICH
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ ES HAGONDANGE
+  vs BASKET CLUB HAYANGE MARSPICH\n\nCOSEC\n📍 Rue des Pêcheurs Hagondan
+ ge 57300\n🚗 Waze : https://waze.com/ul?ll=49.25007\,6.17271&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/2000
+ 00014610536
+LOCATION:COSEC\, Rue des Pêcheurs Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610536
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu15-ges-meuse-poule-c-2026-11-21-15-00-basket-club-hayange-marspich-
+ cse-folkl@ffbb-agenda
+DTSTAMP:20260819T081158Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:🏠 BASKET CLUB HAYANGE MARSPICH – CSE FOLKLING
+DESCRIPTION:🏀 IDMU15 – GES – Meuse – Poule C\n⚔️ BASKET CLUB H
+ AYANGE MARSPICH vs CSE FOLKLING\n\nC.O.S.E.C.\n📍 Rue du 6 Juin 1944 Hay
+ ange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.08047&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu15/match/20
+ 0000014610548
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idmu
+ 15/match/200000014610548
+END:VEVENT
+END:VCALENDAR

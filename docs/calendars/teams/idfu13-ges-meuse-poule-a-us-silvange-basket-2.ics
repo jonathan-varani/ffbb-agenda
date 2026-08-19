@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – US SILVANGE BASKET - 2  [IDFU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de US SILVANGE BASKET - 2 – IDFU13 – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-19-15-30-us-silvange-basket-2-basket-c
+ lub-golbe@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20260919T153000
+DTEND;TZID=Europe/Paris:20260919T173000
+SUMMARY:🏠 US SILVANGE BASKET - 2 – BASKET CLUB GOLBEY EPINAL
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ US SILVANGE B
+ ASKET - 2 vs BASKET CLUB GOLBEY EPINAL\n\nCOSEC LA ROUSSE\n📍 Rue August
+ e Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21
+ 214\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compet
+ itions/idfu13/match/200000014616245
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616245
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-10-03-13-30-basket-all-star-mussipontain-
+ us-silvan@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:✈️ BASKET ALL STAR MUSSIPONTAIN – US SILVANGE BASKET - 2
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ BASKET ALL ST
+ AR MUSSIPONTAIN vs US SILVANGE BASKET - 2\n\nCENTRE DES SPORTS BERNARD GUY
+  1\n📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n🚗 Waze : https:
+ //waze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0055/competitions/idfu13/match/200000014616258
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616258
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-10-10-15-30-us-silvange-basket-2-as-haut-
+ du-lievre@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:🏠 US SILVANGE BASKET - 2 – AS HAUT DU LIEVRE  NANCY
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ US SILVANGE B
+ ASKET - 2 vs AS HAUT DU LIEVRE  NANCY\n\nCOSEC LA ROUSSE\n📍 Rue Auguste
+  Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.212
+ 14\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competi
+ tions/idfu13/match/200000014616263
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616263
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-07-14-00-sluc-nancy-basket-association
+ -1-us-sil@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 1 – US SILVANGE BASKET - 2
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ SLUC NANCY BA
+ SKET ASSOCIATION - 1 vs US SILVANGE BASKET - 2\n\nGYMNASE DU PLACIEUX\n
+ 📍 Rue John Fitzgerald Kennedy Villers-lès-Nancy 54600\n🚗 Waze : htt
+ ps://waze.com/ul?ll=48.67325\,6.16224&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0055/competitions/idfu13/match/200000014616270
+LOCATION:GYMNASE DU PLACIEUX\, Rue John Fitzgerald Kennedy Villers-lès-Nan
+ cy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616270
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-14-15-30-us-silvange-basket-2-saint-di
+ e-vosges-@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:🏠 US SILVANGE BASKET - 2 – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ US SILVANGE B
+ ASKET - 2 vs SAINT DIE VOSGES BASKET\n\nCOSEC LA ROUSSE\n📍 Rue Auguste 
+ Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.2121
+ 4\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competit
+ ions/idfu13/match/200000014616278
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616278
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-21-13-30-entente-granges-gerardmer-us-
+ silvange-@ffbb-agenda
+DTSTAMP:20260819T081146Z
+DTSTART;TZID=Europe/Paris:20261121T133000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:✈️ ENTENTE GRANGES GERARDMER – US SILVANGE BASKET - 2
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ ENTENTE GRANG
+ ES GERARDMER vs US SILVANGE BASKET - 2\n\nGYMNASE PIERRE ET PAUL DIDIER\n
+ 📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=48
+ .07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616283
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616283
+END:VEVENT
+END:VCALENDAR

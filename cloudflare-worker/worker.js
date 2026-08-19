@@ -14,7 +14,7 @@ const NOCODB_API   = "https://app.nocodb.com";
 const NOCODB_BASE  = "poq54dd1rjvxuki";   // v1 uniquement
 const NOCODB_TABLE = "myrqkg2uylp17q9";   // table ID (utilisé par v1 et v2)
 const PAGES_BASE   = "https://jonathan-varani.github.io/ffbb-agenda";
-const SENDER_EMAIL = "jonathan.varani@gmail.com";   // à remplacer par noreply@varai.fr quand le mail sera configuré
+const SENDER_EMAIL = "jonathan.varani@varai.fr";
 const SENDER_NAME  = "Agendas FFBB";
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
@@ -161,7 +161,7 @@ async function handleFeedback(request, env) {
     headers: { "api-key": env.BREVO_KEY, "Content-Type": "application/json" },
     body: JSON.stringify({
       sender:      { name: "Agendas FFBB", email: SENDER_EMAIL },
-      to:          [{ email: "jonathan.varani@gmail.com" }],
+      to:          [{ email: "jonathan.varani@varai.fr" }],
       replyTo:     userEmail ? { email: userEmail } : undefined,
       subject:     "🐛 Signalement Agendas FFBB",
       htmlContent: emailHtml,

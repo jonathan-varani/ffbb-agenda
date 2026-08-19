@@ -30,8 +30,10 @@ jobs:
 
       - name: Commit + push si changements
         run: |
+          set -x
           git config user.name "ffbb-bot"
           git config user.email "actions@github.com"
+          git status --porcelain
           git add docs/calendars docs/calendars.json
           if git diff --cached --quiet; then
             echo "Aucun changement."
@@ -39,9 +41,17 @@ jobs:
             git commit -m "Auto: mise à jour calendriers nationaux FFBB $(date -u +'%Y-%m-%d %H:%M UTC')"
             # Un autre run (région GES, ou un push manuel) peut avoir poussé entre-temps :
             # on rebase sur origin/main avant de pousser, avec quelques tentatives.
+            success=false
             for i in 1 2 3 4 5; do
-              git pull --rebase origin main && git push && break
+              if git pull --rebase origin main && git push; then
+                success=true
+                break
+              fi
               echo "Push rejeté, nouvel essai ($i/5)…"
               sleep $((RANDOM % 10 + 5))
             done
+            if [ "$success" = false ]; then
+              echo "::error::Échec du push après 5 tentatives."
+              exit 1
+            fi
           fi

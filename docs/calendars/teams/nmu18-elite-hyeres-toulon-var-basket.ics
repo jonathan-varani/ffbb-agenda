@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – HYERES TOULON VAR BASKET  [NMU18-ELITE – ]
+X-WR-CALDESC:Matchs de HYERES TOULON VAR BASKET – NMU18-ELITE
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-2026-09-13-15-30-hyeres-toulon-var-basket-saint-vallier-bas
+ ket-drome@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 HYERES TOULON VAR BASKET – SAINT VALLIER BASKET DROME - 1
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ HYERES TOULON VAR BASKET vs SAINT VALL
+ IER BASKET DROME - 1\n\nGYMNASE des ROUGIERES\n📍 Chemin Soldat Macri Hy
+ ères 83400\n🚗 Waze : https://waze.com/ul?ll=43.11439\,6.14493&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nmu18-elite/match/200000014603170
+LOCATION:GYMNASE des ROUGIERES\, Chemin Soldat Macri Hyères 83400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03170
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-09-20-15-30-asvel-basket-hyeres-toulon-var-basket@ffbb
+ -agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ ASVEL BASKET – HYERES TOULON VAR BASKET
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ ASVEL BASKET vs HYERES TOULON VAR BASK
+ ET\n\nSALLE RAPHAEL DE BARROS\n📍 Cours Émile Zola Villeurbanne 69100\n
+ 🚗 Waze : https://waze.com/ul?ll=45.76799\,4.88853&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu18-elite/match/200000014603199
+LOCATION:SALLE RAPHAEL DE BARROS\, Cours Émile Zola Villeurbanne 69100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03199
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-09-27-15-30-sa-olympique-antibes-juan-les-pins-cote-d-
+ azur-hyer@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ SA OLYMPIQUE ANTIBES JUAN LES PINS COTE D'AZUR – HYERES TO
+ ULON VAR BASKET
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ SA OLYMPIQUE ANTIBES JUAN LES PINS COT
+ E D'AZUR vs HYERES TOULON VAR BASKET\n\nSALLE SALUSSE SANTONI\n📍 Avenue
+  Lemeray Antibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789\,7.121
+ 11&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014
+ 603228
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03228
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-10-04-15-30-hyeres-toulon-var-basket-aix-maurienne-sav
+ oie-baske@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 HYERES TOULON VAR BASKET – AIX MAURIENNE SAVOIE BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ HYERES TOULON VAR BASKET vs AIX MAURIE
+ NNE SAVOIE BASKET - 1\n\nGYMNASE des ROUGIERES\n📍 Chemin Soldat Macri H
+ yères 83400\n🚗 Waze : https://waze.com/ul?ll=43.11439\,6.14493&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nmu18-elite/match/200000014603258
+LOCATION:GYMNASE des ROUGIERES\, Chemin Soldat Macri Hyères 83400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03258
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-10-11-15-30-as-monaco-basket-ball-s-a-hyeres-toulon-va
+ r-basket@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ AS MONACO BASKET-BALL S.A. – HYERES TOULON VAR BASKET
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ AS MONACO BASKET-BALL S.A. vs HYERES T
+ OULON VAR BASKET\n\nGYMNASE SCOLAIRE LOUIS II\n📍 Avenue des Castelans M
+ onaco 98000\n🚗 Waze : https://waze.com/ul?ll=43.72658\,7.41522&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nmu18-elite/match/200000014603290
+LOCATION:GYMNASE SCOLAIRE LOUIS II\, Avenue des Castelans Monaco 98000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03290
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-11-01-15-30-saint-vallier-basket-drome-1-hyeres-toulon
+ -var-bask@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ SAINT VALLIER BASKET DROME - 1 – HYERES TOULON VAR BASKET
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ SAINT VALLIER BASKET DROME - 1 vs HYER
+ ES TOULON VAR BASKET\n\nLES DEUX RIVES 1\n📍 Rue Marcel Paul Saint-Valli
+ er 26240\n🚗 Waze : https://waze.com/ul?ll=45.19308\,4.81613&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nmu18-elite/match/200000014603320
+LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03320
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-11-08-15-30-hyeres-toulon-var-basket-asvel-basket@ffbb
+ -agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 HYERES TOULON VAR BASKET – ASVEL BASKET
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ HYERES TOULON VAR BASKET vs ASVEL BASK
+ ET\n\nGYMNASE des ROUGIERES\n📍 Chemin Soldat Macri Hyères 83400\n🚗 
+ Waze : https://waze.com/ul?ll=43.11439\,6.14493&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nmu18-elite/match/200000014603349
+LOCATION:GYMNASE des ROUGIERES\, Chemin Soldat Macri Hyères 83400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03349
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-11-15-15-30-hyeres-toulon-var-basket-sa-olympique-anti
+ bes-juan-@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 HYERES TOULON VAR BASKET – SA OLYMPIQUE ANTIBES JUAN LES PIN
+ S COTE D'AZUR
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ HYERES TOULON VAR BASKET vs SA OLYMPIQ
+ UE ANTIBES JUAN LES PINS COTE D'AZUR\n\nGYMNASE des ROUGIERES\n📍 Chemin
+  Soldat Macri Hyères 83400\n🚗 Waze : https://waze.com/ul?ll=43.11439\,
+ 6.14493&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000
+ 00014603378
+LOCATION:GYMNASE des ROUGIERES\, Chemin Soldat Macri Hyères 83400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03378
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-11-29-15-30-aix-maurienne-savoie-basket-1-hyeres-toulo
+ n-var-bas@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ AIX MAURIENNE SAVOIE BASKET - 1 – HYERES TOULON VAR BASKET
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ AIX MAURIENNE SAVOIE BASKET - 1 vs HYE
+ RES TOULON VAR BASKET\n\nHalle Marlioz\n📍 Chemin du Lycée Aix-les-Bain
+ s 73100\n🚗 Waze : https://waze.com/ul?ll=45.66621\,5.91145&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nmu18-elite/match/200000014603408
+LOCATION:Halle Marlioz\, Chemin du Lycée Aix-les-Bains 73100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03408
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-12-06-15-30-hyeres-toulon-var-basket-as-monaco-basket-
+ ball-s-a@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 HYERES TOULON VAR BASKET – AS MONACO BASKET-BALL S.A.
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ HYERES TOULON VAR BASKET vs AS MONACO 
+ BASKET-BALL S.A.\n\nGYMNASE des ROUGIERES\n📍 Chemin Soldat Macri Hyère
+ s 83400\n🚗 Waze : https://waze.com/ul?ll=43.11439\,6.14493&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nmu18-elite/match/200000014603440
+LOCATION:GYMNASE des ROUGIERES\, Chemin Soldat Macri Hyères 83400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03440
+END:VEVENT
+END:VCALENDAR

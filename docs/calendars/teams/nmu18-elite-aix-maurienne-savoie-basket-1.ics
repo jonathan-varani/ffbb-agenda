@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AIX MAURIENNE SAVOIE BASKET - 1  [NMU18-ELITE – ]
+X-WR-CALDESC:Matchs de AIX MAURIENNE SAVOIE BASKET - 1 – NMU18-ELITE
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-2026-09-13-15-30-aix-maurienne-savoie-basket-1-asvel-basket
+ @ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 AIX MAURIENNE SAVOIE BASKET - 1 – ASVEL BASKET
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ AIX MAURIENNE SAVOIE BASKET - 1 vs ASV
+ EL BASKET\n\nHalle Marlioz\n📍 Chemin du Lycée Aix-les-Bains 73100\n
+ 🚗 Waze : https://waze.com/ul?ll=45.66621\,5.91145&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu18-elite/match/200000014603168
+LOCATION:Halle Marlioz\, Chemin du Lycée Aix-les-Bains 73100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03168
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-09-20-15-30-as-monaco-basket-ball-s-a-aix-maurienne-sa
+ voie-bask@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ AS MONACO BASKET-BALL S.A. – AIX MAURIENNE SAVOIE BASKET -
+  1
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ AS MONACO BASKET-BALL S.A. vs AIX MAUR
+ IENNE SAVOIE BASKET - 1\n\nGYMNASE SCOLAIRE LOUIS II\n📍 Avenue des Cast
+ elans Monaco 98000\n🚗 Waze : https://waze.com/ul?ll=43.72658\,7.41522&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146031
+ 98
+LOCATION:GYMNASE SCOLAIRE LOUIS II\, Avenue des Castelans Monaco 98000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03198
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-09-27-15-30-aix-maurienne-savoie-basket-1-saint-vallie
+ r-basket-@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 AIX MAURIENNE SAVOIE BASKET - 1 – SAINT VALLIER BASKET DROME
+  - 1
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ AIX MAURIENNE SAVOIE BASKET - 1 vs SAI
+ NT VALLIER BASKET DROME - 1\n\nHalle Marlioz\n📍 Chemin du Lycée Aix-le
+ s-Bains 73100\n🚗 Waze : https://waze.com/ul?ll=45.66621\,5.91145&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603229
+LOCATION:Halle Marlioz\, Chemin du Lycée Aix-les-Bains 73100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03229
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-10-04-15-30-hyeres-toulon-var-basket-aix-maurienne-sav
+ oie-baske@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ HYERES TOULON VAR BASKET – AIX MAURIENNE SAVOIE BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ HYERES TOULON VAR BASKET vs AIX MAURIE
+ NNE SAVOIE BASKET - 1\n\nGYMNASE des ROUGIERES\n📍 Chemin Soldat Macri H
+ yères 83400\n🚗 Waze : https://waze.com/ul?ll=43.11439\,6.14493&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nmu18-elite/match/200000014603258
+LOCATION:GYMNASE des ROUGIERES\, Chemin Soldat Macri Hyères 83400
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03258
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-10-11-15-30-aix-maurienne-savoie-basket-1-sa-olympique
+ -antibes-@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 AIX MAURIENNE SAVOIE BASKET - 1 – SA OLYMPIQUE ANTIBES JUAN 
+ LES PINS COTE D'AZUR
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ AIX MAURIENNE SAVOIE BASKET - 1 vs SA 
+ OLYMPIQUE ANTIBES JUAN LES PINS COTE D'AZUR\n\nHalle Marlioz\n📍 Chemin 
+ du Lycée Aix-les-Bains 73100\n🚗 Waze : https://waze.com/ul?ll=45.66621
+ \,5.91145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20
+ 0000014603288
+LOCATION:Halle Marlioz\, Chemin du Lycée Aix-les-Bains 73100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03288
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-11-01-15-30-asvel-basket-aix-maurienne-savoie-basket-1
+ @ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ ASVEL BASKET – AIX MAURIENNE SAVOIE BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ ASVEL BASKET vs AIX MAURIENNE SAVOIE B
+ ASKET - 1\n\nSALLE RAPHAEL DE BARROS\n📍 Cours Émile Zola Villeurbanne 
+ 69100\n🚗 Waze : https://waze.com/ul?ll=45.76799\,4.88853&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu18-elite/match/200000014603318
+LOCATION:SALLE RAPHAEL DE BARROS\, Cours Émile Zola Villeurbanne 69100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03318
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-11-08-15-30-aix-maurienne-savoie-basket-1-as-monaco-ba
+ sket-ball@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 AIX MAURIENNE SAVOIE BASKET - 1 – AS MONACO BASKET-BALL S.A.
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ AIX MAURIENNE SAVOIE BASKET - 1 vs AS 
+ MONACO BASKET-BALL S.A.\n\nHalle Marlioz\n📍 Chemin du Lycée Aix-les-Ba
+ ins 73100\n🚗 Waze : https://waze.com/ul?ll=45.66621\,5.91145&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nmu18-elite/match/200000014603348
+LOCATION:Halle Marlioz\, Chemin du Lycée Aix-les-Bains 73100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03348
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-11-15-15-30-saint-vallier-basket-drome-1-aix-maurienne
+ -savoie-b@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ SAINT VALLIER BASKET DROME - 1 – AIX MAURIENNE SAVOIE BASK
+ ET - 1
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ SAINT VALLIER BASKET DROME - 1 vs AIX 
+ MAURIENNE SAVOIE BASKET - 1\n\nLES DEUX RIVES 1\n📍 Rue Marcel Paul Sain
+ t-Vallier 26240\n🚗 Waze : https://waze.com/ul?ll=45.19308\,4.81613&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603379
+LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03379
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-11-29-15-30-aix-maurienne-savoie-basket-1-hyeres-toulo
+ n-var-bas@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 AIX MAURIENNE SAVOIE BASKET - 1 – HYERES TOULON VAR BASKET
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ AIX MAURIENNE SAVOIE BASKET - 1 vs HYE
+ RES TOULON VAR BASKET\n\nHalle Marlioz\n📍 Chemin du Lycée Aix-les-Bain
+ s 73100\n🚗 Waze : https://waze.com/ul?ll=45.66621\,5.91145&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nmu18-elite/match/200000014603408
+LOCATION:Halle Marlioz\, Chemin du Lycée Aix-les-Bains 73100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03408
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-2026-12-06-15-30-sa-olympique-antibes-juan-les-pins-cote-d-
+ azur-aix-@ffbb-agenda
+DTSTAMP:20260819T080024Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ SA OLYMPIQUE ANTIBES JUAN LES PINS COTE D'AZUR – AIX MAURI
+ ENNE SAVOIE BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE\n⚔️ SA OLYMPIQUE ANTIBES JUAN LES PINS COT
+ E D'AZUR vs AIX MAURIENNE SAVOIE BASKET - 1\n\nSALLE SALUSSE SANTONI\n📍
+  Avenue Lemeray Antibes 06600\n🚗 Waze : https://waze.com/ul?ll=43.57789
+ \,7.12111&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20
+ 0000014603438
+LOCATION:SALLE SALUSSE SANTONI\, Avenue Lemeray Antibes 06600
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03438
+END:VEVENT
+END:VCALENDAR

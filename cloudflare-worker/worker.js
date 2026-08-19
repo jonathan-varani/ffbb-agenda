@@ -38,6 +38,30 @@ function icsFullUrl(fichier) {
   return `${PAGES_BASE}/${fichier}`;
 }
 
+// GitHub Pages sert les .ics en "text/calendar" sans charset=utf-8, ce qui fait
+// que certains clients (Google Agenda Android) mésinterprètent les caractères
+// UTF-8 (emoji, accents) du nom d'agenda (X-WR-CALNAME). On proxifie via ce
+// worker pour forcer explicitement le charset sur les liens d'abonnement.
+function icsProxyUrl(fichier, env) {
+  return `${env.WORKER_URL}/ics/${fichier}`;
+}
+
+async function handleIcsProxy(path) {
+  const fichier = path.replace(/^\/ics\//, "");
+  const upstream = await fetch(`${PAGES_BASE}/${fichier}`);
+  if (!upstream.ok) {
+    return new Response("Not found", { status: upstream.status });
+  }
+  return new Response(upstream.body, {
+    status: 200,
+    headers: {
+      "Content-Type":  "text/calendar; charset=utf-8",
+      "Cache-Control": "public, max-age=300",
+      ...cors(),
+    },
+  });
+}
+
 
 // ── POST /subscribe ───────────────────────────────────────────────────────────
 
@@ -235,8 +259,8 @@ async function handleToken(request, env) {
   // ── Page d'abonnement ───────────────────────────────────────────────────────
   // Un clic utilisateur direct est indispensable : un redirect 302 vers webcal://
   // donne une page blanche dans un navigateur mobile.
-  const httpsUrl    = icsFullUrl(row.fichier);
-  const webcalUrl   = httpsUrl.replace(/^https?:\/\//, "webcal://");
+  const httpsUrl    = icsFullUrl(row.fichier);                          // lien direct (téléchargement navigateur)
+  const webcalUrl   = icsProxyUrl(row.fichier, env).replace(/^https?:\/\//, "webcal://"); // abonnement (charset correct)
   const googleUrl   = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUrl)}`;
   const equipeLabel = row.equipe || "votre équipe";
 
@@ -359,6 +383,9 @@ export default {
     }
     if (request.method === "GET" && path === "/sub") {
       return handleToken(request, env);
+    }
+    if (request.method === "GET" && path.startsWith("/ics/")) {
+      return handleIcsProxy(path);
     }
 
     return new Response("Not found", { status: 404 });

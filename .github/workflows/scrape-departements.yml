@@ -1,0 +1,68 @@
+name: Scrape FFBB — départementaux Grand Est
+
+on:
+  schedule:
+    # 22h00 heure de Paris = 20h00 UTC (heure d'été)
+    # ⚠️ GitHub Actions ne gère que l'UTC : décaler d'1h en hiver (heure d'hiver = UTC+1)
+    - cron: "0 20 * * *"
+  workflow_dispatch: {}   # permet un lancement manuel depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-departements:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le scraping (comités départementaux Grand Est)
+        run: >
+          python generate_ics.py --region
+          "https://competitions.ffbb.com/ligues/ges/comites/0008"
+          "https://competitions.ffbb.com/ligues/ges/comites/0010"
+          "https://competitions.ffbb.com/ligues/ges/comites/0067"
+          "https://competitions.ffbb.com/ligues/ges/comites/0068"
+          "https://competitions.ffbb.com/ligues/ges/comites/0052"
+          "https://competitions.ffbb.com/ligues/ges/comites/0051"
+          "https://competitions.ffbb.com/ligues/ges/comites/0054"
+          "https://competitions.ffbb.com/ligues/ges/comites/0055"
+          "https://competitions.ffbb.com/ligues/ges/comites/0057"
+          "https://competitions.ffbb.com/ligues/ges/comites/0088"
+
+      - name: Commit + push si changements
+        run: |
+          set -x
+          git config user.name "ffbb-bot"
+          git config user.email "actions@github.com"
+          git status --porcelain
+          git add docs/calendars docs/calendars.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Auto: mise à jour calendriers départementaux GES $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # Un autre run (région GES, nationaux, ou un push manuel) peut avoir poussé entre-temps :
+            # on rebase sur origin/main avant de pousser, avec quelques tentatives.
+            success=false
+            for i in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push; then
+                success=true
+                break
+              fi
+              echo "Push rejeté, nouvel essai ($i/5)…"
+              sleep $((RANDOM % 10 + 5))
+            done
+            if [ "$success" = false ]; then
+              echo "::error::Échec du push après 5 tentatives."
+              exit 1
+            fi
+          fi

@@ -22,6 +22,20 @@ SSL_CTX.check_hostname = False
 SSL_CTX.verify_mode    = ssl.CERT_NONE
 
 BASE    = "https://competitions.ffbb.com"
+
+# Comités départementaux de la ligue Grand Est (code comité FFBB → nom du département)
+DEPARTEMENTS = {
+    "0008": "Ardennes",
+    "0010": "Aube",
+    "0067": "Bas-Rhin",
+    "0068": "Haut-Rhin",
+    "0052": "Haute-Marne",
+    "0051": "Marne",
+    "0054": "Meurthe-et-Moselle",
+    "0055": "Meuse",
+    "0057": "Moselle",
+    "0088": "Vosges",
+}
 HEADERS = {
     "User-Agent":      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
     "Accept-Language": "fr-FR,fr;q=0.9",
@@ -362,15 +376,17 @@ def extract_meta(html: str, url: str) -> dict:
     title_txt = title.get_text(strip=True) if title else ""
 
     # Extrait phase, poule depuis l'URL
-    phase_m  = re.search(r"phase=(\d+)", url)
-    poule_m  = re.search(r"poule=(\d+)", url)
+    phase_m   = re.search(r"phase=(\d+)", url)
+    poule_m   = re.search(r"poule=(\d+)", url)
     ligueCode = re.search(r"/ligues/(\w+)/", url)
     compCode  = re.search(r"/competitions/([\w-]+)", url)
+    comiteCode = re.search(r"/comites/(\w+)/", url)
 
     # Depuis le JSON __next_f (cherche dans le contenu décodé)
-    poule_nom = ""
-    slug_nom  = title_txt and re.sub(r"\s*\|.*", "", title_txt).strip() or ""
-    region    = ligueCode.group(1).upper() if ligueCode else ""
+    poule_nom   = ""
+    slug_nom    = title_txt and re.sub(r"\s*\|.*", "", title_txt).strip() or ""
+    region      = ligueCode.group(1).upper() if ligueCode else ""
+    departement = DEPARTEMENTS.get(comiteCode.group(1)) if comiteCode else ""
 
     for script in soup.find_all("script"):
         txt = script.string or ""
@@ -412,14 +428,20 @@ def extract_meta(html: str, url: str) -> dict:
                 if pm2:
                     poule_nom = pm2.group(1)
 
+    key_parts = [compCode.group(1) if compCode else "", region]
+    if departement:
+        key_parts.append(departement)
+    key_parts.append(poule_nom)
+
     return {
-        "slug":    compCode.group(1).upper() if compCode else "",
-        "poule":   poule_nom,
-        "region":  region,
-        "titre":   slug_nom or title_txt,
-        "phase":   phase_m.group(1) if phase_m else "",
-        "poule_id": poule_m.group(1) if poule_m else "",
-        "key":     f"{compCode.group(1) if compCode else ''}-{region}-{poule_nom}".lower(),
+        "slug":        compCode.group(1).upper() if compCode else "",
+        "poule":       poule_nom,
+        "region":      region,
+        "departement": departement,
+        "titre":       slug_nom or title_txt,
+        "phase":       phase_m.group(1) if phase_m else "",
+        "poule_id":    poule_m.group(1) if poule_m else "",
+        "key":         "-".join(key_parts).lower(),
     }
 
 
@@ -431,7 +453,10 @@ async def scrape_competition(url: str, enrich_details: bool = True) -> tuple[lis
 
 
 def build_calendar_name(meta: dict) -> str:
-    parts = [meta.get("slug",""), meta.get("region",""), meta.get("poule","")]
+    parts = [meta.get("slug",""), meta.get("region","")]
+    if meta.get("departement"):
+        parts.append(meta["departement"])
+    parts.append(meta.get("poule",""))
     return " – ".join(p for p in parts if p)
 
 
@@ -555,7 +580,7 @@ async def discover_competitions(
         href = a["href"]
         if "/competitions/" not in href or "/match/" in href:
             continue
-        m = re.search(r"(/ligues/[^/]+/competitions/[^/?#]+)", href)
+        m = re.search(r"(/ligues/[^/]+/(?:comites/[^/]+/)?competitions/[^/?#]+)", href)
         if not m:
             continue
         slug_path = m.group(1)
@@ -574,7 +599,7 @@ async def discover_competitions(
     for a in soup.find_all("a", href=True):
         href = a["href"]
         pm = re.search(r"phase=(\d+)", href)
-        slug_m = re.search(r"(/ligues/[^/]+/competitions/[^/?#]+)", href)
+        slug_m = re.search(r"(/ligues/[^/]+/(?:comites/[^/]+/)?competitions/[^/?#]+)", href)
         if pm and slug_m:
             slug_path = slug_m.group(1)
             label = a.get_text(strip=True)
@@ -624,7 +649,7 @@ async def _resolve_phase_url(slug_path: str) -> str | None:
         BASE + slug_path,
     ]
     html = ""
-    slug_re = r"(/ligues/[^/]+/competitions/[^/?#]+|/competitions/[^/?#]+)"
+    slug_re = r"(/ligues/[^/]+/(?:comites/[^/]+/)?competitions/[^/?#]+|/competitions/[^/?#]+)"
 
     for comp_url in urls_to_try:
         try:

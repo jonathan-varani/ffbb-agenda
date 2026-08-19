@@ -237,7 +237,7 @@ async function handleToken(request, env) {
   // donne une page blanche dans un navigateur mobile.
   const httpsUrl    = icsFullUrl(row.fichier);
   const webcalUrl   = httpsUrl.replace(/^https?:\/\//, "webcal://");
-  const googleUrl   = `https://calendar.google.com/calendar/render?cid=${webcalUrl}`;
+  const googleUrl   = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUrl)}`;
   const equipeLabel = row.equipe || "votre équipe";
 
   return new Response(`<!DOCTYPE html>

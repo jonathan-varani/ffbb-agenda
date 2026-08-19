@@ -61,7 +61,7 @@
     }
     .search-bar input:focus { border-color: var(--orange); }
 
-    /* ── Sélecteur scope (GES / National) ── */
+    /* ── Sélecteur scope (Départemental / Régional / National) ── */
     .scope-tabs {
       display: flex;
       background: #fff;
@@ -72,11 +72,11 @@
     }
     .scope-tab {
       flex: 1;
-      padding: 12px 8px;
+      padding: 12px 6px;
       border: none;
       border-bottom: 3px solid transparent;
       background: transparent;
-      font-size: .9rem;
+      font-size: .8rem;
       font-weight: 700;
       color: var(--gray);
       cursor: pointer;
@@ -448,7 +448,8 @@
 </div>
 
 <div class="scope-tabs">
-  <button class="scope-tab active" data-scope="ges" onclick="setScope('ges')">🗺️ Grand Est</button>
+  <button class="scope-tab active" data-scope="departemental" onclick="setScope('departemental')">📍 Départemental</button>
+  <button class="scope-tab" data-scope="regional" onclick="setScope('regional')">🗺️ Régional</button>
   <button class="scope-tab" data-scope="national" onclick="setScope('national')">🏆 National</button>
 </div>
 
@@ -525,7 +526,7 @@ function subUrl(f)    { return webcalUrl(f); }
 
 // ── Données ──────────────────────────────────────────────────────────────────
 let DATA = null;
-let currentScope  = "ges";   // "ges" | "national"
+let currentScope  = "departemental";   // "departemental" | "regional" | "national"
 let currentSearch = "";
 let currentGenre  = "";
 
@@ -545,6 +546,16 @@ function compGenreMap() {
   return map;
 }
 
+// ── Niveau (départemental / régional / national) depuis les méta d'une compétition ──
+function compScopeMap() {
+  const map = {};
+  for (const c of DATA.calendriers) {
+    const meta = c.meta || {};
+    map[c.slug] = meta.departement ? "departemental" : (meta.region ? "regional" : "national");
+  }
+  return map;
+}
+
 async function loadData() {
   try {
     const res = await fetch("./calendars.json");
@@ -559,7 +570,7 @@ async function loadData() {
 }
 
 function init() {
-  setScope("ges");
+  setScope("departemental");
 }
 
 function setScope(scope) {
@@ -596,11 +607,12 @@ function champRootLabel(rootSlug) {
 
 function render() {
   if (!DATA) return;
-  const content  = document.getElementById("content");
-  const genreMap = compGenreMap();
+  const content   = document.getElementById("content");
+  const genreMap  = compGenreMap();
+  const scopeMap  = compScopeMap();
 
   const filtered = DATA.equipes.filter(eq => {
-    const scopeOk  = currentScope === "national" ? eq.region === "" : eq.region !== "";
+    const scopeOk  = scopeMap[eq.comp_slug] === currentScope;
     const searchOk = !currentSearch || eq.nom.toLowerCase().includes(currentSearch);
     const genreOk  = !currentGenre || genreMap[eq.comp_slug] === currentGenre;
     return scopeOk && searchOk && genreOk;

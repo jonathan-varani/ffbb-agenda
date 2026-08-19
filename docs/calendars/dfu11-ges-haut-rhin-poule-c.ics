@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-09-26-00-00-berrwiller-staffelfelden-b
  c-3-panth@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:BERRWILLER/STAFFELFELDEN BC - 3 – PANTHERES MULHOUSE BASKET ALSAC
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-09-26-13-30-as-de-chalampe-ie-ctc-jura
  -alsacien@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20260926T133000
 DTEND;TZID=Europe/Paris:20260926T153000
 SUMMARY:AS DE CHALAMPE – IE - CTC JURA ALSACIEN BASKET - 2
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-09-26-15-00-fcsl-eguisheim-cs-saint-pp
  -waldigho@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20260926T150000
 DTEND;TZID=Europe/Paris:20260926T170000
 SUMMARY:FCSL EGUISHEIM – CS SAINT PP WALDIGHOFFEN
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-09-26-17-00-asca-wittelsheim-ie-ctc-de
  -l-ill-2@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20260926T170000
 DTEND;TZID=Europe/Paris:20260926T190000
 SUMMARY:ASCA WITTELSHEIM – IE - CTC DE L'ILL - 2
@@ -93,26 +93,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558331
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-haut-rhin-poule-c-2026-10-03-00-00-ie-ctc-de-l-ill-2-fcsl-egu
- isheim@ffbb-agenda
-DTSTAMP:20260819T080812Z
-DTSTART;TZID=Europe/Paris:20261003T000000
-DTEND;TZID=Europe/Paris:20261003T020000
-SUMMARY:IE - CTC DE L'ILL - 2 – FCSL EGUISHEIM
-DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ IE - CTC D
- E L'ILL - 2 vs FCSL EGUISHEIM\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'I
- ll Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/
- match/200000014558335
-LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
-URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
- 1/match/200000014558335
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-10-03-00-00-ie-ctc-jura-alsacien-baske
  t-2-asca-@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261003T000000
 DTEND;TZID=Europe/Paris:20261003T020000
 SUMMARY:IE - CTC JURA ALSACIEN BASKET - 2 – ASCA WITTELSHEIM
@@ -127,9 +110,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558332
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-10-03-00-00-ie-ctc-de-l-ill-2-fcsl-egu
+ isheim@ffbb-agenda
+DTSTAMP:20260819T210531Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:IE - CTC DE L'ILL - 2 – FCSL EGUISHEIM
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ IE - CTC D
+ E L'ILL - 2 vs FCSL EGUISHEIM\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'I
+ ll Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/
+ match/200000014558335
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558335
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-10-03-14-00-cs-saint-pp-waldighoffen-b
  errwiller@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261003T140000
 DTEND;TZID=Europe/Paris:20261003T160000
 SUMMARY:CS SAINT PP WALDIGHOFFEN – BERRWILLER/STAFFELFELDEN BC - 3
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-10-03-14-00-pantheres-mulhouse-basket-
  alsace-2-@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261003T140000
 DTEND;TZID=Europe/Paris:20261003T160000
 SUMMARY:PANTHERES MULHOUSE BASKET ALSACE - 2 – AS DE CHALAMPE
@@ -163,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-10-10-00-00-berrwiller-staffelfelden-b
  c-3-ie-ct@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261010T000000
 DTEND;TZID=Europe/Paris:20261010T020000
 SUMMARY:BERRWILLER/STAFFELFELDEN BC - 3 – IE - CTC DE L'ILL - 2
@@ -180,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-10-10-13-30-as-de-chalampe-cs-saint-pp
  -waldigho@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261010T133000
 DTEND;TZID=Europe/Paris:20261010T153000
 SUMMARY:AS DE CHALAMPE – CS SAINT PP WALDIGHOFFEN
@@ -195,26 +195,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558336
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-haut-rhin-poule-c-2026-10-10-15-00-asca-wittelsheim-pantheres
- -mulhouse@ffbb-agenda
-DTSTAMP:20260819T080812Z
-DTSTART;TZID=Europe/Paris:20261010T150000
-DTEND;TZID=Europe/Paris:20261010T170000
-SUMMARY:ASCA WITTELSHEIM – PANTHERES MULHOUSE BASKET ALSACE - 2
-DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ ASCA WITTE
- LSHEIM vs PANTHERES MULHOUSE BASKET ALSACE - 2\n\nSALLE AMELIE ZURCHER\n
- 📍 Rue de la 2ème D.I.M. Wittelsheim 68310\n🚗 Waze : https://waze.co
- m/ul?ll=47.80135\,7.23869&navigate=yes\n\n📢 Arbitres : Pas de désignat
- ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
- s/0068/competitions/dfu11/match/200000014558339
-LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
-URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
- 1/match/200000014558339
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-10-10-15-00-fcsl-eguisheim-ie-ctc-jura
  -alsacien@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261010T150000
 DTEND;TZID=Europe/Paris:20261010T170000
 SUMMARY:FCSL EGUISHEIM – IE - CTC JURA ALSACIEN BASKET - 2
@@ -229,26 +212,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558338
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-haut-rhin-poule-c-2026-11-07-00-00-ie-ctc-de-l-ill-2-as-de-ch
- alampe@ffbb-agenda
-DTSTAMP:20260819T080812Z
-DTSTART;TZID=Europe/Paris:20261107T000000
-DTEND;TZID=Europe/Paris:20261107T020000
-SUMMARY:IE - CTC DE L'ILL - 2 – AS DE CHALAMPE
-DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ IE - CTC D
- E L'ILL - 2 vs AS DE CHALAMPE\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'I
- ll Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/
- match/200000014558341
-LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+UID:dfu11-ges-haut-rhin-poule-c-2026-10-10-15-00-asca-wittelsheim-pantheres
+ -mulhouse@ffbb-agenda
+DTSTAMP:20260819T210531Z
+DTSTART;TZID=Europe/Paris:20261010T150000
+DTEND;TZID=Europe/Paris:20261010T170000
+SUMMARY:ASCA WITTELSHEIM – PANTHERES MULHOUSE BASKET ALSACE - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ ASCA WITTE
+ LSHEIM vs PANTHERES MULHOUSE BASKET ALSACE - 2\n\nSALLE AMELIE ZURCHER\n
+ 📍 Rue de la 2ème D.I.M. Wittelsheim 68310\n🚗 Waze : https://waze.co
+ m/ul?ll=47.80135\,7.23869&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0068/competitions/dfu11/match/200000014558339
+LOCATION:SALLE AMELIE ZURCHER\, Rue de la 2ème D.I.M. Wittelsheim 68310
 URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
- 1/match/200000014558341
+ 1/match/200000014558339
 END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-07-00-00-ie-ctc-jura-alsacien-baske
  t-2-berrw@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261107T000000
 DTEND;TZID=Europe/Paris:20261107T020000
 SUMMARY:IE - CTC JURA ALSACIEN BASKET - 2 – BERRWILLER/STAFFELFELDEN BC -
@@ -264,9 +247,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558342
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-11-07-00-00-ie-ctc-de-l-ill-2-as-de-ch
+ alampe@ffbb-agenda
+DTSTAMP:20260819T210531Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:IE - CTC DE L'ILL - 2 – AS DE CHALAMPE
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️ IE - CTC D
+ E L'ILL - 2 vs AS DE CHALAMPE\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de l'I
+ ll Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36244&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/
+ match/200000014558341
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558341
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-07-13-00-pantheres-mulhouse-basket-
  alsace-2-@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261107T130000
 DTEND;TZID=Europe/Paris:20261107T150000
 SUMMARY:PANTHERES MULHOUSE BASKET ALSACE - 2 – FCSL EGUISHEIM
@@ -283,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-07-16-00-cs-saint-pp-waldighoffen-a
  sca-witte@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261107T160000
 DTEND;TZID=Europe/Paris:20261107T180000
 SUMMARY:CS SAINT PP WALDIGHOFFEN – ASCA WITTELSHEIM
@@ -300,7 +300,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-14-00-00-ie-ctc-de-l-ill-2-cs-saint
  -pp-waldi@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261114T000000
 DTEND;TZID=Europe/Paris:20261114T020000
 SUMMARY:IE - CTC DE L'ILL - 2 – CS SAINT PP WALDIGHOFFEN
@@ -317,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-14-00-00-ie-ctc-jura-alsacien-baske
  t-2-panth@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261114T000000
 DTEND;TZID=Europe/Paris:20261114T020000
 SUMMARY:IE - CTC JURA ALSACIEN BASKET - 2 – PANTHERES MULHOUSE BASKET ALS
@@ -335,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-14-14-45-asca-wittelsheim-as-de-cha
  lampe@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261114T144500
 DTEND;TZID=Europe/Paris:20261114T164500
 SUMMARY:ASCA WITTELSHEIM – AS DE CHALAMPE
@@ -352,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-14-15-00-fcsl-eguisheim-berrwiller-
  staffelfe@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261114T150000
 DTEND;TZID=Europe/Paris:20261114T170000
 SUMMARY:FCSL EGUISHEIM – BERRWILLER/STAFFELFELDEN BC - 3
@@ -369,7 +369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-28-00-00-berrwiller-staffelfelden-b
  c-3-asca-@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261128T000000
 DTEND;TZID=Europe/Paris:20261128T020000
 SUMMARY:BERRWILLER/STAFFELFELDEN BC - 3 – ASCA WITTELSHEIM
@@ -386,7 +386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-28-00-00-cs-saint-pp-waldighoffen-i
  e-ctc-jur@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261128T000000
 DTEND;TZID=Europe/Paris:20261128T020000
 SUMMARY:CS SAINT PP WALDIGHOFFEN – IE - CTC JURA ALSACIEN BASKET - 2
@@ -403,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-28-13-30-as-de-chalampe-fcsl-eguish
  eim@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261128T133000
 DTEND;TZID=Europe/Paris:20261128T153000
 SUMMARY:AS DE CHALAMPE – FCSL EGUISHEIM
@@ -420,7 +420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-11-28-14-00-pantheres-mulhouse-basket-
  alsace-2-@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261128T140000
 DTEND;TZID=Europe/Paris:20261128T160000
 SUMMARY:PANTHERES MULHOUSE BASKET ALSACE - 2 – IE - CTC DE L'ILL - 2
@@ -437,7 +437,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-12-12-00-00-berrwiller-staffelfelden-b
  c-3-as-de@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261212T000000
 DTEND;TZID=Europe/Paris:20261212T020000
 SUMMARY:BERRWILLER/STAFFELFELDEN BC - 3 – AS DE CHALAMPE
@@ -454,7 +454,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-12-12-00-00-ie-ctc-jura-alsacien-baske
  t-2-ie-ct@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261212T000000
 DTEND;TZID=Europe/Paris:20261212T020000
 SUMMARY:IE - CTC JURA ALSACIEN BASKET - 2 – IE - CTC DE L'ILL - 2
@@ -471,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-12-12-14-00-pantheres-mulhouse-basket-
  alsace-2-@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261212T140000
 DTEND;TZID=Europe/Paris:20261212T160000
 SUMMARY:PANTHERES MULHOUSE BASKET ALSACE - 2 – CS SAINT PP WALDIGHOFFEN
@@ -488,7 +488,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-c-2026-12-12-16-00-asca-wittelsheim-fcsl-egui
  sheim@ffbb-agenda
-DTSTAMP:20260819T080812Z
+DTSTAMP:20260819T210531Z
 DTSTART;TZID=Europe/Paris:20261212T160000
 DTEND;TZID=Europe/Paris:20261212T180000
 SUMMARY:ASCA WITTELSHEIM – FCSL EGUISHEIM

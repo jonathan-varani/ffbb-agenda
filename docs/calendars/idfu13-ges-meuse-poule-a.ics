@@ -24,9 +24,26 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-09-19-13-30-as-haut-du-lievre-nancy-saint
+ -die-vosg@ffbb-agenda
+DTSTAMP:20260819T210958Z
+DTSTART;TZID=Europe/Paris:20260919T133000
+DTEND;TZID=Europe/Paris:20260919T153000
+SUMMARY:AS HAUT DU LIEVRE  NANCY – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
+ EVRE  NANCY vs SAINT DIE VOSGES BASKET\n\nGYMNASE BUFFON\n📍 Rue Dominiq
+ ue Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.15411
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu1
+ 3/match/200000014616243
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616243
+END:VEVENT
+BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-09-19-13-30-basket-all-star-mussipontain-
  entente-g@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20260919T133000
 DTEND;TZID=Europe/Paris:20260919T153000
 SUMMARY:BASKET ALL STAR MUSSIPONTAIN – ENTENTE GRANGES GERARDMER
@@ -42,26 +59,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
  13/match/200000014616244
 END:VEVENT
 BEGIN:VEVENT
-UID:idfu13-ges-meuse-poule-a-2026-09-19-13-30-as-haut-du-lievre-nancy-saint
- -die-vosg@ffbb-agenda
-DTSTAMP:20260819T081146Z
-DTSTART;TZID=Europe/Paris:20260919T133000
-DTEND;TZID=Europe/Paris:20260919T153000
-SUMMARY:AS HAUT DU LIEVRE  NANCY – SAINT DIE VOSGES BASKET
-DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
- EVRE  NANCY vs SAINT DIE VOSGES BASKET\n\nGYMNASE BUFFON\n📍 Rue Dominiq
- ue Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.15411
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu1
- 3/match/200000014616243
-LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
- 13/match/200000014616243
-END:VEVENT
-BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-09-19-15-30-us-silvange-basket-2-basket-c
  lub-golbe@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20260919T153000
 DTEND;TZID=Europe/Paris:20260919T173000
 SUMMARY:US SILVANGE BASKET - 2 – BASKET CLUB GOLBEY EPINAL
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-09-26-13-30-basket-club-golbey-epinal-bas
  ket-all-s@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20260926T133000
 DTEND;TZID=Europe/Paris:20260926T153000
 SUMMARY:BASKET CLUB GOLBEY EPINAL – BASKET ALL STAR MUSSIPONTAIN
@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-09-26-13-30-entente-granges-gerardmer-as-
  haut-du-l@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20260926T133000
 DTEND;TZID=Europe/Paris:20260926T153000
 SUMMARY:ENTENTE GRANGES GERARDMER – AS HAUT DU LIEVRE  NANCY
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-09-26-16-00-sluc-nancy-basket-association
  -1-saint-@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20260926T160000
 DTEND;TZID=Europe/Paris:20260926T180000
 SUMMARY:SLUC NANCY BASKET ASSOCIATION - 1 – SAINT DIE VOSGES BASKET
@@ -129,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-10-03-13-30-as-haut-du-lievre-nancy-baske
  t-club-go@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261003T133000
 DTEND;TZID=Europe/Paris:20261003T153000
 SUMMARY:AS HAUT DU LIEVRE  NANCY – BASKET CLUB GOLBEY EPINAL
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-10-03-13-30-basket-all-star-mussipontain-
  us-silvan@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261003T133000
 DTEND;TZID=Europe/Paris:20261003T153000
 SUMMARY:BASKET ALL STAR MUSSIPONTAIN – US SILVANGE BASKET - 2
@@ -164,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-10-03-14-00-sluc-nancy-basket-association
  -1-entent@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261003T140000
 DTEND;TZID=Europe/Paris:20261003T160000
 SUMMARY:SLUC NANCY BASKET ASSOCIATION - 1 – ENTENTE GRANGES GERARDMER
@@ -182,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-10-10-13-30-entente-granges-gerardmer-sai
  nt-die-vo@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261010T133000
 DTEND;TZID=Europe/Paris:20261010T153000
 SUMMARY:ENTENTE GRANGES GERARDMER – SAINT DIE VOSGES BASKET
@@ -199,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-10-10-13-30-basket-club-golbey-epinal-slu
  c-nancy-b@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261010T133000
 DTEND;TZID=Europe/Paris:20261010T153000
 SUMMARY:BASKET CLUB GOLBEY EPINAL – SLUC NANCY BASKET ASSOCIATION - 1
@@ -216,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-10-10-15-30-us-silvange-basket-2-as-haut-
  du-lievre@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261010T153000
 DTEND;TZID=Europe/Paris:20261010T173000
 SUMMARY:US SILVANGE BASKET - 2 – AS HAUT DU LIEVRE  NANCY
@@ -231,26 +231,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
  13/match/200000014616263
 END:VEVENT
 BEGIN:VEVENT
-UID:idfu13-ges-meuse-poule-a-2026-11-07-13-30-as-haut-du-lievre-nancy-baske
- t-all-sta@ffbb-agenda
-DTSTAMP:20260819T081146Z
-DTSTART;TZID=Europe/Paris:20261107T133000
-DTEND;TZID=Europe/Paris:20261107T153000
-SUMMARY:AS HAUT DU LIEVRE  NANCY – BASKET ALL STAR MUSSIPONTAIN
-DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
- EVRE  NANCY vs BASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE BUFFON\n📍 Rue Do
- minique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.
- 15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
- FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/
- idfu13/match/200000014616271
-LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
- 13/match/200000014616271
-END:VEVENT
-BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-11-07-13-30-saint-die-vosges-basket-baske
  t-club-go@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261107T133000
 DTEND;TZID=Europe/Paris:20261107T153000
 SUMMARY:SAINT DIE VOSGES BASKET – BASKET CLUB GOLBEY EPINAL
@@ -266,9 +249,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
  13/match/200000014616273
 END:VEVENT
 BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-07-13-30-as-haut-du-lievre-nancy-baske
+ t-all-sta@ffbb-agenda
+DTSTAMP:20260819T210958Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:AS HAUT DU LIEVRE  NANCY – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ AS HAUT DU LI
+ EVRE  NANCY vs BASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE BUFFON\n📍 Rue Do
+ minique Louis Nancy 54100\n🚗 Waze : https://waze.com/ul?ll=48.70167\,6.
+ 15411&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/
+ idfu13/match/200000014616271
+LOCATION:GYMNASE BUFFON\, Rue Dominique Louis Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616271
+END:VEVENT
+BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-11-07-14-00-sluc-nancy-basket-association
  -1-us-sil@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261107T140000
 DTEND;TZID=Europe/Paris:20261107T160000
 SUMMARY:SLUC NANCY BASKET ASSOCIATION - 1 – US SILVANGE BASKET - 2
@@ -284,26 +284,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
  13/match/200000014616270
 END:VEVENT
 BEGIN:VEVENT
-UID:idfu13-ges-meuse-poule-a-2026-11-14-13-30-basket-club-golbey-epinal-ent
- ente-gran@ffbb-agenda
-DTSTAMP:20260819T081146Z
-DTSTART;TZID=Europe/Paris:20261114T133000
-DTEND;TZID=Europe/Paris:20261114T153000
-SUMMARY:BASKET CLUB GOLBEY EPINAL – ENTENTE GRANGES GERARDMER
-DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ BASKET CLUB G
- OLBEY EPINAL vs ENTENTE GRANGES GERARDMER\n\nSALLE FERNAND DAVID\n📍 Ave
- nue de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com/ul?ll=48.1
- 9073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
- Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
- titions/idfu13/match/200000014616279
-LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
-URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
- 13/match/200000014616279
-END:VEVENT
-BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-11-14-13-30-basket-all-star-mussipontain-
  sluc-nanc@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261114T133000
 DTEND;TZID=Europe/Paris:20261114T153000
 SUMMARY:BASKET ALL STAR MUSSIPONTAIN – SLUC NANCY BASKET ASSOCIATION - 1
@@ -319,9 +302,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
  13/match/200000014616277
 END:VEVENT
 BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-14-13-30-basket-club-golbey-epinal-ent
+ ente-gran@ffbb-agenda
+DTSTAMP:20260819T210958Z
+DTSTART;TZID=Europe/Paris:20261114T133000
+DTEND;TZID=Europe/Paris:20261114T153000
+SUMMARY:BASKET CLUB GOLBEY EPINAL – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ BASKET CLUB G
+ OLBEY EPINAL vs ENTENTE GRANGES GERARDMER\n\nSALLE FERNAND DAVID\n📍 Ave
+ nue de la Fontenelle Golbey 88190\n🚗 Waze : https://waze.com/ul?ll=48.1
+ 9073\,6.44127&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/idfu13/match/200000014616279
+LOCATION:SALLE FERNAND DAVID\, Avenue de la Fontenelle Golbey 88190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616279
+END:VEVENT
+BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-11-14-15-30-us-silvange-basket-2-saint-di
  e-vosges-@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261114T153000
 DTEND;TZID=Europe/Paris:20261114T173000
 SUMMARY:US SILVANGE BASKET - 2 – SAINT DIE VOSGES BASKET
@@ -336,26 +336,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
  13/match/200000014616278
 END:VEVENT
 BEGIN:VEVENT
-UID:idfu13-ges-meuse-poule-a-2026-11-21-13-30-entente-granges-gerardmer-us-
- silvange-@ffbb-agenda
-DTSTAMP:20260819T081146Z
-DTSTART;TZID=Europe/Paris:20261121T133000
-DTEND;TZID=Europe/Paris:20261121T153000
-SUMMARY:ENTENTE GRANGES GERARDMER – US SILVANGE BASKET - 2
-DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ ENTENTE GRANG
- ES GERARDMER vs US SILVANGE BASKET - 2\n\nGYMNASE PIERRE ET PAUL DIDIER\n
- 📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=48
- .07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
- competitions/idfu13/match/200000014616283
-LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
-URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
- 13/match/200000014616283
-END:VEVENT
-BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-11-21-13-30-saint-die-vosges-basket-baske
  t-all-sta@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261121T133000
 DTEND;TZID=Europe/Paris:20261121T153000
 SUMMARY:SAINT DIE VOSGES BASKET – BASKET ALL STAR MUSSIPONTAIN
@@ -371,9 +354,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
  13/match/200000014616284
 END:VEVENT
 BEGIN:VEVENT
+UID:idfu13-ges-meuse-poule-a-2026-11-21-13-30-entente-granges-gerardmer-us-
+ silvange-@ffbb-agenda
+DTSTAMP:20260819T210958Z
+DTSTART;TZID=Europe/Paris:20261121T133000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:ENTENTE GRANGES GERARDMER – US SILVANGE BASKET - 2
+DESCRIPTION:🏀 IDFU13 – GES – Meuse – Poule A\n⚔️ ENTENTE GRANG
+ ES GERARDMER vs US SILVANGE BASKET - 2\n\nGYMNASE PIERRE ET PAUL DIDIER\n
+ 📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=48
+ .07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/idfu13/match/200000014616283
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/idfu
+ 13/match/200000014616283
+END:VEVENT
+BEGIN:VEVENT
 UID:idfu13-ges-meuse-poule-a-2026-11-21-14-00-sluc-nancy-basket-association
  -1-as-hau@ffbb-agenda
-DTSTAMP:20260819T081146Z
+DTSTAMP:20260819T210958Z
 DTSTART;TZID=Europe/Paris:20261121T140000
 DTEND;TZID=Europe/Paris:20261121T160000
 SUMMARY:SLUC NANCY BASKET ASSOCIATION - 1 – AS HAUT DU LIEVRE  NANCY

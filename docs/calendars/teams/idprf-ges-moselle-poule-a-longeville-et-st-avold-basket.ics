@@ -1,0 +1,422 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LONGEVILLE ET ST AVOLD BASKET  [IDPRF – GES – Poule A]
+X-WR-CALDESC:Matchs de LONGEVILLE ET ST AVOLD BASKET – IDPRF – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-10-04-15-30-us-silvange-basket-longevill
+ e-et-st-a@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ US SILVANGE BASKET – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ US SILVANGE 
+ BASKET vs LONGEVILLE ET ST AVOLD BASKET\n\nCOSEC LA ROUSSE\n📍 Rue Augus
+ te Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.2
+ 1214\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/idprf/match/200000014646206
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646206
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-10-11-15-30-longeville-et-st-avold-baske
+ t-distric@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – DISTRICT BASKET RODEMACK KAN
+ FEN (DBRK)
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nGYMNASE DU 
+ CASTEL\n📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waz
+ e : https://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/comites/0057/competitions/idprf/match/200000014646212
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646212
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-11-07-18-00-sluc-nancy-basket-associatio
+ n-longevi@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION – LONGEVILLE ET ST AVOLD BAS
+ KET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ SLUC NANCY B
+ ASKET ASSOCIATION vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE DU PLACIEUX\
+ n📍 Rue John Fitzgerald Kennedy Villers-lès-Nancy 54600\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.67325\,6.16224&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0057/competitions/idprf/match/200000014646216
+LOCATION:GYMNASE DU PLACIEUX\, Rue John Fitzgerald Kennedy Villers-lès-Nan
+ cy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646216
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-11-15-15-30-longeville-et-st-avold-baske
+ t-ie-ctc-@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – IE - CTC COLLECTIF BASKET VA
+ L DE LORRAINE SUD
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD\n\nGYMN
+ ASE DU CASTEL\n📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n
+ 🚗 Waze : https://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0057/competitions/idprf/match/200000014646224
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646224
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-11-22-13-30-j-s-audunoise-basket-longevi
+ lle-et-st@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261122T133000
+DTEND;TZID=Europe/Paris:20261122T153000
+SUMMARY:✈️ J.S.AUDUNOISE BASKET – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE PIERRE TOMASI\n📍 R
+ ue Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll
+ =49.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/idprf/match/200000014646226
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646226
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-11-29-15-30-longeville-et-st-avold-baske
+ t-les-lyn@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs LES LYNX MAXEVILLOIS\n\nGYMNASE DU CASTEL\n📍 Rue d
+ es Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.c
+ om/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0057/competitions/idprf/match/200000014646236
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646236
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-12-06-15-30-longeville-et-st-avold-baske
+ t-ludres-@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – LUDRES PONT ST VINCENT BASKE
+ T CL
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs LUDRES PONT ST VINCENT BASKET CL\n\nGYMNASE DU CASTEL
+ \n📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : ht
+ tps://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0057/competitions/idprf/match/200000014646242
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646242
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-12-13-15-30-avant-garde-portoise-basket-
+ longevill@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:✈️ AVANT-GARDE PORTOISE BASKET – LONGEVILLE ET ST AVOLD BASKE
+ T
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ AVANT-GARDE 
+ PORTOISE BASKET vs LONGEVILLE ET ST AVOLD BASKET\n\nCOMPLEXE SPORTIF SALLE
+  A\n📍 Rue du Blanc Mur Saint-Nicolas-de-Port 54210\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.625\,6.29364&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0057/competitions/idprf/match/200000014646248
+LOCATION:COMPLEXE SPORTIF SALLE A\, Rue du Blanc Mur Saint-Nicolas-de-Port 
+ 54210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646248
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-01-10-15-30-longeville-et-st-avold-baske
+ t-usbb-uc@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – USBB UCKANGE
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs USBB UCKANGE\n\nGYMNASE DU CASTEL\n📍 Rue des Myrti
+ lles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com/ul?ll
+ =49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/idprf/match/200000014646254
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646254
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-01-17-15-30-metz-bc-longeville-et-st-avo
+ ld-basket@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:✈️ METZ BC – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ METZ BC vs L
+ ONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Rempart
+ s Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/idprf/match/2
+ 00000014646259
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646259
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-01-23-20-30-gs-arnaville-noveant-longevi
+ lle-et-st@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ GS ARNAVILLE NOVEANT – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ GS ARNAVILLE
+  NOVEANT vs LONGEVILLE ET ST AVOLD BASKET\n\nSALLE POLYVALENTE\n📍 Rue d
+ 'Arnaville Novéant-sur-Moselle 57680\n🚗 Waze : https://waze.com/ul?ll=
+ 49.02059\,6.04819&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/idprf/match/200000014646266
+LOCATION:SALLE POLYVALENTE\, Rue d'Arnaville Novéant-sur-Moselle 57680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646266
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-01-31-15-30-longeville-et-st-avold-baske
+ t-us-silv@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – US SILVANGE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs US SILVANGE BASKET\n\nGYMNASE DU CASTEL\n📍 Rue des
+  Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com
+ /ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0057/competitions/idprf/match/200000014646272
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646272
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-02-07-15-30-district-basket-rodemack-kan
+ fen-dbrk-@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:✈️ DISTRICT BASKET RODEMACK KANFEN (DBRK) – LONGEVILLE ET ST 
+ AVOLD BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ DISTRICT BAS
+ KET RODEMACK KANFEN (DBRK) vs LONGEVILLE ET ST AVOLD BASKET\n\nESPACE OMNI
+ SPORTS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https://waze.com/
+ ul?ll=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 057/competitions/idprf/match/200000014646278
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646278
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-02-14-15-30-longeville-et-st-avold-baske
+ t-sluc-na@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – SLUC NANCY BASKET ASSOCIATIO
+ N
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs SLUC NANCY BASKET ASSOCIATION\n\nGYMNASE DU CASTEL\n
+ 📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : http
+ s://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0057/competitions/idprf/match/200000014646282
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646282
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-03-14-15-30-ie-ctc-collectif-basket-val-
+ de-lorrai@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – LONGEVILLE
+  ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ IE - CTC COL
+ LECTIF BASKET VAL DE LORRAINE SUD vs LONGEVILLE ET ST AVOLD BASKET\n\nSALL
+ E INTERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : https://
+ waze.com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0057/competitions/idprf/match/200000014646290
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646290
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-03-21-15-30-longeville-et-st-avold-baske
+ t-j-s-aud@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs J.S.AUDUNOISE BASKET\n\nGYMNASE DU CASTEL\n📍 Rue d
+ es Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.c
+ om/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0057/competitions/idprf/match/200000014646292
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646292
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-03-28-15-30-les-lynx-maxevillois-longevi
+ lle-et-st@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:✈️ LES LYNX MAXEVILLOIS – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LES LYNX MAX
+ EVILLOIS vs LONGEVILLE ET ST AVOLD BASKET\n\nSALLE LEO LAGRANGE\n📍 Rue 
+ de l'Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.964
+ 07\,1.72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/idprf/match/200000014646302
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646302
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-04-04-15-30-ludres-pont-st-vincent-baske
+ t-cl-long@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:✈️ LUDRES PONT ST VINCENT BASKET CL – LONGEVILLE ET ST AVOLD 
+ BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LUDRES PONT 
+ ST VINCENT BASKET CL vs LONGEVILLE ET ST AVOLD BASKET\n\nSALLE MARIE MARVI
+ NGT\n📍 Rue Marie Marvingt Ludres 54710\n🚗 Waze : https://waze.com/ul
+ ?ll=48.6185\,6.16361&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 7/competitions/idprf/match/200000014646308
+LOCATION:SALLE MARIE MARVINGT\, Rue Marie Marvingt Ludres 54710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646308
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-04-11-15-30-longeville-et-st-avold-baske
+ t-avant-g@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – AVANT-GARDE PORTOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs AVANT-GARDE PORTOISE BASKET\n\nGYMNASE DU CASTEL\n
+ 📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : http
+ s://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0057/competitions/idprf/match/200000014646314
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646314
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-05-09-15-30-usbb-uckange-longeville-et-s
+ t-avold-b@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:✈️ USBB UCKANGE – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ USBB UCKANGE
+  vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE PETITE FONTAINE\n📍 Rue Jea
+ n Moulin Uckange 57270\n🚗 Waze : https://waze.com/ul?ll=49.30388\,6.144
+ 09&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idp
+ rf/match/200000014646320
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646320
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-05-23-15-30-longeville-et-st-avold-baske
+ t-metz-bc@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270523T153000
+DTEND;TZID=Europe/Paris:20270523T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – METZ BC
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs METZ BC\n\nGYMNASE DU CASTEL\n📍 Rue des Myrtilles 
+ Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com/ul?ll=49.1
+ 1207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/idprf/match/200000014646325
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646325
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-05-30-15-30-longeville-et-st-avold-baske
+ t-gs-arna@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270530T153000
+DTEND;TZID=Europe/Paris:20270530T173000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – GS ARNAVILLE NOVEANT
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs GS ARNAVILLE NOVEANT\n\nGYMNASE DU CASTEL\n📍 Rue d
+ es Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.c
+ om/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0057/competitions/idprf/match/200000014646332
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646332
+END:VEVENT
+END:VCALENDAR

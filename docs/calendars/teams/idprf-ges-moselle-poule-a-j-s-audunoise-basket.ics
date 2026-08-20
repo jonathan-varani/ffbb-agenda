@@ -1,0 +1,406 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – J.S.AUDUNOISE BASKET  [IDPRF – GES – Poule A]
+X-WR-CALDESC:Matchs de J.S.AUDUNOISE BASKET – IDPRF – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-10-04-13-30-j-s-audunoise-basket-metz-bc
+ @ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261004T133000
+DTEND;TZID=Europe/Paris:20261004T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – METZ BC
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs METZ BC\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacques Duclos Audu
+ n-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,5.94094&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idprf/match
+ /200000014646202
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646202
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-10-11-15-30-avant-garde-portoise-basket-
+ j-s-audun@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ AVANT-GARDE PORTOISE BASKET – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ AVANT-GARDE 
+ PORTOISE BASKET vs J.S.AUDUNOISE BASKET\n\nCOMPLEXE SPORTIF SALLE A\n📍 
+ Rue du Blanc Mur Saint-Nicolas-de-Port 54210\n🚗 Waze : https://waze.com
+ /ul?ll=48.625\,6.29364&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 057/competitions/idprf/match/200000014646209
+LOCATION:COMPLEXE SPORTIF SALLE A\, Rue du Blanc Mur Saint-Nicolas-de-Port 
+ 54210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646209
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-11-08-13-30-j-s-audunoise-basket-gs-arna
+ ville-nov@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261108T133000
+DTEND;TZID=Europe/Paris:20261108T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – GS ARNAVILLE NOVEANT
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs GS ARNAVILLE NOVEANT\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacque
+ s Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,
+ 5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/idprf/match/200000014646214
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646214
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-11-15-15-30-usbb-uckange-j-s-audunoise-b
+ asket@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ USBB UCKANGE – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ USBB UCKANGE
+  vs J.S.AUDUNOISE BASKET\n\nGYMNASE PETITE FONTAINE\n📍 Rue Jean Moulin 
+ Uckange 57270\n🚗 Waze : https://waze.com/ul?ll=49.30388\,6.14409&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idprf/match/
+ 200000014646223
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646223
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-11-22-13-30-j-s-audunoise-basket-longevi
+ lle-et-st@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261122T133000
+DTEND;TZID=Europe/Paris:20261122T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE PIERRE TOMASI\n📍 R
+ ue Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll
+ =49.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/idprf/match/200000014646226
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646226
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-11-29-15-30-ludres-pont-st-vincent-baske
+ t-cl-j-s-@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ LUDRES PONT ST VINCENT BASKET CL – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LUDRES PONT 
+ ST VINCENT BASKET CL vs J.S.AUDUNOISE BASKET\n\nSALLE MARIE MARVINGT\n📍
+  Rue Marie Marvingt Ludres 54710\n🚗 Waze : https://waze.com/ul?ll=48.61
+ 85\,6.16361&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/idprf/match/200000014646231
+LOCATION:SALLE MARIE MARVINGT\, Rue Marie Marvingt Ludres 54710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646231
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-12-06-15-30-district-basket-rodemack-kan
+ fen-dbrk-@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ DISTRICT BASKET RODEMACK KANFEN (DBRK) – J.S.AUDUNOISE BAS
+ KET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ DISTRICT BAS
+ KET RODEMACK KANFEN (DBRK) vs J.S.AUDUNOISE BASKET\n\nESPACE OMNISPORTS\n
+ 📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https://waze.com/ul?ll=49
+ .46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/idprf/match/200000014646238
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646238
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2026-12-13-13-30-j-s-audunoise-basket-sluc-na
+ ncy-baske@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20261213T133000
+DTEND;TZID=Europe/Paris:20261213T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs SLUC NANCY BASKET ASSOCIATION\n\nGYMNASE PIERRE TOMASI\n📍 R
+ ue Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll
+ =49.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/idprf/match/200000014646244
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646244
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-01-10-15-30-ie-ctc-collectif-basket-val-
+ de-lorrai@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – J.S.AUDUNO
+ ISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ IE - CTC COL
+ LECTIF BASKET VAL DE LORRAINE SUD vs J.S.AUDUNOISE BASKET\n\nSALLE INTERCO
+ MMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : https://waze.com/
+ ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0057/competitions/idprf/match/200000014646249
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646249
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-01-17-13-30-j-s-audunoise-basket-us-silv
+ ange-bask@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270117T133000
+DTEND;TZID=Europe/Paris:20270117T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – US SILVANGE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs US SILVANGE BASKET\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacques 
+ Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,5.
+ 94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ idprf/match/200000014646256
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646256
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-01-24-13-30-j-s-audunoise-basket-les-lyn
+ x-maxevil@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270124T133000
+DTEND;TZID=Europe/Paris:20270124T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs LES LYNX MAXEVILLOIS\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacque
+ s Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,
+ 5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/idprf/match/200000014646261
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646261
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-01-31-15-30-metz-bc-j-s-audunoise-basket
+ @ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ METZ BC – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ METZ BC vs J
+ .S.AUDUNOISE BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57
+ 000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/idprf/match/2000000146
+ 46268
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646268
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-02-07-13-30-j-s-audunoise-basket-avant-g
+ arde-port@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270207T133000
+DTEND;TZID=Europe/Paris:20270207T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – AVANT-GARDE PORTOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs AVANT-GARDE PORTOISE BASKET\n\nGYMNASE PIERRE TOMASI\n📍 Rue
+  Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/idprf/match/200000014646275
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646275
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-02-13-20-30-gs-arnaville-noveant-j-s-aud
+ unoise-ba@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ GS ARNAVILLE NOVEANT – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ GS ARNAVILLE
+  NOVEANT vs J.S.AUDUNOISE BASKET\n\nSALLE POLYVALENTE\n📍 Rue d'Arnavill
+ e Novéant-sur-Moselle 57680\n🚗 Waze : https://waze.com/ul?ll=49.02059\
+ ,6.04819&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/idprf/match/200000014646280
+LOCATION:SALLE POLYVALENTE\, Rue d'Arnaville Novéant-sur-Moselle 57680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646280
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-03-14-13-30-j-s-audunoise-basket-usbb-uc
+ kange@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270314T133000
+DTEND;TZID=Europe/Paris:20270314T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – USBB UCKANGE
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs USBB UCKANGE\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacques Duclos
+  Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,5.94094&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idprf/
+ match/200000014646289
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646289
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-03-21-15-30-longeville-et-st-avold-baske
+ t-j-s-aud@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs J.S.AUDUNOISE BASKET\n\nGYMNASE DU CASTEL\n📍 Rue d
+ es Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.c
+ om/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0057/competitions/idprf/match/200000014646292
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646292
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-03-28-13-30-j-s-audunoise-basket-ludres-
+ pont-st-v@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270328T133000
+DTEND;TZID=Europe/Paris:20270328T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – LUDRES PONT ST VINCENT BASKET CL
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs LUDRES PONT ST VINCENT BASKET CL\n\nGYMNASE PIERRE TOMASI\n
+ 📍 Rue Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com
+ /ul?ll=49.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 057/competitions/idprf/match/200000014646297
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646297
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-04-04-13-30-j-s-audunoise-basket-distric
+ t-basket-@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270404T133000
+DTEND;TZID=Europe/Paris:20270404T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – DISTRICT BASKET RODEMACK KANFEN (DBRK
+ )
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nGYMNASE PIERRE TOMAS
+ I\n📍 Rue Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.
+ com/ul?ll=49.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0057/competitions/idprf/match/200000014646304
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646304
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-04-11-13-00-sluc-nancy-basket-associatio
+ n-j-s-aud@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270411T130000
+DTEND;TZID=Europe/Paris:20270411T150000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ SLUC NANCY B
+ ASKET ASSOCIATION vs J.S.AUDUNOISE BASKET\n\nPALAIS DES SPORTS ANNEXE\n
+ 📍 Rue du Capitaine Guynemer Nancy 54100\n🚗 Waze : https://waze.com/u
+ l?ll=48.69975\,6.13996&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 057/competitions/idprf/match/200000014646310
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646310
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-05-09-13-30-j-s-audunoise-basket-ie-ctc-
+ collectif@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270509T133000
+DTEND;TZID=Europe/Paris:20270509T153000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – IE - CTC COLLECTIF BASKET VAL DE LORR
+ AINE SUD
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOIS
+ E BASKET vs IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD\n\nGYMNASE PIERR
+ E TOMASI\n📍 Rue Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https:
+ //waze.com/ul?ll=49.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0057/competitions/idprf/match/200000014646315
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646315
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-05-23-13-00-us-silvange-basket-j-s-audun
+ oise-bask@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270523T130000
+DTEND;TZID=Europe/Paris:20270523T150000
+SUMMARY:✈️ US SILVANGE BASKET – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ US SILVANGE 
+ BASKET vs J.S.AUDUNOISE BASKET\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migett
+ e Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.1
+ 1352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/i
+ dprf/match/200000014646322
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646322
+END:VEVENT
+BEGIN:VEVENT
+UID:idprf-ges-moselle-poule-a-2027-05-30-15-30-les-lynx-maxevillois-j-s-aud
+ unoise-ba@ffbb-agenda
+DTSTAMP:20260820T211357Z
+DTSTART;TZID=Europe/Paris:20270530T153000
+DTEND;TZID=Europe/Paris:20270530T173000
+SUMMARY:✈️ LES LYNX MAXEVILLOIS – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 IDPRF – GES – Moselle – Poule A\n⚔️ LES LYNX MAX
+ EVILLOIS vs J.S.AUDUNOISE BASKET\n\nSALLE LEO LAGRANGE\n📍 Rue de l'Orne
+  Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.96407\,1.720
+ 23&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idp
+ rf/match/200000014646327
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idpr
+ f/match/200000014646327
+END:VEVENT
+END:VCALENDAR

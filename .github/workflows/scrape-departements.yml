@@ -50,16 +50,39 @@ jobs:
             echo "Aucun changement."
           else
             git commit -m "Auto: mise à jour calendriers départementaux GES $(date -u +'%Y-%m-%d %H:%M UTC')"
-            # Un autre run (région GES, nationaux, ou un push manuel) peut avoir poussé entre-temps :
-            # on rebase sur origin/main avant de pousser, avec quelques tentatives.
+            # Un autre run (région GES, nationaux, ou un push manuel) peut avoir poussé
+            # entre-temps. docs/calendars.json est réécrit intégralement par le script
+            # à partir de sa propre lecture du fichier : un simple rebase peut donc
+            # entrer en conflit sur ce fichier. En cas de conflit, on abandonne le
+            # rebase et on régénère par-dessus le dernier état distant plutôt que de
+            # rejouer le même rebase en boucle.
             success=false
             for i in 1 2 3 4 5; do
-              if git pull --rebase origin main && git push; then
+              if git push; then
                 success=true
                 break
               fi
               echo "Push rejeté, nouvel essai ($i/5)…"
               sleep $((RANDOM % 10 + 5))
+              git fetch origin main
+              if ! git rebase origin/main; then
+                echo "Conflit de rebase : régénération depuis origin/main."
+                git rebase --abort
+                git reset --hard origin/main
+                python generate_ics.py --region \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0008" \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0010" \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0067" \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0068" \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0052" \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0051" \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0054" \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0055" \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0057" \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0088"
+                git add docs/calendars docs/calendars.json
+                git commit -m "Auto: mise à jour calendriers départementaux GES $(date -u +'%Y-%m-%d %H:%M UTC')"
+              fi
             done
             if [ "$success" = false ]; then
               echo "::error::Échec du push après 5 tentatives."

@@ -2,9 +2,11 @@ name: Scrape FFBB — championnats nationaux
 
 on:
   schedule:
-    # 23h00 heure de Paris = 21h00 UTC (heure d'été)
+    # 23h15 heure de Paris = 21h15 UTC (heure d'été)
     # ⚠️ GitHub Actions ne gère que l'UTC : décaler d'1h en hiver (heure d'hiver = UTC+1)
-    - cron: "0 21 * * *"
+    # Décalé de 15 min par rapport au scrape régional GES (21h00 UTC) pour éviter
+    # que les deux workflows poussent en même temps sur docs/calendars.json.
+    - cron: "15 21 * * *"
   workflow_dispatch: {}   # permet un lancement manuel depuis l'onglet Actions
 
 permissions:
@@ -39,16 +41,29 @@ jobs:
             echo "Aucun changement."
           else
             git commit -m "Auto: mise à jour calendriers nationaux FFBB $(date -u +'%Y-%m-%d %H:%M UTC')"
-            # Un autre run (région GES, ou un push manuel) peut avoir poussé entre-temps :
-            # on rebase sur origin/main avant de pousser, avec quelques tentatives.
+            # Un autre run (région GES, ou un push manuel) peut avoir poussé entre-temps.
+            # docs/calendars.json est réécrit intégralement par le script à partir de
+            # sa propre lecture du fichier : un simple rebase peut donc entrer en
+            # conflit sur ce fichier. En cas de conflit, on abandonne le rebase et on
+            # régénère par-dessus le dernier état distant plutôt que de rejouer le
+            # même rebase en boucle.
             success=false
             for i in 1 2 3 4 5; do
-              if git pull --rebase origin main && git push; then
+              if git push; then
                 success=true
                 break
               fi
               echo "Push rejeté, nouvel essai ($i/5)…"
               sleep $((RANDOM % 10 + 5))
+              git fetch origin main
+              if ! git rebase origin/main; then
+                echo "Conflit de rebase : régénération depuis origin/main."
+                git rebase --abort
+                git reset --hard origin/main
+                python generate_ics.py --national
+                git add docs/calendars docs/calendars.json
+                git commit -m "Auto: mise à jour calendriers nationaux FFBB $(date -u +'%Y-%m-%d %H:%M UTC')"
+              fi
             done
             if [ "$success" = false ]; then
               echo "::error::Échec du push après 5 tentatives."

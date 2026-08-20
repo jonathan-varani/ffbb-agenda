@@ -163,6 +163,11 @@ Données issues de competitions.ffbb.com · Projet non officiel`;
       // et évite les pixels/liens de tracking qui font pencher Gmail vers "Promotions".
       trackClicks: false,
       trackOpens:  false,
+      // Un en-tête List-Unsubscribe (même en mailto) est un signal positif pour
+      // les filtres anti-spam : son absence est typique des envois non légitimes.
+      headers: {
+        "List-Unsubscribe": `<mailto:${SENDER_EMAIL}?subject=Desabonnement>`,
+      },
     }),
   });
   if (!brevo.ok) {

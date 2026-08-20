@@ -94,45 +94,55 @@ async function handleSubscribe(request, env) {
 
   // ── Email Brevo ───────────────────────────────────────────────────────────
   const tokenLink = `${env.WORKER_URL}/sub?token=${token}`;
+  const compSuffix = comp_nom ? ` — ${comp_nom}` : "";
 
+  // Contenu volontairement sobre (peu d'images, pas de gros bouton coloré) :
+  // le style "campagne marketing" est un signal fort pour le tri automatique
+  // de Gmail vers l'onglet Promotions.
   const emailHtml = `
   <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
-              max-width:480px;margin:0 auto;padding:32px 24px;color:#1B2A4A">
-    <div style="text-align:center;margin-bottom:28px">
-      <div style="font-size:2.8rem">🏀</div>
-      <h1 style="font-size:1.25rem;font-weight:700;margin-top:8px">Agendas FFBB</h1>
-    </div>
-
+              max-width:480px;margin:0 auto;padding:24px;color:#1B2A4A;font-size:.95rem;line-height:1.5">
     <p style="margin-bottom:12px">Bonjour,</p>
-    <p style="margin-bottom:20px">
-      Voici votre lien d'abonnement au calendrier de
-      <strong>${equipe}</strong>${comp_nom ? ` — ${comp_nom}` : ""}.
+    <p style="margin-bottom:16px">
+      Voici le lien pour vous abonner au calendrier de
+      <strong>${equipe}</strong>${compSuffix} :
     </p>
 
-    <div style="text-align:center;margin:28px 0">
-      <p style="font-size:.85rem;color:#6B7280;margin-bottom:12px">
-        Ouvrez ce lien <strong>depuis votre téléphone</strong> 📱
-      </p>
-      <a href="${tokenLink}"
-         style="display:inline-block;background:#E84E0F;color:#fff;
-                text-decoration:none;padding:14px 32px;border-radius:10px;
-                font-weight:700;font-size:1rem">
-        📅 S'abonner au calendrier
-      </a>
-    </div>
+    <p style="margin-bottom:16px">
+      <a href="${tokenLink}" style="color:#E84E0F;font-weight:600">${tokenLink}</a>
+    </p>
 
-    <div style="background:#F5F6FA;border-radius:8px;padding:14px 16px;
-                font-size:.82rem;color:#6B7280;margin-bottom:24px">
-      Les mises à jour (horaires, scores, arbitres) apparaîtront
-      <strong>automatiquement</strong> dans votre application Calendrier.<br><br>
-      <em style="font-size:.78rem">Ce lien est valable une seule fois.</em>
-    </div>
+    <p style="margin-bottom:16px;color:#6B7280">
+      Ouvrez-le depuis votre téléphone pour ajouter le calendrier directement
+      dans votre application Agenda. Les mises à jour (horaires, scores,
+      arbitres) apparaîtront ensuite automatiquement — ce lien n'est valable
+      qu'une seule fois.
+    </p>
+
+    <p style="margin-bottom:0;color:#6B7280">
+      Bon match,<br>Agendas FFBB
+    </p>
 
     <hr style="border:none;border-top:1px solid #E5E7EB;margin:24px 0">
-    <p style="font-size:.72rem;color:#9CA3AF;text-align:center">
+    <p style="font-size:.72rem;color:#9CA3AF">
       Données issues de competitions.ffbb.com · Projet non officiel
     </p>
   </div>`;
+
+  const emailText =
+`Bonjour,
+
+Voici le lien pour vous abonner au calendrier de ${equipe}${compSuffix} :
+${tokenLink}
+
+Ouvrez-le depuis votre téléphone pour ajouter le calendrier directement dans
+votre application Agenda. Les mises à jour (horaires, scores, arbitres)
+apparaîtront ensuite automatiquement — ce lien n'est valable qu'une seule fois.
+
+Bon match,
+Agendas FFBB
+
+Données issues de competitions.ffbb.com · Projet non officiel`;
 
   const brevo = await fetch("https://api.brevo.com/v3/smtp/email", {
     method: "POST",
@@ -140,9 +150,12 @@ async function handleSubscribe(request, env) {
     body: JSON.stringify({
       sender:      { name: SENDER_NAME, email: SENDER_EMAIL },
       to:          [{ email }],
-      subject:     `📅 Votre abonnement FFBB — ${equipe}`,
+      replyTo:     { email: SENDER_EMAIL },
+      subject:     `Votre abonnement au calendrier — ${equipe}`,
       htmlContent: emailHtml,
+      textContent: emailText,
       // Désactive le wrapper de tracking Brevo (sendibt2.com) qui casse le lien sur Android
+      // et évite les pixels/liens de tracking qui font pencher Gmail vers "Promotions".
       trackClicks: false,
       trackOpens:  false,
     }),

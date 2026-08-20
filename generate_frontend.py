@@ -279,6 +279,7 @@ html = f"""<!DOCTYPE html>
     }}
     .modal-overlay.open {{ display: flex; }}
     .modal {{
+      position: relative;
       background: #fff;
       border-radius: 20px 20px 0 0;
       padding: 24px 20px 36px;
@@ -286,6 +287,24 @@ html = f"""<!DOCTYPE html>
       max-width: 500px;
       animation: slideUp .2s ease-out;
     }}
+    .modal-x {{
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      width: 32px;
+      height: 32px;
+      border: none;
+      border-radius: 50%;
+      background: var(--light);
+      color: var(--navy);
+      font-size: 1.1rem;
+      line-height: 1;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }}
+    .modal-x:active {{ background: var(--border); }}
     @keyframes slideUp {{
       from {{ transform: translateY(100%); }}
       to   {{ transform: translateY(0); }}
@@ -294,6 +313,7 @@ html = f"""<!DOCTYPE html>
       font-size: 1rem;
       font-weight: 700;
       margin-bottom: 4px;
+      padding-right: 40px;
     }}
     .modal .team-subtitle {{
       font-size: .82rem;
@@ -329,12 +349,15 @@ html = f"""<!DOCTYPE html>
       width: 100%;
       margin-top: 6px;
       padding: 12px;
-      border: none;
-      background: none;
+      border: 1.5px solid var(--border);
+      border-radius: 12px;
+      background: #fff;
       font-size: .9rem;
-      color: var(--gray);
+      font-weight: 600;
+      color: var(--navy);
       cursor: pointer;
     }}
+    .modal-close:active {{ background: var(--light); }}
 
     /* ── Footer ── */
     footer {{
@@ -369,6 +392,7 @@ html = f"""<!DOCTYPE html>
 
 <div class="modal-overlay" id="modal" onclick="closeModal(event)">
   <div class="modal">
+    <button class="modal-x" aria-label="Fermer" onclick="document.getElementById('modal').classList.remove('open')">✕</button>
     <h3 id="modal-team"></h3>
     <div class="team-subtitle" id="modal-subtitle"></div>
     <a id="modal-primary" class="modal-btn primary" href="#">
@@ -384,7 +408,7 @@ html = f"""<!DOCTYPE html>
       <span>Télécharger le fichier .ics</span>
     </a>
     <button class="modal-close" onclick="document.getElementById('modal').classList.remove('open')">
-      Annuler
+      Fermer
     </button>
   </div>
 </div>

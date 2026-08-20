@@ -26,24 +26,23 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-09-13-13-15-ie-ctc-grand-dax-basket-jsa-bordea
  ux-basket@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20260913T131500
 DTEND;TZID=Europe/Paris:20260913T151500
 SUMMARY:IE - CTC GRAND DAX BASKET – JSA BORDEAUX BASKET - 1
 DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
- vs JSA BORDEAUX BASKET - 1\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Sau
- gnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.992
- 41&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
- B : https://competitions.ffbb.com/competitions/nmu15-elite/match/200000014
- 600537
-LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+ vs JSA BORDEAUX BASKET - 1\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Can
+ dresse 40180\n🚗 Waze : https://waze.com/ul?ll=43.713\,-0.98014&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nmu15-elite/match/200000014600537
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Candresse 40180
 URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00537
 END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-09-13-13-15-stade-rochelais-basket-elan-bearna
  is-pau-no@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20260913T131500
 DTEND;TZID=Europe/Paris:20260913T151500
 SUMMARY:STADE ROCHELAIS BASKET – ELAN BEARNAIS PAU NORD-EST
@@ -60,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-09-13-13-15-limoges-csp-cep-poitiers@ffbb-agen
  da
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20260913T131500
 DTEND;TZID=Europe/Paris:20260913T151500
 SUMMARY:LIMOGES CSP – CEP POITIERS
@@ -76,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-09-20-13-15-elan-bearnais-pau-nord-est-ie-ctc-
  grand-dax@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20260920T131500
 DTEND;TZID=Europe/Paris:20260920T151500
 SUMMARY:ELAN BEARNAIS PAU NORD-EST – IE - CTC GRAND DAX BASKET
@@ -92,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-09-20-13-15-jsa-bordeaux-basket-1-limoges-csp@
  ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20260920T131500
 DTEND;TZID=Europe/Paris:20260920T151500
 SUMMARY:JSA BORDEAUX BASKET - 1 – LIMOGES CSP
@@ -108,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-09-20-13-15-cep-poitiers-stade-rochelais-baske
  t@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20260920T131500
 DTEND;TZID=Europe/Paris:20260920T151500
 SUMMARY:CEP POITIERS – STADE ROCHELAIS BASKET
@@ -123,9 +122,25 @@ URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00566
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-09-27-13-15-ie-ctc-grand-dax-basket-cep-poitie
+ rs@ffbb-agenda
+DTSTAMP:20260820T220516Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:IE - CTC GRAND DAX BASKET – CEP POITIERS
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs CEP POITIERS\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Candresse 4018
+ 0\n🚗 Waze : https://waze.com/ul?ll=43.713\,-0.98014&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu15-elite/match/200000014600592
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Candresse 40180
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00592
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-09-27-13-15-stade-rochelais-basket-limoges-csp
  @ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20260927T131500
 DTEND;TZID=Europe/Paris:20260927T151500
 SUMMARY:STADE ROCHELAIS BASKET – LIMOGES CSP
@@ -139,25 +154,9 @@ URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00591
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu15-elite-poule-c-2026-09-27-13-15-ie-ctc-grand-dax-basket-cep-poitie
- rs@ffbb-agenda
-DTSTAMP:20260820T094651Z
-DTSTART;TZID=Europe/Paris:20260927T131500
-DTEND;TZID=Europe/Paris:20260927T151500
-SUMMARY:IE - CTC GRAND DAX BASKET – CEP POITIERS
-DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
- vs CEP POITIERS\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Saugnac-et-Cam
- bran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.99241&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/competitions/nmu15-elite/match/200000014600592
-LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
-URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
- 00592
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-09-27-13-15-elan-bearnais-pau-nord-est-jsa-bor
  deaux-bas@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20260927T131500
 DTEND;TZID=Europe/Paris:20260927T151500
 SUMMARY:ELAN BEARNAIS PAU NORD-EST – JSA BORDEAUX BASKET - 1
@@ -173,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-10-04-13-15-cep-poitiers-elan-bearnais-pau-nor
  d-est@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261004T131500
 DTEND;TZID=Europe/Paris:20261004T151500
 SUMMARY:CEP POITIERS – ELAN BEARNAIS PAU NORD-EST
@@ -191,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-10-04-13-15-jsa-bordeaux-basket-1-stade-rochel
  ais-baske@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261004T131500
 DTEND;TZID=Europe/Paris:20261004T151500
 SUMMARY:JSA BORDEAUX BASKET - 1 – STADE ROCHELAIS BASKET
@@ -207,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-10-04-13-15-limoges-csp-ie-ctc-grand-dax-baske
  t@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261004T131500
 DTEND;TZID=Europe/Paris:20261004T151500
 SUMMARY:LIMOGES CSP – IE - CTC GRAND DAX BASKET
@@ -223,24 +222,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-10-11-13-15-ie-ctc-grand-dax-basket-stade-roch
  elais-bas@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261011T131500
 DTEND;TZID=Europe/Paris:20261011T151500
 SUMMARY:IE - CTC GRAND DAX BASKET – STADE ROCHELAIS BASKET
 DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
- vs STADE ROCHELAIS BASKET\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Saug
- nac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.9924
- 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
-  : https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
- 00645
-LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+ vs STADE ROCHELAIS BASKET\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Cand
+ resse 40180\n🚗 Waze : https://waze.com/ul?ll=43.713\,-0.98014&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu15-elite/match/200000014600645
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Candresse 40180
 URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00645
 END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-10-11-13-15-jsa-bordeaux-basket-1-cep-poitiers
  @ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261011T131500
 DTEND;TZID=Europe/Paris:20261011T151500
 SUMMARY:JSA BORDEAUX BASKET - 1 – CEP POITIERS
@@ -256,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-10-11-13-15-elan-bearnais-pau-nord-est-limoges
  -csp@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261011T131500
 DTEND;TZID=Europe/Paris:20261011T151500
 SUMMARY:ELAN BEARNAIS PAU NORD-EST – LIMOGES CSP
@@ -270,25 +268,9 @@ URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00647
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu15-elite-poule-c-2026-11-01-13-15-elan-bearnais-pau-nord-est-stade-r
- ochelais-@ffbb-agenda
-DTSTAMP:20260820T094651Z
-DTSTART;TZID=Europe/Paris:20261101T131500
-DTEND;TZID=Europe/Paris:20261101T151500
-SUMMARY:ELAN BEARNAIS PAU NORD-EST – STADE ROCHELAIS BASKET
-DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU NORD-EST
-  vs STADE ROCHELAIS BASKET\n\nC. DE FORM\n📍 Avenue Pierre Massé Pau 64
- 000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=yes\n\
- n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
- itions.ffbb.com/competitions/nmu15-elite/match/200000014600673
-LOCATION:C. DE FORM\, Avenue Pierre Massé Pau 64000
-URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
- 00673
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-01-13-15-cep-poitiers-limoges-csp@ffbb-agen
  da
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261101T131500
 DTEND;TZID=Europe/Paris:20261101T151500
 SUMMARY:CEP POITIERS – LIMOGES CSP
@@ -305,7 +287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-01-13-15-jsa-bordeaux-basket-1-ie-ctc-grand
  -dax-bask@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261101T131500
 DTEND;TZID=Europe/Paris:20261101T151500
 SUMMARY:JSA BORDEAUX BASKET - 1 – IE - CTC GRAND DAX BASKET
@@ -320,9 +302,25 @@ URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00672
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-11-01-13-15-elan-bearnais-pau-nord-est-stade-r
+ ochelais-@ffbb-agenda
+DTSTAMP:20260820T220516Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:ELAN BEARNAIS PAU NORD-EST – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU NORD-EST
+  vs STADE ROCHELAIS BASKET\n\nC. DE FORM\n📍 Avenue Pierre Massé Pau 64
+ 000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nmu15-elite/match/200000014600673
+LOCATION:C. DE FORM\, Avenue Pierre Massé Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00673
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-08-13-15-stade-rochelais-basket-cep-poitier
  s@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261108T131500
 DTEND;TZID=Europe/Paris:20261108T151500
 SUMMARY:STADE ROCHELAIS BASKET – CEP POITIERS
@@ -338,7 +336,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-08-13-15-limoges-csp-jsa-bordeaux-basket-1@
  ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261108T131500
 DTEND;TZID=Europe/Paris:20261108T151500
 SUMMARY:LIMOGES CSP – JSA BORDEAUX BASKET - 1
@@ -354,40 +352,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-08-13-15-ie-ctc-grand-dax-basket-elan-bearn
  ais-pau-n@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261108T131500
 DTEND;TZID=Europe/Paris:20261108T151500
 SUMMARY:IE - CTC GRAND DAX BASKET – ELAN BEARNAIS PAU NORD-EST
 DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
  vs ELAN BEARNAIS PAU NORD-EST\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles 
- Saugnac-et-Cambran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.
- 99241&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
- FFBB : https://competitions.ffbb.com/competitions/nmu15-elite/match/200000
- 014600699
-LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+ Candresse 40180\n🚗 Waze : https://waze.com/ul?ll=43.713\,-0.98014&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nmu15-elite/match/200000014600699
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Candresse 40180
 URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00699
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu15-elite-poule-c-2026-11-15-13-15-limoges-csp-stade-rochelais-basket
- @ffbb-agenda
-DTSTAMP:20260820T094651Z
-DTSTART;TZID=Europe/Paris:20261115T131500
-DTEND;TZID=Europe/Paris:20261115T151500
-SUMMARY:LIMOGES CSP – STADE ROCHELAIS BASKET
-DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ LIMOGES CSP vs STADE ROCHE
- LAIS BASKET\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges 87100\n
- 🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\n\n📢 
- Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
- .ffbb.com/competitions/nmu15-elite/match/200000014600726
-LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
-URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
- 00726
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-15-13-15-jsa-bordeaux-basket-1-elan-bearnai
  s-pau-nor@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261115T131500
 DTEND;TZID=Europe/Paris:20261115T151500
 SUMMARY:JSA BORDEAUX BASKET - 1 – ELAN BEARNAIS PAU NORD-EST
@@ -404,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-15-13-15-cep-poitiers-ie-ctc-grand-dax-bask
  et@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261115T131500
 DTEND;TZID=Europe/Paris:20261115T151500
 SUMMARY:CEP POITIERS – IE - CTC GRAND DAX BASKET
@@ -420,9 +401,25 @@ URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00727
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-11-15-13-15-limoges-csp-stade-rochelais-basket
+ @ffbb-agenda
+DTSTAMP:20260820T220516Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:LIMOGES CSP – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ LIMOGES CSP vs STADE ROCHE
+ LAIS BASKET\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges 87100\n
+ 🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu15-elite/match/200000014600726
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00726
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-29-13-15-elan-bearnais-pau-nord-est-cep-poi
  tiers@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261129T131500
 DTEND;TZID=Europe/Paris:20261129T151500
 SUMMARY:ELAN BEARNAIS PAU NORD-EST – CEP POITIERS
@@ -438,23 +435,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-29-13-15-ie-ctc-grand-dax-basket-limoges-cs
  p@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261129T131500
 DTEND;TZID=Europe/Paris:20261129T151500
 SUMMARY:IE - CTC GRAND DAX BASKET – LIMOGES CSP
 DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
- vs LIMOGES CSP\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Saugnac-et-Camb
- ran 40180\n🚗 Waze : https://waze.com/ul?ll=43.67192\,-0.99241&navigate=
- yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
- competitions.ffbb.com/competitions/nmu15-elite/match/200000014600753
-LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Saugnac-et-Cambran 40180
+ vs LIMOGES CSP\n\nSALLE DE CANDRESSE\n📍 Rue des Écoles Candresse 40180
+ \n🚗 Waze : https://waze.com/ul?ll=43.713\,-0.98014&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nmu15-elite/match/200000014600753
+LOCATION:SALLE DE CANDRESSE\, Rue des Écoles Candresse 40180
 URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00753
 END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-11-29-13-15-stade-rochelais-basket-jsa-bordeau
  x-basket-@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261129T131500
 DTEND;TZID=Europe/Paris:20261129T151500
 SUMMARY:STADE ROCHELAIS BASKET – JSA BORDEAUX BASKET - 1
@@ -469,25 +466,9 @@ URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00754
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu15-elite-poule-c-2026-12-06-13-15-limoges-csp-elan-bearnais-pau-nord
- -est@ffbb-agenda
-DTSTAMP:20260820T094651Z
-DTSTART;TZID=Europe/Paris:20261206T131500
-DTEND;TZID=Europe/Paris:20261206T151500
-SUMMARY:LIMOGES CSP – ELAN BEARNAIS PAU NORD-EST
-DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ LIMOGES CSP vs ELAN BEARNA
- IS PAU NORD-EST\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges 87100
- \n🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nmu15-elite/match/200000014600782
-LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
-URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
- 00782
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-12-06-13-15-stade-rochelais-basket-ie-ctc-gran
  d-dax-bas@ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261206T131500
 DTEND;TZID=Europe/Paris:20261206T151500
 SUMMARY:STADE ROCHELAIS BASKET – IE - CTC GRAND DAX BASKET
@@ -504,7 +485,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu15-elite-poule-c-2026-12-06-13-15-cep-poitiers-jsa-bordeaux-basket-1
  @ffbb-agenda
-DTSTAMP:20260820T094651Z
+DTSTAMP:20260820T220516Z
 DTSTART;TZID=Europe/Paris:20261206T131500
 DTEND;TZID=Europe/Paris:20261206T151500
 SUMMARY:CEP POITIERS – JSA BORDEAUX BASKET - 1
@@ -517,5 +498,21 @@ LOCATION:SALLE OMNISPORTS SAINT ELOI\, Rue Jean-Sylvain Bailly Poitiers 860
  00
 URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
  00781
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu15-elite-poule-c-2026-12-06-13-15-limoges-csp-elan-bearnais-pau-nord
+ -est@ffbb-agenda
+DTSTAMP:20260820T220516Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:LIMOGES CSP – ELAN BEARNAIS PAU NORD-EST
+DESCRIPTION:🏀 NMU15-ELITE – Poule C\n⚔️ LIMOGES CSP vs ELAN BEARNA
+ IS PAU NORD-EST\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges 87100
+ \n🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu15-elite/match/200000014600782
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu15-elite/match/2000000146
+ 00782
 END:VEVENT
 END:VCALENDAR

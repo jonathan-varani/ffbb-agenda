@@ -96,27 +96,32 @@ async function handleSubscribe(request, env) {
   const tokenLink = `${env.WORKER_URL}/sub?token=${token}`;
   const compSuffix = comp_nom ? ` — ${comp_nom}` : "";
 
-  // Contenu volontairement sobre (peu d'images, pas de gros bouton coloré) :
-  // le style "campagne marketing" est un signal fort pour le tri automatique
-  // de Gmail vers l'onglet Promotions.
+  // Contenu volontairement sobre (pas de gros logo/en-tête, un seul bouton
+  // discret) : le style "campagne marketing" chargé est un signal fort pour
+  // le tri automatique de Gmail vers l'onglet Promotions.
   const emailHtml = `
   <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
               max-width:480px;margin:0 auto;padding:24px;color:#1B2A4A;font-size:.95rem;line-height:1.5">
     <p style="margin-bottom:12px">Bonjour,</p>
-    <p style="margin-bottom:16px">
+    <p style="margin-bottom:20px">
       Voici le lien pour vous abonner au calendrier de
       <strong>${equipe}</strong>${compSuffix} :
     </p>
 
-    <p style="margin-bottom:16px">
-      <a href="${tokenLink}" style="color:#E84E0F;font-weight:600">${tokenLink}</a>
+    <p style="margin-bottom:20px">
+      <a href="${tokenLink}"
+         style="display:inline-block;background:#E84E0F;color:#fff;
+                text-decoration:none;padding:12px 24px;border-radius:8px;
+                font-weight:600;font-size:.95rem">
+        S'abonner au calendrier
+      </a>
     </p>
 
     <p style="margin-bottom:16px;color:#6B7280">
-      Ouvrez-le depuis votre téléphone pour ajouter le calendrier directement
-      dans votre application Agenda. Les mises à jour (horaires, scores,
-      arbitres) apparaîtront ensuite automatiquement — ce lien n'est valable
-      qu'une seule fois.
+      Ouvrez ce lien depuis votre téléphone pour ajouter le calendrier
+      directement dans votre application Agenda. Les mises à jour (horaires,
+      scores, arbitres) apparaîtront ensuite automatiquement — ce lien n'est
+      valable qu'une seule fois.
     </p>
 
     <p style="margin-bottom:0;color:#6B7280">

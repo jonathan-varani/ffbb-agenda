@@ -145,7 +145,7 @@
 
   <main>
     <p class="intro" id="form-intro">
-      Merci de renseigner les coordonnées du <strong>père</strong> et de la <strong>mère</strong> du joueur.
+      Merci de renseigner les informations du <strong>joueur</strong>. Les coordonnées des parents sont facultatives mais recommandées.
     </p>
 
     <form id="contact-form" novalidate>
@@ -156,31 +156,34 @@
 
         <label for="joueur_prenom">Prénom <span class="req">*</span></label>
         <input type="text" id="joueur_prenom" name="joueur_prenom" required autocomplete="given-name">
+
+        <label for="joueur_telephone">Téléphone <span class="opt">(optionnel)</span></label>
+        <input type="tel" id="joueur_telephone" name="joueur_telephone" placeholder="06 12 34 56 78" autocomplete="off">
       </fieldset>
 
       <fieldset id="pere-block">
-        <legend>Père</legend>
+        <legend>Père <span class="opt">(optionnel)</span></legend>
 
-        <label for="pere_nom">Nom <span class="req">*</span></label>
+        <label for="pere_nom">Nom</label>
         <input type="text" id="pere_nom" name="pere_nom" autocomplete="off">
 
-        <label for="pere_prenom">Prénom <span class="req">*</span></label>
+        <label for="pere_prenom">Prénom</label>
         <input type="text" id="pere_prenom" name="pere_prenom" autocomplete="off">
 
-        <label for="pere_telephone">Téléphone <span class="req">*</span></label>
+        <label for="pere_telephone">Téléphone</label>
         <input type="tel" id="pere_telephone" name="pere_telephone" placeholder="06 12 34 56 78" autocomplete="off">
       </fieldset>
 
       <fieldset id="mere-block">
-        <legend>Mère</legend>
+        <legend>Mère <span class="opt">(optionnel)</span></legend>
 
-        <label for="mere_nom">Nom <span class="req">*</span></label>
+        <label for="mere_nom">Nom</label>
         <input type="text" id="mere_nom" name="mere_nom" autocomplete="off">
 
-        <label for="mere_prenom">Prénom <span class="req">*</span></label>
+        <label for="mere_prenom">Prénom</label>
         <input type="text" id="mere_prenom" name="mere_prenom" autocomplete="off">
 
-        <label for="mere_telephone">Téléphone <span class="req">*</span></label>
+        <label for="mere_telephone">Téléphone</label>
         <input type="tel" id="mere_telephone" name="mere_telephone" placeholder="06 12 34 56 78" autocomplete="off">
       </fieldset>
 
@@ -258,14 +261,6 @@
       if (!joueur_nom)    errors.push("le nom du joueur");
       if (!joueur_prenom) errors.push("le prénom du joueur");
 
-      if (!val("pere_nom"))        errors.push("le nom du père");
-      if (!val("pere_prenom"))     errors.push("le prénom du père");
-      if (!val("pere_telephone"))  errors.push("le téléphone du père");
-
-      if (!val("mere_nom"))        errors.push("le nom de la mère");
-      if (!val("mere_prenom"))     errors.push("le prénom de la mère");
-      if (!val("mere_telephone"))  errors.push("le téléphone de la mère");
-
       if (errors.length) {
         msgErr.textContent = "Merci de renseigner : " + errors.join(", ") + ".";
         msgErr.style.display = "block";
@@ -274,6 +269,7 @@
 
       const payload = {
         joueur_nom, joueur_prenom,
+        joueur_telephone: val("joueur_telephone"),
         pere_nom: val("pere_nom"),
         pere_prenom: val("pere_prenom"),
         pere_telephone: val("pere_telephone"),

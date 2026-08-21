@@ -231,19 +231,13 @@ async function handleContactParents(request, env) {
   catch { return json({ error: "JSON invalide" }, 400); }
 
   const {
-    joueur_nom, joueur_prenom,
+    joueur_nom, joueur_prenom, joueur_telephone,
     pere_nom, pere_prenom, pere_telephone,
     mere_nom, mere_prenom, mere_telephone,
   } = body;
 
   if (!joueur_nom || !joueur_prenom) {
     return json({ error: "Champs manquants : nom et prénom du joueur" }, 400);
-  }
-  if (!pere_nom || !pere_prenom || !pere_telephone) {
-    return json({ error: "Coordonnées du père incomplètes" }, 400);
-  }
-  if (!mere_nom || !mere_prenom || !mere_telephone) {
-    return json({ error: "Coordonnées de la mère incomplètes" }, 400);
   }
 
   const noco = await fetch(
@@ -252,7 +246,7 @@ async function handleContactParents(request, env) {
       method: "POST",
       headers: { "xc-token": env.NOCODB_TOKEN, "Content-Type": "application/json" },
       body: JSON.stringify({
-        joueur_nom, joueur_prenom,
+        joueur_nom, joueur_prenom, joueur_telephone,
         pere_nom, pere_prenom, pere_telephone,
         mere_nom, mere_prenom, mere_telephone,
         submitted_at: new Date().toISOString(),

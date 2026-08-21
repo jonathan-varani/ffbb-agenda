@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#1B2A4A">
+  <title>Contacts coachs — Agendas FFBB</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
+  <style>
+    :root {
+      --orange: #E84E0F;
+      --navy:   #1B2A4A;
+      --light:  #F5F6FA;
+      --gray:   #6B7280;
+      --border: #E5E7EB;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--light);
+      color: var(--navy);
+      min-height: 100vh;
+      padding-bottom: 40px;
+    }
+    header {
+      background: var(--navy);
+      color: #fff;
+      padding: 16px 20px env(safe-area-inset-top, 0);
+      padding-top: calc(16px + env(safe-area-inset-top, 0));
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .header-logo { display: flex; align-items: center; gap: 12px; }
+    .logo-ball { font-size: 1.8rem; }
+    header h1 { font-size: 1.15rem; font-weight: 700; }
+    header p  { font-size: .75rem; opacity: .65; margin-top: 2px; }
+
+    main { max-width: 520px; margin: 0 auto; padding: 20px 16px; }
+
+    .intro {
+      background: #fff;
+      border-radius: 12px;
+      padding: 16px 18px;
+      margin-bottom: 16px;
+      font-size: .85rem;
+      color: var(--gray);
+      line-height: 1.5;
+      border: 1px solid var(--border);
+    }
+
+    .coach-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      width: 100%;
+      padding: 14px;
+      margin-top: 10px;
+      background: #fff;
+      color: var(--navy);
+      border: 1.5px solid var(--navy);
+      border-radius: 12px;
+      font-size: .92rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-logo">
+      <span class="logo-ball">🏀</span>
+      <div>
+        <h1>Contacts coachs</h1>
+        <p>Agendas FFBB</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <p class="intro">
+      Nous sommes les coachs de l'équipe. Vous pouvez enregistrer nos coordonnées dans votre téléphone en téléchargeant nos fiches de contact ci-dessous.
+    </p>
+    <button type="button" class="coach-btn" data-coach="0">📇 Jonathan Varani</button>
+    <button type="button" class="coach-btn" data-coach="1">📇 Louis Albanese</button>
+  </main>
+
+  <script>
+    const COACHES = [
+      { nom: "Varani",   prenom: "Jonathan", tel: "+33682328833", email: "jonathan.varani@gmail.com" },
+      { nom: "Albanese", prenom: "Louis",    tel: "+33665352489" },
+    ];
+
+    function vcardEscape(str) {
+      return str.replace(/([,;\\])/g, "\\$1");
+    }
+
+    function buildCoachVcf(c) {
+      const lines = [
+        "BEGIN:VCARD",
+        "VERSION:3.0",
+        `N:${vcardEscape(c.nom)};${vcardEscape(c.prenom)};;;`,
+        `FN:${vcardEscape(c.prenom)} ${vcardEscape(c.nom)}`,
+        `TEL;TYPE=CELL:${c.tel}`,
+      ];
+      if (c.email) lines.push(`EMAIL:${c.email}`);
+      lines.push("NOTE:Coach", "END:VCARD");
+      return lines.join("\r\n");
+    }
+
+    document.querySelectorAll(".coach-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const coach = COACHES[Number(btn.dataset.coach)];
+        const blob = new Blob([buildCoachVcf(coach)], { type: "text/vcard" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `${coach.prenom}-${coach.nom}.vcf`.toLowerCase();
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        URL.revokeObjectURL(url);
+      });
+    });
+  </script>
+</body>
+</html>

@@ -144,13 +144,13 @@
   </header>
 
   <main>
-    <p class="intro">
-      Merci de renseigner les coordonnées du <strong>père</strong> et de la <strong>mère</strong> du joueur ou de la joueuse.
+    <p class="intro" id="form-intro">
+      Merci de renseigner les coordonnées du <strong>père</strong> et de la <strong>mère</strong> du joueur.
     </p>
 
     <form id="contact-form" novalidate>
       <fieldset>
-        <legend>Joueur / joueuse</legend>
+        <legend>Joueur</legend>
         <label for="joueur_nom">Nom <span class="req">*</span></label>
         <input type="text" id="joueur_nom" name="joueur_nom" required autocomplete="family-name">
 
@@ -206,6 +206,7 @@
     const submitBtn       = document.getElementById("submit-btn");
     const msgErr          = document.getElementById("msg-err");
     const coachesSection  = document.getElementById("coaches-section");
+    const formIntro       = document.getElementById("form-intro");
 
     const COACHES = [
       { nom: "Varani",   prenom: "Jonathan", tel: "+33682328833", email: "jonathan.varani@gmail.com" },
@@ -295,6 +296,7 @@
 
         form.reset();
         form.style.display = "none";
+        formIntro.style.display = "none";
         coachesSection.style.display = "block";
       } catch (err) {
         msgErr.textContent = "❌ Échec de l'envoi : " + err.message;

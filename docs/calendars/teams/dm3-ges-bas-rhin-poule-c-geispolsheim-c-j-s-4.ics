@@ -1,0 +1,374 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GEISPOLSHEIM C.J.S. - 4  [DM3 – GES – Poule C]
+X-WR-CALDESC:Matchs de GEISPOLSHEIM C.J.S. - 4 – DM3 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2026-09-26-00-00-ie-ctc-m2b-molsheim-cstg-1-ge
+ ispolshei@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC M2B - MOLSHEIM CSTG - 1 – GEISPOLSHEIM C.J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ IE - CTC M2B 
+ - MOLSHEIM CSTG - 1 vs GEISPOLSHEIM C.J.S. - 4\n\nGYMNASE ATALANTE\n📍 R
+ ue Élisabeth Juneck Molsheim 67120\n🚗 Waze : https://waze.com/ul?ll=48
+ .53326\,7.49372&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm3/match/200000014656204
+LOCATION:GYMNASE ATALANTE\, Rue Élisabeth Juneck Molsheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656204
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2026-10-03-00-00-geispolsheim-c-j-s-4-ie-ctc-r
+ osenmeer-@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – IE - CTC ROSENMEER - GRIESHEIM P/M
+ OLSHEIM LS - 3
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs IE - CTC ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 3\n\nCENTRE S
+ PORTIF\n📍 Rue de la Porte Basse Geispolsheim 67118\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0067/competitions/dm3/match/200000014656209
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656209
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2026-10-10-00-00-ie-ctc-marle-soultz-marlenhei
+ m-bc-2-ge@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ IE - CTC MARLE-SOULTZ - MARLENHEIM BC - 2 – GEISPOLSHEIM C
+ .J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ IE - CTC MARL
+ E-SOULTZ - MARLENHEIM BC - 2 vs GEISPOLSHEIM C.J.S. - 4\n\nSALLE OMNISPORT
+ S\n📍 Rue de l'Usine Marlenheim 67520\n🚗 Waze : https://waze.com/ul?l
+ l=48.61827\,7.49015&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067
+ /competitions/dm3/match/200000014656214
+LOCATION:SALLE OMNISPORTS\, Rue de l'Usine Marlenheim 67520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656214
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2026-11-14-00-00-bindernheim-c-s-u-1-geispolsh
+ eim-c-j-s@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BINDERNHEIM C.S.U. - 1 – GEISPOLSHEIM C.J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ BINDERNHEIM C
+ .S.U. - 1 vs GEISPOLSHEIM C.J.S. - 4\n\nSALLE POLYVALENTE\n📍 Rue de Wit
+ ternheim Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.28678\,7
+ .60704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dm3/match/200000014656230
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656230
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2026-11-21-00-00-geispolsheim-c-j-s-4-ie-ctc-s
+ ow-osthou@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – IE - CTC SOW - OSTHOUSE CSTB - 2
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs IE - CTC SOW - OSTHOUSE CSTB - 2\n\nCENTRE SPORTIF\n📍 Rue
+  de la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=
+ 48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm3/match/200000014656235
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656235
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2026-11-28-00-00-ohnheim-c-s-s-a-3-geispolshei
+ m-c-j-s-4@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ OHNHEIM C.S.S.A. - 3 – GEISPOLSHEIM C.J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ OHNHEIM C.S.S
+ .A. - 3 vs GEISPOLSHEIM C.J.S. - 4\n\nCENTRE SPORTIF ET CULTUREL\n📍 Pla
+ ce des Fêtes Fegersheim 67640\n🚗 Waze : https://waze.com/ul?ll=48.4912
+ 6\,7.68302&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dm3/match/200000014656243
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656243
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2026-12-05-00-00-geispolsheim-c-j-s-4-holtzhei
+ m-vogesia@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – HOLTZHEIM VOGESIA - 3
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs HOLTZHEIM VOGESIA - 3\n\nCENTRE SPORTIF\n📍 Rue de la Port
+ e Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7
+ .65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dm3/match/200000014656249
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656249
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2026-12-12-00-00-geispolsheim-c-j-s-4-hindishe
+ im-c-s-e-@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs HINDISHEIM C.S.E - 2\n\nCENTRE SPORTIF\n📍 Rue de la Porte
+  Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.
+ 65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dm3/match/200000014656254
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656254
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2026-12-19-00-00-eschau-bc-3-geispolsheim-c-j-
+ s-4@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:✈️ ESCHAU BC - 3 – GEISPOLSHEIM C.J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ ESCHAU BC - 3
+  vs GEISPOLSHEIM C.J.S. - 4\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fê
+ tes Eschau 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/match/2
+ 00000014656259
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656259
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-01-16-00-00-geispolsheim-c-j-s-4-ie-ctc-m
+ 2b-basket@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – IE - CTC M2B - BASKET CLUB BISCHOF
+ FSHEIM - 2
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs IE - CTC M2B - BASKET CLUB BISCHOFFSHEIM - 2\n\nCENTRE SPORT
+ IF\n📍 Rue de la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waz
+ e.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0067/competitions/dm3/match/200000014656266
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656266
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-01-23-00-00-geispolsheim-c-j-s-4-ie-ctc-m
+ 2b-molshe@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – IE - CTC M2B - MOLSHEIM CSTG - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs IE - CTC M2B - MOLSHEIM CSTG - 1\n\nCENTRE SPORTIF\n📍 Rue
+  de la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=
+ 48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm3/match/200000014656270
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656270
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-01-30-00-00-ie-ctc-rosenmeer-griesheim-p-
+ molsheim-@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ IE - CTC ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 3 – GEISPOL
+ SHEIM C.J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ IE - CTC ROSE
+ NMEER - GRIESHEIM P/MOLSHEIM LS - 3 vs GEISPOLSHEIM C.J.S. - 4\n\nSALLE PO
+ LYVALENTE ESPACE VALLON\n📍 Rue du Moulin Griesheim-près-Molsheim 67870
+ \n🚗 Waze : https://waze.com/ul?ll=48.50146\,7.53104&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/match/200000014656
+ 275
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656275
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-02-06-00-00-geispolsheim-c-j-s-4-ie-ctc-m
+ arle-soul@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – IE - CTC MARLE-SOULTZ - MARLENHEIM
+  BC - 2
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs IE - CTC MARLE-SOULTZ - MARLENHEIM BC - 2\n\nCENTRE SPORTIF\
+ n📍 Rue de la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.c
+ om/ul?ll=48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0067/competitions/dm3/match/200000014656280
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656280
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-03-13-00-00-geispolsheim-c-j-s-4-bindernh
+ eim-c-s-u@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – BINDERNHEIM C.S.U. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs BINDERNHEIM C.S.U. - 1\n\nCENTRE SPORTIF\n📍 Rue de la Por
+ te Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,
+ 7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dm3/match/200000014656296
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656296
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-03-20-00-00-ie-ctc-sow-osthouse-cstb-2-ge
+ ispolshei@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ IE - CTC SOW - OSTHOUSE CSTB - 2 – GEISPOLSHEIM C.J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ IE - CTC SOW 
+ - OSTHOUSE CSTB - 2 vs GEISPOLSHEIM C.J.S. - 4\n\nSALLE POLYVALENTE\n📍 
+ Rue du Looch Osthouse 67150\n🚗 Waze : https://waze.com/ul?ll=48.4026\,7
+ .64489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dm3/match/200000014656301
+LOCATION:SALLE POLYVALENTE\, Rue du Looch Osthouse 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656301
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-03-27-00-00-geispolsheim-c-j-s-4-ohnheim-
+ c-s-s-a-3@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – OHNHEIM C.S.S.A. - 3
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs OHNHEIM C.S.S.A. - 3\n\nCENTRE SPORTIF\n📍 Rue de la Porte
+  Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.
+ 65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dm3/match/200000014656309
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656309
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-04-10-00-00-holtzheim-vogesia-3-geispolsh
+ eim-c-j-s@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 3 – GEISPOLSHEIM C.J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ HOLTZHEIM VOG
+ ESIA - 3 vs GEISPOLSHEIM C.J.S. - 4\n\nSALLE DE LA BRUCHE\n📍 Rue du Sta
+ de Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/mat
+ ch/200000014656315
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656315
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-05-01-00-00-hindisheim-c-s-e-2-geispolshe
+ im-c-j-s-@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270501T000000
+DTEND;TZID=Europe/Paris:20270501T020000
+SUMMARY:✈️ HINDISHEIM C.S.E - 2 – GEISPOLSHEIM C.J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ HINDISHEIM C.
+ S.E - 2 vs GEISPOLSHEIM C.J.S. - 4\n\nSALLE STE ETIENNE\n📍 Rue du Stade
+  Hindisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/matc
+ h/200000014656320
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656320
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-05-15-00-00-geispolsheim-c-j-s-4-eschau-b
+ c-3@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 4 – ESCHAU BC - 3
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 4 vs ESCHAU BC - 3\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse 
+ Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/mat
+ ch/200000014656325
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656325
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-c-2027-05-22-00-00-ie-ctc-m2b-basket-club-bischo
+ ffsheim-2@ffbb-agenda
+DTSTAMP:20260821T205634Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:✈️ IE - CTC M2B - BASKET CLUB BISCHOFFSHEIM - 2 – GEISPOLSHEI
+ M C.J.S. - 4
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule C\n⚔️ IE - CTC M2B 
+ - BASKET CLUB BISCHOFFSHEIM - 2 vs GEISPOLSHEIM C.J.S. - 4\n\nCOMPLEXE SPO
+ RTIF\n📍 Rue du Stade Bischoffsheim 67870\n🚗 Waze : https://waze.com/
+ ul?ll=48.48386\,7.5021&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/dm3/match/200000014656332
+LOCATION:COMPLEXE SPORTIF\, Rue du Stade Bischoffsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656332
+END:VEVENT
+END:VCALENDAR

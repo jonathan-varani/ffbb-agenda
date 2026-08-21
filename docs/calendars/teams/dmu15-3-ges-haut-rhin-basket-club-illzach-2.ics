@@ -24,9 +24,26 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:dmu15-3-ges-haut-rhin-2026-09-19-16-30-fcsl-eguisheim-2-basket-club-ill
+ zach-2@ffbb-agenda
+DTSTAMP:20260821T210047Z
+DTSTART;TZID=Europe/Paris:20260919T163000
+DTEND;TZID=Europe/Paris:20260919T183000
+SUMMARY:✈️ FCSL EGUISHEIM - 2 – BASKET CLUB ILLZACH - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM - 2 v
+ s BASKET CLUB ILLZACH - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinte
+ rzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31
+ 428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
+ u15-3/match/200000014559997
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 5-3/match/200000014559997
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu15-3-ges-haut-rhin-2026-09-27-10-30-bc-kunheim-2-basket-club-illzach
  -2@ffbb-agenda
-DTSTAMP:20260820T211017Z
+DTSTAMP:20260821T210047Z
 DTSTART;TZID=Europe/Paris:20260927T103000
 DTEND;TZID=Europe/Paris:20260927T123000
 SUMMARY:✈️ BC KUNHEIM - 2 – BASKET CLUB ILLZACH - 2
@@ -43,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-3-ges-haut-rhin-2026-10-03-16-30-basket-club-illzach-2-colmar-bas
  ket-2@ffbb-agenda
-DTSTAMP:20260820T211017Z
+DTSTAMP:20260821T210047Z
 DTSTART;TZID=Europe/Paris:20261003T163000
 DTEND;TZID=Europe/Paris:20261003T183000
 SUMMARY:🏠 BASKET CLUB ILLZACH - 2 – COLMAR BASKET - 2
@@ -58,26 +75,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
  5-3/match/200000014559988
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu15-3-ges-haut-rhin-2026-10-11-00-00-fcsl-eguisheim-2-basket-club-ill
- zach-2@ffbb-agenda
-DTSTAMP:20260820T211017Z
-DTSTART;TZID=Europe/Paris:20261011T000000
-DTEND;TZID=Europe/Paris:20261011T020000
-SUMMARY:✈️ FCSL EGUISHEIM - 2 – BASKET CLUB ILLZACH - 2
-DESCRIPTION:🏀 DMU15-3 – GES – Haut-Rhin\n⚔️ FCSL EGUISHEIM - 2 v
- s BASKET CLUB ILLZACH - 2\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinte
- rzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31
- 428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
- BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm
- u15-3/match/200000014559997
-LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
-URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
- 5-3/match/200000014559997
-END:VEVENT
-BEGIN:VEVENT
 UID:dmu15-3-ges-haut-rhin-2026-10-17-00-00-basket-club-ribeauville-basket-c
  lub-illza@ffbb-agenda
-DTSTAMP:20260820T211017Z
+DTSTAMP:20260821T210047Z
 DTSTART;TZID=Europe/Paris:20261017T000000
 DTEND;TZID=Europe/Paris:20261017T020000
 SUMMARY:✈️ BASKET CLUB RIBEAUVILLE – BASKET CLUB ILLZACH - 2
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-3-ges-haut-rhin-2026-11-07-15-30-basket-club-illzach-2-ie-ctc-jur
  a-alsacie@ffbb-agenda
-DTSTAMP:20260820T211017Z
+DTSTAMP:20260821T210047Z
 DTSTART;TZID=Europe/Paris:20261107T153000
 DTEND;TZID=Europe/Paris:20261107T173000
 SUMMARY:🏠 BASKET CLUB ILLZACH - 2 – IE - CTC JURA ALSACIEN BASKET
@@ -108,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-3-ges-haut-rhin-2026-11-21-13-30-basket-club-illzach-2-zillisheim
  -societe-@ffbb-agenda
-DTSTAMP:20260820T211017Z
+DTSTAMP:20260821T210047Z
 DTSTART;TZID=Europe/Paris:20261121T133000
 DTEND;TZID=Europe/Paris:20261121T153000
 SUMMARY:🏠 BASKET CLUB ILLZACH - 2 – ZILLISHEIM SOCIETE SPORTIVE
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-3-ges-haut-rhin-2026-12-05-15-00-as-de-chalampe-basket-club-illza
  ch-2@ffbb-agenda
-DTSTAMP:20260820T211017Z
+DTSTAMP:20260821T210047Z
 DTSTART;TZID=Europe/Paris:20261205T150000
 DTEND;TZID=Europe/Paris:20261205T170000
 SUMMARY:✈️ AS DE CHALAMPE – BASKET CLUB ILLZACH - 2
@@ -142,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-3-ges-haut-rhin-2026-12-12-15-00-basket-club-illzach-2-ie-ctc-thu
  r-doller-@ffbb-agenda
-DTSTAMP:20260820T211017Z
+DTSTAMP:20260821T210047Z
 DTSTART;TZID=Europe/Paris:20261212T150000
 DTEND;TZID=Europe/Paris:20261212T170000
 SUMMARY:🏠 BASKET CLUB ILLZACH - 2 – IE - CTC THUR DOLLER BASKET CLUB -

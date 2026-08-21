@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ECKBOLSHEIM BB - 2  [DF3 – GES – Poule B]
+X-WR-CALDESC:Matchs de ECKBOLSHEIM BB - 2 – DF3 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-09-26-00-00-schiltigheim-au-2-eckbolsheim
+ -bb-2@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ SCHILTIGHEIM AU - 2 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ SCHILTIGHEIM 
+ AU - 2 vs ECKBOLSHEIM BB - 2\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malt
+ eries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.7
+ 4374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ f3/match/200000014654340
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654340
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-10-03-00-00-eckbolsheim-bb-2-holtzheim-vo
+ gesia-1@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – HOLTZHEIM VOGESIA - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs HOLTZHEIM VOGESIA - 1\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbol
+ sheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/20000
+ 0014654351
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654351
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-10-10-00-00-bask-furdenheim-3-eckbolsheim
+ -bb-2@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BASK FURDENHEIM - 3 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ BASK FURDENHE
+ IM - 3 vs ECKBOLSHEIM BB - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Sta
+ de Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/ma
+ tch/200000014654356
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654356
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-10-17-00-00-eckbolsheim-bb-2-lingolsheim-
+ c-c-s-s-1@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – LINGOLSHEIM C.C.S.S. - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs LINGOLSHEIM C.C.S.S. - 1\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eck
+ bolsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/20
+ 0000014654361
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654361
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-11-14-00-00-urmatt-bc-1-eckbolsheim-bb-2@
+ ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ URMATT BC - 1 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ URMATT BC - 1
+  vs ECKBOLSHEIM BB - 2\n\nHALL DES SPORTS\n📍 Rue des Loisirs Urmatt 672
+ 80\n🚗 Waze : https://waze.com/ul?ll=48.5244\,7.32838&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/200000014654
+ 366
+LOCATION:HALL DES SPORTS\, Rue des Loisirs Urmatt 67280
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654366
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-11-21-00-00-eckbolsheim-bb-2-saint-joseph
+ -strasbou@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – SAINT JOSEPH - STRASBOURG - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs SAINT JOSEPH - STRASBOURG - 2\n\nGYMNASE KRAFFT\n📍 Rue du Stad
+ e Eckbolsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/mat
+ ch/200000014654371
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654371
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-11-28-00-00-eschau-bc-2-eckbolsheim-bb-2@
+ ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ ESCHAU BC - 2 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ESCHAU BC - 2
+  vs ECKBOLSHEIM BB - 2\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes E
+ schau 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/200000
+ 014654379
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654379
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-12-05-00-00-eckbolsheim-bb-2-racing-club-
+ de-strasb@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs RACING CLUB DE STRASBOURG - 1\n\nGYMNASE KRAFFT\n📍 Rue du Stad
+ e Eckbolsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/mat
+ ch/200000014654385
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654385
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-12-12-00-00-s-u-schiltigheim-basket-ball-
+ 1-eckbols@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 1 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHILTIG
+ HEIM BASKET BALL - 1 vs ECKBOLSHEIM BB - 2\n\nHALL BUGEAUD\n📍 Avenue de
+  Gail Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313\,7.49122&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/ma
+ tch/200000014654391
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654391
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-12-19-00-00-eckbolsheim-bb-2-strasbourg-e
+ lectricit@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – STRASBOURG ELECTRICITE A.S. - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs STRASBOURG ELECTRICITE A.S. - 2\n\nGYMNASE KRAFFT\n📍 Rue du St
+ ade Eckbolsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/m
+ atch/200000014654397
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654397
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-01-16-00-00-schirmeck-lb-1-eckbolsheim-bb
+ -2@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ SCHIRMECK LB - 1 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ SCHIRMECK LB 
+ - 1 vs ECKBOLSHEIM BB - 2\n\nHALL DES SPORTS SCHIRMECK\n📍 Rue des Grive
+ s Schirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.48212\,7.22795&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/matc
+ h/200000014654403
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654403
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-01-23-00-00-eckbolsheim-bb-2-schiltigheim
+ -au-2@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – SCHILTIGHEIM AU - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs SCHILTIGHEIM AU - 2\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsh
+ eim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/2000000
+ 14654406
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654406
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-01-30-00-00-holtzheim-vogesia-1-eckbolshe
+ im-bb-2@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 1 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ HOLTZHEIM VOG
+ ESIA - 1 vs ECKBOLSHEIM BB - 2\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Ho
+ ltzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/20
+ 0000014654417
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654417
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-02-06-00-00-eckbolsheim-bb-2-bask-furdenh
+ eim-3@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – BASK FURDENHEIM - 3
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs BASK FURDENHEIM - 3\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsh
+ eim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/2000000
+ 14654422
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654422
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-02-13-00-00-lingolsheim-c-c-s-s-1-eckbols
+ heim-bb-2@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ LINGOLSHEIM C.C.S.S. - 1 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ LINGOLSHEIM C
+ .C.S.S. - 1 vs ECKBOLSHEIM BB - 2\n\nGYMNASE DES VOSGES\n📍 Rue des Tuli
+ pes Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7.6865
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654427
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654427
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-03-13-00-00-eckbolsheim-bb-2-urmatt-bc-1@
+ ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – URMATT BC - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs URMATT BC - 1\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 67
+ 201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/200000014654
+ 432
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654432
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-03-20-00-00-saint-joseph-strasbourg-2-eck
+ bolsheim-@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 2 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ SAINT JOSEPH 
+ - STRASBOURG - 2 vs ECKBOLSHEIM BB - 2\n\nCENTRE SPORTIF ESPLANADE\n📍 R
+ ue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.577\,7.
+ 76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ df3/match/200000014654437
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654437
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-03-27-00-00-eckbolsheim-bb-2-eschau-bc-2@
+ ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – ESCHAU BC - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs ESCHAU BC - 2\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 67
+ 201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/200000014654
+ 445
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654445
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-04-10-00-00-racing-club-de-strasbourg-1-e
+ ckbolshei@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ RACING CLUB DE STRASBOURG - 1 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs ECKBOLSHEIM BB - 2\n\nSALLE JEAN NICOLAS MULLER 2\n
+ 📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll
+ =48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df3/match/200000014654451
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654451
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-05-01-00-00-eckbolsheim-bb-2-s-u-schiltig
+ heim-bask@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270501T000000
+DTEND;TZID=Europe/Paris:20270501T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – S.U. SCHILTIGHEIM BASKET BALL - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs S.U. SCHILTIGHEIM BASKET BALL - 1\n\nGYMNASE KRAFFT\n📍 Rue du 
+ Stade Eckbolsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.689
+ 91&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3
+ /match/200000014654457
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654457
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-05-15-00-00-strasbourg-electricite-a-s-2-
+ eckbolshe@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. - 2 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 2 vs ECKBOLSHEIM BB - 2\n\nCENTRE SPORTIF SUD\n📍 Rue d
+ es Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837\
+ ,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/df3/match/200000014654463
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654463
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-05-22-00-00-eckbolsheim-bb-2-schirmeck-lb
+ -1@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:🏠 ECKBOLSHEIM BB - 2 – SCHIRMECK LB - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs SCHIRMECK LB - 1\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim
+  67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/2000000146
+ 54469
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654469
+END:VEVENT
+END:VCALENDAR

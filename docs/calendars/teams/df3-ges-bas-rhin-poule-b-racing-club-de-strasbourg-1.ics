@@ -1,0 +1,406 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – RACING CLUB DE STRASBOURG - 1  [DF3 – GES – Poule B]
+X-WR-CALDESC:Matchs de RACING CLUB DE STRASBOURG - 1 – DF3 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-09-26-00-00-bask-furdenheim-3-racing-club
+ -de-stras@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BASK FURDENHEIM - 3 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ BASK FURDENHE
+ IM - 3 vs RACING CLUB DE STRASBOURG - 1\n\nESPACE SPORTIF DE L'UNION\n📍
+  Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.6165
+ 2\,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/df3/match/200000014654344
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654344
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-10-03-00-00-racing-club-de-strasbourg-1-l
+ ingolshei@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – LINGOLSHEIM C.C.S.S. - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs LINGOLSHEIM C.C.S.S. - 1\n\nSALLE JEAN NICOLAS MULLER 
+ 2\n📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul
+ ?ll=48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 67/competitions/df3/match/200000014654349
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654349
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-10-10-00-00-urmatt-bc-1-racing-club-de-st
+ rasbourg-@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ URMATT BC - 1 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ URMATT BC - 1
+  vs RACING CLUB DE STRASBOURG - 1\n\nHALL DES SPORTS\n📍 Rue des Loisirs
+  Urmatt 67280\n🚗 Waze : https://waze.com/ul?ll=48.5244\,7.32838&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/match/200
+ 000014654354
+LOCATION:HALL DES SPORTS\, Rue des Loisirs Urmatt 67280
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654354
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-10-17-00-00-racing-club-de-strasbourg-1-s
+ aint-jose@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – SAINT JOSEPH - STRASBOURG - 
+ 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs SAINT JOSEPH - STRASBOURG - 2\n\nSALLE JEAN NICOLAS MU
+ LLER 2\n📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.c
+ om/ul?ll=48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0067/competitions/df3/match/200000014654359
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654359
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-11-14-00-00-schiltigheim-au-2-racing-club
+ -de-stras@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ SCHILTIGHEIM AU - 2 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ SCHILTIGHEIM 
+ AU - 2 vs RACING CLUB DE STRASBOURG - 1\n\nGYMNASE DES MALTERIES 1\n📍 R
+ ue des Malteries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48
+ .60445\,7.74374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df3/match/200000014654364
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654364
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-11-21-00-00-racing-club-de-strasbourg-1-h
+ oltzheim-@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – HOLTZHEIM VOGESIA - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs HOLTZHEIM VOGESIA - 1\n\nSALLE JEAN NICOLAS MULLER 2\n
+ 📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll
+ =48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df3/match/200000014654375
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654375
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-11-28-00-00-racing-club-de-strasbourg-1-s
+ chirmeck-@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – SCHIRMECK LB - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs SCHIRMECK LB - 1\n\nSALLE JEAN NICOLAS MULLER 2\n📍 
+ Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.5
+ 4765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/df3/match/200000014654380
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654380
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-12-05-00-00-eckbolsheim-bb-2-racing-club-
+ de-strasb@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ ECKBOLSHEIM BB - 2 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 2 vs RACING CLUB DE STRASBOURG - 1\n\nGYMNASE KRAFFT\n📍 Rue du Stad
+ e Eckbolsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/mat
+ ch/200000014654385
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654385
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-12-12-00-00-eschau-bc-2-racing-club-de-st
+ rasbourg-@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ ESCHAU BC - 2 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ ESCHAU BC - 2
+  vs RACING CLUB DE STRASBOURG - 1\n\nCENTRE SPORTIF CULTUREL\n📍 Place d
+ es Fêtes Eschau 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/m
+ atch/200000014654393
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654393
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2026-12-19-00-00-racing-club-de-strasbourg-1-s
+ -u-schilt@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – S.U. SCHILTIGHEIM BASKET BAL
+ L - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs S.U. SCHILTIGHEIM BASKET BALL - 1\n\nSALLE JEAN NICOLA
+ S MULLER 2\n📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0067/competitions/df3/match/200000014654399
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654399
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-01-16-00-00-strasbourg-electricite-a-s-2-
+ racing-cl@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. - 2 – RACING CLUB DE STRASBOUR
+ G - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 2 vs RACING CLUB DE STRASBOURG - 1\n\nCENTRE SPORTIF SUD\
+ n📍 Rue des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?l
+ l=48.55837\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067
+ /competitions/df3/match/200000014654404
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654404
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-01-23-00-00-racing-club-de-strasbourg-1-b
+ ask-furde@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – BASK FURDENHEIM - 3
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs BASK FURDENHEIM - 3\n\nSALLE JEAN NICOLAS MULLER 2\n
+ 📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll
+ =48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df3/match/200000014654410
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654410
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-01-30-00-00-lingolsheim-c-c-s-s-1-racing-
+ club-de-s@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ LINGOLSHEIM C.C.S.S. - 1 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ LINGOLSHEIM C
+ .C.S.S. - 1 vs RACING CLUB DE STRASBOURG - 1\n\nGYMNASE DES VOSGES\n📍 R
+ ue des Tulipes Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56
+ 063\,7.68652&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/df3/match/200000014654415
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654415
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-02-06-00-00-racing-club-de-strasbourg-1-u
+ rmatt-bc-@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – URMATT BC - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs URMATT BC - 1\n\nSALLE JEAN NICOLAS MULLER 2\n📍 Rue
+  du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.5476
+ 5\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/df3/match/200000014654420
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654420
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-02-13-00-00-saint-joseph-strasbourg-2-rac
+ ing-club-@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 2 – RACING CLUB DE STRASBOURG 
+ - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ SAINT JOSEPH 
+ - STRASBOURG - 2 vs RACING CLUB DE STRASBOURG - 1\n\nCENTRE SPORTIF ESPLAN
+ ADE\n📍 Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll
+ =48.577\,7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df3/match/200000014654425
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654425
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-03-13-00-00-racing-club-de-strasbourg-1-s
+ chiltighe@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – SCHILTIGHEIM AU - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs SCHILTIGHEIM AU - 2\n\nSALLE JEAN NICOLAS MULLER 2\n
+ 📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll
+ =48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df3/match/200000014654430
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654430
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-03-20-00-00-holtzheim-vogesia-1-racing-cl
+ ub-de-str@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 1 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ HOLTZHEIM VOG
+ ESIA - 1 vs RACING CLUB DE STRASBOURG - 1\n\nSALLE DE LA BRUCHE\n📍 Rue 
+ du Stade Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.6
+ 3555&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ f3/match/200000014654441
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654441
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-03-27-00-00-schirmeck-lb-1-racing-club-de
+ -strasbou@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ SCHIRMECK LB - 1 – RACING CLUB DE STRASBOURG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ SCHIRMECK LB 
+ - 1 vs RACING CLUB DE STRASBOURG - 1\n\nHALL DES SPORTS SCHIRMECK\n📍 Ru
+ e des Grives Schirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.48212\
+ ,7.22795&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/df3/match/200000014654446
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654446
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-04-10-00-00-racing-club-de-strasbourg-1-e
+ ckbolshei@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs ECKBOLSHEIM BB - 2\n\nSALLE JEAN NICOLAS MULLER 2\n
+ 📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll
+ =48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df3/match/200000014654451
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654451
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-05-01-00-00-racing-club-de-strasbourg-1-e
+ schau-bc-@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270501T000000
+DTEND;TZID=Europe/Paris:20270501T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – ESCHAU BC - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs ESCHAU BC - 2\n\nSALLE JEAN NICOLAS MULLER 2\n📍 Rue
+  du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.5476
+ 5\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/df3/match/200000014654459
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654459
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-05-15-00-00-s-u-schiltigheim-basket-ball-
+ 1-racing-@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 1 – RACING CLUB DE STRASBO
+ URG - 1
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHILTIG
+ HEIM BASKET BALL - 1 vs RACING CLUB DE STRASBOURG - 1\n\nHALL BUGEAUD\n
+ 📍 Avenue de Gail Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.4
+ 6313\,7.49122&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/df3/match/200000014654465
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654465
+END:VEVENT
+BEGIN:VEVENT
+UID:df3-ges-bas-rhin-poule-b-2027-05-22-00-00-racing-club-de-strasbourg-1-s
+ trasbourg@ffbb-agenda
+DTSTAMP:20260821T205529Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG - 1 – STRASBOURG ELECTRICITE A.S. 
+ - 2
+DESCRIPTION:🏀 DF3 – GES – Bas-Rhin – Poule B\n⚔️ RACING CLUB D
+ E STRASBOURG - 1 vs STRASBOURG ELECTRICITE A.S. - 2\n\nSALLE JEAN NICOLAS 
+ MULLER 2\n📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze
+ .com/ul?ll=48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0067/competitions/df3/match/200000014654470
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df3/
+ match/200000014654470
+END:VEVENT
+END:VCALENDAR

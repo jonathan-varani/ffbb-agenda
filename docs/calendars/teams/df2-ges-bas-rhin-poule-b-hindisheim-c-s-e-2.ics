@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – HINDISHEIM C.S.E - 2  [DF2 – GES – Poule B]
+X-WR-CALDESC:Matchs de HINDISHEIM C.S.E - 2 – DF2 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-09-26-00-00-val-de-ville-b-c-2-hindisheim
+ -c-s-e-2@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ VAL DE VILLE B.C. - 2 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ VAL DE VILLE 
+ B.C. - 2 vs HINDISHEIM C.S.E - 2\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Vil
+ lé 67220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200000
+ 014647678
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647678
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-10-03-00-00-hindisheim-c-s-e-2-bindernhei
+ m-c-s-u-1@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – BINDERNHEIM C.S.U. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs BINDERNHEIM C.S.U. - 1\n\nSALLE STE ETIENNE\n📍 Rue du Stade 
+ Hindisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match
+ /200000014647683
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647683
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-10-10-00-00-strasbourg-electricite-a-s-1-
+ hindishei@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 1 vs HINDISHEIM C.S.E - 2\n\nCENTRE SPORTIF SUD\n📍 Rue
+  des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.5583
+ 7\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/df2/match/200000014647694
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647694
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-10-17-00-00-hindisheim-c-s-e-2-kogenheim-
+ sermershe@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – KOGENHEIM/SERMERSHEIM B.C. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nSALLE STE ETIENNE\n📍 Rue d
+ u Stade Hindisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.6
+ 2489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ f2/match/200000014647699
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647699
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-11-14-00-00-ie-ctc-sow-osthouse-cstb-1-hi
+ ndisheim-@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ IE - CTC SOW - OSTHOUSE CSTB - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC SOW 
+ - OSTHOUSE CSTB - 1 vs HINDISHEIM C.S.E - 2\n\nSALLE POLYVALENTE\n📍 Rue
+  du Looch Osthouse 67150\n🚗 Waze : https://waze.com/ul?ll=48.4026\,7.64
+ 489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ 2/match/200000014647704
+LOCATION:SALLE POLYVALENTE\, Rue du Looch Osthouse 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647704
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-11-21-00-00-hindisheim-c-s-e-2-ie-ctc-m2b
+ -molsheim@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – IE - CTC M2B - MOLSHEIM CSTG - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs IE - CTC M2B - MOLSHEIM CSTG - 1\n\nSALLE STE ETIENNE\n📍 Rue
+  du Stade Hindisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7
+ .62489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /df2/match/200000014647709
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647709
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-11-28-00-00-barr-gertwiller-1-hindisheim-
+ c-s-e-2@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ BARR/GERTWILLER - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BARR/GERTWILL
+ ER - 1 vs HINDISHEIM C.S.E - 2\n\nHALL DU SIVOM\n📍 Rue du Lycée Barr 6
+ 7140\n🚗 Waze : https://waze.com/ul?ll=48.4098\,7.45794&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200000014647
+ 717
+LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647717
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-12-05-00-00-hindisheim-c-s-e-2-duttlenhei
+ m-lc-4@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – DUTTLENHEIM LC - 4
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs DUTTLENHEIM LC - 4\n\nSALLE STE ETIENNE\n📍 Rue du Stade Hind
+ isheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200
+ 000014647723
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647723
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-12-12-00-00-obernai-c-a-1-hindisheim-c-s-
+ e-2@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ OBERNAI C.A. - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OBERNAI C.A. 
+ - 1 vs HINDISHEIM C.S.E - 2\n\nHALL BUGEAUD\n📍 Avenue de Gail Obernai 6
+ 7210\n🚗 Waze : https://waze.com/ul?ll=48.46313\,7.49122&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/20000001464
+ 7729
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647729
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-12-19-00-00-hindisheim-c-s-e-2-ohnenheim-
+ s-s-c-1@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – OHNENHEIM S.S.C. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs OHNENHEIM S.S.C. - 1\n\nSALLE STE ETIENNE\n📍 Rue du Stade Hi
+ ndisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/2
+ 00000014647735
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647735
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-01-16-00-00-hindisheim-c-s-e-2-erstein-bc
+ -1@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – ERSTEIN BC - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs ERSTEIN BC - 1\n\nSALLE STE ETIENNE\n📍 Rue du Stade Hindishe
+ im 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/2000000
+ 14647740
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647740
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-01-23-00-00-hindisheim-c-s-e-2-val-de-vil
+ le-b-c-2@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – VAL DE VILLE B.C. - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs VAL DE VILLE B.C. - 2\n\nSALLE STE ETIENNE\n📍 Rue du Stade H
+ indisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/
+ 200000014647744
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647744
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-01-30-00-00-bindernheim-c-s-u-1-hindishei
+ m-c-s-e-2@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ BINDERNHEIM C.S.U. - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BINDERNHEIM C
+ .S.U. - 1 vs HINDISHEIM C.S.E - 2\n\nSALLE POLYVALENTE\n📍 Rue de Witter
+ nheim Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.28678\,7.60
+ 704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ 2/match/200000014647749
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647749
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-02-06-00-00-hindisheim-c-s-e-2-strasbourg
+ -electric@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – STRASBOURG ELECTRICITE A.S. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs STRASBOURG ELECTRICITE A.S. - 1\n\nSALLE STE ETIENNE\n📍 Rue 
+ du Stade Hindisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.
+ 62489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ df2/match/200000014647760
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647760
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-02-13-00-00-kogenheim-sermersheim-b-c-1-h
+ indisheim@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ KOGENHEIM/SERMERSHEIM B.C. - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ KOGENHEIM/SER
+ MERSHEIM B.C. - 1 vs HINDISHEIM C.S.E - 2\n\nCENTRE SPORTIF\n📍 Rue du S
+ tade Kogenheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.33771\,7.5479&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/ma
+ tch/200000014647765
+LOCATION:CENTRE SPORTIF\, Rue du Stade Kogenheim 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647765
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-03-13-00-00-hindisheim-c-s-e-2-ie-ctc-sow
+ -osthouse@ffbb-agenda
+DTSTAMP:20260821T205516Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – IE - CTC SOW - OSTHOUSE CSTB - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs IE - CTC SOW - OSTHOUSE CSTB - 1\n\nSALLE STE ETIENNE\n📍 Rue
+  du Stade Hindisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7
+ .62489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /df2/match/200000014647770
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647770
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-03-20-00-00-ie-ctc-m2b-molsheim-cstg-1-hi
+ ndisheim-@ffbb-agenda
+DTSTAMP:20260821T205517Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:✈️ IE - CTC M2B - MOLSHEIM CSTG - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC M2B 
+ - MOLSHEIM CSTG - 1 vs HINDISHEIM C.S.E - 2\n\nGYMNASE ATALANTE\n📍 Rue 
+ Élisabeth Juneck Molsheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53
+ 326\,7.49372&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/df2/match/200000014647775
+LOCATION:GYMNASE ATALANTE\, Rue Élisabeth Juneck Molsheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647775
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-03-27-00-00-hindisheim-c-s-e-2-barr-gertw
+ iller-1@ffbb-agenda
+DTSTAMP:20260821T205517Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – BARR/GERTWILLER - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs BARR/GERTWILLER - 1\n\nSALLE STE ETIENNE\n📍 Rue du Stade Hin
+ disheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/20
+ 0000014647783
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647783
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-04-10-00-00-duttlenheim-lc-4-hindisheim-c
+ -s-e-2@ffbb-agenda
+DTSTAMP:20260821T205517Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ DUTTLENHEIM LC - 4 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM L
+ C - 4 vs HINDISHEIM C.S.E - 2\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade D
+ uttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56924&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match
+ /200000014647789
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647789
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-05-01-00-00-hindisheim-c-s-e-2-obernai-c-
+ a-1@ffbb-agenda
+DTSTAMP:20260821T205517Z
+DTSTART;TZID=Europe/Paris:20270501T000000
+DTEND;TZID=Europe/Paris:20270501T020000
+SUMMARY:🏠 HINDISHEIM C.S.E - 2 – OBERNAI C.A. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs OBERNAI C.A. - 1\n\nSALLE STE ETIENNE\n📍 Rue du Stade Hindis
+ heim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/20000
+ 0014647795
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647795
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-05-15-00-00-ohnenheim-s-s-c-1-hindisheim-
+ c-s-e-2@ffbb-agenda
+DTSTAMP:20260821T205517Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ OHNENHEIM S.S.C. - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OHNENHEIM S.S
+ .C. - 1 vs HINDISHEIM C.S.E - 2\n\nSALLE COMMUNALE\n📍 Rue du Moulin Ohn
+ enheim 67390\n🚗 Waze : https://waze.com/ul?ll=48.18481\,7.50417&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200
+ 000014647801
+LOCATION:SALLE COMMUNALE\, Rue du Moulin Ohnenheim 67390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647801
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-05-22-00-00-erstein-bc-1-hindisheim-c-s-e
+ -2@ffbb-agenda
+DTSTAMP:20260821T205517Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:✈️ ERSTEIN BC - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ ERSTEIN BC - 
+ 1 vs HINDISHEIM C.S.E - 2\n\nGYMNASE MARGUERITE YOURCENAR\n📍 Rue Victor
+  Schoelcher Erstein 67150\n🚗 Waze : https://waze.com/ul?ll=48.42265\,7.
+ 64994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ df2/match/200000014647806
+LOCATION:GYMNASE MARGUERITE YOURCENAR\, Rue Victor Schoelcher Erstein 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647806
+END:VEVENT
+END:VCALENDAR

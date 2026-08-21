@@ -1,0 +1,385 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WANGENBOURG-ENGENTHAL U.S. - 1  [DM3 – GES – Poule B]
+X-WR-CALDESC:Matchs de WANGENBOURG-ENGENTHAL U.S. - 1 – DM3 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2026-09-26-00-00-wangenbourg-engenthal-u-s-1-m
+ undolshei@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – MUNDOLSHEIM B.C. - 2
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs MUNDOLSHEIM B.C. - 2\n\nSALLE POLYVALENTE\n📍 Lieu-
+ dit Engenthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : https://waze
+ .com/ul?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0067/competitions/dm3/match/200000014656070
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656070
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2026-10-03-00-00-strasbourg-ass-1-wangenbourg-
+ engenthal@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ STRASBOURG ASS - 1 – WANGENBOURG-ENGENTHAL U.S. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG AS
+ S - 1 vs WANGENBOURG-ENGENTHAL U.S. - 1\n\nGYMNASE DE LA ROTONDE\n📍 Rue
+  Pierre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\
+ ,7.72525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dm3/match/200000014656076
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656076
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2026-10-10-00-00-wangenbourg-engenthal-u-s-1-b
+ ischheim-@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – BISCHHEIM BS - 2
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs BISCHHEIM BS - 2\n\nSALLE POLYVALENTE\n📍 Lieu-dit 
+ Engenthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : https://waze.com
+ /ul?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0067/competitions/dm3/match/200000014656082
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656082
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2026-10-17-00-00-schiltigheim-au-2-wangenbourg
+ -engentha@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ SCHILTIGHEIM AU - 2 – WANGENBOURG-ENGENTHAL U.S. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ SCHILTIGHEIM 
+ AU - 2 vs WANGENBOURG-ENGENTHAL U.S. - 1\n\nGYMNASE DES MALTERIES 1\n📍 
+ Rue des Malteries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.60445\,7.74374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm3/match/200000014656088
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656088
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2026-11-14-00-00-wangenbourg-engenthal-u-s-1-s
+ trasbourg@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – STRASBOURG ELECTRICITE A.S.
+  - 3
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs STRASBOURG ELECTRICITE A.S. - 3\n\nSALLE POLYVALENTE\
+ n📍 Lieu-dit Engenthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0067/competitions/dm3/match/200000014656094
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656094
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2026-11-28-00-00-strasbourg-js-koenigshoffen-1
+ -wangenbo@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ STRASBOURG JS KOENIGSHOFFEN - 1 – WANGENBOURG-ENGENTHAL U.
+ S. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG JS
+  KOENIGSHOFFEN - 1 vs WANGENBOURG-ENGENTHAL U.S. - 1\n\nSALLE DES POTERIES
+ \n📍 Rue Colette Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48
+ .58593\,7.69917&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm3/match/200000014656106
+LOCATION:SALLE DES POTERIES\, Rue Colette Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656106
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2026-12-05-00-00-wangenbourg-engenthal-u-s-1-i
+ e-ctc-mar@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – IE - CTC MARLE-SOULTZ - SOU
+ LTZ LES BAINS A.S.L. - 3
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs IE - CTC MARLE-SOULTZ - SOULTZ LES BAINS A.S.L. - 3\n
+ \nSALLE POLYVALENTE\n📍 Lieu-dit Engenthal le Bas Wangenbourg-Engenthal 
+ 67710\n🚗 Waze : https://waze.com/ul?ll=48.63353\,7.29841&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/match/2000000146
+ 56112
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656112
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2026-12-12-00-00-unitas-brumath-basket-1-wange
+ nbourg-en@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ UNITAS BRUMATH BASKET - 1 – WANGENBOURG-ENGENTHAL U.S. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ UNITAS BRUMAT
+ H BASKET - 1 vs WANGENBOURG-ENGENTHAL U.S. - 1\n\nGYMNASE DU COLLEGE\n📍
+  Rue du Collège Brumath 67170\n🚗 Waze : https://waze.com/ul?ll=48.7318
+ 9\,7.71484&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dm3/match/200000014656118
+LOCATION:GYMNASE DU COLLEGE\, Rue du Collège Brumath 67170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656118
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2026-12-19-00-00-wangenbourg-engenthal-u-s-1-u
+ rmatt-bc-@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – URMATT BC - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs URMATT BC - 1\n\nSALLE POLYVALENTE\n📍 Lieu-dit Eng
+ enthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : https://waze.com/ul
+ ?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 67/competitions/dm3/match/200000014656124
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656124
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-01-16-00-00-saint-joseph-strasbourg-5-wan
+ genbourg-@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 5 – WANGENBOURG-ENGENTHAL U.S.
+  - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ SAINT JOSEPH 
+ - STRASBOURG - 5 vs WANGENBOURG-ENGENTHAL U.S. - 1\n\nCENTRE SPORTIF ESPLA
+ NADE\n📍 Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?l
+ l=48.577\,7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm3/match/200000014656130
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656130
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-01-23-00-00-mundolsheim-b-c-2-wangenbourg
+ -engentha@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ MUNDOLSHEIM B.C. - 2 – WANGENBOURG-ENGENTHAL U.S. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ MUNDOLSHEIM B
+ .C. - 2 vs WANGENBOURG-ENGENTHAL U.S. - 1\n\nGYMNASE DU COLLEGE - COSEC\n
+ 📍 Rue du Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll
+ =48.64379\,7.70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm3/match/200000014656136
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656136
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-01-30-00-00-wangenbourg-engenthal-u-s-1-s
+ trasbourg@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – STRASBOURG ASS - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs STRASBOURG ASS - 1\n\nSALLE POLYVALENTE\n📍 Lieu-di
+ t Engenthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : https://waze.c
+ om/ul?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0067/competitions/dm3/match/200000014656142
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656142
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-02-06-00-00-bischheim-bs-2-wangenbourg-en
+ genthal-u@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:✈️ BISCHHEIM BS - 2 – WANGENBOURG-ENGENTHAL U.S. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ BISCHHEIM BS 
+ - 2 vs WANGENBOURG-ENGENTHAL U.S. - 1\n\nGYMNASE LAMARTINE\n📍 Rue Lamar
+ tine Bischheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/m
+ atch/200000014656148
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656148
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-02-13-00-00-wangenbourg-engenthal-u-s-1-s
+ chiltighe@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – SCHILTIGHEIM AU - 2
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs SCHILTIGHEIM AU - 2\n\nSALLE POLYVALENTE\n📍 Lieu-d
+ it Engenthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : https://waze.
+ com/ul?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0067/competitions/dm3/match/200000014656154
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656154
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-03-13-00-00-strasbourg-electricite-a-s-3-
+ wangenbou@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. - 3 – WANGENBOURG-ENGENTHAL U.
+ S. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 3 vs WANGENBOURG-ENGENTHAL U.S. - 1\n\nCENTRE SPORTIF SUD
+ \n📍 Rue des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?
+ ll=48.55837\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/dm3/match/200000014656160
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656160
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-03-27-00-00-wangenbourg-engenthal-u-s-1-s
+ trasbourg@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – STRASBOURG JS KOENIGSHOFFEN
+  - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs STRASBOURG JS KOENIGSHOFFEN - 1\n\nSALLE POLYVALENTE\
+ n📍 Lieu-dit Engenthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0067/competitions/dm3/match/200000014656172
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656172
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-04-10-00-00-ie-ctc-marle-soultz-soultz-le
+ s-bains-a@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ IE - CTC MARLE-SOULTZ - SOULTZ LES BAINS A.S.L. - 3 – WANG
+ ENBOURG-ENGENTHAL U.S. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC MARL
+ E-SOULTZ - SOULTZ LES BAINS A.S.L. - 3 vs WANGENBOURG-ENGENTHAL U.S. - 1\n
+ \nSALLE POLYVALENTE\n📍 Rue de Saverne Soultz-les-Bains 67120\n🚗 Waze
+  : https://waze.com/ul?ll=48.57392\,7.48501&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0067/competitions/dm3/match/200000014656178
+LOCATION:SALLE POLYVALENTE\, Rue de Saverne Soultz-les-Bains 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656178
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-05-01-00-00-wangenbourg-engenthal-u-s-1-u
+ nitas-bru@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270501T000000
+DTEND;TZID=Europe/Paris:20270501T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – UNITAS BRUMATH BASKET - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs UNITAS BRUMATH BASKET - 1\n\nSALLE POLYVALENTE\n📍 
+ Lieu-dit Engenthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0067/competitions/dm3/match/200000014656184
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656184
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-05-15-00-00-urmatt-bc-1-wangenbourg-engen
+ thal-u-s-@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:✈️ URMATT BC - 1 – WANGENBOURG-ENGENTHAL U.S. - 1
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ URMATT BC - 1
+  vs WANGENBOURG-ENGENTHAL U.S. - 1\n\nHALL DES SPORTS\n📍 Rue des Loisir
+ s Urmatt 67280\n🚗 Waze : https://waze.com/ul?ll=48.5244\,7.32838&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/match/20
+ 0000014656190
+LOCATION:HALL DES SPORTS\, Rue des Loisirs Urmatt 67280
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656190
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-bas-rhin-poule-b-2027-05-22-00-00-wangenbourg-engenthal-u-s-1-s
+ aint-jose@ffbb-agenda
+DTSTAMP:20260821T205628Z
+DTSTART;TZID=Europe/Paris:20270522T000000
+DTEND;TZID=Europe/Paris:20270522T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. - 1 – SAINT JOSEPH - STRASBOURG -
+  5
+DESCRIPTION:🏀 DM3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOURG-E
+ NGENTHAL U.S. - 1 vs SAINT JOSEPH - STRASBOURG - 5\n\nSALLE POLYVALENTE\n
+ 📍 Lieu-dit Engenthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0067/competitions/dm3/match/200000014656196
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm3/
+ match/200000014656196
+END:VEVENT
+END:VCALENDAR

@@ -157,12 +157,12 @@
         <label for="joueur_prenom">Prénom <span class="req">*</span></label>
         <input type="text" id="joueur_prenom" name="joueur_prenom" required autocomplete="given-name">
 
-        <label for="joueur_telephone">Téléphone <span class="opt">(optionnel)</span></label>
-        <input type="tel" id="joueur_telephone" name="joueur_telephone" placeholder="06 12 34 56 78" autocomplete="off">
+        <label for="joueur_telephone">Téléphone <span class="req">*</span></label>
+        <input type="tel" id="joueur_telephone" name="joueur_telephone" required placeholder="06 12 34 56 78" autocomplete="off">
       </fieldset>
 
       <fieldset id="pere-block">
-        <legend>Père <span class="opt">(optionnel)</span></legend>
+        <legend>Père</legend>
 
         <label for="pere_nom">Nom</label>
         <input type="text" id="pere_nom" name="pere_nom" autocomplete="off">
@@ -175,7 +175,7 @@
       </fieldset>
 
       <fieldset id="mere-block">
-        <legend>Mère <span class="opt">(optionnel)</span></legend>
+        <legend>Mère</legend>
 
         <label for="mere_nom">Nom</label>
         <input type="text" id="mere_nom" name="mere_nom" autocomplete="off">
@@ -254,12 +254,14 @@
       e.preventDefault();
       msgErr.style.display = "none";
 
-      const joueur_nom    = val("joueur_nom");
-      const joueur_prenom = val("joueur_prenom");
+      const joueur_nom       = val("joueur_nom");
+      const joueur_prenom    = val("joueur_prenom");
+      const joueur_telephone = val("joueur_telephone");
 
       const errors = [];
-      if (!joueur_nom)    errors.push("le nom du joueur");
-      if (!joueur_prenom) errors.push("le prénom du joueur");
+      if (!joueur_nom)       errors.push("le nom du joueur");
+      if (!joueur_prenom)    errors.push("le prénom du joueur");
+      if (!joueur_telephone) errors.push("le téléphone du joueur");
 
       if (errors.length) {
         msgErr.textContent = "Merci de renseigner : " + errors.join(", ") + ".";
@@ -268,8 +270,7 @@
       }
 
       const payload = {
-        joueur_nom, joueur_prenom,
-        joueur_telephone: val("joueur_telephone"),
+        joueur_nom, joueur_prenom, joueur_telephone,
         pere_nom: val("pere_nom"),
         pere_prenom: val("pere_prenom"),
         pere_telephone: val("pere_telephone"),

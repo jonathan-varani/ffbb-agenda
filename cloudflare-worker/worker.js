@@ -236,8 +236,8 @@ async function handleContactParents(request, env) {
     mere_nom, mere_prenom, mere_telephone,
   } = body;
 
-  if (!joueur_nom || !joueur_prenom) {
-    return json({ error: "Champs manquants : nom et prénom du joueur" }, 400);
+  if (!joueur_nom || !joueur_prenom || !joueur_telephone) {
+    return json({ error: "Champs manquants : nom, prénom et téléphone du joueur" }, 400);
   }
 
   const noco = await fetch(

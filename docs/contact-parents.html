@@ -108,10 +108,24 @@
       display: none;
       line-height: 1.4;
     }
-    .msg.ok   { display: block; background: #E9F9EF; color: var(--green); }
-    .msg.err  { display: block; background: #FDECEC; color: var(--red); }
+    .msg.ok   { background: #E9F9EF; color: var(--green); }
+    .msg.err  { background: #FDECEC; color: var(--red); }
 
     .req { color: var(--red); }
+
+    .download-btn {
+      display: none;
+      width: 100%;
+      padding: 13px;
+      margin-top: 10px;
+      background: #fff;
+      color: var(--navy);
+      border: 1.5px solid var(--navy);
+      border-radius: 12px;
+      font-size: .9rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
   </style>
 </head>
 <body>
@@ -168,8 +182,9 @@
 
       <button type="submit" id="submit-btn">Envoyer la fiche</button>
 
-      <div class="msg ok"  id="msg-ok">✅ Merci, la fiche a bien été enregistrée.</div>
-      <div class="msg err" id="msg-err"></div>
+      <div class="msg ok"  id="msg-ok" style="display:none">✅ Merci, la fiche a bien été enregistrée.</div>
+      <div class="msg err" id="msg-err" style="display:none"></div>
+      <button type="button" class="download-btn" id="download-btn">📇 Télécharger les contacts (.vcf)</button>
     </form>
   </main>
 
@@ -180,13 +195,49 @@
     const submitBtn    = document.getElementById("submit-btn");
     const msgOk        = document.getElementById("msg-ok");
     const msgErr       = document.getElementById("msg-err");
+    const downloadBtn  = document.getElementById("download-btn");
 
     function val(id) { return document.getElementById(id).value.trim(); }
+
+    function vcardEscape(str) {
+      return str.replace(/([,;\\])/g, "\\$1");
+    }
+
+    function buildVcf(payload) {
+      const contacts = [
+        { role: "Père", nom: payload.pere_nom, prenom: payload.pere_prenom, tel: payload.pere_telephone },
+        { role: "Mère", nom: payload.mere_nom, prenom: payload.mere_prenom, tel: payload.mere_telephone },
+      ];
+      const cards = contacts.map(c => [
+        "BEGIN:VCARD",
+        "VERSION:3.0",
+        `N:${vcardEscape(c.nom)};${vcardEscape(c.prenom)};;;`,
+        `FN:${vcardEscape(c.prenom)} ${vcardEscape(c.nom)}`,
+        `TEL;TYPE=CELL:${c.tel}`,
+        `NOTE:${c.role} de ${vcardEscape(payload.joueur_prenom)} ${vcardEscape(payload.joueur_nom)}`,
+        "END:VCARD",
+      ].join("\r\n"));
+      return cards.join("\r\n");
+    }
+
+    downloadBtn.addEventListener("click", () => {
+      if (!downloadBtn.dataset.vcf) return;
+      const blob = new Blob([downloadBtn.dataset.vcf], { type: "text/vcard" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `contacts-${downloadBtn.dataset.joueur || "joueur"}.vcf`;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+    });
 
     form.addEventListener("submit", async (e) => {
       e.preventDefault();
       msgOk.style.display = "none";
       msgErr.style.display = "none";
+      downloadBtn.style.display = "none";
 
       const joueur_nom    = val("joueur_nom");
       const joueur_prenom = val("joueur_prenom");
@@ -232,6 +283,9 @@
         if (!res.ok || data.error) throw new Error(data.error || "Erreur inconnue");
 
         msgOk.style.display = "block";
+        downloadBtn.dataset.vcf = buildVcf(payload);
+        downloadBtn.dataset.joueur = `${payload.joueur_prenom}-${payload.joueur_nom}`.toLowerCase().replace(/\s+/g, "-");
+        downloadBtn.style.display = "block";
         form.reset();
       } catch (err) {
         msgErr.textContent = "❌ Échec de l'envoi : " + err.message;

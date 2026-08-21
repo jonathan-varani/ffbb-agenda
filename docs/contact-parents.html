@@ -63,12 +63,6 @@
       padding: 0 6px;
       color: var(--navy);
     }
-    .legend-sub {
-      font-size: .75rem;
-      color: var(--gray);
-      font-weight: 400;
-      margin-top: 2px;
-    }
 
     label {
       display: block;
@@ -91,40 +85,6 @@
       font-family: inherit;
     }
     input:focus { border-color: var(--orange); }
-    input:disabled { opacity: .5; background: #EEE; }
-
-    .check-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin-top: 14px;
-      padding: 10px 12px;
-      background: var(--light);
-      border-radius: 8px;
-    }
-    .check-row input[type=checkbox] {
-      width: 18px; height: 18px; accent-color: var(--red); flex-shrink: 0;
-    }
-    .check-row label {
-      margin: 0;
-      font-size: .82rem;
-      font-weight: 600;
-      color: var(--red);
-    }
-
-    .tuteur-block {
-      display: none;
-      margin-top: 14px;
-      padding-top: 14px;
-      border-top: 1px dashed var(--border);
-    }
-    .tuteur-block.show { display: block; }
-    .tuteur-note {
-      font-size: .78rem;
-      color: var(--gray);
-      line-height: 1.4;
-      margin-bottom: 4px;
-    }
 
     button[type=submit] {
       width: 100%;
@@ -160,16 +120,14 @@
       <span class="logo-ball">🏀</span>
       <div>
         <h1>Fiche contact joueur</h1>
-        <p>Coordonnées des parents / responsables légaux</p>
+        <p>Coordonnées des parents</p>
       </div>
     </div>
   </header>
 
   <main>
     <p class="intro">
-      Merci de renseigner les coordonnées des <strong>deux parents</strong> du joueur ou de la joueuse.
-      Si l'un des parents (ou les deux) est décédé, cochez la case correspondante :
-      un contact de <strong>tuteur légal</strong> vous sera alors demandé à la place.
+      Merci de renseigner les coordonnées du <strong>père</strong> et de la <strong>mère</strong> du joueur ou de la joueuse.
     </p>
 
     <form id="contact-form" novalidate>
@@ -180,63 +138,32 @@
 
         <label for="joueur_prenom">Prénom <span class="req">*</span></label>
         <input type="text" id="joueur_prenom" name="joueur_prenom" required autocomplete="given-name">
-
-        <label for="equipe">Équipe <span class="opt">(optionnel)</span></label>
-        <input type="text" id="equipe" name="equipe" placeholder="Ex : U15 Filles - 1" autocomplete="off">
       </fieldset>
 
-      <fieldset id="parent1-block">
-        <legend>Parent 1</legend>
+      <fieldset id="pere-block">
+        <legend>Père</legend>
 
-        <label for="parent1_nom">Nom <span class="req">*</span></label>
-        <input type="text" id="parent1_nom" name="parent1_nom" autocomplete="off">
+        <label for="pere_nom">Nom <span class="req">*</span></label>
+        <input type="text" id="pere_nom" name="pere_nom" autocomplete="off">
 
-        <label for="parent1_prenom">Prénom <span class="req">*</span></label>
-        <input type="text" id="parent1_prenom" name="parent1_prenom" autocomplete="off">
+        <label for="pere_prenom">Prénom <span class="req">*</span></label>
+        <input type="text" id="pere_prenom" name="pere_prenom" autocomplete="off">
 
-        <label for="parent1_telephone">Téléphone <span class="req">*</span></label>
-        <input type="tel" id="parent1_telephone" name="parent1_telephone" placeholder="06 12 34 56 78" autocomplete="off">
-
-        <div class="check-row">
-          <input type="checkbox" id="parent1_decede" name="parent1_decede">
-          <label for="parent1_decede">Ce parent est décédé</label>
-        </div>
+        <label for="pere_telephone">Téléphone <span class="req">*</span></label>
+        <input type="tel" id="pere_telephone" name="pere_telephone" placeholder="06 12 34 56 78" autocomplete="off">
       </fieldset>
 
-      <fieldset id="parent2-block">
-        <legend>Parent 2</legend>
+      <fieldset id="mere-block">
+        <legend>Mère</legend>
 
-        <label for="parent2_nom">Nom <span class="req">*</span></label>
-        <input type="text" id="parent2_nom" name="parent2_nom" autocomplete="off">
+        <label for="mere_nom">Nom <span class="req">*</span></label>
+        <input type="text" id="mere_nom" name="mere_nom" autocomplete="off">
 
-        <label for="parent2_prenom">Prénom <span class="req">*</span></label>
-        <input type="text" id="parent2_prenom" name="parent2_prenom" autocomplete="off">
+        <label for="mere_prenom">Prénom <span class="req">*</span></label>
+        <input type="text" id="mere_prenom" name="mere_prenom" autocomplete="off">
 
-        <label for="parent2_telephone">Téléphone <span class="req">*</span></label>
-        <input type="tel" id="parent2_telephone" name="parent2_telephone" placeholder="06 12 34 56 78" autocomplete="off">
-
-        <div class="check-row">
-          <input type="checkbox" id="parent2_decede" name="parent2_decede">
-          <label for="parent2_decede">Ce parent est décédé</label>
-        </div>
-      </fieldset>
-
-      <fieldset id="tuteur-fieldset" style="display:none">
-        <legend>Tuteur légal
-          <div class="legend-sub">À remplir car les deux parents sont indiqués décédés</div>
-        </legend>
-
-        <label for="tuteur_lien">Lien avec l'enfant <span class="req">*</span></label>
-        <input type="text" id="tuteur_lien" name="tuteur_lien" placeholder="Ex : Grand-mère, tuteur légal désigné...">
-
-        <label for="tuteur_nom">Nom <span class="req">*</span></label>
-        <input type="text" id="tuteur_nom" name="tuteur_nom" autocomplete="off">
-
-        <label for="tuteur_prenom">Prénom <span class="req">*</span></label>
-        <input type="text" id="tuteur_prenom" name="tuteur_prenom" autocomplete="off">
-
-        <label for="tuteur_telephone">Téléphone <span class="req">*</span></label>
-        <input type="tel" id="tuteur_telephone" name="tuteur_telephone" placeholder="06 12 34 56 78" autocomplete="off">
+        <label for="mere_telephone">Téléphone <span class="req">*</span></label>
+        <input type="tel" id="mere_telephone" name="mere_telephone" placeholder="06 12 34 56 78" autocomplete="off">
       </fieldset>
 
       <button type="submit" id="submit-btn">Envoyer la fiche</button>
@@ -250,39 +177,9 @@
     const WORKER_URL = "https://ffbb-agenda.jonathan-varani.workers.dev"; // ⚠️ à adapter si besoin
 
     const form        = document.getElementById("contact-form");
-    const p1Decede     = document.getElementById("parent1_decede");
-    const p2Decede     = document.getElementById("parent2_decede");
-    const p1Block      = document.getElementById("parent1-block");
-    const p2Block      = document.getElementById("parent2-block");
-    const tuteurBlock  = document.getElementById("tuteur-fieldset");
     const submitBtn    = document.getElementById("submit-btn");
     const msgOk        = document.getElementById("msg-ok");
     const msgErr       = document.getElementById("msg-err");
-
-    function fieldsOf(block) {
-      return block.querySelectorAll("input[type=text], input[type=tel]");
-    }
-
-    function updateParentState(decedeCheckbox, block) {
-      const dead = decedeCheckbox.checked;
-      fieldsOf(block).forEach(f => {
-        f.disabled = dead;
-        if (dead) f.value = "";
-      });
-    }
-
-    function updateTuteurVisibility() {
-      const bothDead = p1Decede.checked && p2Decede.checked;
-      tuteurBlock.style.display = bothDead ? "block" : "none";
-    }
-
-    [p1Decede, p2Decede].forEach(cb => {
-      cb.addEventListener("change", () => {
-        updateParentState(p1Decede, p1Block);
-        updateParentState(p2Decede, p2Block);
-        updateTuteurVisibility();
-      });
-    });
 
     function val(id) { return document.getElementById(id).value.trim(); }
 
@@ -293,32 +190,18 @@
 
       const joueur_nom    = val("joueur_nom");
       const joueur_prenom = val("joueur_prenom");
-      const equipe        = val("equipe");
-
-      const p1Dead = p1Decede.checked;
-      const p2Dead = p2Decede.checked;
-      const bothDead = p1Dead && p2Dead;
 
       const errors = [];
       if (!joueur_nom)    errors.push("le nom du joueur");
       if (!joueur_prenom) errors.push("le prénom du joueur");
 
-      if (!p1Dead) {
-        if (!val("parent1_nom"))        errors.push("le nom du parent 1");
-        if (!val("parent1_prenom"))     errors.push("le prénom du parent 1");
-        if (!val("parent1_telephone"))  errors.push("le téléphone du parent 1");
-      }
-      if (!p2Dead) {
-        if (!val("parent2_nom"))        errors.push("le nom du parent 2");
-        if (!val("parent2_prenom"))     errors.push("le prénom du parent 2");
-        if (!val("parent2_telephone"))  errors.push("le téléphone du parent 2");
-      }
-      if (bothDead) {
-        if (!val("tuteur_lien"))        errors.push("le lien du tuteur légal avec l'enfant");
-        if (!val("tuteur_nom"))         errors.push("le nom du tuteur légal");
-        if (!val("tuteur_prenom"))      errors.push("le prénom du tuteur légal");
-        if (!val("tuteur_telephone"))   errors.push("le téléphone du tuteur légal");
-      }
+      if (!val("pere_nom"))        errors.push("le nom du père");
+      if (!val("pere_prenom"))     errors.push("le prénom du père");
+      if (!val("pere_telephone"))  errors.push("le téléphone du père");
+
+      if (!val("mere_nom"))        errors.push("le nom de la mère");
+      if (!val("mere_prenom"))     errors.push("le prénom de la mère");
+      if (!val("mere_telephone"))  errors.push("le téléphone de la mère");
 
       if (errors.length) {
         msgErr.textContent = "Merci de renseigner : " + errors.join(", ") + ".";
@@ -327,19 +210,13 @@
       }
 
       const payload = {
-        joueur_nom, joueur_prenom, equipe,
-        parent1_nom: p1Dead ? "" : val("parent1_nom"),
-        parent1_prenom: p1Dead ? "" : val("parent1_prenom"),
-        parent1_telephone: p1Dead ? "" : val("parent1_telephone"),
-        parent1_decede: p1Dead,
-        parent2_nom: p2Dead ? "" : val("parent2_nom"),
-        parent2_prenom: p2Dead ? "" : val("parent2_prenom"),
-        parent2_telephone: p2Dead ? "" : val("parent2_telephone"),
-        parent2_decede: p2Dead,
-        tuteur_nom: bothDead ? val("tuteur_nom") : "",
-        tuteur_prenom: bothDead ? val("tuteur_prenom") : "",
-        tuteur_telephone: bothDead ? val("tuteur_telephone") : "",
-        tuteur_lien: bothDead ? val("tuteur_lien") : "",
+        joueur_nom, joueur_prenom,
+        pere_nom: val("pere_nom"),
+        pere_prenom: val("pere_prenom"),
+        pere_telephone: val("pere_telephone"),
+        mere_nom: val("mere_nom"),
+        mere_prenom: val("mere_prenom"),
+        mere_telephone: val("mere_telephone"),
       };
 
       submitBtn.disabled = true;
@@ -356,9 +233,6 @@
 
         msgOk.style.display = "block";
         form.reset();
-        updateParentState(p1Decede, p1Block);
-        updateParentState(p2Decede, p2Block);
-        updateTuteurVisibility();
       } catch (err) {
         msgErr.textContent = "❌ Échec de l'envoi : " + err.message;
         msgErr.style.display = "block";

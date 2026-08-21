@@ -231,26 +231,19 @@ async function handleContactParents(request, env) {
   catch { return json({ error: "JSON invalide" }, 400); }
 
   const {
-    joueur_nom, joueur_prenom, equipe,
-    parent1_nom, parent1_prenom, parent1_telephone, parent1_decede,
-    parent2_nom, parent2_prenom, parent2_telephone, parent2_decede,
-    tuteur_nom, tuteur_prenom, tuteur_telephone, tuteur_lien,
+    joueur_nom, joueur_prenom,
+    pere_nom, pere_prenom, pere_telephone,
+    mere_nom, mere_prenom, mere_telephone,
   } = body;
 
   if (!joueur_nom || !joueur_prenom) {
     return json({ error: "Champs manquants : nom et prénom du joueur" }, 400);
   }
-
-  const bothDead = !!parent1_decede && !!parent2_decede;
-
-  if (!parent1_decede && (!parent1_nom || !parent1_prenom || !parent1_telephone)) {
-    return json({ error: "Coordonnées du parent 1 incomplètes" }, 400);
+  if (!pere_nom || !pere_prenom || !pere_telephone) {
+    return json({ error: "Coordonnées du père incomplètes" }, 400);
   }
-  if (!parent2_decede && (!parent2_nom || !parent2_prenom || !parent2_telephone)) {
-    return json({ error: "Coordonnées du parent 2 incomplètes" }, 400);
-  }
-  if (bothDead && (!tuteur_nom || !tuteur_prenom || !tuteur_telephone || !tuteur_lien)) {
-    return json({ error: "Coordonnées du tuteur légal incomplètes" }, 400);
+  if (!mere_nom || !mere_prenom || !mere_telephone) {
+    return json({ error: "Coordonnées de la mère incomplètes" }, 400);
   }
 
   const noco = await fetch(
@@ -259,10 +252,9 @@ async function handleContactParents(request, env) {
       method: "POST",
       headers: { "xc-token": env.NOCODB_TOKEN, "Content-Type": "application/json" },
       body: JSON.stringify({
-        joueur_nom, joueur_prenom, equipe,
-        parent1_nom, parent1_prenom, parent1_telephone, parent1_decede: !!parent1_decede,
-        parent2_nom, parent2_prenom, parent2_telephone, parent2_decede: !!parent2_decede,
-        tuteur_nom, tuteur_prenom, tuteur_telephone, tuteur_lien,
+        joueur_nom, joueur_prenom,
+        pere_nom, pere_prenom, pere_telephone,
+        mere_nom, mere_prenom, mere_telephone,
         submitted_at: new Date().toISOString(),
       }),
     }

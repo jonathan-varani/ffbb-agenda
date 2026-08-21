@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#1B2A4A">
+  <title>Fiche contact — Agendas FFBB</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
+  <style>
+    :root {
+      --orange: #E84E0F;
+      --navy:   #1B2A4A;
+      --light:  #F5F6FA;
+      --gray:   #6B7280;
+      --border: #E5E7EB;
+      --green:  #16A34A;
+      --red:    #DC2626;
+      --radius: 12px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--light);
+      color: var(--navy);
+      min-height: 100vh;
+      padding-bottom: 40px;
+    }
+    header {
+      background: var(--navy);
+      color: #fff;
+      padding: 16px 20px env(safe-area-inset-top, 0);
+      padding-top: calc(16px + env(safe-area-inset-top, 0));
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .header-logo { display: flex; align-items: center; gap: 12px; }
+    .logo-ball { font-size: 1.8rem; }
+    header h1 { font-size: 1.15rem; font-weight: 700; }
+    header p  { font-size: .75rem; opacity: .65; margin-top: 2px; }
+
+    main { max-width: 520px; margin: 0 auto; padding: 20px 16px; }
+
+    .intro {
+      background: #fff;
+      border-radius: var(--radius);
+      padding: 16px 18px;
+      margin-bottom: 16px;
+      font-size: .85rem;
+      color: var(--gray);
+      line-height: 1.5;
+      border: 1px solid var(--border);
+    }
+
+    fieldset {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 18px 18px;
+      margin-bottom: 16px;
+    }
+    legend {
+      font-weight: 700;
+      font-size: .95rem;
+      padding: 0 6px;
+      color: var(--navy);
+    }
+    .legend-sub {
+      font-size: .75rem;
+      color: var(--gray);
+      font-weight: 400;
+      margin-top: 2px;
+    }
+
+    label {
+      display: block;
+      font-size: .8rem;
+      font-weight: 600;
+      color: var(--navy);
+      margin: 12px 0 5px;
+    }
+    label .opt { font-weight: 400; color: var(--gray); }
+
+    input[type=text], input[type=tel] {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      font-size: .92rem;
+      outline: none;
+      background: var(--light);
+      color: var(--navy);
+      font-family: inherit;
+    }
+    input:focus { border-color: var(--orange); }
+    input:disabled { opacity: .5; background: #EEE; }
+
+    .check-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 14px;
+      padding: 10px 12px;
+      background: var(--light);
+      border-radius: 8px;
+    }
+    .check-row input[type=checkbox] {
+      width: 18px; height: 18px; accent-color: var(--red); flex-shrink: 0;
+    }
+    .check-row label {
+      margin: 0;
+      font-size: .82rem;
+      font-weight: 600;
+      color: var(--red);
+    }
+
+    .tuteur-block {
+      display: none;
+      margin-top: 14px;
+      padding-top: 14px;
+      border-top: 1px dashed var(--border);
+    }
+    .tuteur-block.show { display: block; }
+    .tuteur-note {
+      font-size: .78rem;
+      color: var(--gray);
+      line-height: 1.4;
+      margin-bottom: 4px;
+    }
+
+    button[type=submit] {
+      width: 100%;
+      padding: 15px;
+      background: var(--orange);
+      color: #fff;
+      border: none;
+      border-radius: 12px;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      margin-top: 6px;
+    }
+    button[type=submit]:disabled { opacity: .6; cursor: not-allowed; }
+
+    .msg {
+      margin-top: 14px;
+      padding: 12px 14px;
+      border-radius: 8px;
+      font-size: .85rem;
+      display: none;
+      line-height: 1.4;
+    }
+    .msg.ok   { display: block; background: #E9F9EF; color: var(--green); }
+    .msg.err  { display: block; background: #FDECEC; color: var(--red); }
+
+    .req { color: var(--red); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-logo">
+      <span class="logo-ball">🏀</span>
+      <div>
+        <h1>Fiche contact joueur</h1>
+        <p>Coordonnées des parents / responsables légaux</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <p class="intro">
+      Merci de renseigner les coordonnées des <strong>deux parents</strong> du joueur ou de la joueuse.
+      Si l'un des parents (ou les deux) est décédé, cochez la case correspondante :
+      un contact de <strong>tuteur légal</strong> vous sera alors demandé à la place.
+    </p>
+
+    <form id="contact-form" novalidate>
+      <fieldset>
+        <legend>Joueur / joueuse</legend>
+        <label for="joueur_nom">Nom <span class="req">*</span></label>
+        <input type="text" id="joueur_nom" name="joueur_nom" required autocomplete="family-name">
+
+        <label for="joueur_prenom">Prénom <span class="req">*</span></label>
+        <input type="text" id="joueur_prenom" name="joueur_prenom" required autocomplete="given-name">
+
+        <label for="equipe">Équipe <span class="opt">(optionnel)</span></label>
+        <input type="text" id="equipe" name="equipe" placeholder="Ex : U15 Filles - 1" autocomplete="off">
+      </fieldset>
+
+      <fieldset id="parent1-block">
+        <legend>Parent 1</legend>
+
+        <label for="parent1_nom">Nom <span class="req">*</span></label>
+        <input type="text" id="parent1_nom" name="parent1_nom" autocomplete="off">
+
+        <label for="parent1_prenom">Prénom <span class="req">*</span></label>
+        <input type="text" id="parent1_prenom" name="parent1_prenom" autocomplete="off">
+
+        <label for="parent1_telephone">Téléphone <span class="req">*</span></label>
+        <input type="tel" id="parent1_telephone" name="parent1_telephone" placeholder="06 12 34 56 78" autocomplete="off">
+
+        <div class="check-row">
+          <input type="checkbox" id="parent1_decede" name="parent1_decede">
+          <label for="parent1_decede">Ce parent est décédé</label>
+        </div>
+      </fieldset>
+
+      <fieldset id="parent2-block">
+        <legend>Parent 2</legend>
+
+        <label for="parent2_nom">Nom <span class="req">*</span></label>
+        <input type="text" id="parent2_nom" name="parent2_nom" autocomplete="off">
+
+        <label for="parent2_prenom">Prénom <span class="req">*</span></label>
+        <input type="text" id="parent2_prenom" name="parent2_prenom" autocomplete="off">
+
+        <label for="parent2_telephone">Téléphone <span class="req">*</span></label>
+        <input type="tel" id="parent2_telephone" name="parent2_telephone" placeholder="06 12 34 56 78" autocomplete="off">
+
+        <div class="check-row">
+          <input type="checkbox" id="parent2_decede" name="parent2_decede">
+          <label for="parent2_decede">Ce parent est décédé</label>
+        </div>
+      </fieldset>
+
+      <fieldset id="tuteur-fieldset" style="display:none">
+        <legend>Tuteur légal
+          <div class="legend-sub">À remplir car les deux parents sont indiqués décédés</div>
+        </legend>
+
+        <label for="tuteur_lien">Lien avec l'enfant <span class="req">*</span></label>
+        <input type="text" id="tuteur_lien" name="tuteur_lien" placeholder="Ex : Grand-mère, tuteur légal désigné...">
+
+        <label for="tuteur_nom">Nom <span class="req">*</span></label>
+        <input type="text" id="tuteur_nom" name="tuteur_nom" autocomplete="off">
+
+        <label for="tuteur_prenom">Prénom <span class="req">*</span></label>
+        <input type="text" id="tuteur_prenom" name="tuteur_prenom" autocomplete="off">
+
+        <label for="tuteur_telephone">Téléphone <span class="req">*</span></label>
+        <input type="tel" id="tuteur_telephone" name="tuteur_telephone" placeholder="06 12 34 56 78" autocomplete="off">
+      </fieldset>
+
+      <button type="submit" id="submit-btn">Envoyer la fiche</button>
+
+      <div class="msg ok"  id="msg-ok">✅ Merci, la fiche a bien été enregistrée.</div>
+      <div class="msg err" id="msg-err"></div>
+    </form>
+  </main>
+
+  <script>
+    const WORKER_URL = "https://ffbb-agenda.jonathan-varani.workers.dev"; // ⚠️ à adapter si besoin
+
+    const form        = document.getElementById("contact-form");
+    const p1Decede     = document.getElementById("parent1_decede");
+    const p2Decede     = document.getElementById("parent2_decede");
+    const p1Block      = document.getElementById("parent1-block");
+    const p2Block      = document.getElementById("parent2-block");
+    const tuteurBlock  = document.getElementById("tuteur-fieldset");
+    const submitBtn    = document.getElementById("submit-btn");
+    const msgOk        = document.getElementById("msg-ok");
+    const msgErr       = document.getElementById("msg-err");
+
+    function fieldsOf(block) {
+      return block.querySelectorAll("input[type=text], input[type=tel]");
+    }
+
+    function updateParentState(decedeCheckbox, block) {
+      const dead = decedeCheckbox.checked;
+      fieldsOf(block).forEach(f => {
+        f.disabled = dead;
+        if (dead) f.value = "";
+      });
+    }
+
+    function updateTuteurVisibility() {
+      const bothDead = p1Decede.checked && p2Decede.checked;
+      tuteurBlock.style.display = bothDead ? "block" : "none";
+    }
+
+    [p1Decede, p2Decede].forEach(cb => {
+      cb.addEventListener("change", () => {
+        updateParentState(p1Decede, p1Block);
+        updateParentState(p2Decede, p2Block);
+        updateTuteurVisibility();
+      });
+    });
+
+    function val(id) { return document.getElementById(id).value.trim(); }
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      msgOk.style.display = "none";
+      msgErr.style.display = "none";
+
+      const joueur_nom    = val("joueur_nom");
+      const joueur_prenom = val("joueur_prenom");
+      const equipe        = val("equipe");
+
+      const p1Dead = p1Decede.checked;
+      const p2Dead = p2Decede.checked;
+      const bothDead = p1Dead && p2Dead;
+
+      const errors = [];
+      if (!joueur_nom)    errors.push("le nom du joueur");
+      if (!joueur_prenom) errors.push("le prénom du joueur");
+
+      if (!p1Dead) {
+        if (!val("parent1_nom"))        errors.push("le nom du parent 1");
+        if (!val("parent1_prenom"))     errors.push("le prénom du parent 1");
+        if (!val("parent1_telephone"))  errors.push("le téléphone du parent 1");
+      }
+      if (!p2Dead) {
+        if (!val("parent2_nom"))        errors.push("le nom du parent 2");
+        if (!val("parent2_prenom"))     errors.push("le prénom du parent 2");
+        if (!val("parent2_telephone"))  errors.push("le téléphone du parent 2");
+      }
+      if (bothDead) {
+        if (!val("tuteur_lien"))        errors.push("le lien du tuteur légal avec l'enfant");
+        if (!val("tuteur_nom"))         errors.push("le nom du tuteur légal");
+        if (!val("tuteur_prenom"))      errors.push("le prénom du tuteur légal");
+        if (!val("tuteur_telephone"))   errors.push("le téléphone du tuteur légal");
+      }
+
+      if (errors.length) {
+        msgErr.textContent = "Merci de renseigner : " + errors.join(", ") + ".";
+        msgErr.style.display = "block";
+        return;
+      }
+
+      const payload = {
+        joueur_nom, joueur_prenom, equipe,
+        parent1_nom: p1Dead ? "" : val("parent1_nom"),
+        parent1_prenom: p1Dead ? "" : val("parent1_prenom"),
+        parent1_telephone: p1Dead ? "" : val("parent1_telephone"),
+        parent1_decede: p1Dead,
+        parent2_nom: p2Dead ? "" : val("parent2_nom"),
+        parent2_prenom: p2Dead ? "" : val("parent2_prenom"),
+        parent2_telephone: p2Dead ? "" : val("parent2_telephone"),
+        parent2_decede: p2Dead,
+        tuteur_nom: bothDead ? val("tuteur_nom") : "",
+        tuteur_prenom: bothDead ? val("tuteur_prenom") : "",
+        tuteur_telephone: bothDead ? val("tuteur_telephone") : "",
+        tuteur_lien: bothDead ? val("tuteur_lien") : "",
+      };
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = "Envoi en cours...";
+
+      try {
+        const res = await fetch(WORKER_URL + "/contact-parents", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        });
+        const data = await res.json();
+        if (!res.ok || data.error) throw new Error(data.error || "Erreur inconnue");
+
+        msgOk.style.display = "block";
+        form.reset();
+        updateParentState(p1Decede, p1Block);
+        updateParentState(p2Decede, p2Block);
+        updateTuteurVisibility();
+      } catch (err) {
+        msgErr.textContent = "❌ Échec de l'envoi : " + err.message;
+        msgErr.style.display = "block";
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = "Envoyer la fiche";
+      }
+    });
+  </script>
+</body>
+</html>

@@ -13,6 +13,7 @@
 const NOCODB_API   = "https://app.nocodb.com";
 const NOCODB_BASE  = "poq54dd1rjvxuki";   // v1 uniquement
 const NOCODB_TABLE = "myrqkg2uylp17q9";   // table ID (utilisé par v1 et v2)
+const NOCODB_TABLE_CONTACTS = "m135lw76cfsqy0a"; // table "Contacts Joueurs"
 const PAGES_BASE   = "https://basket.varai.fr";
 const SENDER_EMAIL = "jonathan.varani@varai.fr";
 const SENDER_NAME  = "Agendas FFBB";
@@ -222,6 +223,58 @@ async function handleFeedback(request, env) {
   return json({ ok: true });
 }
 
+// ── POST /contact-parents ─────────────────────────────────────────────────────
+
+async function handleContactParents(request, env) {
+  let body;
+  try { body = await request.json(); }
+  catch { return json({ error: "JSON invalide" }, 400); }
+
+  const {
+    joueur_nom, joueur_prenom, equipe,
+    parent1_nom, parent1_prenom, parent1_telephone, parent1_decede,
+    parent2_nom, parent2_prenom, parent2_telephone, parent2_decede,
+    tuteur_nom, tuteur_prenom, tuteur_telephone, tuteur_lien,
+  } = body;
+
+  if (!joueur_nom || !joueur_prenom) {
+    return json({ error: "Champs manquants : nom et prénom du joueur" }, 400);
+  }
+
+  const bothDead = !!parent1_decede && !!parent2_decede;
+
+  if (!parent1_decede && (!parent1_nom || !parent1_prenom || !parent1_telephone)) {
+    return json({ error: "Coordonnées du parent 1 incomplètes" }, 400);
+  }
+  if (!parent2_decede && (!parent2_nom || !parent2_prenom || !parent2_telephone)) {
+    return json({ error: "Coordonnées du parent 2 incomplètes" }, 400);
+  }
+  if (bothDead && (!tuteur_nom || !tuteur_prenom || !tuteur_telephone || !tuteur_lien)) {
+    return json({ error: "Coordonnées du tuteur légal incomplètes" }, 400);
+  }
+
+  const noco = await fetch(
+    `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE_CONTACTS}`,
+    {
+      method: "POST",
+      headers: { "xc-token": env.NOCODB_TOKEN, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        joueur_nom, joueur_prenom, equipe,
+        parent1_nom, parent1_prenom, parent1_telephone, parent1_decede: !!parent1_decede,
+        parent2_nom, parent2_prenom, parent2_telephone, parent2_decede: !!parent2_decede,
+        tuteur_nom, tuteur_prenom, tuteur_telephone, tuteur_lien,
+        submitted_at: new Date().toISOString(),
+      }),
+    }
+  );
+  if (!noco.ok) {
+    const err = await noco.text();
+    return json({ error: "NocoDB : " + err }, 500);
+  }
+
+  return json({ ok: true });
+}
+
 // ── GET /sub?token=xxx ────────────────────────────────────────────────────────
 
 async function handleToken(request, env) {
@@ -403,6 +456,9 @@ export default {
     }
     if (request.method === "POST" && path === "/feedback") {
       return handleFeedback(request, env);
+    }
+    if (request.method === "POST" && path === "/contact-parents") {
+      return handleContactParents(request, env);
     }
     if (request.method === "GET" && path === "/sub") {
       return handleToken(request, env);

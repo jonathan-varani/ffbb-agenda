@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ECKBOLSHEIM BB  [DFU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de ECKBOLSHEIM BB – DFU13 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-a-2026-09-19-00-00-holtzheim-vogesia-eckbolshe
+ im-bb@ffbb-agenda
+DTSTAMP:20260823T205457Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ HOLTZHEIM VOGESIA – ECKBOLSHEIM BB
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule A\n⚔️ HOLTZHEIM V
+ OGESIA vs ECKBOLSHEIM BB\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzhei
+ m 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/match/200000
+ 014660303
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660303
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-a-2026-09-26-00-00-eckbolsheim-bb-duttlenheim-
+ lc-2@ffbb-agenda
+DTSTAMP:20260823T205457Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 ECKBOLSHEIM BB – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM
+  BB vs DUTTLENHEIM LC - 2\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim
+  67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/match/20000001
+ 4660305
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660305
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-a-2026-10-03-00-00-eckbolsheim-bb-racing-club-
+ de-strasb@ffbb-agenda
+DTSTAMP:20260823T205457Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 ECKBOLSHEIM BB – RACING CLUB DE STRASBOURG
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM
+  BB vs RACING CLUB DE STRASBOURG\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckb
+ olsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/match/2
+ 00000014660309
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660309
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-a-2026-10-10-00-00-s-i-graffenstaden-2-eckbols
+ heim-bb@ffbb-agenda
+DTSTAMP:20260823T205457Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 2 – ECKBOLSHEIM BB
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule A\n⚔️ S.I. GRAFFE
+ NSTADEN - 2 vs ECKBOLSHEIM BB\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste 
+ Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\
+ ,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dfu13/match/200000014660310
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660310
+END:VEVENT
+END:VCALENDAR

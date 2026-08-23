@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SCHILTIGHEIM AU  [DMU11 – GES – Poule C]
+X-WR-CALDESC:Matchs de SCHILTIGHEIM AU – DMU11 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-c-2026-09-12-00-00-schiltigheim-au-bask-furden
+ heim-1@ffbb-agenda
+DTSTAMP:20260823T205938Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 SCHILTIGHEIM AU – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule C\n⚔️ SCHILTIGHEI
+ M AU vs BASK FURDENHEIM - 1\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malte
+ ries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74
+ 374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ u11/match/200000014660071
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660071
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-c-2026-09-19-00-00-schiltigheim-au-asa-souffel
+ weyershei@ffbb-agenda
+DTSTAMP:20260823T205938Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 SCHILTIGHEIM AU – ASA SOUFFELWEYERSHEIM
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule C\n⚔️ SCHILTIGHEI
+ M AU vs ASA SOUFFELWEYERSHEIM\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Mal
+ teries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.
+ 74374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu11/match/200000014660073
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660073
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-c-2026-09-26-00-00-s-i-graffenstaden-schiltigh
+ eim-au@ffbb-agenda
+DTSTAMP:20260823T205938Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ S.I. GRAFFENSTADEN – SCHILTIGHEIM AU
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule C\n⚔️ S.I. GRAFFE
+ NSTADEN vs SCHILTIGHEIM AU\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Ill
+ kirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.
+ 71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu11/match/200000014660078
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660078
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-c-2026-10-10-00-00-schiltigheim-au-saint-josep
+ h-strasbo@ffbb-agenda
+DTSTAMP:20260823T205938Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 SCHILTIGHEIM AU – SAINT JOSEPH - STRASBOURG - 2
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule C\n⚔️ SCHILTIGHEI
+ M AU vs SAINT JOSEPH - STRASBOURG - 2\n\nGYMNASE DES MALTERIES 1\n📍 Rue
+  des Malteries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 0445\,7.74374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dmu11/match/200000014660083
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660083
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB D’OSTWALD  [DMU11-2 – GES – Poule E]
+X-WR-CALDESC:Matchs de BASKET CLUB D’OSTWALD – DMU11-2 – GES – Bas-Rhin – Poule E
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-12-00-00-basket-club-d-ostwald-gei
+ spolsheim@ffbb-agenda
+DTSTAMP:20260823T205956Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 BASKET CLUB D’OSTWALD – GEISPOLSHEIM C.J.S. - 3
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ BASKET CL
+ UB D’OSTWALD vs GEISPOLSHEIM C.J.S. - 3\n\nCENTRE CULTUREL\n📍 Quai He
+ ydt Ostwald 67540\n🚗 Waze : https://waze.com/ul?ll=48.54627\,7.71237&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2/
+ match/200000014660238
+LOCATION:CENTRE CULTUREL\, Quai Heydt Ostwald 67540
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660238
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-19-00-00-strasbourg-ass-basket-clu
+ b-d-ostwa@ffbb-agenda
+DTSTAMP:20260823T205956Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ STRASBOURG ASS – BASKET CLUB D’OSTWALD
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ STRASBOUR
+ G ASS vs BASKET CLUB D’OSTWALD\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre
+  Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.7252
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660241
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660241
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-26-00-00-basket-club-d-ostwald-str
+ asbourg-e@ffbb-agenda
+DTSTAMP:20260823T205956Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BASKET CLUB D’OSTWALD – STRASBOURG ELECTRICITE A.S.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ BASKET CL
+ UB D’OSTWALD vs STRASBOURG ELECTRICITE A.S.\n\nCENTRE CULTUREL\n📍 Qua
+ i Heydt Ostwald 67540\n🚗 Waze : https://waze.com/ul?ll=48.54627\,7.7123
+ 7&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660244
+LOCATION:CENTRE CULTUREL\, Quai Heydt Ostwald 67540
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660244
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-e-2026-10-03-00-00-strasbourg-libellules-b-c
+ -basket-c@ffbb-agenda
+DTSTAMP:20260823T205956Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ STRASBOURG LIBELLULES B.C. – BASKET CLUB D’OSTWALD
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ STRASBOUR
+ G LIBELLULES B.C. vs BASKET CLUB D’OSTWALD\n\nGYMNASE GUTENBERG\n📍 Ru
+ e Albert Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.561
+ 46\,7.70879&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu11-2/match/200000014660247
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660247
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-e-2026-10-10-00-00-basket-club-d-ostwald-gri
+ esheim-di@ffbb-agenda
+DTSTAMP:20260823T205956Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BASKET CLUB D’OSTWALD – GRIESHEIM/DINGSHEIM B.C.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ BASKET CL
+ UB D’OSTWALD vs GRIESHEIM/DINGSHEIM B.C.\n\nCENTRE CULTUREL\n📍 Quai H
+ eydt Ostwald 67540\n🚗 Waze : https://waze.com/ul?ll=48.54627\,7.71237&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2
+ /match/200000014660250
+LOCATION:CENTRE CULTUREL\, Quai Heydt Ostwald 67540
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660250
+END:VEVENT
+END:VCALENDAR

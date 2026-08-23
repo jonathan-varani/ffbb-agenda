@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BISCHHEIM BS  [DMU13-2 – GES – Poule D]
+X-WR-CALDESC:Matchs de BISCHHEIM BS – DMU13-2 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-d-2026-09-19-13-30-vendenheim-bc-2-bischheim
+ -bs@ffbb-agenda
+DTSTAMP:20260823T205914Z
+DTSTART;TZID=Europe/Paris:20260919T133000
+DTEND;TZID=Europe/Paris:20260919T153000
+SUMMARY:✈️ VENDENHEIM BC - 2 – BISCHHEIM BS
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule D\n⚔️ VENDENHEI
+ M BC - 2 vs BISCHHEIM BS\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Goun
+ od Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.71054&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-
+ 2/match/200000014660453
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660453
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-d-2026-09-26-00-00-bischheim-bs-basket-club-
+ d-ostwald@ffbb-agenda
+DTSTAMP:20260823T205914Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BISCHHEIM BS – BASKET CLUB D’OSTWALD - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule D\n⚔️ BISCHHEIM
+  BS vs BASKET CLUB D’OSTWALD - 2\n\nGYMNASE LAMARTINE\n📍 Rue Lamartin
+ e Bischheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2/
+ match/200000014660455
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660455
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-d-2026-10-03-00-00-bischheim-bs-mundolsheim-
+ b-c@ffbb-agenda
+DTSTAMP:20260823T205914Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BISCHHEIM BS – MUNDOLSHEIM B.C.
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule D\n⚔️ BISCHHEIM
+  BS vs MUNDOLSHEIM B.C.\n\nGYMNASE LAMARTINE\n📍 Rue Lamartine Bischheim
+  67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2/match/20000
+ 0014660459
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660459
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-d-2026-10-10-00-00-asa-souffelweyersheim-3-b
+ ischheim-@ffbb-agenda
+DTSTAMP:20260823T205914Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 3 – BISCHHEIM BS
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule D\n⚔️ ASA SOUFF
+ ELWEYERSHEIM - 3 vs BISCHHEIM BS\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept A
+ rpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6319
+ \,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu13-2/match/200000014660460
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660460
+END:VEVENT
+END:VCALENDAR

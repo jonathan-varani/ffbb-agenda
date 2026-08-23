@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WALBOURG ESCHBACH BASKET - 2  [DFU18-2 – GES – Poule B]
+X-WR-CALDESC:Matchs de WALBOURG ESCHBACH BASKET - 2 – DFU18-2 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-b-2026-09-12-00-00-morschwiller-fcj-walbourg
+ -eschbach@ffbb-agenda
+DTSTAMP:20260823T205407Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ MORSCHWILLER FCJ – WALBOURG ESCHBACH BASKET - 2
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule B\n⚔️ MORSCHWIL
+ LER FCJ vs WALBOURG ESCHBACH BASKET - 2\n\nESPACE SPORTIF ET CULTUREL\n
+ 📍 Route de Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?
+ ll=48.81323\,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/dfu18-2/match/200000014660989
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014660989
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-b-2026-09-19-00-00-walbourg-eschbach-basket-
+ 2-kriegsh@ffbb-agenda
+DTSTAMP:20260823T205407Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 WALBOURG ESCHBACH BASKET - 2 – KRIEGSHEIM/R. ASC
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule B\n⚔️ WALBOURG 
+ ESCHBACH BASKET - 2 vs KRIEGSHEIM/R. ASC\n\nESPACE SPORTIF\n📍 Rue de la
+  Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.736
+ 58&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu
+ 18-2/match/200000014660993
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014660993
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-b-2026-09-26-00-00-s-u-schiltigheim-basket-b
+ all-walbo@ffbb-agenda
+DTSTAMP:20260823T205407Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – WALBOURG ESCHBACH BASKET -
+  2
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL vs WALBOURG ESCHBACH BASKET - 2\n\nHALL BUGEAUD\n📍
+  Avenue de Gail Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313
+ \,7.49122&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dfu18-2/match/200000014660994
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014660994
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-b-2026-10-03-00-00-basket-club-hoenheim-walb
+ ourg-esch@ffbb-agenda
+DTSTAMP:20260823T205407Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BASKET CLUB HOENHEIM – WALBOURG ESCHBACH BASKET - 2
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule B\n⚔️ BASKET CL
+ UB HOENHEIM vs WALBOURG ESCHBACH BASKET - 2\n\nCENTRE OMNISPORT DU CHENE\n
+ 📍 Rue du Stade Hoenheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.62
+ 499\,7.7661&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dfu18-2/match/200000014660998
+LOCATION:CENTRE OMNISPORT DU CHENE\, Rue du Stade Hoenheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014660998
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-b-2026-10-10-00-00-walbourg-eschbach-basket-
+ 2-wantzen@ffbb-agenda
+DTSTAMP:20260823T205407Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 WALBOURG ESCHBACH BASKET - 2 – WANTZENAU (LA) A.S.C.SP
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule B\n⚔️ WALBOURG 
+ ESCHBACH BASKET - 2 vs WANTZENAU (LA) A.S.C.SP\n\nESPACE SPORTIF\n📍 Rue
+  de la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\
+ ,7.73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dfu18-2/match/200000014661002
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014661002
+END:VEVENT
+END:VCALENDAR

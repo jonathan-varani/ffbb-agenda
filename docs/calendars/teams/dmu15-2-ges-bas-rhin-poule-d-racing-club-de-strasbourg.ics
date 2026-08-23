@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – RACING CLUB DE STRASBOURG  [DMU15-2 – GES – Poule D]
+X-WR-CALDESC:Matchs de RACING CLUB DE STRASBOURG – DMU15-2 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-12-00-00-racing-club-de-strasbourg
+ -eckbolsh@ffbb-agenda
+DTSTAMP:20260823T205829Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ RACING CL
+ UB DE STRASBOURG vs ECKBOLSHEIM BB - 2\n\nSALLE JEAN NICOLAS MULLER 2\n
+ 📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll
+ =48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu15-2/match/200000014661079
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661079
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-19-00-00-racing-club-de-strasbourg
+ -schiltig@ffbb-agenda
+DTSTAMP:20260823T205829Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG – SCHILTIGHEIM AU
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ RACING CL
+ UB DE STRASBOURG vs SCHILTIGHEIM AU\n\nSALLE JEAN NICOLAS MULLER 2\n📍 R
+ ue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.54
+ 765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/dmu15-2/match/200000014661081
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661081
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-26-00-00-strasbourg-ass-2-racing-c
+ lub-de-st@ffbb-agenda
+DTSTAMP:20260823T205829Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ STRASBOURG ASS - 2 – RACING CLUB DE STRASBOURG
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G ASS - 2 vs RACING CLUB DE STRASBOURG\n\nGYMNASE DE LA ROTONDE\n📍 Rue 
+ Pierre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,
+ 7.72525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu15-2/match/200000014661086
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661086
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-d-2026-10-03-00-00-strasbourg-libellules-b-c
+ -racing-c@ffbb-agenda
+DTSTAMP:20260823T205829Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ STRASBOURG LIBELLULES B.C. – RACING CLUB DE STRASBOURG
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G LIBELLULES B.C. vs RACING CLUB DE STRASBOURG\n\nGYMNASE GUTENBERG\n📍 
+ Rue Albert Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5
+ 6146\,7.70879&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dmu15-2/match/200000014661089
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661089
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-d-2026-10-10-00-00-racing-club-de-strasbourg
+ -strasbou@ffbb-agenda
+DTSTAMP:20260823T205829Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 RACING CLUB DE STRASBOURG – STRASBOURG JS KOENIGSHOFFEN
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ RACING CL
+ UB DE STRASBOURG vs STRASBOURG JS KOENIGSHOFFEN\n\nSALLE JEAN NICOLAS MULL
+ ER 2\n📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com
+ /ul?ll=48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0067/competitions/dmu15-2/match/200000014661091
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661091
+END:VEVENT
+END:VCALENDAR

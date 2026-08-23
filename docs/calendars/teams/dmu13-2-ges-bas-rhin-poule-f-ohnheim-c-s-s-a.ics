@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – OHNHEIM C.S.S.A.  [DMU13-2 – GES – Poule F]
+X-WR-CALDESC:Matchs de OHNHEIM C.S.S.A. – DMU13-2 – GES – Bas-Rhin – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-f-2026-09-12-00-00-ohnheim-c-s-s-a-ohnenheim
+ -s-s-c@ffbb-agenda
+DTSTAMP:20260823T205922Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 OHNHEIM C.S.S.A. – OHNENHEIM S.S.C.
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule F\n⚔️ OHNHEIM C
+ .S.S.A. vs OHNENHEIM S.S.C.\n\nCENTRE SPORTIF ET CULTUREL\n📍 Place des 
+ Fêtes Fegersheim 67640\n🚗 Waze : https://waze.com/ul?ll=48.49126\,7.68
+ 302&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ u13-2/match/200000014660479
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660479
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-f-2026-09-19-00-00-ohnheim-c-s-s-a-eschau-bc
+ -2@ffbb-agenda
+DTSTAMP:20260823T205922Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 OHNHEIM C.S.S.A. – ESCHAU BC - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule F\n⚔️ OHNHEIM C
+ .S.S.A. vs ESCHAU BC - 2\n\nCENTRE SPORTIF ET CULTUREL\n📍 Place des Fê
+ tes Fegersheim 67640\n🚗 Waze : https://waze.com/ul?ll=48.49126\,7.68302
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13
+ -2/match/200000014660481
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660481
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-f-2026-09-26-00-00-selestat-bc-ohnheim-c-s-s
+ -a@ffbb-agenda
+DTSTAMP:20260823T205922Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ SELESTAT BC – OHNHEIM C.S.S.A.
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule F\n⚔️ SELESTAT 
+ BC vs OHNHEIM C.S.S.A.\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré Sélesta
+ t 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2/match/2000
+ 00014660486
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660486
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-f-2026-10-03-00-00-epfig-unitas-ohnheim-c-s-
+ s-a@ffbb-agenda
+DTSTAMP:20260823T205922Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ EPFIG UNITAS – OHNHEIM C.S.S.A.
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule F\n⚔️ EPFIG UNI
+ TAS vs OHNHEIM C.S.S.A.\n\nSALLE MULTI-SPORTS\n📍 Rue du Stade Epfig 676
+ 80\n🚗 Waze : https://waze.com/ul?ll=48.36239\,7.45754&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2/match/20000001
+ 4660489
+LOCATION:SALLE MULTI-SPORTS\, Rue du Stade Epfig 67680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660489
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-f-2026-10-10-00-00-ohnheim-c-s-s-a-kogenheim
+ -sermersh@ffbb-agenda
+DTSTAMP:20260823T205922Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 OHNHEIM C.S.S.A. – KOGENHEIM/SERMERSHEIM B.C.
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule F\n⚔️ OHNHEIM C
+ .S.S.A. vs KOGENHEIM/SERMERSHEIM B.C.\n\nCENTRE SPORTIF ET CULTUREL\n📍 
+ Place des Fêtes Fegersheim 67640\n🚗 Waze : https://waze.com/ul?ll=48.4
+ 9126\,7.68302&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dmu13-2/match/200000014660491
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660491
+END:VEVENT
+END:VCALENDAR

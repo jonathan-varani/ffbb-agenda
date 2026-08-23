@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA SOUFFELWEYERSHEIM - 2  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASA SOUFFELWEYERSHEIM - 2 – DMU13 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-b-2026-09-12-00-00-strasbourg-electricite-a-s-
+ asa-souff@ffbb-agenda
+DTSTAMP:20260823T205847Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG 
+ ELECTRICITE A.S. vs ASA SOUFFELWEYERSHEIM - 2\n\nCENTRE SPORTIF SUD\n📍 
+ Rue des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.5
+ 5837\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dmu13/match/200000014660359
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660359
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-b-2026-09-19-00-00-asa-souffelweyersheim-2-str
+ asbourg-l@ffbb-agenda
+DTSTAMP:20260823T205847Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule B\n⚔️ ASA SOUFFEL
+ WEYERSHEIM - 2 vs STRASBOURG LIBELLULES B.C.\n\nGYMNASE MUNICIPAL\n📍 Ru
+ e des Sept Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/u
+ l?ll=48.6319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu13/match/200000014660363
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660363
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-b-2026-09-26-00-00-s-u-schiltigheim-basket-bal
+ l-2-asa-s@ffbb-agenda
+DTSTAMP:20260823T205847Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 2 – ASA SOUFFELWEYERSHEIM 
+ - 2
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHILT
+ IGHEIM BASKET BALL - 2 vs ASA SOUFFELWEYERSHEIM - 2\n\nHALL BUGEAUD\n📍 
+ Avenue de Gail Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313\
+ ,7.49122&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu13/match/200000014660364
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660364
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-b-2026-10-03-00-00-saint-joseph-strasbourg-2-a
+ sa-souffe@ffbb-agenda
+DTSTAMP:20260823T205847Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 2 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule B\n⚔️ SAINT JOSEP
+ H - STRASBOURG - 2 vs ASA SOUFFELWEYERSHEIM - 2\n\nCENTRE SPORTIF ESPLANAD
+ E\n📍 Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.577\,7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dmu13/match/200000014660368
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660368
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-b-2026-10-10-00-00-asa-souffelweyersheim-2-str
+ asbourg-a@ffbb-agenda
+DTSTAMP:20260823T205847Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – STRASBOURG ASS
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule B\n⚔️ ASA SOUFFEL
+ WEYERSHEIM - 2 vs STRASBOURG ASS\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept A
+ rpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6319
+ \,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu13/match/200000014660372
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660372
+END:VEVENT
+END:VCALENDAR

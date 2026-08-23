@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB HOENHEIM  [DMU15-2 – GES – Poule C]
+X-WR-CALDESC:Matchs de BASKET CLUB HOENHEIM – DMU15-2 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-09-12-00-00-basket-club-hoenheim-want
+ zenau-la-@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 BASKET CLUB HOENHEIM – WANTZENAU (LA) A.S.C.SP
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ BASKET CL
+ UB HOENHEIM vs WANTZENAU (LA) A.S.C.SP\n\nCENTRE OMNISPORT DU CHENE\n📍 
+ Rue du Stade Hoenheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.62499\,
+ 7.7661&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu15-2/match/200000014661063
+LOCATION:CENTRE OMNISPORT DU CHENE\, Rue du Stade Hoenheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661063
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-09-19-16-00-offendorf-c-s-stpp-basket
+ -club-hoe@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:✈️ OFFENDORF C.S.STPP – BASKET CLUB HOENHEIM
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ OFFENDORF
+  C.S.STPP vs BASKET CLUB HOENHEIM\n\nESPACE SPORTIF ET CULTUREL\n📍 Rue 
+ du Cimetière Offendorf 67850\n🚗 Waze : https://waze.com/ul?ll=48.71254
+ \,7.91868&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu15-2/match/200000014661066
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661066
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-09-26-00-00-basket-club-hoenheim-asa-
+ souffelwe@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BASKET CLUB HOENHEIM – ASA SOUFFELWEYERSHEIM - 3
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ BASKET CL
+ UB HOENHEIM vs ASA SOUFFELWEYERSHEIM - 3\n\nCENTRE OMNISPORT DU CHENE\n
+ 📍 Rue du Stade Hoenheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.62
+ 499\,7.7661&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu15-2/match/200000014661069
+LOCATION:CENTRE OMNISPORT DU CHENE\, Rue du Stade Hoenheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661069
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-10-03-15-00-vendenheim-bc-basket-club
+ -hoenheim@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20261003T150000
+DTEND;TZID=Europe/Paris:20261003T170000
+SUMMARY:✈️ VENDENHEIM BC – BASKET CLUB HOENHEIM
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ VENDENHEI
+ M BC vs BASKET CLUB HOENHEIM\n\nANNEXE GYMNASE MAILFERT\n📍 Rue Charles 
+ Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.71
+ 054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ u15-2/match/200000014661072
+LOCATION:ANNEXE GYMNASE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661072
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-10-10-00-00-basket-club-hoenheim-mund
+ olsheim-b@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BASKET CLUB HOENHEIM – MUNDOLSHEIM B.C.
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ BASKET CL
+ UB HOENHEIM vs MUNDOLSHEIM B.C.\n\nCENTRE OMNISPORT DU CHENE\n📍 Rue du 
+ Stade Hoenheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.62499\,7.7661&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-
+ 2/match/200000014661075
+LOCATION:CENTRE OMNISPORT DU CHENE\, Rue du Stade Hoenheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661075
+END:VEVENT
+END:VCALENDAR

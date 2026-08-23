@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – EPFIG UNITAS  [DFU13-2 – GES – Poule D]
+X-WR-CALDESC:Matchs de EPFIG UNITAS – DFU13-2 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-d-2026-09-12-00-00-bindernheim-c-s-u-epfig-u
+ nitas@ffbb-agenda
+DTSTAMP:20260823T205524Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ BINDERNHEIM C.S.U. – EPFIG UNITAS
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule D\n⚔️ BINDERNHE
+ IM C.S.U. vs EPFIG UNITAS\n\nSALLE POLYVALENTE\n📍 Rue de Witternheim Bi
+ ndernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.28678\,7.60704&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-2/ma
+ tch/200000014660554
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660554
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-d-2026-09-26-00-00-ie-ctc-m2b-basket-club-bi
+ schoffshe@ffbb-agenda
+DTSTAMP:20260823T205524Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC M2B - BASKET CLUB BISCHOFFSHEIM – EPFIG UNITAS
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule D\n⚔️ IE - CTC 
+ M2B - BASKET CLUB BISCHOFFSHEIM vs EPFIG UNITAS\n\nCOMPLEXE SPORTIF\n📍 
+ Rue du Stade Bischoffsheim 67870\n🚗 Waze : https://waze.com/ul?ll=48.48
+ 386\,7.5021&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dfu13-2/match/200000014660559
+LOCATION:COMPLEXE SPORTIF\, Rue du Stade Bischoffsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660559
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-d-2026-10-03-00-00-strasbourg-electricite-a-
+ s-epfig-u@ffbb-agenda
+DTSTAMP:20260823T205524Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. – EPFIG UNITAS
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G ELECTRICITE A.S. vs EPFIG UNITAS\n\nCENTRE SPORTIF SUD\n📍 Rue des Van
+ neaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837\,7.759
+ 77&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu
+ 13-2/match/200000014660563
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660563
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-d-2026-10-10-00-00-epfig-unitas-ohnenheim-s-
+ s-c@ffbb-agenda
+DTSTAMP:20260823T205524Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 EPFIG UNITAS – OHNENHEIM S.S.C.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule D\n⚔️ EPFIG UNI
+ TAS vs OHNENHEIM S.S.C.\n\nSALLE MULTI-SPORTS\n📍 Rue du Stade Epfig 676
+ 80\n🚗 Waze : https://waze.com/ul?ll=48.36239\,7.45754&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-2/match/20000001
+ 4660567
+LOCATION:SALLE MULTI-SPORTS\, Rue du Stade Epfig 67680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660567
+END:VEVENT
+END:VCALENDAR

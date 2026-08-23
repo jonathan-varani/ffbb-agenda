@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – STRASBOURG LIBELLULES B.C.  [DFU11-2 – GES – Poule B]
+X-WR-CALDESC:Matchs de STRASBOURG LIBELLULES B.C. – DFU11-2 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-b-2026-09-12-00-00-strasbourg-libellules-b-c
+ -strasbou@ffbb-agenda
+DTSTAMP:20260823T205545Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 STRASBOURG LIBELLULES B.C. – STRASBOURG ELECTRICITE A.S.
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOUR
+ G LIBELLULES B.C. vs STRASBOURG ELECTRICITE A.S.\n\nGYMNASE GUTENBERG\n
+ 📍 Rue Albert Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll
+ =48.56146\,7.70879&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dfu11-2/match/200000014660133
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660133
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-b-2026-09-19-00-00-basket-club-d-ostwald-str
+ asbourg-l@ffbb-agenda
+DTSTAMP:20260823T205545Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ BASKET CLUB D’OSTWALD – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule B\n⚔️ BASKET CL
+ UB D’OSTWALD vs STRASBOURG LIBELLULES B.C.\n\nCENTRE CULTUREL\n📍 Quai
+  Heydt Ostwald 67540\n🚗 Waze : https://waze.com/ul?ll=48.54627\,7.71237
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11
+ -2/match/200000014660136
+LOCATION:CENTRE CULTUREL\, Quai Heydt Ostwald 67540
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660136
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-b-2026-09-26-00-00-strasbourg-libellules-b-c
+ -duttlenh@ffbb-agenda
+DTSTAMP:20260823T205545Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 STRASBOURG LIBELLULES B.C. – DUTTLENHEIM LC
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOUR
+ G LIBELLULES B.C. vs DUTTLENHEIM LC\n\nGYMNASE GUTENBERG\n📍 Rue Albert 
+ Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.56146\,7.708
+ 79&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu
+ 11-2/match/200000014660139
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660139
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-b-2026-10-03-00-00-s-i-graffenstaden-strasbo
+ urg-libel@ffbb-agenda
+DTSTAMP:20260823T205545Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ S.I. GRAFFENSTADEN – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAF
+ FENSTADEN vs STRASBOURG LIBELLULES B.C.\n\nSALLE DE LA S.I.G.\n📍 Rue de
+  la Poste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll
+ =48.52678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dfu11-2/match/200000014660142
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660142
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-b-2026-10-10-00-00-strasbourg-libellules-b-c
+ -grieshei@ffbb-agenda
+DTSTAMP:20260823T205545Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 STRASBOURG LIBELLULES B.C. – GRIESHEIM P/MOLSHEIM LS
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOUR
+ G LIBELLULES B.C. vs GRIESHEIM P/MOLSHEIM LS\n\nGYMNASE GUTENBERG\n📍 Ru
+ e Albert Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.561
+ 46\,7.70879&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dfu11-2/match/200000014660145
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660145
+END:VEVENT
+END:VCALENDAR

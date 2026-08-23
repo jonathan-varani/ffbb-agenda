@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA SOUFFELWEYERSHEIM - 3  [DMU15-2 – GES – Poule C]
+X-WR-CALDESC:Matchs de ASA SOUFFELWEYERSHEIM - 3 – DMU15-2 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-09-12-17-30-offendorf-c-s-stpp-asa-so
+ uffelweye@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20260912T173000
+DTEND;TZID=Europe/Paris:20260912T193000
+SUMMARY:✈️ OFFENDORF C.S.STPP – ASA SOUFFELWEYERSHEIM - 3
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ OFFENDORF
+  C.S.STPP vs ASA SOUFFELWEYERSHEIM - 3\n\nESPACE SPORTIF ET CULTUREL\n📍
+  Rue du Cimetière Offendorf 67850\n🚗 Waze : https://waze.com/ul?ll=48.
+ 71254\,7.91868&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dmu15-2/match/200000014661064
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661064
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-09-19-00-00-asa-souffelweyersheim-3-m
+ undolshei@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 3 – MUNDOLSHEIM B.C.
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ ASA SOUFF
+ ELWEYERSHEIM - 3 vs MUNDOLSHEIM B.C.\n\nGYMNASE MUNICIPAL\n📍 Rue des Se
+ pt Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.
+ 6319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dmu15-2/match/200000014661068
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661068
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-09-26-00-00-basket-club-hoenheim-asa-
+ souffelwe@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BASKET CLUB HOENHEIM – ASA SOUFFELWEYERSHEIM - 3
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ BASKET CL
+ UB HOENHEIM vs ASA SOUFFELWEYERSHEIM - 3\n\nCENTRE OMNISPORT DU CHENE\n
+ 📍 Rue du Stade Hoenheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.62
+ 499\,7.7661&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu15-2/match/200000014661069
+LOCATION:CENTRE OMNISPORT DU CHENE\, Rue du Stade Hoenheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661069
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-10-03-00-00-wantzenau-la-a-s-c-sp-asa
+ -souffelw@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ WANTZENAU (LA) A.S.C.SP – ASA SOUFFELWEYERSHEIM - 3
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ WANTZENAU
+  (LA) A.S.C.SP vs ASA SOUFFELWEYERSHEIM - 3\n\nESPACE JC KLEIN\n📍 Rue d
+ es Vergers La Wantzenau 67610\n🚗 Waze : https://waze.com/ul?ll=48.66013
+ \,7.83203&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu15-2/match/200000014661073
+LOCATION:ESPACE JC KLEIN\, Rue des Vergers La Wantzenau 67610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661073
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-c-2026-10-10-00-00-asa-souffelweyersheim-3-v
+ endenheim@ffbb-agenda
+DTSTAMP:20260823T205825Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 3 – VENDENHEIM BC
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule C\n⚔️ ASA SOUFF
+ ELWEYERSHEIM - 3 vs VENDENHEIM BC\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept 
+ Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.631
+ 9\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu15-2/match/200000014661077
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661077
+END:VEVENT
+END:VCALENDAR

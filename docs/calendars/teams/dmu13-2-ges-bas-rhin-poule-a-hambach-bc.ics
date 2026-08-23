@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – HAMBACH BC  [DMU13-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de HAMBACH BC – DMU13-2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-a-2026-09-19-00-00-ie-ctc-marle-soultz-marle
+ nheim-bc-@ffbb-agenda
+DTSTAMP:20260823T205901Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ IE - CTC MARLE-SOULTZ - MARLENHEIM BC - 2 – HAMBACH BC
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule A\n⚔️ IE - CTC 
+ MARLE-SOULTZ - MARLENHEIM BC - 2 vs HAMBACH BC\n\nSALLE OMNISPORTS\n📍 R
+ ue de l'Usine Marlenheim 67520\n🚗 Waze : https://waze.com/ul?ll=48.6182
+ 7\,7.49015&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dmu13-2/match/200000014660408
+LOCATION:SALLE OMNISPORTS\, Rue de l'Usine Marlenheim 67520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660408
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-a-2026-09-26-00-00-hambach-bc-w-o-s-b@ffbb-a
+ genda
+DTSTAMP:20260823T205901Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 HAMBACH BC – W.O.S.B.
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH B
+ C vs W.O.S.B.\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambach 57910\n🚗 
+ Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0067/competitions/dmu13-2/match/200000014660410
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660410
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-a-2026-10-03-00-00-hambach-bc-hattmatt-ss@ff
+ bb-agenda
+DTSTAMP:20260823T205901Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 HAMBACH BC – HATTMATT SS
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH B
+ C vs HATTMATT SS\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambach 57910\n
+ 🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2/match/2000000146604
+ 14
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660414
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-a-2026-10-10-00-00-keskastel-bc-hambach-bc@f
+ fbb-agenda
+DTSTAMP:20260823T205901Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ KESKASTEL BC – HAMBACH BC
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule A\n⚔️ KESKASTEL
+  BC vs HAMBACH BC\n\nSALLE POLYVALENTE\n📍 Rue de la Fontaine Keskastel 
+ 67260\n🚗 Waze : https://waze.com/ul?ll=48.97217\,7.04804&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2/match/200000
+ 014660415
+LOCATION:SALLE POLYVALENTE\, Rue de la Fontaine Keskastel 67260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660415
+END:VEVENT
+END:VCALENDAR

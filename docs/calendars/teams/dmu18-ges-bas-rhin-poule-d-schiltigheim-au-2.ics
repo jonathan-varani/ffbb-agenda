@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SCHILTIGHEIM AU - 2  [DMU18 – GES – Poule D]
+X-WR-CALDESC:Matchs de SCHILTIGHEIM AU - 2 – DMU18 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-09-12-00-00-schweighouse-ohlungen-b-c-s
+ chiltighe@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ SCHWEIGHOUSE/OHLUNGEN B.C. – SCHILTIGHEIM AU - 2
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ SCHWEIGHOUS
+ E/OHLUNGEN B.C. vs SCHILTIGHEIM AU - 2\n\nCENTRE ROBERT KAEUFLING\n📍 Ru
+ e des Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https://waze.com/ul
+ ?ll=48.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 67/competitions/dmu18/match/200000014660839
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660839
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-09-19-00-00-schiltigheim-au-2-unitas-br
+ umath-bas@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 SCHILTIGHEIM AU - 2 – UNITAS BRUMATH BASKET
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ SCHILTIGHEI
+ M AU - 2 vs UNITAS BRUMATH BASKET\n\nGYMNASE DES MALTERIES 1\n📍 Rue des
+  Malteries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445
+ \,7.74374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu18/match/200000014660843
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660843
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-09-26-00-00-basket-club-hoenheim-schilt
+ igheim-au@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BASKET CLUB HOENHEIM – SCHILTIGHEIM AU - 2
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ BASKET CLUB
+  HOENHEIM vs SCHILTIGHEIM AU - 2\n\nCENTRE OMNISPORT DU CHENE\n📍 Rue du
+  Stade Hoenheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.62499\,7.7661
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18
+ /match/200000014660844
+LOCATION:CENTRE OMNISPORT DU CHENE\, Rue du Stade Hoenheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660844
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-10-03-00-00-asa-souffelweyersheim-3-sch
+ iltigheim@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 3 – SCHILTIGHEIM AU - 2
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ ASA SOUFFEL
+ WEYERSHEIM - 3 vs SCHILTIGHEIM AU - 2\n\nGYMNASE MUNICIPAL\n📍 Rue des S
+ ept Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48
+ .6319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu18/match/200000014660848
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660848
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-10-10-00-00-schiltigheim-au-2-vendenhei
+ m-bc-2@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 SCHILTIGHEIM AU - 2 – VENDENHEIM BC - 2
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ SCHILTIGHEI
+ M AU - 2 vs VENDENHEIM BC - 2\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Mal
+ teries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.
+ 74374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu18/match/200000014660852
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660852
+END:VEVENT
+END:VCALENDAR

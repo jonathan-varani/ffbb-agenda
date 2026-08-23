@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VAL DE VILLE B.C.  [DMU11-2 – GES – Poule H]
+X-WR-CALDESC:Matchs de VAL DE VILLE B.C. – DMU11-2 – GES – Bas-Rhin – Poule H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-h-2026-09-12-00-00-val-de-ville-b-c-ohnenhei
+ m-s-s-c@ffbb-agenda
+DTSTAMP:20260823T210006Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 VAL DE VILLE B.C. – OHNENHEIM S.S.C.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule H\n⚔️ VAL DE VI
+ LLE B.C. vs OHNENHEIM S.S.C.\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé 
+ 67220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2/match/200000
+ 014660283
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660283
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-h-2026-09-19-00-00-selestat-bc-val-de-ville-
+ b-c@ffbb-agenda
+DTSTAMP:20260823T210006Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ SELESTAT BC – VAL DE VILLE B.C.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule H\n⚔️ SELESTAT 
+ BC vs VAL DE VILLE B.C.\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré Sélest
+ at 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2/match/200
+ 000014660286
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660286
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-h-2026-09-26-00-00-val-de-ville-b-c-erstein-
+ bc-2@ffbb-agenda
+DTSTAMP:20260823T210006Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 VAL DE VILLE B.C. – ERSTEIN BC - 2
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule H\n⚔️ VAL DE VI
+ LLE B.C. vs ERSTEIN BC - 2\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé 67
+ 220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2/match/20000001
+ 4660289
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660289
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-h-2026-10-03-00-00-ie-ctc-sow-schaeffersheim
+ -a-s-l-c-@ffbb-agenda
+DTSTAMP:20260823T210006Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C. - 2 – VAL DE VILLE 
+ B.C.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule H\n⚔️ IE - CTC 
+ SOW - SCHAEFFERSHEIM A.S.L.C. - 2 vs VAL DE VILLE B.C.\n\nSALLE EUGENE MAR
+ TZ\n📍 Rue Belle Vue Schaeffersheim 67150\n🚗 Waze : https://waze.com/
+ ul?ll=48.42801\,7.61627&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0067/competitions/dmu11-2/match/200000014660292
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue Schaeffersheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660292
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-h-2026-10-10-00-00-val-de-ville-b-c-s-i-graf
+ fenstaden@ffbb-agenda
+DTSTAMP:20260823T210006Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 VAL DE VILLE B.C. – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule H\n⚔️ VAL DE VI
+ LLE B.C. vs S.I. GRAFFENSTADEN - 3\n\nCENTRE SPORTIF\n📍 Rue Belle Vue V
+ illé 67220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2/match/
+ 200000014660295
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660295
+END:VEVENT
+END:VCALENDAR

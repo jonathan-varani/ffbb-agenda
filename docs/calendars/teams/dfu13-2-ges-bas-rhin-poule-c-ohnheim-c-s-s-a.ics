@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – OHNHEIM C.S.S.A.  [DFU13-2 – GES – Poule C]
+X-WR-CALDESC:Matchs de OHNHEIM C.S.S.A. – DFU13-2 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-c-2026-09-12-00-00-strasbourg-ass-ohnheim-c-
+ s-s-a@ffbb-agenda
+DTSTAMP:20260823T205520Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ STRASBOURG ASS – OHNHEIM C.S.S.A.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule C\n⚔️ STRASBOUR
+ G ASS vs OHNHEIM C.S.S.A.\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss S
+ trasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-2/mat
+ ch/200000014660539
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660539
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-c-2026-09-19-00-00-ohnheim-c-s-s-a-bischheim
+ -bs@ffbb-agenda
+DTSTAMP:20260823T205520Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 OHNHEIM C.S.S.A. – BISCHHEIM BS
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule C\n⚔️ OHNHEIM C
+ .S.S.A. vs BISCHHEIM BS\n\nCENTRE SPORTIF ET CULTUREL\n📍 Place des Fêt
+ es Fegersheim 67640\n🚗 Waze : https://waze.com/ul?ll=48.49126\,7.68302&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-
+ 2/match/200000014660543
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660543
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-c-2026-09-26-00-00-s-u-schiltigheim-basket-b
+ all-ohnhe@ffbb-agenda
+DTSTAMP:20260823T205520Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – OHNHEIM C.S.S.A.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule C\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL vs OHNHEIM C.S.S.A.\n\nHALL BUGEAUD\n📍 Avenue de G
+ ail Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313\,7.49122&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-2/
+ match/200000014660544
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660544
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-c-2026-10-03-00-00-strasbourg-js-koenigshoff
+ en-ohnhei@ffbb-agenda
+DTSTAMP:20260823T205520Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ STRASBOURG JS KOENIGSHOFFEN – OHNHEIM C.S.S.A.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule C\n⚔️ STRASBOUR
+ G JS KOENIGSHOFFEN vs OHNHEIM C.S.S.A.\n\nSALLE DES POTERIES\n📍 Rue Col
+ ette Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.58593\,7.6991
+ 7&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660548
+LOCATION:SALLE DES POTERIES\, Rue Colette Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660548
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-c-2026-10-10-00-00-ohnheim-c-s-s-a-strasbour
+ g-libellu@ffbb-agenda
+DTSTAMP:20260823T205520Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 OHNHEIM C.S.S.A. – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule C\n⚔️ OHNHEIM C
+ .S.S.A. vs STRASBOURG LIBELLULES B.C.\n\nCENTRE SPORTIF ET CULTUREL\n📍 
+ Place des Fêtes Fegersheim 67640\n🚗 Waze : https://waze.com/ul?ll=48.4
+ 9126\,7.68302&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dfu13-2/match/200000014660552
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660552
+END:VEVENT
+END:VCALENDAR

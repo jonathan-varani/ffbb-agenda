@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB NORD ALSACE  [DMU11-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB NORD ALSACE – DMU11-2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-a-2026-09-12-00-00-schirrhein-c-s-c-sn-2-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260823T205944Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN - 2 – BASKET CLUB NORD ALSACE
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 2 vs BASKET CLUB NORD ALSACE\n\nSALLE POLYVALENTE (ANNEXE)\n
+ 📍 Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.
+ 80224\,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dmu11-2/match/200000014660179
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660179
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-a-2026-09-26-00-00-bitche-pays-de-basket-clu
+ b-nord-al@ffbb-agenda
+DTSTAMP:20260823T205944Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BITCHE (PAYS DE) – BASKET CLUB NORD ALSACE
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (P
+ AYS DE) vs BASKET CLUB NORD ALSACE\n\nCOSEC\n📍 Rue du Capitaine Mondell
+ i Bitche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2/matc
+ h/200000014660184
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660184
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-a-2026-10-03-00-00-schweighouse-ohlungen-b-c
+ -basket-c@ffbb-agenda
+DTSTAMP:20260823T205944Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ SCHWEIGHOUSE/OHLUNGEN B.C. – BASKET CLUB NORD ALSACE
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule A\n⚔️ SCHWEIGHO
+ USE/OHLUNGEN B.C. vs BASKET CLUB NORD ALSACE\n\nCENTRE ROBERT KAEUFLING\n
+ 📍 Rue des Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https://waze
+ .com/ul?ll=48.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0067/competitions/dmu11-2/match/200000014660188
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660188
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-a-2026-10-10-00-00-basket-club-nord-alsace-a
+ sa-gries-@ffbb-agenda
+DTSTAMP:20260823T205944Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE – ASA GRIES / OBERHOFFEN - 2
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule A\n⚔️ BASKET CL
+ UB NORD ALSACE vs ASA GRIES / OBERHOFFEN - 2\n\nMAISON DES SPORTS\n📍 Im
+ passe du Tournoi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.813
+ 68\,7.79253&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu11-2/match/200000014660192
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660192
+END:VEVENT
+END:VCALENDAR

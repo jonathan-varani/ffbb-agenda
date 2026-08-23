@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WANGENBOURG-ENGENTHAL U.S.  [DMU11-2 – GES – Poule G]
+X-WR-CALDESC:Matchs de WANGENBOURG-ENGENTHAL U.S. – DMU11-2 – GES – Bas-Rhin – Poule G
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-g-2026-09-12-00-00-obernai-c-a-wangenbourg-e
+ ngenthal-@ffbb-agenda
+DTSTAMP:20260823T210003Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ OBERNAI C.A. – WANGENBOURG-ENGENTHAL U.S.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule G\n⚔️ OBERNAI C
+ .A. vs WANGENBOURG-ENGENTHAL U.S.\n\nHALL BUGEAUD\n📍 Avenue de Gail Obe
+ rnai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313\,7.49122&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2/match/2
+ 00000014660269
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660269
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-g-2026-09-19-00-00-wangenbourg-engenthal-u-s
+ -rosheim-@ffbb-agenda
+DTSTAMP:20260823T210003Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. – ROSHEIM CA - 2
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule G\n⚔️ WANGENBOU
+ RG-ENGENTHAL U.S. vs ROSHEIM CA - 2\n\nSALLE POLYVALENTE\n📍 Lieu-dit En
+ genthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : https://waze.com/u
+ l?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/dmu11-2/match/200000014660273
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660273
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-g-2026-09-26-00-00-ie-ctc-sow-osthouse-cstb-
+ 1-wangenb@ffbb-agenda
+DTSTAMP:20260823T210003Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC SOW - OSTHOUSE CSTB - 1 – WANGENBOURG-ENGENTHAL U
+ .S.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule G\n⚔️ IE - CTC 
+ SOW - OSTHOUSE CSTB - 1 vs WANGENBOURG-ENGENTHAL U.S.\n\nSALLE POLYVALENTE
+ \n📍 Rue du Looch Osthouse 67150\n🚗 Waze : https://waze.com/ul?ll=48.
+ 4026\,7.64489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dmu11-2/match/200000014660274
+LOCATION:SALLE POLYVALENTE\, Rue du Looch Osthouse 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660274
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-g-2026-10-03-00-00-epfig-unitas-wangenbourg-
+ engenthal@ffbb-agenda
+DTSTAMP:20260823T210003Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ EPFIG UNITAS – WANGENBOURG-ENGENTHAL U.S.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule G\n⚔️ EPFIG UNI
+ TAS vs WANGENBOURG-ENGENTHAL U.S.\n\nSALLE MULTI-SPORTS\n📍 Rue du Stade
+  Epfig 67680\n🚗 Waze : https://waze.com/ul?ll=48.36239\,7.45754&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2/match
+ /200000014660278
+LOCATION:SALLE MULTI-SPORTS\, Rue du Stade Epfig 67680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660278
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-g-2026-10-10-00-00-wangenbourg-engenthal-u-s
+ -bruche-s@ffbb-agenda
+DTSTAMP:20260823T210003Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 WANGENBOURG-ENGENTHAL U.S. – BRUCHE SPORTS ACADEMY - 2
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule G\n⚔️ WANGENBOU
+ RG-ENGENTHAL U.S. vs BRUCHE SPORTS ACADEMY - 2\n\nSALLE POLYVALENTE\n📍 
+ Lieu-dit Engenthal le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0067/competitions/dmu11-2/match/200000014660282
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660282
+END:VEVENT
+END:VCALENDAR

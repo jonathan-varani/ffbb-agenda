@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NBC SARREBOURG  [DMU11 – GES – Poule B]
+X-WR-CALDESC:Matchs de NBC SARREBOURG – DMU11 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-b-2026-09-12-13-30-nbc-sarrebourg-bask-furdenh
+ eim-2@ffbb-agenda
+DTSTAMP:20260823T205934Z
+DTSTART;TZID=Europe/Paris:20260912T133000
+DTEND;TZID=Europe/Paris:20260912T153000
+SUMMARY:🏠 NBC SARREBOURG – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule B\n⚔️ NBC SARREBO
+ URG vs BASK FURDENHEIM - 2\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebou
+ rg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11/match/20000
+ 0014660056
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660056
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-b-2026-09-20-15-30-nbc-sarrebourg-duttlenheim-
+ lc@ffbb-agenda
+DTSTAMP:20260823T205934Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 NBC SARREBOURG – DUTTLENHEIM LC
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule B\n⚔️ NBC SARREBO
+ URG vs DUTTLENHEIM LC\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 57
+ 400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11/match/2000000146
+ 60058
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660058
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-b-2026-10-03-00-00-eckbolsheim-bb-nbc-sarrebou
+ rg@ffbb-agenda
+DTSTAMP:20260823T205934Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ECKBOLSHEIM BB – NBC SARREBOURG
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM
+  BB vs NBC SARREBOURG\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 672
+ 01\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11/match/2000000146
+ 60066
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660066
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-b-2026-10-11-13-30-nbc-sarrebourg-w-o-s-b@ffbb
+ -agenda
+DTSTAMP:20260823T205934Z
+DTSTART;TZID=Europe/Paris:20261011T133000
+DTEND;TZID=Europe/Paris:20261011T153000
+SUMMARY:🏠 NBC SARREBOURG – W.O.S.B.
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule B\n⚔️ NBC SARREBO
+ URG vs W.O.S.B.\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 57400\n
+ 🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/dmu11/match/200000014660068
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660068
+END:VEVENT
+END:VCALENDAR

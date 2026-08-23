@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA GRIES / OBERHOFFEN - 2  [DMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de ASA GRIES / OBERHOFFEN - 2 – DMU13 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-a-2026-09-12-00-00-asa-gries-oberhoffen-2-grie
+ sheim-din@ffbb-agenda
+DTSTAMP:20260823T205842Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 2 – GRIESHEIM/DINGSHEIM B.C.
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule A\n⚔️ ASA GRIES /
+  OBERHOFFEN - 2 vs GRIESHEIM/DINGSHEIM B.C.\n\nESPACE SPORT LA FORET\n📍
+  Rue du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.
+ 81972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu13/match/200000014660343
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660343
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-a-2026-09-19-13-30-nbc-sarrebourg-asa-gries-ob
+ erhoffen-@ffbb-agenda
+DTSTAMP:20260823T205842Z
+DTSTART;TZID=Europe/Paris:20260919T133000
+DTEND;TZID=Europe/Paris:20260919T153000
+SUMMARY:✈️ NBC SARREBOURG – ASA GRIES / OBERHOFFEN - 2
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule A\n⚔️ NBC SARREBO
+ URG vs ASA GRIES / OBERHOFFEN - 2\n\nCOSEC\n📍 Rue Pierre de Coubertin S
+ arrebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13/matc
+ h/200000014660346
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660346
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-a-2026-09-26-00-00-asa-gries-oberhoffen-2-eckb
+ olsheim-b@ffbb-agenda
+DTSTAMP:20260823T205842Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 2 – ECKBOLSHEIM BB
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule A\n⚔️ ASA GRIES /
+  OBERHOFFEN - 2 vs ECKBOLSHEIM BB\n\nESPACE SPORT LA FORET\n📍 Rue du St
+ ade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13/matc
+ h/200000014660349
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660349
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-a-2026-10-10-00-00-asa-gries-oberhoffen-2-vend
+ enheim-bc@ffbb-agenda
+DTSTAMP:20260823T205842Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 2 – VENDENHEIM BC
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule A\n⚔️ ASA GRIES /
+  OBERHOFFEN - 2 vs VENDENHEIM BC\n\nESPACE SPORT LA FORET\n📍 Rue du Sta
+ de Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13/match
+ /200000014660355
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660355
+END:VEVENT
+END:VCALENDAR

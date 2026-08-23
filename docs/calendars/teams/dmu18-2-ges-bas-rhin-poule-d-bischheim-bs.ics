@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BISCHHEIM BS  [DMU18-2 – GES – Poule D]
+X-WR-CALDESC:Matchs de BISCHHEIM BS – DMU18-2 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-d-2026-09-19-00-00-strasbourg-js-koenigshoff
+ en-bischh@ffbb-agenda
+DTSTAMP:20260823T205746Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ STRASBOURG JS KOENIGSHOFFEN – BISCHHEIM BS
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G JS KOENIGSHOFFEN vs BISCHHEIM BS\n\nSALLE DES POTERIES\n📍 Rue Colette
+  Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.58593\,7.69917&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2/
+ match/200000014660932
+LOCATION:SALLE DES POTERIES\, Rue Colette Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660932
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-d-2026-09-26-00-00-bischheim-bs-strasbourg-a
+ ss-2@ffbb-agenda
+DTSTAMP:20260823T205746Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BISCHHEIM BS – STRASBOURG ASS - 2
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule D\n⚔️ BISCHHEIM
+  BS vs STRASBOURG ASS - 2\n\nGYMNASE LAMARTINE\n📍 Rue Lamartine Bischhe
+ im 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2/match/200
+ 000014660936
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660936
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-d-2026-10-03-00-00-bischheim-bs-wantzenau-la
+ -a-s-c-sp@ffbb-agenda
+DTSTAMP:20260823T205746Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BISCHHEIM BS – WANTZENAU (LA) A.S.C.SP
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule D\n⚔️ BISCHHEIM
+  BS vs WANTZENAU (LA) A.S.C.SP\n\nGYMNASE LAMARTINE\n📍 Rue Lamartine Bi
+ schheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2/matc
+ h/200000014660937
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660937
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-d-2026-10-10-00-00-strasbourg-menora-as-bisc
+ hheim-bs@ffbb-agenda
+DTSTAMP:20260823T205746Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ STRASBOURG MENORA AS – BISCHHEIM BS
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G MENORA AS vs BISCHHEIM BS\n\nGYMNASE AQUIBA-MENORA\n📍 Boulevard Pierr
+ e Pflimlin Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.5994\,7
+ .77113&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu18-2/match/200000014660942
+LOCATION:GYMNASE AQUIBA-MENORA\, Boulevard Pierre Pflimlin Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660942
+END:VEVENT
+END:VCALENDAR

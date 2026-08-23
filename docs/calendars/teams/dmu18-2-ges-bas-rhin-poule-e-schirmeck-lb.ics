@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SCHIRMECK LB  [DMU18-2 – GES – Poule E]
+X-WR-CALDESC:Matchs de SCHIRMECK LB – DMU18-2 – GES – Bas-Rhin – Poule E
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-e-2026-09-12-00-00-schirmeck-lb-ie-ctc-m2b-m
+ olsheim-c@ffbb-agenda
+DTSTAMP:20260823T205751Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 SCHIRMECK LB – IE - CTC M2B - MOLSHEIM CSTG - 2
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule E\n⚔️ SCHIRMECK
+  LB vs IE - CTC M2B - MOLSHEIM CSTG - 2\n\nHALL DES SPORTS SCHIRMECK\n📍
+  Rue des Grives Schirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.482
+ 12\,7.22795&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu18-2/match/200000014660944
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660944
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-e-2026-09-19-00-00-schirmeck-lb-bruche-sport
+ s-academy@ffbb-agenda
+DTSTAMP:20260823T205751Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 SCHIRMECK LB – BRUCHE SPORTS ACADEMY
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule E\n⚔️ SCHIRMECK
+  LB vs BRUCHE SPORTS ACADEMY\n\nHALL DES SPORTS SCHIRMECK\n📍 Rue des Gr
+ ives Schirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.48212\,7.22795
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18
+ -2/match/200000014660946
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660946
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-e-2026-10-03-00-00-griesheim-dingsheim-b-c-s
+ chirmeck-@ffbb-agenda
+DTSTAMP:20260823T205751Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ GRIESHEIM/DINGSHEIM B.C. – SCHIRMECK LB
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule E\n⚔️ GRIESHEIM
+ /DINGSHEIM B.C. vs SCHIRMECK LB\n\nLES PORTES DU KOCHERSBERG\n📍 Rue du 
+ Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.63873\,
+ 7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu18-2/match/200000014660954
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660954
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-e-2026-10-10-00-00-schirmeck-lb-erstein-bc-2
+ @ffbb-agenda
+DTSTAMP:20260823T205751Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 SCHIRMECK LB – ERSTEIN BC - 2
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule E\n⚔️ SCHIRMECK
+  LB vs ERSTEIN BC - 2\n\nHALL DES SPORTS SCHIRMECK\n📍 Rue des Grives Sc
+ hirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.48212\,7.22795&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2/matc
+ h/200000014660956
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660956
+END:VEVENT
+END:VCALENDAR

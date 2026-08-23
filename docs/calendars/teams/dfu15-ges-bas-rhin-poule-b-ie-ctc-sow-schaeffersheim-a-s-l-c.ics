@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C.  [DFU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C. – DFU15 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-b-2026-09-12-00-00-ie-ctc-sow-schaeffersheim-a
+ -s-l-c-es@ffbb-agenda
+DTSTAMP:20260823T205422Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C. – ESCHAU BC
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC SO
+ W - SCHAEFFERSHEIM A.S.L.C. vs ESCHAU BC\n\nSALLE EUGENE MARTZ\n📍 Rue B
+ elle Vue Schaeffersheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.42801
+ \,7.61627&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dfu15/match/200000014660583
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue Schaeffersheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660583
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-b-2026-09-19-00-00-strasbourg-electricite-a-s-
+ ie-ctc-so@ffbb-agenda
+DTSTAMP:20260823T205422Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ STRASBOURG ELECTRICITE A.S. – IE - CTC SOW - SCHAEFFERSHEI
+ M A.S.L.C.
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG 
+ ELECTRICITE A.S. vs IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C.\n\nCENTRE SPORT
+ IF SUD\n📍 Rue des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.c
+ om/ul?ll=48.55837\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0067/competitions/dfu15/match/200000014660586
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660586
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-b-2026-09-26-00-00-ie-ctc-sow-schaeffersheim-a
+ -s-l-c-st@ffbb-agenda
+DTSTAMP:20260823T205422Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C. – STRASBOURG LIBELLUL
+ ES B.C.
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC SO
+ W - SCHAEFFERSHEIM A.S.L.C. vs STRASBOURG LIBELLULES B.C.\n\nSALLE EUGENE 
+ MARTZ\n📍 Rue Belle Vue Schaeffersheim 67150\n🚗 Waze : https://waze.c
+ om/ul?ll=48.42801\,7.61627&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0067/competitions/dfu15/match/200000014660589
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue Schaeffersheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660589
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-b-2026-10-03-00-00-bruche-sports-academy-ie-ct
+ c-sow-sch@ffbb-agenda
+DTSTAMP:20260823T205422Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BRUCHE SPORTS ACADEMY – IE - CTC SOW - SCHAEFFERSHEIM A.S.
+ L.C.
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule B\n⚔️ BRUCHE SPOR
+ TS ACADEMY vs IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C.\n\nGYMNASE INTERCOMMU
+ NAL\n📍 Rue Curie Gresswiller 67190\n🚗 Waze : https://waze.com/ul?ll=
+ 48.5343\,7.42123&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dfu15/match/200000014660592
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue Curie Gresswiller 67190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660592
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-b-2026-10-10-00-00-ie-ctc-sow-schaeffersheim-a
+ -s-l-c-gr@ffbb-agenda
+DTSTAMP:20260823T205422Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C. – GRIESHEIM/DINGSHEIM
+  B.C.
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC SO
+ W - SCHAEFFERSHEIM A.S.L.C. vs GRIESHEIM/DINGSHEIM B.C.\n\nSALLE EUGENE MA
+ RTZ\n📍 Rue Belle Vue Schaeffersheim 67150\n🚗 Waze : https://waze.com
+ /ul?ll=48.42801\,7.61627&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0067/competitions/dfu15/match/200000014660595
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue Schaeffersheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660595
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – STRASBOURG ELECTRICITE A.S.  [DMU15 – GES – Poule C]
+X-WR-CALDESC:Matchs de STRASBOURG ELECTRICITE A.S. – DMU15 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-c-2026-09-19-00-00-saint-joseph-strasbourg-2-s
+ trasbourg@ffbb-agenda
+DTSTAMP:20260823T205807Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 2 – STRASBOURG ELECTRICITE A.S
+ .
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule C\n⚔️ SAINT JOSEP
+ H - STRASBOURG - 2 vs STRASBOURG ELECTRICITE A.S.\n\nCENTRE SPORTIF ESPLAN
+ ADE\n📍 Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll
+ =48.577\,7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu15/match/200000014660707
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660707
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-c-2026-09-26-00-00-strasbourg-electricite-a-s-
+ griesheim@ffbb-agenda
+DTSTAMP:20260823T205807Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 STRASBOURG ELECTRICITE A.S. – GRIESHEIM/DINGSHEIM B.C.
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule C\n⚔️ STRASBOURG 
+ ELECTRICITE A.S. vs GRIESHEIM/DINGSHEIM B.C.\n\nCENTRE SPORTIF SUD\n📍 R
+ ue des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55
+ 837\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/dmu15/match/200000014660711
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660711
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-c-2026-10-03-00-00-strasbourg-electricite-a-s-
+ s-i-graff@ffbb-agenda
+DTSTAMP:20260823T205807Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 STRASBOURG ELECTRICITE A.S. – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule C\n⚔️ STRASBOURG 
+ ELECTRICITE A.S. vs S.I. GRAFFENSTADEN - 3\n\nCENTRE SPORTIF SUD\n📍 Rue
+  des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.5583
+ 7\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dmu15/match/200000014660712
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660712
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-c-2026-10-10-00-00-basket-club-d-ostwald-stras
+ bourg-ele@ffbb-agenda
+DTSTAMP:20260823T205807Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BASKET CLUB D’OSTWALD – STRASBOURG ELECTRICITE A.S.
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule C\n⚔️ BASKET CLUB
+  D’OSTWALD vs STRASBOURG ELECTRICITE A.S.\n\nCENTRE CULTUREL\n📍 Quai 
+ Heydt Ostwald 67540\n🚗 Waze : https://waze.com/ul?ll=48.54627\,7.71237&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15/
+ match/200000014660717
+LOCATION:CENTRE CULTUREL\, Quai Heydt Ostwald 67540
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660717
+END:VEVENT
+END:VCALENDAR

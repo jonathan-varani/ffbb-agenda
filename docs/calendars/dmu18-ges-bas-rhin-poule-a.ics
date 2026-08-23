@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DMU18 – GES – Bas-Rhin – Poule A
+X-WR-CALDESC:Tous les matchs DMU18 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-09-12-00-00-saverne-tricolore-st-jean-h
+ ambach-bc@ffbb-agenda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:SAVERNE TRICOLORE ST JEAN – HAMBACH BC
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE TRI
+ COLORE ST JEAN vs HAMBACH BC\n\nSALLE DES SPORTS DE ST J SAVERNE\n📍 Rue
+  de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : https://waze.com/ul?l
+ l=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu18/match/200000014660794
+LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
+ verne 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660794
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-09-12-00-00-keskastel-bc-w-o-s-b@ffbb-a
+ genda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:KESKASTEL BC – W.O.S.B.
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ KESKASTEL B
+ C vs W.O.S.B.\n\nSALLE POLYVALENTE\n📍 Rue de la Fontaine Keskastel 6726
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.97217\,7.04804&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match/2000000146
+ 60793
+LOCATION:SALLE POLYVALENTE\, Rue de la Fontaine Keskastel 67260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660793
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-09-19-00-00-w-o-s-b-nbc-sarrebourg@ffbb
+ -agenda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:W.O.S.B. – NBC SARREBOURG
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. vs
+  NBC SARREBOURG\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Otterswil
+ ler 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match/2000
+ 00014660797
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660797
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-09-19-00-00-saverne-tricolore-st-jean-k
+ eskastel-@ffbb-agenda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:SAVERNE TRICOLORE ST JEAN – KESKASTEL BC
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE TRI
+ COLORE ST JEAN vs KESKASTEL BC\n\nSALLE DES SPORTS DE ST J SAVERNE\n📍 R
+ ue de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : https://waze.com/ul
+ ?ll=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/dmu18/match/200000014660796
+LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
+ verne 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660796
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-09-26-00-00-keskastel-bc-hambach-bc@ffb
+ b-agenda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:KESKASTEL BC – HAMBACH BC
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ KESKASTEL B
+ C vs HAMBACH BC\n\nSALLE POLYVALENTE\n📍 Rue de la Fontaine Keskastel 67
+ 260\n🚗 Waze : https://waze.com/ul?ll=48.97217\,7.04804&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match/2000000146
+ 60799
+LOCATION:SALLE POLYVALENTE\, Rue de la Fontaine Keskastel 67260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660799
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-09-26-17-30-nbc-sarrebourg-saverne-tric
+ olore-st-@ffbb-agenda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20260926T173000
+DTEND;TZID=Europe/Paris:20260926T193000
+SUMMARY:NBC SARREBOURG – SAVERNE TRICOLORE ST JEAN
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ NBC SARREBO
+ URG vs SAVERNE TRICOLORE ST JEAN\n\nCOSEC\n📍 Rue Pierre de Coubertin Sa
+ rrebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match
+ /200000014660801
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660801
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-10-03-00-00-w-o-s-b-hambach-bc@ffbb-age
+ nda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:W.O.S.B. – HAMBACH BC
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. vs
+  HAMBACH BC\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Otterswiller 
+ 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match/20000001
+ 4660803
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660803
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-10-03-15-30-nbc-sarrebourg-keskastel-bc
+ @ffbb-agenda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:NBC SARREBOURG – KESKASTEL BC
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ NBC SARREBO
+ URG vs KESKASTEL BC\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 5740
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match/2000000146
+ 60802
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660802
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-10-10-00-00-hambach-bc-nbc-sarrebourg@f
+ fbb-agenda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:HAMBACH BC – NBC SARREBOURG
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC 
+ vs NBC SARREBOURG\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambach 57910\n
+ 🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match/200000014660807
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660807
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-a-2026-10-10-00-00-saverne-tricolore-st-jean-w
+ -o-s-b@ffbb-agenda
+DTSTAMP:20260823T205709Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:SAVERNE TRICOLORE ST JEAN – W.O.S.B.
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE TRI
+ COLORE ST JEAN vs W.O.S.B.\n\nSALLE DES SPORTS DE ST J SAVERNE\n📍 Rue d
+ e Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : https://waze.com/ul?ll=
+ 48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu18/match/200000014660806
+LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
+ verne 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660806
+END:VEVENT
+END:VCALENDAR

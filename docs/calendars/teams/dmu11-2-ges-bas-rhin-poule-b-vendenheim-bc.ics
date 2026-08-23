@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VENDENHEIM BC  [DMU11-2 – GES – Poule B]
+X-WR-CALDESC:Matchs de VENDENHEIM BC – DMU11-2 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-b-2026-09-12-15-15-vendenheim-bc-schweighous
+ e-ohlunge@ffbb-agenda
+DTSTAMP:20260823T205947Z
+DTSTART;TZID=Europe/Paris:20260912T151500
+DTEND;TZID=Europe/Paris:20260912T171500
+SUMMARY:🏠 VENDENHEIM BC – SCHWEIGHOUSE/OHLUNGEN B.C.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule B\n⚔️ VENDENHEI
+ M BC vs SCHWEIGHOUSE/OHLUNGEN B.C.\n\nANNEXE GYMNASE MAILFERT\n📍 Rue Ch
+ arles Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623
+ \,7.71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu11-2/match/200000014660193
+LOCATION:ANNEXE GYMNASE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660193
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-b-2026-09-19-00-00-wantzenau-la-a-s-c-sp-ven
+ denheim-b@ffbb-agenda
+DTSTAMP:20260823T205947Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ WANTZENAU (LA) A.S.C.SP – VENDENHEIM BC
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule B\n⚔️ WANTZENAU
+  (LA) A.S.C.SP vs VENDENHEIM BC\n\nESPACE JC KLEIN\n📍 Rue des Vergers L
+ a Wantzenau 67610\n🚗 Waze : https://waze.com/ul?ll=48.66013\,7.83203&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2/
+ match/200000014660196
+LOCATION:ESPACE JC KLEIN\, Rue des Vergers La Wantzenau 67610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660196
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-b-2026-09-26-00-00-vendenheim-bc-drusenheim-
+ a-b-c@ffbb-agenda
+DTSTAMP:20260823T205947Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 VENDENHEIM BC – DRUSENHEIM A.B.C.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule B\n⚔️ VENDENHEI
+ M BC vs DRUSENHEIM A.B.C.\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gou
+ nod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.71054
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11
+ -2/match/200000014660199
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660199
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-b-2026-10-03-00-00-unitas-brumath-basket-2-v
+ endenheim@ffbb-agenda
+DTSTAMP:20260823T205947Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ UNITAS BRUMATH BASKET - 2 – VENDENHEIM BC
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule B\n⚔️ UNITAS BR
+ UMATH BASKET - 2 vs VENDENHEIM BC\n\nGYMNASE DU COLLEGE\n📍 Rue du Coll
+ ège Brumath 67170\n🚗 Waze : https://waze.com/ul?ll=48.73189\,7.71484&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-2
+ /match/200000014660202
+LOCATION:GYMNASE DU COLLEGE\, Rue du Collège Brumath 67170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660202
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-b-2026-10-10-16-30-vendenheim-bc-asa-souffel
+ weyershei@ffbb-agenda
+DTSTAMP:20260823T205947Z
+DTSTART;TZID=Europe/Paris:20261010T163000
+DTEND;TZID=Europe/Paris:20261010T183000
+SUMMARY:🏠 VENDENHEIM BC – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule B\n⚔️ VENDENHEI
+ M BC vs ASA SOUFFELWEYERSHEIM - 2\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Cha
+ rles Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\
+ ,7.71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu11-2/match/200000014660205
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660205
+END:VEVENT
+END:VCALENDAR

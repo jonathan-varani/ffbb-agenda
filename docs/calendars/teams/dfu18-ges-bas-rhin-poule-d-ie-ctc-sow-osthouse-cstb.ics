@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC SOW - OSTHOUSE CSTB  [DFU18 – GES – Poule D]
+X-WR-CALDESC:Matchs de IE - CTC SOW - OSTHOUSE CSTB – DFU18 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-d-2026-09-12-00-00-ie-ctc-sow-osthouse-cstb-ie
+ -ctc-rose@ffbb-agenda
+DTSTAMP:20260823T205356Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 IE - CTC SOW - OSTHOUSE CSTB – IE - CTC ROSENMEER - ROSHEIM 
+ CA
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule D\n⚔️ IE - CTC SO
+ W - OSTHOUSE CSTB vs IE - CTC ROSENMEER - ROSHEIM CA\n\nSALLE POLYVALENTE\
+ n📍 Rue du Looch Osthouse 67150\n🚗 Waze : https://waze.com/ul?ll=48.4
+ 026\,7.64489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/dfu18/match/200000014660779
+LOCATION:SALLE POLYVALENTE\, Rue du Looch Osthouse 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660779
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-d-2026-09-19-00-00-ie-ctc-sow-osthouse-cstb-er
+ stein-bc@ffbb-agenda
+DTSTAMP:20260823T205356Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 IE - CTC SOW - OSTHOUSE CSTB – ERSTEIN BC
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule D\n⚔️ IE - CTC SO
+ W - OSTHOUSE CSTB vs ERSTEIN BC\n\nSALLE POLYVALENTE\n📍 Rue du Looch Os
+ thouse 67150\n🚗 Waze : https://waze.com/ul?ll=48.4026\,7.64489&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18/match/20
+ 0000014660781
+LOCATION:SALLE POLYVALENTE\, Rue du Looch Osthouse 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660781
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-d-2026-09-26-00-00-ent-obernai-bsa-obernai-ie-
+ ctc-sow-o@ffbb-agenda
+DTSTAMP:20260823T205356Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ ENT OBERNAI / BSA - OBERNAI – IE - CTC SOW - OSTHOUSE CSTB
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule D\n⚔️ ENT OBERNAI
+  / BSA - OBERNAI vs IE - CTC SOW - OSTHOUSE CSTB\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0067/competitions/dfu18/match/200000014660786
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660786
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-d-2026-10-10-00-00-ie-ctc-sow-osthouse-cstb-oh
+ nenheim-s@ffbb-agenda
+DTSTAMP:20260823T205356Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 IE - CTC SOW - OSTHOUSE CSTB – OHNENHEIM S.S.C.
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule D\n⚔️ IE - CTC SO
+ W - OSTHOUSE CSTB vs OHNENHEIM S.S.C.\n\nSALLE POLYVALENTE\n📍 Rue du Lo
+ och Osthouse 67150\n🚗 Waze : https://waze.com/ul?ll=48.4026\,7.64489&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18/ma
+ tch/200000014660791
+LOCATION:SALLE POLYVALENTE\, Rue du Looch Osthouse 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660791
+END:VEVENT
+END:VCALENDAR

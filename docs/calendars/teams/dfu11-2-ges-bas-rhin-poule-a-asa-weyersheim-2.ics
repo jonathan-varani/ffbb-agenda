@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA WEYERSHEIM - 2  [DFU11-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de ASA WEYERSHEIM - 2 – DFU11-2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-a-2026-09-12-13-30-vendenheim-bc-asa-weyersh
+ eim-2@ffbb-agenda
+DTSTAMP:20260823T205541Z
+DTSTART;TZID=Europe/Paris:20260912T133000
+DTEND;TZID=Europe/Paris:20260912T153000
+SUMMARY:✈️ VENDENHEIM BC – ASA WEYERSHEIM - 2
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule A\n⚔️ VENDENHEI
+ M BC vs ASA WEYERSHEIM - 2\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Go
+ unod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.7105
+ 4&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660120
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660120
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-a-2026-09-19-00-00-schirrhein-c-s-c-sn-asa-w
+ eyersheim@ffbb-agenda
+DTSTAMP:20260823T205541Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN – ASA WEYERSHEIM - 2
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN vs ASA WEYERSHEIM - 2\n\nSALLE POLYVALENTE (ANNEXE)\n📍 Rue d
+ u Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.80224\,7.9
+ 068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ u11-2/match/200000014660123
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660123
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-a-2026-09-26-00-00-asa-weyersheim-2-soufflen
+ heim-c-c-@ffbb-agenda
+DTSTAMP:20260823T205541Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 ASA WEYERSHEIM - 2 – SOUFFLENHEIM C.C.S.A
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule A\n⚔️ ASA WEYER
+ SHEIM - 2 vs SOUFFLENHEIM C.C.S.A\n\nESPACE W - Salle JUPITER\n📍 Rue de
+ s Prés Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.8
+ 0788&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ fu11-2/match/200000014660125
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660125
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-a-2026-10-03-00-00-asa-weyersheim-2-s-u-schi
+ ltigheim-@ffbb-agenda
+DTSTAMP:20260823T205541Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 ASA WEYERSHEIM - 2 – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule A\n⚔️ ASA WEYER
+ SHEIM - 2 vs S.U. SCHILTIGHEIM BASKET BALL\n\nESPACE W - Salle JUPITER\n
+ 📍 Rue des Prés Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48
+ .71464\,7.80788&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dfu11-2/match/200000014660129
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660129
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-a-2026-10-10-00-00-basket-club-nord-alsace-a
+ sa-weyers@ffbb-agenda
+DTSTAMP:20260823T205541Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BASKET CLUB NORD ALSACE – ASA WEYERSHEIM - 2
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule A\n⚔️ BASKET CL
+ UB NORD ALSACE vs ASA WEYERSHEIM - 2\n\nMAISON DES SPORTS\n📍 Impasse du
+  Tournoi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79
+ 253&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ u11-2/match/200000014660130
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660130
+END:VEVENT
+END:VCALENDAR

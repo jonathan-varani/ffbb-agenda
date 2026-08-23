@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GEISPOLSHEIM C.J.S. - 2  [DFU11-2 – GES – Poule C]
+X-WR-CALDESC:Matchs de GEISPOLSHEIM C.J.S. - 2 – DFU11-2 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-c-2026-09-12-00-00-geispolsheim-c-j-s-2-sele
+ stat-bc@ffbb-agenda
+DTSTAMP:20260823T205549Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – SELESTAT BC
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSH
+ EIM C.J.S. - 2 vs SELESTAT BC\n\nCENTRE SPORTIF\n📍 Rue de la Porte Bass
+ e Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11
+ -2/match/200000014660150
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660150
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-c-2026-09-19-00-00-erstein-bc-geispolsheim-c
+ -j-s-2@ffbb-agenda
+DTSTAMP:20260823T205549Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ ERSTEIN BC – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule C\n⚔️ ERSTEIN B
+ C vs GEISPOLSHEIM C.J.S. - 2\n\nGYMNASE MARGUERITE YOURCENAR\n📍 Rue Vic
+ tor Schoelcher Erstein 67150\n🚗 Waze : https://waze.com/ul?ll=48.42265\
+ ,7.64994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dfu11-2/match/200000014660152
+LOCATION:GYMNASE MARGUERITE YOURCENAR\, Rue Victor Schoelcher Erstein 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660152
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-c-2026-09-26-00-00-geispolsheim-c-j-s-2-bruc
+ he-sports@ffbb-agenda
+DTSTAMP:20260823T205549Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – BRUCHE SPORTS ACADEMY
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSH
+ EIM C.J.S. - 2 vs BRUCHE SPORTS ACADEMY\n\nCENTRE SPORTIF\n📍 Rue de la 
+ Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.5168
+ 1\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dfu11-2/match/200000014660156
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660156
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-c-2026-10-03-00-00-geispolsheim-c-j-s-2-ie-c
+ tc-m2b-ba@ffbb-agenda
+DTSTAMP:20260823T205549Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 2 – IE - CTC M2B - BASKET CLUB BISCHOF
+ FSHEIM
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSH
+ EIM C.J.S. - 2 vs IE - CTC M2B - BASKET CLUB BISCHOFFSHEIM\n\nCENTRE SPORT
+ IF\n📍 Rue de la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waz
+ e.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0067/competitions/dfu11-2/match/200000014660157
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660157
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-2-ges-bas-rhin-poule-c-2026-10-10-00-00-ie-ctc-sow-osthouse-cstb-
+ geispolsh@ffbb-agenda
+DTSTAMP:20260823T205549Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ IE - CTC SOW - OSTHOUSE CSTB – GEISPOLSHEIM C.J.S. - 2
+DESCRIPTION:🏀 DFU11-2 – GES – Bas-Rhin – Poule C\n⚔️ IE - CTC 
+ SOW - OSTHOUSE CSTB vs GEISPOLSHEIM C.J.S. - 2\n\nSALLE POLYVALENTE\n📍 
+ Rue du Looch Osthouse 67150\n🚗 Waze : https://waze.com/ul?ll=48.4026\,7
+ .64489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dfu11-2/match/200000014660162
+LOCATION:SALLE POLYVALENTE\, Rue du Looch Osthouse 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1-2/match/200000014660162
+END:VEVENT
+END:VCALENDAR

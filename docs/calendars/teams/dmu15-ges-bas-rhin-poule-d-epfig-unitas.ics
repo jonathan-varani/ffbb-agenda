@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – EPFIG UNITAS  [DMU15 – GES – Poule D]
+X-WR-CALDESC:Matchs de EPFIG UNITAS – DMU15 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-d-2026-09-12-00-00-epfig-unitas-geispolsheim-c
+ -j-s@ffbb-agenda
+DTSTAMP:20260823T205812Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 EPFIG UNITAS – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule D\n⚔️ EPFIG UNITA
+ S vs GEISPOLSHEIM C.J.S.\n\nSALLE MULTI-SPORTS\n📍 Rue du Stade Epfig 67
+ 680\n🚗 Waze : https://waze.com/ul?ll=48.36239\,7.45754&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15/match/2000000146
+ 60720
+LOCATION:SALLE MULTI-SPORTS\, Rue du Stade Epfig 67680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660720
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-d-2026-09-19-00-00-selestat-bc-epfig-unitas@ff
+ bb-agenda
+DTSTAMP:20260823T205812Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ SELESTAT BC – EPFIG UNITAS
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule D\n⚔️ SELESTAT BC
+  vs EPFIG UNITAS\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré Sélestat 6760
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15/match/2000000146
+ 60722
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660722
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-d-2026-09-26-00-00-epfig-unitas-ie-ctc-rosenme
+ er-roshei@ffbb-agenda
+DTSTAMP:20260823T205812Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 EPFIG UNITAS – IE - CTC ROSENMEER - ROSHEIM CA
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule D\n⚔️ EPFIG UNITA
+ S vs IE - CTC ROSENMEER - ROSHEIM CA\n\nSALLE MULTI-SPORTS\n📍 Rue du St
+ ade Epfig 67680\n🚗 Waze : https://waze.com/ul?ll=48.36239\,7.45754&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15/matc
+ h/200000014660726
+LOCATION:SALLE MULTI-SPORTS\, Rue du Stade Epfig 67680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660726
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-d-2026-10-03-00-00-epfig-unitas-erstein-bc@ffb
+ b-agenda
+DTSTAMP:20260823T205812Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 EPFIG UNITAS – ERSTEIN BC
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule D\n⚔️ EPFIG UNITA
+ S vs ERSTEIN BC\n\nSALLE MULTI-SPORTS\n📍 Rue du Stade Epfig 67680\n🚗
+  Waze : https://waze.com/ul?ll=48.36239\,7.45754&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0067/competitions/dmu15/match/200000014660727
+LOCATION:SALLE MULTI-SPORTS\, Rue du Stade Epfig 67680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660727
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-d-2026-10-10-16-00-ie-ctc-sow-westhouse-e-s-ep
+ fig-unita@ffbb-agenda
+DTSTAMP:20260823T205812Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:✈️ IE - CTC SOW - WESTHOUSE E.S. – EPFIG UNITAS
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule D\n⚔️ IE - CTC SO
+ W - WESTHOUSE E.S. vs EPFIG UNITAS\n\nSALLE POLYVALENTE\n📍 Rue du Stade
+  Westhouse 67230\n🚗 Waze : https://waze.com/ul?ll=48.40179\,7.58972&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15/mat
+ ch/200000014660732
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Westhouse 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660732
+END:VEVENT
+END:VCALENDAR

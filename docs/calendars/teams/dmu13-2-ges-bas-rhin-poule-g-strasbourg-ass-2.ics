@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – STRASBOURG ASS - 2  [DMU13-2 – GES – Poule G]
+X-WR-CALDESC:Matchs de STRASBOURG ASS - 2 – DMU13-2 – GES – Bas-Rhin – Poule G
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-g-2026-09-12-00-00-basket-club-d-ostwald-str
+ asbourg-a@ffbb-agenda
+DTSTAMP:20260823T205927Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ BASKET CLUB D’OSTWALD – STRASBOURG ASS - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule G\n⚔️ BASKET CL
+ UB D’OSTWALD vs STRASBOURG ASS - 2\n\nCENTRE CULTUREL\n📍 Quai Heydt O
+ stwald 67540\n🚗 Waze : https://waze.com/ul?ll=48.54627\,7.71237&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2/match
+ /200000014660495
+LOCATION:CENTRE CULTUREL\, Quai Heydt Ostwald 67540
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660495
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-g-2026-09-19-00-00-racing-club-de-strasbourg
+ -strasbou@ffbb-agenda
+DTSTAMP:20260823T205927Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ RACING CLUB DE STRASBOURG – STRASBOURG ASS - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule G\n⚔️ RACING CL
+ UB DE STRASBOURG vs STRASBOURG ASS - 2\n\nSALLE JEAN NICOLAS MULLER 2\n
+ 📍 Rue du Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll
+ =48.54765\,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu13-2/match/200000014660498
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660498
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-g-2026-09-26-00-00-strasbourg-ass-2-schiltig
+ heim-au@ffbb-agenda
+DTSTAMP:20260823T205927Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 STRASBOURG ASS - 2 – SCHILTIGHEIM AU
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule G\n⚔️ STRASBOUR
+ G ASS - 2 vs SCHILTIGHEIM AU\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nus
+ s Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2/
+ match/200000014660500
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660500
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-g-2026-10-03-00-00-strasbourg-ass-2-eckbolsh
+ eim-bb-2@ffbb-agenda
+DTSTAMP:20260823T205927Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 STRASBOURG ASS - 2 – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule G\n⚔️ STRASBOUR
+ G ASS - 2 vs ECKBOLSHEIM BB - 2\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre 
+ Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13
+ -2/match/200000014660504
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660504
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-g-2026-10-10-00-00-geispolsheim-c-j-s-2-stra
+ sbourg-as@ffbb-agenda
+DTSTAMP:20260823T205927Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 2 – STRASBOURG ASS - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule G\n⚔️ GEISPOLSH
+ EIM C.J.S. - 2 vs STRASBOURG ASS - 2\n\nCENTRE SPORTIF\n📍 Rue de la Por
+ te Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,
+ 7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu13-2/match/200000014660505
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660505
+END:VEVENT
+END:VCALENDAR

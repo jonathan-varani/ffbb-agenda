@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DUTTLENHEIM LC  [DMU13 – GES – Poule C]
+X-WR-CALDESC:Matchs de DUTTLENHEIM LC – DMU13 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-c-2026-09-12-00-00-duttlenheim-lc-s-i-graffens
+ taden-3@ffbb-agenda
+DTSTAMP:20260823T205852Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 DUTTLENHEIM LC – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule C\n⚔️ DUTTLENHEIM
+  LC vs S.I. GRAFFENSTADEN - 3\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade D
+ uttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56924&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13/mat
+ ch/200000014660373
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660373
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-c-2026-09-19-15-30-eschau-bc-duttlenheim-lc@ff
+ bb-agenda
+DTSTAMP:20260823T205852Z
+DTSTART;TZID=Europe/Paris:20260919T153000
+DTEND;TZID=Europe/Paris:20260919T173000
+SUMMARY:✈️ ESCHAU BC – DUTTLENHEIM LC
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule C\n⚔️ ESCHAU BC v
+ s DUTTLENHEIM LC\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes Eschau 
+ 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13/match/2000000146
+ 60376
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660376
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-c-2026-09-26-00-00-duttlenheim-lc-ie-ctc-m2b-m
+ olsheim-c@ffbb-agenda
+DTSTAMP:20260823T205852Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 DUTTLENHEIM LC – IE - CTC M2B - MOLSHEIM CSTG
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule C\n⚔️ DUTTLENHEIM
+  LC vs IE - CTC M2B - MOLSHEIM CSTG\n\nSALLE DE LA CONCORDE\n📍 Rue du S
+ tade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.569
+ 24&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu
+ 13/match/200000014660379
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660379
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-c-2026-10-03-00-00-geispolsheim-c-j-s-duttlenh
+ eim-lc@ffbb-agenda
+DTSTAMP:20260823T205852Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. – DUTTLENHEIM LC
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule C\n⚔️ GEISPOLSHEI
+ M C.J.S. vs DUTTLENHEIM LC\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse G
+ eispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13/ma
+ tch/200000014660382
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660382
+END:VEVENT
+END:VCALENDAR

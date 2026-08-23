@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DUTTLENHEIM LC - 3  [DFU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de DUTTLENHEIM LC - 3 – DFU18 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-b-2026-09-12-17-30-nbc-sarrebourg-duttlenheim-
+ lc-3@ffbb-agenda
+DTSTAMP:20260823T205346Z
+DTSTART;TZID=Europe/Paris:20260912T173000
+DTEND;TZID=Europe/Paris:20260912T193000
+SUMMARY:✈️ NBC SARREBOURG – DUTTLENHEIM LC - 3
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule B\n⚔️ NBC SARREBO
+ URG vs DUTTLENHEIM LC - 3\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebour
+ g 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18/match/200000
+ 014660750
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660750
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-b-2026-09-19-00-00-griesheim-dingsheim-b-c-dut
+ tlenheim-@ffbb-agenda
+DTSTAMP:20260823T205346Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ GRIESHEIM/DINGSHEIM B.C. – DUTTLENHEIM LC - 3
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule B\n⚔️ GRIESHEIM/D
+ INGSHEIM B.C. vs DUTTLENHEIM LC - 3\n\nLES PORTES DU KOCHERSBERG\n📍 Rue
+  du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.638
+ 73\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dfu18/match/200000014660753
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660753
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-b-2026-09-26-00-00-duttlenheim-lc-3-hambach-bc
+ @ffbb-agenda
+DTSTAMP:20260823T205346Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 DUTTLENHEIM LC - 3 – HAMBACH BC
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM
+  LC - 3 vs HAMBACH BC\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispo
+ lsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18/match/2
+ 00000014660755
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660755
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-b-2026-10-10-00-00-bask-furdenheim-duttlenheim
+ -lc-3@ffbb-agenda
+DTSTAMP:20260823T205346Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BASK FURDENHEIM – DUTTLENHEIM LC - 3
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule B\n⚔️ BASK FURDEN
+ HEIM vs DUTTLENHEIM LC - 3\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade
+  Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18/ma
+ tch/200000014660760
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660760
+END:VEVENT
+END:VCALENDAR

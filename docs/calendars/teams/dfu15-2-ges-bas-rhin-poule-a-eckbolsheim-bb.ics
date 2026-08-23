@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ECKBOLSHEIM BB  [DFU15-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de ECKBOLSHEIM BB – DFU15-2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-a-2026-09-19-00-00-bask-furdenheim-2-eckbols
+ heim-bb@ffbb-agenda
+DTSTAMP:20260823T205427Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ BASK FURDENHEIM - 2 – ECKBOLSHEIM BB
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURD
+ ENHEIM - 2 vs ECKBOLSHEIM BB\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Sta
+ de Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu15-
+ 2/match/200000014660603
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660603
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-a-2026-09-26-00-00-eckbolsheim-bb-w-o-s-b@ff
+ bb-agenda
+DTSTAMP:20260823T205427Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 ECKBOLSHEIM BB – W.O.S.B.
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHE
+ IM BB vs W.O.S.B.\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 67201\n
+ 🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0067/competitions/dfu15-2/match/20000001466060
+ 5
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660605
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-a-2026-10-03-00-00-eckbolsheim-bb-hattmatt-s
+ s@ffbb-agenda
+DTSTAMP:20260823T205427Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 ECKBOLSHEIM BB – HATTMATT SS
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHE
+ IM BB vs HATTMATT SS\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 6720
+ 1\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dfu15-2/match/20000001
+ 4660609
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660609
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-a-2026-10-10-00-00-schiltigheim-au-eckbolshe
+ im-bb@ffbb-agenda
+DTSTAMP:20260823T205427Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ SCHILTIGHEIM AU – ECKBOLSHEIM BB
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule A\n⚔️ SCHILTIGH
+ EIM AU vs ECKBOLSHEIM BB\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malterie
+ s Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu15
+ -2/match/200000014660610
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660610
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – OFFENDORF C.S.STPP  [DFU13-2 – GES – Poule B]
+X-WR-CALDESC:Matchs de OFFENDORF C.S.STPP – DFU13-2 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-b-2026-09-12-15-30-offendorf-c-s-stpp-morsch
+ willer-fc@ffbb-agenda
+DTSTAMP:20260823T205516Z
+DTSTART;TZID=Europe/Paris:20260912T153000
+DTEND;TZID=Europe/Paris:20260912T173000
+SUMMARY:🏠 OFFENDORF C.S.STPP – MORSCHWILLER FCJ
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule B\n⚔️ OFFENDORF
+  C.S.STPP vs MORSCHWILLER FCJ\n\nESPACE SPORTIF ET CULTUREL\n📍 Rue du C
+ imetière Offendorf 67850\n🚗 Waze : https://waze.com/ul?ll=48.71254\,7.
+ 91868&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dfu13-2/match/200000014660524
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660524
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-b-2026-09-20-15-30-offendorf-c-s-stpp-schirr
+ hein-c-s-@ffbb-agenda
+DTSTAMP:20260823T205516Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 OFFENDORF C.S.STPP – SCHIRRHEIN C.S.C.SN
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule B\n⚔️ OFFENDORF
+  C.S.STPP vs SCHIRRHEIN C.S.C.SN\n\nESPACE SPORTIF ET CULTUREL\n📍 Rue d
+ u Cimetière Offendorf 67850\n🚗 Waze : https://waze.com/ul?ll=48.71254\
+ ,7.91868&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dfu13-2/match/200000014660526
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660526
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-b-2026-09-26-00-00-drusenheim-a-b-c-offendor
+ f-c-s-stp@ffbb-agenda
+DTSTAMP:20260823T205516Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ DRUSENHEIM A.B.C. – OFFENDORF C.S.STPP
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule B\n⚔️ DRUSENHEI
+ M A.B.C. vs OFFENDORF C.S.STPP\n\nGYMNASE INTERCOMMUNAL\n📍 Rue du Coll
+ ège Drusenheim 67410\n🚗 Waze : https://waze.com/ul?ll=48.76147\,7.9597
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660531
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Collège Drusenheim 67410
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660531
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-b-2026-10-03-00-00-seltz-multi-sport-club-of
+ fendorf-c@ffbb-agenda
+DTSTAMP:20260823T205516Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ SELTZ MULTI SPORT CLUB – OFFENDORF C.S.STPP
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule B\n⚔️ SELTZ MUL
+ TI SPORT CLUB vs OFFENDORF C.S.STPP\n\nGYMNASE INTERCOMMUNAL\n📍 Rue du 
+ Général de Gaulle Seltz 67470\n🚗 Waze : https://waze.com/ul?ll=48.901
+ 52\,8.11254&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dfu13-2/match/200000014660534
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Général de Gaulle Seltz 67470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660534
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-b-2026-10-11-15-30-offendorf-c-s-stpp-asa-we
+ yersheim-@ffbb-agenda
+DTSTAMP:20260823T205516Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 OFFENDORF C.S.STPP – ASA WEYERSHEIM - 4
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule B\n⚔️ OFFENDORF
+  C.S.STPP vs ASA WEYERSHEIM - 4\n\nESPACE SPORTIF ET CULTUREL\n📍 Rue du
+  Cimetière Offendorf 67850\n🚗 Waze : https://waze.com/ul?ll=48.71254\,
+ 7.91868&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dfu13-2/match/200000014660536
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660536
+END:VEVENT
+END:VCALENDAR

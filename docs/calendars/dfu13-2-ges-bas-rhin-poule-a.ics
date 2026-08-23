@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DFU13-2 – GES – Bas-Rhin – Poule A
+X-WR-CALDESC:Tous les matchs DFU13-2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-09-12-00-00-hambach-bc-griesheim-ding
+ sheim-b-c@ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:HAMBACH BC – GRIESHEIM/DINGSHEIM B.C.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH B
+ C vs GRIESHEIM/DINGSHEIM B.C.\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hamb
+ ach 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-2/match/20
+ 0000014660509
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660509
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-09-12-00-00-phalsbourg-b-c-ie-ctc-mar
+ le-soultz@ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:PHALSBOURG B.C. – IE - CTC MARLE-SOULTZ - MARLENHEIM BC
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ PHALSBOUR
+ G B.C. vs IE - CTC MARLE-SOULTZ - MARLENHEIM BC\n\nSALLE VAUBAN\n📍 All
+ ée des Sports Phalsbourg 57370\n🚗 Waze : https://waze.com/ul?ll=48.769
+ 86\,7.25521&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dfu13-2/match/200000014660508
+LOCATION:SALLE VAUBAN\, Allée des Sports Phalsbourg 57370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660508
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-09-19-00-00-griesheim-dingsheim-b-c-b
+ ask-furde@ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:GRIESHEIM/DINGSHEIM B.C. – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ GRIESHEIM
+ /DINGSHEIM B.C. vs BASK FURDENHEIM - 2\n\nLES PORTES DU KOCHERSBERG\n📍 
+ Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.
+ 63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dfu13-2/match/200000014660513
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660513
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-09-19-00-00-hambach-bc-phalsbourg-b-c
+ @ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:HAMBACH BC – PHALSBOURG B.C.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH B
+ C vs PHALSBOURG B.C.\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambach 57910
+ \n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-2/match/20000001
+ 4660511
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660511
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-09-26-00-00-phalsbourg-b-c-griesheim-
+ dingsheim@ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:PHALSBOURG B.C. – GRIESHEIM/DINGSHEIM B.C.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ PHALSBOUR
+ G B.C. vs GRIESHEIM/DINGSHEIM B.C.\n\nSALLE VAUBAN\n📍 Allée des Sports
+  Phalsbourg 57370\n🚗 Waze : https://waze.com/ul?ll=48.76986\,7.25521&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-2/
+ match/200000014660514
+LOCATION:SALLE VAUBAN\, Allée des Sports Phalsbourg 57370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660514
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-09-26-00-00-bask-furdenheim-2-ie-ctc-
+ marle-sou@ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:BASK FURDENHEIM - 2 – IE - CTC MARLE-SOULTZ - MARLENHEIM BC
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURD
+ ENHEIM - 2 vs IE - CTC MARLE-SOULTZ - MARLENHEIM BC\n\nESPACE SPORTIF DE L
+ 'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/u
+ l?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/dfu13-2/match/200000014660515
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660515
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-10-03-00-00-bask-furdenheim-2-hambach
+ -bc@ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:BASK FURDENHEIM - 2 – HAMBACH BC
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURD
+ ENHEIM - 2 vs HAMBACH BC\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade F
+ urdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-2/ma
+ tch/200000014660519
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660519
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-10-03-00-00-ie-ctc-marle-soultz-marle
+ nheim-bc-@ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:IE - CTC MARLE-SOULTZ - MARLENHEIM BC – GRIESHEIM/DINGSHEIM B.C.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ IE - CTC 
+ MARLE-SOULTZ - MARLENHEIM BC vs GRIESHEIM/DINGSHEIM B.C.\n\nSALLE OMNISPOR
+ TS\n📍 Rue de l'Usine Marlenheim 67520\n🚗 Waze : https://waze.com/ul?
+ ll=48.61827\,7.49015&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/dfu13-2/match/200000014660518
+LOCATION:SALLE OMNISPORTS\, Rue de l'Usine Marlenheim 67520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660518
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-10-10-00-00-phalsbourg-b-c-bask-furde
+ nheim-2@ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:PHALSBOURG B.C. – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ PHALSBOUR
+ G B.C. vs BASK FURDENHEIM - 2\n\nSALLE VAUBAN\n📍 Allée des Sports Phal
+ sbourg 57370\n🚗 Waze : https://waze.com/ul?ll=48.76986\,7.25521&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-2/match
+ /200000014660520
+LOCATION:SALLE VAUBAN\, Allée des Sports Phalsbourg 57370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660520
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-a-2026-10-10-00-00-hambach-bc-ie-ctc-marle-s
+ oultz-mar@ffbb-agenda
+DTSTAMP:20260823T205512Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:HAMBACH BC – IE - CTC MARLE-SOULTZ - MARLENHEIM BC
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH B
+ C vs IE - CTC MARLE-SOULTZ - MARLENHEIM BC\n\nSALLE POLYVALENTE\n📍 Rue 
+ du Stade Hambach 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.034
+ 64&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu
+ 13-2/match/200000014660521
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660521
+END:VEVENT
+END:VCALENDAR

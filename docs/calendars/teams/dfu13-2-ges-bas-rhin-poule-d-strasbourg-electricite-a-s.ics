@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – STRASBOURG ELECTRICITE A.S.  [DFU13-2 – GES – Poule D]
+X-WR-CALDESC:Matchs de STRASBOURG ELECTRICITE A.S. – DFU13-2 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-d-2026-09-12-00-00-ie-ctc-m2b-basket-club-bi
+ schoffshe@ffbb-agenda
+DTSTAMP:20260823T205524Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ IE - CTC M2B - BASKET CLUB BISCHOFFSHEIM – STRASBOURG ELEC
+ TRICITE A.S.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule D\n⚔️ IE - CTC 
+ M2B - BASKET CLUB BISCHOFFSHEIM vs STRASBOURG ELECTRICITE A.S.\n\nCOMPLEXE
+  SPORTIF\n📍 Rue du Stade Bischoffsheim 67870\n🚗 Waze : https://waze.
+ com/ul?ll=48.48386\,7.5021&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0067/competitions/dfu13-2/match/200000014660553
+LOCATION:COMPLEXE SPORTIF\, Rue du Stade Bischoffsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660553
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-d-2026-09-19-00-00-strasbourg-electricite-a-
+ s-ohnenhe@ffbb-agenda
+DTSTAMP:20260823T205524Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 STRASBOURG ELECTRICITE A.S. – OHNENHEIM S.S.C.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G ELECTRICITE A.S. vs OHNENHEIM S.S.C.\n\nCENTRE SPORTIF SUD\n📍 Rue des
+  Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837\,7
+ .75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dfu13-2/match/200000014660557
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660557
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-d-2026-10-03-00-00-strasbourg-electricite-a-
+ s-epfig-u@ffbb-agenda
+DTSTAMP:20260823T205524Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 STRASBOURG ELECTRICITE A.S. – EPFIG UNITAS
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G ELECTRICITE A.S. vs EPFIG UNITAS\n\nCENTRE SPORTIF SUD\n📍 Rue des Van
+ neaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837\,7.759
+ 77&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu
+ 13-2/match/200000014660563
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660563
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-2-ges-bas-rhin-poule-d-2026-10-10-00-00-bindernheim-c-s-u-strasbo
+ urg-elect@ffbb-agenda
+DTSTAMP:20260823T205524Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BINDERNHEIM C.S.U. – STRASBOURG ELECTRICITE A.S.
+DESCRIPTION:🏀 DFU13-2 – GES – Bas-Rhin – Poule D\n⚔️ BINDERNHE
+ IM C.S.U. vs STRASBOURG ELECTRICITE A.S.\n\nSALLE POLYVALENTE\n📍 Rue de
+  Witternheim Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.2867
+ 8\,7.60704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dfu13-2/match/200000014660566
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-2/match/200000014660566
+END:VEVENT
+END:VCALENDAR

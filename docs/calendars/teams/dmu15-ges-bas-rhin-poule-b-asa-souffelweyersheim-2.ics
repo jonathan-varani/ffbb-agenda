@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA SOUFFELWEYERSHEIM - 2  [DMU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASA SOUFFELWEYERSHEIM - 2 – DMU15 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-b-2026-09-12-00-00-s-u-schiltigheim-basket-bal
+ l-2-asa-s@ffbb-agenda
+DTSTAMP:20260823T205804Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 2 – ASA SOUFFELWEYERSHEIM 
+ - 2
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHILT
+ IGHEIM BASKET BALL - 2 vs ASA SOUFFELWEYERSHEIM - 2\n\nHALL BUGEAUD\n📍 
+ Avenue de Gail Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313\
+ ,7.49122&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu15/match/200000014660688
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660688
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-b-2026-09-19-00-00-asa-souffelweyersheim-2-wei
+ tbruch-a-@ffbb-agenda
+DTSTAMP:20260823T205804Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule B\n⚔️ ASA SOUFFEL
+ WEYERSHEIM - 2 vs WEITBRUCH A.S.C.G\n\nGYMNASE MUNICIPAL\n📍 Rue des Sep
+ t Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu15/match/200000014660692
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660692
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-b-2026-10-03-00-00-asa-souffelweyersheim-2-asa
+ -gries-ob@ffbb-agenda
+DTSTAMP:20260823T205804Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 ASA SOUFFELWEYERSHEIM - 2 – ASA GRIES / OBERHOFFEN - 4
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule B\n⚔️ ASA SOUFFEL
+ WEYERSHEIM - 2 vs ASA GRIES / OBERHOFFEN - 4\n\nGYMNASE MUNICIPAL\n📍 Ru
+ e des Sept Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/u
+ l?ll=48.6319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu15/match/200000014660698
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660698
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-b-2026-10-10-00-00-walbourg-eschbach-basket-2-
+ asa-souff@ffbb-agenda
+DTSTAMP:20260823T205804Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 2 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule B\n⚔️ WALBOURG ES
+ CHBACH BASKET - 2 vs ASA SOUFFELWEYERSHEIM - 2\n\nESPACE SPORTIF\n📍 Rue
+  de la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\
+ ,7.73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu15/match/200000014660701
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660701
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – S.I. GRAFFENSTADEN  [DMU11 – GES – Poule C]
+X-WR-CALDESC:Matchs de S.I. GRAFFENSTADEN – DMU11 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-c-2026-09-19-00-00-saint-joseph-strasbourg-2-s
+ -i-graffe@ffbb-agenda
+DTSTAMP:20260823T205938Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 2 – S.I. GRAFFENSTADEN
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule C\n⚔️ SAINT JOSEP
+ H - STRASBOURG - 2 vs S.I. GRAFFENSTADEN\n\nCENTRE SPORTIF ESPLANADE\n📍
+  Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.577\,
+ 7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu11/match/200000014660074
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660074
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-c-2026-09-26-00-00-s-i-graffenstaden-schiltigh
+ eim-au@ffbb-agenda
+DTSTAMP:20260823T205938Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN – SCHILTIGHEIM AU
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule C\n⚔️ S.I. GRAFFE
+ NSTADEN vs SCHILTIGHEIM AU\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Ill
+ kirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.
+ 71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu11/match/200000014660078
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660078
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-c-2026-10-03-00-00-s-i-graffenstaden-asa-souff
+ elweyersh@ffbb-agenda
+DTSTAMP:20260823T205938Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 S.I. GRAFFENSTADEN – ASA SOUFFELWEYERSHEIM
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule C\n⚔️ S.I. GRAFFE
+ NSTADEN vs ASA SOUFFELWEYERSHEIM\n\nSALLE DE LA S.I.G.\n📍 Rue de la Pos
+ te Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.526
+ 78\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu11/match/200000014660079
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660079
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-c-2026-10-10-00-00-bask-furdenheim-1-s-i-graff
+ enstaden@ffbb-agenda
+DTSTAMP:20260823T205938Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BASK FURDENHEIM - 1 – S.I. GRAFFENSTADEN
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule C\n⚔️ BASK FURDEN
+ HEIM - 1 vs S.I. GRAFFENSTADEN\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du S
+ tade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.5633
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660084
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660084
+END:VEVENT
+END:VCALENDAR

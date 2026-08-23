@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAINT JOSEPH - STRASBOURG  [DFU11 – GES – Poule A]
+X-WR-CALDESC:Matchs de SAINT JOSEPH - STRASBOURG – DFU11 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-09-12-00-00-eckbolsheim-bb-saint-joseph
+ -strasbou@ffbb-agenda
+DTSTAMP:20260823T205529Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ ECKBOLSHEIM BB – SAINT JOSEPH - STRASBOURG
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM
+  BB vs SAINT JOSEPH - STRASBOURG\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckb
+ olsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/match/2
+ 00000014660102
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660102
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-09-20-13-30-nbc-sarrebourg-saint-joseph
+ -strasbou@ffbb-agenda
+DTSTAMP:20260823T205529Z
+DTSTART;TZID=Europe/Paris:20260920T133000
+DTEND;TZID=Europe/Paris:20260920T153000
+SUMMARY:✈️ NBC SARREBOURG – SAINT JOSEPH - STRASBOURG
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ NBC SARREBO
+ URG vs SAINT JOSEPH - STRASBOURG\n\nCOSEC\n📍 Rue Pierre de Coubertin Sa
+ rrebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/match
+ /200000014660105
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660105
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-09-26-00-00-saint-joseph-strasbourg-gei
+ spolsheim@ffbb-agenda
+DTSTAMP:20260823T205529Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 SAINT JOSEPH - STRASBOURG – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ SAINT JOSEP
+ H - STRASBOURG vs GEISPOLSHEIM C.J.S.\n\nCENTRE SPORTIF ESPLANADE\n📍 Ru
+ e Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.577\,7.7
+ 6202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ fu11/match/200000014660107
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660107
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-10-03-00-00-saint-joseph-strasbourg-bas
+ k-furdenh@ffbb-agenda
+DTSTAMP:20260823T205529Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 SAINT JOSEPH - STRASBOURG – BASK FURDENHEIM
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ SAINT JOSEP
+ H - STRASBOURG vs BASK FURDENHEIM\n\nCENTRE SPORTIF ESPLANADE\n📍 Rue Lo
+ uvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.577\,7.76202
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11
+ /match/200000014660111
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660111
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-10-10-00-00-asa-weyersheim-saint-joseph
+ -strasbou@ffbb-agenda
+DTSTAMP:20260823T205529Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ ASA WEYERSHEIM – SAINT JOSEPH - STRASBOURG
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ASA WEYERSH
+ EIM vs SAINT JOSEPH - STRASBOURG\n\nESPACE W - Salle JUPITER\n📍 Rue des
+  Prés Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80
+ 788&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ u11/match/200000014660112
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660112
+END:VEVENT
+END:VCALENDAR

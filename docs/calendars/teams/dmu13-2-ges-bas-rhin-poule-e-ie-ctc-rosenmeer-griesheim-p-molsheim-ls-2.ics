@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 2  [DMU13-2 – GES – Poule E]
+X-WR-CALDESC:Matchs de IE - CTC ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 2 – DMU13-2 – GES – Bas-Rhin – Poule E
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-e-2026-09-19-00-00-bruche-sports-academy-2-i
+ e-ctc-ros@ffbb-agenda
+DTSTAMP:20260823T205918Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ BRUCHE SPORTS ACADEMY - 2 – IE - CTC ROSENMEER - GRIESHEIM
+  P/MOLSHEIM LS - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule E\n⚔️ BRUCHE SP
+ ORTS ACADEMY - 2 vs IE - CTC ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 2\n\nGY
+ MNASE INTERCOMMUNAL\n📍 Rue Curie Gresswiller 67190\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.5343\,7.42123&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0067/competitions/dmu13-2/match/200000014660467
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue Curie Gresswiller 67190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660467
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-e-2026-09-26-00-00-ie-ctc-rosenmeer-grieshei
+ m-p-molsh@ffbb-agenda
+DTSTAMP:20260823T205918Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 IE - CTC ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 2 – HOLTZHEIM
+  VOGESIA - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule E\n⚔️ IE - CTC 
+ ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 2 vs HOLTZHEIM VOGESIA - 2\n\nSALLE 
+ POLYVALENTE ESPACE VALLON\n📍 Rue du Moulin Griesheim-près-Molsheim 678
+ 70\n🚗 Waze : https://waze.com/ul?ll=48.50146\,7.53104&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2/match/20000001
+ 4660471
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660471
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-e-2026-10-03-00-00-ie-ctc-rosenmeer-grieshei
+ m-p-molsh@ffbb-agenda
+DTSTAMP:20260823T205918Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 IE - CTC ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 2 – IE - CTC 
+ MARLE-SOULTZ - SOULTZ LES BAINS A.S.L. - 1
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule E\n⚔️ IE - CTC 
+ ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 2 vs IE - CTC MARLE-SOULTZ - SOULTZ 
+ LES BAINS A.S.L. - 1\n\nSALLE POLYVALENTE ESPACE VALLON\n📍 Rue du Mouli
+ n Griesheim-près-Molsheim 67870\n🚗 Waze : https://waze.com/ul?ll=48.50
+ 146\,7.53104&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/dmu13-2/match/200000014660472
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660472
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-e-2026-10-10-00-00-schirmeck-lb-ie-ctc-rosen
+ meer-grie@ffbb-agenda
+DTSTAMP:20260823T205918Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ SCHIRMECK LB – IE - CTC ROSENMEER - GRIESHEIM P/MOLSHEIM L
+ S - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule E\n⚔️ SCHIRMECK
+  LB vs IE - CTC ROSENMEER - GRIESHEIM P/MOLSHEIM LS - 2\n\nHALL DES SPORTS
+  SCHIRMECK\n📍 Rue des Grives Schirmeck 67130\n🚗 Waze : https://waze.
+ com/ul?ll=48.48212\,7.22795&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0067/competitions/dmu13-2/match/200000014660477
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660477
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VENDENHEIM BC - 2  [DMU18 – GES – Poule D]
+X-WR-CALDESC:Matchs de VENDENHEIM BC - 2 – DMU18 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-09-12-17-00-vendenheim-bc-2-unitas-brum
+ ath-baske@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20260912T170000
+DTEND;TZID=Europe/Paris:20260912T190000
+SUMMARY:🏠 VENDENHEIM BC - 2 – UNITAS BRUMATH BASKET
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ VENDENHEIM 
+ BC - 2 vs UNITAS BRUMATH BASKET\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charl
+ es Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7
+ .71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu18/match/200000014660840
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660840
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-09-19-00-00-asa-souffelweyersheim-3-ven
+ denheim-b@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 3 – VENDENHEIM BC - 2
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ ASA SOUFFEL
+ WEYERSHEIM - 3 vs VENDENHEIM BC - 2\n\nGYMNASE MUNICIPAL\n📍 Rue des Sep
+ t Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu18/match/200000014660842
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660842
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-09-27-00-00-vendenheim-bc-2-schweighous
+ e-ohlunge@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20260927T000000
+DTEND;TZID=Europe/Paris:20260927T020000
+SUMMARY:🏠 VENDENHEIM BC - 2 – SCHWEIGHOUSE/OHLUNGEN B.C.
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ VENDENHEIM 
+ BC - 2 vs SCHWEIGHOUSE/OHLUNGEN B.C.\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue 
+ Charles Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.666
+ 23\,7.71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu18/match/200000014660846
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660846
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-10-03-17-00-vendenheim-bc-2-basket-club
+ -hoenheim@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20261003T170000
+DTEND;TZID=Europe/Paris:20261003T190000
+SUMMARY:🏠 VENDENHEIM BC - 2 – BASKET CLUB HOENHEIM
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ VENDENHEIM 
+ BC - 2 vs BASKET CLUB HOENHEIM\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charle
+ s Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.
+ 71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu18/match/200000014660847
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660847
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-10-10-00-00-schiltigheim-au-2-vendenhei
+ m-bc-2@ffbb-agenda
+DTSTAMP:20260823T205721Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ SCHILTIGHEIM AU - 2 – VENDENHEIM BC - 2
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ SCHILTIGHEI
+ M AU - 2 vs VENDENHEIM BC - 2\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Mal
+ teries Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.
+ 74374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu18/match/200000014660852
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660852
+END:VEVENT
+END:VCALENDAR

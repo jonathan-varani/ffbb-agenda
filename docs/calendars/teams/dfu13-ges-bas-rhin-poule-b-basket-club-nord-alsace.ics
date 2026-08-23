@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB NORD ALSACE  [DFU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB NORD ALSACE – DFU13 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-09-12-00-00-basket-club-nord-alsace-ven
+ denheim-b@ffbb-agenda
+DTSTAMP:20260823T205501Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE – VENDENHEIM BC
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ BASKET CLUB
+  NORD ALSACE vs VENDENHEIM BC\n\nMAISON DES SPORTS\n📍 Impasse du Tourno
+ i Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/mat
+ ch/200000014660313
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660313
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-09-19-00-00-asa-weyersheim-3-basket-clu
+ b-nord-al@ffbb-agenda
+DTSTAMP:20260823T205501Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ ASA WEYERSHEIM - 3 – BASKET CLUB NORD ALSACE
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ ASA WEYERSH
+ EIM - 3 vs BASKET CLUB NORD ALSACE\n\nESPACE W - Salle JUPITER\n📍 Rue d
+ es Prés Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.
+ 80788&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dfu13/match/200000014660316
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660316
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-09-26-00-00-basket-club-nord-alsace-sch
+ weighouse@ffbb-agenda
+DTSTAMP:20260823T205501Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE – SCHWEIGHOUSE/OHLUNGEN B.C.
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ BASKET CLUB
+  NORD ALSACE vs SCHWEIGHOUSE/OHLUNGEN B.C.\n\nMAISON DES SPORTS\n📍 Impa
+ sse du Tournoi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368
+ \,7.79253&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dfu13/match/200000014660319
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660319
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-10-03-13-30-ohnheim-c-s-s-a-basket-club
+ -nord-als@ffbb-agenda
+DTSTAMP:20260823T205501Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:✈️ OHNHEIM C.S.S.A. – BASKET CLUB NORD ALSACE
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ OHNHEIM C.S
+ .S.A. vs BASKET CLUB NORD ALSACE\n\nCOSEC\n📍 Rue Pierre de Coubertin Sa
+ rrebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/match
+ /200000014660322
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660322
+END:VEVENT
+END:VCALENDAR

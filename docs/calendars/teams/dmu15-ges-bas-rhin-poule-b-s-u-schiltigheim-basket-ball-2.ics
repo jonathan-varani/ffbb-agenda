@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – S.U. SCHILTIGHEIM BASKET BALL - 2  [DMU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de S.U. SCHILTIGHEIM BASKET BALL - 2 – DMU15 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-b-2026-09-12-00-00-s-u-schiltigheim-basket-bal
+ l-2-asa-s@ffbb-agenda
+DTSTAMP:20260823T205804Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 S.U. SCHILTIGHEIM BASKET BALL - 2 – ASA SOUFFELWEYERSHEIM - 
+ 2
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHILT
+ IGHEIM BASKET BALL - 2 vs ASA SOUFFELWEYERSHEIM - 2\n\nHALL BUGEAUD\n📍 
+ Avenue de Gail Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313\
+ ,7.49122&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu15/match/200000014660688
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660688
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-b-2026-09-19-00-00-walbourg-eschbach-basket-2-
+ s-u-schil@ffbb-agenda
+DTSTAMP:20260823T205804Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 2 – S.U. SCHILTIGHEIM BASKET BA
+ LL - 2
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule B\n⚔️ WALBOURG ES
+ CHBACH BASKET - 2 vs S.U. SCHILTIGHEIM BASKET BALL - 2\n\nESPACE SPORTIF\n
+ 📍 Rue de la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.87306\,7.73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu15/match/200000014660691
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660691
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-b-2026-09-26-00-00-s-u-schiltigheim-basket-bal
+ l-2-asa-g@ffbb-agenda
+DTSTAMP:20260823T205804Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 S.U. SCHILTIGHEIM BASKET BALL - 2 – ASA GRIES / OBERHOFFEN -
+  4
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHILT
+ IGHEIM BASKET BALL - 2 vs ASA GRIES / OBERHOFFEN - 4\n\nHALL BUGEAUD\n📍
+  Avenue de Gail Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313
+ \,7.49122&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu15/match/200000014660694
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660694
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-bas-rhin-poule-b-2026-10-03-00-00-weitbruch-a-s-c-g-s-u-schil
+ tigheim-b@ffbb-agenda
+DTSTAMP:20260823T205804Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ WEITBRUCH A.S.C.G – S.U. SCHILTIGHEIM BASKET BALL - 2
+DESCRIPTION:🏀 DMU15 – GES – Bas-Rhin – Poule B\n⚔️ WEITBRUCH A
+ .S.C.G vs S.U. SCHILTIGHEIM BASKET BALL - 2\n\nSALLE POLYVALENTE GALLIA\n
+ 📍 Rue de l'Église Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=
+ 48.75192\,7.77719&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu15/match/200000014660697
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5/match/200000014660697
+END:VEVENT
+END:VCALENDAR

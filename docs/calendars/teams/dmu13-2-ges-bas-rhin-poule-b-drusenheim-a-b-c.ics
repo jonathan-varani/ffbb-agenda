@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DRUSENHEIM A.B.C.  [DMU13-2 – GES – Poule B]
+X-WR-CALDESC:Matchs de DRUSENHEIM A.B.C. – DMU13-2 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-b-2026-09-19-14-00-offendorf-c-s-stpp-drusen
+ heim-a-b-@ffbb-agenda
+DTSTAMP:20260823T205906Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
+SUMMARY:✈️ OFFENDORF C.S.STPP – DRUSENHEIM A.B.C.
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule B\n⚔️ OFFENDORF
+  C.S.STPP vs DRUSENHEIM A.B.C.\n\nESPACE SPORTIF ET CULTUREL\n📍 Rue du 
+ Cimetière Offendorf 67850\n🚗 Waze : https://waze.com/ul?ll=48.71254\,7
+ .91868&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu13-2/match/200000014660422
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660422
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-b-2026-09-26-00-00-drusenheim-a-b-c-bitche-p
+ ays-de@ffbb-agenda
+DTSTAMP:20260823T205906Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 DRUSENHEIM A.B.C. – BITCHE (PAYS DE)
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule B\n⚔️ DRUSENHEI
+ M A.B.C. vs BITCHE (PAYS DE)\n\nGYMNASE INTERCOMMUNAL\n📍 Rue du Collèg
+ e Drusenheim 67410\n🚗 Waze : https://waze.com/ul?ll=48.76147\,7.95978&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-2
+ /match/200000014660426
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Collège Drusenheim 67410
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660426
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-b-2026-10-03-00-00-drusenheim-a-b-c-schirrhe
+ in-c-s-c-@ffbb-agenda
+DTSTAMP:20260823T205906Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 DRUSENHEIM A.B.C. – SCHIRRHEIN C.S.C.SN - 2
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule B\n⚔️ DRUSENHEI
+ M A.B.C. vs SCHIRRHEIN C.S.C.SN - 2\n\nGYMNASE INTERCOMMUNAL\n📍 Rue du 
+ Collège Drusenheim 67410\n🚗 Waze : https://waze.com/ul?ll=48.76147\,7.
+ 95978&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu13-2/match/200000014660427
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Collège Drusenheim 67410
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660427
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-2-ges-bas-rhin-poule-b-2026-10-10-00-00-asa-gries-oberhoffen-3-dr
+ usenheim-@ffbb-agenda
+DTSTAMP:20260823T205906Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN - 3 – DRUSENHEIM A.B.C.
+DESCRIPTION:🏀 DMU13-2 – GES – Bas-Rhin – Poule B\n⚔️ ASA GRIES
+  / OBERHOFFEN - 3 vs DRUSENHEIM A.B.C.\n\nESPACE SPORT LA FORET\n📍 Rue 
+ du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13
+ -2/match/200000014660432
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-2/match/200000014660432
+END:VEVENT
+END:VCALENDAR

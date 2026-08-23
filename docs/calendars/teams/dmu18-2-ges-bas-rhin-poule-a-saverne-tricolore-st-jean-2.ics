@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAVERNE TRICOLORE ST JEAN - 2  [DMU18-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de SAVERNE TRICOLORE ST JEAN - 2 – DMU18-2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-a-2026-09-19-00-00-hambach-bc-2-saverne-tric
+ olore-st-@ffbb-agenda
+DTSTAMP:20260823T205735Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ HAMBACH BC - 2 – SAVERNE TRICOLORE ST JEAN - 2
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH B
+ C - 2 vs SAVERNE TRICOLORE ST JEAN - 2\n\nSALLE POLYVALENTE\n📍 Rue du S
+ tade Hambach 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2
+ /match/200000014660887
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660887
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-a-2026-09-26-00-00-saverne-tricolore-st-jean
+ -2-hattma@ffbb-agenda
+DTSTAMP:20260823T205735Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 SAVERNE TRICOLORE ST JEAN - 2 – HATTMATT SS
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE T
+ RICOLORE ST JEAN - 2 vs HATTMATT SS\n\nSALLE DES SPORTS DE ST J SAVERNE\n
+ 📍 Rue de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : https://waze.
+ com/ul?ll=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0067/competitions/dmu18-2/match/200000014660891
+LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
+ verne 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660891
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-a-2026-10-03-00-00-saverne-tricolore-st-jean
+ -2-bitche@ffbb-agenda
+DTSTAMP:20260823T205735Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 SAVERNE TRICOLORE ST JEAN - 2 – BITCHE (PAYS DE) - 2
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE T
+ RICOLORE ST JEAN - 2 vs BITCHE (PAYS DE) - 2\n\nSALLE DES SPORTS DE ST J S
+ AVERNE\n📍 Rue de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : https
+ ://waze.com/ul?ll=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0067/competitions/dmu18-2/match/200000014660892
+LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
+ verne 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660892
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-a-2026-10-10-00-00-ie-ctc-marle-soultz-marle
+ nheim-bc-@ffbb-agenda
+DTSTAMP:20260823T205735Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ IE - CTC MARLE-SOULTZ - MARLENHEIM BC – SAVERNE TRICOLORE 
+ ST JEAN - 2
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule A\n⚔️ IE - CTC 
+ MARLE-SOULTZ - MARLENHEIM BC vs SAVERNE TRICOLORE ST JEAN - 2\n\nSALLE OMN
+ ISPORTS\n📍 Rue de l'Usine Marlenheim 67520\n🚗 Waze : https://waze.co
+ m/ul?ll=48.61827\,7.49015&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0067/competitions/dmu18-2/match/200000014660897
+LOCATION:SALLE OMNISPORTS\, Rue de l'Usine Marlenheim 67520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660897
+END:VEVENT
+END:VCALENDAR

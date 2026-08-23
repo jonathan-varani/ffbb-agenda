@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – UNITAS BRUMATH BASKET  [DFU18 – GES – Poule A]
+X-WR-CALDESC:Matchs de UNITAS BRUMATH BASKET – DFU18 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-a-2026-09-12-00-00-walbourg-eschbach-basket-un
+ itas-brum@ffbb-agenda
+DTSTAMP:20260823T205342Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET – UNITAS BRUMATH BASKET
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ES
+ CHBACH BASKET vs UNITAS BRUMATH BASKET\n\nESPACE SPORTIF\n📍 Rue de la F
+ orêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.73658
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18
+ /match/200000014660734
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660734
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-a-2026-09-19-00-00-unitas-brumath-basket-vende
+ nheim-bc@ffbb-agenda
+DTSTAMP:20260823T205342Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 UNITAS BRUMATH BASKET – VENDENHEIM BC
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule A\n⚔️ UNITAS BRUM
+ ATH BASKET vs VENDENHEIM BC\n\nGYMNASE DU COLLEGE\n📍 Rue du Collège Br
+ umath 67170\n🚗 Waze : https://waze.com/ul?ll=48.73189\,7.71484&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18/match/20
+ 0000014660738
+LOCATION:GYMNASE DU COLLEGE\, Rue du Collège Brumath 67170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660738
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-a-2026-09-26-00-00-soufflenheim-c-c-s-a-unitas
+ -brumath-@ffbb-agenda
+DTSTAMP:20260823T205342Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ SOUFFLENHEIM C.C.S.A – UNITAS BRUMATH BASKET
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEI
+ M C.C.S.A vs UNITAS BRUMATH BASKET\n\nCENTRE SPORTIF LE CERAM\n📍 Souffl
+ enheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18/match/2
+ 00000014660739
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660739
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-a-2026-10-03-00-00-asa-weyersheim-3-unitas-bru
+ math-bask@ffbb-agenda
+DTSTAMP:20260823T205342Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ASA WEYERSHEIM - 3 – UNITAS BRUMATH BASKET
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule A\n⚔️ ASA WEYERSH
+ EIM - 3 vs UNITAS BRUMATH BASKET\n\nESPACE W - Salle JUPITER\n📍 Rue des
+  Prés Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80
+ 788&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ u18/match/200000014660743
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660743
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-ges-bas-rhin-poule-a-2026-10-10-00-00-unitas-brumath-basket-weitb
+ ruch-a-s-@ffbb-agenda
+DTSTAMP:20260823T205342Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 UNITAS BRUMATH BASKET – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 DFU18 – GES – Bas-Rhin – Poule A\n⚔️ UNITAS BRUM
+ ATH BASKET vs WEITBRUCH A.S.C.G\n\nGYMNASE DU COLLEGE\n📍 Rue du Collèg
+ e Brumath 67170\n🚗 Waze : https://waze.com/ul?ll=48.73189\,7.71484&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18/matc
+ h/200000014660747
+LOCATION:GYMNASE DU COLLEGE\, Rue du Collège Brumath 67170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8/match/200000014660747
+END:VEVENT
+END:VCALENDAR

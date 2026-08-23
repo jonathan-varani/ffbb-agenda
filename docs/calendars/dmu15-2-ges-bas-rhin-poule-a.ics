@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DMU15-2 – GES – Bas-Rhin – Poule A
+X-WR-CALDESC:Tous les matchs DMU15-2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-09-12-00-00-keskastel-bc-alsace-bossu
+ e-bc@ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:KESKASTEL BC – ALSACE BOSSUE BC
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ KESKASTEL
+  BC vs ALSACE BOSSUE BC\n\nSALLE POLYVALENTE\n📍 Rue de la Fontaine Kesk
+ astel 67260\n🚗 Waze : https://waze.com/ul?ll=48.97217\,7.04804&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/
+ 200000014661034
+LOCATION:SALLE POLYVALENTE\, Rue de la Fontaine Keskastel 67260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661034
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-09-12-00-00-bitche-pays-de-ohnenheim-
+ s-s-c@ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:BITCHE (PAYS DE) – OHNENHEIM S.S.C.
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (P
+ AYS DE) vs OHNENHEIM S.S.C.\n\nCOSEC\n📍 Rue du Capitaine Mondelli Bitch
+ e 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/20000
+ 0014661033
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661033
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-09-19-00-00-ohnenheim-s-s-c-hattmatt-
+ ss@ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:OHNENHEIM S.S.C. – HATTMATT SS
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ OHNENHEIM
+  S.S.C. vs HATTMATT SS\n\nSALLE COMMUNALE\n📍 Rue du Moulin Ohnenheim 67
+ 390\n🚗 Waze : https://waze.com/ul?ll=48.18481\,7.50417&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/20000001
+ 4661037
+LOCATION:SALLE COMMUNALE\, Rue du Moulin Ohnenheim 67390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661037
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-09-19-00-00-keskastel-bc-bitche-pays-
+ de@ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:KESKASTEL BC – BITCHE (PAYS DE)
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ KESKASTEL
+  BC vs BITCHE (PAYS DE)\n\nSALLE POLYVALENTE\n📍 Rue de la Fontaine Kesk
+ astel 67260\n🚗 Waze : https://waze.com/ul?ll=48.97217\,7.04804&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/
+ 200000014661036
+LOCATION:SALLE POLYVALENTE\, Rue de la Fontaine Keskastel 67260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661036
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-09-26-00-00-bitche-pays-de-alsace-bos
+ sue-bc@ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:BITCHE (PAYS DE) – ALSACE BOSSUE BC
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (P
+ AYS DE) vs ALSACE BOSSUE BC\n\nCOSEC\n📍 Rue du Capitaine Mondelli Bitch
+ e 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/20000
+ 0014661039
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661039
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-09-26-00-00-hattmatt-ss-keskastel-bc@
+ ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:HATTMATT SS – KESKASTEL BC
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ HATTMATT 
+ SS vs KESKASTEL BC\n\nSALLE POLYVALENTE\n📍 Rue de Dettwiller Hattmatt 6
+ 7330\n🚗 Waze : https://waze.com/ul?ll=48.7902\,7.42964&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/20000001
+ 4661041
+LOCATION:SALLE POLYVALENTE\, Rue de Dettwiller Hattmatt 67330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661041
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-10-03-00-00-ohnenheim-s-s-c-alsace-bo
+ ssue-bc@ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:OHNENHEIM S.S.C. – ALSACE BOSSUE BC
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ OHNENHEIM
+  S.S.C. vs ALSACE BOSSUE BC\n\nSALLE COMMUNALE\n📍 Rue du Moulin Ohnenhe
+ im 67390\n🚗 Waze : https://waze.com/ul?ll=48.18481\,7.50417&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/200
+ 000014661043
+LOCATION:SALLE COMMUNALE\, Rue du Moulin Ohnenheim 67390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661043
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-10-03-00-00-hattmatt-ss-bitche-pays-d
+ e@ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:HATTMATT SS – BITCHE (PAYS DE)
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ HATTMATT 
+ SS vs BITCHE (PAYS DE)\n\nSALLE POLYVALENTE\n📍 Rue de Dettwiller Hattma
+ tt 67330\n🚗 Waze : https://waze.com/ul?ll=48.7902\,7.42964&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/2000
+ 00014661042
+LOCATION:SALLE POLYVALENTE\, Rue de Dettwiller Hattmatt 67330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661042
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-10-10-00-00-alsace-bossue-bc-hattmatt
+ -ss@ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:ALSACE BOSSUE BC – HATTMATT SS
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ ALSACE BO
+ SSUE BC vs HATTMATT SS\n\nCOMPLEXE DE LA CORDERIE\n📍 Rue Vincent d'Indy
+  Sarre-Union 67260\n🚗 Waze : https://waze.com/ul?ll=48.93424\,7.09126&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2
+ /match/200000014661047
+LOCATION:COMPLEXE DE LA CORDERIE\, Rue Vincent d'Indy Sarre-Union 67260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661047
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-a-2026-10-10-00-00-keskastel-bc-ohnenheim-s-
+ s-c@ffbb-agenda
+DTSTAMP:20260823T205816Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:KESKASTEL BC – OHNENHEIM S.S.C.
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule A\n⚔️ KESKASTEL
+  BC vs OHNENHEIM S.S.C.\n\nSALLE POLYVALENTE\n📍 Rue de la Fontaine Kesk
+ astel 67260\n🚗 Waze : https://waze.com/ul?ll=48.97217\,7.04804&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/
+ 200000014661046
+LOCATION:SALLE POLYVALENTE\, Rue de la Fontaine Keskastel 67260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661046
+END:VEVENT
+END:VCALENDAR

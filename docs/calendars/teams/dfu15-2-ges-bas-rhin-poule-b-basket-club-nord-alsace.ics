@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB NORD ALSACE  [DFU15-2 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB NORD ALSACE – DFU15-2 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-b-2026-09-20-16-30-kriegsheim-r-asc-basket-c
+ lub-nord-@ffbb-agenda
+DTSTAMP:20260823T205431Z
+DTSTART;TZID=Europe/Paris:20260920T163000
+DTEND;TZID=Europe/Paris:20260920T183000
+SUMMARY:✈️ KRIEGSHEIM/R. ASC – BASKET CLUB NORD ALSACE
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule B\n⚔️ KRIEGSHEI
+ M/R. ASC vs BASKET CLUB NORD ALSACE\n\nHALL DES SPORTS\n📍 Rue de Rottel
+ sheim Kriegsheim 67170\n🚗 Waze : https://waze.com/ul?ll=48.75781\,7.723
+ 78&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu
+ 15-2/match/200000014660618
+LOCATION:HALL DES SPORTS\, Rue de Rottelsheim Kriegsheim 67170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660618
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-b-2026-09-26-00-00-basket-club-nord-alsace-s
+ oufflenhe@ffbb-agenda
+DTSTAMP:20260823T205431Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE – SOUFFLENHEIM C.C.S.A
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule B\n⚔️ BASKET CL
+ UB NORD ALSACE vs SOUFFLENHEIM C.C.S.A\n\nMAISON DES SPORTS\n📍 Impasse 
+ du Tournoi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.
+ 79253&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dfu15-2/match/200000014660620
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660620
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-b-2026-10-03-00-00-basket-club-nord-alsace-b
+ itche-pay@ffbb-agenda
+DTSTAMP:20260823T205431Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BASKET CLUB NORD ALSACE – BITCHE (PAYS DE)
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule B\n⚔️ BASKET CL
+ UB NORD ALSACE vs BITCHE (PAYS DE)\n\nMAISON DES SPORTS\n📍 Impasse du T
+ ournoi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.7925
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660624
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660624
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-b-2026-10-10-00-00-morschwiller-fcj-basket-c
+ lub-nord-@ffbb-agenda
+DTSTAMP:20260823T205431Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ MORSCHWILLER FCJ – BASKET CLUB NORD ALSACE
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule B\n⚔️ MORSCHWIL
+ LER FCJ vs BASKET CLUB NORD ALSACE\n\nESPACE SPORTIF ET CULTUREL\n📍 Rou
+ te de Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81
+ 323\,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/dfu15-2/match/200000014660625
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660625
+END:VEVENT
+END:VCALENDAR

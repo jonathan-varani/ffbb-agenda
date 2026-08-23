@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GRIESHEIM/DINGSHEIM B.C. - 2  [DFU18-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de GRIESHEIM/DINGSHEIM B.C. - 2 – DFU18-2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-a-2026-09-19-00-00-bischheim-bs-griesheim-di
+ ngsheim-b@ffbb-agenda
+DTSTAMP:20260823T205402Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ BISCHHEIM BS – GRIESHEIM/DINGSHEIM B.C. - 2
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule A\n⚔️ BISCHHEIM
+  BS vs GRIESHEIM/DINGSHEIM B.C. - 2\n\nGYMNASE LAMARTINE\n📍 Rue Lamarti
+ ne Bischheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18-2
+ /match/200000014660977
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014660977
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-a-2026-09-26-00-00-griesheim-dingsheim-b-c-2
+ -eckbolsh@ffbb-agenda
+DTSTAMP:20260823T205402Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – ECKBOLSHEIM BB
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule A\n⚔️ GRIESHEIM
+ /DINGSHEIM B.C. - 2 vs ECKBOLSHEIM BB\n\nLES PORTES DU KOCHERSBERG\n📍 R
+ ue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 3873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dfu18-2/match/200000014660981
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014660981
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-a-2026-10-03-00-00-griesheim-dingsheim-b-c-2
+ -hattmatt@ffbb-agenda
+DTSTAMP:20260823T205402Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – HATTMATT SS
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule A\n⚔️ GRIESHEIM
+ /DINGSHEIM B.C. - 2 vs HATTMATT SS\n\nLES PORTES DU KOCHERSBERG\n📍 Rue 
+ du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.6387
+ 3\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dfu18-2/match/200000014660982
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014660982
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-a-2026-10-10-00-00-strasbourg-ass-griesheim-
+ dingsheim@ffbb-agenda
+DTSTAMP:20260823T205402Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ STRASBOURG ASS – GRIESHEIM/DINGSHEIM B.C. - 2
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule A\n⚔️ STRASBOUR
+ G ASS vs GRIESHEIM/DINGSHEIM B.C. - 2\n\nGYMNASE DE LA ROTONDE\n📍 Rue P
+ ierre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7
+ .72525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dfu18-2/match/200000014660987
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014660987
+END:VEVENT
+END:VCALENDAR

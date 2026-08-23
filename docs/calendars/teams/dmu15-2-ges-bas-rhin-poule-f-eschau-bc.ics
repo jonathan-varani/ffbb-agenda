@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ESCHAU BC  [DMU15-2 – GES – Poule F]
+X-WR-CALDESC:Matchs de ESCHAU BC – DMU15-2 – GES – Bas-Rhin – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-f-2026-09-20-15-30-eschau-bc-erstein-bc-2@ff
+ bb-agenda
+DTSTAMP:20260823T205838Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 ESCHAU BC – ERSTEIN BC - 2
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule F\n⚔️ ESCHAU BC
+  vs ERSTEIN BC - 2\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes Escha
+ u 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/200000
+ 014661111
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661111
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-f-2026-09-26-00-00-bindernheim-c-s-u-eschau-
+ bc@ffbb-agenda
+DTSTAMP:20260823T205838Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BINDERNHEIM C.S.U. – ESCHAU BC
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule F\n⚔️ BINDERNHE
+ IM C.S.U. vs ESCHAU BC\n\nSALLE POLYVALENTE\n📍 Rue de Witternheim Binde
+ rnheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.28678\,7.60704&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match
+ /200000014661116
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661116
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-f-2026-10-03-00-00-val-de-ville-b-c-eschau-b
+ c@ffbb-agenda
+DTSTAMP:20260823T205838Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ VAL DE VILLE B.C. – ESCHAU BC
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule F\n⚔️ VAL DE VI
+ LLE B.C. vs ESCHAU BC\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé 67220\n
+ 🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/2000000146611
+ 19
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661119
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-f-2026-10-10-15-30-eschau-bc-ohnenheim-s-s-c
+ @ffbb-agenda
+DTSTAMP:20260823T205838Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:🏠 ESCHAU BC – OHNENHEIM S.S.C.
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule F\n⚔️ ESCHAU BC
+  vs OHNENHEIM S.S.C.\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes Esc
+ hau 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/match/2000
+ 00014661121
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661121
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DUTTLENHEIM LC - 2  [DFU15-2 – GES – Poule D]
+X-WR-CALDESC:Matchs de DUTTLENHEIM LC - 2 – DFU15-2 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-d-2026-09-12-00-00-duttlenheim-lc-2-ie-ctc-m
+ 2b-basket@ffbb-agenda
+DTSTAMP:20260823T205440Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – IE - CTC M2B - BASKET CLUB BISCHOFFSHEI
+ M
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule D\n⚔️ DUTTLENHE
+ IM LC - 2 vs IE - CTC M2B - BASKET CLUB BISCHOFFSHEIM\n\nSALLE DE LA CONCO
+ RDE\n📍 Rue du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?
+ ll=48.53114\,7.56924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/dfu15-2/match/200000014660643
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660643
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-d-2026-09-19-00-00-schirmeck-lb-duttlenheim-
+ lc-2@ffbb-agenda
+DTSTAMP:20260823T205440Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ SCHIRMECK LB – DUTTLENHEIM LC - 2
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule D\n⚔️ SCHIRMECK
+  LB vs DUTTLENHEIM LC - 2\n\nHALL DES SPORTS SCHIRMECK\n📍 Rue des Grive
+ s Schirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.48212\,7.22795&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu15-2/
+ match/200000014660646
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660646
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-d-2026-09-26-00-00-duttlenheim-lc-2-geispols
+ heim-c-j-@ffbb-agenda
+DTSTAMP:20260823T205440Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – GEISPOLSHEIM C.J.S. - 3
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule D\n⚔️ DUTTLENHE
+ IM LC - 2 vs GEISPOLSHEIM C.J.S. - 3\n\nSALLE DE LA CONCORDE\n📍 Rue du 
+ Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56
+ 924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ u15-2/match/200000014660649
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660649
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-2-ges-bas-rhin-poule-d-2026-10-10-00-00-duttlenheim-lc-2-ohnheim-
+ c-s-s-a@ffbb-agenda
+DTSTAMP:20260823T205440Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 DUTTLENHEIM LC - 2 – OHNHEIM C.S.S.A.
+DESCRIPTION:🏀 DFU15-2 – GES – Bas-Rhin – Poule D\n⚔️ DUTTLENHE
+ IM LC - 2 vs OHNHEIM C.S.S.A.\n\nSALLE DE LA CONCORDE\n📍 Rue du Stade D
+ uttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56924&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu15-2/m
+ atch/200000014660655
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-2/match/200000014660655
+END:VEVENT
+END:VCALENDAR

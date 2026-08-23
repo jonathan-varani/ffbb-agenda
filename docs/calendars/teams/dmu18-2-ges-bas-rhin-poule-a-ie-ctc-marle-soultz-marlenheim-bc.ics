@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC MARLE-SOULTZ - MARLENHEIM BC  [DMU18-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de IE - CTC MARLE-SOULTZ - MARLENHEIM BC – DMU18-2 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-a-2026-09-12-00-00-hattmatt-ss-ie-ctc-marle-
+ soultz-ma@ffbb-agenda
+DTSTAMP:20260823T205735Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ HATTMATT SS – IE - CTC MARLE-SOULTZ - MARLENHEIM BC
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule A\n⚔️ HATTMATT 
+ SS vs IE - CTC MARLE-SOULTZ - MARLENHEIM BC\n\nSALLE POLYVALENTE\n📍 Rue
+  de Dettwiller Hattmatt 67330\n🚗 Waze : https://waze.com/ul?ll=48.7902\
+ ,7.42964&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu18-2/match/200000014660884
+LOCATION:SALLE POLYVALENTE\, Rue de Dettwiller Hattmatt 67330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660884
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-a-2026-09-26-00-00-bitche-pays-de-2-ie-ctc-m
+ arle-soul@ffbb-agenda
+DTSTAMP:20260823T205735Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BITCHE (PAYS DE) - 2 – IE - CTC MARLE-SOULTZ - MARLENHEIM 
+ BC
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (P
+ AYS DE) - 2 vs IE - CTC MARLE-SOULTZ - MARLENHEIM BC\n\nCOSEC\n📍 Rue du
+  Capitaine Mondelli Bitche 57230\n🚗 Waze : https://waze.com/ul?ll=49.05
+ 71\,7.41789&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu18-2/match/200000014660889
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660889
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-a-2026-10-03-00-00-hambach-bc-2-ie-ctc-marle
+ -soultz-m@ffbb-agenda
+DTSTAMP:20260823T205735Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ HAMBACH BC - 2 – IE - CTC MARLE-SOULTZ - MARLENHEIM BC
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH B
+ C - 2 vs IE - CTC MARLE-SOULTZ - MARLENHEIM BC\n\nSALLE POLYVALENTE\n📍 
+ Rue du Stade Hambach 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7
+ .03464&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu18-2/match/200000014660893
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660893
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-a-2026-10-10-00-00-ie-ctc-marle-soultz-marle
+ nheim-bc-@ffbb-agenda
+DTSTAMP:20260823T205735Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 IE - CTC MARLE-SOULTZ - MARLENHEIM BC – SAVERNE TRICOLORE ST
+  JEAN - 2
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule A\n⚔️ IE - CTC 
+ MARLE-SOULTZ - MARLENHEIM BC vs SAVERNE TRICOLORE ST JEAN - 2\n\nSALLE OMN
+ ISPORTS\n📍 Rue de l'Usine Marlenheim 67520\n🚗 Waze : https://waze.co
+ m/ul?ll=48.61827\,7.49015&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0067/competitions/dmu18-2/match/200000014660897
+LOCATION:SALLE OMNISPORTS\, Rue de l'Usine Marlenheim 67520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660897
+END:VEVENT
+END:VCALENDAR

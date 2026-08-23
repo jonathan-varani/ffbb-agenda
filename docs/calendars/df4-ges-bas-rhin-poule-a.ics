@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-09-26-00-00-bitche-pays-de-1-soufflenheim
- -c-c-s-a-@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20260926T000000
-DTEND;TZID=Europe/Paris:20260926T020000
-SUMMARY:BITCHE (PAYS DE) - 1 – SOUFFLENHEIM C.C.S.A - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
- DE) - 1 vs SOUFFLENHEIM C.C.S.A - 1\n\nCOSEC\n📍 Rue du Capitaine Mondel
- li Bitche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2
- 00000014651935
-LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651935
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-09-26-00-00-hambach-bc-2-saverne-tricolor
  e-st-jean@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:HAMBACH BC - 2 – SAVERNE TRICOLORE ST JEAN - 1
@@ -60,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-09-26-00-00-hatten-bc-1-morschwiller-fcj-
  2@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:HATTEN BC - 1 – MORSCHWILLER FCJ - 2
@@ -75,9 +58,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651933
 END:VEVENT
 BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-09-26-00-00-bitche-pays-de-1-soufflenheim
+ -c-c-s-a-@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:BITCHE (PAYS DE) - 1 – SOUFFLENHEIM C.C.S.A - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
+ DE) - 1 vs SOUFFLENHEIM C.C.S.A - 1\n\nCOSEC\n📍 Rue du Capitaine Mondel
+ li Bitche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2
+ 00000014651935
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651935
+END:VEVENT
+BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-09-26-00-00-marienthal-a-s-c-c-1-walbourg
  -eschbach@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:MARIENTHAL A.S.C.C - 1 – WALBOURG ESCHBACH BASKET - 2
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-10-03-00-00-saverne-tricolore-st-jean-1-w
  issembour@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261003T000000
 DTEND;TZID=Europe/Paris:20261003T020000
 SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – WISSEMBOURG BC - 1
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-10-03-00-00-morschwiller-fcj-2-hambach-bc
  -2@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261003T000000
 DTEND;TZID=Europe/Paris:20261003T020000
 SUMMARY:MORSCHWILLER FCJ - 2 – HAMBACH BC - 2
@@ -129,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-10-03-00-00-walbourg-eschbach-basket-2-ha
  tten-bc-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261003T000000
 DTEND;TZID=Europe/Paris:20261003T020000
 SUMMARY:WALBOURG ESCHBACH BASKET - 2 – HATTEN BC - 1
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-10-03-00-00-soufflenheim-c-c-s-a-1-marien
  thal-a-s-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261003T000000
 DTEND;TZID=Europe/Paris:20261003T020000
 SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – MARIENTHAL A.S.C.C - 1
@@ -163,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-10-10-00-00-wissembourg-bc-1-morschwiller
  -fcj-2@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261010T000000
 DTEND;TZID=Europe/Paris:20261010T020000
 SUMMARY:WISSEMBOURG BC - 1 – MORSCHWILLER FCJ - 2
@@ -178,43 +178,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651941
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-10-10-00-00-marienthal-a-s-c-c-1-bitche-p
- ays-de-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261010T000000
-DTEND;TZID=Europe/Paris:20261010T020000
-SUMMARY:MARIENTHAL A.S.C.C - 1 – BITCHE (PAYS DE) - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MARIENTHAL A.
- S.C.C - 1 vs BITCHE (PAYS DE) - 1\n\nSALLE POLYVALENTE\n📍 Rue de Lourde
- s Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.78304\,7.81814&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match
- /200000014651944
-LOCATION:SALLE POLYVALENTE\, Rue de Lourdes Haguenau 67500
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651944
-END:VEVENT
-BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-10-10-00-00-hatten-bc-1-soufflenheim-c-c-
- s-a-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261010T000000
-DTEND;TZID=Europe/Paris:20261010T020000
-SUMMARY:HATTEN BC - 1 – SOUFFLENHEIM C.C.S.A - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HATTEN BC - 1
-  vs SOUFFLENHEIM C.C.S.A - 1\n\nSALLE POLYVALENTE\n📍 Rue des Écoles Ha
- tten 67690\n🚗 Waze : https://waze.com/ul?ll=48.90169\,7.98235&navigate=
- yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
- competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000
- 0014651943
-LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651943
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-10-10-00-00-hambach-bc-2-walbourg-eschbac
  h-basket-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261010T000000
 DTEND;TZID=Europe/Paris:20261010T020000
 SUMMARY:HAMBACH BC - 2 – WALBOURG ESCHBACH BASKET - 2
@@ -229,60 +195,43 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651942
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-11-14-00-00-walbourg-eschbach-basket-2-wi
- ssembourg@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261114T000000
-DTEND;TZID=Europe/Paris:20261114T020000
-SUMMARY:WALBOURG ESCHBACH BASKET - 2 – WISSEMBOURG BC - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
- BACH BASKET - 2 vs WISSEMBOURG BC - 1\n\nESPACE SPORTIF\n📍 Rue de la Fo
- rêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.73658&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/ma
- tch/200000014651946
-LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+UID:df4-ges-bas-rhin-poule-a-2026-10-10-00-00-hatten-bc-1-soufflenheim-c-c-
+ s-a-1@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:HATTEN BC - 1 – SOUFFLENHEIM C.C.S.A - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HATTEN BC - 1
+  vs SOUFFLENHEIM C.C.S.A - 1\n\nSALLE POLYVALENTE\n📍 Rue des Écoles Ha
+ tten 67690\n🚗 Waze : https://waze.com/ul?ll=48.90169\,7.98235&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000
+ 0014651943
+LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651946
+ match/200000014651943
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-11-14-00-00-soufflenheim-c-c-s-a-1-hambac
- h-bc-2@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261114T000000
-DTEND;TZID=Europe/Paris:20261114T020000
-SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – HAMBACH BC - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
- C.C.S.A - 1 vs HAMBACH BC - 2\n\nCENTRE SPORTIF LE CERAM\n📍 Soufflenhei
- m 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000001
- 4651947
-LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+UID:df4-ges-bas-rhin-poule-a-2026-10-10-00-00-marienthal-a-s-c-c-1-bitche-p
+ ays-de-1@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:MARIENTHAL A.S.C.C - 1 – BITCHE (PAYS DE) - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MARIENTHAL A.
+ S.C.C - 1 vs BITCHE (PAYS DE) - 1\n\nSALLE POLYVALENTE\n📍 Rue de Lourde
+ s Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.78304\,7.81814&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match
+ /200000014651944
+LOCATION:SALLE POLYVALENTE\, Rue de Lourdes Haguenau 67500
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651947
-END:VEVENT
-BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-11-14-00-00-bitche-pays-de-1-hatten-bc-1@
- ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261114T000000
-DTEND;TZID=Europe/Paris:20261114T020000
-SUMMARY:BITCHE (PAYS DE) - 1 – HATTEN BC - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
- DE) - 1 vs HATTEN BC - 1\n\nCOSEC\n📍 Rue du Capitaine Mondelli Bitche 5
- 7230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000014651
- 948
-LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651948
+ match/200000014651944
 END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-11-14-00-00-morschwiller-fcj-2-saverne-tr
  icolore-s@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261114T000000
 DTEND;TZID=Europe/Paris:20261114T020000
 SUMMARY:MORSCHWILLER FCJ - 2 – SAVERNE TRICOLORE ST JEAN - 1
@@ -297,9 +246,78 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651949
 END:VEVENT
 BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-11-14-00-00-bitche-pays-de-1-hatten-bc-1@
+ ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:BITCHE (PAYS DE) - 1 – HATTEN BC - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
+ DE) - 1 vs HATTEN BC - 1\n\nCOSEC\n📍 Rue du Capitaine Mondelli Bitche 5
+ 7230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000014651
+ 948
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651948
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-11-14-00-00-soufflenheim-c-c-s-a-1-hambac
+ h-bc-2@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – HAMBACH BC - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 1 vs HAMBACH BC - 2\n\nCENTRE SPORTIF LE CERAM\n📍 Soufflenhei
+ m 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000001
+ 4651947
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651947
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-11-14-00-00-walbourg-eschbach-basket-2-wi
+ ssembourg@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:WALBOURG ESCHBACH BASKET - 2 – WISSEMBOURG BC - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 2 vs WISSEMBOURG BC - 1\n\nESPACE SPORTIF\n📍 Rue de la Fo
+ rêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.73658&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/ma
+ tch/200000014651946
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651946
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-11-21-00-00-saverne-tricolore-st-jean-1-w
+ albourg-e@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – WALBOURG ESCHBACH BASKET - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE TRICO
+ LORE ST JEAN - 1 vs WALBOURG ESCHBACH BASKET - 2\n\nSALLE DES SPORTS DE ST
+  J SAVERNE\n📍 Rue de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0067/competitions/df4/match/200000014651954
+LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
+ verne 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651954
+END:VEVENT
+BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-11-21-00-00-hambach-bc-2-bitche-pays-de-1
  @ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261121T000000
 DTEND;TZID=Europe/Paris:20261121T020000
 SUMMARY:HAMBACH BC - 2 – BITCHE (PAYS DE) - 1
@@ -316,7 +334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-11-21-00-00-hatten-bc-1-marienthal-a-s-c-
  c-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261121T000000
 DTEND;TZID=Europe/Paris:20261121T020000
 SUMMARY:HATTEN BC - 1 – MARIENTHAL A.S.C.C - 1
@@ -331,27 +349,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651953
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-11-21-00-00-saverne-tricolore-st-jean-1-w
- albourg-e@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261121T000000
-DTEND;TZID=Europe/Paris:20261121T020000
-SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – WALBOURG ESCHBACH BASKET - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE TRICO
- LORE ST JEAN - 1 vs WALBOURG ESCHBACH BASKET - 2\n\nSALLE DES SPORTS DE ST
-  J SAVERNE\n📍 Rue de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : h
- ttps://waze.com/ul?ll=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas
-  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
- es/ges/comites/0067/competitions/df4/match/200000014651954
-LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
- verne 67700
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651954
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-11-21-00-00-wissembourg-bc-1-soufflenheim
  -c-c-s-a-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261121T000000
 DTEND;TZID=Europe/Paris:20261121T020000
 SUMMARY:WISSEMBOURG BC - 1 – SOUFFLENHEIM C.C.S.A - 1
@@ -366,26 +366,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651951
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-12-05-00-00-marienthal-a-s-c-c-1-hambach-
- bc-2@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261205T000000
-DTEND;TZID=Europe/Paris:20261205T020000
-SUMMARY:MARIENTHAL A.S.C.C - 1 – HAMBACH BC - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MARIENTHAL A.
- S.C.C - 1 vs HAMBACH BC - 2\n\nSALLE POLYVALENTE\n📍 Rue de Lourdes Hagu
- enau 67500\n🚗 Waze : https://waze.com/ul?ll=48.78304\,7.81814&navigate=
- yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
- competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000
- 0014651957
-LOCATION:SALLE POLYVALENTE\, Rue de Lourdes Haguenau 67500
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651957
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-12-05-00-00-soufflenheim-c-c-s-a-1-savern
  e-tricolo@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261205T000000
 DTEND;TZID=Europe/Paris:20261205T020000
 SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – SAVERNE TRICOLORE ST JEAN - 1
@@ -402,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-12-05-00-00-walbourg-eschbach-basket-2-mo
  rschwille@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261205T000000
 DTEND;TZID=Europe/Paris:20261205T020000
 SUMMARY:WALBOURG ESCHBACH BASKET - 2 – MORSCHWILLER FCJ - 2
@@ -417,9 +400,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651958
 END:VEVENT
 BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-12-05-00-00-marienthal-a-s-c-c-1-hambach-
+ bc-2@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:MARIENTHAL A.S.C.C - 1 – HAMBACH BC - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MARIENTHAL A.
+ S.C.C - 1 vs HAMBACH BC - 2\n\nSALLE POLYVALENTE\n📍 Rue de Lourdes Hagu
+ enau 67500\n🚗 Waze : https://waze.com/ul?ll=48.78304\,7.81814&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000
+ 0014651957
+LOCATION:SALLE POLYVALENTE\, Rue de Lourdes Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651957
+END:VEVENT
+BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-12-05-00-00-bitche-pays-de-1-wissembourg-
  bc-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261205T000000
 DTEND;TZID=Europe/Paris:20261205T020000
 SUMMARY:BITCHE (PAYS DE) - 1 – WISSEMBOURG BC - 1
@@ -434,26 +434,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651956
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-12-12-00-00-wissembourg-bc-1-marienthal-a
- -s-c-c-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261212T000000
-DTEND;TZID=Europe/Paris:20261212T020000
-SUMMARY:WISSEMBOURG BC - 1 – MARIENTHAL A.S.C.C - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WISSEMBOURG B
- C - 1 vs MARIENTHAL A.S.C.C - 1\n\nGYMNASE DU LYCEE\n📍 Rue du Lycée Wi
- ssembourg 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.9609&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2
- 00000014651961
-LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651961
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-12-12-00-00-morschwiller-fcj-2-soufflenhe
  im-c-c-s-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261212T000000
 DTEND;TZID=Europe/Paris:20261212T020000
 SUMMARY:MORSCHWILLER FCJ - 2 – SOUFFLENHEIM C.C.S.A - 1
@@ -470,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-12-12-00-00-saverne-tricolore-st-jean-1-b
  itche-pay@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261212T000000
 DTEND;TZID=Europe/Paris:20261212T020000
 SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – BITCHE (PAYS DE) - 1
@@ -488,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-12-12-00-00-hambach-bc-2-hatten-bc-1@ffbb
  -agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261212T000000
 DTEND;TZID=Europe/Paris:20261212T020000
 SUMMARY:HAMBACH BC - 2 – HATTEN BC - 1
@@ -502,9 +485,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651962
 END:VEVENT
 BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-12-12-00-00-wissembourg-bc-1-marienthal-a
+ -s-c-c-1@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:WISSEMBOURG BC - 1 – MARIENTHAL A.S.C.C - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WISSEMBOURG B
+ C - 1 vs MARIENTHAL A.S.C.C - 1\n\nGYMNASE DU LYCEE\n📍 Rue du Lycée Wi
+ ssembourg 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.9609&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2
+ 00000014651961
+LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651961
+END:VEVENT
+BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-12-19-00-00-hatten-bc-1-wissembourg-bc-1@
  ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261219T000000
 DTEND;TZID=Europe/Paris:20261219T020000
 SUMMARY:HATTEN BC - 1 – WISSEMBOURG BC - 1
@@ -519,43 +519,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651966
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-12-19-00-00-marienthal-a-s-c-c-1-saverne-
- tricolore@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261219T000000
-DTEND;TZID=Europe/Paris:20261219T020000
-SUMMARY:MARIENTHAL A.S.C.C - 1 – SAVERNE TRICOLORE ST JEAN - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MARIENTHAL A.
- S.C.C - 1 vs SAVERNE TRICOLORE ST JEAN - 1\n\nSALLE POLYVALENTE\n📍 Rue 
- de Lourdes Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.78304\,7.
- 81814&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
- FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
- df4/match/200000014651967
-LOCATION:SALLE POLYVALENTE\, Rue de Lourdes Haguenau 67500
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651967
-END:VEVENT
-BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2026-12-19-00-00-bitche-pays-de-1-morschwiller
- -fcj-2@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20261219T000000
-DTEND;TZID=Europe/Paris:20261219T020000
-SUMMARY:BITCHE (PAYS DE) - 1 – MORSCHWILLER FCJ - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
- DE) - 1 vs MORSCHWILLER FCJ - 2\n\nCOSEC\n📍 Rue du Capitaine Mondelli B
- itche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigate=
- yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
- competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000
- 0014651968
-LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651968
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2026-12-19-00-00-soufflenheim-c-c-s-a-1-walbou
  rg-eschba@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20261219T000000
 DTEND;TZID=Europe/Paris:20261219T020000
 SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – WALBOURG ESCHBACH BASKET - 2
@@ -570,26 +536,60 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651969
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-01-16-00-00-walbourg-eschbach-basket-2-bi
- tche-pays@ffbb-agenda
-DTSTAMP:20260822T205311Z
+UID:df4-ges-bas-rhin-poule-a-2026-12-19-00-00-bitche-pays-de-1-morschwiller
+ -fcj-2@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:BITCHE (PAYS DE) - 1 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
+ DE) - 1 vs MORSCHWILLER FCJ - 2\n\nCOSEC\n📍 Rue du Capitaine Mondelli B
+ itche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000
+ 0014651968
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651968
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2026-12-19-00-00-marienthal-a-s-c-c-1-saverne-
+ tricolore@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20261219T000000
+DTEND;TZID=Europe/Paris:20261219T020000
+SUMMARY:MARIENTHAL A.S.C.C - 1 – SAVERNE TRICOLORE ST JEAN - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MARIENTHAL A.
+ S.C.C - 1 vs SAVERNE TRICOLORE ST JEAN - 1\n\nSALLE POLYVALENTE\n📍 Rue 
+ de Lourdes Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.78304\,7.
+ 81814&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ df4/match/200000014651967
+LOCATION:SALLE POLYVALENTE\, Rue de Lourdes Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651967
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-01-16-00-00-wissembourg-bc-1-hambach-bc-2
+ @ffbb-agenda
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270116T000000
 DTEND;TZID=Europe/Paris:20270116T020000
-SUMMARY:WALBOURG ESCHBACH BASKET - 2 – BITCHE (PAYS DE) - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
- BACH BASKET - 2 vs BITCHE (PAYS DE) - 1\n\nESPACE SPORTIF\n📍 Rue de la 
- Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.7365
- 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
-  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651974
-LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+SUMMARY:WISSEMBOURG BC - 1 – HAMBACH BC - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WISSEMBOURG B
+ C - 1 vs HAMBACH BC - 2\n\nGYMNASE DU LYCEE\n📍 Rue du Lycée Wissembour
+ g 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.9609&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000014
+ 651971
+LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651974
+ match/200000014651971
 END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-01-16-00-00-saverne-tricolore-st-jean-1-h
  atten-bc-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270116T000000
 DTEND;TZID=Europe/Paris:20270116T020000
 SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – HATTEN BC - 1
@@ -605,26 +605,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651972
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-01-16-00-00-wissembourg-bc-1-hambach-bc-2
- @ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270116T000000
-DTEND;TZID=Europe/Paris:20270116T020000
-SUMMARY:WISSEMBOURG BC - 1 – HAMBACH BC - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WISSEMBOURG B
- C - 1 vs HAMBACH BC - 2\n\nGYMNASE DU LYCEE\n📍 Rue du Lycée Wissembour
- g 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.9609&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000014
- 651971
-LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651971
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-01-16-00-00-morschwiller-fcj-2-marienthal
  -a-s-c-c-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270116T000000
 DTEND;TZID=Europe/Paris:20270116T020000
 SUMMARY:MORSCHWILLER FCJ - 2 – MARIENTHAL A.S.C.C - 1
@@ -639,9 +622,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651973
 END:VEVENT
 BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-01-16-00-00-walbourg-eschbach-basket-2-bi
+ tche-pays@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:WALBOURG ESCHBACH BASKET - 2 – BITCHE (PAYS DE) - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 2 vs BITCHE (PAYS DE) - 1\n\nESPACE SPORTIF\n📍 Rue de la 
+ Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.7365
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651974
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651974
+END:VEVENT
+BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-01-23-00-00-morschwiller-fcj-2-hatten-bc-
  1@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270123T000000
 DTEND;TZID=Europe/Paris:20270123T020000
 SUMMARY:MORSCHWILLER FCJ - 2 – HATTEN BC - 1
@@ -656,9 +656,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651978
 END:VEVENT
 BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-01-23-00-00-soufflenheim-c-c-s-a-1-bitche
+ -pays-de-@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – BITCHE (PAYS DE) - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 1 vs BITCHE (PAYS DE) - 1\n\nCENTRE SPORTIF LE CERAM\n📍 Souff
+ lenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20
+ 0000014651980
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651980
+END:VEVENT
+BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-01-23-00-00-saverne-tricolore-st-jean-1-h
  ambach-bc@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270123T000000
 DTEND;TZID=Europe/Paris:20270123T020000
 SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – HAMBACH BC - 2
@@ -674,26 +691,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651977
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-01-23-00-00-soufflenheim-c-c-s-a-1-bitche
- -pays-de-@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270123T000000
-DTEND;TZID=Europe/Paris:20270123T020000
-SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – BITCHE (PAYS DE) - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
- C.C.S.A - 1 vs BITCHE (PAYS DE) - 1\n\nCENTRE SPORTIF LE CERAM\n📍 Souff
- lenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&naviga
- te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
- ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20
- 0000014651980
-LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651980
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-01-23-00-00-walbourg-eschbach-basket-2-ma
  rienthal-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270123T000000
 DTEND;TZID=Europe/Paris:20270123T020000
 SUMMARY:WALBOURG ESCHBACH BASKET - 2 – MARIENTHAL A.S.C.C - 1
@@ -708,60 +708,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651979
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-01-30-00-00-wissembourg-bc-1-saverne-tric
- olore-st-@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270130T000000
-DTEND;TZID=Europe/Paris:20270130T020000
-SUMMARY:WISSEMBOURG BC - 1 – SAVERNE TRICOLORE ST JEAN - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WISSEMBOURG B
- C - 1 vs SAVERNE TRICOLORE ST JEAN - 1\n\nGYMNASE DU LYCEE\n📍 Rue du Ly
- cée Wissembourg 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.960
- 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
-  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651981
-LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651981
-END:VEVENT
-BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-01-30-00-00-hambach-bc-2-morschwiller-fcj
- -2@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270130T000000
-DTEND;TZID=Europe/Paris:20270130T020000
-SUMMARY:HAMBACH BC - 2 – MORSCHWILLER FCJ - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC - 
- 2 vs MORSCHWILLER FCJ - 2\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambach 
- 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2000000146
- 51982
-LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651982
-END:VEVENT
-BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-01-30-00-00-hatten-bc-1-walbourg-eschbach
- -basket-2@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270130T000000
-DTEND;TZID=Europe/Paris:20270130T020000
-SUMMARY:HATTEN BC - 1 – WALBOURG ESCHBACH BASKET - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HATTEN BC - 1
-  vs WALBOURG ESCHBACH BASKET - 2\n\nSALLE POLYVALENTE\n📍 Rue des École
- s Hatten 67690\n🚗 Waze : https://waze.com/ul?ll=48.90169\,7.98235&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2
- 00000014651983
-LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651983
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-01-30-00-00-marienthal-a-s-c-c-1-soufflen
  heim-c-c-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270130T000000
 DTEND;TZID=Europe/Paris:20270130T020000
 SUMMARY:MARIENTHAL A.S.C.C - 1 – SOUFFLENHEIM C.C.S.A - 1
@@ -776,43 +725,60 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651984
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-02-06-00-00-soufflenheim-c-c-s-a-1-hatten
- -bc-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270206T000000
-DTEND;TZID=Europe/Paris:20270206T020000
-SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – HATTEN BC - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
- C.C.S.A - 1 vs HATTEN BC - 1\n\nCENTRE SPORTIF LE CERAM\n📍 Soufflenheim
-  67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000014
- 651988
-LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+UID:df4-ges-bas-rhin-poule-a-2027-01-30-00-00-hatten-bc-1-walbourg-eschbach
+ -basket-2@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:HATTEN BC - 1 – WALBOURG ESCHBACH BASKET - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HATTEN BC - 1
+  vs WALBOURG ESCHBACH BASKET - 2\n\nSALLE POLYVALENTE\n📍 Rue des École
+ s Hatten 67690\n🚗 Waze : https://waze.com/ul?ll=48.90169\,7.98235&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2
+ 00000014651983
+LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651988
+ match/200000014651983
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-02-06-00-00-bitche-pays-de-1-marienthal-a
- -s-c-c-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270206T000000
-DTEND;TZID=Europe/Paris:20270206T020000
-SUMMARY:BITCHE (PAYS DE) - 1 – MARIENTHAL A.S.C.C - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
- DE) - 1 vs MARIENTHAL A.S.C.C - 1\n\nCOSEC\n📍 Rue du Capitaine Mondelli
-  Bitche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigat
- e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
- //competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200
- 000014651989
-LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+UID:df4-ges-bas-rhin-poule-a-2027-01-30-00-00-hambach-bc-2-morschwiller-fcj
+ -2@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:HAMBACH BC - 2 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC - 
+ 2 vs MORSCHWILLER FCJ - 2\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambach 
+ 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/2000000146
+ 51982
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651989
+ match/200000014651982
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-01-30-00-00-wissembourg-bc-1-saverne-tric
+ olore-st-@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:WISSEMBOURG BC - 1 – SAVERNE TRICOLORE ST JEAN - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WISSEMBOURG B
+ C - 1 vs SAVERNE TRICOLORE ST JEAN - 1\n\nGYMNASE DU LYCEE\n📍 Rue du Ly
+ cée Wissembourg 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.960
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651981
+LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651981
 END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-02-06-00-00-morschwiller-fcj-2-wissembour
  g-bc-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270206T000000
 DTEND;TZID=Europe/Paris:20270206T020000
 SUMMARY:MORSCHWILLER FCJ - 2 – WISSEMBOURG BC - 1
@@ -829,7 +795,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-02-06-00-00-walbourg-eschbach-basket-2-ha
  mbach-bc-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270206T000000
 DTEND;TZID=Europe/Paris:20270206T020000
 SUMMARY:WALBOURG ESCHBACH BASKET - 2 – HAMBACH BC - 2
@@ -844,9 +810,43 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651987
 END:VEVENT
 BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-02-06-00-00-soufflenheim-c-c-s-a-1-hatten
+ -bc-1@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – HATTEN BC - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 1 vs HATTEN BC - 1\n\nCENTRE SPORTIF LE CERAM\n📍 Soufflenheim
+  67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000014
+ 651988
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651988
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-02-06-00-00-bitche-pays-de-1-marienthal-a
+ -s-c-c-1@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:BITCHE (PAYS DE) - 1 – MARIENTHAL A.S.C.C - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
+ DE) - 1 vs MARIENTHAL A.S.C.C - 1\n\nCOSEC\n📍 Rue du Capitaine Mondelli
+  Bitche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200
+ 000014651989
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651989
+END:VEVENT
+BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-02-13-00-00-wissembourg-bc-1-walbourg-esc
  hbach-bas@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270213T000000
 DTEND;TZID=Europe/Paris:20270213T020000
 SUMMARY:WISSEMBOURG BC - 1 – WALBOURG ESCHBACH BASKET - 2
@@ -861,43 +861,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651991
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-02-13-00-00-hambach-bc-2-soufflenheim-c-c
- -s-a-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270213T000000
-DTEND;TZID=Europe/Paris:20270213T020000
-SUMMARY:HAMBACH BC - 2 – SOUFFLENHEIM C.C.S.A - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC - 
- 2 vs SOUFFLENHEIM C.C.S.A - 1\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hamb
- ach 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000
- 014651992
-LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651992
-END:VEVENT
-BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-02-13-00-00-hatten-bc-1-bitche-pays-de-1@
- ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270213T000000
-DTEND;TZID=Europe/Paris:20270213T020000
-SUMMARY:HATTEN BC - 1 – BITCHE (PAYS DE) - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HATTEN BC - 1
-  vs BITCHE (PAYS DE) - 1\n\nSALLE POLYVALENTE\n📍 Rue des Écoles Hatten
-  67690\n🚗 Waze : https://waze.com/ul?ll=48.90169\,7.98235&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000014
- 651993
-LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651993
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-02-13-00-00-saverne-tricolore-st-jean-1-m
  orschwill@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270213T000000
 DTEND;TZID=Europe/Paris:20270213T020000
 SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – MORSCHWILLER FCJ - 2
@@ -913,26 +879,43 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651994
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-03-13-00-00-walbourg-eschbach-basket-2-sa
- verne-tri@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270313T000000
-DTEND;TZID=Europe/Paris:20270313T020000
-SUMMARY:WALBOURG ESCHBACH BASKET - 2 – SAVERNE TRICOLORE ST JEAN - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
- BACH BASKET - 2 vs SAVERNE TRICOLORE ST JEAN - 1\n\nESPACE SPORTIF\n📍 R
- ue de la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.8730
- 6\,7.73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
- ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
- ions/df4/match/200000014651999
-LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+UID:df4-ges-bas-rhin-poule-a-2027-02-13-00-00-hatten-bc-1-bitche-pays-de-1@
+ ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:HATTEN BC - 1 – BITCHE (PAYS DE) - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HATTEN BC - 1
+  vs BITCHE (PAYS DE) - 1\n\nSALLE POLYVALENTE\n📍 Rue des Écoles Hatten
+  67690\n🚗 Waze : https://waze.com/ul?ll=48.90169\,7.98235&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000014
+ 651993
+LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014651999
+ match/200000014651993
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-02-13-00-00-hambach-bc-2-soufflenheim-c-c
+ -s-a-1@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:HAMBACH BC - 2 – SOUFFLENHEIM C.C.S.A - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC - 
+ 2 vs SOUFFLENHEIM C.C.S.A - 1\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hamb
+ ach 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200000
+ 014651992
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014651992
 END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-03-13-00-00-marienthal-a-s-c-c-1-hatten-b
  c-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270313T000000
 DTEND;TZID=Europe/Paris:20270313T020000
 SUMMARY:MARIENTHAL A.S.C.C - 1 – HATTEN BC - 1
@@ -949,7 +932,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-03-13-00-00-bitche-pays-de-1-hambach-bc-2
  @ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270313T000000
 DTEND;TZID=Europe/Paris:20270313T020000
 SUMMARY:BITCHE (PAYS DE) - 1 – HAMBACH BC - 2
@@ -966,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-03-13-00-00-soufflenheim-c-c-s-a-1-wissem
  bourg-bc-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270313T000000
 DTEND;TZID=Europe/Paris:20270313T020000
 SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – WISSEMBOURG BC - 1
@@ -981,60 +964,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014651996
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-03-20-00-00-wissembourg-bc-1-bitche-pays-
- de-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270320T000000
-DTEND;TZID=Europe/Paris:20270320T020000
-SUMMARY:WISSEMBOURG BC - 1 – BITCHE (PAYS DE) - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WISSEMBOURG B
- C - 1 vs BITCHE (PAYS DE) - 1\n\nGYMNASE DU LYCEE\n📍 Rue du Lycée Wiss
- embourg 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.9609&navigat
- e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
- //competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200
- 000014652001
-LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
+UID:df4-ges-bas-rhin-poule-a-2027-03-13-00-00-walbourg-eschbach-basket-2-sa
+ verne-tri@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:WALBOURG ESCHBACH BASKET - 2 – SAVERNE TRICOLORE ST JEAN - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 2 vs SAVERNE TRICOLORE ST JEAN - 1\n\nESPACE SPORTIF\n📍 R
+ ue de la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.8730
+ 6\,7.73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/df4/match/200000014651999
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014652001
-END:VEVENT
-BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-03-20-00-00-hambach-bc-2-marienthal-a-s-c
- -c-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270320T000000
-DTEND;TZID=Europe/Paris:20270320T020000
-SUMMARY:HAMBACH BC - 2 – MARIENTHAL A.S.C.C - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC - 
- 2 vs MARIENTHAL A.S.C.C - 1\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambac
- h 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000001
- 4652002
-LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014652002
-END:VEVENT
-BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-03-20-00-00-morschwiller-fcj-2-walbourg-e
- schbach-b@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270320T000000
-DTEND;TZID=Europe/Paris:20270320T020000
-SUMMARY:MORSCHWILLER FCJ - 2 – WALBOURG ESCHBACH BASKET - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
- FCJ - 2 vs WALBOURG ESCHBACH BASKET - 2\n\nESPACE SPORTIF ET CULTUREL\n
- 📍 Route de Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?
- ll=48.81323\,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
- \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
- 7/competitions/df4/match/200000014652003
-LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014652003
+ match/200000014651999
 END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-03-20-00-00-saverne-tricolore-st-jean-1-s
  oufflenhe@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270320T000000
 DTEND;TZID=Europe/Paris:20270320T020000
 SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – SOUFFLENHEIM C.C.S.A - 1
@@ -1050,9 +999,60 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014652004
 END:VEVENT
 BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-03-20-00-00-morschwiller-fcj-2-walbourg-e
+ schbach-b@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:MORSCHWILLER FCJ - 2 – WALBOURG ESCHBACH BASKET - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 2 vs WALBOURG ESCHBACH BASKET - 2\n\nESPACE SPORTIF ET CULTUREL\n
+ 📍 Route de Brumath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?
+ ll=48.81323\,7.63323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/df4/match/200000014652003
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652003
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-03-20-00-00-hambach-bc-2-marienthal-a-s-c
+ -c-1@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:HAMBACH BC - 2 – MARIENTHAL A.S.C.C - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC - 
+ 2 vs MARIENTHAL A.S.C.C - 1\n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambac
+ h 57910\n🚗 Waze : https://waze.com/ul?ll=49.06339\,7.03464&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/20000001
+ 4652002
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652002
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-03-20-00-00-wissembourg-bc-1-bitche-pays-
+ de-1@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270320T000000
+DTEND;TZID=Europe/Paris:20270320T020000
+SUMMARY:WISSEMBOURG BC - 1 – BITCHE (PAYS DE) - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ WISSEMBOURG B
+ C - 1 vs BITCHE (PAYS DE) - 1\n\nGYMNASE DU LYCEE\n📍 Rue du Lycée Wiss
+ embourg 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.9609&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match/200
+ 000014652001
+LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652001
+END:VEVENT
+BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-03-27-00-00-hatten-bc-1-hambach-bc-2@ffbb
  -agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270327T000000
 DTEND;TZID=Europe/Paris:20270327T020000
 SUMMARY:HATTEN BC - 1 – HAMBACH BC - 2
@@ -1069,7 +1069,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-03-27-00-00-bitche-pays-de-1-saverne-tric
  olore-st-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270327T000000
 DTEND;TZID=Europe/Paris:20270327T020000
 SUMMARY:BITCHE (PAYS DE) - 1 – SAVERNE TRICOLORE ST JEAN - 1
@@ -1086,7 +1086,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-03-27-00-00-soufflenheim-c-c-s-a-1-morsch
  willer-fc@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270327T000000
 DTEND;TZID=Europe/Paris:20270327T020000
 SUMMARY:SOUFFLENHEIM C.C.S.A - 1 – MORSCHWILLER FCJ - 2
@@ -1103,7 +1103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-03-27-00-00-marienthal-a-s-c-c-1-wissembo
  urg-bc-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270327T000000
 DTEND;TZID=Europe/Paris:20270327T020000
 SUMMARY:MARIENTHAL A.S.C.C - 1 – WISSEMBOURG BC - 1
@@ -1118,9 +1118,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014652006
 END:VEVENT
 BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-04-10-00-00-saverne-tricolore-st-jean-1-m
+ arienthal@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – MARIENTHAL A.S.C.C - 1
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE TRICO
+ LORE ST JEAN - 1 vs MARIENTHAL A.S.C.C - 1\n\nSALLE DES SPORTS DE ST J SAV
+ ERNE\n📍 Rue de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0067/competitions/df4/match/200000014652012
+LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
+ verne 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652012
+END:VEVENT
+BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-04-10-00-00-wissembourg-bc-1-hatten-bc-1@
  ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270410T000000
 DTEND;TZID=Europe/Paris:20270410T020000
 SUMMARY:WISSEMBOURG BC - 1 – HATTEN BC - 1
@@ -1137,7 +1155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-04-10-00-00-walbourg-eschbach-basket-2-so
  ufflenhei@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270410T000000
 DTEND;TZID=Europe/Paris:20270410T020000
 SUMMARY:WALBOURG ESCHBACH BASKET - 2 – SOUFFLENHEIM C.C.S.A - 1
@@ -1152,27 +1170,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014652014
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-04-10-00-00-saverne-tricolore-st-jean-1-m
- arienthal@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270410T000000
-DTEND;TZID=Europe/Paris:20270410T020000
-SUMMARY:SAVERNE TRICOLORE ST JEAN - 1 – MARIENTHAL A.S.C.C - 1
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ SAVERNE TRICO
- LORE ST JEAN - 1 vs MARIENTHAL A.S.C.C - 1\n\nSALLE DES SPORTS DE ST J SAV
- ERNE\n📍 Rue de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : https:/
- /waze.com/ul?ll=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas de d
- ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
- s/comites/0067/competitions/df4/match/200000014652012
-LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
- verne 67700
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014652012
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-04-10-00-00-morschwiller-fcj-2-bitche-pay
  s-de-1@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270410T000000
 DTEND;TZID=Europe/Paris:20270410T020000
 SUMMARY:MORSCHWILLER FCJ - 2 – BITCHE (PAYS DE) - 1
@@ -1187,43 +1187,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014652013
 END:VEVENT
 BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-05-15-00-00-bitche-pays-de-1-walbourg-esc
- hbach-bas@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270515T000000
-DTEND;TZID=Europe/Paris:20270515T020000
-SUMMARY:BITCHE (PAYS DE) - 1 – WALBOURG ESCHBACH BASKET - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
- DE) - 1 vs WALBOURG ESCHBACH BASKET - 2\n\nCOSEC\n📍 Rue du Capitaine Mo
- ndelli Bitche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/mat
- ch/200000014652019
-LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014652019
-END:VEVENT
-BEGIN:VEVENT
-UID:df4-ges-bas-rhin-poule-a-2027-05-15-00-00-marienthal-a-s-c-c-1-morschwi
- ller-fcj-@ffbb-agenda
-DTSTAMP:20260822T205311Z
-DTSTART;TZID=Europe/Paris:20270515T000000
-DTEND;TZID=Europe/Paris:20270515T020000
-SUMMARY:MARIENTHAL A.S.C.C - 1 – MORSCHWILLER FCJ - 2
-DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MARIENTHAL A.
- S.C.C - 1 vs MORSCHWILLER FCJ - 2\n\nSALLE POLYVALENTE\n📍 Rue de Lourde
- s Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.78304\,7.81814&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match
- /200000014652018
-LOCATION:SALLE POLYVALENTE\, Rue de Lourdes Haguenau 67500
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
- match/200000014652018
-END:VEVENT
-BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-05-15-00-00-hatten-bc-1-saverne-tricolore
  -st-jean-@ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270515T000000
 DTEND;TZID=Europe/Paris:20270515T020000
 SUMMARY:HATTEN BC - 1 – SAVERNE TRICOLORE ST JEAN - 1
@@ -1240,7 +1206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df4-ges-bas-rhin-poule-a-2027-05-15-00-00-hambach-bc-2-wissembourg-bc-1
  @ffbb-agenda
-DTSTAMP:20260822T205311Z
+DTSTAMP:20260823T205330Z
 DTSTART;TZID=Europe/Paris:20270515T000000
 DTEND;TZID=Europe/Paris:20270515T020000
 SUMMARY:HAMBACH BC - 2 – WISSEMBOURG BC - 1
@@ -1253,5 +1219,39 @@ DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC -
 LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
  match/200000014652016
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-05-15-00-00-marienthal-a-s-c-c-1-morschwi
+ ller-fcj-@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:MARIENTHAL A.S.C.C - 1 – MORSCHWILLER FCJ - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ MARIENTHAL A.
+ S.C.C - 1 vs MORSCHWILLER FCJ - 2\n\nSALLE POLYVALENTE\n📍 Rue de Lourde
+ s Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.78304\,7.81814&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/match
+ /200000014652018
+LOCATION:SALLE POLYVALENTE\, Rue de Lourdes Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652018
+END:VEVENT
+BEGIN:VEVENT
+UID:df4-ges-bas-rhin-poule-a-2027-05-15-00-00-bitche-pays-de-1-walbourg-esc
+ hbach-bas@ffbb-agenda
+DTSTAMP:20260823T205330Z
+DTSTART;TZID=Europe/Paris:20270515T000000
+DTEND;TZID=Europe/Paris:20270515T020000
+SUMMARY:BITCHE (PAYS DE) - 1 – WALBOURG ESCHBACH BASKET - 2
+DESCRIPTION:🏀 DF4 – GES – Bas-Rhin – Poule A\n⚔️ BITCHE (PAYS 
+ DE) - 1 vs WALBOURG ESCHBACH BASKET - 2\n\nCOSEC\n📍 Rue du Capitaine Mo
+ ndelli Bitche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/mat
+ ch/200000014652019
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df4/
+ match/200000014652019
 END:VEVENT
 END:VCALENDAR

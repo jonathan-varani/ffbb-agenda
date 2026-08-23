@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WITTERNHEIM  [DFU18-2 – GES – Poule D]
+X-WR-CALDESC:Matchs de WITTERNHEIM – DFU18-2 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-d-2026-09-12-00-00-erstein-bc-2-witternheim@
+ ffbb-agenda
+DTSTAMP:20260823T205415Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ ERSTEIN BC - 2 – WITTERNHEIM
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule D\n⚔️ ERSTEIN B
+ C - 2 vs WITTERNHEIM\n\nGYMNASE MARGUERITE YOURCENAR\n📍 Rue Victor Scho
+ elcher Erstein 67150\n🚗 Waze : https://waze.com/ul?ll=48.42265\,7.64994
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18
+ -2/match/200000014661018
+LOCATION:GYMNASE MARGUERITE YOURCENAR\, Rue Victor Schoelcher Erstein 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014661018
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-d-2026-09-26-00-00-kogenheim-sermersheim-b-c
+ -witternh@ffbb-agenda
+DTSTAMP:20260823T205415Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ KOGENHEIM/SERMERSHEIM B.C. – WITTERNHEIM
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule D\n⚔️ KOGENHEIM
+ /SERMERSHEIM B.C. vs WITTERNHEIM\n\nCENTRE SPORTIF\n📍 Rue du Stade Koge
+ nheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.33771\,7.5479&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18-2/match/2
+ 00000014661025
+LOCATION:CENTRE SPORTIF\, Rue du Stade Kogenheim 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014661025
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-d-2026-10-03-00-00-witternheim-sainte-croix-
+ aux-mines@ffbb-agenda
+DTSTAMP:20260823T205415Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 WITTERNHEIM – SAINTE CROIX AUX MINES C.S.N.
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule D\n⚔️ WITTERNHE
+ IM vs SAINTE CROIX AUX MINES C.S.N.\n\nHALL DES SPORTS\n📍 Rue de Hilsen
+ heim Witternheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.31211\,7.608
+ 34&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu
+ 18-2/match/200000014661028
+LOCATION:HALL DES SPORTS\, Rue de Hilsenheim Witternheim 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014661028
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-2-ges-bas-rhin-poule-d-2026-10-10-00-00-val-de-ville-b-c-witternh
+ eim@ffbb-agenda
+DTSTAMP:20260823T205415Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ VAL DE VILLE B.C. – WITTERNHEIM
+DESCRIPTION:🏀 DFU18-2 – GES – Bas-Rhin – Poule D\n⚔️ VAL DE VI
+ LLE B.C. vs WITTERNHEIM\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé 67220
+ \n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18-2/match/20000001
+ 4661031
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-2/match/200000014661031
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WEITBRUCH A.S.C.G  [DMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de WEITBRUCH A.S.C.G – DMU18 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-09-12-00-00-morschwiller-fcj-weitbruch-
+ a-s-c-g@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ MORSCHWILLER FCJ – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ MORSCHWILLE
+ R FCJ vs WEITBRUCH A.S.C.G\n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Br
+ umath Morschwiller 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.6
+ 3323&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ mu18/match/200000014660809
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660809
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-09-19-00-00-weitbruch-a-s-c-g-bischwill
+ er-f-c-j-@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – BISCHWILLER F.C.J.A.B.
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ WEITBRUCH A
+ .S.C.G vs BISCHWILLER F.C.J.A.B.\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de 
+ l'Église Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.
+ 77719&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu18/match/200000014660813
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660813
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-09-26-00-00-bitche-pays-de-weitbruch-a-
+ s-c-g@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ BITCHE (PAYS DE) – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ BITCHE (PAY
+ S DE) vs WEITBRUCH A.S.C.G\n\nCOSEC\n📍 Rue du Capitaine Mondelli Bitche
+  57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match/20000001
+ 4660814
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660814
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-10-03-00-00-asa-gries-oberhoffen-4-weit
+ bruch-a-s@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN - 4 – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ ASA GRIES /
+  OBERHOFFEN - 4 vs WEITBRUCH A.S.C.G\n\nESPACE SPORT LA FORET\n📍 Rue du
+  Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/m
+ atch/200000014660818
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660818
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-10-10-00-00-weitbruch-a-s-c-g-walbourg-
+ eschbach-@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – WALBOURG ESCHBACH BASKET
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ WEITBRUCH A
+ .S.C.G vs WALBOURG ESCHBACH BASKET\n\nSALLE POLYVALENTE GALLIA\n📍 Rue d
+ e l'Église Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,
+ 7.77719&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu18/match/200000014660822
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660822
+END:VEVENT
+END:VCALENDAR

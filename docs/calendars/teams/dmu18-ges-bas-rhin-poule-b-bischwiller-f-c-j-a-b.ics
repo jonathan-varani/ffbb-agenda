@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BISCHWILLER F.C.J.A.B.  [DMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de BISCHWILLER F.C.J.A.B. – DMU18 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-09-12-00-00-walbourg-eschbach-basket-bi
+ schwiller@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET – BISCHWILLER F.C.J.A.B.
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ WALBOURG ES
+ CHBACH BASKET vs BISCHWILLER F.C.J.A.B.\n\nESPACE SPORTIF\n📍 Rue de la 
+ Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.7365
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660810
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660810
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-09-19-00-00-weitbruch-a-s-c-g-bischwill
+ er-f-c-j-@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ WEITBRUCH A.S.C.G – BISCHWILLER F.C.J.A.B.
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ WEITBRUCH A
+ .S.C.G vs BISCHWILLER F.C.J.A.B.\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de 
+ l'Église Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.
+ 77719&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu18/match/200000014660813
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660813
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-09-26-00-00-bischwiller-f-c-j-a-b-asa-g
+ ries-ober@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 BISCHWILLER F.C.J.A.B. – ASA GRIES / OBERHOFFEN - 4
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ BISCHWILLER
+  F.C.J.A.B. vs ASA GRIES / OBERHOFFEN - 4\n\nSALLE ALSACE\n📍 Rue du Sta
+ de Bischwiller 67240\n🚗 Waze : https://waze.com/ul?ll=48.77651\,7.84547
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18
+ /match/200000014660815
+LOCATION:SALLE ALSACE\, Rue du Stade Bischwiller 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660815
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-10-03-00-00-bischwiller-f-c-j-a-b-morsc
+ hwiller-f@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BISCHWILLER F.C.J.A.B. – MORSCHWILLER FCJ
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ BISCHWILLER
+  F.C.J.A.B. vs MORSCHWILLER FCJ\n\nSALLE ALSACE\n📍 Rue du Stade Bischwi
+ ller 67240\n🚗 Waze : https://waze.com/ul?ll=48.77651\,7.84547&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match/200
+ 000014660819
+LOCATION:SALLE ALSACE\, Rue du Stade Bischwiller 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660819
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-b-2026-10-10-00-00-bitche-pays-de-bischwiller-
+ f-c-j-a-b@ffbb-agenda
+DTSTAMP:20260823T205713Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ BITCHE (PAYS DE) – BISCHWILLER F.C.J.A.B.
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule B\n⚔️ BITCHE (PAY
+ S DE) vs BISCHWILLER F.C.J.A.B.\n\nCOSEC\n📍 Rue du Capitaine Mondelli B
+ itche 57230\n🚗 Waze : https://waze.com/ul?ll=49.0571\,7.41789&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18/match/200
+ 000014660820
+LOCATION:COSEC\, Rue du Capitaine Mondelli Bitche 57230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660820
+END:VEVENT
+END:VCALENDAR

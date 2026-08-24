@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MORSCHWILLER FCJ - 4  [DM5 – GES – Poule A]
+X-WR-CALDESC:Matchs de MORSCHWILLER FCJ - 4 – DM5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-09-25-20-30-walbourg-eschbach-basket-4-mo
+ rschwille@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20260925T203000
+DTEND;TZID=Europe/Paris:20260925T223000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 4 – MORSCHWILLER FCJ - 4
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs MORSCHWILLER FCJ - 4\n\nESPACE SPORTIF\n📍 Rue de la 
+ Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.7365
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661713
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661713
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-10-10-20-30-soufflenheim-c-c-s-a-2-morsch
+ willer-fc@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ SOUFFLENHEIM C.C.S.A - 2 – MORSCHWILLER FCJ - 4
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs MORSCHWILLER FCJ - 4\n\nCENTRE SPORTIF LE CERAM\n📍 Souff
+ lenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/20
+ 0000014661729
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661729
+END:VEVENT
+END:VCALENDAR

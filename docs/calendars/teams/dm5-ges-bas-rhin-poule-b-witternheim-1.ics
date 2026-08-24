@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WITTERNHEIM - 1  [DM5 – GES – Poule B]
+X-WR-CALDESC:Matchs de WITTERNHEIM - 1 – DM5 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-09-26-20-30-offendorf-c-s-stpp-1-witternh
+ eim-1@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20260926T203000
+DTEND;TZID=Europe/Paris:20260926T223000
+SUMMARY:✈️ OFFENDORF C.S.STPP - 1 – WITTERNHEIM - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ OFFENDORF C.S
+ .STPP - 1 vs WITTERNHEIM - 1\n\nESPACE SPORTIF ET CULTUREL\n📍 Rue du Ci
+ metière Offendorf 67850\n🚗 Waze : https://waze.com/ul?ll=48.71254\,7.9
+ 1868&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ m5/match/200000014661845
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661845
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-11-15-10-30-holtzheim-vogesia-4-witternhe
+ im-1@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261115T103000
+DTEND;TZID=Europe/Paris:20261115T123000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 4 – WITTERNHEIM - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ HOLTZHEIM VOG
+ ESIA - 4 vs WITTERNHEIM - 1\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtz
+ heim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/20000
+ 0014661871
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661871
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-11-29-10-00-geispolsheim-c-j-s-5-witternh
+ eim-1@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261129T100000
+DTEND;TZID=Europe/Paris:20261129T120000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 5 – WITTERNHEIM - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 5 vs WITTERNHEIM - 1\n\nCENTRE SPORTIF\n📍 Rue de la Porte Bass
+ e Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/m
+ atch/200000014661884
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661884
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-01-31-09-00-selestat-bc-4-witternheim-1@f
+ fbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270131T090000
+DTEND;TZID=Europe/Paris:20270131T110000
+SUMMARY:✈️ SELESTAT BC - 4 – WITTERNHEIM - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT BC -
+  4 vs WITTERNHEIM - 1\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré Sélestat
+  67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/200000014
+ 661922
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661922
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-05-16-14-00-sainte-croix-aux-mines-c-s-n-
+ 2-wittern@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270516T140000
+DTEND;TZID=Europe/Paris:20270516T160000
+SUMMARY:✈️ SAINTE CROIX AUX MINES C.S.N. - 2 – WITTERNHEIM - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs WITTERNHEIM - 1\n\nSALLE DES SPORTS DE LA TIMBACH\
+ n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0067/competitions/dm5/match/200000014661968
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661968
+END:VEVENT
+END:VCALENDAR

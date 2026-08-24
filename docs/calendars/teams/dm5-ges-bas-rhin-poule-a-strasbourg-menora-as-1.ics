@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – STRASBOURG MENORA AS - 1  [DM5 – GES – Poule A]
+X-WR-CALDESC:Matchs de STRASBOURG MENORA AS - 1 – DM5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-12-20-16-30-soufflenheim-c-c-s-a-2-strasb
+ ourg-meno@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261220T163000
+DTEND;TZID=Europe/Paris:20261220T183000
+SUMMARY:✈️ SOUFFLENHEIM C.C.S.A - 2 – STRASBOURG MENORA AS - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs STRASBOURG MENORA AS - 1\n\nGYMNASE DU COLLEGE\n📍 Rue du
+  Collège Soufflenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.83583\
+ ,7.96524&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dm5/match/200000014661769
+LOCATION:GYMNASE DU COLLEGE\, Rue du Collège Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661769
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-05-02-10-00-walbourg-eschbach-basket-4-st
+ rasbourg-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270502T100000
+DTEND;TZID=Europe/Paris:20270502T120000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 4 – STRASBOURG MENORA AS - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs STRASBOURG MENORA AS - 1\n\nESPACE SPORTIF\n📍 Rue de
+  la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.
+ 73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dm5/match/200000014661827
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661827
+END:VEVENT
+END:VCALENDAR

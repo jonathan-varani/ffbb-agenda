@@ -1,0 +1,297 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAINTE CROIX AUX MINES C.S.N. - 2  [DM5 – GES – Poule B]
+X-WR-CALDESC:Matchs de SAINTE CROIX AUX MINES C.S.N. - 2 – DM5 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-09-27-10-30-holtzheim-vogesia-4-sainte-cr
+ oix-aux-m@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20260927T103000
+DTEND;TZID=Europe/Paris:20260927T123000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 4 – SAINTE CROIX AUX MINES C.S.N. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ HOLTZHEIM VOG
+ ESIA - 4 vs SAINTE CROIX AUX MINES C.S.N. - 2\n\nSALLE DE LA BRUCHE\n📍 
+ Rue du Stade Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\
+ ,7.63555&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dm5/match/200000014661847
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661847
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-10-04-16-00-sainte-croix-aux-mines-c-s-n-
+ 2-wangenb@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261004T160000
+DTEND;TZID=Europe/Paris:20261004T180000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – WANGENBOURG-ENGENTHAL U.
+ S. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs WANGENBOURG-ENGENTHAL U.S. - 2\n\nSALLE DES SPORTS
+  DE LA TIMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0067/competitions/dm5/match/200000014661852
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661852
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-10-10-20-30-offendorf-c-s-stpp-1-sainte-c
+ roix-aux-@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ OFFENDORF C.S.STPP - 1 – SAINTE CROIX AUX MINES C.S.N. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ OFFENDORF C.S
+ .STPP - 1 vs SAINTE CROIX AUX MINES C.S.N. - 2\n\nESPACE SPORTIF ET CULTUR
+ EL\n📍 Rue du Cimetière Offendorf 67850\n🚗 Waze : https://waze.com/u
+ l?ll=48.71254\,7.91868&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/dm5/match/200000014661857
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661857
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-10-18-14-00-sainte-croix-aux-mines-c-s-n-
+ 2-selesta@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261018T140000
+DTEND;TZID=Europe/Paris:20261018T160000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – SELESTAT BC - 4
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs SELESTAT BC - 4\n\nSALLE DES SPORTS DE LA TIMBACH\
+ n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0067/competitions/dm5/match/200000014661868
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661868
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-11-22-16-00-sainte-croix-aux-mines-c-s-n-
+ 2-urmatt-@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261122T160000
+DTEND;TZID=Europe/Paris:20261122T180000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – URMATT BC - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs URMATT BC - 2\n\nSALLE DES SPORTS DE LA TIMBACH\n
+ 📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : https://waz
+ e.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0067/competitions/dm5/match/200000014661878
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661878
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-12-06-14-00-sainte-croix-aux-mines-c-s-n-
+ 2-geispol@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261206T140000
+DTEND;TZID=Europe/Paris:20261206T160000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – GEISPOLSHEIM C.J.S. - 5
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs GEISPOLSHEIM C.J.S. - 5\n\nSALLE DES SPORTS DE LA 
+ TIMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0067/competitions/dm5/match/200000014661892
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661892
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-12-13-14-00-sainte-croix-aux-mines-c-s-n-
+ 2-kogenhe@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261213T140000
+DTEND;TZID=Europe/Paris:20261213T160000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – KOGENHEIM/SERMERSHEIM B.
+ C. - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nSALLE DES SPORTS
+  DE LA TIMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0067/competitions/dm5/match/200000014661897
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661897
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-01-17-16-00-sainte-croix-aux-mines-c-s-n-
+ 2-bruche-@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270117T160000
+DTEND;TZID=Europe/Paris:20270117T180000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – BRUCHE SPORTS ACADEMY - 
+ 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs BRUCHE SPORTS ACADEMY - 1\n\nSALLE DES SPORTS DE L
+ A TIMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : 
+ https://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0067/competitions/dm5/match/200000014661909
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661909
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-01-24-16-00-sainte-croix-aux-mines-c-s-n-
+ 2-holtzhe@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270124T160000
+DTEND;TZID=Europe/Paris:20270124T180000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – HOLTZHEIM VOGESIA - 4
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs HOLTZHEIM VOGESIA - 4\n\nSALLE DES SPORTS DE LA TI
+ MBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : http
+ s://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0067/competitions/dm5/match/200000014661913
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661913
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-02-07-14-00-sainte-croix-aux-mines-c-s-n-
+ 2-offendo@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270207T140000
+DTEND;TZID=Europe/Paris:20270207T160000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – OFFENDORF C.S.STPP - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs OFFENDORF C.S.STPP - 1\n\nSALLE DES SPORTS DE LA T
+ IMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : htt
+ ps://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0067/competitions/dm5/match/200000014661923
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661923
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-02-14-09-00-selestat-bc-4-sainte-croix-au
+ x-mines-c@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270214T090000
+DTEND;TZID=Europe/Paris:20270214T110000
+SUMMARY:✈️ SELESTAT BC - 4 – SAINTE CROIX AUX MINES C.S.N. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT BC -
+  4 vs SAINTE CROIX AUX MINES C.S.N. - 2\n\nGYMNASE DORLAN\n📍 Rue Gabrie
+ l Fauré Sélestat 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.4
+ 3429&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ m5/match/200000014661934
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661934
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-03-14-14-00-sainte-croix-aux-mines-c-s-n-
+ 2-ohnheim@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270314T140000
+DTEND;TZID=Europe/Paris:20270314T160000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – OHNHEIM C.S.S.A. - 5
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs OHNHEIM C.S.S.A. - 5\n\nSALLE DES SPORTS DE LA TIM
+ BACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : https
+ ://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0067/competitions/dm5/match/200000014661939
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661939
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-03-28-14-00-sainte-croix-aux-mines-c-s-n-
+ 2-ie-ctc-@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270328T140000
+DTEND;TZID=Europe/Paris:20270328T160000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – IE - CTC M2B - MOLSHEIM 
+ CSTG - 3
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs IE - CTC M2B - MOLSHEIM CSTG - 3\n\nSALLE DES SPOR
+ TS DE LA TIMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 
+ Waze : https://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0067/competitions/dm5/match/200000014661952
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661952
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-04-11-10-00-geispolsheim-c-j-s-5-sainte-c
+ roix-aux-@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270411T100000
+DTEND;TZID=Europe/Paris:20270411T120000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 5 – SAINTE CROIX AUX MINES C.S.N. - 
+ 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 5 vs SAINTE CROIX AUX MINES C.S.N. - 2\n\nCENTRE SPORTIF\n📍 Ru
+ e de la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll
+ =48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm5/match/200000014661958
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661958
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-05-16-14-00-sainte-croix-aux-mines-c-s-n-
+ 2-wittern@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270516T140000
+DTEND;TZID=Europe/Paris:20270516T160000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. - 2 – WITTERNHEIM - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs WITTERNHEIM - 1\n\nSALLE DES SPORTS DE LA TIMBACH\
+ n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0067/competitions/dm5/match/200000014661968
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661968
+END:VEVENT
+END:VCALENDAR

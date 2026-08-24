@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VAL DE VILLE B.C. - 2  [DM4 – GES – Poule D]
+X-WR-CALDESC:Matchs de VAL DE VILLE B.C. - 2 – DM4 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-d-2026-10-17-20-30-bindernheim-c-s-u-2-val-de-vi
+ lle-b-c-2@ffbb-agenda
+DTSTAMP:20260824T210838Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:✈️ BINDERNHEIM C.S.U. - 2 – VAL DE VILLE B.C. - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule D\n⚔️ BINDERNHEIM C
+ .S.U. - 2 vs VAL DE VILLE B.C. - 2\n\nSALLE POLYVALENTE\n📍 Rue de Witte
+ rnheim Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.28678\,7.6
+ 0704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ m4/match/200000014662398
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662398
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-d-2027-02-05-20-30-hindisheim-c-s-e-3-val-de-vil
+ le-b-c-2@ffbb-agenda
+DTSTAMP:20260824T210838Z
+DTSTART;TZID=Europe/Paris:20270205T203000
+DTEND;TZID=Europe/Paris:20270205T223000
+SUMMARY:✈️ HINDISHEIM C.S.E - 3 – VAL DE VILLE B.C. - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule D\n⚔️ HINDISHEIM C.
+ S.E - 3 vs VAL DE VILLE B.C. - 2\n\nSALLE STE ETIENNE\n📍 Rue du Stade H
+ indisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/
+ 200000014662458
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662458
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-d-2027-03-14-10-30-schirmeck-lb-1-val-de-ville-b
+ -c-2@ffbb-agenda
+DTSTAMP:20260824T210838Z
+DTSTART;TZID=Europe/Paris:20270314T103000
+DTEND;TZID=Europe/Paris:20270314T123000
+SUMMARY:✈️ SCHIRMECK LB - 1 – VAL DE VILLE B.C. - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule D\n⚔️ SCHIRMECK LB 
+ - 1 vs VAL DE VILLE B.C. - 2\n\nHALL DES SPORTS SCHIRMECK\n📍 Rue des Gr
+ ives Schirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.48212\,7.22795
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/m
+ atch/200000014662470
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662470
+END:VEVENT
+END:VCALENDAR

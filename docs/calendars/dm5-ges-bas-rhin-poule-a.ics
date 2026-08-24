@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DM5 – GES – Bas-Rhin – Poule A
+X-WR-CALDESC:Tous les matchs DM5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-09-25-20-30-walbourg-eschbach-basket-4-mo
+ rschwille@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20260925T203000
+DTEND;TZID=Europe/Paris:20260925T223000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – MORSCHWILLER FCJ - 4
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs MORSCHWILLER FCJ - 4\n\nESPACE SPORTIF\n📍 Rue de la 
+ Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.7365
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661713
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661713
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-09-26-18-30-soufflenheim-c-c-s-a-2-strasb
+ ourg-libe@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20260926T183000
+DTEND;TZID=Europe/Paris:20260926T203000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – STRASBOURG LIBELLULES B.C. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs STRASBOURG LIBELLULES B.C. - 2\n\nCENTRE SPORTIF LE CERAM\n
+ 📍 Soufflenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95
+ 924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ 5/match/200000014661717
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661717
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-10-09-00-00-walbourg-eschbach-basket-4-ra
+ cing-club@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261009T000000
+DTEND;TZID=Europe/Paris:20261009T020000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – RACING CLUB DE STRASBOURG - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs RACING CLUB DE STRASBOURG - 2\n\nSALLE POLYVALENTE\n
+ 📍 Grand Rue Walbourg 67360\n🚗 Waze : https://waze.com/ul?ll=48.88656
+ \,7.78906&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dm5/match/200000014661725
+LOCATION:SALLE POLYVALENTE\, Grand Rue Walbourg 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661725
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-10-10-20-30-soufflenheim-c-c-s-a-2-morsch
+ willer-fc@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – MORSCHWILLER FCJ - 4
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs MORSCHWILLER FCJ - 4\n\nCENTRE SPORTIF LE CERAM\n📍 Souff
+ lenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/20
+ 0000014661729
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661729
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-10-17-00-00-soufflenheim-c-c-s-a-2-drusen
+ heim-a-b-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – DRUSENHEIM A.B.C. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs DRUSENHEIM A.B.C. - 2\n\nCENTRE SPORTIF LE CERAM\n📍 Souf
+ flenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/2
+ 00000014661735
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661735
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-11-13-20-30-walbourg-eschbach-basket-4-st
+ rasbourg-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261113T203000
+DTEND;TZID=Europe/Paris:20261113T223000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – STRASBOURG LIBELLULES B.C. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs STRASBOURG LIBELLULES B.C. - 2\n\nESPACE SPORTIF\n📍 
+ Rue de la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.873
+ 06\,7.73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dm5/match/200000014661737
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661737
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-11-14-20-30-soufflenheim-c-c-s-a-2-racing
+ -club-de-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – RACING CLUB DE STRASBOURG - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs RACING CLUB DE STRASBOURG - 2\n\nCENTRE SPORTIF LE CERAM\n
+ 📍 Soufflenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95
+ 924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ 5/match/200000014661741
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661741
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-11-28-18-30-soufflenheim-c-c-s-a-2-alsace
+ -bossue-b@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261128T183000
+DTEND;TZID=Europe/Paris:20261128T203000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – ALSACE BOSSUE BC - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs ALSACE BOSSUE BC - 1\n\nCENTRE SPORTIF LE CERAM\n📍 Souff
+ lenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/20
+ 0000014661750
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661750
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-12-06-00-00-walbourg-eschbach-basket-4-so
+ ufflenhei@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261206T000000
+DTEND;TZID=Europe/Paris:20261206T020000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – SOUFFLENHEIM C.C.S.A - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs SOUFFLENHEIM C.C.S.A - 2\n\nESPACE SPORTIF\n📍 Rue de
+  la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.
+ 73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dm5/match/200000014661755
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661755
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-12-20-10-00-walbourg-eschbach-basket-4-bi
+ tche-pays@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261220T100000
+DTEND;TZID=Europe/Paris:20261220T120000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – BITCHE (PAYS DE) - 3
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs BITCHE (PAYS DE) - 3\n\nESPACE SPORTIF\n📍 Rue de la 
+ Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.7365
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661767
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661767
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-12-20-16-30-soufflenheim-c-c-s-a-2-strasb
+ ourg-meno@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261220T163000
+DTEND;TZID=Europe/Paris:20261220T183000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – STRASBOURG MENORA AS - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs STRASBOURG MENORA AS - 1\n\nGYMNASE DU COLLEGE\n📍 Rue du
+  Collège Soufflenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.83583\
+ ,7.96524&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dm5/match/200000014661769
+LOCATION:GYMNASE DU COLLEGE\, Rue du Collège Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661769
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-01-29-20-30-walbourg-eschbach-basket-4-dr
+ usenheim-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270129T203000
+DTEND;TZID=Europe/Paris:20270129T223000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – DRUSENHEIM A.B.C. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs DRUSENHEIM A.B.C. - 2\n\nESPACE SPORTIF\n📍 Rue de la
+  Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.736
+ 58&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5
+ /match/200000014661785
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661785
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-01-30-20-30-soufflenheim-c-c-s-a-2-unitas
+ -brumath-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – UNITAS BRUMATH BASKET - 3
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs UNITAS BRUMATH BASKET - 3\n\nCENTRE SPORTIF LE CERAM\n📍 
+ Soufflenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/mat
+ ch/200000014661789
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661789
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-02-12-20-30-walbourg-eschbach-basket-4-sa
+ int-josep@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270212T203000
+DTEND;TZID=Europe/Paris:20270212T223000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – SAINT JOSEPH - STRASBOURG - 6
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs SAINT JOSEPH - STRASBOURG - 6\n\nESPACE SPORTIF\n📍 R
+ ue de la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.8730
+ 6\,7.73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dm5/match/200000014661797
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661797
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-02-13-00-00-drusenheim-a-b-c-2-soufflenhe
+ im-c-c-s-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:DRUSENHEIM A.B.C. - 2 – SOUFFLENHEIM C.C.S.A - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ DRUSENHEIM A.
+ B.C. - 2 vs SOUFFLENHEIM C.C.S.A - 2\n\nGYMNASE INTERCOMMUNAL\n📍 Rue du
+  Collège Drusenheim 67410\n🚗 Waze : https://waze.com/ul?ll=48.76147\,7
+ .95978&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dm5/match/200000014661801
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Collège Drusenheim 67410
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661801
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-03-19-20-30-walbourg-eschbach-basket-4-un
+ itas-brum@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270319T203000
+DTEND;TZID=Europe/Paris:20270319T223000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – UNITAS BRUMATH BASKET - 3
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs UNITAS BRUMATH BASKET - 3\n\nSALLE POLYVALENTE\n📍 Gr
+ and Rue Walbourg 67360\n🚗 Waze : https://waze.com/ul?ll=48.88656\,7.789
+ 06&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5
+ /match/200000014661809
+LOCATION:SALLE POLYVALENTE\, Grand Rue Walbourg 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661809
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-03-20-20-30-soufflenheim-c-c-s-a-2-saint-
+ joseph-st@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – SAINT JOSEPH - STRASBOURG - 6
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs SAINT JOSEPH - STRASBOURG - 6\n\nCENTRE SPORTIF LE CERAM\n
+ 📍 Soufflenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95
+ 924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ 5/match/200000014661813
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661813
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-03-28-10-00-walbourg-eschbach-basket-4-ha
+ mbach-bc-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270328T100000
+DTEND;TZID=Europe/Paris:20270328T120000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – HAMBACH BC - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs HAMBACH BC - 2\n\nESPACE SPORTIF\n📍 Rue de la Forêt
+  Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.73658&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/
+ 200000014661815
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661815
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-04-10-18-30-soufflenheim-c-c-s-a-2-walbou
+ rg-eschba@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270410T183000
+DTEND;TZID=Europe/Paris:20270410T203000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – WALBOURG ESCHBACH BASKET - 4
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs WALBOURG ESCHBACH BASKET - 4\n\nCENTRE SPORTIF LE CERAM\n
+ 📍 Soufflenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95
+ 924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ 5/match/200000014661821
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661821
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-05-02-10-00-walbourg-eschbach-basket-4-st
+ rasbourg-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270502T100000
+DTEND;TZID=Europe/Paris:20270502T120000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – STRASBOURG MENORA AS - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs STRASBOURG MENORA AS - 1\n\nESPACE SPORTIF\n📍 Rue de
+  la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.
+ 73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dm5/match/200000014661827
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661827
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-05-02-14-00-soufflenheim-c-c-s-a-2-hambac
+ h-bc-2@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270502T140000
+DTEND;TZID=Europe/Paris:20270502T160000
+SUMMARY:SOUFFLENHEIM C.C.S.A - 2 – HAMBACH BC - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs HAMBACH BC - 2\n\nCENTRE SPORTIF LE CERAM\n📍 Soufflenhei
+ m 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/20000001
+ 4661829
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661829
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-05-21-20-30-walbourg-eschbach-basket-4-al
+ sace-boss@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270521T203000
+DTEND;TZID=Europe/Paris:20270521T223000
+SUMMARY:WALBOURG ESCHBACH BASKET - 4 – ALSACE BOSSUE BC - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs ALSACE BOSSUE BC - 1\n\nESPACE SPORTIF\n📍 Rue de la 
+ Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.7365
+ 8&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661839
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661839
+END:VEVENT
+END:VCALENDAR

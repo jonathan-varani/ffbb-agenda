@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WANTZENAU (LA) A.S.C.SP - 2  [DM4 – GES – Poule A]
+X-WR-CALDESC:Matchs de WANTZENAU (LA) A.S.C.SP - 2 – DM4 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-10-11-10-00-w-o-s-b-3-wantzenau-la-a-s-c-
+ sp-2@ffbb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20261011T100000
+DTEND;TZID=Europe/Paris:20261011T120000
+SUMMARY:✈️ W.O.S.B. - 3 – WANTZENAU (LA) A.S.C.SP - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs WANTZENAU (LA) A.S.C.SP - 2\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la
+  Gare Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.3
+ 7527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ m4/match/200000014661996
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014661996
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-12-20-17-30-walbourg-eschbach-basket-3-wa
+ ntzenau-l@ffbb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20261220T173000
+DTEND;TZID=Europe/Paris:20261220T193000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 3 – WANTZENAU (LA) A.S.C.SP - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 3 vs WANTZENAU (LA) A.S.C.SP - 2\n\nESPACE SPORTIF\n📍 Rue
+  de la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\
+ ,7.73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dm4/match/200000014662042
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662042
+END:VEVENT
+END:VCALENDAR

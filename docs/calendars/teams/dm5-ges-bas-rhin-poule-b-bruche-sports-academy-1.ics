@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BRUCHE SPORTS ACADEMY - 1  [DM5 – GES – Poule B]
+X-WR-CALDESC:Matchs de BRUCHE SPORTS ACADEMY - 1 – DM5 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-10-11-10-30-holtzheim-vogesia-4-bruche-sp
+ orts-acad@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261011T103000
+DTEND;TZID=Europe/Paris:20261011T123000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 4 – BRUCHE SPORTS ACADEMY - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ HOLTZHEIM VOG
+ ESIA - 4 vs BRUCHE SPORTS ACADEMY - 1\n\nSALLE DE LA BRUCHE\n📍 Rue du S
+ tade Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/m
+ atch/200000014661859
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661859
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-12-13-10-00-geispolsheim-c-j-s-5-bruche-s
+ ports-aca@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261213T100000
+DTEND;TZID=Europe/Paris:20261213T120000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 5 – BRUCHE SPORTS ACADEMY - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 5 vs BRUCHE SPORTS ACADEMY - 1\n\nCENTRE SPORTIF\n📍 Rue de la 
+ Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.5168
+ 1\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dm5/match/200000014661898
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661898
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-01-17-16-00-sainte-croix-aux-mines-c-s-n-
+ 2-bruche-@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270117T160000
+DTEND;TZID=Europe/Paris:20270117T180000
+SUMMARY:✈️ SAINTE CROIX AUX MINES C.S.N. - 2 – BRUCHE SPORTS ACADEMY 
+ - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs BRUCHE SPORTS ACADEMY - 1\n\nSALLE DES SPORTS DE L
+ A TIMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : 
+ https://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0067/competitions/dm5/match/200000014661909
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661909
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-03-21-09-00-selestat-bc-4-bruche-sports-a
+ cademy-1@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270321T090000
+DTEND;TZID=Europe/Paris:20270321T110000
+SUMMARY:✈️ SELESTAT BC - 4 – BRUCHE SPORTS ACADEMY - 1
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT BC -
+  4 vs BRUCHE SPORTS ACADEMY - 1\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré
+  Sélestat 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match
+ /200000014661946
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661946
+END:VEVENT
+END:VCALENDAR

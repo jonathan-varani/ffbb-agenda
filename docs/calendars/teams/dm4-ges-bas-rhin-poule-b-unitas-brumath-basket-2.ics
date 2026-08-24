@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – UNITAS BRUMATH BASKET - 2  [DM4 – GES – Poule B]
+X-WR-CALDESC:Matchs de UNITAS BRUMATH BASKET - 2 – DM4 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-b-2026-09-27-17-00-niederschaeffolsheim-c-s-m-1-
+ unitas-br@ffbb-agenda
+DTSTAMP:20260824T210831Z
+DTSTART;TZID=Europe/Paris:20260927T170000
+DTEND;TZID=Europe/Paris:20260927T190000
+SUMMARY:✈️ NIEDERSCHAEFFOLSHEIM C.S.M. - 1 – UNITAS BRUMATH BASKET - 
+ 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule B\n⚔️ NIEDERSCHAEFF
+ OLSHEIM C.S.M. - 1 vs UNITAS BRUMATH BASKET - 2\n\nESPACE SPORTIF ET CULTU
+ REL\n📍 Rue du Stade Niederschaeffolsheim 67500\n🚗 Waze : https://waz
+ e.com/ul?ll=48.76974\,7.74211&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0067/competitions/dm4/match/200000014662116
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Stade Niederschaeffolsheim 675
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662116
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-b-2026-11-14-20-30-kriegsheim-r-asc-2-unitas-bru
+ math-bask@ffbb-agenda
+DTSTAMP:20260824T210831Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ KRIEGSHEIM/R. ASC - 2 – UNITAS BRUMATH BASKET - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule B\n⚔️ KRIEGSHEIM/R.
+  ASC - 2 vs UNITAS BRUMATH BASKET - 2\n\nHALL DES SPORTS\n📍 Rue de Rott
+ elsheim Kriegsheim 67170\n🚗 Waze : https://waze.com/ul?ll=48.75781\,7.7
+ 2378&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ m4/match/200000014662142
+LOCATION:HALL DES SPORTS\, Rue de Rottelsheim Kriegsheim 67170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662142
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-b-2027-02-14-10-30-griesheim-dingsheim-b-c-1-uni
+ tas-bruma@ffbb-agenda
+DTSTAMP:20260824T210831Z
+DTSTART;TZID=Europe/Paris:20270214T103000
+DTEND;TZID=Europe/Paris:20270214T123000
+SUMMARY:✈️ GRIESHEIM/DINGSHEIM B.C. - 1 – UNITAS BRUMATH BASKET - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule B\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 1 vs UNITAS BRUMATH BASKET - 2\n\nLES PORTES DU KOCHERSBERG\
+ n📍 Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?
+ ll=48.63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/dm4/match/200000014662203
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662203
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-b-2027-03-21-17-00-hatten-bc-1-unitas-brumath-ba
+ sket-2@ffbb-agenda
+DTSTAMP:20260824T210831Z
+DTSTART;TZID=Europe/Paris:20270321T170000
+DTEND;TZID=Europe/Paris:20270321T190000
+SUMMARY:✈️ HATTEN BC - 1 – UNITAS BRUMATH BASKET - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule B\n⚔️ HATTEN BC - 1
+  vs UNITAS BRUMATH BASKET - 2\n\nSALLE POLYVALENTE\n📍 Rue des Écoles H
+ atten 67690\n🚗 Waze : https://waze.com/ul?ll=48.90169\,7.98235&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/2000
+ 00014662213
+LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662213
+END:VEVENT
+END:VCALENDAR

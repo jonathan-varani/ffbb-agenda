@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – URMATT BC - 2  [DM5 – GES – Poule B]
+X-WR-CALDESC:Matchs de URMATT BC - 2 – DM5 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-11-22-16-00-sainte-croix-aux-mines-c-s-n-
+ 2-urmatt-@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261122T160000
+DTEND;TZID=Europe/Paris:20261122T180000
+SUMMARY:✈️ SAINTE CROIX AUX MINES C.S.N. - 2 – URMATT BC - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs URMATT BC - 2\n\nSALLE DES SPORTS DE LA TIMBACH\n
+ 📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : https://waz
+ e.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0067/competitions/dm5/match/200000014661878
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661878
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-02-07-10-00-geispolsheim-c-j-s-5-urmatt-b
+ c-2@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270207T100000
+DTEND;TZID=Europe/Paris:20270207T120000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 5 – URMATT BC - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 5 vs URMATT BC - 2\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse 
+ Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/mat
+ ch/200000014661926
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661926
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-03-28-10-30-holtzheim-vogesia-4-urmatt-bc
+ -2@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270328T103000
+DTEND;TZID=Europe/Paris:20270328T123000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 4 – URMATT BC - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ HOLTZHEIM VOG
+ ESIA - 4 vs URMATT BC - 2\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzhe
+ im 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/2000000
+ 14661949
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661949
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-05-01-20-30-offendorf-c-s-stpp-1-urmatt-b
+ c-2@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270501T203000
+DTEND;TZID=Europe/Paris:20270501T223000
+SUMMARY:✈️ OFFENDORF C.S.STPP - 1 – URMATT BC - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ OFFENDORF C.S
+ .STPP - 1 vs URMATT BC - 2\n\nESPACE SPORTIF ET CULTUREL\n📍 Rue du Cime
+ tière Offendorf 67850\n🚗 Waze : https://waze.com/ul?ll=48.71254\,7.918
+ 68&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5
+ /match/200000014661959
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661959
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-05-23-09-00-selestat-bc-4-urmatt-bc-2@ffb
+ b-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270523T090000
+DTEND;TZID=Europe/Paris:20270523T110000
+SUMMARY:✈️ SELESTAT BC - 4 – URMATT BC - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT BC -
+  4 vs URMATT BC - 2\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré Sélestat 6
+ 7600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/20000001466
+ 1973
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661973
+END:VEVENT
+END:VCALENDAR

@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-09-19-15-15-vendenheim-bc-ohnheim-c-s-s
  -a@ffbb-agenda
-DTSTAMP:20260823T205501Z
+DTSTAMP:20260824T210707Z
 DTSTART;TZID=Europe/Paris:20260919T151500
 DTEND;TZID=Europe/Paris:20260919T171500
 SUMMARY:✈️ VENDENHEIM BC – OHNHEIM C.S.S.A.
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-09-26-13-30-ohnheim-c-s-s-a-asa-weyersh
  eim-3@ffbb-agenda
-DTSTAMP:20260823T205501Z
+DTSTAMP:20260824T210707Z
 DTSTART;TZID=Europe/Paris:20260926T133000
 DTEND;TZID=Europe/Paris:20260926T153000
 SUMMARY:🏠 OHNHEIM C.S.S.A. – ASA WEYERSHEIM - 3
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-10-03-13-30-ohnheim-c-s-s-a-basket-club
  -nord-als@ffbb-agenda
-DTSTAMP:20260823T205501Z
+DTSTAMP:20260824T210707Z
 DTSTART;TZID=Europe/Paris:20261003T133000
 DTEND;TZID=Europe/Paris:20261003T153000
 SUMMARY:🏠 OHNHEIM C.S.S.A. – BASKET CLUB NORD ALSACE
@@ -73,5 +73,23 @@ DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ OHNHEIM C.S
 LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  3/match/200000014660322
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-10-10-00-00-schweighouse-ohlungen-b-c-o
+ hnheim-c-@ffbb-agenda
+DTSTAMP:20260824T210707Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ SCHWEIGHOUSE/OHLUNGEN B.C. – OHNHEIM C.S.S.A.
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ SCHWEIGHOUS
+ E/OHLUNGEN B.C. vs OHNHEIM C.S.S.A.\n\nCENTRE ROBERT KAEUFLING\n📍 Rue d
+ es Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https://waze.com/ul?ll
+ =48.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dfu13/match/200000014660327
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660327
 END:VEVENT
 END:VCALENDAR

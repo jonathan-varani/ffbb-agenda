@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DRUSENHEIM A.B.C. - 2  [DM5 – GES – Poule A]
+X-WR-CALDESC:Matchs de DRUSENHEIM A.B.C. - 2 – DM5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-10-17-00-00-soufflenheim-c-c-s-a-2-drusen
+ heim-a-b-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:✈️ SOUFFLENHEIM C.C.S.A - 2 – DRUSENHEIM A.B.C. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs DRUSENHEIM A.B.C. - 2\n\nCENTRE SPORTIF LE CERAM\n📍 Souf
+ flenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95924&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/match/2
+ 00000014661735
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661735
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-01-29-20-30-walbourg-eschbach-basket-4-dr
+ usenheim-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270129T203000
+DTEND;TZID=Europe/Paris:20270129T223000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 4 – DRUSENHEIM A.B.C. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs DRUSENHEIM A.B.C. - 2\n\nESPACE SPORTIF\n📍 Rue de la
+  Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.736
+ 58&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5
+ /match/200000014661785
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661785
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-02-13-00-00-drusenheim-a-b-c-2-soufflenhe
+ im-c-c-s-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 DRUSENHEIM A.B.C. - 2 – SOUFFLENHEIM C.C.S.A - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ DRUSENHEIM A.
+ B.C. - 2 vs SOUFFLENHEIM C.C.S.A - 2\n\nGYMNASE INTERCOMMUNAL\n📍 Rue du
+  Collège Drusenheim 67410\n🚗 Waze : https://waze.com/ul?ll=48.76147\,7
+ .95978&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dm5/match/200000014661801
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Collège Drusenheim 67410
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661801
+END:VEVENT
+END:VCALENDAR

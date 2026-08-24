@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC SOW - OSTHOUSE CSTB - 3  [DM4 – GES – Poule D]
+X-WR-CALDESC:Matchs de IE - CTC SOW - OSTHOUSE CSTB - 3 – DM4 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-d-2026-11-27-20-30-hindisheim-c-s-e-3-ie-ctc-sow
+ -osthouse@ffbb-agenda
+DTSTAMP:20260824T210838Z
+DTSTART;TZID=Europe/Paris:20261127T203000
+DTEND;TZID=Europe/Paris:20261127T223000
+SUMMARY:✈️ HINDISHEIM C.S.E - 3 – IE - CTC SOW - OSTHOUSE CSTB - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule D\n⚔️ HINDISHEIM C.
+ S.E - 3 vs IE - CTC SOW - OSTHOUSE CSTB - 3\n\nSALLE STE ETIENNE\n📍 Rue
+  du Stade Hindisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7
+ .62489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dm4/match/200000014662420
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662420
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-d-2027-04-11-10-30-schirmeck-lb-1-ie-ctc-sow-ost
+ house-cst@ffbb-agenda
+DTSTAMP:20260824T210838Z
+DTSTART;TZID=Europe/Paris:20270411T103000
+DTEND;TZID=Europe/Paris:20270411T123000
+SUMMARY:✈️ SCHIRMECK LB - 1 – IE - CTC SOW - OSTHOUSE CSTB - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule D\n⚔️ SCHIRMECK LB 
+ - 1 vs IE - CTC SOW - OSTHOUSE CSTB - 3\n\nHALL DES SPORTS SCHIRMECK\n📍
+  Rue des Grives Schirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.482
+ 12\,7.22795&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dm4/match/200000014662492
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662492
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-d-2027-05-23-14-30-bindernheim-c-s-u-2-ie-ctc-so
+ w-osthous@ffbb-agenda
+DTSTAMP:20260824T210838Z
+DTSTART;TZID=Europe/Paris:20270523T143000
+DTEND;TZID=Europe/Paris:20270523T163000
+SUMMARY:✈️ BINDERNHEIM C.S.U. - 2 – IE - CTC SOW - OSTHOUSE CSTB - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule D\n⚔️ BINDERNHEIM C
+ .S.U. - 2 vs IE - CTC SOW - OSTHOUSE CSTB - 3\n\nSALLE POLYVALENTE\n📍 R
+ ue de Witternheim Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48
+ .28678\,7.60704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm4/match/200000014662509
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662509
+END:VEVENT
+END:VCALENDAR

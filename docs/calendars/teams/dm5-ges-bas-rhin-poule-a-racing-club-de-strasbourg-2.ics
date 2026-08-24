@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – RACING CLUB DE STRASBOURG - 2  [DM5 – GES – Poule A]
+X-WR-CALDESC:Matchs de RACING CLUB DE STRASBOURG - 2 – DM5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-10-09-00-00-walbourg-eschbach-basket-4-ra
+ cing-club@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261009T000000
+DTEND;TZID=Europe/Paris:20261009T020000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 4 – RACING CLUB DE STRASBOURG -
+  2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs RACING CLUB DE STRASBOURG - 2\n\nSALLE POLYVALENTE\n
+ 📍 Grand Rue Walbourg 67360\n🚗 Waze : https://waze.com/ul?ll=48.88656
+ \,7.78906&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dm5/match/200000014661725
+LOCATION:SALLE POLYVALENTE\, Grand Rue Walbourg 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661725
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2026-11-14-20-30-soufflenheim-c-c-s-a-2-racing
+ -club-de-@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ SOUFFLENHEIM C.C.S.A - 2 – RACING CLUB DE STRASBOURG - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs RACING CLUB DE STRASBOURG - 2\n\nCENTRE SPORTIF LE CERAM\n
+ 📍 Soufflenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95
+ 924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ 5/match/200000014661741
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661741
+END:VEVENT
+END:VCALENDAR

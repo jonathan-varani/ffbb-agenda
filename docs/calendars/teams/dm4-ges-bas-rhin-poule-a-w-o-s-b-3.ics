@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – W.O.S.B. - 3  [DM4 – GES – Poule A]
+X-WR-CALDESC:Matchs de W.O.S.B. - 3 – DM4 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-09-27-10-00-w-o-s-b-3-hambach-bc-1@ffbb-a
+ genda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20260927T100000
+DTEND;TZID=Europe/Paris:20260927T120000
+SUMMARY:🏠 W.O.S.B. - 3 – HAMBACH BC - 1
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs HAMBACH BC - 1\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Ottersw
+ iller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/2000
+ 00014661984
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014661984
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-10-11-10-00-w-o-s-b-3-wantzenau-la-a-s-c-
+ sp-2@ffbb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20261011T100000
+DTEND;TZID=Europe/Paris:20261011T120000
+SUMMARY:🏠 W.O.S.B. - 3 – WANTZENAU (LA) A.S.C.SP - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs WANTZENAU (LA) A.S.C.SP - 2\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la
+  Gare Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.3
+ 7527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ m4/match/200000014661996
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014661996
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-10-17-18-00-walbourg-eschbach-basket-3-w-
+ o-s-b-3@ffbb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 3 – W.O.S.B. - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 3 vs W.O.S.B. - 3\n\nESPACE SPORTIF\n📍 Rue de la Forêt E
+ schbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.73658&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/20
+ 0000014662002
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662002
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-12-06-10-00-w-o-s-b-3-bitche-pays-de-2@ff
+ bb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20261206T100000
+DTEND;TZID=Europe/Paris:20261206T120000
+SUMMARY:🏠 W.O.S.B. - 3 – BITCHE (PAYS DE) - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs BITCHE (PAYS DE) - 2\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare O
+ tterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/matc
+ h/200000014662026
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662026
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-12-20-10-00-w-o-s-b-3-bask-furdenheim-5@f
+ fbb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20261220T100000
+DTEND;TZID=Europe/Paris:20261220T120000
+SUMMARY:🏠 W.O.S.B. - 3 – BASK FURDENHEIM - 5
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs BASK FURDENHEIM - 5\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Ot
+ terswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match
+ /200000014662038
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662038
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-01-17-10-00-w-o-s-b-3-keskastel-bc-2@ffbb
+ -agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20270117T100000
+DTEND;TZID=Europe/Paris:20270117T120000
+SUMMARY:🏠 W.O.S.B. - 3 – KESKASTEL BC - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs KESKASTEL BC - 2\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Otter
+ swiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/20
+ 0000014662043
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662043
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-01-31-10-00-w-o-s-b-3-s-u-schiltigheim-ba
+ sket-ball@ffbb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20270131T100000
+DTEND;TZID=Europe/Paris:20270131T120000
+SUMMARY:🏠 W.O.S.B. - 3 – S.U. SCHILTIGHEIM BASKET BALL - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs S.U. SCHILTIGHEIM BASKET BALL - 3\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue
+  de la Gare Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.7257
+ 9\,7.37527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dm4/match/200000014662056
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662056
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-02-14-10-00-w-o-s-b-3-walbourg-eschbach-b
+ asket-3@ffbb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20270214T100000
+DTEND;TZID=Europe/Paris:20270214T120000
+SUMMARY:🏠 W.O.S.B. - 3 – WALBOURG ESCHBACH BASKET - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs WALBOURG ESCHBACH BASKET - 3\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de l
+ a Gare Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.
+ 37527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dm4/match/200000014662068
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662068
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-03-21-10-00-w-o-s-b-3-morschwiller-fcj-3@
+ ffbb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20270321T100000
+DTEND;TZID=Europe/Paris:20270321T120000
+SUMMARY:🏠 W.O.S.B. - 3 – MORSCHWILLER FCJ - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs MORSCHWILLER FCJ - 3\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare O
+ tterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/matc
+ h/200000014662080
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662080
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-03-28-10-00-w-o-s-b-3-schiltigheim-au-3@f
+ fbb-agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20270328T100000
+DTEND;TZID=Europe/Paris:20270328T120000
+SUMMARY:🏠 W.O.S.B. - 3 – SCHILTIGHEIM AU - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs SCHILTIGHEIM AU - 3\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Ot
+ terswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match
+ /200000014662086
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662086
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-05-02-10-00-w-o-s-b-3-hattmatt-ss-3@ffbb-
+ agenda
+DTSTAMP:20260824T210828Z
+DTSTART;TZID=Europe/Paris:20270502T100000
+DTEND;TZID=Europe/Paris:20270502T120000
+SUMMARY:🏠 W.O.S.B. - 3 – HATTMATT SS - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. - 3 
+ vs HATTMATT SS - 3\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gare Otters
+ willer 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/200
+ 000014662098
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662098
+END:VEVENT
+END:VCALENDAR

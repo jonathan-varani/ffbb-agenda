@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DUTTLENHEIM LC - 3  [DM4 – GES – Poule D]
+X-WR-CALDESC:Matchs de DUTTLENHEIM LC - 3 – DM4 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-d-2026-10-02-20-30-hindisheim-c-s-e-3-duttlenhei
+ m-lc-3@ffbb-agenda
+DTSTAMP:20260824T210838Z
+DTSTART;TZID=Europe/Paris:20261002T203000
+DTEND;TZID=Europe/Paris:20261002T223000
+SUMMARY:✈️ HINDISHEIM C.S.E - 3 – DUTTLENHEIM LC - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule D\n⚔️ HINDISHEIM C.
+ S.E - 3 vs DUTTLENHEIM LC - 3\n\nSALLE STE ETIENNE\n📍 Rue du Stade Hind
+ isheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/200
+ 000014662387
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662387
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-d-2026-10-18-10-30-schirmeck-lb-1-duttlenheim-lc
+ -3@ffbb-agenda
+DTSTAMP:20260824T210838Z
+DTSTART;TZID=Europe/Paris:20261018T103000
+DTEND;TZID=Europe/Paris:20261018T123000
+SUMMARY:✈️ SCHIRMECK LB - 1 – DUTTLENHEIM LC - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule D\n⚔️ SCHIRMECK LB 
+ - 1 vs DUTTLENHEIM LC - 3\n\nHALL DES SPORTS SCHIRMECK\n📍 Rue des Grive
+ s Schirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.48212\,7.22795&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/matc
+ h/200000014662399
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662399
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-d-2027-02-06-00-00-bindernheim-c-s-u-2-duttlenhe
+ im-lc-3@ffbb-agenda
+DTSTAMP:20260824T210838Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:✈️ BINDERNHEIM C.S.U. - 2 – DUTTLENHEIM LC - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule D\n⚔️ BINDERNHEIM C
+ .S.U. - 2 vs DUTTLENHEIM LC - 3\n\nSALLE POLYVALENTE\n📍 Rue de Witternh
+ eim Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.28678\,7.6070
+ 4&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662459
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662459
+END:VEVENT
+END:VCALENDAR

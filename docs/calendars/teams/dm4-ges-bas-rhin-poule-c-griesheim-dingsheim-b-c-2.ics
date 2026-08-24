@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GRIESHEIM/DINGSHEIM B.C. - 2  [DM4 – GES – Poule C]
+X-WR-CALDESC:Matchs de GRIESHEIM/DINGSHEIM B.C. - 2 – DM4 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2026-09-26-20-30-griesheim-dingsheim-b-c-2-eck
+ bolsheim-@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20260926T203000
+DTEND;TZID=Europe/Paris:20260926T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – ECKBOLSHEIM BB - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs ECKBOLSHEIM BB - 3\n\nLES PORTES DU KOCHERSBERG\n📍 R
+ ue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 3873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dm4/match/200000014662251
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662251
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2026-10-10-20-30-griesheim-dingsheim-b-c-2-bis
+ chheim-bs@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – BISCHHEIM BS - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs BISCHHEIM BS - 2\n\nLES PORTES DU KOCHERSBERG\n📍 Rue
+  du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.638
+ 73\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dm4/match/200000014662263
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662263
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2026-11-14-20-30-griesheim-dingsheim-b-c-2-str
+ asbourg-l@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – STRASBOURG LIBELLULES B.C. - 
+ 1
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs STRASBOURG LIBELLULES B.C. - 1\n\nLES PORTES DU KOCHERS
+ BERG\n📍 Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.co
+ m/ul?ll=48.63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0067/competitions/dm4/match/200000014662275
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662275
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2026-11-28-20-30-griesheim-dingsheim-b-c-2-wol
+ fisheim-b@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – WOLFISHEIM BASKET CLUB - 1
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs WOLFISHEIM BASKET CLUB - 1\n\nLES PORTES DU KOCHERSBERG
+ \n📍 Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul
+ ?ll=48.63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 67/competitions/dm4/match/200000014662284
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662284
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2026-12-19-20-30-griesheim-dingsheim-b-c-2-ie-
+ ctc-sow-w@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20261219T203000
+DTEND;TZID=Europe/Paris:20261219T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – IE - CTC SOW - WESTHOUSE E.S.
+  - 4
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs IE - CTC SOW - WESTHOUSE E.S. - 4\n\nLES PORTES DU KOCH
+ ERSBERG\n📍 Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze
+ .com/ul?ll=48.63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0067/competitions/dm4/match/200000014662303
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662303
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2027-02-13-20-30-griesheim-dingsheim-b-c-2-s-u
+ -schiltig@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – S.U. SCHILTIGHEIM BASKET BALL
+  - 4
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs S.U. SCHILTIGHEIM BASKET BALL - 4\n\nLES PORTES DU KOCH
+ ERSBERG\n📍 Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze
+ .com/ul?ll=48.63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0067/competitions/dm4/match/200000014662335
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662335
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2027-03-20-20-30-griesheim-dingsheim-b-c-2-str
+ asbourg-a@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – STRASBOURG ASS - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs STRASBOURG ASS - 2\n\nLES PORTES DU KOCHERSBERG\n📍 R
+ ue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 3873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dm4/match/200000014662347
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662347
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2027-04-10-20-30-griesheim-dingsheim-b-c-2-ohn
+ heim-c-s-@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – OHNHEIM C.S.S.A. - 4
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs OHNHEIM C.S.S.A. - 4\n\nLES PORTES DU KOCHERSBERG\n📍
+  Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48
+ .63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm4/match/200000014662355
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662355
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2027-05-01-20-30-griesheim-dingsheim-b-c-2-sch
+ iltigheim@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20270501T203000
+DTEND;TZID=Europe/Paris:20270501T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – SCHILTIGHEIM AU - 4
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs SCHILTIGHEIM AU - 4\n\nLES PORTES DU KOCHERSBERG\n📍 
+ Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?ll=48.
+ 63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dm4/match/200000014662363
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662363
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-c-2027-05-22-20-30-griesheim-dingsheim-b-c-2-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260824T210834Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:🏠 GRIESHEIM/DINGSHEIM B.C. - 2 – BASKET CLUB D’OSTWALD - 1
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule C\n⚔️ GRIESHEIM/DIN
+ GSHEIM B.C. - 2 vs BASKET CLUB D’OSTWALD - 1\n\nLES PORTES DU KOCHERSBER
+ G\n📍 Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/u
+ l?ll=48.63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/dm4/match/200000014662374
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662374
+END:VEVENT
+END:VCALENDAR

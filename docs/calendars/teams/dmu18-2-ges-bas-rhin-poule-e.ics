@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB –   [DMU18-2 – GES – Poule E]
+X-WR-CALDESC:Matchs de  – DMU18-2 – GES – Bas-Rhin – Poule E
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-e-2026-09-12-00-00-griesheim-dingsheim-b-c@f
+ fbb-agenda
+DTSTAMP:20260824T210936Z
+DTSTART;TZID=Europe/Paris:20260912T000000
+DTEND;TZID=Europe/Paris:20260912T020000
+SUMMARY: – GRIESHEIM/DINGSHEIM B.C.
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule E\n⚔️  vs GRIES
+ HEIM/DINGSHEIM B.C.\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes Esch
+ au 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2/match/20000
+ 0014660945
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660945
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-e-2026-09-26-00-00-schirmeck-lb@ffbb-agenda
+DTSTAMP:20260824T210936Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY: – SCHIRMECK LB
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule E\n⚔️  vs SCHIR
+ MECK LB\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes Eschau 67114\n
+ 🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=yes\n\n📢 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ges/comites/0067/competitions/dmu18-2/match/200000014660951
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660951
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-e-2026-10-03-00-00-bruche-sports-academy@ffb
+ b-agenda
+DTSTAMP:20260824T210936Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY: – BRUCHE SPORTS ACADEMY
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule E\n⚔️  vs BRUCH
+ E SPORTS ACADEMY\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes Eschau 
+ 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2/match/20000001
+ 4660952
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660952
+END:VEVENT
+END:VCALENDAR

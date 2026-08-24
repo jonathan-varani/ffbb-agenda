@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WANGENBOURG-ENGENTHAL U.S. - 2  [DM5 – GES – Poule B]
+X-WR-CALDESC:Matchs de WANGENBOURG-ENGENTHAL U.S. - 2 – DM5 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-10-04-16-00-sainte-croix-aux-mines-c-s-n-
+ 2-wangenb@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261004T160000
+DTEND;TZID=Europe/Paris:20261004T180000
+SUMMARY:✈️ SAINTE CROIX AUX MINES C.S.N. - 2 – WANGENBOURG-ENGENTHAL 
+ U.S. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SAINTE CROIX 
+ AUX MINES C.S.N. - 2 vs WANGENBOURG-ENGENTHAL U.S. - 2\n\nSALLE DES SPORTS
+  DE LA TIMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0067/competitions/dm5/match/200000014661852
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661852
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2026-12-13-10-30-holtzheim-vogesia-4-wangenbou
+ rg-engent@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20261213T103000
+DTEND;TZID=Europe/Paris:20261213T123000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 4 – WANGENBOURG-ENGENTHAL U.S. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ HOLTZHEIM VOG
+ ESIA - 4 vs WANGENBOURG-ENGENTHAL U.S. - 2\n\nSALLE DE LA BRUCHE\n📍 Rue
+  du Stade Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.
+ 63555&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dm5/match/200000014661894
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661894
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-03-14-10-00-geispolsheim-c-j-s-5-wangenbo
+ urg-engen@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270314T100000
+DTEND;TZID=Europe/Paris:20270314T120000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 5 – WANGENBOURG-ENGENTHAL U.S. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 5 vs WANGENBOURG-ENGENTHAL U.S. - 2\n\nCENTRE SPORTIF\n📍 Rue d
+ e la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48
+ .51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dm5/match/200000014661936
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661936
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-05-16-09-00-selestat-bc-4-wangenbourg-eng
+ enthal-u-@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270516T090000
+DTEND;TZID=Europe/Paris:20270516T110000
+SUMMARY:✈️ SELESTAT BC - 4 – WANGENBOURG-ENGENTHAL U.S. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT BC -
+  4 vs WANGENBOURG-ENGENTHAL U.S. - 2\n\nGYMNASE DORLAN\n📍 Rue Gabriel F
+ auré Sélestat 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.4342
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661966
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661966
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-b-2027-05-22-20-30-offendorf-c-s-stpp-1-wangenbo
+ urg-engen@ffbb-agenda
+DTSTAMP:20260824T210846Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:✈️ OFFENDORF C.S.STPP - 1 – WANGENBOURG-ENGENTHAL U.S. - 2
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule B\n⚔️ OFFENDORF C.S
+ .STPP - 1 vs WANGENBOURG-ENGENTHAL U.S. - 2\n\nESPACE SPORTIF ET CULTUREL\
+ n📍 Rue du Cimetière Offendorf 67850\n🚗 Waze : https://waze.com/ul?l
+ l=48.71254\,7.91868&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067
+ /competitions/dm5/match/200000014661971
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Cimetière Offendorf 67850
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661971
+END:VEVENT
+END:VCALENDAR

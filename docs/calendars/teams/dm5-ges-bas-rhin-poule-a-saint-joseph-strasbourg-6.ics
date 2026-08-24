@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAINT JOSEPH - STRASBOURG - 6  [DM5 – GES – Poule A]
+X-WR-CALDESC:Matchs de SAINT JOSEPH - STRASBOURG - 6 – DM5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-02-12-20-30-walbourg-eschbach-basket-4-sa
+ int-josep@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270212T203000
+DTEND;TZID=Europe/Paris:20270212T223000
+SUMMARY:✈️ WALBOURG ESCHBACH BASKET - 4 – SAINT JOSEPH - STRASBOURG -
+  6
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 4 vs SAINT JOSEPH - STRASBOURG - 6\n\nESPACE SPORTIF\n📍 R
+ ue de la Forêt Eschbach 67360\n🚗 Waze : https://waze.com/ul?ll=48.8730
+ 6\,7.73658&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dm5/match/200000014661797
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661797
+END:VEVENT
+BEGIN:VEVENT
+UID:dm5-ges-bas-rhin-poule-a-2027-03-20-20-30-soufflenheim-c-c-s-a-2-saint-
+ joseph-st@ffbb-agenda
+DTSTAMP:20260824T210843Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ SOUFFLENHEIM C.C.S.A - 2 – SAINT JOSEPH - STRASBOURG - 6
+DESCRIPTION:🏀 DM5 – GES – Bas-Rhin – Poule A\n⚔️ SOUFFLENHEIM 
+ C.C.S.A - 2 vs SAINT JOSEPH - STRASBOURG - 6\n\nCENTRE SPORTIF LE CERAM\n
+ 📍 Soufflenheim 67620\n🚗 Waze : https://waze.com/ul?ll=48.82979\,7.95
+ 924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ 5/match/200000014661813
+LOCATION:CENTRE SPORTIF LE CERAM\, Soufflenheim 67620
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm5/
+ match/200000014661813
+END:VEVENT
+END:VCALENDAR

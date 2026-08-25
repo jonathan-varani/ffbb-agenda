@@ -569,10 +569,11 @@ async function handleToken(request, env) {
   // Android : un vrai calendrier Google (cid=<id google>) s'affiche tout de
   // suite, contrairement à un abonnement .ics externe qui reste invisible tant
   // qu'il n'est pas activé à la main. Créé au premier abonnement de l'équipe.
-  const gcalId = await getOrCreateGoogleCalendar(row, env);
-  const googleUrl = gcalId
-    ? `https://calendar.google.com/calendar/u/0/r?cid=${encodeURIComponent(gcalId)}`
-    : `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUrl)}`;
+  // La création (+ import des matchs) peut prendre plusieurs secondes : on ne
+  // l'attend pas ici pour ne pas laisser la page blanche, elle se fait en JS
+  // via /gcal une fois la page affichée (lien webcal en attendant, déjà valide).
+  const googleUrl = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUrl)}`;
+  const gcalQuery = `fichier=${encodeURIComponent(row.fichier)}&equipe=${encodeURIComponent(row.equipe || "")}&comp_nom=${encodeURIComponent(row.comp_nom || "")}`;
 
   return new Response(`<!DOCTYPE html>
 <html lang="fr">
@@ -602,6 +603,7 @@ async function handleToken(request, env) {
     .alt { font-size: .75rem; color: #9CA3AF; margin-top: 16px; }
     .alt a { color: #9CA3AF; }
     .hidden { display: none; }
+    .loading { font-size: .8rem; color: #6B7280; margin: -2px 0 10px; }
   </style>
 </head>
 <body>
@@ -621,7 +623,8 @@ async function handleToken(request, env) {
 
     <!-- Android -->
     <div id="block-android" class="hidden">
-      <a href="${googleUrl}" class="btn android">📅 Ajouter à Google Agenda</a>
+      <a href="${googleUrl}" class="btn android google-btn">📅 Ajouter à Google Agenda</a>
+      <p class="loading google-loading hidden">⏳ Préparation de votre calendrier Google…</p>
       <div class="steps">
         <strong>Sur Android</strong>, l'abonnement passe par votre compte Google :<br>
         1. La page Google Agenda s'ouvre → appuyez sur <strong>Ajouter</strong><br>
@@ -633,7 +636,8 @@ async function handleToken(request, env) {
     <!-- Desktop / inconnu : les deux -->
     <div id="block-both" class="hidden">
       <a href="${webcalUrl}" class="btn ios">📱 iPhone / iPad / Mac</a>
-      <a href="${googleUrl}" class="btn android">🤖 Android / Google Agenda</a>
+      <a href="${googleUrl}" class="btn android google-btn">🤖 Android / Google Agenda</a>
+      <p class="loading google-loading hidden">⏳ Préparation de votre calendrier Google…</p>
     </div>
 
     <p class="alt">
@@ -649,9 +653,45 @@ async function handleToken(request, env) {
     var isAndroid = /Android/.test(ua);
     var id = isAndroid ? "block-android" : (isIOS || isMac) ? "block-ios" : "block-both";
     document.getElementById(id).classList.remove("hidden");
+
+    // Le lien webcal:// ci-dessus fonctionne déjà : on tente juste d'obtenir le
+    // vrai calendrier Google (affichage immédiat côté Android) en tâche de fond,
+    // sans jamais bloquer l'affichage de la page.
+    if (id === "block-android" || id === "block-both") {
+      var btns    = document.querySelectorAll("#" + id + " .google-btn");
+      var loaders = document.querySelectorAll("#" + id + " .google-loading");
+      loaders.forEach(function (l) { l.classList.remove("hidden"); });
+      fetch("/gcal?${gcalQuery}")
+        .then(function (r) { return r.json(); })
+        .then(function (data) {
+          if (data.gcalId) {
+            var url = "https://calendar.google.com/calendar/u/0/r?cid=" + encodeURIComponent(data.gcalId);
+            btns.forEach(function (b) { b.href = url; });
+          }
+        })
+        .catch(function () { /* on garde le lien webcal:// déjà en place */ })
+        .finally(function () { loaders.forEach(function (l) { l.classList.add("hidden"); }); });
+    }
   </script>
 </body>
 </html>`, { headers: { "Content-Type": "text/html;charset=UTF-8" } });
+}
+
+// ── GET /gcal?fichier=...&equipe=...&comp_nom=... ──────────────────────────────
+// Appelé en tâche de fond par la page d'abonnement (jamais par l'utilisateur
+// directement) : crée le vrai calendrier Google si besoin, sans bloquer le
+// rendu de /sub. Ne prend aucune donnée sensible en entrée.
+
+async function handleGcal(request, env) {
+  const url     = new URL(request.url);
+  const fichier = url.searchParams.get("fichier");
+  const equipe  = url.searchParams.get("equipe") || "";
+  const compNom = url.searchParams.get("comp_nom") || "";
+
+  if (!fichier) return json({ gcalId: null }, 400);
+
+  const gcalId = await getOrCreateGoogleCalendar({ fichier, equipe, comp_nom: compNom }, env);
+  return json({ gcalId });
 }
 
 // ── Helpers réponse ───────────────────────────────────────────────────────────
@@ -696,6 +736,9 @@ export default {
     }
     if (request.method === "GET" && path === "/sub") {
       return handleToken(request, env);
+    }
+    if (request.method === "GET" && path === "/gcal") {
+      return handleGcal(request, env);
     }
     if (request.method === "GET" && path.startsWith("/ics/")) {
       return handleIcsProxy(path);

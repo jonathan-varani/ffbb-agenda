@@ -1,5 +1,6 @@
 /**
  * FFBB Agenda — Cloudflare Worker
+ * Test VARAI
  *
  * POST /subscribe  → enregistre dans NocoDB + envoie email avec lien tokenisé
  * GET  /sub        → valide token, marque utilisé, redirige vers webcal://

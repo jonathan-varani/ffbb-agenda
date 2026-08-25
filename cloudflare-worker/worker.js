@@ -664,9 +664,8 @@ async function handleToken(request, env) {
       fetch("/gcal?${gcalQuery}")
         .then(function (r) { return r.json(); })
         .then(function (data) {
-          if (data.gcalId) {
-            var url = "https://calendar.google.com/calendar/u/0/r?cid=" + encodeURIComponent(data.gcalId);
-            btns.forEach(function (b) { b.href = url; });
+          if (data.url) {
+            btns.forEach(function (b) { b.href = data.url; });
           }
         })
         .catch(function () { /* on garde le lien webcal:// déjà en place */ })
@@ -688,10 +687,15 @@ async function handleGcal(request, env) {
   const equipe  = url.searchParams.get("equipe") || "";
   const compNom = url.searchParams.get("comp_nom") || "";
 
-  if (!fichier) return json({ gcalId: null }, 400);
+  if (!fichier) return json({ gcalId: null, url: null }, 400);
 
   const gcalId = await getOrCreateGoogleCalendar({ fichier, equipe, comp_nom: compNom }, env);
-  return json({ gcalId });
+  // Google attend le cid encodé en base64 (pas juste URL-encodé) sur
+  // /calendar/u/0 — le format /r?cid=<id brut> ne s'ajoute pas côté Android.
+  const addUrl = gcalId
+    ? `https://calendar.google.com/calendar/u/0?cid=${encodeURIComponent(btoa(gcalId))}`
+    : null;
+  return json({ gcalId, url: addUrl });
 }
 
 // ── Helpers réponse ───────────────────────────────────────────────────────────

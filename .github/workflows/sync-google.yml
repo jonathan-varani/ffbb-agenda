@@ -1,0 +1,43 @@
+name: Sync calendriers Google
+
+# Répercute les mises à jour (horaires, scores, arbitres) dans les VRAIS
+# calendriers Google créés à la demande lors des abonnements Android.
+# Ne touche que les calendriers réellement créés (listés dans NocoDB), donc
+# quelques unités — pas les ~1600 équipes.
+
+on:
+  # Se déclenche automatiquement à la fin de chaque scraping, pour que les
+  # calendriers Google reflètent les .ics qui viennent d'être régénérés.
+  workflow_run:
+    workflows:
+      - "Scrape FFBB — région GES"
+      - "Scrape FFBB — championnats nationaux"
+    types: [completed]
+  workflow_dispatch: {}   # lancement manuel depuis l'onglet Actions
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    # Inutile de synchroniser si le scraping a échoué : les .ics seraient
+    # inchangés ou incomplets.
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Synchroniser les calendriers Google
+        env:
+          NOCODB_TOKEN:      ${{ secrets.NOCODB_TOKEN }}
+          GOOGLE_SA_JSON:    ${{ secrets.GOOGLE_SA_JSON }}
+          NOCODB_TABLE_GCAL: ${{ secrets.NOCODB_TABLE_GCAL }}
+        run: python sync_google_calendars.py

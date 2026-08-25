@@ -14,6 +14,9 @@ const NOCODB_API   = "https://app.nocodb.com";
 const NOCODB_BASE  = "poq54dd1rjvxuki";   // v1 uniquement
 const NOCODB_TABLE = "myrqkg2uylp17q9";   // table ID (utilisé par v1 et v2)
 const NOCODB_TABLE_CONTACTS = "m135lw76cfsqy0a"; // table "Contacts Joueurs"
+// Table "Calendriers Google" : fichier | equipe | google_calendar_id | created_at
+// ⚠️ À remplacer par l'ID réel de la table une fois créée dans NocoDB.
+const NOCODB_TABLE_GCAL = "mecxgoidr0xyqw5";
 const PAGES_BASE   = "https://basket.varai.fr";
 const SENDER_EMAIL = "jonathan.varani@varai.fr";
 const SENDER_NAME  = "Agendas FFBB";
@@ -61,6 +64,244 @@ async function handleIcsProxy(path) {
       ...cors(),
     },
   });
+}
+
+
+// ══════════════════════════════════════════════════════════════════════════════
+// Google Calendar — création à la demande
+// ══════════════════════════════════════════════════════════════════════════════
+//
+// Pourquoi : sur Android, un abonnement à une URL .ics externe est ajouté au
+// compte mais reste invisible tant que l'utilisateur ne l'active pas à la main.
+// Un lien "cid=<vrai id de calendrier Google>" s'affiche lui immédiatement.
+// On crée donc un vrai calendrier Google, mais UNIQUEMENT au premier abonnement
+// d'une équipe (créer les ~1600 calendriers d'avance dépasserait les limites
+// opérationnelles de Google sur la création de calendriers).
+//
+// Secrets Cloudflare nécessaires :
+//   GOOGLE_SA_JSON — contenu complet du service_account.json (compte de service)
+
+const GOOGLE_TOKEN_URL = "https://oauth2.googleapis.com/token";
+const GOOGLE_CAL_API   = "https://www.googleapis.com/calendar/v3";
+const GOOGLE_SCOPE     = "https://www.googleapis.com/auth/calendar";
+
+function b64url(bytes) {
+  let bin = "";
+  const arr = bytes instanceof Uint8Array ? bytes : new Uint8Array(bytes);
+  for (const b of arr) bin += String.fromCharCode(b);
+  return btoa(bin).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+}
+
+function pemToDer(pem) {
+  const b64 = pem
+    .replace(/-----BEGIN PRIVATE KEY-----/, "")
+    .replace(/-----END PRIVATE KEY-----/, "")
+    .replace(/\s+/g, "");
+  const bin = atob(b64);
+  const der = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i++) der[i] = bin.charCodeAt(i);
+  return der.buffer;
+}
+
+/** Signe un JWT RS256 et l'échange contre un access_token Google. */
+async function getGoogleAccessToken(env) {
+  const sa = JSON.parse(env.GOOGLE_SA_JSON);
+  const now = Math.floor(Date.now() / 1000);
+
+  const header  = { alg: "RS256", typ: "JWT" };
+  const payload = {
+    iss:   sa.client_email,
+    scope: GOOGLE_SCOPE,
+    aud:   GOOGLE_TOKEN_URL,
+    iat:   now,
+    exp:   now + 3600,
+  };
+
+  const enc = new TextEncoder();
+  const unsigned =
+    b64url(enc.encode(JSON.stringify(header))) + "." +
+    b64url(enc.encode(JSON.stringify(payload)));
+
+  const key = await crypto.subtle.importKey(
+    "pkcs8",
+    pemToDer(sa.private_key),
+    { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" },
+    false,
+    ["sign"],
+  );
+  const sig = await crypto.subtle.sign("RSASSA-PKCS1-v1_5", key, enc.encode(unsigned));
+  const jwt = unsigned + "." + b64url(sig);
+
+  const res = await fetch(GOOGLE_TOKEN_URL, {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({
+      grant_type: "urn:ietf:params:oauth:grant-type:jwt-bearer",
+      assertion:  jwt,
+    }),
+  });
+  if (!res.ok) throw new Error("Google OAuth : " + (await res.text()));
+  return (await res.json()).access_token;
+}
+
+// ── Parsing ICS ───────────────────────────────────────────────────────────────
+
+function icsUnescape(s) {
+  return s
+    .replace(/\\n/gi, "\n")
+    .replace(/\\,/g, ",")
+    .replace(/\\;/g, ";")
+    .replace(/\\\\/g, "\\");
+}
+
+/** Déplie les lignes repliées (RFC 5545) puis extrait les VEVENT. */
+function parseIcs(text) {
+  const unfolded = text.replace(/\r\n[ \t]/g, "").replace(/\n[ \t]/g, "");
+  const lines = unfolded.split(/\r?\n/);
+
+  const events = [];
+  let cur = null;
+  for (const line of lines) {
+    if (line === "BEGIN:VEVENT") { cur = {}; continue; }
+    if (line === "END:VEVENT")   { if (cur) events.push(cur); cur = null; continue; }
+    if (!cur) continue;
+
+    const idx = line.indexOf(":");
+    if (idx < 0) continue;
+    const rawKey = line.slice(0, idx);
+    const value  = line.slice(idx + 1);
+    const key    = rawKey.split(";")[0].toUpperCase();
+
+    if (key === "UID")         cur.uid = value.trim();
+    else if (key === "SUMMARY")     cur.summary = icsUnescape(value);
+    else if (key === "DESCRIPTION") cur.description = icsUnescape(value);
+    else if (key === "LOCATION")    cur.location = icsUnescape(value);
+    else if (key === "DTSTART")     cur.start = value.trim();
+    else if (key === "DTEND")       cur.end = value.trim();
+  }
+  return events;
+}
+
+/** "20261004T153000" → "2026-10-04T15:30:00" (heure locale Europe/Paris). */
+function icsDateToRfc3339(v) {
+  const m = /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z?$/.exec(v);
+  if (!m) return null;
+  return `${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}`;
+}
+
+// ── Mapping équipe → google_calendar_id (NocoDB) ──────────────────────────────
+
+async function findGoogleCalendarId(fichier, env) {
+  const url =
+    `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE_GCAL}` +
+    `?where=(fichier,eq,${encodeURIComponent(fichier)})&limit=1`;
+  const res = await fetch(url, { headers: { "xc-token": env.NOCODB_TOKEN } });
+  if (!res.ok) return null;
+  const data = await res.json();
+  const row  = (data.list ?? data.records ?? [])[0];
+  return row ? row.google_calendar_id : null;
+}
+
+async function saveGoogleCalendarId(fichier, equipe, calendarId, env) {
+  await fetch(
+    `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE_GCAL}`,
+    {
+      method: "POST",
+      headers: { "xc-token": env.NOCODB_TOKEN, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        fichier,
+        equipe,
+        google_calendar_id: calendarId,
+        created_at: new Date().toISOString(),
+      }),
+    },
+  );
+}
+
+// ── Création du calendrier + injection des matchs ─────────────────────────────
+
+/**
+ * Crée un vrai calendrier Google public pour une équipe et y importe les matchs
+ * lus depuis le .ics statique. Retourne l'id du calendrier.
+ */
+async function createGoogleCalendar(row, env) {
+  const token = await getGoogleAccessToken(env);
+  const auth  = { Authorization: `Bearer ${token}`, "Content-Type": "application/json" };
+
+  const equipe   = row.equipe || "Équipe";
+  const compNom  = row.comp_nom ? ` — ${row.comp_nom}` : "";
+
+  // 1. Créer le calendrier
+  const createRes = await fetch(`${GOOGLE_CAL_API}/calendars`, {
+    method: "POST",
+    headers: auth,
+    body: JSON.stringify({
+      summary:     `🏀 ${equipe}${compNom}`,
+      description: `Matchs de ${equipe}. Données FFBB — projet non officiel.`,
+      timeZone:    "Europe/Paris",
+    }),
+  });
+  if (!createRes.ok) throw new Error("Création calendrier : " + (await createRes.text()));
+  const calendarId = (await createRes.json()).id;
+
+  // 2. Rendre public (lecture pour tout le monde) — indispensable pour cid=
+  await fetch(`${GOOGLE_CAL_API}/calendars/${encodeURIComponent(calendarId)}/acl`, {
+    method: "POST",
+    headers: auth,
+    body: JSON.stringify({ role: "reader", scope: { type: "default" } }),
+  });
+
+  // 3. Importer les matchs depuis le .ics statique déjà généré
+  const icsRes = await fetch(icsFullUrl(row.fichier));
+  if (icsRes.ok) {
+    const events = parseIcs(await icsRes.text())
+      .map(ev => ({
+        ev,
+        start: icsDateToRfc3339(ev.start || ""),
+        end:   icsDateToRfc3339(ev.end || ""),
+      }))
+      .filter(x => x.start && x.end);
+
+    // events.import conserve l'UID d'origine → la synchro ultérieure peut
+    // retrouver et mettre à jour chaque match sans créer de doublon.
+    const importOne = ({ ev, start, end }) =>
+      fetch(`${GOOGLE_CAL_API}/calendars/${encodeURIComponent(calendarId)}/events/import`, {
+        method: "POST",
+        headers: auth,
+        body: JSON.stringify({
+          iCalUID:     ev.uid,
+          summary:     ev.summary || "Match",
+          description: ev.description || "",
+          location:    ev.location || "",
+          start: { dateTime: start, timeZone: "Europe/Paris" },
+          end:   { dateTime: end,   timeZone: "Europe/Paris" },
+        }),
+      }).catch(() => null);   // un match raté ne doit pas casser l'abonnement
+
+    // Par lots de 8 : l'utilisateur attend la réponse, on évite ~25 allers-retours
+    // séquentiels sans pour autant saturer l'API Google.
+    for (let i = 0; i < events.length; i += 8) {
+      await Promise.all(events.slice(i, i + 8).map(importOne));
+    }
+  }
+
+  await saveGoogleCalendarId(row.fichier, equipe, calendarId, env);
+  return calendarId;
+}
+
+/** Retourne l'id du calendrier Google de l'équipe, en le créant si besoin. */
+async function getOrCreateGoogleCalendar(row, env) {
+  if (!env.GOOGLE_SA_JSON || !NOCODB_TABLE_GCAL) return null;
+  try {
+    const existing = await findGoogleCalendarId(row.fichier, env);
+    if (existing) return existing;
+    return await createGoogleCalendar(row, env);
+  } catch (e) {
+    // En cas d'échec on ne casse pas l'abonnement : la page retombera sur le
+    // lien .ics classique.
+    console.error("Google Calendar :", e.message);
+    return null;
+  }
 }
 
 
@@ -323,8 +564,15 @@ async function handleToken(request, env) {
   // donne une page blanche dans un navigateur mobile.
   const httpsUrl    = icsFullUrl(row.fichier);                          // lien direct (téléchargement navigateur)
   const webcalUrl   = icsProxyUrl(row.fichier, env).replace(/^https?:\/\//, "webcal://"); // abonnement (charset correct)
-  const googleUrl   = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUrl)}`;
   const equipeLabel = row.equipe || "votre équipe";
+
+  // Android : un vrai calendrier Google (cid=<id google>) s'affiche tout de
+  // suite, contrairement à un abonnement .ics externe qui reste invisible tant
+  // qu'il n'est pas activé à la main. Créé au premier abonnement de l'équipe.
+  const gcalId = await getOrCreateGoogleCalendar(row, env);
+  const googleUrl = gcalId
+    ? `https://calendar.google.com/calendar/u/0/r?cid=${encodeURIComponent(gcalId)}`
+    : `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUrl)}`;
 
   return new Response(`<!DOCTYPE html>
 <html lang="fr">

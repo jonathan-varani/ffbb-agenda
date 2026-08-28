@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA GRIES / OBERHOFFEN - 3  [DMU15-5 – GES – Poule A]
+X-WR-CALDESC:Matchs de ASA GRIES / OBERHOFFEN - 3 – DMU15-5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-a-2026-09-27-10-00-schweighouse-ohlungen-b-c
+ -1-asa-gr@ffbb-agenda
+DTSTAMP:20260828T023347Z
+DTSTART;TZID=Europe/Paris:20260927T100000
+DTEND;TZID=Europe/Paris:20260927T120000
+SUMMARY:✈️ SCHWEIGHOUSE/OHLUNGEN B.C. - 1 – ASA GRIES / OBERHOFFEN - 
+ 3
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHWEIGHO
+ USE/OHLUNGEN B.C. - 1 vs ASA GRIES / OBERHOFFEN - 3\n\nCENTRE ROBERT KAEUF
+ LING\n📍 Rue des Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https:
+ //waze.com/ul?ll=48.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0067/competitions/dmu15-5/match/200000014617048
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617048
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-a-2026-10-03-13-30-asa-gries-oberhoffen-3-sa
+ int-josep@ffbb-agenda
+DTSTAMP:20260828T023347Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 3 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA GRIES
+  / OBERHOFFEN - 3 vs SAINT JOSEPH - STRASBOURG - 1\n\nESPACE SPORT LA FORE
+ T\n📍 Rue du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75
+ 654\,7.81972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/dmu15-5/match/200000014617053
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617053
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-a-2026-10-10-15-30-asa-gries-oberhoffen-3-sc
+ hirrhein-@ffbb-agenda
+DTSTAMP:20260828T023347Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 3 – SCHIRRHEIN C.S.C.SN - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA GRIES
+  / OBERHOFFEN - 3 vs SCHIRRHEIN C.S.C.SN - 1\n\nESPACE SPORT LA FORET\n
+ 📍 Rue du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654
+ \,7.81972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu15-5/match/200000014617058
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617058
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-a-2026-11-07-00-00-w-o-s-b-1-asa-gries-oberh
+ offen-3@ffbb-agenda
+DTSTAMP:20260828T023347Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ W.O.S.B. - 1 – ASA GRIES / OBERHOFFEN - 3
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. 
+ - 1 vs ASA GRIES / OBERHOFFEN - 3\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de
+  la Gare Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,
+ 7.37527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu15-5/match/200000014617061
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617061
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-a-2026-11-14-13-30-asa-gries-oberhoffen-3-wa
+ lbourg-es@ffbb-agenda
+DTSTAMP:20260828T023347Z
+DTSTART;TZID=Europe/Paris:20261114T133000
+DTEND;TZID=Europe/Paris:20261114T153000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 3 – WALBOURG ESCHBACH BASKET - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA GRIES
+  / OBERHOFFEN - 3 vs WALBOURG ESCHBACH BASKET - 1\n\nESPACE SPORT LA FORET
+  (ANNEXE)\n📍 Rue du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?
+ ll=48.75654\,7.81972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/dmu15-5/match/200000014617066
+LOCATION:ESPACE SPORT LA FORET (ANNEXE)\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617066
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-a-2026-11-22-15-30-asa-souffelweyersheim-1-a
+ sa-gries-@ffbb-agenda
+DTSTAMP:20260828T023347Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 1 – ASA GRIES / OBERHOFFEN - 3
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA SOUFF
+ ELWEYERSHEIM - 1 vs ASA GRIES / OBERHOFFEN - 3\n\nGYMNASE MUNICIPAL\n📍 
+ Rue des Sept Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com
+ /ul?ll=48.6319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/dmu15-5/match/200000014617068
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617068
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-a-2026-11-28-13-30-asa-gries-oberhoffen-3-ec
+ kbolsheim@ffbb-agenda
+DTSTAMP:20260828T023347Z
+DTSTART;TZID=Europe/Paris:20261128T133000
+DTEND;TZID=Europe/Paris:20261128T153000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 3 – ECKBOLSHEIM BB - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA GRIES
+  / OBERHOFFEN - 3 vs ECKBOLSHEIM BB - 1\n\nESPACE SPORT LA FORET\n📍 Rue
+  du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.8197
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617074
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617074
+END:VEVENT
+END:VCALENDAR

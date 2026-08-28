@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – S.I. GRAFFENSTADEN - 2  [DMU15-5 – GES – Poule B]
+X-WR-CALDESC:Matchs de S.I. GRAFFENSTADEN - 2 – DMU15-5 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-09-26-13-30-strasbourg-ass-1-s-i-graf
+ fenstaden@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:✈️ STRASBOURG ASS - 1 – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOUR
+ G ASS - 1 vs S.I. GRAFFENSTADEN - 2\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pie
+ rre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.7
+ 2525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ mu15-5/match/200000014617078
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617078
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-10-03-15-30-s-i-graffenstaden-2-asa-g
+ ries-ober@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 2 – ASA GRIES / OBERHOFFEN - 2
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAF
+ FENSTADEN - 2 vs ASA GRIES / OBERHOFFEN - 2\n\nCOMPLEXE DU LIXENBUHL\n📍
+  Rue Lixenbuhl Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/
+ ul?ll=48.53006\,7.72821&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0067/competitions/dmu15-5/match/200000014617079
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617079
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-10-11-13-30-duttlenheim-lc-1-s-i-graf
+ fenstaden@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261011T133000
+DTEND;TZID=Europe/Paris:20261011T153000
+SUMMARY:✈️ DUTTLENHEIM LC - 1 – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHE
+ IM LC - 1 vs S.I. GRAFFENSTADEN - 2\n\nSALLE DE LA CONCORDE\n📍 Rue du S
+ tade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.569
+ 24&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu
+ 15-5/match/200000014617084
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617084
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-08-10-30-s-i-graffenstaden-2-seles
+ tat-bc-1@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261108T103000
+DTEND;TZID=Europe/Paris:20261108T123000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 2 – SELESTAT BC - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAF
+ FENSTADEN - 2 vs SELESTAT BC - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Pos
+ te Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.526
+ 78\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu15-5/match/200000014617088
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617088
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-14-14-00-s-u-schiltigheim-basket-b
+ all-1-s-i@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 1 – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs S.I. GRAFFENSTADEN - 2\n\nCOMPLEXE NELSON MAND
+ ELA SALLE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0067/competitions/dmu15-5/match/200000014617094
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617094
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-21-16-00-s-i-graffenstaden-2-bruch
+ e-sports-@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 2 – BRUCHE SPORTS ACADEMY - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAF
+ FENSTADEN - 2 vs BRUCHE SPORTS ACADEMY - 1\n\nSALLE DE LA S.I.G.\n📍 Rue
+  de la Poste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul
+ ?ll=48.52678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 67/competitions/dmu15-5/match/200000014617097
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617097
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-29-15-30-s-i-graffenstaden-2-bask-
+ furdenhei@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 2 – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAF
+ FENSTADEN - 2 vs BASK FURDENHEIM - 1\n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Li
+ xenbuhl Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.53006\,7.72821&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu15-5/match/200000014617100
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617100
+END:VEVENT
+END:VCALENDAR

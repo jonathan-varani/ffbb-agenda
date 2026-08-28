@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – REIMS UNIVERSITE CLUB BASKET  [DF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de REIMS UNIVERSITE CLUB BASKET – DF2 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-10-03-00-00-reims-universite-club-basket-e-l
+ -witry-le@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 REIMS UNIVERSITE CLUB BASKET – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ REIMS UNIVERSITE
+  CLUB BASKET vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE ENDY MIYEM\n📍 Ru
+ e Henri Barbusse Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.25666\
+ ,4.05137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitio
+ ns/df2/match/200000014667942
+LOCATION:GYMNASE ENDY MIYEM\, Rue Henri Barbusse Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667942
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-10-10-00-00-as-amateur-tinqueux-basket-reims
+ -universi@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ AS AMATEUR TINQUEUX BASKET – REIMS UNIVERSITE CLUB BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AS AMATEUR TINQU
+ EUX BASKET vs REIMS UNIVERSITE CLUB BASKET\n\nGYMNASE F. BRONCQUART\n📍 
+ Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/ul?ll
+ =49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/df2/match/200000014667952
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667952
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-07-00-00-etoile-de-charleville-mezieres-r
+ eims-univ@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES – REIMS UNIVERSITE CLUB BAS
+ KET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ ETOILE DE CHARLE
+ VILLE MEZIERES vs REIMS UNIVERSITE CLUB BASKET\n\nGuinguette Arena\n📍 R
+ ue de la Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : https://w
+ aze.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0051/competitions/df2/match/200000014667958
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667958
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-21-00-00-rethel-sportif-basket-reims-univ
+ ersite-cl@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ RETHEL SPORTIF BASKET – REIMS UNIVERSITE CLUB BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ RETHEL SPORTIF B
+ ASKET vs REIMS UNIVERSITE CLUB BASKET\n\nGYMNASE MERMOZ\n📍 Rue Normandi
+ e-Niémen Rethel 08300\n🚗 Waze : https://waze.com/ul?ll=49.5165\,4.3726
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667976
+LOCATION:GYMNASE MERMOZ\, Rue Normandie-Niémen Rethel 08300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667976
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-28-00-00-reims-universite-club-basket-vil
+ lers-seme@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 REIMS UNIVERSITE CLUB BASKET – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ REIMS UNIVERSITE
+  CLUB BASKET vs VILLERS SEMEUSE BASKET\n\nGYMNASE ENDY MIYEM\n📍 Rue Hen
+ ri Barbusse Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.25666\,4.05
+ 137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df
+ 2/match/200000014667984
+LOCATION:GYMNASE ENDY MIYEM\, Rue Henri Barbusse Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667984
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-12-05-00-00-amicale-des-jeunes-de-betheny-2-
+ reims-uni@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY - 2 – REIMS UNIVERSITE CLUB 
+ BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AMICALE DES JEUN
+ ES DE BETHENY - 2 vs REIMS UNIVERSITE CLUB BASKET\n\nGYMNASE CLAUDIUS CAIL
+ LOT\n📍 Allée des Pâquerettes Bétheny 51450\n🚗 Waze : https://waze
+ .com/ul?ll=49.28241\,4.05139&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0051/competitions/df2/match/200000014667990
+LOCATION:GYMNASE CLAUDIUS CAILLOT\, Allée des Pâquerettes Bétheny 51450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667990
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-12-12-00-00-e-l-witry-les-reims-basket-reims
+ -universi@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – REIMS UNIVERSITE CLUB BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ E- L-WITRY LES R
+ EIMS BASKET vs REIMS UNIVERSITE CLUB BASKET\n\nGYMNASE JEAN BOUCTON SALLE 
+ (n1)\n📍 Rue de Bétheny Witry-lès-Reims 51420\n🚗 Waze : https://waz
+ e.com/ul?ll=49.29189\,4.11144&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0051/competitions/df2/match/200000014667998
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667998
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-01-16-00-00-reims-universite-club-basket-as-
+ amateur-t@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 REIMS UNIVERSITE CLUB BASKET – AS AMATEUR TINQUEUX BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ REIMS UNIVERSITE
+  CLUB BASKET vs AS AMATEUR TINQUEUX BASKET\n\nGYMNASE ENDY MIYEM\n📍 Rue
+  Henri Barbusse Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.25666\,
+ 4.05137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competition
+ s/df2/match/200000014668008
+LOCATION:GYMNASE ENDY MIYEM\, Rue Henri Barbusse Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668008
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-01-30-00-00-reims-universite-club-basket-eto
+ ile-de-ch@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:🏠 REIMS UNIVERSITE CLUB BASKET – ETOILE DE CHARLEVILLE MEZIERE
+ S
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ REIMS UNIVERSITE
+  CLUB BASKET vs ETOILE DE CHARLEVILLE MEZIERES\n\nGYMNASE ENDY MIYEM\n📍
+  Rue Henri Barbusse Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.256
+ 66\,4.05137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competi
+ tions/df2/match/200000014668014
+LOCATION:GYMNASE ENDY MIYEM\, Rue Henri Barbusse Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668014
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-02-13-00-00-reims-universite-club-basket-ret
+ hel-sport@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 REIMS UNIVERSITE CLUB BASKET – RETHEL SPORTIF BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ REIMS UNIVERSITE
+  CLUB BASKET vs RETHEL SPORTIF BASKET\n\nGYMNASE ENDY MIYEM\n📍 Rue Henr
+ i Barbusse Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.25666\,4.051
+ 37&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2
+ /match/200000014668032
+LOCATION:GYMNASE ENDY MIYEM\, Rue Henri Barbusse Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668032
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-03-27-00-00-villers-semeuse-basket-reims-uni
+ versite-c@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET – REIMS UNIVERSITE CLUB BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ VILLERS SEMEUSE 
+ BASKET vs REIMS UNIVERSITE CLUB BASKET\n\nCOSEC\n📍 Avenue Jean Jaurès 
+ Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.7444
+ 6&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668040
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668040
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-04-10-00-00-reims-universite-club-basket-ami
+ cale-des-@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 REIMS UNIVERSITE CLUB BASKET – AMICALE DES JEUNES DE BETHENY
+  - 2
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ REIMS UNIVERSITE
+  CLUB BASKET vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE ENDY MIYEM\n
+ 📍 Rue Henri Barbusse Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49
+ .25666\,4.05137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/df2/match/200000014668046
+LOCATION:GYMNASE ENDY MIYEM\, Rue Henri Barbusse Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668046
+END:VEVENT
+END:VCALENDAR

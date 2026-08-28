@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC SAINT ANDRE LES VERGERS  [DF2 – GES – Poule B]
+X-WR-CALDESC:Matchs de BC SAINT ANDRE LES VERGERS – DF2 – GES – Marne – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-10-03-00-00-gauloise-de-vitry-le-francois-bc
+ -saint-an@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ GAULOISE DE VITRY LE FRANCOIS – BC SAINT ANDRE LES VERGERS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ GAULOISE DE VITR
+ Y LE FRANCOIS vs BC SAINT ANDRE LES VERGERS\n\nGYMNASE JEAN BERNARD\n📍 
+ Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https://waze.com
+ /ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0051/competitions/df2/match/200000014667946
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667946
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-10-11-14-30-bc-saint-andre-les-vergers-amica
+ le-basket@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261011T143000
+DTEND;TZID=Europe/Paris:20261011T163000
+SUMMARY:🏠 BC SAINT ANDRE LES VERGERS – AMICALE BASKET SPARNACIENNE
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ BC SAINT ANDRE L
+ ES VERGERS vs AMICALE BASKET SPARNACIENNE\n\nSTADE J. BIANCHI\n📍 Avenue
+  du Maréchal Leclerc Saint-André-les-Vergers 10120\n🚗 Waze : https://
+ waze.com/ul?ll=48.28114\,4.05768&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/df2/match/200000014667954
+LOCATION:STADE J. BIANCHI\, Avenue du Maréchal Leclerc Saint-André-les-Ve
+ rgers 10120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667954
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-11-14-00-00-sainte-savine-basket-bc-saint-an
+ dre-les-v@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ SAINTE SAVINE BASKET – BC SAINT ANDRE LES VERGERS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ SAINTE SAVINE BA
+ SKET vs BC SAINT ANDRE LES VERGERS\n\nGYMNASE VOLBART\n📍 Rue Jules Hema
+ rd Sainte-Savine 10300\n🚗 Waze : https://waze.com/ul?ll=48.29221\,4.053
+ 16&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2
+ /match/200000014667971
+LOCATION:GYMNASE VOLBART\, Rue Jules Hemard Sainte-Savine 10300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667971
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-11-22-14-30-bc-saint-andre-les-vergers-la-fe
+ rtonne-fe@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261122T143000
+DTEND;TZID=Europe/Paris:20261122T163000
+SUMMARY:🏠 BC SAINT ANDRE LES VERGERS – LA FERTONNE FERE-CHAMPENOISE
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ BC SAINT ANDRE L
+ ES VERGERS vs LA FERTONNE FERE-CHAMPENOISE\n\nSTADE J. BIANCHI\n📍 Avenu
+ e du Maréchal Leclerc Saint-André-les-Vergers 10120\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.28114\,4.05768&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/df2/match/200000014667977
+LOCATION:STADE J. BIANCHI\, Avenue du Maréchal Leclerc Saint-André-les-Ve
+ rgers 10120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667977
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-11-28-00-00-saint-dizier-basket-bc-saint-and
+ re-les-ve@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ SAINT DIZIER BASKET – BC SAINT ANDRE LES VERGERS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ SAINT DIZIER BAS
+ KET vs BC SAINT ANDRE LES VERGERS\n\nGYMNASE ANNE FRANCK\n📍 Boulevard S
+ alvador Allende Saint-Dizier 52100\n🚗 Waze : https://waze.com/ul?ll=48.
+ 64697\,4.96833&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/comp
+ etitions/df2/match/200000014667985
+LOCATION:GYMNASE ANNE FRANCK\, Boulevard Salvador Allende Saint-Dizier 5210
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667985
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-12-06-14-30-bc-saint-andre-les-vergers-esper
+ ance-noge@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261206T143000
+DTEND;TZID=Europe/Paris:20261206T163000
+SUMMARY:🏠 BC SAINT ANDRE LES VERGERS – ESPERANCE NOGENT SUR SEINE
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ BC SAINT ANDRE L
+ ES VERGERS vs ESPERANCE NOGENT SUR SEINE\n\nSTADE J. BIANCHI\n📍 Avenue 
+ du Maréchal Leclerc Saint-André-les-Vergers 10120\n🚗 Waze : https://w
+ aze.com/ul?ll=48.28114\,4.05768&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0051/competitions/df2/match/200000014667993
+LOCATION:STADE J. BIANCHI\, Avenue du Maréchal Leclerc Saint-André-les-Ve
+ rgers 10120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667993
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-12-13-14-30-bc-saint-andre-les-vergers-gaulo
+ ise-de-vi@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261213T143000
+DTEND;TZID=Europe/Paris:20261213T163000
+SUMMARY:🏠 BC SAINT ANDRE LES VERGERS – GAULOISE DE VITRY LE FRANCOIS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ BC SAINT ANDRE L
+ ES VERGERS vs GAULOISE DE VITRY LE FRANCOIS\n\nSTADE J. BIANCHI\n📍 Aven
+ ue du Maréchal Leclerc Saint-André-les-Vergers 10120\n🚗 Waze : https:
+ //waze.com/ul?ll=48.28114\,4.05768&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0051/competitions/df2/match/200000014668002
+LOCATION:STADE J. BIANCHI\, Avenue du Maréchal Leclerc Saint-André-les-Ve
+ rgers 10120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668002
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-01-16-00-00-amicale-basket-sparnacienne-bc-s
+ aint-andr@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ AMICALE BASKET SPARNACIENNE – BC SAINT ANDRE LES VERGERS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ AMICALE BASKET S
+ PARNACIENNE vs BC SAINT ANDRE LES VERGERS\n\nSALLE HENRI VIET\n📍 Chemin
+  de Beausoleil Épernay 51200\n🚗 Waze : https://waze.com/ul?ll=49.0275\
+ ,3.96127&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitio
+ ns/df2/match/200000014668010
+LOCATION:SALLE HENRI VIET\, Chemin de Beausoleil Épernay 51200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668010
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-02-07-14-30-bc-saint-andre-les-vergers-saint
+ e-savine-@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270207T143000
+DTEND;TZID=Europe/Paris:20270207T163000
+SUMMARY:🏠 BC SAINT ANDRE LES VERGERS – SAINTE SAVINE BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ BC SAINT ANDRE L
+ ES VERGERS vs SAINTE SAVINE BASKET\n\nSTADE J. BIANCHI\n📍 Avenue du Mar
+ échal Leclerc Saint-André-les-Vergers 10120\n🚗 Waze : https://waze.co
+ m/ul?ll=48.28114\,4.05768&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/df2/match/200000014668027
+LOCATION:STADE J. BIANCHI\, Avenue du Maréchal Leclerc Saint-André-les-Ve
+ rgers 10120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668027
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-02-13-00-00-la-fertonne-fere-champenoise-bc-
+ saint-and@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ LA FERTONNE FERE-CHAMPENOISE – BC SAINT ANDRE LES VERGERS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ LA FERTONNE FERE
+ -CHAMPENOISE vs BC SAINT ANDRE LES VERGERS\n\nGYMNASE PAUL MASSIN\n📍 Ru
+ e de la Libération Fère-Champenoise 51230\n🚗 Waze : https://waze.com/
+ ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0051/competitions/df2/match/200000014668033
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668033
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-03-28-14-30-bc-saint-andre-les-vergers-saint
+ -dizier-b@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270328T143000
+DTEND;TZID=Europe/Paris:20270328T163000
+SUMMARY:🏠 BC SAINT ANDRE LES VERGERS – SAINT DIZIER BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ BC SAINT ANDRE L
+ ES VERGERS vs SAINT DIZIER BASKET\n\nSTADE J. BIANCHI\n📍 Avenue du Mar
+ échal Leclerc Saint-André-les-Vergers 10120\n🚗 Waze : https://waze.co
+ m/ul?ll=48.28114\,4.05768&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/df2/match/200000014668041
+LOCATION:STADE J. BIANCHI\, Avenue du Maréchal Leclerc Saint-André-les-Ve
+ rgers 10120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668041
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-04-10-00-00-esperance-nogent-sur-seine-bc-sa
+ int-andre@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ ESPERANCE NOGENT SUR SEINE – BC SAINT ANDRE LES VERGERS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ ESPERANCE NOGENT
+  SUR SEINE vs BC SAINT ANDRE LES VERGERS\n\nSALLE CLAUDE SANSON\n📍 Aven
+ ue de Saint-Roch Nogent-sur-Seine 10400\n🚗 Waze : https://waze.com/ul?l
+ l=48.49596\,3.50961&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051
+ /competitions/df2/match/200000014668049
+LOCATION:SALLE CLAUDE SANSON\, Avenue de Saint-Roch Nogent-sur-Seine 10400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668049
+END:VEVENT
+END:VCALENDAR

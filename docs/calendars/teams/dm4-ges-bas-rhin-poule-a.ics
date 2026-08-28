@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB –   [DM4 – GES – Poule A]
+X-WR-CALDESC:Matchs de  – DM4 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-10-04-17-30-schiltigheim-au-3@ffbb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20261004T173000
+DTEND;TZID=Europe/Paris:20261004T193000
+SUMMARY: – SCHILTIGHEIM AU - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs SCHILTIGH
+ EIM AU - 3\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\n
+ 🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/200000014661993
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014661993
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-10-17-20-00-hattmatt-ss-3@ffbb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY: – HATTMATT SS - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs HATTMATT 
+ SS - 3\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\n🚗 
+ Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0067/competitions/dm4/match/200000014662003
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662003
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-11-21-20-00-keskastel-bc-2@ffbb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20261121T200000
+DTEND;TZID=Europe/Paris:20261121T220000
+SUMMARY: – KESKASTEL BC - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs KESKASTEL
+  BC - 2\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\n🚗
+  Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0067/competitions/dm4/match/200000014662013
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662013
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-11-29-17-30-morschwiller-fcj-3@ffbb-agend
+ a
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20261129T173000
+DTEND;TZID=Europe/Paris:20261129T193000
+SUMMARY: – MORSCHWILLER FCJ - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs MORSCHWIL
+ LER FCJ - 3\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\n
+ 🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/200000014662022
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662022
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-12-12-19-00-walbourg-eschbach-basket-3@ff
+ bb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20261212T190000
+DTEND;TZID=Europe/Paris:20261212T210000
+SUMMARY: – WALBOURG ESCHBACH BASKET - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs WALBOURG 
+ ESCHBACH BASKET - 3\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau
+  67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/200000014
+ 662036
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662036
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2026-12-19-18-30-hambach-bc-1@ffbb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20261219T183000
+DTEND;TZID=Europe/Paris:20261219T203000
+SUMMARY:HAMBACH BC - 1 – 
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ HAMBACH BC - 
+ 1 vs \n\nSALLE POLYVALENTE\n📍 Rue du Stade Hambach 57910\n🚗 Waze : h
+ ttps://waze.com/ul?ll=49.06339\,7.03464&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0067/competitions/dm4/match/200000014662041
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Hambach 57910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662041
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-01-16-18-30-wantzenau-la-a-s-c-sp-2@ffbb-
+ agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20270116T183000
+DTEND;TZID=Europe/Paris:20270116T203000
+SUMMARY:WANTZENAU (LA) A.S.C.SP - 2 – 
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ WANTZENAU (LA
+ ) A.S.C.SP - 2 vs \n\nESPACE JC KLEIN\n📍 Rue des Vergers La Wantzenau 6
+ 7610\n🚗 Waze : https://waze.com/ul?ll=48.66013\,7.83203&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/20000001466
+ 2048
+LOCATION:ESPACE JC KLEIN\, Rue des Vergers La Wantzenau 67610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662048
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-01-23-20-00-bask-furdenheim-5@ffbb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20270123T200000
+DTEND;TZID=Europe/Paris:20270123T220000
+SUMMARY: – BASK FURDENHEIM - 5
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs BASK FURD
+ ENHEIM - 5\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\n
+ 🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/200000014662054
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662054
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-02-07-17-30-bitche-pays-de-2@ffbb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20270207T173000
+DTEND;TZID=Europe/Paris:20270207T193000
+SUMMARY: – BITCHE (PAYS DE) - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs BITCHE (P
+ AYS DE) - 2\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\n
+ 🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/200000014662064
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662064
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-03-14-17-30-w-o-s-b-3@ffbb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20270314T173000
+DTEND;TZID=Europe/Paris:20270314T193000
+SUMMARY: – W.O.S.B. - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs W.O.S.B. 
+ - 3\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\n🚗 Waz
+ e : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/comites/0067/competitions/dm4/match/200000014662074
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662074
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-03-27-20-00-morschwiller-fcj-3@ffbb-agend
+ a
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:MORSCHWILLER FCJ - 3 – 
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ MORSCHWILLER 
+ FCJ - 3 vs \n\nESPACE SPORTIF ET CULTUREL\n📍 Route de Brumath Morschwil
+ ler 67350\n🚗 Waze : https://waze.com/ul?ll=48.81323\,7.63323&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/200000
+ 014662088
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Route de Brumath Morschwiller 67350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662088
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-04-10-18-30-s-u-schiltigheim-basket-ball-
+ 3@ffbb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20270410T183000
+DTEND;TZID=Europe/Paris:20270410T203000
+SUMMARY: – S.U. SCHILTIGHEIM BASKET BALL - 3
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs S.U. SCHI
+ LTIGHEIM BASKET BALL - 3\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Hag
+ uenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/2000
+ 00014662096
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662096
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-05-02-17-30-walbourg-eschbach-basket-3@ff
+ bb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20270502T173000
+DTEND;TZID=Europe/Paris:20270502T193000
+SUMMARY:WALBOURG ESCHBACH BASKET - 3 – 
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️ WALBOURG ESCH
+ BACH BASKET - 3 vs \n\nESPACE SPORTIF\n📍 Rue de la Forêt Eschbach 6736
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.87306\,7.73658&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/200000014662
+ 102
+LOCATION:ESPACE SPORTIF\, Rue de la Forêt Eschbach 67360
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662102
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-05-15-18-30-hambach-bc-1@ffbb-agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20270515T183000
+DTEND;TZID=Europe/Paris:20270515T203000
+SUMMARY: – HAMBACH BC - 1
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs HAMBACH B
+ C - 1\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\n🚗 W
+ aze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0067/competitions/dm4/match/200000014662107
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662107
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-bas-rhin-poule-a-2027-05-22-20-00-wantzenau-la-a-s-c-sp-2@ffbb-
+ agenda
+DTSTAMP:20260828T023256Z
+DTSTART;TZID=Europe/Paris:20270522T200000
+DTEND;TZID=Europe/Paris:20270522T220000
+SUMMARY: – WANTZENAU (LA) A.S.C.SP - 2
+DESCRIPTION:🏀 DM4 – GES – Bas-Rhin – Poule A\n⚔️  vs WANTZENAU
+  (LA) A.S.C.SP - 2\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 
+ 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/match/2000000146
+ 62114
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm4/
+ match/200000014662114
+END:VEVENT
+END:VCALENDAR

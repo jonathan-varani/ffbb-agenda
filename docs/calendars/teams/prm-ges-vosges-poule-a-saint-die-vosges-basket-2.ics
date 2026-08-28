@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAINT DIE VOSGES BASKET - 2  [PRM – GES – Poule A]
+X-WR-CALDESC:Matchs de SAINT DIE VOSGES BASKET - 2 – PRM – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-vosges-poule-a-2026-09-19-20-00-basket-club-thermal-1-saint-die
+ -vosges-b@ffbb-agenda
+DTSTAMP:20260828T023709Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ BASKET CLUB THERMAL - 1 – SAINT DIE VOSGES BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Vosges – Poule A\n⚔️ BASKET CLUB THE
+ RMAL - 1 vs SAINT DIE VOSGES BASKET - 2\n\nCENTRE PREPARATION OLYMPIQUE\n
+ 📍 Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/ul?l
+ l=48.1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/prm/match/200000014642792
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/prm/
+ match/200000014642792
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-vosges-poule-a-2027-01-16-20-30-entente-granges-gerardmer-saint
+ -die-vosg@ffbb-agenda
+DTSTAMP:20260828T023709Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:✈️ ENTENTE GRANGES GERARDMER – SAINT DIE VOSGES BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Vosges – Poule A\n⚔️ ENTENTE GRANGES
+  GERARDMER vs SAINT DIE VOSGES BASKET - 2\n\nGYMNASE MUNICIPAL\n📍 Rue P
+ . Ancel Seitz Granges-Aumontzey 88640\n🚗 Waze : https://waze.com/ul?ll=
+ 48.14517\,6.79376&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/prm/match/200000014642852
+LOCATION:GYMNASE MUNICIPAL\, Rue P. Ancel Seitz Granges-Aumontzey 88640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/prm/
+ match/200000014642852
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-vosges-poule-a-2027-04-02-20-30-entente-sportive-thaon-basket-b
+ all-e-s-t@ffbb-agenda
+DTSTAMP:20260828T023709Z
+DTSTART;TZID=Europe/Paris:20270402T203000
+DTEND;TZID=Europe/Paris:20270402T223000
+SUMMARY:✈️ ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) 
+ - 1 – SAINT DIE VOSGES BASKET - 2
+DESCRIPTION:🏀 PRM – GES – Vosges – Poule A\n⚔️ ENTENTE SPORTIV
+ E THAON BASKET BALL (E.S. THAON BASKET BALL) - 1 vs SAINT DIE VOSGES BASKE
+ T - 2\n\nGYMNASE DE LA POSTE\n📍 Rue Thiers Thaon-les-Vosges 88150\n🚗
+  Waze : https://waze.com/ul?ll=48.25107\,6.42202&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0088/competitions/prm/match/200000014642894
+LOCATION:GYMNASE DE LA POSTE\, Rue Thiers Thaon-les-Vosges 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/prm/
+ match/200000014642894
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GEISPOLSHEIM C.J.S. - 1  [DFU18-5 – GES – Poule A]
+X-WR-CALDESC:Matchs de GEISPOLSHEIM C.J.S. - 1 – DFU18-5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-09-12-18-00-duttlenheim-lc-2-geispols
+ heim-c-j-@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20260912T180000
+DTEND;TZID=Europe/Paris:20260912T200000
+SUMMARY:✈️ DUTTLENHEIM LC - 2 – GEISPOLSHEIM C.J.S. - 1
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ DUTTLENHE
+ IM LC - 2 vs GEISPOLSHEIM C.J.S. - 1\n\nESPACE SPORTIF ET CULTUREL\n📍 R
+ ue du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53111
+ \,7.57003&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dfu18-5/match/200000014615979
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014615979
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-09-26-16-45-geispolsheim-c-j-s-2-geis
+ polsheim-@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20260926T164500
+DTEND;TZID=Europe/Paris:20260926T184500
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 2 – GEISPOLSHEIM C.J.S. - 1
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ GEISPOLSH
+ EIM C.J.S. - 2 vs GEISPOLSHEIM C.J.S. - 1\n\nCENTRE SPORTIF\n📍 Rue de l
+ a Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51
+ 681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/dfu18-5/match/200000014615992
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014615992
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-10-03-16-00-duttlenheim-lc-1-geispols
+ heim-c-j-@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ DUTTLENHEIM LC - 1 – GEISPOLSHEIM C.J.S. - 1
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ DUTTLENHE
+ IM LC - 1 vs GEISPOLSHEIM C.J.S. - 1\n\nSALLE DE LA CONCORDE\n📍 Rue du 
+ Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56
+ 924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ u18-5/match/200000014615993
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014615993
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-10-10-14-30-geispolsheim-c-j-s-1-sain
+ t-joseph-@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20261010T143000
+DTEND;TZID=Europe/Paris:20261010T163000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 1 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ GEISPOLSH
+ EIM C.J.S. - 1 vs SAINT JOSEPH - STRASBOURG - 1\n\nCENTRE SPORTIF\n📍 Ru
+ e de la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll
+ =48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dfu18-5/match/200000014616004
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014616004
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-10-17-18-00-schirrhein-c-s-c-sn-1-gei
+ spolsheim@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN - 1 – GEISPOLSHEIM C.J.S. - 1
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs GEISPOLSHEIM C.J.S. - 1\n\nSALLE POLYVALENTE (ANNEXE)\n
+ 📍 Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.
+ 80224\,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dfu18-5/match/200000014616006
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014616006
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-11-07-14-30-geispolsheim-c-j-s-1-ie-c
+ tc-allian@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20261107T143000
+DTEND;TZID=Europe/Paris:20261107T163000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 1 – IE - CTC ALLIANCE SPORT ALSACE - A
+ SA WEYERSHEIM - 2
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ GEISPOLSH
+ EIM C.J.S. - 1 vs IE - CTC ALLIANCE SPORT ALSACE - ASA WEYERSHEIM - 2\n\nC
+ ENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim 67118\n🚗 Waze : 
+ https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0067/competitions/dfu18-5/match/200000014616015
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014616015
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-11-14-00-00-ie-ctc-alliance-sport-als
+ ace-asa-w@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ IE - CTC ALLIANCE SPORT ALSACE - ASA WEYERSHEIM - 1 – GEIS
+ POLSHEIM C.J.S. - 1
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ IE - CTC 
+ ALLIANCE SPORT ALSACE - ASA WEYERSHEIM - 1 vs GEISPOLSHEIM C.J.S. - 1\n\nE
+ SPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67720\n🚗 Waze : 
+ https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0067/competitions/dfu18-5/match/200000014616019
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014616019
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-11-21-16-00-geispolsheim-c-j-s-1-bind
+ ernheim-c@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 1 – BINDERNHEIM C.S.U. - 1
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ GEISPOLSH
+ EIM C.J.S. - 1 vs BINDERNHEIM C.S.U. - 1\n\nCENTRE SPORTIF\n📍 Rue de la
+  Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.516
+ 81\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dfu18-5/match/200000014616026
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014616026
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-11-28-18-00-ie-ctc-eurometropole-stra
+ sbourg-ba@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:✈️ IE - CTC EUROMETROPOLE STRASBOURG BASKET FEMININ - STRASBOUR
+ G LIBELLULES B.C. - 1 – GEISPOLSHEIM C.J.S. - 1
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ IE - CTC 
+ EUROMETROPOLE STRASBOURG BASKET FEMININ - STRASBOURG LIBELLULES B.C. - 1 v
+ s GEISPOLSHEIM C.J.S. - 1\n\nGYMNASE GUTENBERG\n📍 Rue Albert Sayet Stra
+ sbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.56146\,7.70879&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu18-5/match
+ /200000014616032
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014616032
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu18-5-ges-bas-rhin-poule-a-2026-12-05-14-30-geispolsheim-c-j-s-1-ie-c
+ tc-m2b-ba@ffbb-agenda
+DTSTAMP:20260828T023159Z
+DTSTART;TZID=Europe/Paris:20261205T143000
+DTEND;TZID=Europe/Paris:20261205T163000
+SUMMARY:🏠 GEISPOLSHEIM C.J.S. - 1 – IE - CTC M2B - BASKET CLUB BISCHOF
+ FSHEIM
+DESCRIPTION:🏀 DFU18-5 – GES – Bas-Rhin – Poule A\n⚔️ GEISPOLSH
+ EIM C.J.S. - 1 vs IE - CTC M2B - BASKET CLUB BISCHOFFSHEIM\n\nCENTRE SPORT
+ IF\n📍 Rue de la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waz
+ e.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0067/competitions/dfu18-5/match/200000014616037
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 8-5/match/200000014616037
+END:VEVENT
+END:VCALENDAR

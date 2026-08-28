@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GAULOISE DE VITRY LE FRANCOIS  [DF2 – GES – Poule B]
+X-WR-CALDESC:Matchs de GAULOISE DE VITRY LE FRANCOIS – DF2 – GES – Marne – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-10-03-00-00-gauloise-de-vitry-le-francois-bc
+ -saint-an@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS – BC SAINT ANDRE LES VERGERS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ GAULOISE DE VITR
+ Y LE FRANCOIS vs BC SAINT ANDRE LES VERGERS\n\nGYMNASE JEAN BERNARD\n📍 
+ Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https://waze.com
+ /ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0051/competitions/df2/match/200000014667946
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667946
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-10-10-00-00-gauloise-de-vitry-le-francois-sa
+ inte-savi@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS – SAINTE SAVINE BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ GAULOISE DE VITR
+ Y LE FRANCOIS vs SAINTE SAVINE BASKET\n\nGYMNASE JEAN BERNARD\n📍 Rue de
+  la Glacière Vitry-le-François 51300\n🚗 Waze : https://waze.com/ul?ll
+ =48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/df2/match/200000014667956
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667956
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-11-07-00-00-saint-dizier-basket-gauloise-de-
+ vitry-le-@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ SAINT DIZIER BASKET – GAULOISE DE VITRY LE FRANCOIS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ SAINT DIZIER BAS
+ KET vs GAULOISE DE VITRY LE FRANCOIS\n\nGYMNASE ANNE FRANCK\n📍 Boulevar
+ d Salvador Allende Saint-Dizier 52100\n🚗 Waze : https://waze.com/ul?ll=
+ 48.64697\,4.96833&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/df2/match/200000014667962
+LOCATION:GYMNASE ANNE FRANCK\, Boulevard Salvador Allende Saint-Dizier 5210
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667962
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-11-21-00-00-amicale-basket-sparnacienne-gaul
+ oise-de-v@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ AMICALE BASKET SPARNACIENNE – GAULOISE DE VITRY LE FRANCOI
+ S
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ AMICALE BASKET S
+ PARNACIENNE vs GAULOISE DE VITRY LE FRANCOIS\n\nSALLE HENRI VIET\n📍 Che
+ min de Beausoleil Épernay 51200\n🚗 Waze : https://waze.com/ul?ll=49.02
+ 75\,3.96127&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competi
+ tions/df2/match/200000014667980
+LOCATION:SALLE HENRI VIET\, Chemin de Beausoleil Épernay 51200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667980
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-11-28-00-00-gauloise-de-vitry-le-francois-es
+ perance-n@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS – ESPERANCE NOGENT SUR SEINE
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ GAULOISE DE VITR
+ Y LE FRANCOIS vs ESPERANCE NOGENT SUR SEINE\n\nGYMNASE JEAN BERNARD\n📍 
+ Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https://waze.com
+ /ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0051/competitions/df2/match/200000014667988
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667988
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-12-05-00-00-la-fertonne-fere-champenoise-gau
+ loise-de-@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ LA FERTONNE FERE-CHAMPENOISE – GAULOISE DE VITRY LE FRANCO
+ IS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ LA FERTONNE FERE
+ -CHAMPENOISE vs GAULOISE DE VITRY LE FRANCOIS\n\nGYMNASE PAUL MASSIN\n📍
+  Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : https://waze.c
+ om/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0051/competitions/df2/match/200000014667994
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667994
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2026-12-13-14-30-bc-saint-andre-les-vergers-gaulo
+ ise-de-vi@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20261213T143000
+DTEND;TZID=Europe/Paris:20261213T163000
+SUMMARY:✈️ BC SAINT ANDRE LES VERGERS – GAULOISE DE VITRY LE FRANCOIS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ BC SAINT ANDRE L
+ ES VERGERS vs GAULOISE DE VITRY LE FRANCOIS\n\nSTADE J. BIANCHI\n📍 Aven
+ ue du Maréchal Leclerc Saint-André-les-Vergers 10120\n🚗 Waze : https:
+ //waze.com/ul?ll=48.28114\,4.05768&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0051/competitions/df2/match/200000014668002
+LOCATION:STADE J. BIANCHI\, Avenue du Maréchal Leclerc Saint-André-les-Ve
+ rgers 10120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668002
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-01-16-00-00-sainte-savine-basket-gauloise-de
+ -vitry-le@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ SAINTE SAVINE BASKET – GAULOISE DE VITRY LE FRANCOIS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ SAINTE SAVINE BA
+ SKET vs GAULOISE DE VITRY LE FRANCOIS\n\nGYMNASE VOLBART\n📍 Rue Jules H
+ emard Sainte-Savine 10300\n🚗 Waze : https://waze.com/ul?ll=48.29221\,4.
+ 05316&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/
+ df2/match/200000014668012
+LOCATION:GYMNASE VOLBART\, Rue Jules Hemard Sainte-Savine 10300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668012
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-01-30-00-00-gauloise-de-vitry-le-francois-sa
+ int-dizie@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS – SAINT DIZIER BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ GAULOISE DE VITR
+ Y LE FRANCOIS vs SAINT DIZIER BASKET\n\nGYMNASE JEAN BERNARD\n📍 Rue de 
+ la Glacière Vitry-le-François 51300\n🚗 Waze : https://waze.com/ul?ll=
+ 48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/df2/match/200000014668018
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668018
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-02-13-00-00-gauloise-de-vitry-le-francois-am
+ icale-bas@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS – AMICALE BASKET SPARNACIENNE
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ GAULOISE DE VITR
+ Y LE FRANCOIS vs AMICALE BASKET SPARNACIENNE\n\nGYMNASE JEAN BERNARD\n📍
+  Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https://waze.co
+ m/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/df2/match/200000014668036
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668036
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-03-27-00-00-esperance-nogent-sur-seine-gaulo
+ ise-de-vi@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ ESPERANCE NOGENT SUR SEINE – GAULOISE DE VITRY LE FRANCOIS
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ ESPERANCE NOGENT
+  SUR SEINE vs GAULOISE DE VITRY LE FRANCOIS\n\nSALLE CLAUDE SANSON\n📍 A
+ venue de Saint-Roch Nogent-sur-Seine 10400\n🚗 Waze : https://waze.com/u
+ l?ll=48.49596\,3.50961&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 051/competitions/df2/match/200000014668044
+LOCATION:SALLE CLAUDE SANSON\, Avenue de Saint-Roch Nogent-sur-Seine 10400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668044
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-b-2027-04-10-00-00-gauloise-de-vitry-le-francois-la
+ -fertonne@ffbb-agenda
+DTSTAMP:20260828T023632Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS – LA FERTONNE FERE-CHAMPENOISE
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule B\n⚔️ GAULOISE DE VITR
+ Y LE FRANCOIS vs LA FERTONNE FERE-CHAMPENOISE\n\nGYMNASE JEAN BERNARD\n
+ 📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https://waz
+ e.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0051/competitions/df2/match/200000014668050
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668050
+END:VEVENT
+END:VCALENDAR

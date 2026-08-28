@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SCHIRRHEIN C.S.C.SN - 1  [DMU18-5 – GES – Poule A]
+X-WR-CALDESC:Matchs de SCHIRRHEIN C.S.C.SN - 1 – DMU18-5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-09-12-17-30-schirrhein-c-s-c-sn-1-s-u
+ -schiltig@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20260912T173000
+DTEND;TZID=Europe/Paris:20260912T193000
+SUMMARY:🏠 SCHIRRHEIN C.S.C.SN - 1 – S.U. SCHILTIGHEIM BASKET BALL - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs S.U. SCHILTIGHEIM BASKET BALL - 1\n\nSALLE POLYVALENTE (
+ ANNEXE)\n📍 Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/
+ ul?ll=48.80224\,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/dmu18-5/match/200000014616698
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616698
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-09-20-16-00-eckbolsheim-bb-1-schirrhe
+ in-c-s-c-@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20260920T160000
+DTEND;TZID=Europe/Paris:20260920T180000
+SUMMARY:✈️ ECKBOLSHEIM BB - 1 – SCHIRRHEIN C.S.C.SN - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHE
+ IM BB - 1 vs SCHIRRHEIN C.S.C.SN - 1\n\nGYMNASE KRAFFT\n📍 Rue du Stade 
+ Eckbolsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-5/m
+ atch/200000014616703
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616703
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-09-26-17-30-schirrhein-c-s-c-sn-1-str
+ asbourg-a@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20260926T173000
+DTEND;TZID=Europe/Paris:20260926T193000
+SUMMARY:🏠 SCHIRRHEIN C.S.C.SN - 1 – STRASBOURG ASS - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs STRASBOURG ASS - 1\n\nSALLE POLYVALENTE (ANNEXE)\n📍 R
+ ue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.80224\
+ ,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu18-5/match/200000014616708
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616708
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-10-03-00-00-bask-furdenheim-1-schirrh
+ ein-c-s-c@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BASK FURDENHEIM - 1 – SCHIRRHEIN C.S.C.SN - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURD
+ ENHEIM - 1 vs SCHIRRHEIN C.S.C.SN - 1\n\nESPACE SPORTIF DE L'UNION\n📍 R
+ ue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\
+ ,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu18-5/match/200000014616713
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616713
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-10-10-17-30-schirrhein-c-s-c-sn-1-ven
+ denheim-b@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261010T173000
+DTEND;TZID=Europe/Paris:20261010T193000
+SUMMARY:🏠 SCHIRRHEIN C.S.C.SN - 1 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs VENDENHEIM BC - 1\n\nSALLE POLYVALENTE (ANNEXE)\n📍 Ru
+ e du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.80224\,
+ 7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu18-5/match/200000014616718
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616718
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-07-18-30-schirrhein-c-s-c-sn-1-sai
+ nt-joseph@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261107T183000
+DTEND;TZID=Europe/Paris:20261107T203000
+SUMMARY:🏠 SCHIRRHEIN C.S.C.SN - 1 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs SAINT JOSEPH - STRASBOURG - 1\n\nSALLE POLYVALENTE (ANNE
+ XE)\n📍 Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?l
+ l=48.80224\,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu18-5/match/200000014616725
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616725
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-14-15-30-asa-gries-oberhoffen-3-sc
+ hirrhein-@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN - 3 – SCHIRRHEIN C.S.C.SN - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA GRIES
+  / OBERHOFFEN - 3 vs SCHIRRHEIN C.S.C.SN - 1\n\nESPACE SPORT LA FORET (ANN
+ EXE)\n📍 Rue du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48
+ .75654\,7.81972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu18-5/match/200000014616727
+LOCATION:ESPACE SPORT LA FORET (ANNEXE)\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616727
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-21-18-30-schirrhein-c-s-c-sn-1-asa
+ -souffelw@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261121T183000
+DTEND;TZID=Europe/Paris:20261121T203000
+SUMMARY:🏠 SCHIRRHEIN C.S.C.SN - 1 – ASA SOUFFELWEYERSHEIM - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs ASA SOUFFELWEYERSHEIM - 1\n\nSALLE POLYVALENTE (ANNEXE)\
+ n📍 Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48
+ .80224\,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dmu18-5/match/200000014616731
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616731
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-28-16-00-s-i-graffenstaden-2-schir
+ rhein-c-s@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 2 – SCHIRRHEIN C.S.C.SN - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ S.I. GRAF
+ FENSTADEN - 2 vs SCHIRRHEIN C.S.C.SN - 1\n\nSALLE DE LA S.I.G.\n📍 Rue d
+ e la Poste Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?l
+ l=48.52678\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067
+ /competitions/dmu18-5/match/200000014616737
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616737
+END:VEVENT
+END:VCALENDAR

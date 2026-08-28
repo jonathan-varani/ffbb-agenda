@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SCHIRRHEIN C.S.C.SN - 1  [DFU13-5 – GES – Poule A]
+X-WR-CALDESC:Matchs de SCHIRRHEIN C.S.C.SN - 1 – DFU13-5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-5-ges-bas-rhin-poule-a-2026-09-26-00-00-ie-ctc-alliance-sport-als
+ ace-asa-w@ffbb-agenda
+DTSTAMP:20260828T023226Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ IE - CTC ALLIANCE SPORT ALSACE - ASA WEYERSHEIM - 1 – SCHI
+ RRHEIN C.S.C.SN - 1
+DESCRIPTION:🏀 DFU13-5 – GES – Bas-Rhin – Poule A\n⚔️ IE - CTC 
+ ALLIANCE SPORT ALSACE - ASA WEYERSHEIM - 1 vs SCHIRRHEIN C.S.C.SN - 1\n\nE
+ SPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67720\n🚗 Waze : 
+ https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0067/competitions/dfu13-5/match/200000014615255
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-5/match/200000014615255
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-5-ges-bas-rhin-poule-a-2026-10-03-16-00-schirrhein-c-s-c-sn-1-gei
+ spolsheim@ffbb-agenda
+DTSTAMP:20260828T023226Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:🏠 SCHIRRHEIN C.S.C.SN - 1 – GEISPOLSHEIM C.J.S. - 1
+DESCRIPTION:🏀 DFU13-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs GEISPOLSHEIM C.J.S. - 1\n\nSALLE POLYVALENTE (ANNEXE)\n
+ 📍 Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.
+ 80224\,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dfu13-5/match/200000014615256
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-5/match/200000014615256
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-5-ges-bas-rhin-poule-a-2026-10-10-16-00-saint-joseph-strasbourg-1
+ -schirrhe@ffbb-agenda
+DTSTAMP:20260828T023226Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 1 – SCHIRRHEIN C.S.C.SN - 1
+DESCRIPTION:🏀 DFU13-5 – GES – Bas-Rhin – Poule A\n⚔️ SAINT JOS
+ EPH - STRASBOURG - 1 vs SCHIRRHEIN C.S.C.SN - 1\n\nCENTRE SPORTIF ESPLANAD
+ E\n📍 Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.577\,7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dfu13-5/match/200000014615261
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-5/match/200000014615261
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-5-ges-bas-rhin-poule-a-2026-11-07-14-30-schirrhein-c-s-c-sn-1-ie-
+ ctc-eurom@ffbb-agenda
+DTSTAMP:20260828T023226Z
+DTSTART;TZID=Europe/Paris:20261107T143000
+DTEND;TZID=Europe/Paris:20261107T163000
+SUMMARY:🏠 SCHIRRHEIN C.S.C.SN - 1 – IE - CTC EUROMETROPOLE STRASBOURG 
+ BASKET FEMININ - 1
+DESCRIPTION:🏀 DFU13-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs IE - CTC EUROMETROPOLE STRASBOURG BASKET FEMININ - 1\n\n
+ SALLE POLYVALENTE (ANNEXE)\n📍 Rue du Foyer Schirrhein 67240\n🚗 Waze 
+ : https://waze.com/ul?ll=48.80224\,7.9068&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0067/competitions/dfu13-5/match/200000014615265
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-5/match/200000014615265
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-5-ges-bas-rhin-poule-a-2026-11-14-14-00-duttlenheim-lc-1-schirrhe
+ in-c-s-c-@ffbb-agenda
+DTSTAMP:20260828T023226Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ DUTTLENHEIM LC - 1 – SCHIRRHEIN C.S.C.SN - 1
+DESCRIPTION:🏀 DFU13-5 – GES – Bas-Rhin – Poule A\n⚔️ DUTTLENHE
+ IM LC - 1 vs SCHIRRHEIN C.S.C.SN - 1\n\nSALLE DE LA CONCORDE\n📍 Rue du 
+ Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7.56
+ 924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ u13-5/match/200000014615271
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-5/match/200000014615271
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-5-ges-bas-rhin-poule-a-2026-11-21-14-30-schirrhein-c-s-c-sn-1-ie-
+ ctc-allia@ffbb-agenda
+DTSTAMP:20260828T023226Z
+DTSTART;TZID=Europe/Paris:20261121T143000
+DTEND;TZID=Europe/Paris:20261121T163000
+SUMMARY:🏠 SCHIRRHEIN C.S.C.SN - 1 – IE - CTC ALLIANCE SPORT ALSACE - A
+ SA WEYERSHEIM - 2
+DESCRIPTION:🏀 DFU13-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs IE - CTC ALLIANCE SPORT ALSACE - ASA WEYERSHEIM - 2\n\nS
+ ALLE POLYVALENTE (ANNEXE)\n📍 Rue du Foyer Schirrhein 67240\n🚗 Waze :
+  https://waze.com/ul?ll=48.80224\,7.9068&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0067/competitions/dfu13-5/match/200000014615274
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-5/match/200000014615274
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-5-ges-bas-rhin-poule-a-2026-11-29-10-30-schirrhein-c-s-c-sn-1-bas
+ k-furdenh@ffbb-agenda
+DTSTAMP:20260828T023226Z
+DTSTART;TZID=Europe/Paris:20261129T103000
+DTEND;TZID=Europe/Paris:20261129T123000
+SUMMARY:🏠 SCHIRRHEIN C.S.C.SN - 1 – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DFU13-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs BASK FURDENHEIM - 1\n\nSALLE POLYVALENTE (ANNEXE)\n📍 
+ Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.80224
+ \,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dfu13-5/match/200000014615277
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-5/match/200000014615277
+END:VEVENT
+END:VCALENDAR

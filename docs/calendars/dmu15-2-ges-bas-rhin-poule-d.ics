@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-12-00-00-strasbourg-ass-2-strasbou
- rg-libell@ffbb-agenda
-DTSTAMP:20260825T210538Z
-DTSTART;TZID=Europe/Paris:20260912T000000
-DTEND;TZID=Europe/Paris:20260912T020000
-SUMMARY:STRASBOURG ASS - 2 – STRASBOURG LIBELLULES B.C.
-DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
- G ASS - 2 vs STRASBOURG LIBELLULES B.C.\n\nGYMNASE DE LA ROTONDE\n📍 Rue
-  Pierre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\
- ,7.72525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
- le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
- ns/dmu15-2/match/200000014661080
-LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
- 5-2/match/200000014661080
-END:VEVENT
-BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-12-00-00-racing-club-de-strasbourg
  -eckbolsh@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20260912T000000
 DTEND;TZID=Europe/Paris:20260912T020000
 SUMMARY:RACING CLUB DE STRASBOURG – ECKBOLSHEIM BB - 2
@@ -60,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-13-13-30-schiltigheim-au-strasbour
  g-js-koen@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20260913T133000
 DTEND;TZID=Europe/Paris:20260913T153000
 SUMMARY:SCHILTIGHEIM AU – STRASBOURG JS KOENIGSHOFFEN
@@ -75,9 +58,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  5-2/match/200000014661078
 END:VEVENT
 BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-13-15-30-strasbourg-ass-2-strasbou
+ rg-libell@ffbb-agenda
+DTSTAMP:20260828T023343Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:STRASBOURG ASS - 2 – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G ASS - 2 vs STRASBOURG LIBELLULES B.C.\n\nGYMNASE DE LA ROTONDE\n📍 Rue
+  Pierre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\
+ ,7.72525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu15-2/match/200000014661080
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661080
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-19-00-00-racing-club-de-strasbourg
  -schiltig@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20260919T000000
 DTEND;TZID=Europe/Paris:20260919T020000
 SUMMARY:RACING CLUB DE STRASBOURG – SCHILTIGHEIM AU
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-19-00-00-eckbolsheim-bb-2-strasbou
  rg-libell@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20260919T000000
 DTEND;TZID=Europe/Paris:20260919T020000
 SUMMARY:ECKBOLSHEIM BB - 2 – STRASBOURG LIBELLULES B.C.
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-19-00-00-strasbourg-js-koenigshoff
  en-strasb@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20260919T000000
 DTEND;TZID=Europe/Paris:20260919T020000
 SUMMARY:STRASBOURG JS KOENIGSHOFFEN – STRASBOURG ASS - 2
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-26-00-00-strasbourg-libellules-b-c
  -strasbou@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:STRASBOURG LIBELLULES B.C. – STRASBOURG JS KOENIGSHOFFEN
@@ -143,26 +143,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  5-2/match/200000014661085
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-26-00-00-strasbourg-ass-2-racing-c
- lub-de-st@ffbb-agenda
-DTSTAMP:20260825T210538Z
-DTSTART;TZID=Europe/Paris:20260926T000000
-DTEND;TZID=Europe/Paris:20260926T020000
-SUMMARY:STRASBOURG ASS - 2 – RACING CLUB DE STRASBOURG
-DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
- G ASS - 2 vs RACING CLUB DE STRASBOURG\n\nGYMNASE DE LA ROTONDE\n📍 Rue 
- Pierre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,
- 7.72525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
- e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
- s/dmu15-2/match/200000014661086
-LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
- 5-2/match/200000014661086
-END:VEVENT
-BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-27-13-30-schiltigheim-au-eckbolshe
  im-bb-2@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20260927T133000
 DTEND;TZID=Europe/Paris:20260927T153000
 SUMMARY:SCHILTIGHEIM AU – ECKBOLSHEIM BB - 2
@@ -177,9 +160,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  5-2/match/200000014661084
 END:VEVENT
 BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-d-2026-09-27-17-30-strasbourg-ass-2-racing-c
+ lub-de-st@ffbb-agenda
+DTSTAMP:20260828T023343Z
+DTSTART;TZID=Europe/Paris:20260927T173000
+DTEND;TZID=Europe/Paris:20260927T193000
+SUMMARY:STRASBOURG ASS - 2 – RACING CLUB DE STRASBOURG
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G ASS - 2 vs RACING CLUB DE STRASBOURG\n\nGYMNASE DE LA ROTONDE\n📍 Rue 
+ Pierre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,
+ 7.72525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu15-2/match/200000014661086
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661086
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-10-03-00-00-strasbourg-js-koenigshoff
  en-eckbol@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20261003T000000
 DTEND;TZID=Europe/Paris:20261003T020000
 SUMMARY:STRASBOURG JS KOENIGSHOFFEN – ECKBOLSHEIM BB - 2
@@ -194,26 +194,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  5-2/match/200000014661088
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu15-2-ges-bas-rhin-poule-d-2026-10-03-00-00-strasbourg-ass-2-schiltig
- heim-au@ffbb-agenda
-DTSTAMP:20260825T210538Z
-DTSTART;TZID=Europe/Paris:20261003T000000
-DTEND;TZID=Europe/Paris:20261003T020000
-SUMMARY:STRASBOURG ASS - 2 – SCHILTIGHEIM AU
-DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
- G ASS - 2 vs SCHILTIGHEIM AU\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nus
- s Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/
- match/200000014661087
-LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
- 5-2/match/200000014661087
-END:VEVENT
-BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-10-03-00-00-strasbourg-libellules-b-c
  -racing-c@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20261003T000000
 DTEND;TZID=Europe/Paris:20261003T020000
 SUMMARY:STRASBOURG LIBELLULES B.C. – RACING CLUB DE STRASBOURG
@@ -228,9 +211,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  5-2/match/200000014661089
 END:VEVENT
 BEGIN:VEVENT
+UID:dmu15-2-ges-bas-rhin-poule-d-2026-10-04-13-30-strasbourg-ass-2-schiltig
+ heim-au@ffbb-agenda
+DTSTAMP:20260828T023343Z
+DTSTART;TZID=Europe/Paris:20261004T133000
+DTEND;TZID=Europe/Paris:20261004T153000
+SUMMARY:STRASBOURG ASS - 2 – SCHILTIGHEIM AU
+DESCRIPTION:🏀 DMU15-2 – GES – Bas-Rhin – Poule D\n⚔️ STRASBOUR
+ G ASS - 2 vs SCHILTIGHEIM AU\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nus
+ s Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-2/
+ match/200000014661087
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-2/match/200000014661087
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-10-10-00-00-eckbolsheim-bb-2-strasbou
  rg-ass-2@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20261010T000000
 DTEND;TZID=Europe/Paris:20261010T020000
 SUMMARY:ECKBOLSHEIM BB - 2 – STRASBOURG ASS - 2
@@ -247,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-10-10-00-00-racing-club-de-strasbourg
  -strasbou@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20261010T000000
 DTEND;TZID=Europe/Paris:20261010T020000
 SUMMARY:RACING CLUB DE STRASBOURG – STRASBOURG JS KOENIGSHOFFEN
@@ -264,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu15-2-ges-bas-rhin-poule-d-2026-10-11-13-30-schiltigheim-au-strasbour
  g-libellu@ffbb-agenda
-DTSTAMP:20260825T210538Z
+DTSTAMP:20260828T023343Z
 DTSTART;TZID=Europe/Paris:20261011T133000
 DTEND;TZID=Europe/Paris:20261011T153000
 SUMMARY:SCHILTIGHEIM AU – STRASBOURG LIBELLULES B.C.

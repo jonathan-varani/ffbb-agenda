@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS AMATEUR TINQUEUX BASKET  [DF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de AS AMATEUR TINQUEUX BASKET – DF2 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-10-03-00-00-villers-semeuse-basket-as-amateu
+ r-tinqueu@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET – AS AMATEUR TINQUEUX BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ VILLERS SEMEUSE 
+ BASKET vs AS AMATEUR TINQUEUX BASKET\n\nCOSEC\n📍 Avenue Jean Jaurès Vi
+ llers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.74446&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/ma
+ tch/200000014667943
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667943
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-10-10-00-00-as-amateur-tinqueux-basket-reims
+ -universi@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 AS AMATEUR TINQUEUX BASKET – REIMS UNIVERSITE CLUB BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AS AMATEUR TINQU
+ EUX BASKET vs REIMS UNIVERSITE CLUB BASKET\n\nGYMNASE F. BRONCQUART\n📍 
+ Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/ul?ll
+ =49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/df2/match/200000014667952
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667952
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-07-00-00-amicale-des-jeunes-de-betheny-2-
+ as-amateu@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY - 2 – AS AMATEUR TINQUEUX BA
+ SKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AMICALE DES JEUN
+ ES DE BETHENY - 2 vs AS AMATEUR TINQUEUX BASKET\n\nGYMNASE CLAUDIUS CAILLO
+ T\n📍 Allée des Pâquerettes Bétheny 51450\n🚗 Waze : https://waze.c
+ om/ul?ll=49.28241\,4.05139&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0051/competitions/df2/match/200000014667959
+LOCATION:GYMNASE CLAUDIUS CAILLOT\, Allée des Pâquerettes Bétheny 51450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667959
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-14-00-00-as-amateur-tinqueux-basket-e-l-w
+ itry-les-@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 AS AMATEUR TINQUEUX BASKET – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AS AMATEUR TINQU
+ EUX BASKET vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE F. BRONCQUART\n📍 R
+ ue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/ul?ll=
+ 49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/df2/match/200000014667967
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667967
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-28-00-00-as-amateur-tinqueux-basket-rethe
+ l-sportif@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 AS AMATEUR TINQUEUX BASKET – RETHEL SPORTIF BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AS AMATEUR TINQU
+ EUX BASKET vs RETHEL SPORTIF BASKET\n\nGYMNASE F. BRONCQUART\n📍 Rue de 
+ la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/ul?ll=49.246
+ 09\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competi
+ tions/df2/match/200000014667982
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667982
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-12-05-00-00-as-amateur-tinqueux-basket-etoil
+ e-de-char@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 AS AMATEUR TINQUEUX BASKET – ETOILE DE CHARLEVILLE MEZIERES
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AS AMATEUR TINQU
+ EUX BASKET vs ETOILE DE CHARLEVILLE MEZIERES\n\nGYMNASE F. BRONCQUART\n
+ 📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/
+ ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0051/competitions/df2/match/200000014667991
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667991
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-12-12-00-00-as-amateur-tinqueux-basket-ville
+ rs-semeus@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 AS AMATEUR TINQUEUX BASKET – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AS AMATEUR TINQU
+ EUX BASKET vs VILLERS SEMEUSE BASKET\n\nGYMNASE F. BRONCQUART\n📍 Rue de
+  la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/ul?ll=49.24
+ 609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/compet
+ itions/df2/match/200000014667999
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667999
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-01-16-00-00-reims-universite-club-basket-as-
+ amateur-t@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ REIMS UNIVERSITE CLUB BASKET – AS AMATEUR TINQUEUX BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ REIMS UNIVERSITE
+  CLUB BASKET vs AS AMATEUR TINQUEUX BASKET\n\nGYMNASE ENDY MIYEM\n📍 Rue
+  Henri Barbusse Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.25666\,
+ 4.05137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competition
+ s/df2/match/200000014668008
+LOCATION:GYMNASE ENDY MIYEM\, Rue Henri Barbusse Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668008
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-01-30-00-00-as-amateur-tinqueux-basket-amica
+ le-des-je@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:🏠 AS AMATEUR TINQUEUX BASKET – AMICALE DES JEUNES DE BETHENY -
+  2
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AS AMATEUR TINQU
+ EUX BASKET vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE F. BRONCQUART\n
+ 📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/
+ ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0051/competitions/df2/match/200000014668015
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668015
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-02-06-00-00-e-l-witry-les-reims-basket-as-am
+ ateur-tin@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – AS AMATEUR TINQUEUX BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ E- L-WITRY LES R
+ EIMS BASKET vs AS AMATEUR TINQUEUX BASKET\n\nGYMNASE JEAN BOUCTON SALLE (n
+ 1)\n📍 Rue de Bétheny Witry-lès-Reims 51420\n🚗 Waze : https://waze.
+ com/ul?ll=49.29189\,4.11144&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0051/competitions/df2/match/200000014668023
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668023
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-03-27-00-00-rethel-sportif-basket-as-amateur
+ -tinqueux@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ RETHEL SPORTIF BASKET – AS AMATEUR TINQUEUX BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ RETHEL SPORTIF B
+ ASKET vs AS AMATEUR TINQUEUX BASKET\n\nGYMNASE MERMOZ\n📍 Rue Normandie-
+ Niémen Rethel 08300\n🚗 Waze : https://waze.com/ul?ll=49.5165\,4.37261&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/ma
+ tch/200000014668038
+LOCATION:GYMNASE MERMOZ\, Rue Normandie-Niémen Rethel 08300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668038
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-04-10-00-00-etoile-de-charleville-mezieres-a
+ s-amateur@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES – AS AMATEUR TINQUEUX BASKE
+ T
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ ETOILE DE CHARLE
+ VILLE MEZIERES vs AS AMATEUR TINQUEUX BASKET\n\nGuinguette Arena\n📍 Rue
+  de la Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : https://waz
+ e.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0051/competitions/df2/match/200000014668047
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668047
+END:VEVENT
+END:VCALENDAR

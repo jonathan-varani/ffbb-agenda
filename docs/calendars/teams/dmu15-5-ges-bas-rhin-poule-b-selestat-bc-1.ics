@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SELESTAT BC - 1  [DMU15-5 – GES – Poule B]
+X-WR-CALDESC:Matchs de SELESTAT BC - 1 – DMU15-5 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-09-26-17-30-selestat-bc-1-bask-furden
+ heim-1@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20260926T173000
+DTEND;TZID=Europe/Paris:20260926T193000
+SUMMARY:🏠 SELESTAT BC - 1 – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT 
+ BC - 1 vs BASK FURDENHEIM - 1\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré S
+ élestat 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-5/mat
+ ch/200000014617075
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617075
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-10-03-16-00-s-u-schiltigheim-basket-b
+ all-1-sel@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 1 – SELESTAT BC - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs SELESTAT BC - 1\n\nCOMPLEXE NELSON MANDELA SAL
+ LE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/
+ ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0067/competitions/dmu15-5/match/200000014617081
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617081
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-10-10-17-30-selestat-bc-1-bruche-spor
+ ts-academ@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261010T173000
+DTEND;TZID=Europe/Paris:20261010T193000
+SUMMARY:🏠 SELESTAT BC - 1 – BRUCHE SPORTS ACADEMY - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT 
+ BC - 1 vs BRUCHE SPORTS ACADEMY - 1\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fa
+ uré Sélestat 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15
+ -5/match/200000014617083
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617083
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-08-10-30-s-i-graffenstaden-2-seles
+ tat-bc-1@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261108T103000
+DTEND;TZID=Europe/Paris:20261108T123000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 2 – SELESTAT BC - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAF
+ FENSTADEN - 2 vs SELESTAT BC - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Pos
+ te Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.526
+ 78\,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu15-5/match/200000014617088
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617088
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-14-17-30-selestat-bc-1-strasbourg-
+ ass-1@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261114T173000
+DTEND;TZID=Europe/Paris:20261114T193000
+SUMMARY:🏠 SELESTAT BC - 1 – STRASBOURG ASS - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT 
+ BC - 1 vs STRASBOURG ASS - 1\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré S
+ élestat 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-5/mat
+ ch/200000014617091
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617091
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-21-13-30-asa-gries-oberhoffen-2-se
+ lestat-bc@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261121T133000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN - 2 – SELESTAT BC - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ ASA GRIES
+  / OBERHOFFEN - 2 vs SELESTAT BC - 1\n\nESPACE SPORT LA FORET\n📍 Rue du
+  Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-5
+ /match/200000014617095
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617095
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-28-17-30-selestat-bc-1-duttlenheim
+ -lc-1@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261128T173000
+DTEND;TZID=Europe/Paris:20261128T193000
+SUMMARY:🏠 SELESTAT BC - 1 – DUTTLENHEIM LC - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT 
+ BC - 1 vs DUTTLENHEIM LC - 1\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré S
+ élestat 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-5/mat
+ ch/200000014617099
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617099
+END:VEVENT
+END:VCALENDAR

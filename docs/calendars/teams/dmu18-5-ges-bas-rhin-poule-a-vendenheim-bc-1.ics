@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VENDENHEIM BC - 1  [DMU18-5 – GES – Poule A]
+X-WR-CALDESC:Matchs de VENDENHEIM BC - 1 – DMU18-5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-09-12-19-00-vendenheim-bc-1-eckbolshe
+ im-bb-1@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20260912T190000
+DTEND;TZID=Europe/Paris:20260912T210000
+SUMMARY:🏠 VENDENHEIM BC - 1 – ECKBOLSHEIM BB - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ VENDENHEI
+ M BC - 1 vs ECKBOLSHEIM BB - 1\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charle
+ s Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.
+ 71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu18-5/match/200000014616699
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616699
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-09-20-15-30-strasbourg-ass-1-vendenhe
+ im-bc-1@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ STRASBOURG ASS - 1 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ STRASBOUR
+ G ASS - 1 vs VENDENHEIM BC - 1\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre N
+ uss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-
+ 5/match/200000014616704
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616704
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-09-27-10-30-vendenheim-bc-1-bask-furd
+ enheim-1@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20260927T103000
+DTEND;TZID=Europe/Paris:20260927T123000
+SUMMARY:🏠 VENDENHEIM BC - 1 – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ VENDENHEI
+ M BC - 1 vs BASK FURDENHEIM - 1\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charl
+ es Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7
+ .71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu18-5/match/200000014616709
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616709
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-10-03-19-00-vendenheim-bc-1-saint-jos
+ eph-stras@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261003T190000
+DTEND;TZID=Europe/Paris:20261003T210000
+SUMMARY:🏠 VENDENHEIM BC - 1 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ VENDENHEI
+ M BC - 1 vs SAINT JOSEPH - STRASBOURG - 1\n\nGYMNASE CLAUDE MAILFERT\n📍
+  Rue Charles Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.66623\,7.71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu18-5/match/200000014616715
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616715
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-10-10-17-30-schirrhein-c-s-c-sn-1-ven
+ denheim-b@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261010T173000
+DTEND;TZID=Europe/Paris:20261010T193000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN - 1 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs VENDENHEIM BC - 1\n\nSALLE POLYVALENTE (ANNEXE)\n📍 Ru
+ e du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.80224\,
+ 7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu18-5/match/200000014616718
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616718
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-07-15-00-vendenheim-bc-1-asa-gries
+ -oberhoff@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261107T150000
+DTEND;TZID=Europe/Paris:20261107T170000
+SUMMARY:🏠 VENDENHEIM BC - 1 – ASA GRIES / OBERHOFFEN - 3
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ VENDENHEI
+ M BC - 1 vs ASA GRIES / OBERHOFFEN - 3\n\nGYMNASE CLAUDE MAILFERT\n📍 Ru
+ e Charles Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 6623\,7.71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dmu18-5/match/200000014616722
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616722
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-14-17-00-asa-souffelweyersheim-1-v
+ endenheim@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261114T170000
+DTEND;TZID=Europe/Paris:20261114T190000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 1 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA SOUFF
+ ELWEYERSHEIM - 1 vs VENDENHEIM BC - 1\n\nGYMNASE MUNICIPAL\n📍 Rue des S
+ ept Arpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48
+ .6319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu18-5/match/200000014616726
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616726
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-22-15-30-vendenheim-bc-1-s-i-graff
+ enstaden-@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:🏠 VENDENHEIM BC - 1 – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ VENDENHEI
+ M BC - 1 vs S.I. GRAFFENSTADEN - 2\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Ch
+ arles Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623
+ \,7.71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu18-5/match/200000014616732
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616732
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-28-16-00-s-u-schiltigheim-basket-b
+ all-1-ven@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 1 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs VENDENHEIM BC - 1\n\nCOMPLEXE NELSON MANDELA S
+ ALLE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://waze.co
+ m/ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0067/competitions/dmu18-5/match/200000014616738
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616738
+END:VEVENT
+END:VCALENDAR

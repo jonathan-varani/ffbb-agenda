@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – S.U. SCHILTIGHEIM BASKET BALL - 1  [DMU18-5 – GES – Poule A]
+X-WR-CALDESC:Matchs de S.U. SCHILTIGHEIM BASKET BALL - 1 – DMU18-5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-09-12-17-30-schirrhein-c-s-c-sn-1-s-u
+ -schiltig@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20260912T173000
+DTEND;TZID=Europe/Paris:20260912T193000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN - 1 – S.U. SCHILTIGHEIM BASKET BALL - 
+ 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs S.U. SCHILTIGHEIM BASKET BALL - 1\n\nSALLE POLYVALENTE (
+ ANNEXE)\n📍 Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/
+ ul?ll=48.80224\,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/dmu18-5/match/200000014616698
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616698
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-09-19-18-00-s-u-schiltigheim-basket-b
+ all-1-asa@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20260919T180000
+DTEND;TZID=Europe/Paris:20260919T200000
+SUMMARY:🏠 S.U. SCHILTIGHEIM BASKET BALL - 1 – ASA GRIES / OBERHOFFEN -
+  3
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs ASA GRIES / OBERHOFFEN - 3\n\nCOMPLEXE NELSON 
+ MANDELA SALLE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https:
+ //waze.com/ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0067/competitions/dmu18-5/match/200000014616702
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616702
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-09-26-16-00-asa-souffelweyersheim-1-s
+ -u-schilt@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 1 – S.U. SCHILTIGHEIM BASKET BALL 
+ - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA SOUFF
+ ELWEYERSHEIM - 1 vs S.U. SCHILTIGHEIM BASKET BALL - 1\n\nGYMNASE MUNICIPAL
+ \n📍 Rue des Sept Arpents Souffelweyersheim 67460\n🚗 Waze : https://w
+ aze.com/ul?ll=48.6319\,7.74&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0067/competitions/dmu18-5/match/200000014616706
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616706
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-10-03-18-00-s-u-schiltigheim-basket-b
+ all-1-s-i@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 S.U. SCHILTIGHEIM BASKET BALL - 1 – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs S.I. GRAFFENSTADEN - 2\n\nCOMPLEXE NELSON MAND
+ ELA SALLE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0067/competitions/dmu18-5/match/200000014616714
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616714
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-10-11-13-30-saint-joseph-strasbourg-1
+ -s-u-schi@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261011T133000
+DTEND;TZID=Europe/Paris:20261011T153000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 1 – S.U. SCHILTIGHEIM BASKET B
+ ALL - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ SAINT JOS
+ EPH - STRASBOURG - 1 vs S.U. SCHILTIGHEIM BASKET BALL - 1\n\nCENTRE SPORTI
+ F ESPLANADE\n📍 Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.c
+ om/ul?ll=48.577\,7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0067/competitions/dmu18-5/match/200000014616720
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616720
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-07-18-30-eckbolsheim-bb-1-s-u-schi
+ ltigheim-@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261107T183000
+DTEND;TZID=Europe/Paris:20261107T203000
+SUMMARY:✈️ ECKBOLSHEIM BB - 1 – S.U. SCHILTIGHEIM BASKET BALL - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHE
+ IM BB - 1 vs S.U. SCHILTIGHEIM BASKET BALL - 1\n\nGYMNASE KRAFFT\n📍 Rue
+  du Stade Eckbolsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7
+ .68991&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu18-5/match/200000014616723
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616723
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-14-16-00-s-u-schiltigheim-basket-b
+ all-1-str@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 S.U. SCHILTIGHEIM BASKET BALL - 1 – STRASBOURG ASS - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs STRASBOURG ASS - 1\n\nCOMPLEXE NELSON MANDELA 
+ SALLE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://waze.c
+ om/ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0067/competitions/dmu18-5/match/200000014616729
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616729
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-21-00-00-bask-furdenheim-1-s-u-sch
+ iltigheim@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ BASK FURDENHEIM - 1 – S.U. SCHILTIGHEIM BASKET BALL - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURD
+ ENHEIM - 1 vs S.U. SCHILTIGHEIM BASKET BALL - 1\n\nESPACE SPORTIF DE L'UNI
+ ON\n📍 Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll
+ =48.61652\,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu18-5/match/200000014616733
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616733
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-5-ges-bas-rhin-poule-a-2026-11-28-16-00-s-u-schiltigheim-basket-b
+ all-1-ven@ffbb-agenda
+DTSTAMP:20260828T023331Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:🏠 S.U. SCHILTIGHEIM BASKET BALL - 1 – VENDENHEIM BC - 1
+DESCRIPTION:🏀 DMU18-5 – GES – Bas-Rhin – Poule A\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs VENDENHEIM BC - 1\n\nCOMPLEXE NELSON MANDELA S
+ ALLE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://waze.co
+ m/ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0067/competitions/dmu18-5/match/200000014616738
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-5/match/200000014616738
+END:VEVENT
+END:VCALENDAR

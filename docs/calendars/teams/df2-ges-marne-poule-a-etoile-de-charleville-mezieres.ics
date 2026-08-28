@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ETOILE DE CHARLEVILLE MEZIERES  [DF2 – GES – Poule A]
+X-WR-CALDESC:Matchs de ETOILE DE CHARLEVILLE MEZIERES – DF2 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-10-10-00-00-amicale-des-jeunes-de-betheny-2-
+ etoile-de@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY - 2 – ETOILE DE CHARLEVILLE 
+ MEZIERES
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AMICALE DES JEUN
+ ES DE BETHENY - 2 vs ETOILE DE CHARLEVILLE MEZIERES\n\nGYMNASE CLAUDIUS CA
+ ILLOT\n📍 Allée des Pâquerettes Bétheny 51450\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.28241\,4.05139&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0051/competitions/df2/match/200000014667949
+LOCATION:GYMNASE CLAUDIUS CAILLOT\, Allée des Pâquerettes Bétheny 51450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667949
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-07-00-00-etoile-de-charleville-mezieres-r
+ eims-univ@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – REIMS UNIVERSITE CLUB BASKE
+ T
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ ETOILE DE CHARLE
+ VILLE MEZIERES vs REIMS UNIVERSITE CLUB BASKET\n\nGuinguette Arena\n📍 R
+ ue de la Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : https://w
+ aze.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0051/competitions/df2/match/200000014667958
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667958
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-14-00-00-rethel-sportif-basket-etoile-de-
+ charlevil@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ RETHEL SPORTIF BASKET – ETOILE DE CHARLEVILLE MEZIERES
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ RETHEL SPORTIF B
+ ASKET vs ETOILE DE CHARLEVILLE MEZIERES\n\nGYMNASE MERMOZ\n📍 Rue Norman
+ die-Niémen Rethel 08300\n🚗 Waze : https://waze.com/ul?ll=49.5165\,4.37
+ 261&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df
+ 2/match/200000014667965
+LOCATION:GYMNASE MERMOZ\, Rue Normandie-Niémen Rethel 08300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667965
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-21-00-00-villers-semeuse-basket-etoile-de
+ -charlevi@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET – ETOILE DE CHARLEVILLE MEZIERES
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ VILLERS SEMEUSE 
+ BASKET vs ETOILE DE CHARLEVILLE MEZIERES\n\nCOSEC\n📍 Avenue Jean Jaurè
+ s Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.74
+ 446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df
+ 2/match/200000014667975
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667975
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-11-28-00-00-etoile-de-charleville-mezieres-e
+ -l-witry-@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ ETOILE DE CHARLE
+ VILLE MEZIERES vs E- L-WITRY LES REIMS BASKET\n\nGuinguette Arena\n📍 Ru
+ e de la Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0051/competitions/df2/match/200000014667981
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667981
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2026-12-05-00-00-as-amateur-tinqueux-basket-etoil
+ e-de-char@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ AS AMATEUR TINQUEUX BASKET – ETOILE DE CHARLEVILLE MEZIERE
+ S
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ AS AMATEUR TINQU
+ EUX BASKET vs ETOILE DE CHARLEVILLE MEZIERES\n\nGYMNASE F. BRONCQUART\n
+ 📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/
+ ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0051/competitions/df2/match/200000014667991
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014667991
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-01-16-00-00-etoile-de-charleville-mezieres-a
+ micale-de@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – AMICALE DES JEUNES DE BETHE
+ NY - 2
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ ETOILE DE CHARLE
+ VILLE MEZIERES vs AMICALE DES JEUNES DE BETHENY - 2\n\nGuinguette Arena\n
+ 📍 Rue de la Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : htt
+ ps://waze.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/df2/match/200000014668005
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668005
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-01-30-00-00-reims-universite-club-basket-eto
+ ile-de-ch@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ REIMS UNIVERSITE CLUB BASKET – ETOILE DE CHARLEVILLE MEZIE
+ RES
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ REIMS UNIVERSITE
+  CLUB BASKET vs ETOILE DE CHARLEVILLE MEZIERES\n\nGYMNASE ENDY MIYEM\n📍
+  Rue Henri Barbusse Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.256
+ 66\,4.05137&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competi
+ tions/df2/match/200000014668014
+LOCATION:GYMNASE ENDY MIYEM\, Rue Henri Barbusse Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668014
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-02-06-00-00-etoile-de-charleville-mezieres-r
+ ethel-spo@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – RETHEL SPORTIF BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ ETOILE DE CHARLE
+ VILLE MEZIERES vs RETHEL SPORTIF BASKET\n\nGuinguette Arena\n📍 Rue de l
+ a Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : https://waze.com
+ /ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0051/competitions/df2/match/200000014668021
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668021
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-02-13-00-00-etoile-de-charleville-mezieres-v
+ illers-se@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ ETOILE DE CHARLE
+ VILLE MEZIERES vs VILLERS SEMEUSE BASKET\n\nGuinguette Arena\n📍 Rue de 
+ la Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : https://waze.co
+ m/ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0051/competitions/df2/match/200000014668031
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668031
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-03-27-00-00-e-l-witry-les-reims-basket-etoil
+ e-de-char@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – ETOILE DE CHARLEVILLE MEZIER
+ ES
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ E- L-WITRY LES R
+ EIMS BASKET vs ETOILE DE CHARLEVILLE MEZIERES\n\nGYMNASE JEAN BOUCTON SALL
+ E (n1)\n📍 Rue de Bétheny Witry-lès-Reims 51420\n🚗 Waze : https://w
+ aze.com/ul?ll=49.29189\,4.11144&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0051/competitions/df2/match/200000014668037
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668037
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-marne-poule-a-2027-04-10-00-00-etoile-de-charleville-mezieres-a
+ s-amateur@ffbb-agenda
+DTSTAMP:20260828T023630Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – AS AMATEUR TINQUEUX BASKET
+DESCRIPTION:🏀 DF2 – GES – Marne – Poule A\n⚔️ ETOILE DE CHARLE
+ VILLE MEZIERES vs AS AMATEUR TINQUEUX BASKET\n\nGuinguette Arena\n📍 Rue
+  de la Vieille Meuse Charleville-Mézières 08000\n🚗 Waze : https://waz
+ e.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0051/competitions/df2/match/200000014668047
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-Mézières 
+ 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/df2/
+ match/200000014668047
+END:VEVENT
+END:VCALENDAR

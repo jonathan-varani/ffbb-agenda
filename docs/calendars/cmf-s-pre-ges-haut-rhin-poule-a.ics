@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CMF-S-PRE – GES – Haut-Rhin – Poule A
+X-WR-CALDESC:Tous les matchs CMF-S-PRE – GES – Haut-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cmf-s-pre-ges-haut-rhin-poule-a-2026-10-10-00-00-as-attenschwiller-bask
+ et-club-3@ffbb-agenda
+DTSTAMP:20260828T023618Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:AS ATTENSCHWILLER – BASKET-CLUB 3 PAYS - 2
+DESCRIPTION:🏀 CMF-S-PRE – GES – Haut-Rhin – Poule A\n⚔️ AS ATT
+ ENSCHWILLER vs BASKET-CLUB 3 PAYS - 2\n\nSALLE POLYVALENTE\n📍 Rue Charl
+ es de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.5
+ 6918\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compe
+ titions/cmf-s-pre/match/200000014670029
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/cmf-
+ s-pre/match/200000014670029
+END:VEVENT
+BEGIN:VEVENT
+UID:cmf-s-pre-ges-haut-rhin-poule-a-2026-10-10-00-00-basket-club-illzach-ie
+ -ctc-jura@ffbb-agenda
+DTSTAMP:20260828T023618Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:BASKET CLUB ILLZACH – IE - CTC JURA ALSACIEN BASKET - 1
+DESCRIPTION:🏀 CMF-S-PRE – GES – Haut-Rhin – Poule A\n⚔️ BASKET
+  CLUB ILLZACH vs IE - CTC JURA ALSACIEN BASKET - 1\n\nGYMNASE DU CANAL\n
+ 📍 Rue du Canal Illzach 68110\n🚗 Waze : https://waze.com/ul?ll=47.769
+ 36\,7.36189&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/cmf-s-pre/match/200000014670030
+LOCATION:GYMNASE DU CANAL\, Rue du Canal Illzach 68110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/cmf-
+ s-pre/match/200000014670030
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASK FURDENHEIM - 1  [DMU15-5 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASK FURDENHEIM - 1 – DMU15-5 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-09-26-17-30-selestat-bc-1-bask-furden
+ heim-1@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20260926T173000
+DTEND;TZID=Europe/Paris:20260926T193000
+SUMMARY:✈️ SELESTAT BC - 1 – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ SELESTAT 
+ BC - 1 vs BASK FURDENHEIM - 1\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré S
+ élestat 67600\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-5/mat
+ ch/200000014617075
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617075
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-10-03-00-00-bask-furdenheim-1-strasbo
+ urg-ass-1@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BASK FURDENHEIM - 1 – STRASBOURG ASS - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ BASK FURD
+ ENHEIM - 1 vs STRASBOURG ASS - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du
+  Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56
+ 331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ u15-5/match/200000014617082
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617082
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-10-10-15-30-s-u-schiltigheim-basket-b
+ all-1-bas@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 1 – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs BASK FURDENHEIM - 1\n\nCOMPLEXE NELSON MANDELA
+  SALLE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://waze.
+ com/ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0067/competitions/dmu15-5/match/200000014617086
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617086
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-07-00-00-bask-furdenheim-1-asa-gri
+ es-oberho@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BASK FURDENHEIM - 1 – ASA GRIES / OBERHOFFEN - 2
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ BASK FURD
+ ENHEIM - 1 vs ASA GRIES / OBERHOFFEN - 2\n\nESPACE SPORTIF DE L'UNION\n
+ 📍 Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.
+ 61652\,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dmu15-5/match/200000014617090
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617090
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-14-00-00-bruche-sports-academy-1-b
+ ask-furde@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BRUCHE SPORTS ACADEMY - 1 – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ BRUCHE SP
+ ORTS ACADEMY - 1 vs BASK FURDENHEIM - 1\n\nGYMNASE INTERCOMMUNAL\n📍 Rue
+  Curie Gresswiller 67190\n🚗 Waze : https://waze.com/ul?ll=48.5343\,7.42
+ 123&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ u15-5/match/200000014617093
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue Curie Gresswiller 67190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617093
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-21-00-00-bask-furdenheim-1-duttlen
+ heim-lc-1@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BASK FURDENHEIM - 1 – DUTTLENHEIM LC - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ BASK FURD
+ ENHEIM - 1 vs DUTTLENHEIM LC - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du
+  Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56
+ 331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ u15-5/match/200000014617098
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617098
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-29-15-30-s-i-graffenstaden-2-bask-
+ furdenhei@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 2 – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAF
+ FENSTADEN - 2 vs BASK FURDENHEIM - 1\n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Li
+ xenbuhl Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.53006\,7.72821&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu15-5/match/200000014617100
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617100
+END:VEVENT
+END:VCALENDAR

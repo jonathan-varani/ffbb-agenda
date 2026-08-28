@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – W.O.S.B. - 1  [DMU13-5 – GES – Poule A]
+X-WR-CALDESC:Matchs de W.O.S.B. - 1 – DMU13-5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-09-12-16-00-w-o-s-b-1-s-u-schiltighei
+ m-basket-@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20260912T160000
+DTEND;TZID=Europe/Paris:20260912T180000
+SUMMARY:🏠 W.O.S.B. - 1 – S.U. SCHILTIGHEIM BASKET BALL - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. 
+ - 1 vs S.U. SCHILTIGHEIM BASKET BALL - 1\n\nSALLE SPORTIVE DU CENTRE\n📍
+  Rue de la Gare Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.
+ 72579\,7.37527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dmu13-5/match/200000014616302
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616302
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-09-20-13-30-s-i-graffenstaden-2-w-o-s
+ -b-1@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20260920T133000
+DTEND;TZID=Europe/Paris:20260920T153000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 2 – W.O.S.B. - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ S.I. GRAF
+ FENSTADEN - 2 vs W.O.S.B. - 1\n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Lixenbuhl
+  Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.53006
+ \,7.72821&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu13-5/match/200000014616310
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616310
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-09-26-15-15-w-o-s-b-1-bask-furdenheim
+ -1@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20260926T151500
+DTEND;TZID=Europe/Paris:20260926T171500
+SUMMARY:🏠 W.O.S.B. - 1 – BASK FURDENHEIM - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. 
+ - 1 vs BASK FURDENHEIM - 1\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la Gar
+ e Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37527
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13
+ -5/match/200000014616313
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616313
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-10-03-14-30-holtzheim-vogesia-1-w-o-s
+ -b-1@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261003T143000
+DTEND;TZID=Europe/Paris:20261003T163000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 1 – W.O.S.B. - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ HOLTZHEIM
+  VOGESIA - 1 vs W.O.S.B. - 1\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holt
+ zheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-5/match/
+ 200000014616323
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616323
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-10-10-15-15-w-o-s-b-1-s-i-graffenstad
+ en-1@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261010T151500
+DTEND;TZID=Europe/Paris:20261010T171500
+SUMMARY:🏠 W.O.S.B. - 1 – S.I. GRAFFENSTADEN - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. 
+ - 1 vs S.I. GRAFFENSTADEN - 1\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de la 
+ Gare Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,7.37
+ 527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ u13-5/match/200000014616324
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616324
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-10-17-14-30-w-o-s-b-1-saint-joseph-st
+ rasbourg-@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261017T143000
+DTEND;TZID=Europe/Paris:20261017T163000
+SUMMARY:🏠 W.O.S.B. - 1 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. 
+ - 1 vs SAINT JOSEPH - STRASBOURG - 1\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue
+  de la Gare Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.7257
+ 9\,7.37527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dmu13-5/match/200000014616335
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616335
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-11-07-14-00-asa-souffelweyersheim-1-w
+ -o-s-b-1@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM - 1 – W.O.S.B. - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA SOUFF
+ ELWEYERSHEIM - 1 vs W.O.S.B. - 1\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept A
+ rpents Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6319
+ \,7.74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu13-5/match/200000014616337
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616337
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-11-15-15-30-w-o-s-b-1-asa-gries-oberh
+ offen-1@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 W.O.S.B. - 1 – ASA GRIES / OBERHOFFEN - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. 
+ - 1 vs ASA GRIES / OBERHOFFEN - 1\n\nSALLE SPORTIVE DU CENTRE\n📍 Rue de
+  la Gare Otterswiller 67700\n🚗 Waze : https://waze.com/ul?ll=48.72579\,
+ 7.37527&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu13-5/match/200000014616346
+LOCATION:SALLE SPORTIVE DU CENTRE\, Rue de la Gare Otterswiller 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616346
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-11-21-00-00-bask-furdenheim-2-w-o-s-b
+ -1@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ BASK FURDENHEIM - 2 – W.O.S.B. - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURD
+ ENHEIM - 2 vs W.O.S.B. - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade
+  Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-5/
+ match/200000014616350
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616350
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-11-29-13-30-w-o-s-b-1-schirrhein-c-s-
+ c-sn-1@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261129T133000
+DTEND;TZID=Europe/Paris:20261129T153000
+SUMMARY:🏠 W.O.S.B. - 1 – SCHIRRHEIN C.S.C.SN - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ W.O.S.B. 
+ - 1 vs SCHIRRHEIN C.S.C.SN - 1\n\nCOMPLEXE MULTISPORTS\n📍 Rue des Colch
+ iques Wasselonne 67310\n🚗 Waze : https://waze.com/ul?ll=48.63908\,7.433
+ 07&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu
+ 13-5/match/200000014616357
+LOCATION:COMPLEXE MULTISPORTS\, Rue des Colchiques Wasselonne 67310
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616357
+END:VEVENT
+END:VCALENDAR

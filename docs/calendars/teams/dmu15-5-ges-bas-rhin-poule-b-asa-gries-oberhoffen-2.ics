@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA GRIES / OBERHOFFEN - 2  [DMU15-5 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASA GRIES / OBERHOFFEN - 2 – DMU15-5 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-09-26-13-30-asa-gries-oberhoffen-2-br
+ uche-spor@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 2 – BRUCHE SPORTS ACADEMY - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ ASA GRIES
+  / OBERHOFFEN - 2 vs BRUCHE SPORTS ACADEMY - 1\n\nESPACE SPORT LA FORET\n
+ 📍 Rue du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654
+ \,7.81972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu15-5/match/200000014617077
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617077
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-10-03-15-30-s-i-graffenstaden-2-asa-g
+ ries-ober@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 2 – ASA GRIES / OBERHOFFEN - 2
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.I. GRAF
+ FENSTADEN - 2 vs ASA GRIES / OBERHOFFEN - 2\n\nCOMPLEXE DU LIXENBUHL\n📍
+  Rue Lixenbuhl Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/
+ ul?ll=48.53006\,7.72821&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0067/competitions/dmu15-5/match/200000014617079
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617079
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-10-11-09-00-asa-gries-oberhoffen-2-st
+ rasbourg-@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261011T090000
+DTEND;TZID=Europe/Paris:20261011T110000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 2 – STRASBOURG ASS - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ ASA GRIES
+  / OBERHOFFEN - 2 vs STRASBOURG ASS - 1\n\nESPACE SPORT LA FORET\n📍 Rue
+  du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.8197
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617085
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617085
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-07-00-00-bask-furdenheim-1-asa-gri
+ es-oberho@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ BASK FURDENHEIM - 1 – ASA GRIES / OBERHOFFEN - 2
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ BASK FURD
+ ENHEIM - 1 vs ASA GRIES / OBERHOFFEN - 2\n\nESPACE SPORTIF DE L'UNION\n
+ 📍 Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.
+ 61652\,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dmu15-5/match/200000014617090
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617090
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-15-13-30-duttlenheim-lc-1-asa-grie
+ s-oberhof@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261115T133000
+DTEND;TZID=Europe/Paris:20261115T153000
+SUMMARY:✈️ DUTTLENHEIM LC - 1 – ASA GRIES / OBERHOFFEN - 2
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHE
+ IM LC - 1 vs ASA GRIES / OBERHOFFEN - 2\n\nSALLE DE LA CONCORDE\n📍 Rue 
+ du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7
+ .56924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu15-5/match/200000014617092
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617092
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-21-13-30-asa-gries-oberhoffen-2-se
+ lestat-bc@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261121T133000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN - 2 – SELESTAT BC - 1
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ ASA GRIES
+  / OBERHOFFEN - 2 vs SELESTAT BC - 1\n\nESPACE SPORT LA FORET\n📍 Rue du
+  Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-5
+ /match/200000014617095
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617095
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-5-ges-bas-rhin-poule-b-2026-11-28-14-00-s-u-schiltigheim-basket-b
+ all-1-asa@ffbb-agenda
+DTSTAMP:20260828T023349Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 1 – ASA GRIES / OBERHOFFEN
+  - 2
+DESCRIPTION:🏀 DMU15-5 – GES – Bas-Rhin – Poule B\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs ASA GRIES / OBERHOFFEN - 2\n\nCOMPLEXE NELSON 
+ MANDELA SALLE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https:
+ //waze.com/ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0067/competitions/dmu15-5/match/200000014617102
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-5/match/200000014617102
+END:VEVENT
+END:VCALENDAR

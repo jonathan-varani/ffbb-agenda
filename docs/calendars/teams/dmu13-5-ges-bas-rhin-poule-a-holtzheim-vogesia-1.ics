@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – HOLTZHEIM VOGESIA - 1  [DMU13-5 – GES – Poule A]
+X-WR-CALDESC:Matchs de HOLTZHEIM VOGESIA - 1 – DMU13-5 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-09-12-14-30-holtzheim-vogesia-1-s-i-g
+ raffensta@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20260912T143000
+DTEND;TZID=Europe/Paris:20260912T163000
+SUMMARY:🏠 HOLTZHEIM VOGESIA - 1 – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ HOLTZHEIM
+  VOGESIA - 1 vs S.I. GRAFFENSTADEN - 2\n\nSALLE DE LA BRUCHE\n📍 Rue du 
+ Stade Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.6355
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616301
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616301
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-09-19-00-00-bask-furdenheim-1-holtzhe
+ im-vogesi@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ BASK FURDENHEIM - 1 – HOLTZHEIM VOGESIA - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURD
+ ENHEIM - 1 vs HOLTZHEIM VOGESIA - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue
+  du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7
+ .56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu13-5/match/200000014616311
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616311
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-09-26-14-00-holtzheim-vogesia-1-s-i-g
+ raffensta@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20260926T140000
+DTEND;TZID=Europe/Paris:20260926T160000
+SUMMARY:🏠 HOLTZHEIM VOGESIA - 1 – S.I. GRAFFENSTADEN - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ HOLTZHEIM
+  VOGESIA - 1 vs S.I. GRAFFENSTADEN - 1\n\nSALLE DE LA BRUCHE\n📍 Rue du 
+ Stade Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.6355
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616312
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616312
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-10-03-14-30-holtzheim-vogesia-1-w-o-s
+ -b-1@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261003T143000
+DTEND;TZID=Europe/Paris:20261003T163000
+SUMMARY:🏠 HOLTZHEIM VOGESIA - 1 – W.O.S.B. - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ HOLTZHEIM
+  VOGESIA - 1 vs W.O.S.B. - 1\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holt
+ zheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-5/match/
+ 200000014616323
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616323
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-10-11-15-30-saint-joseph-strasbourg-1
+ -holtzhei@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 1 – HOLTZHEIM VOGESIA - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ SAINT JOS
+ EPH - STRASBOURG - 1 vs HOLTZHEIM VOGESIA - 1\n\nCENTRE SPORTIF ESPLANADE\
+ n📍 Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com/ul?ll=48.
+ 577\,7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/dmu13-5/match/200000014616325
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616325
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-10-17-17-00-holtzheim-vogesia-1-asa-s
+ ouffelwey@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261017T170000
+DTEND;TZID=Europe/Paris:20261017T190000
+SUMMARY:🏠 HOLTZHEIM VOGESIA - 1 – ASA SOUFFELWEYERSHEIM - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ HOLTZHEIM
+  VOGESIA - 1 vs ASA SOUFFELWEYERSHEIM - 1\n\nSALLE DE LA BRUCHE\n📍 Rue 
+ du Stade Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.6
+ 3555&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ mu13-5/match/200000014616334
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616334
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-11-07-13-30-asa-gries-oberhoffen-1-ho
+ ltzheim-v@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261107T133000
+DTEND;TZID=Europe/Paris:20261107T153000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN - 1 – HOLTZHEIM VOGESIA - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ ASA GRIES
+  / OBERHOFFEN - 1 vs HOLTZHEIM VOGESIA - 1\n\nESPACE SPORT LA FORET\n📍 
+ Rue du Stade Gries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.8
+ 1972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ mu13-5/match/200000014616338
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616338
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-11-15-14-30-holtzheim-vogesia-1-bask-
+ furdenhei@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261115T143000
+DTEND;TZID=Europe/Paris:20261115T163000
+SUMMARY:🏠 HOLTZHEIM VOGESIA - 1 – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ HOLTZHEIM
+  VOGESIA - 1 vs BASK FURDENHEIM - 2\n\nSALLE DE LA BRUCHE\n📍 Rue du Sta
+ de Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-5
+ /match/200000014616345
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616345
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-11-21-16-30-schirrhein-c-s-c-sn-1-hol
+ tzheim-vo@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261121T163000
+DTEND;TZID=Europe/Paris:20261121T183000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN - 1 – HOLTZHEIM VOGESIA - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEI
+ N C.S.C.SN - 1 vs HOLTZHEIM VOGESIA - 1\n\nSALLE POLYVALENTE (ANNEXE)\n
+ 📍 Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/ul?ll=48.
+ 80224\,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dmu13-5/match/200000014616351
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616351
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-5-ges-bas-rhin-poule-a-2026-12-05-16-00-s-u-schiltigheim-basket-b
+ all-1-hol@ffbb-agenda
+DTSTAMP:20260828T023405Z
+DTSTART;TZID=Europe/Paris:20261205T160000
+DTEND;TZID=Europe/Paris:20261205T180000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL - 1 – HOLTZHEIM VOGESIA - 1
+DESCRIPTION:🏀 DMU13-5 – GES – Bas-Rhin – Poule A\n⚔️ S.U. SCHI
+ LTIGHEIM BASKET BALL - 1 vs HOLTZHEIM VOGESIA - 1\n\nCOMPLEXE NELSON MANDE
+ LA SALLE 1\n📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://waz
+ e.com/ul?ll=48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0067/competitions/dmu13-5/match/200000014616364
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-5/match/200000014616364
+END:VEVENT
+END:VCALENDAR

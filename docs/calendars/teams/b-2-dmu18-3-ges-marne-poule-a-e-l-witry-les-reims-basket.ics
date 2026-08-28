@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – E- L-WITRY LES REIMS BASKET  [B-2-DMU18-3 – GES – Poule A]
+X-WR-CALDESC:Matchs de E- L-WITRY LES REIMS BASKET – B-2-DMU18-3 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-2-dmu18-3-ges-marne-poule-a-2026-09-26-00-00-la-fertonne-fere-champen
+ oise-e-l-@ffbb-agenda
+DTSTAMP:20260828T222919Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ LA FERTONNE FERE-CHAMPENOISE – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 B-2-DMU18-3 – GES – Marne – Poule A\n⚔️ LA FERTO
+ NNE FERE-CHAMPENOISE vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE JEAN BERNAR
+ D\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https://
+ waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/b-2-dmu18-3/match/200000014681988
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu18-3/match/200000014681988
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu18-3-ges-marne-poule-a-2026-09-26-00-00-e-l-witry-les-reims-bask
+ et-union-@ffbb-agenda
+DTSTAMP:20260828T222919Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 E- L-WITRY LES REIMS BASKET – UNION SPORTIVE FISMOISE ARDRE 
+ et VESLE
+DESCRIPTION:🏀 B-2-DMU18-3 – GES – Marne – Poule A\n⚔️ E- L-WIT
+ RY LES REIMS BASKET vs UNION SPORTIVE FISMOISE ARDRE et VESLE\n\nGYMNASE J
+ EAN BERNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze 
+ : https://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ ligues/ges/comites/0051/competitions/b-2-dmu18-3/match/200000014681990
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu18-3/match/200000014681990
+END:VEVENT
+END:VCALENDAR

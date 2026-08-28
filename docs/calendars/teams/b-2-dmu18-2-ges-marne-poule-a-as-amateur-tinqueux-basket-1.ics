@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS AMATEUR TINQUEUX BASKET - 1  [B-2-DMU18-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de AS AMATEUR TINQUEUX BASKET - 1 – B-2-DMU18-2 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-2-dmu18-2-ges-marne-poule-a-2026-09-26-00-00-espe-basket-chalons-en-c
+ hampagne-@ffbb-agenda
+DTSTAMP:20260828T222912Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ ESPE BASKET CHALONS EN CHAMPAGNE – AS AMATEUR TINQUEUX BAS
+ KET - 1
+DESCRIPTION:🏀 B-2-DMU18-2 – GES – Marne – Poule A\n⚔️ ESPE BAS
+ KET CHALONS EN CHAMPAGNE vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE JEAN
+  BERNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0051/competitions/b-2-dmu18-2/match/200000014681978
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu18-2/match/200000014681978
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu18-2-ges-marne-poule-a-2026-09-26-00-00-as-amateur-tinqueux-bask
+ et-1-espe@ffbb-agenda
+DTSTAMP:20260828T222912Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 AS AMATEUR TINQUEUX BASKET - 1 – ESPERANCE REMOISE BASKET BA
+ LL
+DESCRIPTION:🏀 B-2-DMU18-2 – GES – Marne – Poule A\n⚔️ AS AMATE
+ UR TINQUEUX BASKET - 1 vs ESPERANCE REMOISE BASKET BALL\n\nGYMNASE JEAN BE
+ RNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : http
+ s://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/b-2-dmu18-2/match/200000014681980
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu18-2/match/200000014681980
+END:VEVENT
+END:VCALENDAR

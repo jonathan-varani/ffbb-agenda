@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB DE HARAUCOURT  [PRF – GES – Poule Unique]
+X-WR-CALDESC:Matchs de BASKET CLUB DE HARAUCOURT – PRF – GES – Marne – Poule Unique
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2026-10-11-15-00-basket-club-de-haraucourt-a
+ micale-de@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20261011T150000
+DTEND;TZID=Europe/Paris:20261011T170000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – AMICALE DES JEUNES DE BETHENY
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs AMICALE DES JEUNES DE BETHENY\n\nSALLE MUNICIPALE\n📍 
+ Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.619
+ 76\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competi
+ tions/prf/match/200000014668452
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668452
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2026-11-08-15-00-energie-troyenne-basket-clu
+ b-de-hara@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20261108T150000
+DTEND;TZID=Europe/Paris:20261108T170000
+SUMMARY:✈️ ENERGIE TROYENNE – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ ENERGIE TRO
+ YENNE vs BASKET CLUB DE HARAUCOURT\n\nCOSEC DES TERRASSES\n📍 Boulevard 
+ Jules Guesde Troyes 10000\n🚗 Waze : https://waze.com/ul?ll=48.29105\,4.
+ 08232&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/
+ prf/match/200000014668460
+LOCATION:COSEC DES TERRASSES\, Boulevard Jules Guesde Troyes 10000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668460
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2026-11-14-00-00-ie-chalons-sarry-basket-csb
+ -basket-c@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ IE - CHALONS SARRY BASKET (CSB) – BASKET CLUB DE HARAUCOUR
+ T
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) vs BASKET CLUB DE HARAUCOURT\n\nGYMNASE J.F KIEZER\n
+ 📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : https://w
+ aze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0051/competitions/prf/match/200000014668462
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668462
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2026-11-22-13-15-as-saint-brice-courcelles-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20261122T131500
+DTEND;TZID=Europe/Paris:20261122T151500
+SUMMARY:✈️ AS SAINT BRICE COURCELLES – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ AS SAINT BR
+ ICE COURCELLES vs BASKET CLUB DE HARAUCOURT\n\nGYMNASE SALVADOR ALLENDE\n
+ 📍 Rue de Luzarches Saint-Brice-Courcelles 51370\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.26198\,3.98809&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0051/competitions/prf/match/200000014668468
+LOCATION:GYMNASE SALVADOR ALLENDE\, Rue de Luzarches Saint-Brice-Courcelles
+  51370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668468
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2026-11-27-20-30-basket-club-de-haraucourt-a
+ cademie-b@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20261127T203000
+DTEND;TZID=Europe/Paris:20261127T223000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – ACADEMIE BASKET DU GRAND REIMS
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs ACADEMIE BASKET DU GRAND REIMS\n\nSALLE MUNICIPALE\n📍
+  Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61
+ 976\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/compet
+ itions/prf/match/200000014668473
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668473
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2026-12-06-15-00-basket-club-de-haraucourt-u
+ nion-spor@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20261206T150000
+DTEND;TZID=Europe/Paris:20261206T170000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – UNION SPORTIVE VILLENAUXE LA GRA
+ NDE BASKETBALL (USV BASKET)
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs UNION SPORTIVE VILLENAUXE LA GRANDE BASKETBALL (USV BASK
+ ET)\n\nSALLE MUNICIPALE\n📍 Rue de la Gare Haraucourt 08450\n🚗 Waze :
+  https://waze.com/ul?ll=49.61976\,4.96115&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/prf/match/200000014668477
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668477
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2026-12-12-00-00-sainte-savine-basket-basket
+ -club-de-@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ SAINTE SAVINE BASKET – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ SAINTE SAVI
+ NE BASKET vs BASKET CLUB DE HARAUCOURT\n\nGYMNASE VOLBART\n📍 Rue Jules 
+ Hemard Sainte-Savine 10300\n🚗 Waze : https://waze.com/ul?ll=48.29221\,4
+ .05316&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions
+ /prf/match/200000014668485
+LOCATION:GYMNASE VOLBART\, Rue Jules Hemard Sainte-Savine 10300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668485
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2027-01-17-15-00-ea-vaillante-vrigne-aux-boi
+ s-basket-@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20270117T150000
+DTEND;TZID=Europe/Paris:20270117T170000
+SUMMARY:✈️ EA VAILLANTE VRIGNE AUX BOIS – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ EA VAILLANT
+ E VRIGNE AUX BOIS vs BASKET CLUB DE HARAUCOURT\n\nSALLE BEREGOVOY\n📍 Av
+ enue Jean Jaurès Vrigne aux Bois 08330\n🚗 Waze : https://waze.com/ul?l
+ l=49.73658\,4.85224&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051
+ /competitions/prf/match/200000014668491
+LOCATION:SALLE BEREGOVOY\, Avenue Jean Jaurès Vrigne aux Bois 08330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668491
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2027-02-06-00-00-amicale-des-jeunes-de-bethe
+ ny-basket@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ AMICALE DES
+  JEUNES DE BETHENY vs BASKET CLUB DE HARAUCOURT\n\nGYMNASE CLAUDIUS CAILLO
+ T\n📍 Allée des Pâquerettes Bétheny 51450\n🚗 Waze : https://waze.c
+ om/ul?ll=49.28241\,4.05139&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0051/competitions/prf/match/200000014668497
+LOCATION:GYMNASE CLAUDIUS CAILLOT\, Allée des Pâquerettes Bétheny 51450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668497
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2027-02-14-15-00-basket-club-de-haraucourt-e
+ nergie-tr@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20270214T150000
+DTEND;TZID=Europe/Paris:20270214T170000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – ENERGIE TROYENNE
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs ENERGIE TROYENNE\n\nSALLE MUNICIPALE\n📍 Rue de la Gar
+ e Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4.96115&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/mat
+ ch/200000014668505
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668505
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2027-03-14-15-00-basket-club-de-haraucourt-i
+ e-chalons@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20270314T150000
+DTEND;TZID=Europe/Paris:20270314T170000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – IE - CHALONS SARRY BASKET (CSB)
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs IE - CHALONS SARRY BASKET (CSB)\n\nSALLE MUNICIPALE\n
+ 📍 Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.61976\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/prf/match/200000014668507
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668507
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2027-03-21-15-00-basket-club-de-haraucourt-a
+ s-saint-b@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20270321T150000
+DTEND;TZID=Europe/Paris:20270321T170000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – AS SAINT BRICE COURCELLES
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs AS SAINT BRICE COURCELLES\n\nSALLE MUNICIPALE\n📍 Rue 
+ de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,
+ 4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competition
+ s/prf/match/200000014668513
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668513
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2027-04-03-00-00-academie-basket-du-grand-re
+ ims-baske@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:✈️ ACADEMIE BASKET DU GRAND REIMS – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
+ SKET DU GRAND REIMS vs BASKET CLUB DE HARAUCOURT\n\nGYMNASE DESBUREAUX\n
+ 📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.27
+ 314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/compet
+ itions/prf/match/200000014668518
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668518
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2027-04-10-00-00-union-sportive-villenauxe-l
+ a-grande-@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ UNION SPORTIVE VILLENAUXE LA GRANDE BASKETBALL (USV BASKET) 
+ – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ UNION SPORT
+ IVE VILLENAUXE LA GRANDE BASKETBALL (USV BASKET) vs BASKET CLUB DE HARAUCO
+ URT\n\nSALLE PRIEUR VIGNOT\n📍 Rue du Perrey Villenauxe-la-Grande 10370\
+ n🚗 Waze : https://waze.com/ul?ll=48.58983\,3.55509&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0051/competitions/prf/match/200000014668522
+LOCATION:SALLE PRIEUR VIGNOT\, Rue du Perrey Villenauxe-la-Grande 10370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668522
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2027-05-09-15-00-basket-club-de-haraucourt-s
+ ainte-sav@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20270509T150000
+DTEND;TZID=Europe/Paris:20270509T170000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – SAINTE SAVINE BASKET
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs SAINTE SAVINE BASKET\n\nSALLE MUNICIPALE\n📍 Rue de la
+  Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4.961
+ 15&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf
+ /match/200000014668530
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668530
+END:VEVENT
+BEGIN:VEVENT
+UID:prf-ges-marne-poule-unique-2027-05-23-15-00-basket-club-de-haraucourt-e
+ a-vaillan@ffbb-agenda
+DTSTAMP:20260828T222808Z
+DTSTART;TZID=Europe/Paris:20270523T150000
+DTEND;TZID=Europe/Paris:20270523T170000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – EA VAILLANTE VRIGNE AUX BOIS
+DESCRIPTION:🏀 PRF – GES – Marne – Poule Unique\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs EA VAILLANTE VRIGNE AUX BOIS\n\nSALLE MUNICIPALE\n📍 R
+ ue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.6197
+ 6\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competit
+ ions/prf/match/200000014668536
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prf/
+ match/200000014668536
+END:VEVENT
+END:VCALENDAR

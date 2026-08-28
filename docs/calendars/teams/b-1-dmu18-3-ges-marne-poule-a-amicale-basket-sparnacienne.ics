@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AMICALE BASKET SPARNACIENNE  [B-1-DMU18-3 – GES – Poule A]
+X-WR-CALDESC:Matchs de AMICALE BASKET SPARNACIENNE – B-1-DMU18-3 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-1-dmu18-3-ges-marne-poule-a-2026-09-19-00-00-entente-gaillarde-muizon
+ naise-ami@ffbb-agenda
+DTSTAMP:20260828T222852Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ ENTENTE GAILLARDE MUIZONNAISE – AMICALE BASKET SPARNACIENN
+ E
+DESCRIPTION:🏀 B-1-DMU18-3 – GES – Marne – Poule A\n⚔️ ENTENTE 
+ GAILLARDE MUIZONNAISE vs AMICALE BASKET SPARNACIENNE\n\nGYMNASE JEAN BERNA
+ RD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/b-1-dmu18-3/match/200000014681957
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu18-3/match/200000014681957
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu18-3-ges-marne-poule-a-2026-09-19-00-00-amicale-basket-sparnacie
+ nne-union@ffbb-agenda
+DTSTAMP:20260828T222852Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 AMICALE BASKET SPARNACIENNE – UNION SPORTIVE FISMOISE ARDRE 
+ et VESLE
+DESCRIPTION:🏀 B-1-DMU18-3 – GES – Marne – Poule A\n⚔️ AMICALE 
+ BASKET SPARNACIENNE vs UNION SPORTIVE FISMOISE ARDRE et VESLE\n\nGYMNASE J
+ EAN BERNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze 
+ : https://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ ligues/ges/comites/0051/competitions/b-1-dmu18-3/match/200000014681959
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu18-3/match/200000014681959
+END:VEVENT
+END:VCALENDAR

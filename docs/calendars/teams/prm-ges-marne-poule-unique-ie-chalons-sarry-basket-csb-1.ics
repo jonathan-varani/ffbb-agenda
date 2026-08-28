@@ -1,0 +1,435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CHALONS SARRY BASKET (CSB) - 1  [PRM – GES – Poule Unique]
+X-WR-CALDESC:Matchs de IE - CHALONS SARRY BASKET (CSB) - 1 – PRM – GES – Marne – Poule Unique
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-09-19-17-30-ie-chalons-sarry-basket-csb
+ -1-eveil-@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20260919T173000
+DTEND;TZID=Europe/Paris:20260919T193000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – EVEIL RECY SAINT MARTI
+ N BASKET - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs EVEIL RECY SAINT MARTIN BASKET - 1\n\nGYMNASE 
+ J.F KIEZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze
+  : https://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0051/competitions/prm/match/200000014667045
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667045
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-09-26-20-30-ie-chalons-sarry-basket-csb
+ -1-amical@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20260926T203000
+DTEND;TZID=Europe/Paris:20260926T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – AMICALE DES JEUNES DE 
+ BETHENY - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs AMICALE DES JEUNES DE BETHENY - 1\n\nGYMNASE J
+ .F KIEZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze 
+ : https://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ ligues/ges/comites/0051/competitions/prm/match/200000014667050
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667050
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-10-03-00-00-espe-basket-chalons-en-cham
+ pagne-ie-@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ ESPE BASKET CHALONS EN CHAMPAGNE – IE - CHALONS SARRY BASK
+ ET (CSB) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ ESPE BASKET
+  CHALONS EN CHAMPAGNE vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nGYMNASE DA
+ NIEL CABOT\n📍 Rue René Lemoine Châlons-en-Champagne 51000\n🚗 Waze 
+ : https://waze.com/ul?ll=48.94936\,4.37276&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ ligues/ges/comites/0051/competitions/prm/match/200000014667057
+LOCATION:GYMNASE DANIEL CABOT\, Rue René Lemoine Châlons-en-Champagne 510
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667057
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-10-10-00-00-union-sportive-de-sezanne-i
+ e-chalons@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ UNION SPORTIVE DE SEZANNE – IE - CHALONS SARRY BASKET (CSB
+ ) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ UNION SPORT
+ IVE DE SEZANNE vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nMAISON DES SPORTS
+ \n📍 Rue Aristide Briand Sézanne 51120\n🚗 Waze : https://waze.com/ul
+ ?ll=48.71978\,3.72683&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 51/competitions/prm/match/200000014667061
+LOCATION:MAISON DES SPORTS\, Rue Aristide Briand Sézanne 51120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667061
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-11-07-20-30-ie-chalons-sarry-basket-csb
+ -1-associ@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – ASSOCIATION CORMONTREU
+ IL CHAMPAGNE BASKET - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 1\
+ n\nGYMNASE J.F KIEZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000
+ \n🚗 Waze : https://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0051/competitions/prm/match/200000014667
+ 067
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667067
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-11-14-00-00-reims-champagne-basket-ie-c
+ halons-sa@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ REIMS CHAMPAGNE BASKET – IE - CHALONS SARRY BASKET (CSB) -
+  1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ REIMS CHAMP
+ AGNE BASKET vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nGYMNASE JEAN-JACQUES
+  LAPIQUE\n📍 Rue François Arago Reims 51100\n🚗 Waze : https://waze.c
+ om/ul?ll=49.22861\,4.00473&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0051/competitions/prm/match/200000014667071
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667071
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-11-21-00-00-union-sportive-fismoise-ard
+ re-et-ves@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ UNION SPORTIVE FISMOISE ARDRE et VESLE – IE - CHALONS SARR
+ Y BASKET (CSB) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ UNION SPORT
+ IVE FISMOISE ARDRE et VESLE vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nHALL
+ E DES SPORTS\n📍 Avenue de la Gare Fismes 51170\n🚗 Waze : https://waz
+ e.com/ul?ll=49.3099\,3.68889&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0051/competitions/prm/match/200000014667078
+LOCATION:HALLE DES SPORTS\, Avenue de la Gare Fismes 51170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667078
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-11-28-20-30-ie-chalons-sarry-basket-csb
+ -1-academ@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – ACADEMIE BASKET DU GRA
+ ND REIMS - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs ACADEMIE BASKET DU GRAND REIMS - 1\n\nGYMNASE 
+ J.F KIEZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze
+  : https://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0051/competitions/prm/match/200000014667085
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667085
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-12-05-00-00-reims-universite-club-baske
+ t-1-ie-ch@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ REIMS UNIVERSITE CLUB BASKET - 1 – IE - CHALONS SARRY BASK
+ ET (CSB) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ REIMS UNIVE
+ RSITE CLUB BASKET - 1 vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nGYMNASE EN
+ DY MIYEM\n📍 Rue Henri Barbusse Reims 51100\n🚗 Waze : https://waze.co
+ m/ul?ll=49.25666\,4.05137&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/prm/match/200000014667091
+LOCATION:GYMNASE ENDY MIYEM\, Rue Henri Barbusse Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667091
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2026-12-12-20-30-ie-chalons-sarry-basket-csb
+ -1-la-fer@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – LA FERTONNE FERE-CHAMP
+ ENOISE - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs LA FERTONNE FERE-CHAMPENOISE - 1\n\nGYMNASE J.
+ F KIEZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze :
+  https://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/prm/match/200000014667100
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667100
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-01-16-00-00-b-c-taissy-saint-leonard-1-
+ ie-chalon@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ B-C TAISSY SAINT LEONARD - 1 – IE - CHALONS SARRY BASKET (
+ CSB) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ B-C TAISSY 
+ SAINT LEONARD - 1 vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nSALLE DES SPOR
+ TS\n📍 Esplanade Jean Colbert Taissy 51500\n🚗 Waze : https://waze.com
+ /ul?ll=49.21562\,4.08098&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0051/competitions/prm/match/200000014667103
+LOCATION:SALLE DES SPORTS\, Esplanade Jean Colbert Taissy 51500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667103
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-01-23-00-00-eveil-recy-saint-martin-bas
+ ket-1-ie-@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ EVEIL RECY SAINT MARTIN BASKET - 1 – IE - CHALONS SARRY BA
+ SKET (CSB) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
+ SAINT MARTIN BASKET - 1 vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nGYMNASE 
+ PIERRE ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze
+ .com/ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0051/competitions/prm/match/200000014667111
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667111
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-01-30-00-00-amicale-des-jeunes-de-bethe
+ ny-1-ie-c@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY - 1 – IE - CHALONS SARRY BAS
+ KET (CSB) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ AMICALE DES
+  JEUNES DE BETHENY - 1 vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nGYMNASE C
+ LAUDIUS CAILLOT\n📍 Allée des Pâquerettes Bétheny 51450\n🚗 Waze : 
+ https://waze.com/ul?ll=49.28241\,4.05139&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0051/competitions/prm/match/200000014667116
+LOCATION:GYMNASE CLAUDIUS CAILLOT\, Allée des Pâquerettes Bétheny 51450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667116
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-02-06-20-30-ie-chalons-sarry-basket-csb
+ -1-espe-b@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – ESPE BASKET CHALONS EN
+  CHAMPAGNE
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs ESPE BASKET CHALONS EN CHAMPAGNE\n\nGYMNASE J.
+ F KIEZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze :
+  https://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/prm/match/200000014667123
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667123
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-02-13-20-30-ie-chalons-sarry-basket-csb
+ -1-union-@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – UNION SPORTIVE DE SEZA
+ NNE
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs UNION SPORTIVE DE SEZANNE\n\nGYMNASE J.F KIEZE
+ R\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : https:
+ //waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0051/competitions/prm/match/200000014667127
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667127
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-03-07-10-00-association-cormontreuil-ch
+ ampagne-b@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270307T100000
+DTEND;TZID=Europe/Paris:20270307T120000
+SUMMARY:✈️ ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 1 – IE - CHALO
+ NS SARRY BASKET (CSB) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ ASSOCIATION
+  CORMONTREUIL CHAMPAGNE BASKET - 1 vs IE - CHALONS SARRY BASKET (CSB) - 1\
+ n\nGYMNASE DE LA PAIX\n📍 Rue de la Paix Cormontreuil 51350\n🚗 Waze :
+  https://waze.com/ul?ll=49.22128\,4.05265&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/prm/match/200000014667133
+LOCATION:GYMNASE DE LA PAIX\, Rue de la Paix Cormontreuil 51350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667133
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-03-13-20-30-ie-chalons-sarry-basket-csb
+ -1-reims-@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs REIMS CHAMPAGNE BASKET\n\nGYMNASE J.F KIEZER\n
+ 📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : https://w
+ aze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0051/competitions/prm/match/200000014667137
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667137
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-03-27-20-30-ie-chalons-sarry-basket-csb
+ -1-union-@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – UNION SPORTIVE FISMOIS
+ E ARDRE et VESLE
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs UNION SPORTIVE FISMOISE ARDRE et VESLE\n\nGYMN
+ ASE J.F KIEZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 
+ Waze : https://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0051/competitions/prm/match/200000014667144
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667144
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-04-03-00-00-academie-basket-du-grand-re
+ ims-1-ie-@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:✈️ ACADEMIE BASKET DU GRAND REIMS - 1 – IE - CHALONS SARRY BA
+ SKET (CSB) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
+ SKET DU GRAND REIMS - 1 vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nGYMNASE 
+ DESBUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com
+ /ul?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0051/competitions/prm/match/200000014667151
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667151
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-04-10-20-30-ie-chalons-sarry-basket-csb
+ -1-reims-@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – REIMS UNIVERSITE CLUB 
+ BASKET - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs REIMS UNIVERSITE CLUB BASKET - 1\n\nGYMNASE J.
+ F KIEZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze :
+  https://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/prm/match/200000014667157
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667157
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-05-08-00-00-la-fertonne-fere-champenois
+ e-1-ie-ch@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270508T000000
+DTEND;TZID=Europe/Paris:20270508T020000
+SUMMARY:✈️ LA FERTONNE FERE-CHAMPENOISE - 1 – IE - CHALONS SARRY BASK
+ ET (CSB) - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ LA FERTONNE
+  FERE-CHAMPENOISE - 1 vs IE - CHALONS SARRY BASKET (CSB) - 1\n\nGYMNASE PA
+ UL MASSIN\n📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze :
+  https://waze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/prm/match/200000014667166
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667166
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-marne-poule-unique-2027-05-22-20-30-ie-chalons-sarry-basket-csb
+ -1-b-c-ta@ffbb-agenda
+DTSTAMP:20260828T222819Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:🏠 IE - CHALONS SARRY BASKET (CSB) - 1 – B-C TAISSY SAINT LEONA
+ RD - 1
+DESCRIPTION:🏀 PRM – GES – Marne – Poule Unique\n⚔️ IE - CHALON
+ S SARRY BASKET (CSB) - 1 vs B-C TAISSY SAINT LEONARD - 1\n\nGYMNASE J.F KI
+ EZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : htt
+ ps://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0051/competitions/prm/match/200000014667169
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/prm/
+ match/200000014667169
+END:VEVENT
+END:VCALENDAR

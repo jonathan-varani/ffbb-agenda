@@ -1,0 +1,361 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GAULOISE DE VITRY LE FRANCOIS - 1  [DM2 – GES – Poule Unique]
+X-WR-CALDESC:Matchs de GAULOISE DE VITRY LE FRANCOIS - 1 – DM2 – GES – Marne – Poule Unique
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-09-26-00-00-esperance-remoise-basket-ba
+ ll-gauloi@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ ESPERANCE REMOISE BASKET BALL – GAULOISE DE VITRY LE FRANC
+ OIS - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ESPERANCE R
+ EMOISE BASKET BALL vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE LEO BOR
+ GNET\n📍 Rue Raoul Dufy Reims 51100\n🚗 Waze : https://waze.com/ul?ll=
+ 49.22498\,4.01339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/dm2/match/200000014667394
+LOCATION:GYMNASE LEO BORGNET\, Rue Raoul Dufy Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667394
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-10-03-00-00-la-fertonne-fere-champenois
+ e-2-gaulo@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ LA FERTONNE FERE-CHAMPENOISE - 2 – GAULOISE DE VITRY LE FR
+ ANCOIS - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ LA FERTONNE
+  FERE-CHAMPENOISE - 2 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE PAUL
+  MASSIN\n📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0051/competitions/dm2/match/200000014667395
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667395
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-10-10-00-00-gauloise-de-vitry-le-franco
+ is-1-e-l-@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS - 1 – E- L-WITRY LES REIMS BAS
+ KET - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ GAULOISE DE
+  VITRY LE FRANCOIS - 1 vs E- L-WITRY LES REIMS BASKET - 1\n\nGYMNASE JEAN 
+ BERNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0051/competitions/dm2/match/200000014667403
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667403
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-11-07-00-00-cad-mourmelon-basketball-ga
+ uloise-de@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ CAD MOURMELON BASKETBALL – GAULOISE DE VITRY LE FRANCOIS -
+  1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ CAD MOURMEL
+ ON BASKETBALL vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE DU TERME HIL
+ AIRE\n📍 Rue du Terme Hilaire Mourmelon-le-Grand 51400\n🚗 Waze : http
+ s://waze.com/ul?ll=49.13644\,4.36988&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/dm2/match/200000014667409
+LOCATION:GYMNASE DU TERME HILAIRE\, Rue du Terme Hilaire Mourmelon-le-Grand
+  51400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667409
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-11-14-00-00-entente-gaillarde-muizonnai
+ se-gauloi@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ ENTENTE GAILLARDE MUIZONNAISE – GAULOISE DE VITRY LE FRANC
+ OIS - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
+ LLARDE MUIZONNAISE vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE PARC DE
+  LOISIR DU CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=49
+ .27598\,3.88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/dm2/match/200000014667413
+LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667413
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-11-21-00-00-gauloise-de-vitry-le-franco
+ is-1-as-a@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS - 1 – AS AMATEUR TINQUEUX BASK
+ ET - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ GAULOISE DE
+  VITRY LE FRANCOIS - 1 vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE JEAN B
+ ERNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : htt
+ ps://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0051/competitions/dm2/match/200000014667415
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667415
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-12-05-00-00-amicale-des-jeunes-de-bethe
+ ny-2-gaul@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY - 2 – GAULOISE DE VITRY LE F
+ RANCOIS - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AMICALE DES
+  JEUNES DE BETHENY - 2 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE CLA
+ UDIUS CAILLOT\n📍 Allée des Pâquerettes Bétheny 51450\n🚗 Waze : ht
+ tps://waze.com/ul?ll=49.28241\,4.05139&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0051/competitions/dm2/match/200000014667423
+LOCATION:GYMNASE CLAUDIUS CAILLOT\, Allée des Pâquerettes Bétheny 51450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667423
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-12-12-00-00-gauloise-de-vitry-le-franco
+ is-1-acad@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS - 1 – ACADEMIE BASKET DU GRAND
+  REIMS - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ GAULOISE DE
+  VITRY LE FRANCOIS - 1 vs ACADEMIE BASKET DU GRAND REIMS - 2\n\nGYMNASE JE
+ AN BERNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze :
+  https://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/dm2/match/200000014667428
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667428
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-01-16-00-00-gauloise-de-vitry-le-franco
+ is-1-evei@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS - 1 – EVEIL RECY SAINT MARTIN 
+ BASKET - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ GAULOISE DE
+  VITRY LE FRANCOIS - 1 vs EVEIL RECY SAINT MARTIN BASKET - 2\n\nGYMNASE JE
+ AN BERNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze :
+  https://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/dm2/match/200000014667434
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667434
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-01-23-00-00-gauloise-de-vitry-le-franco
+ is-1-espe@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS - 1 – ESPERANCE REMOISE BASKET
+  BALL
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ GAULOISE DE
+  VITRY LE FRANCOIS - 1 vs ESPERANCE REMOISE BASKET BALL\n\nGYMNASE JEAN BE
+ RNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : http
+ s://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/dm2/match/200000014667439
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667439
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-01-30-00-00-gauloise-de-vitry-le-franco
+ is-1-la-f@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS - 1 – LA FERTONNE FERE-CHAMPEN
+ OISE - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ GAULOISE DE
+  VITRY LE FRANCOIS - 1 vs LA FERTONNE FERE-CHAMPENOISE - 2\n\nGYMNASE JEAN
+  BERNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0051/competitions/dm2/match/200000014667440
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667440
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-02-06-00-00-e-l-witry-les-reims-basket-
+ 1-gaulois@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET - 1 – GAULOISE DE VITRY LE FRA
+ NCOIS - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ E- L-WITRY 
+ LES REIMS BASKET - 1 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE JEAN 
+ BOUCTON SALLE (n1)\n📍 Rue de Bétheny Witry-lès-Reims 51420\n🚗 Waze
+  : https://waze.com/ul?ll=49.29189\,4.11144&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0051/competitions/dm2/match/200000014667448
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667448
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-02-13-00-00-gauloise-de-vitry-le-franco
+ is-1-cad-@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS - 1 – CAD MOURMELON BASKETBALL
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ GAULOISE DE
+  VITRY LE FRANCOIS - 1 vs CAD MOURMELON BASKETBALL\n\nGYMNASE JEAN BERNARD
+ \n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https://w
+ aze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0051/competitions/dm2/match/200000014667454
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667454
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-03-13-00-00-gauloise-de-vitry-le-franco
+ is-1-ente@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS - 1 – ENTENTE GAILLARDE MUIZON
+ NAISE
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ GAULOISE DE
+  VITRY LE FRANCOIS - 1 vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE JEAN BE
+ RNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : http
+ s://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/dm2/match/200000014667458
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667458
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-03-27-00-00-as-amateur-tinqueux-basket-
+ 1-gaulois@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:✈️ AS AMATEUR TINQUEUX BASKET - 1 – GAULOISE DE VITRY LE FRAN
+ COIS - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AS AMATEUR 
+ TINQUEUX BASKET - 1 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE F. BRO
+ NCQUART\n📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://
+ waze.com/ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/dm2/match/200000014667460
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667460
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-04-03-00-00-gauloise-de-vitry-le-franco
+ is-1-amic@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS - 1 – AMICALE DES JEUNES DE BE
+ THENY - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ GAULOISE DE
+  VITRY LE FRANCOIS - 1 vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE JEA
+ N BERNARD\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : 
+ https://waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0051/competitions/dm2/match/200000014667468
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667468
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-04-10-00-00-academie-basket-du-grand-re
+ ims-2-gau@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:✈️ ACADEMIE BASKET DU GRAND REIMS - 2 – GAULOISE DE VITRY LE 
+ FRANCOIS - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
+ SKET DU GRAND REIMS - 2 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE DE
+ SBUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/u
+ l?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 051/competitions/dm2/match/200000014667473
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667473
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-05-08-00-00-eveil-recy-saint-martin-bas
+ ket-2-gau@ffbb-agenda
+DTSTAMP:20260828T222825Z
+DTSTART;TZID=Europe/Paris:20270508T000000
+DTEND;TZID=Europe/Paris:20270508T020000
+SUMMARY:✈️ EVEIL RECY SAINT MARTIN BASKET - 2 – GAULOISE DE VITRY LE 
+ FRANCOIS - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
+ SAINT MARTIN BASKET - 2 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE PI
+ ERRE ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.c
+ om/ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0051/competitions/dm2/match/200000014667479
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667479
+END:VEVENT
+END:VCALENDAR

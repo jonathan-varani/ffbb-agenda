@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – REIMS UNIVERSITE CLUB BASKET  [B-1-DMU18-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de REIMS UNIVERSITE CLUB BASKET – B-1-DMU18-2 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-1-dmu18-2-ges-marne-poule-a-2026-09-19-00-00-reims-universite-club-ba
+ sket-as-a@ffbb-agenda
+DTSTAMP:20260828T222846Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 REIMS UNIVERSITE CLUB BASKET – AS AMATEUR TINQUEUX BASKET
+DESCRIPTION:🏀 B-1-DMU18-2 – GES – Marne – Poule A\n⚔️ REIMS UN
+ IVERSITE CLUB BASKET vs AS AMATEUR TINQUEUX BASKET\n\nGYMNASE JEAN BERNARD
+ \n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https://w
+ aze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0051/competitions/b-1-dmu18-2/match/200000014681951
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu18-2/match/200000014681951
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu18-2-ges-marne-poule-a-2026-09-19-00-00-reims-universite-club-ba
+ sket-e-l-@ffbb-agenda
+DTSTAMP:20260828T222846Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 REIMS UNIVERSITE CLUB BASKET – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 B-1-DMU18-2 – GES – Marne – Poule A\n⚔️ REIMS UN
+ IVERSITE CLUB BASKET vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE JEAN BERNAR
+ D\n📍 Rue de la Glacière Vitry-le-François 51300\n🚗 Waze : https://
+ waze.com/ul?ll=48.72692\,4.59046&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/b-1-dmu18-2/match/200000014681952
+LOCATION:GYMNASE JEAN BERNARD\, Rue de la Glacière Vitry-le-François 5130
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu18-2/match/200000014681952
+END:VEVENT
+END:VCALENDAR

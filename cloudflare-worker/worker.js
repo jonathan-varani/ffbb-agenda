@@ -47,8 +47,20 @@ function icsFullUrl(fichier) {
 // que certains clients (Google Agenda Android) mésinterprètent les caractères
 // UTF-8 (emoji, accents) du nom d'agenda (X-WR-CALNAME). On proxifie via ce
 // worker pour forcer explicitement le charset sur les liens d'abonnement.
-function icsProxyUrl(fichier, env) {
-  return `${env.WORKER_URL}/ics/${fichier}`;
+/**
+ * URL publique de ce worker. On la déduit de la requête entrante plutôt que de
+ * dépendre du secret WORKER_URL : s'il n'est pas défini dans Cloudflare, on
+ * générait des liens "undefined/..." (page DNS_PROBE_FINISHED_NXDOMAIN côté
+ * mobile). Le secret reste prioritaire s'il est présent.
+ */
+function workerOrigin(request, env) {
+  const fromEnv = (env && env.WORKER_URL || "").trim();
+  if (/^https?:\/\//.test(fromEnv)) return fromEnv.replace(/\/+$/, "");
+  return new URL(request.url).origin;
+}
+
+function icsProxyUrl(fichier, request, env) {
+  return `${workerOrigin(request, env)}/ics/${fichier}`;
 }
 
 async function handleIcsProxy(path) {
@@ -336,7 +348,7 @@ async function handleSubscribe(request, env) {
   }
 
   // ── Email Brevo ───────────────────────────────────────────────────────────
-  const tokenLink = `${env.WORKER_URL}/sub?token=${token}`;
+  const tokenLink = `${workerOrigin(request, env)}/sub?token=${token}`;
   const compSuffix = comp_nom ? ` — ${comp_nom}` : "";
 
   // Contenu volontairement sobre (pas de gros logo/en-tête, un seul bouton
@@ -564,7 +576,7 @@ async function handleToken(request, env) {
   // Un clic utilisateur direct est indispensable : un redirect 302 vers webcal://
   // donne une page blanche dans un navigateur mobile.
   const httpsUrl    = icsFullUrl(row.fichier);                          // lien direct (téléchargement navigateur)
-  const webcalUrl   = icsProxyUrl(row.fichier, env).replace(/^https?:\/\//, "webcal://"); // abonnement (charset correct)
+  const webcalUrl   = icsProxyUrl(row.fichier, request, env).replace(/^https?:\/\//, "webcal://"); // abonnement (charset correct)
   const equipeLabel = row.equipe || "votre équipe";
 
   // Android : un vrai calendrier Google (cid=<id google>) s'affiche tout de

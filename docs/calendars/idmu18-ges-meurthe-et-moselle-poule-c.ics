@@ -24,11 +24,11 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-19-18-00-metz-bc-1-aurore
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-19-14-00-metz-bc-1-aurore
  -basket-h@ffbb-agenda
-DTSTAMP:20260829T202303Z
-DTSTART;TZID=Europe/Paris:20260919T180000
-DTEND;TZID=Europe/Paris:20260919T200000
+DTSTAMP:20260830T202922Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
 SUMMARY:METZ BC - 1 – AURORE BASKET HUSSIGNY
 DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
  METZ BC - 1 vs AURORE BASKET HUSSIGNY\n\nGYMNASE DE L'ARSENAL\n📍 Rue de
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-19-18-00-joeuf-homecourt-
  basket-gs@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20260919T180000
 DTEND;TZID=Europe/Paris:20260919T200000
 SUMMARY:JOEUF HOMECOURT BASKET – GS ARNAVILLE NOVEANT
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-19-20-00-basket-club-long
  wy-rehon-@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20260919T200000
 DTEND;TZID=Europe/Paris:20260919T220000
 SUMMARY:BASKET CLUB LONGWY REHON – BC AUMETZ
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-20-16-30-basket-all-star-
  mussipont@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20260920T163000
 DTEND;TZID=Europe/Paris:20260920T183000
 SUMMARY:BASKET ALL STAR MUSSIPONTAIN – ASC CHARNY SUR MEUSE
@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-26-16-00-asc-charny-sur-m
  euse-bask@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20260926T160000
 DTEND;TZID=Europe/Paris:20260926T180000
 SUMMARY:ASC CHARNY SUR MEUSE – BASKET CLUB LONGWY REHON
@@ -111,26 +111,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
  18/match/200000014615460
 END:VEVENT
 BEGIN:VEVENT
-UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-26-18-00-gs-arnaville-nov
- eant-bask@ffbb-agenda
-DTSTAMP:20260829T202303Z
-DTSTART;TZID=Europe/Paris:20260926T180000
-DTEND;TZID=Europe/Paris:20260926T200000
-SUMMARY:GS ARNAVILLE NOVEANT – BASKET ALL STAR MUSSIPONTAIN
-DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
- GS ARNAVILLE NOVEANT vs BASKET ALL STAR MUSSIPONTAIN\n\nSALLE POLYVALENTE\
- n📍 Rue d'Arnaville Novéant-sur-Moselle 57680\n🚗 Waze : https://waze
- .com/ul?ll=49.02059\,6.04819&navigate=yes\n\n📢 Arbitres : Pas de désig
- nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
- ites/0054/competitions/idmu18/match/200000014615459
-LOCATION:SALLE POLYVALENTE\, Rue d'Arnaville Novéant-sur-Moselle 57680
-URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
- 18/match/200000014615459
-END:VEVENT
-BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-26-18-00-joeuf-homecourt-
  basket-me@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20260926T180000
 DTEND;TZID=Europe/Paris:20260926T200000
 SUMMARY:JOEUF HOMECOURT BASKET – METZ BC - 1
@@ -147,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-26-18-00-aurore-basket-hu
  ssigny-bc@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20260926T180000
 DTEND;TZID=Europe/Paris:20260926T200000
 SUMMARY:AURORE BASKET HUSSIGNY – BC AUMETZ
@@ -162,9 +145,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
  18/match/200000014615461
 END:VEVENT
 BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-09-26-18-00-gs-arnaville-nov
+ eant-bask@ffbb-agenda
+DTSTAMP:20260830T202922Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY:GS ARNAVILLE NOVEANT – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ GS ARNAVILLE NOVEANT vs BASKET ALL STAR MUSSIPONTAIN\n\nSALLE POLYVALENTE\
+ n📍 Rue d'Arnaville Novéant-sur-Moselle 57680\n🚗 Waze : https://waze
+ .com/ul?ll=49.02059\,6.04819&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/idmu18/match/200000014615459
+LOCATION:SALLE POLYVALENTE\, Rue d'Arnaville Novéant-sur-Moselle 57680
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615459
+END:VEVENT
+BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-03-16-00-basket-all-star-
  mussipont@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261003T160000
 DTEND;TZID=Europe/Paris:20261003T180000
 SUMMARY:BASKET ALL STAR MUSSIPONTAIN – JOEUF HOMECOURT BASKET
@@ -182,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-03-18-00-bc-aumetz-metz-b
  c-1@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261003T180000
 DTEND;TZID=Europe/Paris:20261003T200000
 SUMMARY:BC AUMETZ – METZ BC - 1
@@ -200,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-03-18-00-aurore-basket-hu
  ssigny-as@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261003T180000
 DTEND;TZID=Europe/Paris:20261003T200000
 SUMMARY:AURORE BASKET HUSSIGNY – ASC CHARNY SUR MEUSE
@@ -217,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-03-18-30-basket-club-long
  wy-rehon-@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261003T183000
 DTEND;TZID=Europe/Paris:20261003T203000
 SUMMARY:BASKET CLUB LONGWY REHON – GS ARNAVILLE NOVEANT
@@ -234,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-10-16-00-asc-charny-sur-m
  euse-bc-a@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261010T160000
 DTEND;TZID=Europe/Paris:20261010T180000
 SUMMARY:ASC CHARNY SUR MEUSE – BC AUMETZ
@@ -250,26 +250,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
  18/match/200000014615497
 END:VEVENT
 BEGIN:VEVENT
-UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-10-18-00-joeuf-homecourt-
- basket-ba@ffbb-agenda
-DTSTAMP:20260829T202303Z
-DTSTART;TZID=Europe/Paris:20261010T180000
-DTEND;TZID=Europe/Paris:20261010T200000
-SUMMARY:JOEUF HOMECOURT BASKET – BASKET CLUB LONGWY REHON
-DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
- JOEUF HOMECOURT BASKET vs BASKET CLUB LONGWY REHON\n\nSALLE MUNICIPALE DES
-  SPORTS\n📍 Rue Eugène Bastien Joeuf 54240\n🚗 Waze : https://waze.co
- m/ul?ll=49.2276\,6.00446&navigate=yes\n\n📢 Arbitres : Pas de désignati
- on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
- /0054/competitions/idmu18/match/200000014615495
-LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
-URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
- 18/match/200000014615495
-END:VEVENT
-BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-10-18-00-gs-arnaville-nov
  eant-auro@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261010T180000
 DTEND;TZID=Europe/Paris:20261010T200000
 SUMMARY:GS ARNAVILLE NOVEANT – AURORE BASKET HUSSIGNY
@@ -284,11 +267,28 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
  18/match/200000014615496
 END:VEVENT
 BEGIN:VEVENT
-UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-10-18-00-metz-bc-1-basket
- -all-star@ffbb-agenda
-DTSTAMP:20260829T202303Z
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-10-18-00-joeuf-homecourt-
+ basket-ba@ffbb-agenda
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261010T180000
 DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:JOEUF HOMECOURT BASKET – BASKET CLUB LONGWY REHON
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ JOEUF HOMECOURT BASKET vs BASKET CLUB LONGWY REHON\n\nSALLE MUNICIPALE DES
+  SPORTS\n📍 Rue Eugène Bastien Joeuf 54240\n🚗 Waze : https://waze.co
+ m/ul?ll=49.2276\,6.00446&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/idmu18/match/200000014615495
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615495
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-10-11-15-30-metz-bc-1-basket
+ -all-star@ffbb-agenda
+DTSTAMP:20260830T202922Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:METZ BC - 1 – BASKET ALL STAR MUSSIPONTAIN
 DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
  METZ BC - 1 vs BASKET ALL STAR MUSSIPONTAIN\n\nGYMNASE DE L'ARSENAL\n📍 
@@ -303,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-07-16-00-asc-charny-sur-m
  euse-metz@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261107T160000
 DTEND;TZID=Europe/Paris:20261107T180000
 SUMMARY:ASC CHARNY SUR MEUSE – METZ BC - 1
@@ -321,7 +321,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-07-17-30-basket-club-long
  wy-rehon-@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261107T173000
 DTEND;TZID=Europe/Paris:20261107T193000
 SUMMARY:BASKET CLUB LONGWY REHON – BASKET ALL STAR MUSSIPONTAIN
@@ -336,26 +336,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
  18/match/200000014615514
 END:VEVENT
 BEGIN:VEVENT
-UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-07-18-00-aurore-basket-hu
- ssigny-jo@ffbb-agenda
-DTSTAMP:20260829T202303Z
-DTSTART;TZID=Europe/Paris:20261107T180000
-DTEND;TZID=Europe/Paris:20261107T200000
-SUMMARY:AURORE BASKET HUSSIGNY – JOEUF HOMECOURT BASKET
-DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
- AURORE BASKET HUSSIGNY vs JOEUF HOMECOURT BASKET\n\nSALLE MUNICIPALE\n📍
-  Rue des Tilleuls Hussigny-Godbrange 54590\n🚗 Waze : https://waze.com/u
- l?ll=49.49615\,5.86901&navigate=yes\n\n📢 Arbitres : Pas de désignation
- \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
- 054/competitions/idmu18/match/200000014615513
-LOCATION:SALLE MUNICIPALE\, Rue des Tilleuls Hussigny-Godbrange 54590
-URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
- 18/match/200000014615513
-END:VEVENT
-BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-07-18-00-bc-aumetz-gs-arn
  aville-no@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261107T180000
 DTEND;TZID=Europe/Paris:20261107T200000
 SUMMARY:BC AUMETZ – GS ARNAVILLE NOVEANT
@@ -371,9 +354,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
  18/match/200000014615516
 END:VEVENT
 BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-07-18-00-aurore-basket-hu
+ ssigny-jo@ffbb-agenda
+DTSTAMP:20260830T202922Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:AURORE BASKET HUSSIGNY – JOEUF HOMECOURT BASKET
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ AURORE BASKET HUSSIGNY vs JOEUF HOMECOURT BASKET\n\nSALLE MUNICIPALE\n📍
+  Rue des Tilleuls Hussigny-Godbrange 54590\n🚗 Waze : https://waze.com/u
+ l?ll=49.49615\,5.86901&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 054/competitions/idmu18/match/200000014615513
+LOCATION:SALLE MUNICIPALE\, Rue des Tilleuls Hussigny-Godbrange 54590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615513
+END:VEVENT
+BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-14-18-00-joeuf-homecourt-
  basket-bc@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261114T180000
 DTEND;TZID=Europe/Paris:20261114T200000
 SUMMARY:JOEUF HOMECOURT BASKET – BC AUMETZ
@@ -390,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-14-18-00-gs-arnaville-nov
  eant-asc-@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261114T180000
 DTEND;TZID=Europe/Paris:20261114T200000
 SUMMARY:GS ARNAVILLE NOVEANT – ASC CHARNY SUR MEUSE
@@ -405,26 +405,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
  18/match/200000014615533
 END:VEVENT
 BEGIN:VEVENT
-UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-14-18-00-metz-bc-1-basket
- -club-lon@ffbb-agenda
-DTSTAMP:20260829T202303Z
-DTSTART;TZID=Europe/Paris:20261114T180000
-DTEND;TZID=Europe/Paris:20261114T200000
-SUMMARY:METZ BC - 1 – BASKET CLUB LONGWY REHON
-DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
- METZ BC - 1 vs BASKET CLUB LONGWY REHON\n\nGYMNASE DE L'ARSENAL\n📍 Rue 
- des Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18
- 341&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
- BB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/id
- mu18/match/200000014615534
-LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
-URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
- 18/match/200000014615534
-END:VEVENT
-BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-15-15-00-basket-all-star-
  mussipont@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261115T150000
 DTEND;TZID=Europe/Paris:20261115T170000
 SUMMARY:BASKET ALL STAR MUSSIPONTAIN – AURORE BASKET HUSSIGNY
@@ -440,9 +423,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
  18/match/200000014615531
 END:VEVENT
 BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-15-15-30-metz-bc-1-basket
+ -club-lon@ffbb-agenda
+DTSTAMP:20260830T202922Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:METZ BC - 1 – BASKET CLUB LONGWY REHON
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
+ METZ BC - 1 vs BASKET CLUB LONGWY REHON\n\nGYMNASE DE L'ARSENAL\n📍 Rue 
+ des Remparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18
+ 341&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/id
+ mu18/match/200000014615534
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615534
+END:VEVENT
+BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-21-16-00-asc-charny-sur-m
  euse-joeu@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261121T160000
 DTEND;TZID=Europe/Paris:20261121T180000
 SUMMARY:ASC CHARNY SUR MEUSE – JOEUF HOMECOURT BASKET
@@ -460,7 +460,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-21-18-00-aurore-basket-hu
  ssigny-ba@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261121T180000
 DTEND;TZID=Europe/Paris:20261121T200000
 SUMMARY:AURORE BASKET HUSSIGNY – BASKET CLUB LONGWY REHON
@@ -477,7 +477,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-21-18-00-bc-aumetz-basket
  -all-star@ffbb-agenda
-DTSTAMP:20260829T202303Z
+DTSTAMP:20260830T202922Z
 DTSTART;TZID=Europe/Paris:20261121T180000
 DTEND;TZID=Europe/Paris:20261121T200000
 SUMMARY:BC AUMETZ – BASKET ALL STAR MUSSIPONTAIN
@@ -493,11 +493,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
  18/match/200000014615552
 END:VEVENT
 BEGIN:VEVENT
-UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-21-18-00-metz-bc-1-gs-arn
+UID:idmu18-ges-meurthe-et-moselle-poule-c-2026-11-22-15-30-metz-bc-1-gs-arn
  aville-no@ffbb-agenda
-DTSTAMP:20260829T202303Z
-DTSTART;TZID=Europe/Paris:20261121T180000
-DTEND;TZID=Europe/Paris:20261121T200000
+DTSTAMP:20260830T202922Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
 SUMMARY:METZ BC - 1 – GS ARNAVILLE NOVEANT
 DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule C\n⚔️ 
  METZ BC - 1 vs GS ARNAVILLE NOVEANT\n\nGYMNASE DE L'ARSENAL\n📍 Rue des 

@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dfu11-ges-bas-rhin-poule-a-2026-09-12-00-00-asa-weyersheim-geispolsheim
- -c-j-s@ffbb-agenda
-DTSTAMP:20260829T200842Z
-DTSTART;TZID=Europe/Paris:20260912T000000
-DTEND;TZID=Europe/Paris:20260912T020000
-SUMMARY:ASA WEYERSHEIM – GEISPOLSHEIM C.J.S.
-DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ASA WEYERSH
- EIM vs GEISPOLSHEIM C.J.S.\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés
-  Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/ma
- tch/200000014660100
-LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
- 1/match/200000014660100
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-12-00-00-bask-furdenheim-nbc-sarrebo
  urg@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20260912T000000
 DTEND;TZID=Europe/Paris:20260912T020000
 SUMMARY:BASK FURDENHEIM – NBC SARREBOURG
@@ -58,9 +41,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660101
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-09-12-13-30-asa-weyersheim-geispolsheim
+ -c-j-s@ffbb-agenda
+DTSTAMP:20260830T200824Z
+DTSTART;TZID=Europe/Paris:20260912T133000
+DTEND;TZID=Europe/Paris:20260912T153000
+SUMMARY:ASA WEYERSHEIM – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ASA WEYERSH
+ EIM vs GEISPOLSHEIM C.J.S.\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés
+  Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/ma
+ tch/200000014660100
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660100
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-12-14-30-eckbolsheim-bb-saint-joseph
  -strasbou@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20260912T143000
 DTEND;TZID=Europe/Paris:20260912T163000
 SUMMARY:ECKBOLSHEIM BB – SAINT JOSEPH - STRASBOURG
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-19-00-00-bask-furdenheim-asa-weyersh
  eim@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20260919T000000
 DTEND;TZID=Europe/Paris:20260919T020000
 SUMMARY:BASK FURDENHEIM – ASA WEYERSHEIM
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-20-13-15-geispolsheim-c-j-s-eckbolsh
  eim-bb@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20260920T131500
 DTEND;TZID=Europe/Paris:20260920T151500
 SUMMARY:GEISPOLSHEIM C.J.S. – ECKBOLSHEIM BB
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-20-13-30-nbc-sarrebourg-saint-joseph
  -strasbou@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20260920T133000
 DTEND;TZID=Europe/Paris:20260920T153000
 SUMMARY:NBC SARREBOURG – SAINT JOSEPH - STRASBOURG
@@ -126,43 +126,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660105
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-bas-rhin-poule-a-2026-09-26-00-00-asa-weyersheim-nbc-sarrebou
+UID:dfu11-ges-bas-rhin-poule-a-2026-09-26-16-00-asa-weyersheim-nbc-sarrebou
  rg@ffbb-agenda
-DTSTAMP:20260829T200842Z
-DTSTART;TZID=Europe/Paris:20260926T000000
-DTEND;TZID=Europe/Paris:20260926T020000
+DTSTAMP:20260830T200824Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
 SUMMARY:ASA WEYERSHEIM – NBC SARREBOURG
 DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ASA WEYERSH
- EIM vs NBC SARREBOURG\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weye
+ EIM vs NBC SARREBOURG\n\nESPACE W - Salle SATURNE\n📍 Rue des Prés Weye
  rsheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigat
  e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
  //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/match/2
  00000014660106
-LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+LOCATION:ESPACE W - Salle SATURNE\, Rue des Prés Weyersheim 67720
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660106
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-bas-rhin-poule-a-2026-09-26-00-00-eckbolsheim-bb-bask-furdenh
- eim@ffbb-agenda
-DTSTAMP:20260829T200842Z
-DTSTART;TZID=Europe/Paris:20260926T000000
-DTEND;TZID=Europe/Paris:20260926T020000
-SUMMARY:ECKBOLSHEIM BB – BASK FURDENHEIM
-DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM
-  BB vs BASK FURDENHEIM\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 67
- 201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/match/2000000146
- 60108
-LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
- 1/match/200000014660108
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-27-09-00-saint-joseph-strasbourg-gei
  spolsheim@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20260927T090000
 DTEND;TZID=Europe/Paris:20260927T110000
 SUMMARY:SAINT JOSEPH - STRASBOURG – GEISPOLSHEIM C.J.S.
@@ -177,26 +160,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660107
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-bas-rhin-poule-a-2026-10-03-00-00-eckbolsheim-bb-asa-weyershe
- im@ffbb-agenda
-DTSTAMP:20260829T200842Z
-DTSTART;TZID=Europe/Paris:20261003T000000
-DTEND;TZID=Europe/Paris:20261003T020000
-SUMMARY:ECKBOLSHEIM BB – ASA WEYERSHEIM
+UID:dfu11-ges-bas-rhin-poule-a-2026-09-27-13-30-eckbolsheim-bb-bask-furdenh
+ eim@ffbb-agenda
+DTSTAMP:20260830T200824Z
+DTSTART;TZID=Europe/Paris:20260927T133000
+DTEND;TZID=Europe/Paris:20260927T153000
+SUMMARY:ECKBOLSHEIM BB – BASK FURDENHEIM
 DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM
-  BB vs ASA WEYERSHEIM\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 672
- 01\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
+  BB vs BASK FURDENHEIM\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 67
+ 201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
  📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
  tions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/match/2000000146
- 60109
+ 60108
 LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
- 1/match/200000014660109
+ 1/match/200000014660108
 END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-10-03-14-00-saint-joseph-strasbourg-bas
  k-furdenh@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20261003T140000
 DTEND;TZID=Europe/Paris:20261003T160000
 SUMMARY:SAINT JOSEPH - STRASBOURG – BASK FURDENHEIM
@@ -211,9 +194,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660111
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-10-04-10-30-eckbolsheim-bb-asa-weyershe
+ im@ffbb-agenda
+DTSTAMP:20260830T200824Z
+DTSTART;TZID=Europe/Paris:20261004T103000
+DTEND;TZID=Europe/Paris:20261004T123000
+SUMMARY:ECKBOLSHEIM BB – ASA WEYERSHEIM
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM
+  BB vs ASA WEYERSHEIM\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 672
+ 01\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/match/2000000146
+ 60109
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660109
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-10-04-13-15-geispolsheim-c-j-s-nbc-sarr
  ebourg@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20261004T131500
 DTEND;TZID=Europe/Paris:20261004T151500
 SUMMARY:GEISPOLSHEIM C.J.S. – NBC SARREBOURG
@@ -228,26 +228,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660110
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-bas-rhin-poule-a-2026-10-10-00-00-asa-weyersheim-saint-joseph
- -strasbou@ffbb-agenda
-DTSTAMP:20260829T200842Z
-DTSTART;TZID=Europe/Paris:20261010T000000
-DTEND;TZID=Europe/Paris:20261010T020000
-SUMMARY:ASA WEYERSHEIM – SAINT JOSEPH - STRASBOURG
-DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ASA WEYERSH
- EIM vs SAINT JOSEPH - STRASBOURG\n\nESPACE W - Salle JUPITER\n📍 Rue des
-  Prés Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80
- 788&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
- BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
- u11/match/200000014660112
-LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
- 1/match/200000014660112
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-10-10-00-00-bask-furdenheim-geispolshei
  m-c-j-s@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20261010T000000
 DTEND;TZID=Europe/Paris:20261010T020000
 SUMMARY:BASK FURDENHEIM – GEISPOLSHEIM C.J.S.
@@ -262,9 +245,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660113
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-10-10-13-30-asa-weyersheim-saint-joseph
+ -strasbou@ffbb-agenda
+DTSTAMP:20260830T200824Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:ASA WEYERSHEIM – SAINT JOSEPH - STRASBOURG
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ASA WEYERSH
+ EIM vs SAINT JOSEPH - STRASBOURG\n\nESPACE W - Salle JUPITER\n📍 Rue des
+  Prés Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80
+ 788&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ u11/match/200000014660112
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660112
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-10-11-15-30-nbc-sarrebourg-eckbolsheim-
  bb@ffbb-agenda
-DTSTAMP:20260829T200842Z
+DTSTAMP:20260830T200824Z
 DTSTART;TZID=Europe/Paris:20261011T153000
 DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:NBC SARREBOURG – ECKBOLSHEIM BB

@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-12-00-00-strasbourg-libellules-b-c
- -grieshei@ffbb-agenda
-DTSTAMP:20260829T201652Z
-DTSTART;TZID=Europe/Paris:20260912T000000
-DTEND;TZID=Europe/Paris:20260912T020000
-SUMMARY:STRASBOURG LIBELLULES B.C. – GRIESHEIM/DINGSHEIM B.C.
-DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ STRASBOUR
- G LIBELLULES B.C. vs GRIESHEIM/DINGSHEIM B.C.\n\nGYMNASE GUTENBERG\n📍 R
- ue Albert Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.56
- 146\,7.70879&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
- euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
- itions/dmu11-2/match/200000014660240
-LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
- 1-2/match/200000014660240
-END:VEVENT
-BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-12-00-00-basket-club-d-ostwald-gei
  spolsheim@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20260912T000000
 DTEND;TZID=Europe/Paris:20260912T020000
 SUMMARY:BASKET CLUB D’OSTWALD – GEISPOLSHEIM C.J.S. - 3
@@ -60,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-12-15-30-strasbourg-ass-strasbourg
  -electric@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20260912T153000
 DTEND;TZID=Europe/Paris:20260912T173000
 SUMMARY:STRASBOURG ASS – STRASBOURG ELECTRICITE A.S.
@@ -75,9 +58,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1-2/match/200000014660239
 END:VEVENT
 BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-13-10-30-strasbourg-libellules-b-c
+ -grieshei@ffbb-agenda
+DTSTAMP:20260830T201743Z
+DTSTART;TZID=Europe/Paris:20260913T103000
+DTEND;TZID=Europe/Paris:20260913T123000
+SUMMARY:STRASBOURG LIBELLULES B.C. – GRIESHEIM/DINGSHEIM B.C.
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ STRASBOUR
+ G LIBELLULES B.C. vs GRIESHEIM/DINGSHEIM B.C.\n\nGYMNASE GUTENBERG\n📍 R
+ ue Albert Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.56
+ 146\,7.70879&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compet
+ itions/dmu11-2/match/200000014660240
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660240
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-19-13-30-strasbourg-ass-basket-clu
  b-d-ostwa@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20260919T133000
 DTEND;TZID=Europe/Paris:20260919T153000
 SUMMARY:STRASBOURG ASS – BASKET CLUB D’OSTWALD
@@ -92,11 +92,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1-2/match/200000014660241
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-19-14-30-strasbourg-electricite-a-
+UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-20-13-30-strasbourg-electricite-a-
  s-grieshe@ffbb-agenda
-DTSTAMP:20260829T201652Z
-DTSTART;TZID=Europe/Paris:20260919T143000
-DTEND;TZID=Europe/Paris:20260919T163000
+DTSTAMP:20260830T201743Z
+DTSTART;TZID=Europe/Paris:20260920T133000
+DTEND;TZID=Europe/Paris:20260920T153000
 SUMMARY:STRASBOURG ELECTRICITE A.S. – GRIESHEIM/DINGSHEIM B.C.
 DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ STRASBOUR
  G ELECTRICITE A.S. vs GRIESHEIM/DINGSHEIM B.C.\n\nCENTRE SPORTIF SUD\n📍
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-20-15-30-geispolsheim-c-j-s-3-stra
  sbourg-li@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – STRASBOURG LIBELLULES B.C.
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-26-00-00-griesheim-dingsheim-b-c-g
  eispolshe@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:GRIESHEIM/DINGSHEIM B.C. – GEISPOLSHEIM C.J.S. - 3
@@ -143,26 +143,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1-2/match/200000014660245
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-26-00-00-strasbourg-libellules-b-c
- -strasbou@ffbb-agenda
-DTSTAMP:20260829T201652Z
-DTSTART;TZID=Europe/Paris:20260926T000000
-DTEND;TZID=Europe/Paris:20260926T020000
-SUMMARY:STRASBOURG LIBELLULES B.C. – STRASBOURG ASS
-DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ STRASBOUR
- G LIBELLULES B.C. vs STRASBOURG ASS\n\nGYMNASE GUTENBERG\n📍 Rue Albert 
- Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.56146\,7.708
- 79&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
- B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu
- 11-2/match/200000014660246
-LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
- 1-2/match/200000014660246
-END:VEVENT
-BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-26-00-00-basket-club-d-ostwald-str
  asbourg-e@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:BASKET CLUB D’OSTWALD – STRASBOURG ELECTRICITE A.S.
@@ -177,26 +160,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1-2/match/200000014660244
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu11-2-ges-bas-rhin-poule-e-2026-10-03-00-00-strasbourg-libellules-b-c
- -basket-c@ffbb-agenda
-DTSTAMP:20260829T201652Z
-DTSTART;TZID=Europe/Paris:20261003T000000
-DTEND;TZID=Europe/Paris:20261003T020000
-SUMMARY:STRASBOURG LIBELLULES B.C. – BASKET CLUB D’OSTWALD
+UID:dmu11-2-ges-bas-rhin-poule-e-2026-09-27-09-00-strasbourg-libellules-b-c
+ -strasbou@ffbb-agenda
+DTSTAMP:20260830T201743Z
+DTSTART;TZID=Europe/Paris:20260927T090000
+DTEND;TZID=Europe/Paris:20260927T110000
+SUMMARY:STRASBOURG LIBELLULES B.C. – STRASBOURG ASS
 DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ STRASBOUR
- G LIBELLULES B.C. vs BASKET CLUB D’OSTWALD\n\nGYMNASE GUTENBERG\n📍 Ru
- e Albert Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.561
- 46\,7.70879&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
- uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
- tions/dmu11-2/match/200000014660247
+ G LIBELLULES B.C. vs STRASBOURG ASS\n\nGYMNASE GUTENBERG\n📍 Rue Albert 
+ Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.56146\,7.708
+ 79&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu
+ 11-2/match/200000014660246
 LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
- 1-2/match/200000014660247
+ 1-2/match/200000014660246
 END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-10-03-15-30-geispolsheim-c-j-s-3-stra
  sbourg-el@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20261003T153000
 DTEND;TZID=Europe/Paris:20261003T173000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – STRASBOURG ELECTRICITE A.S.
@@ -211,9 +194,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1-2/match/200000014660248
 END:VEVENT
 BEGIN:VEVENT
+UID:dmu11-2-ges-bas-rhin-poule-e-2026-10-04-10-30-strasbourg-libellules-b-c
+ -basket-c@ffbb-agenda
+DTSTAMP:20260830T201743Z
+DTSTART;TZID=Europe/Paris:20261004T103000
+DTEND;TZID=Europe/Paris:20261004T123000
+SUMMARY:STRASBOURG LIBELLULES B.C. – BASKET CLUB D’OSTWALD
+DESCRIPTION:🏀 DMU11-2 – GES – Bas-Rhin – Poule E\n⚔️ STRASBOUR
+ G LIBELLULES B.C. vs BASKET CLUB D’OSTWALD\n\nGYMNASE GUTENBERG\n📍 Ru
+ e Albert Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.561
+ 46\,7.70879&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/dmu11-2/match/200000014660247
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-2/match/200000014660247
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-10-04-13-30-griesheim-dingsheim-b-c-s
  trasbourg@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20261004T133000
 DTEND;TZID=Europe/Paris:20261004T153000
 SUMMARY:GRIESHEIM/DINGSHEIM B.C. – STRASBOURG ASS
@@ -230,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-10-10-00-00-basket-club-d-ostwald-gri
  esheim-di@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20261010T000000
 DTEND;TZID=Europe/Paris:20261010T020000
 SUMMARY:BASKET CLUB D’OSTWALD – GRIESHEIM/DINGSHEIM B.C.
@@ -247,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-10-10-14-30-strasbourg-electricite-a-
  s-strasbo@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20261010T143000
 DTEND;TZID=Europe/Paris:20261010T163000
 SUMMARY:STRASBOURG ELECTRICITE A.S. – STRASBOURG LIBELLULES B.C.
@@ -264,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-2-ges-bas-rhin-poule-e-2026-10-11-09-00-strasbourg-ass-geispolshe
  im-c-j-s-@ffbb-agenda
-DTSTAMP:20260829T201652Z
+DTSTAMP:20260830T201743Z
 DTSTART;TZID=Europe/Paris:20261011T090000
 DTEND;TZID=Europe/Paris:20261011T110000
 SUMMARY:STRASBOURG ASS – GEISPOLSHEIM C.J.S. - 3

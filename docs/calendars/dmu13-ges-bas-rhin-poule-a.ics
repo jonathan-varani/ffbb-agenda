@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dmu13-ges-bas-rhin-poule-a-2026-09-12-15-30-nbc-sarrebourg-eckbolsheim-
  bb@ffbb-agenda
-DTSTAMP:20260829T201402Z
+DTSTAMP:20260830T201446Z
 DTSTART;TZID=Europe/Paris:20260912T153000
 DTEND;TZID=Europe/Paris:20260912T173000
 SUMMARY:NBC SARREBOURG – ECKBOLSHEIM BB
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu13-ges-bas-rhin-poule-a-2026-09-13-13-30-asa-gries-oberhoffen-2-grie
  sheim-din@ffbb-agenda
-DTSTAMP:20260829T201402Z
+DTSTAMP:20260830T201446Z
 DTSTART;TZID=Europe/Paris:20260913T133000
 DTEND;TZID=Europe/Paris:20260913T153000
 SUMMARY:ASA GRIES / OBERHOFFEN - 2 – GRIESHEIM/DINGSHEIM B.C.
@@ -58,26 +58,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  3/match/200000014660343
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu13-ges-bas-rhin-poule-a-2026-09-19-00-00-eckbolsheim-bb-vendenheim-b
- c@ffbb-agenda
-DTSTAMP:20260829T201402Z
-DTSTART;TZID=Europe/Paris:20260919T000000
-DTEND;TZID=Europe/Paris:20260919T020000
-SUMMARY:ECKBOLSHEIM BB – VENDENHEIM BC
-DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM
-  BB vs VENDENHEIM BC\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 6720
- 1\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13/match/2000000146
- 60348
-LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
- 3/match/200000014660348
-END:VEVENT
-BEGIN:VEVENT
 UID:dmu13-ges-bas-rhin-poule-a-2026-09-19-13-30-nbc-sarrebourg-asa-gries-ob
  erhoffen-@ffbb-agenda
-DTSTAMP:20260829T201402Z
+DTSTAMP:20260830T201446Z
 DTSTART;TZID=Europe/Paris:20260919T133000
 DTEND;TZID=Europe/Paris:20260919T153000
 SUMMARY:NBC SARREBOURG – ASA GRIES / OBERHOFFEN - 2
@@ -92,9 +75,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  3/match/200000014660346
 END:VEVENT
 BEGIN:VEVENT
+UID:dmu13-ges-bas-rhin-poule-a-2026-09-19-13-30-eckbolsheim-bb-vendenheim-b
+ c@ffbb-agenda
+DTSTAMP:20260830T201446Z
+DTSTART;TZID=Europe/Paris:20260919T133000
+DTEND;TZID=Europe/Paris:20260919T153000
+SUMMARY:ECKBOLSHEIM BB – VENDENHEIM BC
+DESCRIPTION:🏀 DMU13 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM
+  BB vs VENDENHEIM BC\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 6720
+ 1\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.68991&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13/match/2000000146
+ 60348
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3/match/200000014660348
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu13-ges-bas-rhin-poule-a-2026-09-27-09-00-vendenheim-bc-griesheim-din
  gsheim-b-@ffbb-agenda
-DTSTAMP:20260829T201402Z
+DTSTAMP:20260830T201446Z
 DTSTART;TZID=Europe/Paris:20260927T090000
 DTEND;TZID=Europe/Paris:20260927T110000
 SUMMARY:VENDENHEIM BC – GRIESHEIM/DINGSHEIM B.C.
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu13-ges-bas-rhin-poule-a-2026-09-27-13-30-asa-gries-oberhoffen-2-eckb
  olsheim-b@ffbb-agenda
-DTSTAMP:20260829T201402Z
+DTSTAMP:20260830T201446Z
 DTSTART;TZID=Europe/Paris:20260927T133000
 DTEND;TZID=Europe/Paris:20260927T153000
 SUMMARY:ASA GRIES / OBERHOFFEN - 2 – ECKBOLSHEIM BB
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu13-ges-bas-rhin-poule-a-2026-10-03-14-30-griesheim-dingsheim-b-c-eck
  bolsheim-@ffbb-agenda
-DTSTAMP:20260829T201402Z
+DTSTAMP:20260830T201446Z
 DTSTART;TZID=Europe/Paris:20261003T143000
 DTEND;TZID=Europe/Paris:20261003T163000
 SUMMARY:GRIESHEIM/DINGSHEIM B.C. – ECKBOLSHEIM BB
@@ -145,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu13-ges-bas-rhin-poule-a-2026-10-03-15-00-vendenheim-bc-nbc-sarrebour
  g@ffbb-agenda
-DTSTAMP:20260829T201402Z
+DTSTAMP:20260830T201446Z
 DTSTART;TZID=Europe/Paris:20261003T150000
 DTEND;TZID=Europe/Paris:20261003T170000
 SUMMARY:VENDENHEIM BC – NBC SARREBOURG
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu13-ges-bas-rhin-poule-a-2026-10-10-13-30-nbc-sarrebourg-griesheim-di
  ngsheim-b@ffbb-agenda
-DTSTAMP:20260829T201402Z
+DTSTAMP:20260830T201446Z
 DTSTART;TZID=Europe/Paris:20261010T133000
 DTEND;TZID=Europe/Paris:20261010T153000
 SUMMARY:NBC SARREBOURG – GRIESHEIM/DINGSHEIM B.C.
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu13-ges-bas-rhin-poule-a-2026-10-11-13-30-asa-gries-oberhoffen-2-vend
  enheim-bc@ffbb-agenda
-DTSTAMP:20260829T201402Z
+DTSTAMP:20260830T201446Z
 DTSTART;TZID=Europe/Paris:20261011T133000
 DTEND;TZID=Europe/Paris:20261011T153000
 SUMMARY:ASA GRIES / OBERHOFFEN - 2 – VENDENHEIM BC

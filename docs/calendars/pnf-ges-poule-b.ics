@@ -24,9 +24,25 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2026-10-02-20-30-strasbourg-libellules-b-c-asa-weyershe
+ im@ffbb-agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20261002T203000
+DTEND;TZID=Europe/Paris:20261002T223000
+SUMMARY:STRASBOURG LIBELLULES B.C. – ASA WEYERSHEIM
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ STRASBOURG LIBELLULES B.C.
+  vs ASA WEYERSHEIM\n\nGYMNASE GUTENBERG\n📍 Rue Albert Sayet Strasbourg 
+ 67200\n🚗 Waze : https://waze.com/ul?ll=48.56146\,7.70879&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631753
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631753
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-10-03-17-30-s-i-graffenstaden-2-ohnheim-c-s-s-a-1@
  ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261003T173000
 DTEND;TZID=Europe/Paris:20261003T193000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – OHNHEIM C.S.S.A. - 1
@@ -43,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-10-03-18-00-basket-club-nord-alsace-2-vendenheim-b
  c-1@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261003T180000
 DTEND;TZID=Europe/Paris:20261003T200000
 SUMMARY:BASKET CLUB NORD ALSACE - 2 – VENDENHEIM BC - 1
@@ -60,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-10-03-18-30-eschau-bc-schweighouse-ohlungen-b-c@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261003T183000
 DTEND;TZID=Europe/Paris:20261003T203000
 SUMMARY:ESCHAU BC – SCHWEIGHOUSE/OHLUNGEN B.C.
@@ -76,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-10-04-15-30-schiltigheim-au-geispolsheim-c-j-s-3@f
  fbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261004T153000
 DTEND;TZID=Europe/Paris:20261004T173000
 SUMMARY:SCHILTIGHEIM AU – GEISPOLSHEIM C.J.S. - 3
@@ -90,25 +106,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631752
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2026-10-04-15-30-strasbourg-libellules-b-c-asa-weyershe
- im@ffbb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20261004T153000
-DTEND;TZID=Europe/Paris:20261004T173000
-SUMMARY:STRASBOURG LIBELLULES B.C. – ASA WEYERSHEIM
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ STRASBOURG LIBELLULES B.C.
-  vs ASA WEYERSHEIM\n\nGYMNASE GUTENBERG\n📍 Rue Albert Sayet Strasbourg 
- 67200\n🚗 Waze : https://waze.com/ul?ll=48.56146\,7.70879&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631753
-LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631753
-END:VEVENT
-BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-10-10-17-00-asa-weyersheim-schiltigheim-au@ffbb-ag
  enda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261010T170000
 DTEND;TZID=Europe/Paris:20261010T190000
 SUMMARY:ASA WEYERSHEIM – SCHILTIGHEIM AU
@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-10-10-18-00-ohnheim-c-s-s-a-1-basket-club-nord-als
  ace-2@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261010T180000
 DTEND;TZID=Europe/Paris:20261010T200000
 SUMMARY:OHNHEIM C.S.S.A. - 1 – BASKET CLUB NORD ALSACE - 2
@@ -141,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-10-10-18-30-vendenheim-bc-1-strasbourg-libellules-
  b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261010T183000
 DTEND;TZID=Europe/Paris:20261010T203000
 SUMMARY:VENDENHEIM BC - 1 – STRASBOURG LIBELLULES B.C.
@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-10-11-16-00-schweighouse-ohlungen-b-c-s-i-graffens
  taden-2@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261011T160000
 DTEND;TZID=Europe/Paris:20261011T180000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – S.I. GRAFFENSTADEN - 2
@@ -174,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-10-11-17-30-geispolsheim-c-j-s-3-eschau-bc@ffbb-ag
  enda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261011T173000
 DTEND;TZID=Europe/Paris:20261011T193000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – ESCHAU BC
@@ -190,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-07-18-30-schweighouse-ohlungen-b-c-geispolsheim
  -c-j-s-3@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261107T183000
 DTEND;TZID=Europe/Paris:20261107T203000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – GEISPOLSHEIM C.J.S. - 3
@@ -207,7 +207,7 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
 END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-07-18-30-eschau-bc-asa-weyersheim@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261107T183000
 DTEND;TZID=Europe/Paris:20261107T203000
 SUMMARY:ESCHAU BC – ASA WEYERSHEIM
@@ -223,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-07-20-00-basket-club-nord-alsace-2-s-i-graffens
  taden-2@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:BASKET CLUB NORD ALSACE - 2 – S.I. GRAFFENSTADEN - 2
@@ -240,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-07-20-30-strasbourg-libellules-b-c-ohnheim-c-s-
  s-a-1@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261107T203000
 DTEND;TZID=Europe/Paris:20261107T223000
 SUMMARY:STRASBOURG LIBELLULES B.C. – OHNHEIM C.S.S.A. - 1
@@ -256,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-08-15-30-schiltigheim-au-vendenheim-bc-1@ffbb-a
  genda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:SCHILTIGHEIM AU – VENDENHEIM BC - 1
@@ -272,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-14-17-30-s-i-graffenstaden-2-strasbourg-libellu
  les-b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261114T173000
 DTEND;TZID=Europe/Paris:20261114T193000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – STRASBOURG LIBELLULES B.C.
@@ -289,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-14-18-00-ohnheim-c-s-s-a-1-schiltigheim-au@ffbb
  -agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261114T180000
 DTEND;TZID=Europe/Paris:20261114T200000
 SUMMARY:OHNHEIM C.S.S.A. - 1 – SCHILTIGHEIM AU
@@ -305,7 +305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-14-20-00-basket-club-nord-alsace-2-schweighouse
  -ohlungen@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:BASKET CLUB NORD ALSACE - 2 – SCHWEIGHOUSE/OHLUNGEN B.C.
@@ -322,7 +322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-15-15-30-asa-weyersheim-geispolsheim-c-j-s-3@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:ASA WEYERSHEIM – GEISPOLSHEIM C.J.S. - 3
@@ -337,7 +337,7 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
 END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-15-15-30-vendenheim-bc-1-eschau-bc@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:VENDENHEIM BC - 1 – ESCHAU BC
@@ -351,9 +351,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631784
 END:VEVENT
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2026-11-21-18-30-schiltigheim-au-s-i-graffenstaden-2@ff
+ bb-agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20261121T183000
+DTEND;TZID=Europe/Paris:20261121T203000
+SUMMARY:SCHILTIGHEIM AU – S.I. GRAFFENSTADEN - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs S.I. GR
+ AFFENSTADEN - 2\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries Schilti
+ gheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631792
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631792
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-21-18-30-eschau-bc-ohnheim-c-s-s-a-1@ffbb-agend
  a
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261121T183000
 DTEND;TZID=Europe/Paris:20261121T203000
 SUMMARY:ESCHAU BC – OHNHEIM C.S.S.A. - 1
@@ -369,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-21-20-30-strasbourg-libellules-b-c-basket-club-
  nord-alsa@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261121T203000
 DTEND;TZID=Europe/Paris:20261121T223000
 SUMMARY:STRASBOURG LIBELLULES B.C. – BASKET CLUB NORD ALSACE - 2
@@ -384,25 +400,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631793
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2026-11-22-15-30-schiltigheim-au-s-i-graffenstaden-2@ff
- bb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20261122T153000
-DTEND;TZID=Europe/Paris:20261122T173000
-SUMMARY:SCHILTIGHEIM AU – S.I. GRAFFENSTADEN - 2
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs S.I. GR
- AFFENSTADEN - 2\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries Schilti
- gheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631792
-LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631792
-END:VEVENT
-BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-22-17-30-geispolsheim-c-j-s-3-vendenheim-bc-1@f
  fbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261122T173000
 DTEND;TZID=Europe/Paris:20261122T193000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – VENDENHEIM BC - 1
@@ -418,7 +418,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-11-29-15-30-schweighouse-ohlungen-b-c-asa-weyershe
  im@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261129T153000
 DTEND;TZID=Europe/Paris:20261129T173000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – ASA WEYERSHEIM
@@ -436,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-12-05-18-00-ohnheim-c-s-s-a-1-geispolsheim-c-j-s-3
  @ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261205T180000
 DTEND;TZID=Europe/Paris:20261205T200000
 SUMMARY:OHNHEIM C.S.S.A. - 1 – GEISPOLSHEIM C.J.S. - 3
@@ -453,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-12-05-20-00-s-i-graffenstaden-2-eschau-bc@ffbb-age
  nda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T220000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – ESCHAU BC
@@ -469,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-12-05-20-00-basket-club-nord-alsace-2-schiltigheim
  -au@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T220000
 SUMMARY:BASKET CLUB NORD ALSACE - 2 – SCHILTIGHEIM AU
@@ -485,7 +485,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-12-05-20-30-strasbourg-libellules-b-c-schweighouse
  -ohlungen@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261205T203000
 DTEND;TZID=Europe/Paris:20261205T223000
 SUMMARY:STRASBOURG LIBELLULES B.C. – SCHWEIGHOUSE/OHLUNGEN B.C.
@@ -500,11 +500,11 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631801
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2026-12-06-17-00-vendenheim-bc-1-asa-weyersheim@ffbb-ag
+UID:pnf-ges-poule-b-2026-12-06-16-30-vendenheim-bc-1-asa-weyersheim@ffbb-ag
  enda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20261206T170000
-DTEND;TZID=Europe/Paris:20261206T190000
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20261206T163000
+DTEND;TZID=Europe/Paris:20261206T183000
 SUMMARY:VENDENHEIM BC - 1 – ASA WEYERSHEIM
 DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs ASA W
  EYERSHEIM\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod Vendenheim 6
@@ -518,7 +518,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-12-12-18-30-eschau-bc-basket-club-nord-alsace-2@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261212T183000
 DTEND;TZID=Europe/Paris:20261212T203000
 SUMMARY:ESCHAU BC – BASKET CLUB NORD ALSACE - 2
@@ -532,9 +532,26 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631811
 END:VEVENT
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2026-12-12-20-30-schiltigheim-au-strasbourg-libellules-
+ b-c@ffbb-agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:SCHILTIGHEIM AU – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs STRASBO
+ URG LIBELLULES B.C.\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries Sch
+ iltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000146318
+ 12
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631812
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-12-12-20-30-vendenheim-bc-1-schweighouse-ohlungen-
  b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261212T203000
 DTEND;TZID=Europe/Paris:20261212T223000
 SUMMARY:VENDENHEIM BC - 1 – SCHWEIGHOUSE/OHLUNGEN B.C.
@@ -549,28 +566,11 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631815
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2026-12-13-15-30-schiltigheim-au-strasbourg-libellules-
- b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20261213T153000
-DTEND;TZID=Europe/Paris:20261213T173000
-SUMMARY:SCHILTIGHEIM AU – STRASBOURG LIBELLULES B.C.
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs STRASBO
- URG LIBELLULES B.C.\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries Sch
- iltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374&navi
- gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
- ps://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000146318
- 12
-LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631812
-END:VEVENT
-BEGIN:VEVENT
-UID:pnf-ges-poule-b-2026-12-13-15-30-asa-weyersheim-ohnheim-c-s-s-a-1@ffbb-
+UID:pnf-ges-poule-b-2026-12-13-16-00-asa-weyersheim-ohnheim-c-s-s-a-1@ffbb-
  agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20261213T153000
-DTEND;TZID=Europe/Paris:20261213T173000
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20261213T160000
+DTEND;TZID=Europe/Paris:20261213T180000
 SUMMARY:ASA WEYERSHEIM – OHNHEIM C.S.S.A. - 1
 DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs OHNHEIM 
  C.S.S.A. - 1\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67
@@ -584,7 +584,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2026-12-13-17-30-geispolsheim-c-j-s-3-s-i-graffenstaden
  -2@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20261213T173000
 DTEND;TZID=Europe/Paris:20261213T193000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – S.I. GRAFFENSTADEN - 2
@@ -601,7 +601,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-08-20-30-s-i-graffenstaden-2-asa-weyersheim@ffb
  b-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270108T203000
 DTEND;TZID=Europe/Paris:20270108T223000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – ASA WEYERSHEIM
@@ -617,7 +617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-09-17-00-basket-club-nord-alsace-2-geispolsheim
  -c-j-s-3@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270109T170000
 DTEND;TZID=Europe/Paris:20270109T190000
 SUMMARY:BASKET CLUB NORD ALSACE - 2 – GEISPOLSHEIM C.J.S. - 3
@@ -634,7 +634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-09-18-00-ohnheim-c-s-s-a-1-vendenheim-bc-1@ffbb
  -agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270109T180000
 DTEND;TZID=Europe/Paris:20270109T200000
 SUMMARY:OHNHEIM C.S.S.A. - 1 – VENDENHEIM BC - 1
@@ -650,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-09-20-30-strasbourg-libellules-b-c-eschau-bc@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270109T203000
 DTEND;TZID=Europe/Paris:20270109T223000
 SUMMARY:STRASBOURG LIBELLULES B.C. – ESCHAU BC
@@ -664,11 +664,11 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631822
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-01-10-15-30-schiltigheim-au-schweighouse-ohlungen-
+UID:pnf-ges-poule-b-2027-01-09-20-30-schiltigheim-au-schweighouse-ohlungen-
  b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20270110T153000
-DTEND;TZID=Europe/Paris:20270110T173000
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
 SUMMARY:SCHILTIGHEIM AU – SCHWEIGHOUSE/OHLUNGEN B.C.
 DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs SCHWEIG
  HOUSE/OHLUNGEN B.C.\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries Sch
@@ -683,7 +683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-16-17-00-asa-weyersheim-basket-club-nord-alsace
  -2@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270116T170000
 DTEND;TZID=Europe/Paris:20270116T190000
 SUMMARY:ASA WEYERSHEIM – BASKET CLUB NORD ALSACE - 2
@@ -698,7 +698,7 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
 END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-16-18-30-eschau-bc-schiltigheim-au@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270116T183000
 DTEND;TZID=Europe/Paris:20270116T203000
 SUMMARY:ESCHAU BC – SCHILTIGHEIM AU
@@ -714,7 +714,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-16-20-30-s-i-graffenstaden-2-vendenheim-bc-1@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270116T203000
 DTEND;TZID=Europe/Paris:20270116T223000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – VENDENHEIM BC - 1
@@ -731,7 +731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-17-15-30-schweighouse-ohlungen-b-c-ohnheim-c-s-
  s-a-1@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270117T153000
 DTEND;TZID=Europe/Paris:20270117T173000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – OHNHEIM C.S.S.A. - 1
@@ -749,7 +749,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-17-17-30-geispolsheim-c-j-s-3-strasbourg-libell
  ules-b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270117T173000
 DTEND;TZID=Europe/Paris:20270117T193000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – STRASBOURG LIBELLULES B.C.
@@ -766,7 +766,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-30-18-00-ohnheim-c-s-s-a-1-s-i-graffenstaden-2@
  ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270130T180000
 DTEND;TZID=Europe/Paris:20270130T200000
 SUMMARY:OHNHEIM C.S.S.A. - 1 – S.I. GRAFFENSTADEN - 2
@@ -783,7 +783,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-31-15-30-vendenheim-bc-1-basket-club-nord-alsac
  e-2@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270131T153000
 DTEND;TZID=Europe/Paris:20270131T173000
 SUMMARY:VENDENHEIM BC - 1 – BASKET CLUB NORD ALSACE - 2
@@ -798,25 +798,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631844
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-01-31-15-30-asa-weyersheim-strasbourg-libellules-b
- -c@ffbb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20270131T153000
-DTEND;TZID=Europe/Paris:20270131T173000
-SUMMARY:ASA WEYERSHEIM – STRASBOURG LIBELLULES B.C.
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs STRASBOU
- RG LIBELLULES B.C.\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersh
- eim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631843
-LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631843
-END:VEVENT
-BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-31-15-30-schweighouse-ohlungen-b-c-eschau-bc@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270131T153000
 DTEND;TZID=Europe/Paris:20270131T173000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – ESCHAU BC
@@ -832,7 +816,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-01-31-17-30-geispolsheim-c-j-s-3-schiltigheim-au@f
  fbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270131T173000
 DTEND;TZID=Europe/Paris:20270131T193000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – SCHILTIGHEIM AU
@@ -846,9 +830,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631842
 END:VEVENT
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2027-01-31-17-30-asa-weyersheim-strasbourg-libellules-b
+ -c@ffbb-agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20270131T173000
+DTEND;TZID=Europe/Paris:20270131T193000
+SUMMARY:ASA WEYERSHEIM – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs STRASBOU
+ RG LIBELLULES B.C.\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersh
+ eim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631843
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631843
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-02-06-18-30-eschau-bc-geispolsheim-c-j-s-3@ffbb-ag
  enda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270206T183000
 DTEND;TZID=Europe/Paris:20270206T203000
 SUMMARY:ESCHAU BC – GEISPOLSHEIM C.J.S. - 3
@@ -864,7 +864,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-02-06-20-30-basket-club-nord-alsace-2-ohnheim-c-s-
  s-a-1@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270206T203000
 DTEND;TZID=Europe/Paris:20270206T223000
 SUMMARY:BASKET CLUB NORD ALSACE - 2 – OHNHEIM C.S.S.A. - 1
@@ -878,9 +878,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631851
 END:VEVENT
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2027-02-06-20-30-strasbourg-libellules-b-c-vendenheim-b
+ c-1@ffbb-agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:STRASBOURG LIBELLULES B.C. – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ STRASBOURG LIBELLULES B.C.
+  vs VENDENHEIM BC - 1\n\nGYMNASE GUTENBERG\n📍 Rue Albert Sayet Strasbou
+ rg 67200\n🚗 Waze : https://waze.com/ul?ll=48.56146\,7.70879&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631852
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631852
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-02-06-20-30-s-i-graffenstaden-2-schweighouse-ohlun
  gen-b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270206T203000
 DTEND;TZID=Europe/Paris:20270206T223000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – SCHWEIGHOUSE/OHLUNGEN B.C.
@@ -895,25 +911,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631855
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-02-06-20-30-strasbourg-libellules-b-c-vendenheim-b
- c-1@ffbb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20270206T203000
-DTEND;TZID=Europe/Paris:20270206T223000
-SUMMARY:STRASBOURG LIBELLULES B.C. – VENDENHEIM BC - 1
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ STRASBOURG LIBELLULES B.C.
-  vs VENDENHEIM BC - 1\n\nGYMNASE GUTENBERG\n📍 Rue Albert Sayet Strasbou
- rg 67200\n🚗 Waze : https://waze.com/ul?ll=48.56146\,7.70879&navigate=ye
- s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
- mpetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631852
-LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631852
-END:VEVENT
-BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-02-07-15-30-schiltigheim-au-asa-weyersheim@ffbb-ag
  enda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270207T153000
 DTEND;TZID=Europe/Paris:20270207T173000
 SUMMARY:SCHILTIGHEIM AU – ASA WEYERSHEIM
@@ -929,7 +929,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-02-13-17-30-s-i-graffenstaden-2-basket-club-nord-a
  lsace-2@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270213T173000
 DTEND;TZID=Europe/Paris:20270213T193000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – BASKET CLUB NORD ALSACE - 2
@@ -946,7 +946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-02-13-18-00-ohnheim-c-s-s-a-1-strasbourg-libellule
  s-b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270213T180000
 DTEND;TZID=Europe/Paris:20270213T200000
 SUMMARY:OHNHEIM C.S.S.A. - 1 – STRASBOURG LIBELLULES B.C.
@@ -963,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-02-13-18-30-vendenheim-bc-1-schiltigheim-au@ffbb-a
  genda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270213T183000
 DTEND;TZID=Europe/Paris:20270213T203000
 SUMMARY:VENDENHEIM BC - 1 – SCHILTIGHEIM AU
@@ -977,24 +977,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631862
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-02-14-15-30-asa-weyersheim-eschau-bc@ffbb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20270214T153000
-DTEND;TZID=Europe/Paris:20270214T173000
-SUMMARY:ASA WEYERSHEIM – ESCHAU BC
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs ESCHAU B
- C\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67720\n🚗 W
- aze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢 Arbitr
- es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
- com/ligues/ges/competitions/pnf/match/200000014631861
-LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631861
-END:VEVENT
-BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-02-14-17-30-geispolsheim-c-j-s-3-schweighouse-ohlu
  ngen-b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270214T173000
 DTEND;TZID=Europe/Paris:20270214T193000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – SCHWEIGHOUSE/OHLUNGEN B.C.
@@ -1009,9 +994,24 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631865
 END:VEVENT
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2027-02-14-17-30-asa-weyersheim-eschau-bc@ffbb-agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20270214T173000
+DTEND;TZID=Europe/Paris:20270214T193000
+SUMMARY:ASA WEYERSHEIM – ESCHAU BC
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs ESCHAU B
+ C\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67720\n🚗 W
+ aze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/competitions/pnf/match/200000014631861
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631861
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-03-13-18-30-schweighouse-ohlungen-b-c-basket-club-
  nord-alsa@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270313T183000
 DTEND;TZID=Europe/Paris:20270313T203000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – BASKET CLUB NORD ALSACE - 2
@@ -1026,7 +1026,7 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
 END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-03-13-18-30-eschau-bc-vendenheim-bc-1@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270313T183000
 DTEND;TZID=Europe/Paris:20270313T203000
 SUMMARY:ESCHAU BC – VENDENHEIM BC - 1
@@ -1042,7 +1042,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-03-13-20-30-strasbourg-libellules-b-c-s-i-graffens
  taden-2@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270313T203000
 DTEND;TZID=Europe/Paris:20270313T223000
 SUMMARY:STRASBOURG LIBELLULES B.C. – S.I. GRAFFENSTADEN - 2
@@ -1056,25 +1056,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631872
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-03-14-15-30-schiltigheim-au-ohnheim-c-s-s-a-1@ffbb
- -agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20270314T153000
-DTEND;TZID=Europe/Paris:20270314T173000
-SUMMARY:SCHILTIGHEIM AU – OHNHEIM C.S.S.A. - 1
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs OHNHEIM
-  C.S.S.A. - 1\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries Schiltigh
- eim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631873
-LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631873
-END:VEVENT
-BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-03-14-17-30-geispolsheim-c-j-s-3-asa-weyersheim@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270314T173000
 DTEND;TZID=Europe/Paris:20270314T193000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – ASA WEYERSHEIM
@@ -1088,9 +1072,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631875
 END:VEVENT
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2027-03-14-18-30-schiltigheim-au-ohnheim-c-s-s-a-1@ffbb
+ -agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20270314T183000
+DTEND;TZID=Europe/Paris:20270314T203000
+SUMMARY:SCHILTIGHEIM AU – OHNHEIM C.S.S.A. - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs OHNHEIM
+  C.S.S.A. - 1\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries Schiltigh
+ eim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631873
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631873
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-03-20-18-00-ohnheim-c-s-s-a-1-eschau-bc@ffbb-agend
  a
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270320T180000
 DTEND;TZID=Europe/Paris:20270320T200000
 SUMMARY:OHNHEIM C.S.S.A. - 1 – ESCHAU BC
@@ -1104,25 +1104,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631881
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-03-21-15-30-vendenheim-bc-1-geispolsheim-c-j-s-3@f
- fbb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20270321T153000
-DTEND;TZID=Europe/Paris:20270321T173000
-SUMMARY:VENDENHEIM BC - 1 – GEISPOLSHEIM C.J.S. - 3
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs GEISP
- OLSHEIM C.J.S. - 3\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod Ven
- denheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.71054&naviga
- te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
- ://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631884
-LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+UID:pnf-ges-poule-b-2027-03-20-18-30-asa-weyersheim-schweighouse-ohlungen-b
+ -c@ffbb-agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20270320T183000
+DTEND;TZID=Europe/Paris:20270320T203000
+SUMMARY:ASA WEYERSHEIM – SCHWEIGHOUSE/OHLUNGEN B.C.
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs SCHWEIGH
+ OUSE/OHLUNGEN B.C.\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersh
+ eim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631885
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
 URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631884
+ 14631885
 END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-03-21-15-30-basket-club-nord-alsace-2-strasbourg-l
  ibellules@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270321T153000
 DTEND;TZID=Europe/Paris:20270321T173000
 SUMMARY:BASKET CLUB NORD ALSACE - 2 – STRASBOURG LIBELLULES B.C.
@@ -1137,25 +1137,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631883
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-03-21-15-30-asa-weyersheim-schweighouse-ohlungen-b
- -c@ffbb-agenda
-DTSTAMP:20260830T060338Z
+UID:pnf-ges-poule-b-2027-03-21-15-30-vendenheim-bc-1-geispolsheim-c-j-s-3@f
+ fbb-agenda
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270321T153000
 DTEND;TZID=Europe/Paris:20270321T173000
-SUMMARY:ASA WEYERSHEIM – SCHWEIGHOUSE/OHLUNGEN B.C.
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs SCHWEIGH
- OUSE/OHLUNGEN B.C.\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersh
- eim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631885
-LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+SUMMARY:VENDENHEIM BC - 1 – GEISPOLSHEIM C.J.S. - 3
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ VENDENHEIM BC - 1 vs GEISP
+ OLSHEIM C.J.S. - 3\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod Ven
+ denheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.71054&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631884
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
 URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631885
+ 14631884
 END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-03-21-17-30-s-i-graffenstaden-2-schiltigheim-au@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270321T173000
 DTEND;TZID=Europe/Paris:20270321T193000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – SCHILTIGHEIM AU
@@ -1172,7 +1172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-04-03-18-30-eschau-bc-s-i-graffenstaden-2@ffbb-age
  nda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270403T183000
 DTEND;TZID=Europe/Paris:20270403T203000
 SUMMARY:ESCHAU BC – S.I. GRAFFENSTADEN - 2
@@ -1188,7 +1188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-04-03-18-30-schweighouse-ohlungen-b-c-strasbourg-l
  ibellules@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270403T183000
 DTEND;TZID=Europe/Paris:20270403T203000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – STRASBOURG LIBELLULES B.C.
@@ -1204,9 +1204,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631891
 END:VEVENT
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2027-04-04-15-30-asa-weyersheim-vendenheim-bc-1@ffbb-ag
+ enda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:ASA WEYERSHEIM – VENDENHEIM BC - 1
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs VENDENHE
+ IM BC - 1\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67720
+ \n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631895
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631895
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-04-04-15-30-schiltigheim-au-basket-club-nord-alsac
  e-2@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270404T153000
 DTEND;TZID=Europe/Paris:20270404T173000
 SUMMARY:SCHILTIGHEIM AU – BASKET CLUB NORD ALSACE - 2
@@ -1221,25 +1237,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631892
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-04-04-15-30-asa-weyersheim-vendenheim-bc-1@ffbb-ag
- enda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20270404T153000
-DTEND;TZID=Europe/Paris:20270404T173000
-SUMMARY:ASA WEYERSHEIM – VENDENHEIM BC - 1
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ ASA WEYERSHEIM vs VENDENHE
- IM BC - 1\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67720
- \n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/competitions/pnf/match/200000014631895
-LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631895
-END:VEVENT
-BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-04-04-17-30-geispolsheim-c-j-s-3-ohnheim-c-s-s-a-1
  @ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270404T173000
 DTEND;TZID=Europe/Paris:20270404T193000
 SUMMARY:GEISPOLSHEIM C.J.S. - 3 – OHNHEIM C.S.S.A. - 1
@@ -1255,7 +1255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-04-10-17-30-s-i-graffenstaden-2-geispolsheim-c-j-s
  -3@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270410T173000
 DTEND;TZID=Europe/Paris:20270410T193000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – GEISPOLSHEIM C.J.S. - 3
@@ -1272,7 +1272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-04-10-18-00-ohnheim-c-s-s-a-1-asa-weyersheim@ffbb-
  agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270410T180000
 DTEND;TZID=Europe/Paris:20270410T200000
 SUMMARY:OHNHEIM C.S.S.A. - 1 – ASA WEYERSHEIM
@@ -1288,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-04-10-18-30-strasbourg-libellules-b-c-schiltigheim
  -au@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270410T183000
 DTEND;TZID=Europe/Paris:20270410T203000
 SUMMARY:STRASBOURG LIBELLULES B.C. – SCHILTIGHEIM AU
@@ -1304,7 +1304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-04-10-19-30-schweighouse-ohlungen-b-c-vendenheim-b
  c-1@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270410T193000
 DTEND;TZID=Europe/Paris:20270410T213000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – VENDENHEIM BC - 1
@@ -1322,7 +1322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-04-10-20-30-basket-club-nord-alsace-2-eschau-bc@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270410T203000
 DTEND;TZID=Europe/Paris:20270410T223000
 SUMMARY:BASKET CLUB NORD ALSACE - 2 – ESCHAU BC
@@ -1338,7 +1338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-05-08-18-30-eschau-bc-strasbourg-libellules-b-c@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270508T183000
 DTEND;TZID=Europe/Paris:20270508T203000
 SUMMARY:ESCHAU BC – STRASBOURG LIBELLULES B.C.
@@ -1354,7 +1354,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-05-09-15-15-vendenheim-bc-1-ohnheim-c-s-s-a-1@ffbb
  -agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270509T151500
 DTEND;TZID=Europe/Paris:20270509T171500
 SUMMARY:VENDENHEIM BC - 1 – OHNHEIM C.S.S.A. - 1
@@ -1370,7 +1370,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-05-09-15-30-asa-weyersheim-s-i-graffenstaden-2@ffb
  b-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270509T153000
 DTEND;TZID=Europe/Paris:20270509T173000
 SUMMARY:ASA WEYERSHEIM – S.I. GRAFFENSTADEN - 2
@@ -1384,26 +1384,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631914
 END:VEVENT
 BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-05-09-17-30-geispolsheim-c-j-s-3-basket-club-nord-
- alsace-2@ffbb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20270509T173000
-DTEND;TZID=Europe/Paris:20270509T193000
-SUMMARY:GEISPOLSHEIM C.J.S. - 3 – BASKET CLUB NORD ALSACE - 2
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. - 3 vs
-  BASKET CLUB NORD ALSACE - 2\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse
-  Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014
- 631913
-LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631913
-END:VEVENT
-BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-05-09-17-30-schweighouse-ohlungen-b-c-schiltigheim
  -au@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270509T173000
 DTEND;TZID=Europe/Paris:20270509T193000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – SCHILTIGHEIM AU
@@ -1419,9 +1402,26 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631911
 END:VEVENT
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2027-05-09-17-30-geispolsheim-c-j-s-3-basket-club-nord-
+ alsace-2@ffbb-agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20270509T173000
+DTEND;TZID=Europe/Paris:20270509T193000
+SUMMARY:GEISPOLSHEIM C.J.S. - 3 – BASKET CLUB NORD ALSACE - 2
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. - 3 vs
+  BASKET CLUB NORD ALSACE - 2\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse
+  Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/200000014
+ 631913
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631913
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-05-15-17-30-vendenheim-bc-1-s-i-graffenstaden-2@ff
  bb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270515T173000
 DTEND;TZID=Europe/Paris:20270515T193000
 SUMMARY:VENDENHEIM BC - 1 – S.I. GRAFFENSTADEN - 2
@@ -1437,7 +1437,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-05-15-18-00-ohnheim-c-s-s-a-1-schweighouse-ohlunge
  n-b-c@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270515T180000
 DTEND;TZID=Europe/Paris:20270515T200000
 SUMMARY:OHNHEIM C.S.S.A. - 1 – SCHWEIGHOUSE/OHLUNGEN B.C.
@@ -1454,7 +1454,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-05-15-20-30-basket-club-nord-alsace-2-asa-weyershe
  im@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270515T203000
 DTEND;TZID=Europe/Paris:20270515T223000
 SUMMARY:BASKET CLUB NORD ALSACE - 2 – ASA WEYERSHEIM
@@ -1468,9 +1468,24 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631923
 END:VEVENT
 BEGIN:VEVENT
+UID:pnf-ges-poule-b-2027-05-15-20-30-schiltigheim-au-eschau-bc@ffbb-agenda
+DTSTAMP:20260830T210205Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:SCHILTIGHEIM AU – ESCHAU BC
+DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs ESCHAU 
+ BC\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries Schiltigheim 67300\n
+ 🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/pnf/match/200000014631921
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
+ 14631921
+END:VEVENT
+BEGIN:VEVENT
 UID:pnf-ges-poule-b-2027-05-15-20-30-strasbourg-libellules-b-c-geispolsheim
  -c-j-s-3@ffbb-agenda
-DTSTAMP:20260830T060338Z
+DTSTAMP:20260830T210205Z
 DTSTART;TZID=Europe/Paris:20270515T203000
 DTEND;TZID=Europe/Paris:20270515T223000
 SUMMARY:STRASBOURG LIBELLULES B.C. – GEISPOLSHEIM C.J.S. - 3
@@ -1483,20 +1498,5 @@ DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ STRASBOURG LIBELLULES B.C.
 LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
 URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
  14631924
-END:VEVENT
-BEGIN:VEVENT
-UID:pnf-ges-poule-b-2027-05-16-15-30-schiltigheim-au-eschau-bc@ffbb-agenda
-DTSTAMP:20260830T060338Z
-DTSTART;TZID=Europe/Paris:20270516T153000
-DTEND;TZID=Europe/Paris:20270516T173000
-SUMMARY:SCHILTIGHEIM AU – ESCHAU BC
-DESCRIPTION:🏀 PNF – GES – Poule B\n⚔️ SCHILTIGHEIM AU vs ESCHAU 
- BC\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries Schiltigheim 67300\n
- 🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374&navigate=yes\n\n📢 
- Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
- .ffbb.com/ligues/ges/competitions/pnf/match/200000014631921
-LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnf/match/2000000
- 14631921
 END:VEVENT
 END:VCALENDAR

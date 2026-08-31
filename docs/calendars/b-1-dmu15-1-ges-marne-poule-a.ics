@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – B-1-DMU15-1 – GES – Marne – Poule A
+X-WR-CALDESC:Tous les matchs B-1-DMU15-1 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-1-dmu15-1-ges-marne-poule-a-2026-09-19-00-00-union-sportive-de-sezann
+ e-eveil-r@ffbb-agenda
+DTSTAMP:20260831T202808Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:UNION SPORTIVE DE SEZANNE – EVEIL RECY SAINT MARTIN BASKET
+DESCRIPTION:🏀 B-1-DMU15-1 – GES – Marne – Poule A\n⚔️ UNION SP
+ ORTIVE DE SEZANNE vs EVEIL RECY SAINT MARTIN BASKET\n\nGYMNASE J.F KIEZER\
+ n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : https://
+ waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/b-1-dmu15-1/match/200000014686715
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-1/match/200000014686715
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu15-1-ges-marne-poule-a-2026-09-19-00-00-union-sportive-de-sezann
+ e-ie-chal@ffbb-agenda
+DTSTAMP:20260831T202808Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:UNION SPORTIVE DE SEZANNE – IE - CHALONS SARRY BASKET (CSB)
+DESCRIPTION:🏀 B-1-DMU15-1 – GES – Marne – Poule A\n⚔️ UNION SP
+ ORTIVE DE SEZANNE vs IE - CHALONS SARRY BASKET (CSB)\n\nGYMNASE J.F KIEZER
+ \n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/b-1-dmu15-1/match/200000014686716
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-1/match/200000014686716
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu15-1-ges-marne-poule-a-2026-09-19-00-00-eveil-recy-saint-martin-
+ basket-ga@ffbb-agenda
+DTSTAMP:20260831T202808Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:EVEIL RECY SAINT MARTIN BASKET – GAULOISE DE VITRY LE FRANCOIS
+DESCRIPTION:🏀 B-1-DMU15-1 – GES – Marne – Poule A\n⚔️ EVEIL RE
+ CY SAINT MARTIN BASKET vs GAULOISE DE VITRY LE FRANCOIS\n\nGYMNASE J.F KIE
+ ZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : http
+ s://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/b-1-dmu15-1/match/200000014686717
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-1/match/200000014686717
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu15-1-ges-marne-poule-a-2026-09-19-00-00-ie-chalons-sarry-basket-
+ csb-gaulo@ffbb-agenda
+DTSTAMP:20260831T202808Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:IE - CHALONS SARRY BASKET (CSB) – GAULOISE DE VITRY LE FRANCOIS
+DESCRIPTION:🏀 B-1-DMU15-1 – GES – Marne – Poule A\n⚔️ IE - CHA
+ LONS SARRY BASKET (CSB) vs GAULOISE DE VITRY LE FRANCOIS\n\nGYMNASE J.F KI
+ EZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : htt
+ ps://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0051/competitions/b-1-dmu15-1/match/200000014686718
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-1/match/200000014686718
+END:VEVENT
+END:VCALENDAR

@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dfu11-ges-bas-rhin-poule-a-2026-09-12-00-00-bask-furdenheim-nbc-sarrebo
- urg@ffbb-agenda
-DTSTAMP:20260830T200824Z
-DTSTART;TZID=Europe/Paris:20260912T000000
-DTEND;TZID=Europe/Paris:20260912T020000
-SUMMARY:BASK FURDENHEIM – NBC SARREBOURG
-DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDEN
- HEIM vs NBC SARREBOURG\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Fur
- denheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&naviga
- te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
- ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/match/
- 200000014660101
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
- 1/match/200000014660101
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-12-13-30-asa-weyersheim-geispolsheim
  -c-j-s@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20260912T133000
 DTEND;TZID=Europe/Paris:20260912T153000
 SUMMARY:ASA WEYERSHEIM – GEISPOLSHEIM C.J.S.
@@ -60,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-12-14-30-eckbolsheim-bb-saint-joseph
  -strasbou@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20260912T143000
 DTEND;TZID=Europe/Paris:20260912T163000
 SUMMARY:ECKBOLSHEIM BB – SAINT JOSEPH - STRASBOURG
@@ -75,11 +58,28 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660102
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-bas-rhin-poule-a-2026-09-19-00-00-bask-furdenheim-asa-weyersh
+UID:dfu11-ges-bas-rhin-poule-a-2026-09-13-13-30-bask-furdenheim-nbc-sarrebo
+ urg@ffbb-agenda
+DTSTAMP:20260831T200945Z
+DTSTART;TZID=Europe/Paris:20260913T133000
+DTEND;TZID=Europe/Paris:20260913T153000
+SUMMARY:BASK FURDENHEIM – NBC SARREBOURG
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDEN
+ HEIM vs NBC SARREBOURG\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Fur
+ denheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/match/
+ 200000014660101
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660101
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-09-19-15-15-bask-furdenheim-asa-weyersh
  eim@ffbb-agenda
-DTSTAMP:20260830T200824Z
-DTSTART;TZID=Europe/Paris:20260919T000000
-DTEND;TZID=Europe/Paris:20260919T020000
+DTSTAMP:20260831T200945Z
+DTSTART;TZID=Europe/Paris:20260919T151500
+DTEND;TZID=Europe/Paris:20260919T171500
 SUMMARY:BASK FURDENHEIM – ASA WEYERSHEIM
 DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDEN
  HEIM vs ASA WEYERSHEIM\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Fur
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-20-13-15-geispolsheim-c-j-s-eckbolsh
  eim-bb@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20260920T131500
 DTEND;TZID=Europe/Paris:20260920T151500
 SUMMARY:GEISPOLSHEIM C.J.S. – ECKBOLSHEIM BB
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-20-13-30-nbc-sarrebourg-saint-joseph
  -strasbou@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20260920T133000
 DTEND;TZID=Europe/Paris:20260920T153000
 SUMMARY:NBC SARREBOURG – SAINT JOSEPH - STRASBOURG
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-26-16-00-asa-weyersheim-nbc-sarrebou
  rg@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20260926T160000
 DTEND;TZID=Europe/Paris:20260926T180000
 SUMMARY:ASA WEYERSHEIM – NBC SARREBOURG
@@ -145,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-09-27-09-00-saint-joseph-strasbourg-gei
  spolsheim@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20260927T090000
 DTEND;TZID=Europe/Paris:20260927T110000
 SUMMARY:SAINT JOSEPH - STRASBOURG – GEISPOLSHEIM C.J.S.
@@ -160,11 +160,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660107
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-bas-rhin-poule-a-2026-09-27-13-30-eckbolsheim-bb-bask-furdenh
+UID:dfu11-ges-bas-rhin-poule-a-2026-09-27-15-30-eckbolsheim-bb-bask-furdenh
  eim@ffbb-agenda
-DTSTAMP:20260830T200824Z
-DTSTART;TZID=Europe/Paris:20260927T133000
-DTEND;TZID=Europe/Paris:20260927T153000
+DTSTAMP:20260831T200945Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:ECKBOLSHEIM BB – BASK FURDENHEIM
 DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ ECKBOLSHEIM
   BB vs BASK FURDENHEIM\n\nGYMNASE KRAFFT\n📍 Rue du Stade Eckbolsheim 67
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-10-03-14-00-saint-joseph-strasbourg-bas
  k-furdenh@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20261003T140000
 DTEND;TZID=Europe/Paris:20261003T160000
 SUMMARY:SAINT JOSEPH - STRASBOURG – BASK FURDENHEIM
@@ -196,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-10-04-10-30-eckbolsheim-bb-asa-weyershe
  im@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20261004T103000
 DTEND;TZID=Europe/Paris:20261004T123000
 SUMMARY:ECKBOLSHEIM BB – ASA WEYERSHEIM
@@ -213,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-10-04-13-15-geispolsheim-c-j-s-nbc-sarr
  ebourg@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20261004T131500
 DTEND;TZID=Europe/Paris:20261004T151500
 SUMMARY:GEISPOLSHEIM C.J.S. – NBC SARREBOURG
@@ -228,26 +228,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660110
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-bas-rhin-poule-a-2026-10-10-00-00-bask-furdenheim-geispolshei
- m-c-j-s@ffbb-agenda
-DTSTAMP:20260830T200824Z
-DTSTART;TZID=Europe/Paris:20261010T000000
-DTEND;TZID=Europe/Paris:20261010T020000
-SUMMARY:BASK FURDENHEIM – GEISPOLSHEIM C.J.S.
-DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDEN
- HEIM vs GEISPOLSHEIM C.J.S.\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stad
- e Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/m
- atch/200000014660113
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
- 1/match/200000014660113
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-10-10-13-30-asa-weyersheim-saint-joseph
  -strasbou@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20261010T133000
 DTEND;TZID=Europe/Paris:20261010T153000
 SUMMARY:ASA WEYERSHEIM – SAINT JOSEPH - STRASBOURG
@@ -262,9 +245,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  1/match/200000014660112
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu11-ges-bas-rhin-poule-a-2026-10-10-13-30-bask-furdenheim-geispolshei
+ m-c-j-s@ffbb-agenda
+DTSTAMP:20260831T200945Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:BASK FURDENHEIM – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 DFU11 – GES – Bas-Rhin – Poule A\n⚔️ BASK FURDEN
+ HEIM vs GEISPOLSHEIM C.J.S.\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stad
+ e Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu11/m
+ atch/200000014660113
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 1/match/200000014660113
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu11-ges-bas-rhin-poule-a-2026-10-11-15-30-nbc-sarrebourg-eckbolsheim-
  bb@ffbb-agenda
-DTSTAMP:20260830T200824Z
+DTSTAMP:20260831T200945Z
 DTSTART;TZID=Europe/Paris:20261011T153000
 DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:NBC SARREBOURG – ECKBOLSHEIM BB

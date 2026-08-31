@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-03-20-00-weitbruch-a-s-c-g-1-s-u-schiltigheim-b
  asket-bal@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
 SUMMARY:WEITBRUCH A.S.C.G - 1 – S.U. SCHILTIGHEIM BASKET BALL
@@ -41,25 +41,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14631933
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-10-03-20-30-bask-furdenheim-2-asa-gries-oberhoffen
- @ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261003T203000
-DTEND;TZID=Europe/Paris:20261003T223000
-SUMMARY:BASK FURDENHEIM - 2 – ASA GRIES / OBERHOFFEN
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs ASA
-  GRIES / OBERHOFFEN\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furden
- heim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=
- yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
- competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631934
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14631934
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-03-20-30-basket-nord-sundgau-geispolsheim-c-j-s
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261003T203000
 DTEND;TZID=Europe/Paris:20261003T223000
 SUMMARY:BASKET NORD SUNDGAU – GEISPOLSHEIM C.J.S.
@@ -73,9 +57,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14631932
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-10-04-17-30-bask-furdenheim-2-asa-gries-oberhoffen
+ @ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261004T173000
+DTEND;TZID=Europe/Paris:20261004T193000
+SUMMARY:BASK FURDENHEIM - 2 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs ASA
+  GRIES / OBERHOFFEN\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furden
+ heim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631934
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631934
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-04-17-30-holtzheim-vogesia-2-griesheim-p-molshe
  im-ls@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261004T173000
 DTEND;TZID=Europe/Paris:20261004T193000
 SUMMARY:HOLTZHEIM VOGESIA - 2 – GRIESHEIM P/MOLSHEIM LS
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-04-17-30-saint-joseph-strasbourg-1-asl-dessenhe
  im@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261004T173000
 DTEND;TZID=Europe/Paris:20261004T193000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – ASL DESSENHEIM
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-04-17-30-asa-souffelweyersheim-2-s-i-graffensta
  den-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261004T173000
 DTEND;TZID=Europe/Paris:20261004T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – S.I. GRAFFENSTADEN - 1
@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-10-17-00-geispolsheim-c-j-s-holtzheim-vogesia-2
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261010T170000
 DTEND;TZID=Europe/Paris:20261010T190000
 SUMMARY:GEISPOLSHEIM C.J.S. – HOLTZHEIM VOGESIA - 2
@@ -140,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-10-20-15-asl-dessenheim-asa-souffelweyersheim-2
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261010T201500
 DTEND;TZID=Europe/Paris:20261010T221500
 SUMMARY:ASL DESSENHEIM – ASA SOUFFELWEYERSHEIM - 2
@@ -154,9 +154,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14631954
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-10-10-20-30-griesheim-p-molsheim-ls-saint-joseph-s
+ trasbourg@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:GRIESHEIM P/MOLSHEIM LS – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ GRIESHEIM P/MOLSHEIM LS vs
+  SAINT JOSEPH - STRASBOURG - 1\n\nSALLE MUNICIPALE\n📍 Rue de l'Église 
+ Rosheim 67560\n🚗 Waze : https://waze.com/ul?ll=48.49418\,7.46665&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631955
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631955
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-10-20-30-s-u-schiltigheim-basket-ball-basket-no
  rd-sundga@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261010T203000
 DTEND;TZID=Europe/Paris:20261010T223000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – BASKET NORD SUNDGAU
@@ -173,7 +189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-10-20-30-s-i-graffenstaden-1-bask-furdenheim-2@
  ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261010T203000
 DTEND;TZID=Europe/Paris:20261010T223000
 SUMMARY:S.I. GRAFFENSTADEN - 1 – BASK FURDENHEIM - 2
@@ -188,25 +204,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14631953
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-10-10-20-30-griesheim-p-molsheim-ls-saint-joseph-s
- trasbourg@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261010T203000
-DTEND;TZID=Europe/Paris:20261010T223000
-SUMMARY:GRIESHEIM P/MOLSHEIM LS – SAINT JOSEPH - STRASBOURG - 1
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ GRIESHEIM P/MOLSHEIM LS vs
-  SAINT JOSEPH - STRASBOURG - 1\n\nSALLE MUNICIPALE\n📍 Rue de l'Église 
- Rosheim 67560\n🚗 Waze : https://waze.com/ul?ll=48.49418\,7.46665&naviga
- te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
- ://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631955
-LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14631955
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-11-17-30-asa-gries-oberhoffen-weitbruch-a-s-c-g
  -1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261011T173000
 DTEND;TZID=Europe/Paris:20261011T193000
 SUMMARY:ASA GRIES / OBERHOFFEN – WEITBRUCH A.S.C.G - 1
@@ -222,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-17-20-00-weitbruch-a-s-c-g-1-s-i-graffenstaden-
  1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261017T200000
 DTEND;TZID=Europe/Paris:20261017T220000
 SUMMARY:WEITBRUCH A.S.C.G - 1 – S.I. GRAFFENSTADEN - 1
@@ -239,7 +239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-17-20-30-basket-nord-sundgau-asa-gries-oberhoff
  en@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261017T203000
 DTEND;TZID=Europe/Paris:20261017T223000
 SUMMARY:BASKET NORD SUNDGAU – ASA GRIES / OBERHOFFEN
@@ -253,25 +253,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14631968
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-10-17-20-30-bask-furdenheim-2-asl-dessenheim@ffbb-
- agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261017T203000
-DTEND;TZID=Europe/Paris:20261017T223000
-SUMMARY:BASK FURDENHEIM - 2 – ASL DESSENHEIM
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs ASL
-  DESSENHEIM\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 671
- 17\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631970
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14631970
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-18-17-30-asa-souffelweyersheim-2-griesheim-p-mo
  lsheim-ls@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261018T173000
 DTEND;TZID=Europe/Paris:20261018T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – GRIESHEIM P/MOLSHEIM LS
@@ -288,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-18-17-30-saint-joseph-strasbourg-1-geispolsheim
  -c-j-s@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261018T173000
 DTEND;TZID=Europe/Paris:20261018T193000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – GEISPOLSHEIM C.J.S.
@@ -304,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-10-18-17-30-holtzheim-vogesia-2-s-u-schiltigheim-b
  asket-bal@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261018T173000
 DTEND;TZID=Europe/Paris:20261018T193000
 SUMMARY:HOLTZHEIM VOGESIA - 2 – S.U. SCHILTIGHEIM BASKET BALL
@@ -318,9 +302,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14631973
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-10-18-17-30-bask-furdenheim-2-asl-dessenheim@ffbb-
+ agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261018T173000
+DTEND;TZID=Europe/Paris:20261018T193000
+SUMMARY:BASK FURDENHEIM - 2 – ASL DESSENHEIM
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs ASL
+  DESSENHEIM\n\nGYMNASE WILLGOTTHEIM\n📍 Rue Principale Willgottheim 6737
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.67132\,7.51126&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631970
+LOCATION:GYMNASE WILLGOTTHEIM\, Rue Principale Willgottheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631970
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-07-17-00-geispolsheim-c-j-s-asa-souffelweyershe
  im-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261107T170000
 DTEND;TZID=Europe/Paris:20261107T190000
 SUMMARY:GEISPOLSHEIM C.J.S. – ASA SOUFFELWEYERSHEIM - 2
@@ -334,26 +334,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14631986
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-11-07-20-30-s-u-schiltigheim-basket-ball-saint-jos
- eph-stras@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261107T203000
-DTEND;TZID=Europe/Paris:20261107T223000
-SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – SAINT JOSEPH - STRASBOURG - 1
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.U. SCHILTIGHEIM BASKET B
- ALL vs SAINT JOSEPH - STRASBOURG - 1\n\nCOMPLEXE NELSON MANDELA SALLE 1\n
- 📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=
- 48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
- pnm/match/200000014631987
-LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14631987
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-07-20-30-asl-dessenheim-weitbruch-a-s-c-g-1@ffb
  b-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261107T203000
 DTEND;TZID=Europe/Paris:20261107T223000
 SUMMARY:ASL DESSENHEIM – WEITBRUCH A.S.C.G - 1
@@ -367,42 +350,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14631990
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-11-07-20-30-asa-gries-oberhoffen-holtzheim-vogesia
- -2@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261107T203000
-DTEND;TZID=Europe/Paris:20261107T223000
-SUMMARY:ASA GRIES / OBERHOFFEN – HOLTZHEIM VOGESIA - 2
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN vs 
- HOLTZHEIM VOGESIA - 2\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67
- 240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631988
-LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14631988
-END:VEVENT
-BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-11-07-20-30-s-i-graffenstaden-1-basket-nord-sundga
- u@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261107T203000
-DTEND;TZID=Europe/Paris:20261107T223000
-SUMMARY:S.I. GRAFFENSTADEN - 1 – BASKET NORD SUNDGAU
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
- BASKET NORD SUNDGAU\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-G
- raffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146
- 31989
-LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14631989
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-07-20-30-griesheim-p-molsheim-ls-bask-furdenhei
  m-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261107T203000
 DTEND;TZID=Europe/Paris:20261107T223000
 SUMMARY:GRIESHEIM P/MOLSHEIM LS – BASK FURDENHEIM - 2
@@ -418,26 +368,59 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14631991
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-11-14-20-00-weitbruch-a-s-c-g-1-griesheim-p-molshe
- im-ls@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261114T200000
-DTEND;TZID=Europe/Paris:20261114T220000
-SUMMARY:WEITBRUCH A.S.C.G - 1 – GRIESHEIM P/MOLSHEIM LS
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ WEITBRUCH A.S.C.G - 1 vs G
- RIESHEIM P/MOLSHEIM LS\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église 
- Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navi
- gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
- ps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146320
- 05
-LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+UID:pnm-ges-poule-b-2026-11-07-20-30-s-i-graffenstaden-1-basket-nord-sundga
+ u@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:S.I. GRAFFENSTADEN - 1 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
+ BASKET NORD SUNDGAU\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-G
+ raffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146
+ 31989
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
 URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632005
+ 14631989
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-11-07-20-30-s-u-schiltigheim-basket-ball-saint-jos
+ eph-stras@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.U. SCHILTIGHEIM BASKET B
+ ALL vs SAINT JOSEPH - STRASBOURG - 1\n\nCOMPLEXE NELSON MANDELA SALLE 1\n
+ 📍 Rue du Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=
+ 48.61103\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ pnm/match/200000014631987
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631987
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-11-07-20-30-asa-gries-oberhoffen-holtzheim-vogesia
+ -2@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:ASA GRIES / OBERHOFFEN – HOLTZHEIM VOGESIA - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ HOLTZHEIM VOGESIA - 2\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67
+ 240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014631988
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14631988
 END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-14-20-00-saint-joseph-strasbourg-1-asa-gries-ob
  erhoffen@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – ASA GRIES / OBERHOFFEN
@@ -452,11 +435,11 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632008
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-11-14-20-30-bask-furdenheim-2-geispolsheim-c-j-s@f
+UID:pnm-ges-poule-b-2026-11-14-20-00-bask-furdenheim-2-geispolsheim-c-j-s@f
  fbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261114T203000
-DTEND;TZID=Europe/Paris:20261114T223000
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:BASK FURDENHEIM - 2 – GEISPOLSHEIM C.J.S.
 DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs GEI
  SPOLSHEIM C.J.S.\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenhei
@@ -468,9 +451,26 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632006
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-11-14-20-00-weitbruch-a-s-c-g-1-griesheim-p-molshe
+ im-ls@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:WEITBRUCH A.S.C.G - 1 – GRIESHEIM P/MOLSHEIM LS
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ WEITBRUCH A.S.C.G - 1 vs G
+ RIESHEIM P/MOLSHEIM LS\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église 
+ Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000146320
+ 05
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632005
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-14-20-30-basket-nord-sundgau-asl-dessenheim@ffb
  b-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261114T203000
 DTEND;TZID=Europe/Paris:20261114T223000
 SUMMARY:BASKET NORD SUNDGAU – ASL DESSENHEIM
@@ -486,7 +486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-15-17-30-holtzheim-vogesia-2-s-i-graffenstaden-
  1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261115T173000
 DTEND;TZID=Europe/Paris:20261115T193000
 SUMMARY:HOLTZHEIM VOGESIA - 2 – S.I. GRAFFENSTADEN - 1
@@ -502,7 +502,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-15-17-30-asa-souffelweyersheim-2-s-u-schiltighe
  im-basket@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261115T173000
 DTEND;TZID=Europe/Paris:20261115T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – S.U. SCHILTIGHEIM BASKET BALL
@@ -519,7 +519,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-21-18-30-geispolsheim-c-j-s-weitbruch-a-s-c-g-1
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261121T183000
 DTEND;TZID=Europe/Paris:20261121T203000
 SUMMARY:GEISPOLSHEIM C.J.S. – WEITBRUCH A.S.C.G - 1
@@ -535,7 +535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-21-20-00-asl-dessenheim-holtzheim-vogesia-2@ffb
  b-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261121T200000
 DTEND;TZID=Europe/Paris:20261121T220000
 SUMMARY:ASL DESSENHEIM – HOLTZHEIM VOGESIA - 2
@@ -549,26 +549,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632026
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-11-21-20-30-s-i-graffenstaden-1-saint-joseph-stras
- bourg-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261121T203000
-DTEND;TZID=Europe/Paris:20261121T223000
-SUMMARY:S.I. GRAFFENSTADEN - 1 – SAINT JOSEPH - STRASBOURG - 1
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
- SAINT JOSEPH - STRASBOURG - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste 
- Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\
- ,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
- le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/
- 200000014632025
-LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632025
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-21-20-30-s-u-schiltigheim-basket-ball-bask-furd
  enheim-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261121T203000
 DTEND;TZID=Europe/Paris:20261121T223000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – BASK FURDENHEIM - 2
@@ -585,7 +568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-21-20-30-asa-gries-oberhoffen-asa-souffelweyers
  heim-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261121T203000
 DTEND;TZID=Europe/Paris:20261121T223000
 SUMMARY:ASA GRIES / OBERHOFFEN – ASA SOUFFELWEYERSHEIM - 2
@@ -599,9 +582,26 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632024
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-11-21-20-30-s-i-graffenstaden-1-saint-joseph-stras
+ bourg-1@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:S.I. GRAFFENSTADEN - 1 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
+ SAINT JOSEPH - STRASBOURG - 1\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste 
+ Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\
+ ,7.71258&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/
+ 200000014632025
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632025
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-22-16-30-griesheim-p-molsheim-ls-basket-nord-su
  ndgau@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261122T163000
 DTEND;TZID=Europe/Paris:20261122T183000
 SUMMARY:GRIESHEIM P/MOLSHEIM LS – BASKET NORD SUNDGAU
@@ -617,7 +617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-28-17-00-holtzheim-vogesia-2-basket-nord-sundga
  u@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261128T170000
 DTEND;TZID=Europe/Paris:20261128T190000
 SUMMARY:HOLTZHEIM VOGESIA - 2 – BASKET NORD SUNDGAU
@@ -633,7 +633,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-28-20-15-asl-dessenheim-s-u-schiltigheim-basket
  -ball@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261128T201500
 DTEND;TZID=Europe/Paris:20261128T221500
 SUMMARY:ASL DESSENHEIM – S.U. SCHILTIGHEIM BASKET BALL
@@ -649,7 +649,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-28-20-30-s-i-graffenstaden-1-asa-gries-oberhoff
  en@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261128T203000
 DTEND;TZID=Europe/Paris:20261128T223000
 SUMMARY:S.I. GRAFFENSTADEN - 1 – ASA GRIES / OBERHOFFEN
@@ -666,7 +666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-28-20-30-griesheim-p-molsheim-ls-geispolsheim-c
  -j-s@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261128T203000
 DTEND;TZID=Europe/Paris:20261128T223000
 SUMMARY:GRIESHEIM P/MOLSHEIM LS – GEISPOLSHEIM C.J.S.
@@ -684,7 +684,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-29-17-30-asa-souffelweyersheim-2-bask-furdenhei
  m-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261129T173000
 DTEND;TZID=Europe/Paris:20261129T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – BASK FURDENHEIM - 2
@@ -701,7 +701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-11-29-17-30-saint-joseph-strasbourg-1-weitbruch-a-
  s-c-g-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261129T173000
 DTEND;TZID=Europe/Paris:20261129T193000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – WEITBRUCH A.S.C.G - 1
@@ -718,7 +718,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-12-05-17-00-geispolsheim-c-j-s-asl-dessenheim@ffbb
  -agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261205T170000
 DTEND;TZID=Europe/Paris:20261205T190000
 SUMMARY:GEISPOLSHEIM C.J.S. – ASL DESSENHEIM
@@ -732,9 +732,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632061
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-12-05-20-00-bask-furdenheim-2-holtzheim-vogesia-2@
+ ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:BASK FURDENHEIM - 2 – HOLTZHEIM VOGESIA - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs HOL
+ TZHEIM VOGESIA - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenh
+ eim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632060
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632060
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-12-05-20-00-weitbruch-a-s-c-g-1-asa-souffelweyersh
  eim-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T220000
 SUMMARY:WEITBRUCH A.S.C.G - 1 – ASA SOUFFELWEYERSHEIM - 2
@@ -751,7 +767,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-12-05-20-30-s-u-schiltigheim-basket-ball-s-i-graff
  enstaden-@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261205T203000
 DTEND;TZID=Europe/Paris:20261205T223000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – S.I. GRAFFENSTADEN - 1
@@ -766,25 +782,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632062
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-12-05-20-30-bask-furdenheim-2-holtzheim-vogesia-2@
- ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261205T203000
-DTEND;TZID=Europe/Paris:20261205T223000
-SUMMARY:BASK FURDENHEIM - 2 – HOLTZHEIM VOGESIA - 2
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs HOL
- TZHEIM VOGESIA - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenh
- eim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632060
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632060
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-12-06-17-30-basket-nord-sundgau-saint-joseph-stras
  bourg-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261206T173000
 DTEND;TZID=Europe/Paris:20261206T193000
 SUMMARY:BASKET NORD SUNDGAU – SAINT JOSEPH - STRASBOURG - 1
@@ -800,7 +800,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-12-06-17-30-asa-gries-oberhoffen-griesheim-p-molsh
  eim-ls@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261206T173000
 DTEND;TZID=Europe/Paris:20261206T193000
 SUMMARY:ASA GRIES / OBERHOFFEN – GRIESHEIM P/MOLSHEIM LS
@@ -814,9 +814,41 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632063
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-12-12-17-15-bask-furdenheim-2-weitbruch-a-s-c-g-1@
+ ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261212T171500
+DTEND;TZID=Europe/Paris:20261212T191500
+SUMMARY:BASK FURDENHEIM - 2 – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs WEI
+ TBRUCH A.S.C.G - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenh
+ eim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632076
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632076
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-b-2026-12-12-20-30-griesheim-p-molsheim-ls-asl-dessenheim
+ @ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:GRIESHEIM P/MOLSHEIM LS – ASL DESSENHEIM
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ GRIESHEIM P/MOLSHEIM LS vs
+  ASL DESSENHEIM\n\nSALLE MUNICIPALE\n📍 Rue de l'Église Rosheim 67560\n
+ 🚗 Waze : https://waze.com/ul?ll=48.49418\,7.46665&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/pnm/match/200000014632081
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632081
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-12-12-20-30-s-i-graffenstaden-1-geispolsheim-c-j-s
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261212T203000
 DTEND;TZID=Europe/Paris:20261212T223000
 SUMMARY:S.I. GRAFFENSTADEN - 1 – GEISPOLSHEIM C.J.S.
@@ -831,41 +863,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632080
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-12-12-20-30-griesheim-p-molsheim-ls-asl-dessenheim
- @ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261212T203000
-DTEND;TZID=Europe/Paris:20261212T223000
-SUMMARY:GRIESHEIM P/MOLSHEIM LS – ASL DESSENHEIM
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ GRIESHEIM P/MOLSHEIM LS vs
-  ASL DESSENHEIM\n\nSALLE MUNICIPALE\n📍 Rue de l'Église Rosheim 67560\n
- 🚗 Waze : https://waze.com/ul?ll=48.49418\,7.46665&navigate=yes\n\n📢 
- Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
- .ffbb.com/ligues/ges/competitions/pnm/match/200000014632081
-LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632081
-END:VEVENT
-BEGIN:VEVENT
-UID:pnm-ges-poule-b-2026-12-12-20-30-bask-furdenheim-2-weitbruch-a-s-c-g-1@
- ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20261212T203000
-DTEND;TZID=Europe/Paris:20261212T223000
-SUMMARY:BASK FURDENHEIM - 2 – WEITBRUCH A.S.C.G - 1
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs WEI
- TBRUCH A.S.C.G - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenh
- eim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632076
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632076
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-12-13-17-30-asa-souffelweyersheim-2-basket-nord-su
  ndgau@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261213T173000
 DTEND;TZID=Europe/Paris:20261213T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – BASKET NORD SUNDGAU
@@ -882,7 +882,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-12-13-17-30-holtzheim-vogesia-2-saint-joseph-stras
  bourg-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261213T173000
 DTEND;TZID=Europe/Paris:20261213T193000
 SUMMARY:HOLTZHEIM VOGESIA - 2 – SAINT JOSEPH - STRASBOURG - 1
@@ -898,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2026-12-13-17-30-asa-gries-oberhoffen-s-u-schiltigheim-
  basket-ba@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20261213T173000
 DTEND;TZID=Europe/Paris:20261213T193000
 SUMMARY:ASA GRIES / OBERHOFFEN – S.U. SCHILTIGHEIM BASKET BALL
@@ -914,7 +914,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-09-18-30-geispolsheim-c-j-s-asa-gries-oberhoffe
  n@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270109T183000
 DTEND;TZID=Europe/Paris:20270109T203000
 SUMMARY:GEISPOLSHEIM C.J.S. – ASA GRIES / OBERHOFFEN
@@ -930,7 +930,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-09-20-00-saint-joseph-strasbourg-1-asa-souffelw
  eyersheim@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270109T200000
 DTEND;TZID=Europe/Paris:20270109T220000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – ASA SOUFFELWEYERSHEIM - 2
@@ -947,7 +947,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-09-20-00-weitbruch-a-s-c-g-1-holtzheim-vogesia-
  2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270109T200000
 DTEND;TZID=Europe/Paris:20270109T220000
 SUMMARY:WEITBRUCH A.S.C.G - 1 – HOLTZHEIM VOGESIA - 2
@@ -961,9 +961,26 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632095
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-01-09-20-30-s-u-schiltigheim-basket-ball-griesheim
+ -p-molshe@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – GRIESHEIM P/MOLSHEIM LS
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.U. SCHILTIGHEIM BASKET B
+ ALL vs GRIESHEIM P/MOLSHEIM LS\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Ru
+ e du Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.6110
+ 3\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/matc
+ h/200000014632098
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632098
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-09-20-30-basket-nord-sundgau-bask-furdenheim-2@
  ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270109T203000
 DTEND;TZID=Europe/Paris:20270109T223000
 SUMMARY:BASKET NORD SUNDGAU – BASK FURDENHEIM - 2
@@ -979,7 +996,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-09-20-30-asl-dessenheim-s-i-graffenstaden-1@ffb
  b-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270109T203000
 DTEND;TZID=Europe/Paris:20270109T223000
 SUMMARY:ASL DESSENHEIM – S.I. GRAFFENSTADEN - 1
@@ -993,26 +1010,26 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632099
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-01-09-20-30-s-u-schiltigheim-basket-ball-griesheim
- -p-molshe@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270109T203000
-DTEND;TZID=Europe/Paris:20270109T223000
-SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – GRIESHEIM P/MOLSHEIM LS
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.U. SCHILTIGHEIM BASKET B
- ALL vs GRIESHEIM P/MOLSHEIM LS\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Ru
- e du Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.6110
- 3\,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
- ille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/matc
- h/200000014632098
-LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+UID:pnm-ges-poule-b-2027-01-16-17-15-bask-furdenheim-2-saint-joseph-strasbo
+ urg-1@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270116T171500
+DTEND;TZID=Europe/Paris:20270116T191500
+SUMMARY:BASK FURDENHEIM - 2 – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs SAI
+ NT JOSEPH - STRASBOURG - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade
+  Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463
+ 2113
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
 URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632098
+ 14632113
 END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-16-20-00-weitbruch-a-s-c-g-1-basket-nord-sundga
  u@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270116T200000
 DTEND;TZID=Europe/Paris:20270116T220000
 SUMMARY:WEITBRUCH A.S.C.G - 1 – BASKET NORD SUNDGAU
@@ -1028,7 +1045,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-16-20-30-s-i-graffenstaden-1-griesheim-p-molshe
  im-ls@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270116T203000
 DTEND;TZID=Europe/Paris:20270116T223000
 SUMMARY:S.I. GRAFFENSTADEN - 1 – GRIESHEIM P/MOLSHEIM LS
@@ -1043,26 +1060,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632117
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-01-16-20-30-bask-furdenheim-2-saint-joseph-strasbo
- urg-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270116T203000
-DTEND;TZID=Europe/Paris:20270116T223000
-SUMMARY:BASK FURDENHEIM - 2 – SAINT JOSEPH - STRASBOURG - 1
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs SAI
- NT JOSEPH - STRASBOURG - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade
-  Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463
- 2113
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632113
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-16-20-30-s-u-schiltigheim-basket-ball-geispolsh
  eim-c-j-s@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270116T203000
 DTEND;TZID=Europe/Paris:20270116T223000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – GEISPOLSHEIM C.J.S.
@@ -1079,7 +1079,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-17-17-30-asa-gries-oberhoffen-asl-dessenheim@ff
  bb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270117T173000
 DTEND;TZID=Europe/Paris:20270117T193000
 SUMMARY:ASA GRIES / OBERHOFFEN – ASL DESSENHEIM
@@ -1095,7 +1095,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-17-17-30-asa-souffelweyersheim-2-holtzheim-voge
  sia-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270117T173000
 DTEND;TZID=Europe/Paris:20270117T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – HOLTZHEIM VOGESIA - 2
@@ -1112,7 +1112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-23-18-30-geispolsheim-c-j-s-basket-nord-sundgau
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270123T183000
 DTEND;TZID=Europe/Paris:20270123T203000
 SUMMARY:GEISPOLSHEIM C.J.S. – BASKET NORD SUNDGAU
@@ -1126,9 +1126,42 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632130
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-01-23-20-30-asl-dessenheim-saint-joseph-strasbourg
+ -1@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:ASL DESSENHEIM – SAINT JOSEPH - STRASBOURG - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASL DESSENHEIM vs SAINT JO
+ SEPH - STRASBOURG - 1\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Desse
+ nheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632134
+LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632134
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-01-23-20-30-s-u-schiltigheim-basket-ball-weitbruch
+ -a-s-c-g-@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.U. SCHILTIGHEIM BASKET B
+ ALL vs WEITBRUCH A.S.C.G - 1\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Rue 
+ du Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.61103\
+ ,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/
+ 200000014632131
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632131
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-23-20-30-griesheim-p-molsheim-ls-holtzheim-voge
  sia-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270123T203000
 DTEND;TZID=Europe/Paris:20270123T223000
 SUMMARY:GRIESHEIM P/MOLSHEIM LS – HOLTZHEIM VOGESIA - 2
@@ -1144,42 +1177,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632135
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-01-23-20-30-s-u-schiltigheim-basket-ball-weitbruch
- -a-s-c-g-@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270123T203000
-DTEND;TZID=Europe/Paris:20270123T223000
-SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – WEITBRUCH A.S.C.G - 1
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.U. SCHILTIGHEIM BASKET B
- ALL vs WEITBRUCH A.S.C.G - 1\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Rue 
- du Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.61103\
- ,7.76747&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
- le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/
- 200000014632131
-LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632131
-END:VEVENT
-BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-01-23-20-30-asa-gries-oberhoffen-bask-furdenheim-2
- @ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270123T203000
-DTEND;TZID=Europe/Paris:20270123T223000
-SUMMARY:ASA GRIES / OBERHOFFEN – BASK FURDENHEIM - 2
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN vs 
- BASK FURDENHEIM - 2\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 6724
- 0\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632132
-LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632132
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-23-20-30-s-i-graffenstaden-1-asa-souffelweyersh
  eim-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270123T203000
 DTEND;TZID=Europe/Paris:20270123T223000
 SUMMARY:S.I. GRAFFENSTADEN - 1 – ASA SOUFFELWEYERSHEIM - 2
@@ -1194,25 +1194,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632133
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-01-23-20-30-asl-dessenheim-saint-joseph-strasbourg
- -1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+UID:pnm-ges-poule-b-2027-01-23-20-30-asa-gries-oberhoffen-bask-furdenheim-2
+ @ffbb-agenda
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270123T203000
 DTEND;TZID=Europe/Paris:20270123T223000
-SUMMARY:ASL DESSENHEIM – SAINT JOSEPH - STRASBOURG - 1
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASL DESSENHEIM vs SAINT JO
- SEPH - STRASBOURG - 1\n\nSALLE SPORTS ET LOISIRS\n📍 Rue de Colmar Desse
- nheim 68600\n🚗 Waze : https://waze.com/ul?ll=47.98036\,7.48426&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632134
-LOCATION:SALLE SPORTS ET LOISIRS\, Rue de Colmar Dessenheim 68600
+SUMMARY:ASA GRIES / OBERHOFFEN – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN vs 
+ BASK FURDENHEIM - 2\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 6724
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632132
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
 URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632134
+ 14632132
 END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-30-17-00-holtzheim-vogesia-2-geispolsheim-c-j-s
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270130T170000
 DTEND;TZID=Europe/Paris:20270130T190000
 SUMMARY:HOLTZHEIM VOGESIA - 2 – GEISPOLSHEIM C.J.S.
@@ -1228,7 +1228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-30-20-00-saint-joseph-strasbourg-1-griesheim-p-
  molsheim-@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270130T200000
 DTEND;TZID=Europe/Paris:20270130T220000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – GRIESHEIM P/MOLSHEIM LS
@@ -1245,7 +1245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-30-20-00-weitbruch-a-s-c-g-1-asa-gries-oberhoff
  en@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270130T200000
 DTEND;TZID=Europe/Paris:20270130T220000
 SUMMARY:WEITBRUCH A.S.C.G - 1 – ASA GRIES / OBERHOFFEN
@@ -1262,7 +1262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-30-20-30-basket-nord-sundgau-s-u-schiltigheim-b
  asket-bal@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270130T203000
 DTEND;TZID=Europe/Paris:20270130T223000
 SUMMARY:BASKET NORD SUNDGAU – S.U. SCHILTIGHEIM BASKET BALL
@@ -1276,11 +1276,11 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632149
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-01-30-20-30-bask-furdenheim-2-s-i-graffenstaden-1@
+UID:pnm-ges-poule-b-2027-01-31-17-30-bask-furdenheim-2-s-i-graffenstaden-1@
  ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270130T203000
-DTEND;TZID=Europe/Paris:20270130T223000
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270131T173000
+DTEND;TZID=Europe/Paris:20270131T193000
 SUMMARY:BASK FURDENHEIM - 2 – S.I. GRAFFENSTADEN - 1
 DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs S.I
  . GRAFFENSTADEN - 1\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furden
@@ -1294,7 +1294,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-01-31-17-30-asa-souffelweyersheim-2-asl-dessenheim
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270131T173000
 DTEND;TZID=Europe/Paris:20270131T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – ASL DESSENHEIM
@@ -1310,7 +1310,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-02-06-18-30-geispolsheim-c-j-s-saint-joseph-strasb
  ourg-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270206T183000
 DTEND;TZID=Europe/Paris:20270206T203000
 SUMMARY:GEISPOLSHEIM C.J.S. – SAINT JOSEPH - STRASBOURG - 1
@@ -1325,9 +1325,26 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632170
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-02-06-20-30-s-i-graffenstaden-1-weitbruch-a-s-c-g-
+ 1@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:S.I. GRAFFENSTADEN - 1 – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
+ WEITBRUCH A.S.C.G - 1\n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Lixenbuhl Illkirc
+ h-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.53006\,7.7282
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632167
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632167
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-02-06-20-30-griesheim-p-molsheim-ls-asa-souffelwey
  ersheim-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270206T203000
 DTEND;TZID=Europe/Paris:20270206T223000
 SUMMARY:GRIESHEIM P/MOLSHEIM LS – ASA SOUFFELWEYERSHEIM - 2
@@ -1343,26 +1360,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632169
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-02-06-20-30-s-i-graffenstaden-1-weitbruch-a-s-c-g-
- 1@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270206T203000
-DTEND;TZID=Europe/Paris:20270206T223000
-SUMMARY:S.I. GRAFFENSTADEN - 1 – WEITBRUCH A.S.C.G - 1
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
- WEITBRUCH A.S.C.G - 1\n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Lixenbuhl Illkirc
- h-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.53006\,7.7282
- 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
-  : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632167
-LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632167
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-02-06-20-30-s-u-schiltigheim-basket-ball-holtzheim
  -vogesia-@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270206T203000
 DTEND;TZID=Europe/Paris:20270206T223000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – HOLTZHEIM VOGESIA - 2
@@ -1379,7 +1379,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-02-06-20-30-asl-dessenheim-bask-furdenheim-2@ffbb-
  agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270206T203000
 DTEND;TZID=Europe/Paris:20270206T223000
 SUMMARY:ASL DESSENHEIM – BASK FURDENHEIM - 2
@@ -1395,7 +1395,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-02-07-17-30-asa-gries-oberhoffen-basket-nord-sundg
  au@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270207T173000
 DTEND;TZID=Europe/Paris:20270207T193000
 SUMMARY:ASA GRIES / OBERHOFFEN – BASKET NORD SUNDGAU
@@ -1409,9 +1409,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632166
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-02-13-20-00-bask-furdenheim-2-griesheim-p-molsheim
+ -ls@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:BASK FURDENHEIM - 2 – GRIESHEIM P/MOLSHEIM LS
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs GRI
+ ESHEIM P/MOLSHEIM LS\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furde
+ nheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632189
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632189
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-02-13-20-00-weitbruch-a-s-c-g-1-asl-dessenheim@ffb
  b-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270213T200000
 DTEND;TZID=Europe/Paris:20270213T220000
 SUMMARY:WEITBRUCH A.S.C.G - 1 – ASL DESSENHEIM
@@ -1425,25 +1441,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632188
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-02-13-20-30-bask-furdenheim-2-griesheim-p-molsheim
- -ls@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270213T203000
-DTEND;TZID=Europe/Paris:20270213T223000
-SUMMARY:BASK FURDENHEIM - 2 – GRIESHEIM P/MOLSHEIM LS
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs GRI
- ESHEIM P/MOLSHEIM LS\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furde
- nheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632189
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632189
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-02-13-20-30-basket-nord-sundgau-s-i-graffenstaden-
  1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270213T203000
 DTEND;TZID=Europe/Paris:20270213T223000
 SUMMARY:BASKET NORD SUNDGAU – S.I. GRAFFENSTADEN - 1
@@ -1459,7 +1459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-02-14-17-30-asa-souffelweyersheim-2-geispolsheim-c
  -j-s@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270214T173000
 DTEND;TZID=Europe/Paris:20270214T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – GEISPOLSHEIM C.J.S.
@@ -1474,25 +1474,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632184
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-02-14-17-30-holtzheim-vogesia-2-asa-gries-oberhoff
- en@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270214T173000
-DTEND;TZID=Europe/Paris:20270214T193000
-SUMMARY:HOLTZHEIM VOGESIA - 2 – ASA GRIES / OBERHOFFEN
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ HOLTZHEIM VOGESIA - 2 vs A
- SA GRIES / OBERHOFFEN\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 6
- 7810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\
- n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
- itions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632186
-LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632186
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-02-14-17-30-saint-joseph-strasbourg-1-s-u-schiltig
  heim-bask@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270214T173000
 DTEND;TZID=Europe/Paris:20270214T193000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – S.U. SCHILTIGHEIM BASKET BALL
@@ -1507,9 +1491,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632185
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-02-14-17-30-holtzheim-vogesia-2-asa-gries-oberhoff
+ en@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270214T173000
+DTEND;TZID=Europe/Paris:20270214T193000
+SUMMARY:HOLTZHEIM VOGESIA - 2 – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ HOLTZHEIM VOGESIA - 2 vs A
+ SA GRIES / OBERHOFFEN\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 6
+ 7810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632186
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632186
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-03-13-18-30-geispolsheim-c-j-s-bask-furdenheim-2@f
  fbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270313T183000
 DTEND;TZID=Europe/Paris:20270313T203000
 SUMMARY:GEISPOLSHEIM C.J.S. – BASK FURDENHEIM - 2
@@ -1523,26 +1523,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632204
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-03-13-20-30-s-i-graffenstaden-1-holtzheim-vogesia-
- 2@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270313T203000
-DTEND;TZID=Europe/Paris:20270313T223000
-SUMMARY:S.I. GRAFFENSTADEN - 1 – HOLTZHEIM VOGESIA - 2
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
- HOLTZHEIM VOGESIA - 2\n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Lixenbuhl Illkirc
- h-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.53006\,7.7282
- 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
-  : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632207
-LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632207
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-03-13-20-30-asl-dessenheim-basket-nord-sundgau@ffb
  b-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270313T203000
 DTEND;TZID=Europe/Paris:20270313T223000
 SUMMARY:ASL DESSENHEIM – BASKET NORD SUNDGAU
@@ -1558,7 +1541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-03-13-20-30-s-u-schiltigheim-basket-ball-asa-souff
  elweyersh@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270313T203000
 DTEND;TZID=Europe/Paris:20270313T223000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – ASA SOUFFELWEYERSHEIM - 2
@@ -1573,9 +1556,26 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632205
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-03-13-20-30-s-i-graffenstaden-1-holtzheim-vogesia-
+ 2@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:S.I. GRAFFENSTADEN - 1 – HOLTZHEIM VOGESIA - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ S.I. GRAFFENSTADEN - 1 vs 
+ HOLTZHEIM VOGESIA - 2\n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Lixenbuhl Illkirc
+ h-Graffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.53006\,7.7282
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632207
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632207
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-03-14-16-30-griesheim-p-molsheim-ls-weitbruch-a-s-
  c-g-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270314T163000
 DTEND;TZID=Europe/Paris:20270314T183000
 SUMMARY:GRIESHEIM P/MOLSHEIM LS – WEITBRUCH A.S.C.G - 1
@@ -1591,7 +1591,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-03-14-17-30-asa-gries-oberhoffen-saint-joseph-stra
  sbourg-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270314T173000
 DTEND;TZID=Europe/Paris:20270314T193000
 SUMMARY:ASA GRIES / OBERHOFFEN – SAINT JOSEPH - STRASBOURG - 1
@@ -1607,7 +1607,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-03-20-20-00-weitbruch-a-s-c-g-1-geispolsheim-c-j-s
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270320T200000
 DTEND;TZID=Europe/Paris:20270320T220000
 SUMMARY:WEITBRUCH A.S.C.G - 1 – GEISPOLSHEIM C.J.S.
@@ -1623,7 +1623,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-03-20-20-30-saint-joseph-strasbourg-1-s-i-graffens
  taden-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270320T203000
 DTEND;TZID=Europe/Paris:20270320T223000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – S.I. GRAFFENSTADEN - 1
@@ -1638,26 +1638,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632223
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-03-20-20-30-bask-furdenheim-2-s-u-schiltigheim-bas
- ket-ball@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270320T203000
-DTEND;TZID=Europe/Paris:20270320T223000
-SUMMARY:BASK FURDENHEIM - 2 – S.U. SCHILTIGHEIM BASKET BALL
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs S.U
- . SCHILTIGHEIM BASKET BALL\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade
-  Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463
- 2221
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632221
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-03-20-20-30-basket-nord-sundgau-griesheim-p-molshe
  im-ls@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270320T203000
 DTEND;TZID=Europe/Paris:20270320T223000
 SUMMARY:BASKET NORD SUNDGAU – GRIESHEIM P/MOLSHEIM LS
@@ -1671,25 +1654,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632225
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-03-21-17-30-holtzheim-vogesia-2-asl-dessenheim@ffb
- b-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270321T173000
-DTEND;TZID=Europe/Paris:20270321T193000
-SUMMARY:HOLTZHEIM VOGESIA - 2 – ASL DESSENHEIM
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ HOLTZHEIM VOGESIA - 2 vs A
- SL DESSENHEIM\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 67810\n
- 🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\n📢 
- Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
- .ffbb.com/ligues/ges/competitions/pnm/match/200000014632224
-LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632224
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-03-21-17-30-asa-souffelweyersheim-2-asa-gries-ober
  hoffen@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270321T173000
 DTEND;TZID=Europe/Paris:20270321T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – ASA GRIES / OBERHOFFEN
@@ -1704,9 +1671,42 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632222
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-03-21-17-30-holtzheim-vogesia-2-asl-dessenheim@ffb
+ b-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270321T173000
+DTEND;TZID=Europe/Paris:20270321T193000
+SUMMARY:HOLTZHEIM VOGESIA - 2 – ASL DESSENHEIM
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ HOLTZHEIM VOGESIA - 2 vs A
+ SL DESSENHEIM\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 67810\n
+ 🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/pnm/match/200000014632224
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632224
+END:VEVENT
+BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-03-21-17-30-bask-furdenheim-2-s-u-schiltigheim-bas
+ ket-ball@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270321T173000
+DTEND;TZID=Europe/Paris:20270321T193000
+SUMMARY:BASK FURDENHEIM - 2 – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs S.U
+ . SCHILTIGHEIM BASKET BALL\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade
+  Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/pnm/match/20000001463
+ 2221
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632221
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-03-17-00-geispolsheim-c-j-s-griesheim-p-molshei
  m-ls@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270403T170000
 DTEND;TZID=Europe/Paris:20270403T190000
 SUMMARY:GEISPOLSHEIM C.J.S. – GRIESHEIM P/MOLSHEIM LS
@@ -1720,9 +1720,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632243
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-04-03-17-15-bask-furdenheim-2-asa-souffelweyershei
+ m-2@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270403T171500
+DTEND;TZID=Europe/Paris:20270403T191500
+SUMMARY:BASK FURDENHEIM - 2 – ASA SOUFFELWEYERSHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs ASA
+  SOUFFELWEYERSHEIM - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Fur
+ denheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632238
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632238
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-03-20-00-weitbruch-a-s-c-g-1-saint-joseph-stras
  bourg-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270403T200000
 DTEND;TZID=Europe/Paris:20270403T220000
 SUMMARY:WEITBRUCH A.S.C.G - 1 – SAINT JOSEPH - STRASBOURG - 1
@@ -1739,7 +1755,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-03-20-30-s-u-schiltigheim-basket-ball-asl-desse
  nheim@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270403T203000
 DTEND;TZID=Europe/Paris:20270403T223000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – ASL DESSENHEIM
@@ -1756,7 +1772,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-03-20-30-basket-nord-sundgau-holtzheim-vogesia-
  2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270403T203000
 DTEND;TZID=Europe/Paris:20270403T223000
 SUMMARY:BASKET NORD SUNDGAU – HOLTZHEIM VOGESIA - 2
@@ -1770,25 +1786,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632240
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-04-03-20-30-bask-furdenheim-2-asa-souffelweyershei
- m-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270403T203000
-DTEND;TZID=Europe/Paris:20270403T223000
-SUMMARY:BASK FURDENHEIM - 2 – ASA SOUFFELWEYERSHEIM - 2
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs ASA
-  SOUFFELWEYERSHEIM - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Fur
- denheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&naviga
- te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
- ://competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632238
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632238
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-04-17-30-asa-gries-oberhoffen-s-i-graffenstaden
  -1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270404T173000
 DTEND;TZID=Europe/Paris:20270404T193000
 SUMMARY:ASA GRIES / OBERHOFFEN – S.I. GRAFFENSTADEN - 1
@@ -1804,7 +1804,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-10-20-30-asl-dessenheim-geispolsheim-c-j-s@ffbb
  -agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270410T203000
 DTEND;TZID=Europe/Paris:20270410T223000
 SUMMARY:ASL DESSENHEIM – GEISPOLSHEIM C.J.S.
@@ -1820,7 +1820,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-10-20-30-s-i-graffenstaden-1-s-u-schiltigheim-b
  asket-bal@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270410T203000
 DTEND;TZID=Europe/Paris:20270410T223000
 SUMMARY:S.I. GRAFFENSTADEN - 1 – S.U. SCHILTIGHEIM BASKET BALL
@@ -1837,7 +1837,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-10-20-30-griesheim-p-molsheim-ls-asa-gries-ober
  hoffen@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270410T203000
 DTEND;TZID=Europe/Paris:20270410T223000
 SUMMARY:GRIESHEIM P/MOLSHEIM LS – ASA GRIES / OBERHOFFEN
@@ -1855,7 +1855,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-11-17-30-asa-souffelweyersheim-2-weitbruch-a-s-
  c-g-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270411T173000
 DTEND;TZID=Europe/Paris:20270411T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – WEITBRUCH A.S.C.G - 1
@@ -1872,7 +1872,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-11-17-30-saint-joseph-strasbourg-1-basket-nord-
  sundgau@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270411T173000
 DTEND;TZID=Europe/Paris:20270411T193000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – BASKET NORD SUNDGAU
@@ -1888,7 +1888,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-11-17-30-holtzheim-vogesia-2-bask-furdenheim-2@
  ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270411T173000
 DTEND;TZID=Europe/Paris:20270411T193000
 SUMMARY:HOLTZHEIM VOGESIA - 2 – BASK FURDENHEIM - 2
@@ -1904,7 +1904,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-17-18-30-geispolsheim-c-j-s-s-i-graffenstaden-1
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270417T183000
 DTEND;TZID=Europe/Paris:20270417T203000
 SUMMARY:GEISPOLSHEIM C.J.S. – S.I. GRAFFENSTADEN - 1
@@ -1918,9 +1918,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632278
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-04-17-20-00-weitbruch-a-s-c-g-1-bask-furdenheim-2@
+ ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:WEITBRUCH A.S.C.G - 1 – BASK FURDENHEIM - 2
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ WEITBRUCH A.S.C.G - 1 vs B
+ ASK FURDENHEIM - 2\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weit
+ bruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632274
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632274
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-17-20-00-saint-joseph-strasbourg-1-holtzheim-vo
  gesia-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270417T200000
 DTEND;TZID=Europe/Paris:20270417T220000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – HOLTZHEIM VOGESIA - 2
@@ -1935,25 +1951,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632276
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-04-17-20-00-weitbruch-a-s-c-g-1-bask-furdenheim-2@
- ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270417T200000
-DTEND;TZID=Europe/Paris:20270417T220000
-SUMMARY:WEITBRUCH A.S.C.G - 1 – BASK FURDENHEIM - 2
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ WEITBRUCH A.S.C.G - 1 vs B
- ASK FURDENHEIM - 2\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weit
- bruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632274
-LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632274
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-17-20-30-s-u-schiltigheim-basket-ball-asa-gries
  -oberhoff@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270417T203000
 DTEND;TZID=Europe/Paris:20270417T223000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – ASA GRIES / OBERHOFFEN
@@ -1970,7 +1970,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-17-20-30-asl-dessenheim-griesheim-p-molsheim-ls
  @ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270417T203000
 DTEND;TZID=Europe/Paris:20270417T223000
 SUMMARY:ASL DESSENHEIM – GRIESHEIM P/MOLSHEIM LS
@@ -1986,7 +1986,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-04-17-20-30-basket-nord-sundgau-asa-souffelweyersh
  eim-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270417T203000
 DTEND;TZID=Europe/Paris:20270417T223000
 SUMMARY:BASKET NORD SUNDGAU – ASA SOUFFELWEYERSHEIM - 2
@@ -2000,25 +2000,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632275
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-05-08-20-30-bask-furdenheim-2-basket-nord-sundgau@
- ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270508T203000
-DTEND;TZID=Europe/Paris:20270508T223000
-SUMMARY:BASK FURDENHEIM - 2 – BASKET NORD SUNDGAU
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs BAS
- KET NORD SUNDGAU\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenhei
- m 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632292
-LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632292
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-08-20-30-holtzheim-vogesia-2-weitbruch-a-s-c-g-
  1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270508T203000
 DTEND;TZID=Europe/Paris:20270508T223000
 SUMMARY:HOLTZHEIM VOGESIA - 2 – WEITBRUCH A.S.C.G - 1
@@ -2034,7 +2018,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-08-20-30-s-i-graffenstaden-1-asl-dessenheim@ffb
  b-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270508T203000
 DTEND;TZID=Europe/Paris:20270508T223000
 SUMMARY:S.I. GRAFFENSTADEN - 1 – ASL DESSENHEIM
@@ -2048,9 +2032,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632297
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-05-09-17-30-bask-furdenheim-2-basket-nord-sundgau@
+ ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270509T173000
+DTEND;TZID=Europe/Paris:20270509T193000
+SUMMARY:BASK FURDENHEIM - 2 – BASKET NORD SUNDGAU
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASK FURDENHEIM - 2 vs BAS
+ KET NORD SUNDGAU\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenhei
+ m 67117\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632292
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632292
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-09-17-30-griesheim-p-molsheim-ls-s-u-schiltighe
  im-basket@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270509T173000
 DTEND;TZID=Europe/Paris:20270509T193000
 SUMMARY:GRIESHEIM P/MOLSHEIM LS – S.U. SCHILTIGHEIM BASKET BALL
@@ -2068,7 +2068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-09-17-30-asa-gries-oberhoffen-geispolsheim-c-j-
  s@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270509T173000
 DTEND;TZID=Europe/Paris:20270509T193000
 SUMMARY:ASA GRIES / OBERHOFFEN – GEISPOLSHEIM C.J.S.
@@ -2084,7 +2084,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-09-17-30-asa-souffelweyersheim-2-saint-joseph-s
  trasbourg@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270509T173000
 DTEND;TZID=Europe/Paris:20270509T193000
 SUMMARY:ASA SOUFFELWEYERSHEIM - 2 – SAINT JOSEPH - STRASBOURG - 1
@@ -2101,7 +2101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-15-18-00-geispolsheim-c-j-s-s-u-schiltigheim-ba
  sket-ball@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270515T180000
 DTEND;TZID=Europe/Paris:20270515T200000
 SUMMARY:GEISPOLSHEIM C.J.S. – S.U. SCHILTIGHEIM BASKET BALL
@@ -2116,25 +2116,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632313
 END:VEVENT
 BEGIN:VEVENT
-UID:pnm-ges-poule-b-2027-05-15-20-30-basket-nord-sundgau-weitbruch-a-s-c-g-
- 1@ffbb-agenda
-DTSTAMP:20260831T060354Z
-DTSTART;TZID=Europe/Paris:20270515T203000
-DTEND;TZID=Europe/Paris:20270515T223000
-SUMMARY:BASKET NORD SUNDGAU – WEITBRUCH A.S.C.G - 1
-DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs WEI
- TBRUCH A.S.C.G - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 6872
- 0\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632310
-LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
-URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
- 14632310
-END:VEVENT
-BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-15-20-30-holtzheim-vogesia-2-asa-souffelweyersh
  eim-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270515T203000
 DTEND;TZID=Europe/Paris:20270515T223000
 SUMMARY:HOLTZHEIM VOGESIA - 2 – ASA SOUFFELWEYERSHEIM - 2
@@ -2150,7 +2134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-15-20-30-asl-dessenheim-asa-gries-oberhoffen@ff
  bb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270515T203000
 DTEND;TZID=Europe/Paris:20270515T223000
 SUMMARY:ASL DESSENHEIM – ASA GRIES / OBERHOFFEN
@@ -2166,7 +2150,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-15-20-30-griesheim-p-molsheim-ls-s-i-graffensta
  den-1@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270515T203000
 DTEND;TZID=Europe/Paris:20270515T223000
 SUMMARY:GRIESHEIM P/MOLSHEIM LS – S.I. GRAFFENSTADEN - 1
@@ -2180,9 +2164,25 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
  14632315
 END:VEVENT
 BEGIN:VEVENT
+UID:pnm-ges-poule-b-2027-05-15-20-30-basket-nord-sundgau-weitbruch-a-s-c-g-
+ 1@ffbb-agenda
+DTSTAMP:20260831T210241Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:BASKET NORD SUNDGAU – WEITBRUCH A.S.C.G - 1
+DESCRIPTION:🏀 PNM – GES – Poule B\n⚔️ BASKET NORD SUNDGAU vs WEI
+ TBRUCH A.S.C.G - 1\n\nPOLY ILLFURTH\n📍 Route de Spechbach Illfurth 6872
+ 0\n🚗 Waze : https://waze.com/ul?ll=47.67735\,7.25575&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/pnm/match/200000014632310
+LOCATION:POLY ILLFURTH\, Route de Spechbach Illfurth 68720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/pnm/match/2000000
+ 14632310
+END:VEVENT
+BEGIN:VEVENT
 UID:pnm-ges-poule-b-2027-05-16-17-30-saint-joseph-strasbourg-1-bask-furdenh
  eim-2@ffbb-agenda
-DTSTAMP:20260831T060354Z
+DTSTAMP:20260831T210241Z
 DTSTART;TZID=Europe/Paris:20270516T173000
 DTEND;TZID=Europe/Paris:20270516T193000
 SUMMARY:SAINT JOSEPH - STRASBOURG - 1 – BASK FURDENHEIM - 2

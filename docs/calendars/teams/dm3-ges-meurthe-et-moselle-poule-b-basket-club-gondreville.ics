@@ -1,0 +1,373 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB GONDREVILLE  [DM3 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB GONDREVILLE – DM3 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2026-09-26-20-30-basket-club-gondrev
+ ille-espe@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20260926T203000
+DTEND;TZID=Europe/Paris:20260926T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – ESPERANCE TOUL - 3
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs ESPERANCE TOUL - 3\n\nSALLE POLYVALENTE\n📍 Rue 
+ de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.6952
+ 6\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competit
+ ions/dm3/match/200000014690335
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690335
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2026-10-03-20-30-esperance-toul-2-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:✈️ ESPERANCE TOUL - 2 – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ ESP
+ ERANCE TOUL - 2 vs BASKET CLUB GONDREVILLE\n\nGYMNASE J et H BALSON\n📍 
+ Place de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.67875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dm3/match/200000014690348
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690348
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2026-11-07-20-30-union-sportive-jarn
+ isy-secti@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ UNION SPORTIVE JARNISY SECTION BASKET – BASKET CLUB GONDRE
+ VILLE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ UNI
+ ON SPORTIVE JARNISY SECTION BASKET vs BASKET CLUB GONDREVILLE\n\nGYMNASE M
+ AURICE BAQUET\n📍 Avenue du Général Patton Jarny 54800\n🚗 Waze : ht
+ tps://waze.com/ul?ll=49.16191\,5.87158&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0054/competitions/dm3/match/200000014690368
+LOCATION:GYMNASE MAURICE BAQUET\, Avenue du Général Patton Jarny 54800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690368
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2026-11-14-20-30-basket-club-gondrev
+ ille-bask@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – BASKET ALL STAR MUSSIPONTAIN - 2
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs BASKET ALL STAR MUSSIPONTAIN - 2\n\nSALLE POLYVALE
+ NTE\n📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com
+ /ul?ll=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/dm3/match/200000014690383
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690383
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2026-11-21-20-30-basket-loisir-bleno
+ d-basket-@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:✈️ BASKET LOISIR BLÉNOD – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET LOISIR BLÉNOD vs BASKET CLUB GONDREVILLE\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0054/competitions/dm3/match/200000014690394
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690394
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2026-11-28-20-30-basket-club-gondrev
+ ille-bask@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – BASKET CLUB LONGWY REHON - 4
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs BASKET CLUB LONGWY REHON - 4\n\nSALLE POLYVALENTE\
+ n📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?
+ ll=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/dm3/match/200000014690404
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690404
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2026-12-06-15-30-as-joudreville-pien
+ ne-boulig@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ AS JOUDREVILLE PIENNE BOULIGNY - 2 – BASKET CLUB GONDREVIL
+ LE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ AS 
+ JOUDREVILLE PIENNE BOULIGNY - 2 vs BASKET CLUB GONDREVILLE\n\nSALLE CESAR 
+ MARKUT\n📍 Rue Joliot-Curie Joudreville 54490\n🚗 Waze : https://waze.
+ com/ul?ll=49.29914\,5.78635&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/dm3/match/200000014690417
+LOCATION:SALLE CESAR MARKUT\, Rue Joliot-Curie Joudreville 54490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690417
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2026-12-12-20-30-basket-club-gondrev
+ ille-cerc@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – CERCLE SPORTIF MUNICIPAL AUBOUE - 
+ 3
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs CERCLE SPORTIF MUNICIPAL AUBOUE - 3\n\nSALLE POLYV
+ ALENTE\n📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.
+ com/ul?ll=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/dm3/match/200000014690428
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690428
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-01-09-20-30-basket-club-de-vall
+ eroy-brie@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ BASKET CLUB DE VALLEROY-BRIEY – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB DE VALLEROY-BRIEY vs BASKET CLUB GONDREVILLE\n\nSALLE OMNISPORTS\
+ n📍 Rue du Stade Valleroy 54910\n🚗 Waze : https://waze.com/ul?ll=49.2
+ 124\,5.94334&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compet
+ itions/dm3/match/200000014690442
+LOCATION:SALLE OMNISPORTS\, Rue du Stade Valleroy 54910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690442
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-01-16-20-30-basket-club-gondrev
+ ille-cerc@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – CERCLE SPORTIF MUNICIPAL AUBOUE - 
+ 2
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs CERCLE SPORTIF MUNICIPAL AUBOUE - 2\n\nSALLE POLYV
+ ALENTE\n📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.
+ com/ul?ll=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/dm3/match/200000014690454
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690454
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-01-23-20-30-esperance-toul-3-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ ESPERANCE TOUL - 3 – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ ESP
+ ERANCE TOUL - 3 vs BASKET CLUB GONDREVILLE\n\nGYMNASE J et H BALSON\n📍 
+ Place de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.67875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dm3/match/200000014690467
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690467
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-01-30-20-30-basket-club-gondrev
+ ille-espe@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – ESPERANCE TOUL - 2
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs ESPERANCE TOUL - 2\n\nSALLE POLYVALENTE\n📍 Rue 
+ de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.6952
+ 6\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competit
+ ions/dm3/match/200000014690480
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690480
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-02-13-20-30-basket-club-gondrev
+ ille-unio@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – UNION SPORTIVE JARNISY SECTION BAS
+ KET
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs UNION SPORTIVE JARNISY SECTION BASKET\n\nSALLE POL
+ YVALENTE\n📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waz
+ e.com/ul?ll=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0054/competitions/dm3/match/200000014690500
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690500
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-03-13-20-30-basket-all-star-mus
+ sipontain@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:✈️ BASKET ALL STAR MUSSIPONTAIN - 2 – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET ALL STAR MUSSIPONTAIN - 2 vs BASKET CLUB GONDREVILLE\n\nCENTRE DES SPO
+ RTS BERNARD GUY 1\n📍 Avenue Georges Guynemer Pont-à-Mousson 54700\n
+ 🚗 Waze : https://waze.com/ul?ll=48.91663\,6.05902&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0054/competitions/dm3/match/200000014690515
+LOCATION:CENTRE DES SPORTS BERNARD GUY 1\, Avenue Georges Guynemer Pont-à-
+ Mousson 54700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690515
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-03-20-20-30-basket-club-gondrev
+ ille-bask@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – BASKET LOISIR BLÉNOD
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs BASKET LOISIR BLÉNOD\n\nSALLE POLYVALENTE\n📍 R
+ ue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 9526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compe
+ titions/dm3/match/200000014690526
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690526
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-03-27-20-30-basket-club-longwy-
+ rehon-4-b@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:✈️ BASKET CLUB LONGWY REHON - 4 – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB LONGWY REHON - 4 vs BASKET CLUB GONDREVILLE\n\nGYMNASE LEON BASSO
+ MPIERRE\n📍 Rue Albert Legendre Longwy 54400\n🚗 Waze : https://waze.c
+ om/ul?ll=49.51894\,5.76872&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0054/competitions/dm3/match/200000014690536
+LOCATION:GYMNASE LEON BASSOMPIERRE\, Rue Albert Legendre Longwy 54400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690536
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-04-03-20-30-basket-club-gondrev
+ ille-as-j@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – AS JOUDREVILLE PIENNE BOULIGNY - 2
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs AS JOUDREVILLE PIENNE BOULIGNY - 2\n\nSALLE POLYVA
+ LENTE\n📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.c
+ om/ul?ll=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0054/competitions/dm3/match/200000014690549
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690549
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-04-11-17-00-cercle-sportif-muni
+ cipal-aub@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270411T170000
+DTEND;TZID=Europe/Paris:20270411T190000
+SUMMARY:✈️ CERCLE SPORTIF MUNICIPAL AUBOUE - 3 – BASKET CLUB GONDREVI
+ LLE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CER
+ CLE SPORTIF MUNICIPAL AUBOUE - 3 vs BASKET CLUB GONDREVILLE\n\nHALLE DES S
+ PORTS MAURICE PICHON\n📍 Place Albert Lebrun Auboué 54580\n🚗 Waze : 
+ https://waze.com/ul?ll=49.21117\,5.9751&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0054/competitions/dm3/match/200000014690560
+LOCATION:HALLE DES SPORTS MAURICE PICHON\, Place Albert Lebrun Auboué 5458
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690560
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-05-08-20-30-basket-club-gondrev
+ ille-bask@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 BASKET CLUB GONDREVILLE – BASKET CLUB DE VALLEROY-BRIEY
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ BAS
+ KET CLUB GONDREVILLE vs BASKET CLUB DE VALLEROY-BRIEY\n\nSALLE POLYVALENTE
+ \n📍 Rue de la Grève Gondreville 54840\n🚗 Waze : https://waze.com/ul
+ ?ll=48.69526\,5.95992&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 54/competitions/dm3/match/200000014690574
+LOCATION:SALLE POLYVALENTE\, Rue de la Grève Gondreville 54840
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690574
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-meurthe-et-moselle-poule-b-2027-05-23-15-00-cercle-sportif-muni
+ cipal-aub@ffbb-agenda
+DTSTAMP:20260901T202932Z
+DTSTART;TZID=Europe/Paris:20270523T150000
+DTEND;TZID=Europe/Paris:20270523T170000
+SUMMARY:✈️ CERCLE SPORTIF MUNICIPAL AUBOUE - 2 – BASKET CLUB GONDREVI
+ LLE
+DESCRIPTION:🏀 DM3 – GES – Meurthe-et-Moselle – Poule B\n⚔️ CER
+ CLE SPORTIF MUNICIPAL AUBOUE - 2 vs BASKET CLUB GONDREVILLE\n\nHALLE DES S
+ PORTS MAURICE PICHON\n📍 Place Albert Lebrun Auboué 54580\n🚗 Waze : 
+ https://waze.com/ul?ll=49.21117\,5.9751&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0054/competitions/dm3/match/200000014690586
+LOCATION:HALLE DES SPORTS MAURICE PICHON\, Place Albert Lebrun Auboué 5458
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dm3/
+ match/200000014690586
+END:VEVENT
+END:VCALENDAR

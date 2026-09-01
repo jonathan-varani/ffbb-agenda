@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB –   [IDMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de  – IDMU18 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-09-26-18-00-as-champigneulle
+ s-basketb@ffbb-agenda
+DTSTAMP:20260901T202940Z
+DTSTART;TZID=Europe/Paris:20260926T180000
+DTEND;TZID=Europe/Paris:20260926T200000
+SUMMARY: – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+  vs AS CHAMPIGNEULLES BASKETBALL\n\nGYMNASE J et H BALSON\n📍 Place de l
+ a Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67875\,5
+ .89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /idmu18/match/200000014615458
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615458
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-03-18-00-la-valdajolaise@
+ ffbb-agenda
+DTSTAMP:20260901T202940Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:LA VALDAJOLAISE – 
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ LA VALDAJOLAISE vs \n\nSALLE MUNICIPALE SPORTS\n📍 Rue des Oeuvres Le Va
+ l-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.92639\,6.47849&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu18/matc
+ h/200000014615476
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615476
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-10-17-18-00-basket-club-golb
+ ey-epinal@ffbb-agenda
+DTSTAMP:20260901T202940Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY: – BASKET CLUB GOLBEY EPINAL - 1
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+  vs BASKET CLUB GOLBEY EPINAL - 1\n\nGYMNASE J et H BALSON\n📍 Place de 
+ la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67875\,
+ 5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competition
+ s/idmu18/match/200000014615512
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615512
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-14-18-00-basket-club-chav
+ elotais@ffbb-agenda
+DTSTAMP:20260901T202940Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY: – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+  vs BASKET CLUB CHAVELOTAIS\n\nGYMNASE J et H BALSON\n📍 Place de la Por
+ te de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67875\,5.8936
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615548
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615548
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-21-18-00-sluc-nancy-baske
+ t-associa@ffbb-agenda
+DTSTAMP:20260901T202940Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:SLUC NANCY BASKET ASSOCIATION - 3 – 
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+ SLUC NANCY BASKET ASSOCIATION - 3 vs \n\nGYMNASE DU PLACIEUX\n📍 Rue Joh
+ n Fitzgerald Kennedy Villers-lès-Nancy 54600\n🚗 Waze : https://waze.co
+ m/ul?ll=48.67325\,6.16224&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0054/competitions/idmu18/match/200000014615562
+LOCATION:GYMNASE DU PLACIEUX\, Rue John Fitzgerald Kennedy Villers-lès-Nan
+ cy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615562
+END:VEVENT
+BEGIN:VEVENT
+UID:idmu18-ges-meurthe-et-moselle-poule-b-2026-11-28-18-00-cslb-bar-le-duc@
+ ffbb-agenda
+DTSTAMP:20260901T202940Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY: – CSLB BAR LE DUC
+DESCRIPTION:🏀 IDMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ 
+  vs CSLB BAR LE DUC\n\nGYMNASE J et H BALSON\n📍 Place de la Porte de Me
+ tz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67875\,5.89363&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu18/match
+ /200000014615576
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idmu
+ 18/match/200000014615576
+END:VEVENT
+END:VCALENDAR

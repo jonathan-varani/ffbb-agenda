@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB –   [DMU18-2 – GES – Poule D]
+X-WR-CALDESC:Matchs de  – DMU18-2 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-d-2026-09-26-00-00-strasbourg-js-koenigshoff
+ en@ffbb-agenda
+DTSTAMP:20260901T201639Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY: – STRASBOURG JS KOENIGSHOFFEN
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule D\n⚔️  vs STRAS
+ BOURG JS KOENIGSHOFFEN\n\nGYMNASE DES VOSGES\n📍 Rue des Tulipes Lingols
+ heim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7.68652&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2/match/2
+ 00000014660935
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660935
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-d-2026-10-03-00-00-strasbourg-ass-2@ffbb-age
+ nda
+DTSTAMP:20260901T201639Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY: – STRASBOURG ASS - 2
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule D\n⚔️  vs STRAS
+ BOURG ASS - 2\n\nGYMNASE DES VOSGES\n📍 Rue des Tulipes Lingolsheim 6738
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7.68652&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2/match/20000001
+ 4660939
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660939
+END:VEVENT
+END:VCALENDAR

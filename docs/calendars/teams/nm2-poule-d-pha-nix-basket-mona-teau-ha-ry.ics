@@ -1,0 +1,437 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – PHÃNIX BASKET MONÃTEAU - HÃRY  [NM2 –  – Poule D]
+X-WR-CALDESC:Matchs de PHÃNIX BASKET MONÃTEAU - HÃRY – NM2 – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-09-05-20-00-pha-nix-basket-mona-teau-ha-ry-cergy-ponto
+ ise-bb-1@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – CERGY-PONTOISE BB -
+  1
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs CERGY-PONTOISE BB - 1\n\nGYMNASE MUNICIPAL\n📍 Rue d'Auxerre Mon
+ Ã©teau 89470\n🚗 Waze : https://waze.com/ul?ll=47.84825\,3.57905&navig
+ ate=yes\n\n📢 Arbitres : Wassim HALHOULI\, Alexandre GROSSARD\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nm2/match/20000001
+ 4598102
+LOCATION:GYMNASE MUNICIPAL\, Rue d'Auxerre MonÃ©teau 89470
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598102
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-09-12-20-00-es-prisse-macon-1-pha-nix-basket-mona-teau
+ -ha-ry@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:✈️ ES PRISSE MACON - 1 – PHÃNIX BASKET MONÃTEAU - HÃ
+ RY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ ES PRISSE MACON - 1 vs PHÃNIX B
+ ASKET MONÃTEAU - HÃRY\n\nSALLE DES SPORTS PRINCIPALE\n📍 Rue de la
+  Fontaine PrissÃ© 71960\n🚗 Waze : https://waze.com/ul?ll=46.32475\,4.
+ 74274&navigate=yes\n\n📢 Arbitres : Djibril OUSMANOU\, Armand ACHDDOU\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/
+ 200000014598130
+LOCATION:SALLE DES SPORTS PRINCIPALE\, Rue de la Fontaine PrissÃ© 71960
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598130
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-09-19-20-00-pha-nix-basket-mona-teau-ha-ry-metz-bc@ffb
+ b-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – METZ BC
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs METZ BC\n\nCOMPLEXE SPORTIF SERGES MESONES\n📍 Avenue de la RÃ
+ ©sistance Auxerre 89000\n🚗 Waze : https://waze.com/ul?ll=47.79574\,3.5
+ 8988&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm2/match/200000014598158
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598158
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-10-03-20-00-pha-nix-basket-mona-teau-ha-ry-ie-entente-
+ sportive-@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – IE - ENTENTE SPORTI
+ VE MASSY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs IE - ENTENTE SPORTIVE MASSY\n\nCOMPLEXE SPORTIF SERGES MESONES\n
+ 📍 Avenue de la RÃ©sistance Auxerre 89000\n🚗 Waze : https://waze.co
+ m/ul?ll=47.79574\,3.58988&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/
+ match/200000014598214
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598214
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-10-10-20-00-abc-dourges-1-pha-nix-basket-mona-teau-ha-
+ ry@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ ABC  DOURGES - 1 – PHÃNIX BASKET MONÃTEAU - HÃRY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ ABC  DOURGES - 1 vs PHÃNIX BASK
+ ET MONÃTEAU - HÃRY\n\nCOMPLEXE SPORTIF BRIQUET\n📍 Rue Hoche Dourg
+ es 62119\n🚗 Waze : https://waze.com/ul?ll=50.43211\,2.98998&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm2/match/200000014598240
+LOCATION:COMPLEXE SPORTIF BRIQUET\, Rue Hoche Dourges 62119
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598240
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-10-17-20-00-pha-nix-basket-mona-teau-ha-ry-tremblay-at
+ hletique-@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – TREMBLAY ATHLETIQUE
+  CLUB
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs TREMBLAY ATHLETIQUE CLUB\n\nCOMPLEXE SPORTIF SERGES MESONES\n📍 
+ Avenue de la RÃ©sistance Auxerre 89000\n🚗 Waze : https://waze.com/ul?
+ ll=47.79574\,3.58988&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match
+ /200000014598270
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598270
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-10-31-20-00-asa-souffelweyersheim-pha-nix-basket-mona-
+ teau-ha-r@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM – PHÃNIX BASKET MONÃTEAU - HÃ
+ RY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ ASA SOUFFELWEYERSHEIM vs PHÃNIX
+  BASKET MONÃTEAU - HÃRY\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpe
+ nts Souffelweyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6319\,7
+ .74&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nm2/match/200000014598300
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598300
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-11-07-20-00-eveil-recy-saint-martin-basket-pha-nix-bas
+ ket-mona-@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ EVEIL RECY SAINT MARTIN BASKET – PHÃNIX BASKET MONÃT
+ EAU - HÃRY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ EVEIL RECY SAINT MARTIN BASKET vs 
+ PHÃNIX BASKET MONÃTEAU - HÃRY\n\nGYMNASE PIERRE ARNOULD\n📍 Rue
+  du Boulevard Recy 51520\n🚗 Waze : https://waze.com/ul?ll=48.98825\,4.3
+ 2891&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/competitions/nm2/match/200000014598327
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598327
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-11-14-20-00-pha-nix-basket-mona-teau-ha-ry-gennevillie
+ rs-basket@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – GENNEVILLIERS BASKE
+ T CLUB - 1
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs GENNEVILLIERS BASKET CLUB - 1\n\nCOMPLEXE SPORTIF SERGES MESONES\n
+ 📍 Avenue de la RÃ©sistance Auxerre 89000\n🚗 Waze : https://waze.co
+ m/ul?ll=47.79574\,3.58988&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/
+ match/200000014598354
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598354
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-11-28-20-00-amicale-laa-que-la-donienne-jura-basket-ph
+ a-nix-bas@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:✈️ AMICALE LAÃQUE LÃDONIENNE JURA BASKET – PHÃNIX BA
+ SKET MONÃTEAU - HÃRY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ AMICALE LAÃQUE LÃDONIENNE JU
+ RA BASKET vs PHÃNIX BASKET MONÃTEAU - HÃRY\n\nGRAND ENSEMBLE SPOR
+ TIF\n📍 Rue Robert Schuman Lons-le-Saunier 39000\n🚗 Waze : https://wa
+ ze.com/ul?ll=46.68127\,5.56277&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nm2/match/200000014598378
+LOCATION:GRAND ENSEMBLE SPORTIF\, Rue Robert Schuman Lons-le-Saunier 39000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598378
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-12-05-20-00-pha-nix-basket-mona-teau-ha-ry-holtzheim-v
+ ogesia-1@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – HOLTZHEIM VOGESIA -
+  1
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs HOLTZHEIM VOGESIA - 1\n\nCOMPLEXE SPORTIF SERGES MESONES\n📍 Ave
+ nue de la RÃ©sistance Auxerre 89000\n🚗 Waze : https://waze.com/ul?ll=
+ 47.79574\,3.58988&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/2
+ 00000014598410
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598410
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2026-12-12-20-00-union-sportive-maubeuge-basket-ball-1-pha-
+ nix-baske@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:✈️ UNION SPORTIVE MAUBEUGE BASKET BALL - 1 – PHÃNIX BASKET
+  MONÃTEAU - HÃRY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ UNION SPORTIVE MAUBEUGE BASKET BAL
+ L - 1 vs PHÃNIX BASKET MONÃTEAU - HÃRY\n\nSALLES GENAUDET\n📍 B
+ oulevard Charles de Gaulle Maubeuge 59600\n🚗 Waze : https://waze.com/ul
+ ?ll=50.27849\,3.98174&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/matc
+ h/200000014598436
+LOCATION:SALLES GENAUDET\, Boulevard Charles de Gaulle Maubeuge 59600
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598436
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-01-02-20-00-cergy-pontoise-bb-1-pha-nix-basket-mona-te
+ au-ha-ry@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270102T200000
+DTEND;TZID=Europe/Paris:20270102T220000
+SUMMARY:✈️ CERGY-PONTOISE BB - 1 – PHÃNIX BASKET MONÃTEAU - HÃ
+ RY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ CERGY-PONTOISE BB - 1 vs PHÃNIX
+  BASKET MONÃTEAU - HÃRY\n\nComplexe MARADAS - Salle 1\n📍 Passage 
+ du LycÃ©e Pontoise 95000\n🚗 Waze : https://waze.com/ul?ll=49.03498\,2
+ .08635&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nm2/match/2000000145984
+ 66
+LOCATION:Complexe MARADAS - Salle 1\, Passage du LycÃ©e Pontoise 95000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598466
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-01-09-20-00-pha-nix-basket-mona-teau-ha-ry-es-prisse-m
+ acon-1@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – ES PRISSE MACON - 1
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs ES PRISSE MACON - 1\n\nCOMPLEXE SPORTIF SERGES MESONES\n📍 Avenu
+ e de la RÃ©sistance Auxerre 89000\n🚗 Waze : https://waze.com/ul?ll=47
+ .79574\,3.58988&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/2
+ 00000014598494
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598494
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-01-16-20-00-metz-bc-pha-nix-basket-mona-teau-ha-ry@ffb
+ b-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:✈️ METZ BC – PHÃNIX BASKET MONÃTEAU - HÃRY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ METZ BC vs PHÃNIX BASKET MONÃ
+ TEAU - HÃRY\n\nCOMPLEXE SPORTIF ST SYMPHORIEN\n📍 Boulevard Saint-S
+ ymphorien Longeville-lÃ¨s-Metz 57050\n🚗 Waze : https://waze.com/ul?ll
+ =49.11404\,6.155&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/2
+ 00000014598522
+LOCATION:COMPLEXE SPORTIF ST SYMPHORIEN\, Boulevard Saint-Symphorien Longev
+ ille-lÃ¨s-Metz 57050
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598522
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-02-06-20-00-ie-entente-sportive-massy-pha-nix-basket-m
+ ona-teau-@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ IE - ENTENTE SPORTIVE MASSY – PHÃNIX BASKET MONÃTEAU
+  - HÃRY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ IE - ENTENTE SPORTIVE MASSY vs PH
+ ÃNIX BASKET MONÃTEAU - HÃRY\n\nGYMNASE ALBERT CAMUS\n📍 Avenue 
+ de la RÃ©publique Massy 91300\n🚗 Waze : https://waze.com/ul?ll=48.735
+ 73\,2.29493&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nm2/match/20000001
+ 4598578
+LOCATION:GYMNASE ALBERT CAMUS\, Avenue de la RÃ©publique Massy 91300
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598578
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-02-13-20-00-pha-nix-basket-mona-teau-ha-ry-abc-dourges
+ -1@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – ABC  DOURGES - 1
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs ABC  DOURGES - 1\n\nCOMPLEXE SPORTIF SERGES MESONES\n📍 Avenue d
+ e la RÃ©sistance Auxerre 89000\n🚗 Waze : https://waze.com/ul?ll=47.79
+ 574\,3.58988&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nm2/match/2000000
+ 14598604
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598604
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-02-27-20-00-tremblay-athletique-club-pha-nix-basket-mo
+ na-teau-h@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:✈️ TREMBLAY ATHLETIQUE CLUB – PHÃNIX BASKET MONÃTEAU - 
+ HÃRY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ TREMBLAY ATHLETIQUE CLUB vs PHÃ
+ NIX BASKET MONÃTEAU - HÃRY\n\nCOSEC JEAN GUIMIER\n📍 Avenue Gilber
+ t Berger Tremblay-en-France 93290\n🚗 Waze : https://waze.com/ul?ll=48.9
+ 5034\,2.57881&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/200000
+ 014598634
+LOCATION:COSEC JEAN GUIMIER\, Avenue Gilbert Berger Tremblay-en-France 9329
+ 0
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598634
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-03-06-20-00-pha-nix-basket-mona-teau-ha-ry-asa-souffel
+ weyershei@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – ASA SOUFFELWEYERSHE
+ IM
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs ASA SOUFFELWEYERSHEIM\n\nCOMPLEXE SPORTIF SERGES MESONES\n📍 Ave
+ nue de la RÃ©sistance Auxerre 89000\n🚗 Waze : https://waze.com/ul?ll=
+ 47.79574\,3.58988&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/2
+ 00000014598664
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598664
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-03-13-20-00-pha-nix-basket-mona-teau-ha-ry-eveil-recy-
+ saint-mar@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – EVEIL RECY SAINT MA
+ RTIN BASKET
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs EVEIL RECY SAINT MARTIN BASKET\n\nCOMPLEXE SPORTIF SERGES MESONES\
+ n📍 Avenue de la RÃ©sistance Auxerre 89000\n🚗 Waze : https://waze.c
+ om/ul?ll=47.79574\,3.58988&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm2
+ /match/200000014598691
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598691
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-03-27-20-00-gennevilliers-basket-club-1-pha-nix-basket
+ -mona-tea@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:✈️ GENNEVILLIERS BASKET CLUB - 1 – PHÃNIX BASKET MONÃTE
+ AU - HÃRY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ GENNEVILLIERS BASKET CLUB - 1 vs P
+ HÃNIX BASKET MONÃTEAU - HÃRY\n\nGYMNASE CELINE DUMERC\n📍 Rue A
+ lbert Jacquard Gennevilliers 92230\n🚗 Waze : https://waze.com/ul?ll=48.
+ 92246\,2.29838&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nm2/match/20000
+ 0014598718
+LOCATION:GYMNASE CELINE DUMERC\, Rue Albert Jacquard Gennevilliers 92230
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598718
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-04-03-20-00-pha-nix-basket-mona-teau-ha-ry-amicale-laa
+ -que-la-d@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – AMICALE LAÃQUE L
+ ÃDONIENNE JURA BASKET
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs AMICALE LAÃQUE LÃDONIENNE JURA BASKET\n\nCOMPLEXE SPORTIF SE
+ RGES MESONES\n📍 Avenue de la RÃ©sistance Auxerre 89000\n🚗 Waze : h
+ ttps://waze.com/ul?ll=47.79574\,3.58988&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
+ petitions/nm2/match/200000014598742
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598742
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-04-17-20-00-holtzheim-vogesia-1-pha-nix-basket-mona-te
+ au-ha-ry@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:✈️ HOLTZHEIM VOGESIA - 1 – PHÃNIX BASKET MONÃTEAU - HÃ
+ RY
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ HOLTZHEIM VOGESIA - 1 vs PHÃNIX
+  BASKET MONÃTEAU - HÃRY\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Hol
+ tzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm2/match/200000014598774
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598774
+END:VEVENT
+BEGIN:VEVENT
+UID:nm2-poule-d-2027-05-01-20-00-pha-nix-basket-mona-teau-ha-ry-union-sport
+ ive-maube@ffbb-agenda
+DTSTAMP:20260902T213133Z
+DTSTART;TZID=Europe/Paris:20270501T200000
+DTEND;TZID=Europe/Paris:20270501T220000
+SUMMARY:🏠 PHÃNIX BASKET MONÃTEAU - HÃRY – UNION SPORTIVE MAUB
+ EUGE BASKET BALL - 1
+DESCRIPTION:🏀 NM2 – Poule D\n⚔️ PHÃNIX BASKET MONÃTEAU - HÃ
+ RY vs UNION SPORTIVE MAUBEUGE BASKET BALL - 1\n\nCOMPLEXE SPORTIF SERGES
+  MESONES\n📍 Avenue de la RÃ©sistance Auxerre 89000\n🚗 Waze : https
+ ://waze.com/ul?ll=47.79574\,3.58988&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nm2/match/200000014598800
+LOCATION:COMPLEXE SPORTIF SERGES MESONES\, Avenue de la RÃ©sistance Auxer
+ re 89000
+URL:https://competitions.ffbb.com/competitions/nm2/match/200000014598800
+END:VEVENT
+END:VCALENDAR

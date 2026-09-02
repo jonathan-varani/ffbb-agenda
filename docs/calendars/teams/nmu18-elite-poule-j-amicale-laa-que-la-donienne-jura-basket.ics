@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AMICALE LAÃQUE LÃDONIENNE JURA BASKET  [NMU18-ELITE –  – Poule J]
+X-WR-CALDESC:Matchs de AMICALE LAÃQUE LÃDONIENNE JURA BASKET – NMU18-ELITE – Poule J
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-09-13-15-30-jda-dijon-bourgogne-amicale-laa-qu
+ e-la-doni@ffbb-agenda
+DTSTAMP:20260902T213707Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:✈️ JDA DIJON BOURGOGNE – AMICALE LAÃQUE LÃDONIENNE JURA
+  BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ JDA DIJON BOURGOGNE vs AMI
+ CALE LAÃQUE LÃDONIENNE JURA BASKET\n\nSALLE JEAN MARC BOIVIN\n📍 R
+ ue de la CÃ´te d'Or Dijon 21000\n🚗 Waze : https://waze.com/ul?ll=47.3
+ 3321\,5.03662&navigate=yes\n\n📢 Arbitres : Sacha PACAUD\, Maroine EL BA
+ LI\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18
+ -elite/match/200000014603195
+LOCATION:SALLE JEAN MARC BOIVIN\, Rue de la CÃ´te d'Or Dijon 21000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03195
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-09-20-15-30-amicale-laa-que-la-donienne-jura-b
+ asket-j-l@ffbb-agenda
+DTSTAMP:20260902T213707Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:🏠 AMICALE LAÃQUE LÃDONIENNE JURA BASKET – J.L. BOURG BAS
+ KET
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ AMICALE LAÃQUE LÃDON
+ IENNE JURA BASKET vs J.L. BOURG BASKET\n\nGRAND ENSEMBLE SPORTIF\n📍 Rue
+  Robert Schuman Lons-le-Saunier 39000\n🚗 Waze : https://waze.com/ul?ll=
+ 46.68127\,5.56277&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
+ /match/200000014603226
+LOCATION:GRAND ENSEMBLE SPORTIF\, Rue Robert Schuman Lons-le-Saunier 39000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03226
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-09-27-15-30-roanne-chorale-1-amicale-laa-que-l
+ a-donienn@ffbb-agenda
+DTSTAMP:20260902T213707Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ ROANNE CHORALE - 1 – AMICALE LAÃQUE LÃDONIENNE JURA 
+ BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ ROANNE CHORALE - 1 vs AMIC
+ ALE LAÃQUE LÃDONIENNE JURA BASKET\n\nPALAIS DES SPORTS\n📍 Rue Alb
+ ert Thomas Roanne 42300\n🚗 Waze : https://waze.com/ul?ll=46.04359\,4.07
+ 401&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001
+ 4603257
+LOCATION:PALAIS DES SPORTS\, Rue Albert Thomas Roanne 42300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03257
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-10-04-15-30-amicale-laa-que-la-donienne-jura-b
+ asket-sem@ffbb-agenda
+DTSTAMP:20260902T213707Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 AMICALE LAÃQUE LÃDONIENNE JURA BASKET – SEM ELAN CHALO
+ N
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ AMICALE LAÃQUE LÃDON
+ IENNE JURA BASKET vs SEM ELAN CHALON\n\nGRAND ENSEMBLE SPORTIF\n📍 Rue R
+ obert Schuman Lons-le-Saunier 39000\n🚗 Waze : https://waze.com/ul?ll=46
+ .68127\,5.56277&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
+ /match/200000014603286
+LOCATION:GRAND ENSEMBLE SPORTIF\, Rue Robert Schuman Lons-le-Saunier 39000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03286
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-11-01-15-30-amicale-laa-que-la-donienne-jura-b
+ asket-jda@ffbb-agenda
+DTSTAMP:20260902T213707Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:🏠 AMICALE LAÃQUE LÃDONIENNE JURA BASKET – JDA DIJON BOUR
+ GOGNE
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ AMICALE LAÃQUE LÃDON
+ IENNE JURA BASKET vs JDA DIJON BOURGOGNE\n\nGRAND ENSEMBLE SPORTIF\n📍 R
+ ue Robert Schuman Lons-le-Saunier 39000\n🚗 Waze : https://waze.com/ul?l
+ l=46.68127\,5.56277&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elit
+ e/match/200000014603345
+LOCATION:GRAND ENSEMBLE SPORTIF\, Rue Robert Schuman Lons-le-Saunier 39000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03345
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-11-08-15-30-j-l-bourg-basket-amicale-laa-que-l
+ a-donienn@ffbb-agenda
+DTSTAMP:20260902T213707Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ J.L. BOURG BASKET – AMICALE LAÃQUE LÃDONIENNE JURA B
+ ASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ J.L. BOURG BASKET vs AMICA
+ LE LAÃQUE LÃDONIENNE JURA BASKET\n\nSALLE AMEDEE MERCIER\n📍 Boule
+ vard Saint-Nicolas Bourg-en-Bresse 01000\n🚗 Waze : https://waze.com/ul?
+ ll=46.20378\,5.23417&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-eli
+ te/match/200000014603376
+LOCATION:SALLE AMEDEE MERCIER\, Boulevard Saint-Nicolas Bourg-en-Bresse 010
+ 00
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03376
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-11-15-15-30-amicale-laa-que-la-donienne-jura-b
+ asket-roa@ffbb-agenda
+DTSTAMP:20260902T213707Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 AMICALE LAÃQUE LÃDONIENNE JURA BASKET – ROANNE CHORALE
+  - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ AMICALE LAÃQUE LÃDON
+ IENNE JURA BASKET vs ROANNE CHORALE - 1\n\nGRAND ENSEMBLE SPORTIF\n📍 Ru
+ e Robert Schuman Lons-le-Saunier 39000\n🚗 Waze : https://waze.com/ul?ll
+ =46.68127\,5.56277&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
+ /match/200000014603407
+LOCATION:GRAND ENSEMBLE SPORTIF\, Rue Robert Schuman Lons-le-Saunier 39000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03407
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-j-2026-11-29-15-30-sem-elan-chalon-amicale-laa-que-la
+ -donienne@ffbb-agenda
+DTSTAMP:20260902T213707Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ SEM ELAN CHALON – AMICALE LAÃQUE LÃDONIENNE JURA BAS
+ KET
+DESCRIPTION:🏀 NMU18-ELITE – Poule J\n⚔️ SEM ELAN CHALON vs AMICALE
+  LAÃQUE LÃDONIENNE JURA BASKET\n\nLE COLISEE GRANDE SALLE\n📍 Rue 
+ d'Amsterdam Chalon-sur-SaÃ´ne 71100\n🚗 Waze : https://waze.com/ul?ll=
+ 46.78565\,4.86593&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
+ /match/200000014603436
+LOCATION:LE COLISEE GRANDE SALLE\, Rue d'Amsterdam Chalon-sur-SaÃ´ne 7110
+ 0
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03436
+END:VEVENT
+END:VCALENDAR

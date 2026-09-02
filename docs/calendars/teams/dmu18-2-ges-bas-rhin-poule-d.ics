@@ -24,9 +24,24 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-d-2026-09-12-17-30-bischheim-bs@ffbb-agenda
+DTSTAMP:20260902T201354Z
+DTSTART;TZID=Europe/Paris:20260912T173000
+DTEND;TZID=Europe/Paris:20260912T193000
+SUMMARY:BISCHHEIM BS – 
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule D\n⚔️ BISCHHEIM
+  BS vs \n\nGYMNASE LAMARTINE\n📍 Rue Lamartine Bischheim 67800\n🚗 Waz
+ e : https://waze.com/ul?ll=48.61387\,7.73797&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/comites/0067/competitions/dmu18-2/match/200000014660930
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660930
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu18-2-ges-bas-rhin-poule-d-2026-09-26-00-00-strasbourg-js-koenigshoff
  en@ffbb-agenda
-DTSTAMP:20260901T201639Z
+DTSTAMP:20260902T201354Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY: – STRASBOURG JS KOENIGSHOFFEN
@@ -43,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu18-2-ges-bas-rhin-poule-d-2026-10-03-00-00-strasbourg-ass-2@ffbb-age
  nda
-DTSTAMP:20260901T201639Z
+DTSTAMP:20260902T201354Z
 DTSTART;TZID=Europe/Paris:20261003T000000
 DTEND;TZID=Europe/Paris:20261003T020000
 SUMMARY: – STRASBOURG ASS - 2

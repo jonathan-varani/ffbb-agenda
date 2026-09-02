@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – B-2-DMU15-2 – GES – Marne – Poule A
+X-WR-CALDESC:Tous les matchs B-2-DMU15-2 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-2-dmu15-2-ges-marne-poule-a-2026-09-26-00-00-as-amateur-tinqueux-bask
+ et-union-@ffbb-agenda
+DTSTAMP:20260902T202709Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:AS AMATEUR TINQUEUX BASKET – UNION SPORTIVE FISMOISE ARDRE et VES
+ LE
+DESCRIPTION:🏀 B-2-DMU15-2 – GES – Marne – Poule A\n⚔️ AS AMATE
+ UR TINQUEUX BASKET vs UNION SPORTIVE FISMOISE ARDRE et VESLE\n\nHALLE DES 
+ SPORTS\n📍 Avenue de la Gare Fismes 51170\n🚗 Waze : https://waze.com/
+ ul?ll=49.3099\,3.68889&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 051/competitions/b-2-dmu15-2/match/200000014687169
+LOCATION:HALLE DES SPORTS\, Avenue de la Gare Fismes 51170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-2/match/200000014687169
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu15-2-ges-marne-poule-a-2026-09-26-00-00-la-fertonne-fere-champen
+ oise-unio@ffbb-agenda
+DTSTAMP:20260902T202709Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:LA FERTONNE FERE-CHAMPENOISE – UNION SPORTIVE FISMOISE ARDRE et V
+ ESLE
+DESCRIPTION:🏀 B-2-DMU15-2 – GES – Marne – Poule A\n⚔️ LA FERTO
+ NNE FERE-CHAMPENOISE vs UNION SPORTIVE FISMOISE ARDRE et VESLE\n\nHALLE DE
+ S SPORTS\n📍 Avenue de la Gare Fismes 51170\n🚗 Waze : https://waze.co
+ m/ul?ll=49.3099\,3.68889&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0051/competitions/b-2-dmu15-2/match/200000014687170
+LOCATION:HALLE DES SPORTS\, Avenue de la Gare Fismes 51170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-2/match/200000014687170
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu15-2-ges-marne-poule-a-2026-09-26-00-00-eveil-recy-saint-martin-
+ basket-as@ffbb-agenda
+DTSTAMP:20260902T202709Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:EVEIL RECY SAINT MARTIN BASKET – AS AMATEUR TINQUEUX BASKET
+DESCRIPTION:🏀 B-2-DMU15-2 – GES – Marne – Poule A\n⚔️ EVEIL RE
+ CY SAINT MARTIN BASKET vs AS AMATEUR TINQUEUX BASKET\n\nHALLE DES SPORTS\n
+ 📍 Avenue de la Gare Fismes 51170\n🚗 Waze : https://waze.com/ul?ll=49
+ .3099\,3.68889&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/comp
+ etitions/b-2-dmu15-2/match/200000014687167
+LOCATION:HALLE DES SPORTS\, Avenue de la Gare Fismes 51170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-2/match/200000014687167
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu15-2-ges-marne-poule-a-2026-09-26-00-00-eveil-recy-saint-martin-
+ basket-la@ffbb-agenda
+DTSTAMP:20260902T202709Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:EVEIL RECY SAINT MARTIN BASKET – LA FERTONNE FERE-CHAMPENOISE
+DESCRIPTION:🏀 B-2-DMU15-2 – GES – Marne – Poule A\n⚔️ EVEIL RE
+ CY SAINT MARTIN BASKET vs LA FERTONNE FERE-CHAMPENOISE\n\nHALLE DES SPORTS
+ \n📍 Avenue de la Gare Fismes 51170\n🚗 Waze : https://waze.com/ul?ll=
+ 49.3099\,3.68889&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/b-2-dmu15-2/match/200000014687168
+LOCATION:HALLE DES SPORTS\, Avenue de la Gare Fismes 51170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-2/match/200000014687168
+END:VEVENT
+END:VCALENDAR

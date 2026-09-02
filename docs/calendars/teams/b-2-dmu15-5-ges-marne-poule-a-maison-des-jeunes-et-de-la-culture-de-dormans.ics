@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MAISON DES JEUNES ET DE LA CULTURE DE DORMANS  [B-2-DMU15-5 – GES – Poule A]
+X-WR-CALDESC:Matchs de MAISON DES JEUNES ET DE LA CULTURE DE DORMANS – B-2-DMU15-5 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-2-dmu15-5-ges-marne-poule-a-2026-09-26-00-00-amicale-des-jeunes-de-be
+ theny-mai@ffbb-agenda
+DTSTAMP:20260902T202734Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY – MAISON DES JEUNES ET DE LA
+  CULTURE DE DORMANS
+DESCRIPTION:🏀 B-2-DMU15-5 – GES – Marne – Poule A\n⚔️ AMICALE 
+ DES JEUNES DE BETHENY vs MAISON DES JEUNES ET DE LA CULTURE DE DORMANS\n\n
+ SALLE DES SPORTS\n📍 Esplanade Jean Colbert Taissy 51500\n🚗 Waze : ht
+ tps://waze.com/ul?ll=49.21562\,4.08098&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0051/competitions/b-2-dmu15-5/match/200000014687186
+LOCATION:SALLE DES SPORTS\, Esplanade Jean Colbert Taissy 51500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-5/match/200000014687186
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu15-5-ges-marne-poule-a-2026-09-26-00-00-b-c-taissy-saint-leonard
+ -maison-d@ffbb-agenda
+DTSTAMP:20260902T202734Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ B-C TAISSY SAINT LEONARD – MAISON DES JEUNES ET DE LA CULT
+ URE DE DORMANS
+DESCRIPTION:🏀 B-2-DMU15-5 – GES – Marne – Poule A\n⚔️ B-C TAIS
+ SY SAINT LEONARD vs MAISON DES JEUNES ET DE LA CULTURE DE DORMANS\n\nSALLE
+  DES SPORTS\n📍 Esplanade Jean Colbert Taissy 51500\n🚗 Waze : https:/
+ /waze.com/ul?ll=49.21562\,4.08098&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/b-2-dmu15-5/match/200000014687187
+LOCATION:SALLE DES SPORTS\, Esplanade Jean Colbert Taissy 51500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-5/match/200000014687187
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GAULOISE DE VITRY LE FRANCOIS  [B-2-DMU13-4 – GES – Poule A]
+X-WR-CALDESC:Matchs de GAULOISE DE VITRY LE FRANCOIS – B-2-DMU13-4 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-2-dmu13-4-ges-marne-poule-a-2026-09-26-00-00-gauloise-de-vitry-le-fra
+ ncois-cad@ffbb-agenda
+DTSTAMP:20260902T202910Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS – CAD MOURMELON BASKETBALL
+DESCRIPTION:🏀 B-2-DMU13-4 – GES – Marne – Poule A\n⚔️ GAULOISE
+  DE VITRY LE FRANCOIS vs CAD MOURMELON BASKETBALL\n\nGYMNASE DU TERME HILA
+ IRE\n📍 Rue du Terme Hilaire Mourmelon-le-Grand 51400\n🚗 Waze : https
+ ://waze.com/ul?ll=49.13644\,4.36988&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0051/competitions/b-2-dmu13-4/match/200000014688563
+LOCATION:GYMNASE DU TERME HILAIRE\, Rue du Terme Hilaire Mourmelon-le-Grand
+  51400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu13-4/match/200000014688563
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu13-4-ges-marne-poule-a-2026-09-26-00-00-gauloise-de-vitry-le-fra
+ ncois-mai@ffbb-agenda
+DTSTAMP:20260902T202910Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 GAULOISE DE VITRY LE FRANCOIS – MAISON DES JEUNES ET DE LA C
+ ULTURE DE DORMANS
+DESCRIPTION:🏀 B-2-DMU13-4 – GES – Marne – Poule A\n⚔️ GAULOISE
+  DE VITRY LE FRANCOIS vs MAISON DES JEUNES ET DE LA CULTURE DE DORMANS\n\n
+ GYMNASE DU TERME HILAIRE\n📍 Rue du Terme Hilaire Mourmelon-le-Grand 514
+ 00\n🚗 Waze : https://waze.com/ul?ll=49.13644\,4.36988&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-dmu13-4/match/2000
+ 00014688564
+LOCATION:GYMNASE DU TERME HILAIRE\, Rue du Terme Hilaire Mourmelon-le-Grand
+  51400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu13-4/match/200000014688564
+END:VEVENT
+END:VCALENDAR

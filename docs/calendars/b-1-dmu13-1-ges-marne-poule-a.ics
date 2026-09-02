@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – B-1-DMU13-1 – GES – Marne – Poule A
+X-WR-CALDESC:Tous les matchs B-1-DMU13-1 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-1-dmu13-1-ges-marne-poule-a-2026-09-19-00-00-union-sportive-de-sezann
+ e-reims-u@ffbb-agenda
+DTSTAMP:20260902T202743Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:UNION SPORTIVE DE SEZANNE – REIMS UNIVERSITE CLUB BASKET
+DESCRIPTION:🏀 B-1-DMU13-1 – GES – Marne – Poule A\n⚔️ UNION SP
+ ORTIVE DE SEZANNE vs REIMS UNIVERSITE CLUB BASKET\n\nGYMNASE JEAN-JACQUES 
+ LAPIQUE\n📍 Rue François Arago Reims 51100\n🚗 Waze : https://waze.co
+ m/ul?ll=49.22861\,4.00473&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/b-1-dmu13-1/match/200000014688305
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu13-1/match/200000014688305
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu13-1-ges-marne-poule-a-2026-09-19-00-00-union-sportive-de-sezann
+ e-amicale@ffbb-agenda
+DTSTAMP:20260902T202743Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:UNION SPORTIVE DE SEZANNE – AMICALE DES JEUNES DE BETHENY - 1
+DESCRIPTION:🏀 B-1-DMU13-1 – GES – Marne – Poule A\n⚔️ UNION SP
+ ORTIVE DE SEZANNE vs AMICALE DES JEUNES DE BETHENY - 1\n\nGYMNASE JEAN-JAC
+ QUES LAPIQUE\n📍 Rue François Arago Reims 51100\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.22861\,4.00473&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0051/competitions/b-1-dmu13-1/match/200000014688306
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu13-1/match/200000014688306
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu13-1-ges-marne-poule-a-2026-09-19-00-00-reims-universite-club-ba
+ sket-reim@ffbb-agenda
+DTSTAMP:20260902T202743Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:REIMS UNIVERSITE CLUB BASKET – REIMS CHAMPAGNE BASKET - 2
+DESCRIPTION:🏀 B-1-DMU13-1 – GES – Marne – Poule A\n⚔️ REIMS UN
+ IVERSITE CLUB BASKET vs REIMS CHAMPAGNE BASKET - 2\n\nGYMNASE JEAN-JACQUES
+  LAPIQUE\n📍 Rue François Arago Reims 51100\n🚗 Waze : https://waze.c
+ om/ul?ll=49.22861\,4.00473&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0051/competitions/b-1-dmu13-1/match/200000014688307
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu13-1/match/200000014688307
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu13-1-ges-marne-poule-a-2026-09-19-00-00-amicale-des-jeunes-de-be
+ theny-1-r@ffbb-agenda
+DTSTAMP:20260902T202743Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:AMICALE DES JEUNES DE BETHENY - 1 – REIMS CHAMPAGNE BASKET - 2
+DESCRIPTION:🏀 B-1-DMU13-1 – GES – Marne – Poule A\n⚔️ AMICALE 
+ DES JEUNES DE BETHENY - 1 vs REIMS CHAMPAGNE BASKET - 2\n\nGYMNASE JEAN-JA
+ CQUES LAPIQUE\n📍 Rue François Arago Reims 51100\n🚗 Waze : https://w
+ aze.com/ul?ll=49.22861\,4.00473&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0051/competitions/b-1-dmu13-1/match/200000014688308
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu13-1/match/200000014688308
+END:VEVENT
+END:VCALENDAR

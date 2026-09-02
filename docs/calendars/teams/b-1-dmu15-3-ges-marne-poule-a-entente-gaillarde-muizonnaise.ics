@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ENTENTE GAILLARDE MUIZONNAISE  [B-1-DMU15-3 – GES – Poule A]
+X-WR-CALDESC:Matchs de ENTENTE GAILLARDE MUIZONNAISE – B-1-DMU15-3 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-1-dmu15-3-ges-marne-poule-a-2026-09-19-00-00-f-j-e-p-basket-de-bazanc
+ ourt-ente@ffbb-agenda
+DTSTAMP:20260902T202633Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ F-J-E-P- BASKET DE BAZANCOURT – ENTENTE GAILLARDE MUIZONNA
+ ISE
+DESCRIPTION:🏀 B-1-DMU15-3 – GES – Marne – Poule A\n⚔️ F-J-E-P-
+  BASKET DE BAZANCOURT vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE COMMUNAL
+ \n📍 Voie Barroise Bazancourt 51110\n🚗 Waze : https://waze.com/ul?ll=
+ 49.35801\,4.16745&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/b-1-dmu15-3/match/200000014686814
+LOCATION:GYMNASE COMMUNAL\, Voie Barroise Bazancourt 51110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-3/match/200000014686814
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu15-3-ges-marne-poule-a-2026-09-19-00-00-entente-gaillarde-muizon
+ naise-esp@ffbb-agenda
+DTSTAMP:20260902T202633Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 ENTENTE GAILLARDE MUIZONNAISE – ESPE BASKET CHALONS EN CHAMP
+ AGNE
+DESCRIPTION:🏀 B-1-DMU15-3 – GES – Marne – Poule A\n⚔️ ENTENTE 
+ GAILLARDE MUIZONNAISE vs ESPE BASKET CHALONS EN CHAMPAGNE\n\nGYMNASE COMMU
+ NAL\n📍 Voie Barroise Bazancourt 51110\n🚗 Waze : https://waze.com/ul?
+ ll=49.35801\,4.16745&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 1/competitions/b-1-dmu15-3/match/200000014686816
+LOCATION:GYMNASE COMMUNAL\, Voie Barroise Bazancourt 51110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-3/match/200000014686816
+END:VEVENT
+END:VCALENDAR

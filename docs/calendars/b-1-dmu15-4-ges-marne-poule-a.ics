@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – B-1-DMU15-4 – GES – Marne – Poule A
+X-WR-CALDESC:Tous les matchs B-1-DMU15-4 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-1-dmu15-4-ges-marne-poule-a-2026-09-19-00-00-la-fertonne-fere-champen
+ oise-ente@ffbb-agenda
+DTSTAMP:20260902T202640Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:LA FERTONNE FERE-CHAMPENOISE – ENTENTE ASCB / CADM
+DESCRIPTION:🏀 B-1-DMU15-4 – GES – Marne – Poule A\n⚔️ LA FERTO
+ NNE FERE-CHAMPENOISE vs ENTENTE ASCB / CADM\n\nGYMNASE PAUL MASSIN\n📍 R
+ ue de la Libération Fère-Champenoise 51230\n🚗 Waze : https://waze.com
+ /ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0051/competitions/b-1-dmu15-4/match/200000014686821
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-4/match/200000014686821
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu15-4-ges-marne-poule-a-2026-09-19-00-00-la-fertonne-fere-champen
+ oise-amic@ffbb-agenda
+DTSTAMP:20260902T202640Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:LA FERTONNE FERE-CHAMPENOISE – AMICALE BASKET SPARNACIENNE - 1
+DESCRIPTION:🏀 B-1-DMU15-4 – GES – Marne – Poule A\n⚔️ LA FERTO
+ NNE FERE-CHAMPENOISE vs AMICALE BASKET SPARNACIENNE - 1\n\nGYMNASE PAUL MA
+ SSIN\n📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : http
+ s://waze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/b-1-dmu15-4/match/200000014686822
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-4/match/200000014686822
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu15-4-ges-marne-poule-a-2026-09-19-00-00-entente-ascb-cadm-b-c-ta
+ issy-sain@ffbb-agenda
+DTSTAMP:20260902T202640Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:ENTENTE ASCB / CADM – B-C TAISSY SAINT LEONARD
+DESCRIPTION:🏀 B-1-DMU15-4 – GES – Marne – Poule A\n⚔️ ENTENTE 
+ ASCB / CADM vs B-C TAISSY SAINT LEONARD\n\nGYMNASE PAUL MASSIN\n📍 Rue d
+ e la Libération Fère-Champenoise 51230\n🚗 Waze : https://waze.com/ul?
+ ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 1/competitions/b-1-dmu15-4/match/200000014686823
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-4/match/200000014686823
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu15-4-ges-marne-poule-a-2026-09-19-00-00-amicale-basket-sparnacie
+ nne-1-b-c@ffbb-agenda
+DTSTAMP:20260902T202640Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:AMICALE BASKET SPARNACIENNE - 1 – B-C TAISSY SAINT LEONARD
+DESCRIPTION:🏀 B-1-DMU15-4 – GES – Marne – Poule A\n⚔️ AMICALE 
+ BASKET SPARNACIENNE - 1 vs B-C TAISSY SAINT LEONARD\n\nGYMNASE PAUL MASSIN
+ \n📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : https://
+ waze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/b-1-dmu15-4/match/200000014686824
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-4/match/200000014686824
+END:VEVENT
+END:VCALENDAR

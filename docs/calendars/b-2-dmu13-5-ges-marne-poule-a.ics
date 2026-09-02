@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – B-2-DMU13-5 – GES – Marne – Poule A
+X-WR-CALDESC:Tous les matchs B-2-DMU13-5 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-2-dmu13-5-ges-marne-poule-a-2026-09-26-00-00-amicale-des-jeunes-de-be
+ theny-2-l@ffbb-agenda
+DTSTAMP:20260902T202918Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – LA FERTONNE FERE-CHAMPENOISE
+DESCRIPTION:🏀 B-2-DMU13-5 – GES – Marne – Poule A\n⚔️ AMICALE 
+ DES JEUNES DE BETHENY - 2 vs LA FERTONNE FERE-CHAMPENOISE\n\nGYMNASE PAUL 
+ MASSIN\n📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0051/competitions/b-2-dmu13-5/match/200000014688568
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu13-5/match/200000014688568
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu13-5-ges-marne-poule-a-2026-09-26-00-00-amicale-des-jeunes-de-be
+ theny-2-a@ffbb-agenda
+DTSTAMP:20260902T202918Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – AMICALE BASKET SPARNACIENNE -
+  2
+DESCRIPTION:🏀 B-2-DMU13-5 – GES – Marne – Poule A\n⚔️ AMICALE 
+ DES JEUNES DE BETHENY - 2 vs AMICALE BASKET SPARNACIENNE - 2\n\nGYMNASE PA
+ UL MASSIN\n📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze :
+  https://waze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/b-2-dmu13-5/match/200000014688569
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu13-5/match/200000014688569
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu13-5-ges-marne-poule-a-2026-09-26-00-00-la-fertonne-fere-champen
+ oise-amic@ffbb-agenda
+DTSTAMP:20260902T202918Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:LA FERTONNE FERE-CHAMPENOISE – AMICALE BASKET SPARNACIENNE - 2
+DESCRIPTION:🏀 B-2-DMU13-5 – GES – Marne – Poule A\n⚔️ LA FERTO
+ NNE FERE-CHAMPENOISE vs AMICALE BASKET SPARNACIENNE - 2\n\nGYMNASE PAUL MA
+ SSIN\n📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : http
+ s://waze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/b-2-dmu13-5/match/200000014688570
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu13-5/match/200000014688570
+END:VEVENT
+END:VCALENDAR

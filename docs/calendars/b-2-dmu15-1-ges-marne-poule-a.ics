@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – B-2-DMU15-1 – GES – Marne – Poule A
+X-WR-CALDESC:Tous les matchs B-2-DMU15-1 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-2-dmu15-1-ges-marne-poule-a-2026-09-26-00-00-union-sportive-de-sezann
+ e-associa@ffbb-agenda
+DTSTAMP:20260902T202701Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:UNION SPORTIVE DE SEZANNE – ASSOCIATION CORMONTREUIL CHAMPAGNE BA
+ SKET - 2
+DESCRIPTION:🏀 B-2-DMU15-1 – GES – Marne – Poule A\n⚔️ UNION SP
+ ORTIVE DE SEZANNE vs ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 2\n\nGYMN
+ ASE DE LA PAIX\n📍 Rue de la Paix Cormontreuil 51350\n🚗 Waze : https:
+ //waze.com/ul?ll=49.22128\,4.05265&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0051/competitions/b-2-dmu15-1/match/200000014686827
+LOCATION:GYMNASE DE LA PAIX\, Rue de la Paix Cormontreuil 51350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-1/match/200000014686827
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu15-1-ges-marne-poule-a-2026-09-26-00-00-union-sportive-de-sezann
+ e-entente@ffbb-agenda
+DTSTAMP:20260902T202701Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:UNION SPORTIVE DE SEZANNE – ENTENTE GAILLARDE MUIZONNAISE - 2
+DESCRIPTION:🏀 B-2-DMU15-1 – GES – Marne – Poule A\n⚔️ UNION SP
+ ORTIVE DE SEZANNE vs ENTENTE GAILLARDE MUIZONNAISE - 2\n\nGYMNASE DE LA PA
+ IX\n📍 Rue de la Paix Cormontreuil 51350\n🚗 Waze : https://waze.com/u
+ l?ll=49.22128\,4.05265&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 051/competitions/b-2-dmu15-1/match/200000014686828
+LOCATION:GYMNASE DE LA PAIX\, Rue de la Paix Cormontreuil 51350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-1/match/200000014686828
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu15-1-ges-marne-poule-a-2026-09-26-00-00-association-cormontreuil
+ -champagn@ffbb-agenda
+DTSTAMP:20260902T202701Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 2 – AMICALE BASKET SP
+ ARNACIENNE - 2
+DESCRIPTION:🏀 B-2-DMU15-1 – GES – Marne – Poule A\n⚔️ ASSOCIAT
+ ION CORMONTREUIL CHAMPAGNE BASKET - 2 vs AMICALE BASKET SPARNACIENNE - 2\n
+ \nGYMNASE DE LA PAIX\n📍 Rue de la Paix Cormontreuil 51350\n🚗 Waze : 
+ https://waze.com/ul?ll=49.22128\,4.05265&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0051/competitions/b-2-dmu15-1/match/200000014686829
+LOCATION:GYMNASE DE LA PAIX\, Rue de la Paix Cormontreuil 51350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-1/match/200000014686829
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu15-1-ges-marne-poule-a-2026-09-26-00-00-entente-gaillarde-muizon
+ naise-2-a@ffbb-agenda
+DTSTAMP:20260902T202701Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:ENTENTE GAILLARDE MUIZONNAISE - 2 – AMICALE BASKET SPARNACIENNE -
+  2
+DESCRIPTION:🏀 B-2-DMU15-1 – GES – Marne – Poule A\n⚔️ ENTENTE 
+ GAILLARDE MUIZONNAISE - 2 vs AMICALE BASKET SPARNACIENNE - 2\n\nGYMNASE DE
+  LA PAIX\n📍 Rue de la Paix Cormontreuil 51350\n🚗 Waze : https://waze
+ .com/ul?ll=49.22128\,4.05265&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0051/competitions/b-2-dmu15-1/match/200000014686830
+LOCATION:GYMNASE DE LA PAIX\, Rue de la Paix Cormontreuil 51350
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-1/match/200000014686830
+END:VEVENT
+END:VCALENDAR

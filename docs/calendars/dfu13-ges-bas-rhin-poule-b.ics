@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dfu13-ges-bas-rhin-poule-b-2026-09-12-15-15-basket-club-nord-alsace-ven
- denheim-b@ffbb-agenda
-DTSTAMP:20260901T201112Z
-DTSTART;TZID=Europe/Paris:20260912T151500
-DTEND;TZID=Europe/Paris:20260912T171500
-SUMMARY:BASKET CLUB NORD ALSACE – VENDENHEIM BC
-DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ BASKET CLUB
-  NORD ALSACE vs VENDENHEIM BC\n\nMAISON DES SPORTS\n📍 Impasse du Tourno
- i Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/mat
- ch/200000014660313
-LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
- 3/match/200000014660313
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-09-12-15-15-asa-weyersheim-3-schweighou
  se-ohlung@ffbb-agenda
-DTSTAMP:20260901T201112Z
+DTSTAMP:20260902T201003Z
 DTSTART;TZID=Europe/Paris:20260912T151500
 DTEND;TZID=Europe/Paris:20260912T171500
 SUMMARY:ASA WEYERSHEIM - 3 – SCHWEIGHOUSE/OHLUNGEN B.C.
@@ -58,9 +41,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  3/match/200000014660314
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-09-12-15-15-basket-club-nord-alsace-ven
+ denheim-b@ffbb-agenda
+DTSTAMP:20260902T201003Z
+DTSTART;TZID=Europe/Paris:20260912T151500
+DTEND;TZID=Europe/Paris:20260912T171500
+SUMMARY:BASKET CLUB NORD ALSACE – VENDENHEIM BC
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ BASKET CLUB
+  NORD ALSACE vs VENDENHEIM BC\n\nMAISON DES SPORTS\n📍 Impasse du Tourno
+ i Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/mat
+ ch/200000014660313
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660313
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-09-19-14-00-asa-weyersheim-3-basket-clu
  b-nord-al@ffbb-agenda
-DTSTAMP:20260901T201112Z
+DTSTAMP:20260902T201003Z
 DTSTART;TZID=Europe/Paris:20260919T140000
 DTEND;TZID=Europe/Paris:20260919T160000
 SUMMARY:ASA WEYERSHEIM - 3 – BASKET CLUB NORD ALSACE
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-09-19-17-00-vendenheim-bc-ohnheim-c-s-s
  -a@ffbb-agenda
-DTSTAMP:20260901T201112Z
+DTSTAMP:20260902T201003Z
 DTSTART;TZID=Europe/Paris:20260919T170000
 DTEND;TZID=Europe/Paris:20260919T190000
 SUMMARY:VENDENHEIM BC – OHNHEIM C.S.S.A.
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-09-26-13-30-ohnheim-c-s-s-a-asa-weyersh
  eim-3@ffbb-agenda
-DTSTAMP:20260901T201112Z
+DTSTAMP:20260902T201003Z
 DTSTART;TZID=Europe/Paris:20260926T133000
 DTEND;TZID=Europe/Paris:20260926T153000
 SUMMARY:OHNHEIM C.S.S.A. – ASA WEYERSHEIM - 3
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-09-26-15-15-basket-club-nord-alsace-sch
  weighouse@ffbb-agenda
-DTSTAMP:20260901T201112Z
+DTSTAMP:20260902T201003Z
 DTSTART;TZID=Europe/Paris:20260926T151500
 DTEND;TZID=Europe/Paris:20260926T171500
 SUMMARY:BASKET CLUB NORD ALSACE – SCHWEIGHOUSE/OHLUNGEN B.C.
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-10-03-13-30-ohnheim-c-s-s-a-basket-club
  -nord-als@ffbb-agenda
-DTSTAMP:20260901T201112Z
+DTSTAMP:20260902T201003Z
 DTSTART;TZID=Europe/Paris:20261003T133000
 DTEND;TZID=Europe/Paris:20261003T153000
 SUMMARY:OHNHEIM C.S.S.A. – BASKET CLUB NORD ALSACE
@@ -143,11 +143,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
  3/match/200000014660322
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu13-ges-bas-rhin-poule-b-2026-10-03-13-30-vendenheim-bc-schweighouse-
+UID:dfu13-ges-bas-rhin-poule-b-2026-10-03-14-00-vendenheim-bc-schweighouse-
  ohlungen-@ffbb-agenda
-DTSTAMP:20260901T201112Z
-DTSTART;TZID=Europe/Paris:20261003T133000
-DTEND;TZID=Europe/Paris:20261003T153000
+DTSTAMP:20260902T201003Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
 SUMMARY:VENDENHEIM BC – SCHWEIGHOUSE/OHLUNGEN B.C.
 DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ VENDENHEIM 
  BC vs SCHWEIGHOUSE/OHLUNGEN B.C.\n\nANNEXE GYMNASE MAILFERT\n📍 Rue Char
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-10-10-14-30-schweighouse-ohlungen-b-c-o
  hnheim-c-@ffbb-agenda
-DTSTAMP:20260901T201112Z
+DTSTAMP:20260902T201003Z
 DTSTART;TZID=Europe/Paris:20261010T143000
 DTEND;TZID=Europe/Paris:20261010T163000
 SUMMARY:SCHWEIGHOUSE/OHLUNGEN B.C. – OHNHEIM C.S.S.A.
@@ -180,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu13-ges-bas-rhin-poule-b-2026-10-10-15-15-asa-weyersheim-3-vendenheim
  -bc@ffbb-agenda
-DTSTAMP:20260901T201112Z
+DTSTAMP:20260902T201003Z
 DTSTART;TZID=Europe/Paris:20261010T151500
 DTEND;TZID=Europe/Paris:20261010T171500
 SUMMARY:ASA WEYERSHEIM - 3 – VENDENHEIM BC

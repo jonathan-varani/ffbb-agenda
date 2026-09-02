@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – EVEIL RECY SAINT MARTIN BASKET  [B-1-DMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de EVEIL RECY SAINT MARTIN BASKET – B-1-DMU13 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-1-dmu13-ges-marne-poule-a-2026-09-19-00-00-gauloise-de-vitry-le-franc
+ ois-1-eve@ffbb-agenda
+DTSTAMP:20260902T202759Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:✈️ GAULOISE DE VITRY LE FRANCOIS - 1 – EVEIL RECY SAINT MARTI
+ N BASKET
+DESCRIPTION:🏀 B-1-DMU13 – GES – Marne – Poule A\n⚔️ GAULOISE D
+ E VITRY LE FRANCOIS - 1 vs EVEIL RECY SAINT MARTIN BASKET\n\nGYMNASE SALVA
+ DOR ALLENDE\n📍 Rue de Luzarches Saint-Brice-Courcelles 51370\n🚗 Waze
+  : https://waze.com/ul?ll=49.26198\,3.98809&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0051/competitions/b-1-dmu13/match/200000014710199
+LOCATION:GYMNASE SALVADOR ALLENDE\, Rue de Luzarches Saint-Brice-Courcelles
+  51370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu13/match/200000014710199
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu13-ges-marne-poule-a-2026-09-19-00-00-eveil-recy-saint-martin-ba
+ sket-asso@ffbb-agenda
+DTSTAMP:20260902T202759Z
+DTSTART;TZID=Europe/Paris:20260919T000000
+DTEND;TZID=Europe/Paris:20260919T020000
+SUMMARY:🏠 EVEIL RECY SAINT MARTIN BASKET – ASSOCIATION CORMONTREUIL CH
+ AMPAGNE BASKET - 2
+DESCRIPTION:🏀 B-1-DMU13 – GES – Marne – Poule A\n⚔️ EVEIL RECY
+  SAINT MARTIN BASKET vs ASSOCIATION CORMONTREUIL CHAMPAGNE BASKET - 2\n\nG
+ YMNASE SALVADOR ALLENDE\n📍 Rue de Luzarches Saint-Brice-Courcelles 5137
+ 0\n🚗 Waze : https://waze.com/ul?ll=49.26198\,3.98809&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-dmu13/match/200000
+ 014710201
+LOCATION:GYMNASE SALVADOR ALLENDE\, Rue de Luzarches Saint-Brice-Courcelles
+  51370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu13/match/200000014710201
+END:VEVENT
+END:VCALENDAR

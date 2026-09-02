@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB –   [DFU11 – GES – Poule C]
+X-WR-CALDESC:Matchs de  – DFU11 – GES – Haut-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-10-03-00-00-pantheres-mulhouse-basket-
+ alsace-2@ffbb-agenda
+DTSTAMP:20260902T201926Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY: – PANTHERES MULHOUSE BASKET ALSACE - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️  vs PANTHE
+ RES MULHOUSE BASKET ALSACE - 2\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse Je
+ nn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/ma
+ tch/200000014673125
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014673125
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-10-17-00-00-ie-ctc-jura-alsacien-baske
+ t-2@ffbb-agenda
+DTSTAMP:20260902T201926Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY: – IE - CTC JURA ALSACIEN BASKET - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️  vs IE - C
+ TC JURA ALSACIEN BASKET - 2\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse Jenn 
+ Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match
+ /200000014673133
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014673133
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-11-14-00-00-asca-wittelsheim@ffbb-agen
+ da
+DTSTAMP:20260902T201926Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY: – ASCA WITTELSHEIM
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️  vs ASCA W
+ ITTELSHEIM\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse Jenn Ferrette 68480\n
+ 🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/200000014673145
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014673145
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-11-21-00-00-ie-ctc-de-l-ill-2@ffbb-age
+ nda
+DTSTAMP:20260902T201926Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY: – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️  vs IE - C
+ TC DE L'ILL - 2\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse Jenn Ferrette 684
+ 80\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/2000000146
+ 73150
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014673150
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-c-2026-12-05-00-00-ie-ctc-thur-doller-basket-
+ club@ffbb-agenda
+DTSTAMP:20260902T201926Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY: – IE - CTC THUR DOLLER BASKET CLUB
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule C\n⚔️  vs IE - C
+ TC THUR DOLLER BASKET CLUB\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse Jenn F
+ errette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/
+ 200000014673155
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014673155
+END:VEVENT
+END:VCALENDAR

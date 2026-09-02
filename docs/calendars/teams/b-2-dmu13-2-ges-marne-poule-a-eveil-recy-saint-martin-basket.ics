@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – EVEIL RECY SAINT MARTIN BASKET  [B-2-DMU13-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de EVEIL RECY SAINT MARTIN BASKET – B-2-DMU13-2 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b-2-dmu13-2-ges-marne-poule-a-2026-09-26-00-00-reims-champagne-basket-3
+ -eveil-re@ffbb-agenda
+DTSTAMP:20260902T202853Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ REIMS CHAMPAGNE BASKET - 3 – EVEIL RECY SAINT MARTIN BASKE
+ T
+DESCRIPTION:🏀 B-2-DMU13-2 – GES – Marne – Poule A\n⚔️ REIMS CH
+ AMPAGNE BASKET - 3 vs EVEIL RECY SAINT MARTIN BASKET\n\nGYMNASE PIERRE ARN
+ OULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.com/ul?ll
+ =48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/b-2-dmu13-2/match/200000014688555
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu13-2/match/200000014688555
+END:VEVENT
+BEGIN:VEVENT
+UID:b-2-dmu13-2-ges-marne-poule-a-2026-09-26-00-00-eveil-recy-saint-martin-
+ basket-e-@ffbb-agenda
+DTSTAMP:20260902T202853Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 EVEIL RECY SAINT MARTIN BASKET – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 B-2-DMU13-2 – GES – Marne – Poule A\n⚔️ EVEIL RE
+ CY SAINT MARTIN BASKET vs E- L-WITRY LES REIMS BASKET\n\nGYMNASE PIERRE AR
+ NOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.com/ul?l
+ l=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051
+ /competitions/b-2-dmu13-2/match/200000014688557
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu13-2/match/200000014688557
+END:VEVENT
+END:VCALENDAR

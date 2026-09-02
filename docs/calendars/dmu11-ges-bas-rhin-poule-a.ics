@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dmu11-ges-bas-rhin-poule-a-2026-09-12-13-30-strasbourg-ass-schirrhein-c
- -s-c-sn@ffbb-agenda
-DTSTAMP:20260901T202017Z
-DTSTART;TZID=Europe/Paris:20260912T133000
-DTEND;TZID=Europe/Paris:20260912T153000
-SUMMARY:STRASBOURG ASS – SCHIRRHEIN C.S.C.SN
-DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule A\n⚔️ STRASBOURG 
- ASS vs SCHIRRHEIN C.S.C.SN\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss 
- Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navi
- gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
- ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11/matc
- h/200000014660041
-LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
- 1/match/200000014660041
-END:VEVENT
-BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-09-12-14-00-niederschaeffolsheim-c-s-m-
  s-u-schil@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20260912T140000
 DTEND;TZID=Europe/Paris:20260912T160000
 SUMMARY:NIEDERSCHAEFFOLSHEIM C.S.M. – S.U. SCHILTIGHEIM BASKET BALL
@@ -59,9 +42,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1/match/200000014660040
 END:VEVENT
 BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-a-2026-09-12-15-30-strasbourg-ass-schirrhein-c
+ -s-c-sn@ffbb-agenda
+DTSTAMP:20260902T201655Z
+DTSTART;TZID=Europe/Paris:20260912T153000
+DTEND;TZID=Europe/Paris:20260912T173000
+SUMMARY:STRASBOURG ASS – SCHIRRHEIN C.S.C.SN
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule A\n⚔️ STRASBOURG 
+ ASS vs SCHIRRHEIN C.S.C.SN\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss 
+ Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11/matc
+ h/200000014660041
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660041
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-09-13-09-00-asa-gries-oberhoffen-unitas
  -brumath-@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20260913T090000
 DTEND;TZID=Europe/Paris:20260913T110000
 SUMMARY:ASA GRIES / OBERHOFFEN – UNITAS BRUMATH BASKET
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-09-20-10-30-schirrhein-c-s-c-sn-unitas-
  brumath-b@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20260920T103000
 DTEND;TZID=Europe/Paris:20260920T123000
 SUMMARY:SCHIRRHEIN C.S.C.SN – UNITAS BRUMATH BASKET
@@ -93,11 +93,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1/match/200000014660045
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu11-ges-bas-rhin-poule-a-2026-09-20-15-30-strasbourg-ass-niederschaef
+UID:dmu11-ges-bas-rhin-poule-a-2026-09-20-13-30-strasbourg-ass-niederschaef
  folsheim-@ffbb-agenda
-DTSTAMP:20260901T202017Z
-DTSTART;TZID=Europe/Paris:20260920T153000
-DTEND;TZID=Europe/Paris:20260920T173000
+DTSTAMP:20260902T201655Z
+DTSTART;TZID=Europe/Paris:20260920T133000
+DTEND;TZID=Europe/Paris:20260920T153000
 SUMMARY:STRASBOURG ASS – NIEDERSCHAEFFOLSHEIM C.S.M.
 DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule A\n⚔️ STRASBOURG 
  ASS vs NIEDERSCHAEFFOLSHEIM C.S.M.\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pier
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-09-20-16-00-s-u-schiltigheim-basket-bal
  l-asa-gri@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20260920T160000
 DTEND;TZID=Europe/Paris:20260920T180000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – ASA GRIES / OBERHOFFEN
@@ -129,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-09-26-13-00-asa-gries-oberhoffen-strasb
  ourg-ass@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20260926T130000
 DTEND;TZID=Europe/Paris:20260926T150000
 SUMMARY:ASA GRIES / OBERHOFFEN – STRASBOURG ASS
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-09-26-14-00-niederschaeffolsheim-c-s-m-
  schirrhei@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20260926T140000
 DTEND;TZID=Europe/Paris:20260926T160000
 SUMMARY:NIEDERSCHAEFFOLSHEIM C.S.M. – SCHIRRHEIN C.S.C.SN
@@ -162,11 +162,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1/match/200000014660046
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu11-ges-bas-rhin-poule-a-2026-09-26-15-30-unitas-brumath-basket-s-u-s
+UID:dmu11-ges-bas-rhin-poule-a-2026-09-26-15-15-unitas-brumath-basket-s-u-s
  chiltighe@ffbb-agenda
-DTSTAMP:20260901T202017Z
-DTSTART;TZID=Europe/Paris:20260926T153000
-DTEND;TZID=Europe/Paris:20260926T173000
+DTSTAMP:20260902T201655Z
+DTSTART;TZID=Europe/Paris:20260926T151500
+DTEND;TZID=Europe/Paris:20260926T171500
 SUMMARY:UNITAS BRUMATH BASKET – S.U. SCHILTIGHEIM BASKET BALL
 DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule A\n⚔️ UNITAS BRUM
  ATH BASKET vs S.U. SCHILTIGHEIM BASKET BALL\n\nCENTRE OMNISPORTS\n📍 Rue
@@ -179,11 +179,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1/match/200000014660047
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu11-ges-bas-rhin-poule-a-2026-10-03-15-30-unitas-brumath-basket-stras
+UID:dmu11-ges-bas-rhin-poule-a-2026-10-03-15-15-unitas-brumath-basket-stras
  bourg-ass@ffbb-agenda
-DTSTAMP:20260901T202017Z
-DTSTART;TZID=Europe/Paris:20261003T153000
-DTEND;TZID=Europe/Paris:20261003T173000
+DTSTAMP:20260902T201655Z
+DTSTART;TZID=Europe/Paris:20261003T151500
+DTEND;TZID=Europe/Paris:20261003T171500
 SUMMARY:UNITAS BRUMATH BASKET – STRASBOURG ASS
 DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule A\n⚔️ UNITAS BRUM
  ATH BASKET vs STRASBOURG ASS\n\nCENTRE OMNISPORTS\n📍 Rue André Malraux
@@ -198,7 +198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-10-03-15-30-asa-gries-oberhoffen-nieder
  schaeffol@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20261003T153000
 DTEND;TZID=Europe/Paris:20261003T173000
 SUMMARY:ASA GRIES / OBERHOFFEN – NIEDERSCHAEFFOLSHEIM C.S.M.
@@ -215,7 +215,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-10-04-13-30-s-u-schiltigheim-basket-bal
  l-schirrh@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20261004T133000
 DTEND;TZID=Europe/Paris:20261004T153000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – SCHIRRHEIN C.S.C.SN
@@ -230,26 +230,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1/match/200000014660050
 END:VEVENT
 BEGIN:VEVENT
-UID:dmu11-ges-bas-rhin-poule-a-2026-10-10-13-30-strasbourg-ass-s-u-schiltig
- heim-bask@ffbb-agenda
-DTSTAMP:20260901T202017Z
-DTSTART;TZID=Europe/Paris:20261010T133000
-DTEND;TZID=Europe/Paris:20261010T153000
-SUMMARY:STRASBOURG ASS – S.U. SCHILTIGHEIM BASKET BALL
-DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule A\n⚔️ STRASBOURG 
- ASS vs S.U. SCHILTIGHEIM BASKET BALL\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pi
- erre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.
- 72525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
- FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
- dmu11/match/200000014660053
-LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
- 1/match/200000014660053
-END:VEVENT
-BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-10-10-13-30-schirrhein-c-s-c-sn-asa-gri
  es-oberho@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20261010T133000
 DTEND;TZID=Europe/Paris:20261010T153000
 SUMMARY:SCHIRRHEIN C.S.C.SN – ASA GRIES / OBERHOFFEN
@@ -264,9 +247,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  1/match/200000014660054
 END:VEVENT
 BEGIN:VEVENT
+UID:dmu11-ges-bas-rhin-poule-a-2026-10-10-13-30-strasbourg-ass-s-u-schiltig
+ heim-bask@ffbb-agenda
+DTSTAMP:20260902T201655Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:STRASBOURG ASS – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 DMU11 – GES – Bas-Rhin – Poule A\n⚔️ STRASBOURG 
+ ASS vs S.U. SCHILTIGHEIM BASKET BALL\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pi
+ erre Nuss Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.
+ 72525&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/
+ dmu11/match/200000014660053
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1/match/200000014660053
+END:VEVENT
+BEGIN:VEVENT
 UID:dmu11-ges-bas-rhin-poule-a-2026-10-10-14-00-niederschaeffolsheim-c-s-m-
  unitas-br@ffbb-agenda
-DTSTAMP:20260901T202017Z
+DTSTAMP:20260902T201655Z
 DTSTART;TZID=Europe/Paris:20261010T140000
 DTEND;TZID=Europe/Paris:20261010T160000
 SUMMARY:NIEDERSCHAEFFOLSHEIM C.S.M. – UNITAS BRUMATH BASKET

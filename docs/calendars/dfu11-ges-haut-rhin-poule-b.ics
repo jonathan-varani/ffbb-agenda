@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-09-26-16-30-asc-ste-afre-riedisheim-cb
  -kientzhe@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20260926T163000
 DTEND;TZID=Europe/Paris:20260926T183000
 SUMMARY:ASC STE AFRE RIEDISHEIM – CB KIENTZHEIM - 2
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-09-27-13-30-bc-st-georges-carspach-bc-
  kunheim@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20260927T133000
 DTEND;TZID=Europe/Paris:20260927T153000
 SUMMARY:BC ST GEORGES CARSPACH – BC KUNHEIM
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-09-27-14-00-cssl-sausheim-as-horbourg-
  wihr@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20260927T140000
 DTEND;TZID=Europe/Paris:20260927T160000
 SUMMARY:CSSL SAUSHEIM – AS HORBOURG-WIHR
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-09-27-15-00-berrwiller-staffelfelden-b
  c-2-colma@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20260927T150000
 DTEND;TZID=Europe/Paris:20260927T170000
 SUMMARY:BERRWILLER/STAFFELFELDEN BC - 2 – COLMAR BASKET
@@ -94,26 +94,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558284
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-haut-rhin-poule-b-2026-10-03-14-00-colmar-basket-bc-st-george
- s-carspac@ffbb-agenda
-DTSTAMP:20260901T202315Z
-DTSTART;TZID=Europe/Paris:20261003T140000
-DTEND;TZID=Europe/Paris:20261003T160000
-SUMMARY:COLMAR BASKET – BC ST GEORGES CARSPACH
-DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ COLMAR BAS
- KET vs BC ST GEORGES CARSPACH\n\nGYMNASE PFEFFEL\n📍 Rue de la Bagatelle
-  Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766&naviga
- te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
- ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/
- 200000014558288
-LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
-URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
- 1/match/200000014558288
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-03-14-00-bc-kunheim-asc-ste-afre-ri
  edisheim@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261003T140000
 DTEND;TZID=Europe/Paris:20261003T160000
 SUMMARY:BC KUNHEIM – ASC STE AFRE RIEDISHEIM
@@ -128,9 +111,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558292
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-10-03-14-00-colmar-basket-bc-st-george
+ s-carspac@ffbb-agenda
+DTSTAMP:20260902T201922Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:COLMAR BASKET – BC ST GEORGES CARSPACH
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ COLMAR BAS
+ KET vs BC ST GEORGES CARSPACH\n\nGYMNASE PFEFFEL\n📍 Rue de la Bagatelle
+  Colmar 68000\n🚗 Waze : https://waze.com/ul?ll=48.08432\,7.34766&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/
+ 200000014558288
+LOCATION:GYMNASE PFEFFEL\, Rue de la Bagatelle Colmar 68000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558288
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-03-15-00-cb-kientzheim-2-cssl-saush
  eim@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261003T150000
 DTEND;TZID=Europe/Paris:20261003T170000
 SUMMARY:CB KIENTZHEIM - 2 – CSSL SAUSHEIM
@@ -147,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-03-15-00-as-horbourg-wihr-basket-no
  rd-sundga@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261003T150000
 DTEND;TZID=Europe/Paris:20261003T170000
 SUMMARY:AS HORBOURG-WIHR – BASKET NORD SUNDGAU - 2
@@ -164,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-10-13-30-bc-kunheim-colmar-basket@f
  fbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261010T133000
 DTEND;TZID=Europe/Paris:20261010T153000
 SUMMARY:BC KUNHEIM – COLMAR BASKET
@@ -180,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-10-14-30-cssl-sausheim-asc-ste-afre
  -riedishe@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261010T143000
 DTEND;TZID=Europe/Paris:20261010T163000
 SUMMARY:CSSL SAUSHEIM – ASC STE AFRE RIEDISHEIM
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-10-15-00-basket-nord-sundgau-2-cb-k
  ientzheim@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261010T150000
 DTEND;TZID=Europe/Paris:20261010T170000
 SUMMARY:BASKET NORD SUNDGAU - 2 – CB KIENTZHEIM - 2
@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-11-15-00-berrwiller-staffelfelden-b
  c-2-as-ho@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261011T150000
 DTEND;TZID=Europe/Paris:20261011T170000
 SUMMARY:BERRWILLER/STAFFELFELDEN BC - 2 – AS HORBOURG-WIHR
@@ -231,7 +231,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-17-14-00-as-horbourg-wihr-bc-st-geo
  rges-cars@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261017T140000
 DTEND;TZID=Europe/Paris:20261017T160000
 SUMMARY:AS HORBOURG-WIHR – BC ST GEORGES CARSPACH
@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-17-14-30-cssl-sausheim-bc-kunheim@f
  fbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261017T143000
 DTEND;TZID=Europe/Paris:20261017T163000
 SUMMARY:CSSL SAUSHEIM – BC KUNHEIM
@@ -262,9 +262,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558302
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-10-17-15-00-cb-kientzheim-2-berrwiller
+ -staffelf@ffbb-agenda
+DTSTAMP:20260902T201922Z
+DTSTART;TZID=Europe/Paris:20261017T150000
+DTEND;TZID=Europe/Paris:20261017T170000
+SUMMARY:CB KIENTZHEIM - 2 – BERRWILLER/STAFFELFELDEN BC - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ CB KIENTZH
+ EIM - 2 vs BERRWILLER/STAFFELFELDEN BC - 2\n\nCOSEC KAYSERSBERG\n📍 Rue 
+ du Collège Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll
+ =48.13837\,7.2614&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/dfu11/match/200000014558299
+LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558299
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-10-17-15-00-asc-ste-afre-riedisheim-ba
  sket-nord@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261017T150000
 DTEND;TZID=Europe/Paris:20261017T170000
 SUMMARY:ASC STE AFRE RIEDISHEIM – BASKET NORD SUNDGAU - 2
@@ -280,26 +297,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558300
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-haut-rhin-poule-b-2026-10-17-15-00-cb-kientzheim-2-berrwiller
- -staffelf@ffbb-agenda
-DTSTAMP:20260901T202315Z
-DTSTART;TZID=Europe/Paris:20261017T150000
-DTEND;TZID=Europe/Paris:20261017T170000
-SUMMARY:CB KIENTZHEIM - 2 – BERRWILLER/STAFFELFELDEN BC - 2
-DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ CB KIENTZH
- EIM - 2 vs BERRWILLER/STAFFELFELDEN BC - 2\n\nCOSEC KAYSERSBERG\n📍 Rue 
- du Collège Kaysersberg Vignoble 68240\n🚗 Waze : https://waze.com/ul?ll
- =48.13837\,7.2614&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
- competitions/dfu11/match/200000014558299
-LOCATION:COSEC KAYSERSBERG\, Rue du Collège Kaysersberg Vignoble 68240
-URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
- 1/match/200000014558299
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-07-13-30-bc-st-georges-carspach-cb-
  kientzhei@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261107T133000
 DTEND;TZID=Europe/Paris:20261107T153000
 SUMMARY:BC ST GEORGES CARSPACH – CB KIENTZHEIM - 2
@@ -317,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-07-15-15-berrwiller-staffelfelden-b
  c-2-asc-s@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261107T151500
 DTEND;TZID=Europe/Paris:20261107T171500
 SUMMARY:BERRWILLER/STAFFELFELDEN BC - 2 – ASC STE AFRE RIEDISHEIM
@@ -335,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-08-13-30-colmar-basket-as-horbourg-
  wihr@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261108T133000
 DTEND;TZID=Europe/Paris:20261108T153000
 SUMMARY:COLMAR BASKET – AS HORBOURG-WIHR
@@ -352,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-14-14-00-cb-kientzheim-2-colmar-bas
  ket@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261114T140000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:CB KIENTZHEIM - 2 – COLMAR BASKET
@@ -369,7 +369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-14-14-30-cssl-sausheim-berrwiller-s
  taffelfel@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261114T143000
 DTEND;TZID=Europe/Paris:20261114T163000
 SUMMARY:CSSL SAUSHEIM – BERRWILLER/STAFFELFELDEN BC - 2
@@ -386,7 +386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-14-15-00-basket-nord-sundgau-2-bc-k
  unheim@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261114T150000
 DTEND;TZID=Europe/Paris:20261114T170000
 SUMMARY:BASKET NORD SUNDGAU - 2 – BC KUNHEIM
@@ -403,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-15-11-00-asc-ste-afre-riedisheim-bc
  -st-georg@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261115T110000
 DTEND;TZID=Europe/Paris:20261115T130000
 SUMMARY:ASC STE AFRE RIEDISHEIM – BC ST GEORGES CARSPACH
@@ -421,7 +421,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-21-14-00-colmar-basket-asc-ste-afre
  -riedishe@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261121T140000
 DTEND;TZID=Europe/Paris:20261121T160000
 SUMMARY:COLMAR BASKET – ASC STE AFRE RIEDISHEIM
@@ -438,7 +438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-21-15-00-bc-st-georges-carspach-css
  l-saushei@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261121T150000
 DTEND;TZID=Europe/Paris:20261121T170000
 SUMMARY:BC ST GEORGES CARSPACH – CSSL SAUSHEIM
@@ -456,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-21-15-30-as-horbourg-wihr-bc-kunhei
  m@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261121T153000
 DTEND;TZID=Europe/Paris:20261121T173000
 SUMMARY:AS HORBOURG-WIHR – BC KUNHEIM
@@ -473,7 +473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-21-18-00-berrwiller-staffelfelden-b
  c-2-baske@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261121T180000
 DTEND;TZID=Europe/Paris:20261121T200000
 SUMMARY:BERRWILLER/STAFFELFELDEN BC - 2 – BASKET NORD SUNDGAU - 2
@@ -490,7 +490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-11-28-13-30-basket-nord-sundgau-2-cssl
  -sausheim@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261128T133000
 DTEND;TZID=Europe/Paris:20261128T153000
 SUMMARY:BASKET NORD SUNDGAU - 2 – CSSL SAUSHEIM
@@ -507,7 +507,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-12-05-13-00-cssl-sausheim-colmar-baske
  t@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261205T130000
 DTEND;TZID=Europe/Paris:20261205T150000
 SUMMARY:CSSL SAUSHEIM – COLMAR BASKET
@@ -524,7 +524,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-12-05-14-00-berrwiller-staffelfelden-b
  c-2-bc-ku@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261205T140000
 DTEND;TZID=Europe/Paris:20261205T160000
 SUMMARY:BERRWILLER/STAFFELFELDEN BC - 2 – BC KUNHEIM
@@ -541,7 +541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-12-05-15-00-cb-kientzheim-2-as-horbour
  g-wihr@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261205T150000
 DTEND;TZID=Europe/Paris:20261205T170000
 SUMMARY:CB KIENTZHEIM - 2 – AS HORBOURG-WIHR
@@ -558,7 +558,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-12-05-18-30-basket-nord-sundgau-2-bc-s
  t-georges@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261205T183000
 DTEND;TZID=Europe/Paris:20261205T203000
 SUMMARY:BASKET NORD SUNDGAU - 2 – BC ST GEORGES CARSPACH
@@ -573,26 +573,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558318
 END:VEVENT
 BEGIN:VEVENT
-UID:dfu11-ges-haut-rhin-poule-b-2026-12-12-15-00-bc-kunheim-cb-kientzheim-2
- @ffbb-agenda
-DTSTAMP:20260901T202315Z
-DTSTART;TZID=Europe/Paris:20261212T150000
-DTEND;TZID=Europe/Paris:20261212T170000
-SUMMARY:BC KUNHEIM – CB KIENTZHEIM - 2
-DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ BC KUNHEIM
-  vs CB KIENTZHEIM - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68
- 320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/2000000145
- 58327
-LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
-URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
- 1/match/200000014558327
-END:VEVENT
-BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-12-12-15-00-asc-ste-afre-riedisheim-as
  -horbourg@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261212T150000
 DTEND;TZID=Europe/Paris:20261212T170000
 SUMMARY:ASC STE AFRE RIEDISHEIM – AS HORBOURG-WIHR
@@ -608,9 +591,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
  1/match/200000014558326
 END:VEVENT
 BEGIN:VEVENT
+UID:dfu11-ges-haut-rhin-poule-b-2026-12-12-15-00-bc-kunheim-cb-kientzheim-2
+ @ffbb-agenda
+DTSTAMP:20260902T201922Z
+DTSTART;TZID=Europe/Paris:20261212T150000
+DTEND;TZID=Europe/Paris:20261212T170000
+SUMMARY:BC KUNHEIM – CB KIENTZHEIM - 2
+DESCRIPTION:🏀 DFU11 – GES – Haut-Rhin – Poule B\n⚔️ BC KUNHEIM
+  vs CB KIENTZHEIM - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68
+ 320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dfu11/match/2000000145
+ 58327
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dfu1
+ 1/match/200000014558327
+END:VEVENT
+BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-12-12-16-30-colmar-basket-basket-nord-
  sundgau-2@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261212T163000
 DTEND;TZID=Europe/Paris:20261212T183000
 SUMMARY:COLMAR BASKET – BASKET NORD SUNDGAU - 2
@@ -627,7 +627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dfu11-ges-haut-rhin-poule-b-2026-12-13-13-30-bc-st-georges-carspach-ber
  rwiller-s@ffbb-agenda
-DTSTAMP:20260901T202315Z
+DTSTAMP:20260902T201922Z
 DTSTART;TZID=Europe/Paris:20261213T133000
 DTEND;TZID=Europe/Paris:20261213T153000
 SUMMARY:BC ST GEORGES CARSPACH – BERRWILLER/STAFFELFELDEN BC - 2

@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dmu18-2-ges-bas-rhin-poule-d-2026-09-13-17-30-wantzenau-la-a-s-c-sp-str
  asbourg-j@ffbb-agenda
-DTSTAMP:20260902T201354Z
+DTSTAMP:20260903T201533Z
 DTSTART;TZID=Europe/Paris:20260913T173000
 DTEND;TZID=Europe/Paris:20260913T193000
 SUMMARY:🏠 WANTZENAU (LA) A.S.C.SP – STRASBOURG JS KOENIGSHOFFEN
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu18-2-ges-bas-rhin-poule-d-2026-09-19-15-30-strasbourg-ass-2-wantzena
  u-la-a-s-@ffbb-agenda
-DTSTAMP:20260902T201354Z
+DTSTAMP:20260903T201533Z
 DTSTART;TZID=Europe/Paris:20260919T153000
 DTEND;TZID=Europe/Paris:20260919T173000
 SUMMARY:✈️ STRASBOURG ASS - 2 – WANTZENAU (LA) A.S.C.SP
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmu18-2-ges-bas-rhin-poule-d-2026-10-03-17-30-bischheim-bs-wantzenau-la
  -a-s-c-sp@ffbb-agenda
-DTSTAMP:20260902T201354Z
+DTSTAMP:20260903T201533Z
 DTSTART;TZID=Europe/Paris:20261003T173000
 DTEND;TZID=Europe/Paris:20261003T193000
 SUMMARY:✈️ BISCHHEIM BS – WANTZENAU (LA) A.S.C.SP
@@ -73,5 +73,22 @@ DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule D\n⚔️ BISCHHEIM
 LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
  8-2/match/200000014660937
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-2-ges-bas-rhin-poule-d-2026-10-11-15-30-wantzenau-la-a-s-c-sp@ffb
+ b-agenda
+DTSTAMP:20260903T201533Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 WANTZENAU (LA) A.S.C.SP – 
+DESCRIPTION:🏀 DMU18-2 – GES – Bas-Rhin – Poule D\n⚔️ WANTZENAU
+  (LA) A.S.C.SP vs \n\nESPACE JC KLEIN\n📍 Rue des Vergers La Wantzenau 6
+ 7610\n🚗 Waze : https://waze.com/ul?ll=48.66013\,7.83203&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0067/competitions/dmu18-2/match/2000000
+ 14660940
+LOCATION:ESPACE JC KLEIN\, Rue des Vergers La Wantzenau 67610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8-2/match/200000014660940
 END:VEVENT
 END:VCALENDAR

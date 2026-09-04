@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2026-09-25-20-30-bindernheim-c-s-u-1-erstein-b
- c-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20260925T203000
-DTEND;TZID=Europe/Paris:20260925T223000
-SUMMARY:BINDERNHEIM C.S.U. - 1 – ERSTEIN BC - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BINDERNHEIM C
- .S.U. - 1 vs ERSTEIN BC - 1\n\nSALLE POLYVALENTE\n📍 Rue de Witternheim 
- Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.28678\,7.60704&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/matc
- h/200000014647677
-LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647677
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-09-25-20-30-ie-ctc-sow-osthouse-cstb-1-du
  ttlenheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20260925T203000
 DTEND;TZID=Europe/Paris:20260925T223000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – DUTTLENHEIM LC - 4
@@ -58,9 +41,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647680
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-09-25-20-30-bindernheim-c-s-u-1-erstein-b
+ c-1@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20260925T203000
+DTEND;TZID=Europe/Paris:20260925T223000
+SUMMARY:BINDERNHEIM C.S.U. - 1 – ERSTEIN BC - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BINDERNHEIM C
+ .S.U. - 1 vs ERSTEIN BC - 1\n\nSALLE POLYVALENTE\n📍 Rue de Witternheim 
+ Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.28678\,7.60704&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/matc
+ h/200000014647677
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647677
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-09-26-18-30-strasbourg-electricite-a-s-1-
  ohnenheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20260926T183000
 DTEND;TZID=Europe/Paris:20260926T203000
 SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – OHNENHEIM S.S.C. - 1
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-09-26-18-30-ie-ctc-m2b-molsheim-cstg-1-ob
  ernai-c-a@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20260926T183000
 DTEND;TZID=Europe/Paris:20260926T203000
 SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – OBERNAI C.A. - 1
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-09-26-20-30-kogenheim-sermersheim-b-c-1-b
  arr-gertw@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20260926T203000
 DTEND;TZID=Europe/Paris:20260926T223000
 SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – BARR/GERTWILLER - 1
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-09-27-10-30-val-de-ville-b-c-2-hindisheim
  -c-s-e-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20260927T103000
 DTEND;TZID=Europe/Paris:20260927T123000
 SUMMARY:VAL DE VILLE B.C. - 2 – HINDISHEIM C.S.E - 2
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-02-20-30-erstein-bc-1-strasbourg-elect
  ricite-a-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261002T203000
 DTEND;TZID=Europe/Paris:20261002T223000
 SUMMARY:ERSTEIN BC - 1 – STRASBOURG ELECTRICITE A.S. - 1
@@ -143,43 +143,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647688
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2026-10-03-18-30-duttlenheim-lc-4-ie-ctc-m2b-m
- olsheim-c@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20261003T183000
-DTEND;TZID=Europe/Paris:20261003T203000
-SUMMARY:DUTTLENHEIM LC - 4 – IE - CTC M2B - MOLSHEIM CSTG - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM L
- C - 4 vs IE - CTC M2B - MOLSHEIM CSTG - 1\n\nSALLE DE LA CONCORDE\n📍 Ru
- e du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\
- ,7.56924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
- le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
- ns/df2/match/200000014647685
-LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647685
-END:VEVENT
-BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2026-10-03-18-30-ohnenheim-s-s-c-1-kogenheim-s
- ermershei@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20261003T183000
-DTEND;TZID=Europe/Paris:20261003T203000
-SUMMARY:OHNENHEIM S.S.C. - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OHNENHEIM S.S
- .C. - 1 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nSALLE COMMUNALE\n📍 Rue du 
- Moulin Ohnenheim 67390\n🚗 Waze : https://waze.com/ul?ll=48.18481\,7.504
- 17&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
- B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2
- /match/200000014647687
-LOCATION:SALLE COMMUNALE\, Rue du Moulin Ohnenheim 67390
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647687
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-03-18-30-barr-gertwiller-1-ie-ctc-sow-
  osthouse-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261003T183000
 DTEND;TZID=Europe/Paris:20261003T203000
 SUMMARY:BARR/GERTWILLER - 1 – IE - CTC SOW - OSTHOUSE CSTB - 1
@@ -194,9 +160,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647686
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-10-03-18-30-duttlenheim-lc-4-ie-ctc-m2b-m
+ olsheim-c@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20261003T183000
+DTEND;TZID=Europe/Paris:20261003T203000
+SUMMARY:DUTTLENHEIM LC - 4 – IE - CTC M2B - MOLSHEIM CSTG - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM L
+ C - 4 vs IE - CTC M2B - MOLSHEIM CSTG - 1\n\nSALLE DE LA CONCORDE\n📍 Ru
+ e du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\
+ ,7.56924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/df2/match/200000014647685
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647685
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-03-18-30-bindernheim-c-s-u-1-hindishei
  m-c-s-e-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261003T183000
 DTEND;TZID=Europe/Paris:20261003T203000
 SUMMARY:BINDERNHEIM C.S.U. - 1 – HINDISHEIM C.S.E - 2
@@ -213,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-03-20-00-obernai-c-a-1-val-de-ville-b-
  c-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
 SUMMARY:OBERNAI C.A. - 1 – VAL DE VILLE B.C. - 2
@@ -228,26 +211,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647684
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2026-10-10-00-00-ie-ctc-sow-osthouse-cstb-1-oh
- nenheim-s@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20261010T000000
-DTEND;TZID=Europe/Paris:20261010T020000
-SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – OHNENHEIM S.S.C. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC SOW 
- - OSTHOUSE CSTB - 1 vs OHNENHEIM S.S.C. - 1\n\nSALLE POLYVALENTE\n📍 Rue
-  du Looch Osthouse 67150\n🚗 Waze : https://waze.com/ul?ll=48.4026\,7.64
- 489&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
- BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
- 2/match/200000014647692
-LOCATION:SALLE POLYVALENTE\, Rue du Looch Osthouse 67150
+UID:df2-ges-bas-rhin-poule-b-2026-10-03-20-30-ohnenheim-s-s-c-1-kogenheim-s
+ ermershei@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:OHNENHEIM S.S.C. - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OHNENHEIM S.S
+ .C. - 1 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nSALLE COMMUNALE\n📍 Rue du 
+ Moulin Ohnenheim 67390\n🚗 Waze : https://waze.com/ul?ll=48.18481\,7.504
+ 17&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2
+ /match/200000014647687
+LOCATION:SALLE COMMUNALE\, Rue du Moulin Ohnenheim 67390
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647692
+ match/200000014647687
 END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-10-18-30-strasbourg-electricite-a-s-1-
  hindishei@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261010T183000
 DTEND;TZID=Europe/Paris:20261010T203000
 SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – HINDISHEIM C.S.E - 2
@@ -264,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-10-18-30-ie-ctc-m2b-molsheim-cstg-1-ba
  rr-gertwi@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261010T183000
 DTEND;TZID=Europe/Paris:20261010T203000
 SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – BARR/GERTWILLER - 1
@@ -279,26 +262,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647691
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2026-10-10-20-30-val-de-ville-b-c-2-duttlenhei
- m-lc-4@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20261010T203000
-DTEND;TZID=Europe/Paris:20261010T223000
-SUMMARY:VAL DE VILLE B.C. - 2 – DUTTLENHEIM LC - 4
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ VAL DE VILLE 
- B.C. - 2 vs DUTTLENHEIM LC - 4\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Vill
- é 67220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=ye
- s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
- mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/2000000
- 14647690
-LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647690
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-10-20-30-kogenheim-sermersheim-b-c-1-e
  rstein-bc@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261010T203000
 DTEND;TZID=Europe/Paris:20261010T223000
 SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – ERSTEIN BC - 1
@@ -313,9 +279,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647693
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-10-10-20-30-val-de-ville-b-c-2-duttlenhei
+ m-lc-4@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:VAL DE VILLE B.C. - 2 – DUTTLENHEIM LC - 4
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ VAL DE VILLE 
+ B.C. - 2 vs DUTTLENHEIM LC - 4\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Vill
+ é 67220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/2000000
+ 14647690
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647690
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-10-20-30-bindernheim-c-s-u-1-obernai-c
  -a-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261010T203000
 DTEND;TZID=Europe/Paris:20261010T223000
 SUMMARY:BINDERNHEIM C.S.U. - 1 – OBERNAI C.A. - 1
@@ -330,9 +313,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647689
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-10-11-16-30-ohnenheim-s-s-c-1-ie-ctc-sow-
+ osthouse-@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20261011T163000
+DTEND;TZID=Europe/Paris:20261011T183000
+SUMMARY:OHNENHEIM S.S.C. - 1 – IE - CTC SOW - OSTHOUSE CSTB - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OHNENHEIM S.S
+ .C. - 1 vs IE - CTC SOW - OSTHOUSE CSTB - 1\n\nSALLE COMMUNALE\n📍 Rue d
+ u Moulin Ohnenheim 67390\n🚗 Waze : https://waze.com/ul?ll=48.18481\,7.5
+ 0417&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ f2/match/200000014647692
+LOCATION:SALLE COMMUNALE\, Rue du Moulin Ohnenheim 67390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647692
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-16-20-30-erstein-bc-1-ie-ctc-sow-ostho
  use-cstb-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261016T203000
 DTEND;TZID=Europe/Paris:20261016T223000
 SUMMARY:ERSTEIN BC - 1 – IE - CTC SOW - OSTHOUSE CSTB - 1
@@ -349,7 +349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-16-20-30-bindernheim-c-s-u-1-duttlenhe
  im-lc-4@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261016T203000
 DTEND;TZID=Europe/Paris:20261016T223000
 SUMMARY:BINDERNHEIM C.S.U. - 1 – DUTTLENHEIM LC - 4
@@ -366,7 +366,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-17-18-00-obernai-c-a-1-strasbourg-elec
  tricite-a@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261017T180000
 DTEND;TZID=Europe/Paris:20261017T200000
 SUMMARY:OBERNAI C.A. - 1 – STRASBOURG ELECTRICITE A.S. - 1
@@ -383,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-17-18-30-barr-gertwiller-1-val-de-vill
  e-b-c-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261017T183000
 DTEND;TZID=Europe/Paris:20261017T203000
 SUMMARY:BARR/GERTWILLER - 1 – VAL DE VILLE B.C. - 2
@@ -400,7 +400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-17-20-30-ohnenheim-s-s-c-1-ie-ctc-m2b-
  molsheim-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261017T203000
 DTEND;TZID=Europe/Paris:20261017T223000
 SUMMARY:OHNENHEIM S.S.C. - 1 – IE - CTC M2B - MOLSHEIM CSTG - 1
@@ -417,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-10-18-14-30-hindisheim-c-s-e-2-kogenheim-
  sermershe@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261018T143000
 DTEND;TZID=Europe/Paris:20261018T163000
 SUMMARY:HINDISHEIM C.S.E - 2 – KOGENHEIM/SERMERSHEIM B.C. - 1
@@ -434,7 +434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-13-20-30-ie-ctc-sow-osthouse-cstb-1-hi
  ndisheim-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261113T203000
 DTEND;TZID=Europe/Paris:20261113T223000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – HINDISHEIM C.S.E - 2
@@ -449,26 +449,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647704
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2026-11-14-18-30-ie-ctc-m2b-molsheim-cstg-1-er
- stein-bc-@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20261114T183000
-DTEND;TZID=Europe/Paris:20261114T203000
-SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – ERSTEIN BC - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC M2B 
- - MOLSHEIM CSTG - 1 vs ERSTEIN BC - 1\n\nGYMNASE ATALANTE\n📍 Rue Élisa
- beth Juneck Molsheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53326\,7
- .49372&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
-  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
- /df2/match/200000014647703
-LOCATION:GYMNASE ATALANTE\, Rue Élisabeth Juneck Molsheim 67120
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647703
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-14-18-30-strasbourg-electricite-a-s-1-
  duttlenhe@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261114T183000
 DTEND;TZID=Europe/Paris:20261114T203000
 SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – DUTTLENHEIM LC - 4
@@ -485,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-14-18-30-bindernheim-c-s-u-1-barr-gert
  willer-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261114T183000
 DTEND;TZID=Europe/Paris:20261114T203000
 SUMMARY:BINDERNHEIM C.S.U. - 1 – BARR/GERTWILLER - 1
@@ -500,9 +483,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647701
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-11-14-18-30-ie-ctc-m2b-molsheim-cstg-1-er
+ stein-bc-@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20261114T183000
+DTEND;TZID=Europe/Paris:20261114T203000
+SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – ERSTEIN BC - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC M2B 
+ - MOLSHEIM CSTG - 1 vs ERSTEIN BC - 1\n\nGYMNASE ATALANTE\n📍 Rue Élisa
+ beth Juneck Molsheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53326\,7
+ .49372&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /df2/match/200000014647703
+LOCATION:GYMNASE ATALANTE\, Rue Élisabeth Juneck Molsheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647703
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-14-20-30-val-de-ville-b-c-2-ohnenheim-
  s-s-c-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261114T203000
 DTEND;TZID=Europe/Paris:20261114T223000
 SUMMARY:VAL DE VILLE B.C. - 2 – OHNENHEIM S.S.C. - 1
@@ -519,7 +519,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-15-16-00-kogenheim-sermersheim-b-c-1-o
  bernai-c-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261115T160000
 DTEND;TZID=Europe/Paris:20261115T180000
 SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – OBERNAI C.A. - 1
@@ -534,26 +534,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647705
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2026-11-20-20-30-duttlenheim-lc-4-kogenheim-se
- rmersheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20261120T203000
-DTEND;TZID=Europe/Paris:20261120T223000
-SUMMARY:DUTTLENHEIM LC - 4 – KOGENHEIM/SERMERSHEIM B.C. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM L
- C - 4 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nSALLE DE LA CONCORDE\n📍 Rue 
- du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7
- .56924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
-  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
- /df2/match/200000014647711
-LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647711
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-20-20-30-erstein-bc-1-val-de-ville-b-c
  -2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261120T203000
 DTEND;TZID=Europe/Paris:20261120T223000
 SUMMARY:ERSTEIN BC - 1 – VAL DE VILLE B.C. - 2
@@ -568,9 +551,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647708
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-11-20-20-30-duttlenheim-lc-4-kogenheim-se
+ rmersheim@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20261120T203000
+DTEND;TZID=Europe/Paris:20261120T223000
+SUMMARY:DUTTLENHEIM LC - 4 – KOGENHEIM/SERMERSHEIM B.C. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM L
+ C - 4 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nSALLE DE LA CONCORDE\n📍 Rue 
+ du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,7
+ .56924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /df2/match/200000014647711
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647711
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-21-18-30-ie-ctc-m2b-molsheim-cstg-1-hi
  ndisheim-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261121T183000
 DTEND;TZID=Europe/Paris:20261121T203000
 SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – HINDISHEIM C.S.E - 2
@@ -587,7 +587,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-21-18-30-barr-gertwiller-1-strasbourg-
  electrici@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261121T183000
 DTEND;TZID=Europe/Paris:20261121T203000
 SUMMARY:BARR/GERTWILLER - 1 – STRASBOURG ELECTRICITE A.S. - 1
@@ -604,7 +604,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-21-20-00-obernai-c-a-1-ie-ctc-sow-osth
  ouse-cstb@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261121T200000
 DTEND;TZID=Europe/Paris:20261121T220000
 SUMMARY:OBERNAI C.A. - 1 – IE - CTC SOW - OSTHOUSE CSTB - 1
@@ -621,7 +621,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-22-16-30-ohnenheim-s-s-c-1-bindernheim
  -c-s-u-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261122T163000
 DTEND;TZID=Europe/Paris:20261122T183000
 SUMMARY:OHNENHEIM S.S.C. - 1 – BINDERNHEIM C.S.U. - 1
@@ -638,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-27-20-30-duttlenheim-lc-4-obernai-c-a-
  1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261127T203000
 DTEND;TZID=Europe/Paris:20261127T223000
 SUMMARY:DUTTLENHEIM LC - 4 – OBERNAI C.A. - 1
@@ -655,7 +655,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-28-18-30-strasbourg-electricite-a-s-1-
  bindernhe@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261128T183000
 DTEND;TZID=Europe/Paris:20261128T203000
 SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – BINDERNHEIM C.S.U. - 1
@@ -672,7 +672,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-28-18-30-ie-ctc-sow-osthouse-cstb-1-ie
  -ctc-m2b-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261128T183000
 DTEND;TZID=Europe/Paris:20261128T203000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – IE - CTC M2B - MOLSHEIM CSTG -
@@ -690,7 +690,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-28-20-30-ohnenheim-s-s-c-1-erstein-bc-
  1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261128T203000
 DTEND;TZID=Europe/Paris:20261128T223000
 SUMMARY:OHNENHEIM S.S.C. - 1 – ERSTEIN BC - 1
@@ -707,7 +707,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-28-20-30-barr-gertwiller-1-hindisheim-
  c-s-e-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261128T203000
 DTEND;TZID=Europe/Paris:20261128T223000
 SUMMARY:BARR/GERTWILLER - 1 – HINDISHEIM C.S.E - 2
@@ -724,7 +724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-11-29-16-00-kogenheim-sermersheim-b-c-1-v
  al-de-vil@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261129T160000
 DTEND;TZID=Europe/Paris:20261129T180000
 SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – VAL DE VILLE B.C. - 2
@@ -741,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-04-20-30-kogenheim-sermersheim-b-c-1-b
  indernhei@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261204T203000
 DTEND;TZID=Europe/Paris:20261204T223000
 SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – BINDERNHEIM C.S.U. - 1
@@ -758,7 +758,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-04-20-30-erstein-bc-1-barr-gertwiller-
  1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261204T203000
 DTEND;TZID=Europe/Paris:20261204T223000
 SUMMARY:ERSTEIN BC - 1 – BARR/GERTWILLER - 1
@@ -775,7 +775,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-05-18-30-ie-ctc-m2b-molsheim-cstg-1-st
  rasbourg-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261205T183000
 DTEND;TZID=Europe/Paris:20261205T203000
 SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – STRASBOURG ELECTRICITE A.S. - 
@@ -793,7 +793,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-05-20-30-val-de-ville-b-c-2-ie-ctc-sow
  -osthouse@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261205T203000
 DTEND;TZID=Europe/Paris:20261205T223000
 SUMMARY:VAL DE VILLE B.C. - 2 – IE - CTC SOW - OSTHOUSE CSTB - 1
@@ -810,7 +810,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-05-20-30-obernai-c-a-1-ohnenheim-s-s-c
  -1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261205T203000
 DTEND;TZID=Europe/Paris:20261205T223000
 SUMMARY:OBERNAI C.A. - 1 – OHNENHEIM S.S.C. - 1
@@ -827,7 +827,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-06-14-30-hindisheim-c-s-e-2-duttlenhei
  m-lc-4@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261206T143000
 DTEND;TZID=Europe/Paris:20261206T163000
 SUMMARY:HINDISHEIM C.S.E - 2 – DUTTLENHEIM LC - 4
@@ -844,7 +844,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-11-20-30-duttlenheim-lc-4-erstein-bc-1
  @ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261211T203000
 DTEND;TZID=Europe/Paris:20261211T223000
 SUMMARY:DUTTLENHEIM LC - 4 – ERSTEIN BC - 1
@@ -861,7 +861,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-12-18-00-obernai-c-a-1-hindisheim-c-s-
  e-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261212T180000
 DTEND;TZID=Europe/Paris:20261212T200000
 SUMMARY:OBERNAI C.A. - 1 – HINDISHEIM C.S.E - 2
@@ -878,7 +878,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-12-18-30-ie-ctc-m2b-molsheim-cstg-1-va
  l-de-vill@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261212T183000
 DTEND;TZID=Europe/Paris:20261212T203000
 SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – VAL DE VILLE B.C. - 2
@@ -893,26 +893,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647726
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2026-12-12-20-30-ohnenheim-s-s-c-1-barr-gertwi
- ller-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20261212T203000
-DTEND;TZID=Europe/Paris:20261212T223000
-SUMMARY:OHNENHEIM S.S.C. - 1 – BARR/GERTWILLER - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OHNENHEIM S.S
- .C. - 1 vs BARR/GERTWILLER - 1\n\nSALLE COMMUNALE\n📍 Rue du Moulin Ohne
- nheim 67390\n🚗 Waze : https://waze.com/ul?ll=48.18481\,7.50417&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/2000
- 00014647730
-LOCATION:SALLE COMMUNALE\, Rue du Moulin Ohnenheim 67390
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647730
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-12-20-30-strasbourg-electricite-a-s-1-
  kogenheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261212T203000
 DTEND;TZID=Europe/Paris:20261212T223000
 SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
@@ -927,9 +910,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647727
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-12-12-20-30-ohnenheim-s-s-c-1-barr-gertwi
+ ller-1@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:OHNENHEIM S.S.C. - 1 – BARR/GERTWILLER - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OHNENHEIM S.S
+ .C. - 1 vs BARR/GERTWILLER - 1\n\nSALLE COMMUNALE\n📍 Rue du Moulin Ohne
+ nheim 67390\n🚗 Waze : https://waze.com/ul?ll=48.18481\,7.50417&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/2000
+ 00014647730
+LOCATION:SALLE COMMUNALE\, Rue du Moulin Ohnenheim 67390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647730
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-13-15-00-ie-ctc-sow-osthouse-cstb-1-bi
  ndernheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261213T150000
 DTEND;TZID=Europe/Paris:20261213T170000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – BINDERNHEIM C.S.U. - 1
@@ -946,7 +946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-18-20-30-erstein-bc-1-obernai-c-a-1@ff
  bb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261218T203000
 DTEND;TZID=Europe/Paris:20261218T223000
 SUMMARY:ERSTEIN BC - 1 – OBERNAI C.A. - 1
@@ -963,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-19-18-00-hindisheim-c-s-e-2-ohnenheim-
  s-s-c-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261219T180000
 DTEND;TZID=Europe/Paris:20261219T200000
 SUMMARY:HINDISHEIM C.S.E - 2 – OHNENHEIM S.S.C. - 1
@@ -978,26 +978,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647735
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2026-12-19-18-30-ie-ctc-m2b-molsheim-cstg-1-bi
- ndernheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20261219T183000
-DTEND;TZID=Europe/Paris:20261219T203000
-SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – BINDERNHEIM C.S.U. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC M2B 
- - MOLSHEIM CSTG - 1 vs BINDERNHEIM C.S.U. - 1\n\nGYMNASE ATALANTE\n📍 Ru
- e Élisabeth Juneck Molsheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.
- 53326\,7.49372&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
-  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
- etitions/df2/match/200000014647731
-LOCATION:GYMNASE ATALANTE\, Rue Élisabeth Juneck Molsheim 67120
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647731
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-19-18-30-barr-gertwiller-1-duttlenheim
  -lc-4@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261219T183000
 DTEND;TZID=Europe/Paris:20261219T203000
 SUMMARY:BARR/GERTWILLER - 1 – DUTTLENHEIM LC - 4
@@ -1012,9 +995,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647736
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2026-12-19-18-30-ie-ctc-m2b-molsheim-cstg-1-bi
+ ndernheim@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20261219T183000
+DTEND;TZID=Europe/Paris:20261219T203000
+SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – BINDERNHEIM C.S.U. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC M2B 
+ - MOLSHEIM CSTG - 1 vs BINDERNHEIM C.S.U. - 1\n\nGYMNASE ATALANTE\n📍 Ru
+ e Élisabeth Juneck Molsheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.
+ 53326\,7.49372&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/df2/match/200000014647731
+LOCATION:GYMNASE ATALANTE\, Rue Élisabeth Juneck Molsheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647731
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-20-10-30-val-de-ville-b-c-2-strasbourg
  -electric@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261220T103000
 DTEND;TZID=Europe/Paris:20261220T123000
 SUMMARY:VAL DE VILLE B.C. - 2 – STRASBOURG ELECTRICITE A.S. - 1
@@ -1031,7 +1031,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2026-12-20-15-30-kogenheim-sermersheim-b-c-1-i
  e-ctc-sow@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20261220T153000
 DTEND;TZID=Europe/Paris:20261220T173000
 SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – IE - CTC SOW - OSTHOUSE CSTB - 1
@@ -1048,7 +1048,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-15-20-30-duttlenheim-lc-4-ohnenheim-s-
  s-c-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270115T203000
 DTEND;TZID=Europe/Paris:20270115T223000
 SUMMARY:DUTTLENHEIM LC - 4 – OHNENHEIM S.S.C. - 1
@@ -1065,7 +1065,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-15-20-30-erstein-bc-1-hindisheim-c-s-e
  -2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270115T203000
 DTEND;TZID=Europe/Paris:20270115T223000
 SUMMARY:ERSTEIN BC - 1 – HINDISHEIM C.S.E - 2
@@ -1082,7 +1082,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-16-18-30-ie-ctc-m2b-molsheim-cstg-1-ko
  genheim-s@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270116T183000
 DTEND;TZID=Europe/Paris:20270116T203000
 SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
@@ -1097,11 +1097,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647738
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-01-16-18-30-obernai-c-a-1-barr-gertwiller
+UID:df2-ges-bas-rhin-poule-b-2027-01-16-20-00-obernai-c-a-1-barr-gertwiller
  -1@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270116T183000
-DTEND;TZID=Europe/Paris:20270116T203000
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
 SUMMARY:OBERNAI C.A. - 1 – BARR/GERTWILLER - 1
 DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OBERNAI C.A. 
  - 1 vs BARR/GERTWILLER - 1\n\nHALL BUGEAUD\n📍 Avenue de Gail Obernai 67
@@ -1116,7 +1116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-16-20-30-val-de-ville-b-c-2-bindernhei
  m-c-s-u-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270116T203000
 DTEND;TZID=Europe/Paris:20270116T223000
 SUMMARY:VAL DE VILLE B.C. - 2 – BINDERNHEIM C.S.U. - 1
@@ -1133,7 +1133,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-16-20-30-ie-ctc-sow-osthouse-cstb-1-st
  rasbourg-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270116T203000
 DTEND;TZID=Europe/Paris:20270116T223000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – STRASBOURG ELECTRICITE A.S. - 
@@ -1149,26 +1149,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647739
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-01-22-20-30-erstein-bc-1-bindernheim-c-s-
- u-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270122T203000
-DTEND;TZID=Europe/Paris:20270122T223000
-SUMMARY:ERSTEIN BC - 1 – BINDERNHEIM C.S.U. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ ERSTEIN BC - 
- 1 vs BINDERNHEIM C.S.U. - 1\n\nGYMNASE MARGUERITE YOURCENAR\n📍 Rue Vict
- or Schoelcher Erstein 67150\n🚗 Waze : https://waze.com/ul?ll=48.42265\,
- 7.64994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
- e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
- s/df2/match/200000014647743
-LOCATION:GYMNASE MARGUERITE YOURCENAR\, Rue Victor Schoelcher Erstein 67150
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647743
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-22-20-30-duttlenheim-lc-4-ie-ctc-sow-o
  sthouse-c@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270122T203000
 DTEND;TZID=Europe/Paris:20270122T223000
 SUMMARY:DUTTLENHEIM LC - 4 – IE - CTC SOW - OSTHOUSE CSTB - 1
@@ -1183,9 +1166,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647746
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-01-22-20-30-erstein-bc-1-bindernheim-c-s-
+ u-1@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270122T203000
+DTEND;TZID=Europe/Paris:20270122T223000
+SUMMARY:ERSTEIN BC - 1 – BINDERNHEIM C.S.U. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ ERSTEIN BC - 
+ 1 vs BINDERNHEIM C.S.U. - 1\n\nGYMNASE MARGUERITE YOURCENAR\n📍 Rue Vict
+ or Schoelcher Erstein 67150\n🚗 Waze : https://waze.com/ul?ll=48.42265\,
+ 7.64994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/df2/match/200000014647743
+LOCATION:GYMNASE MARGUERITE YOURCENAR\, Rue Victor Schoelcher Erstein 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647743
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-23-18-00-hindisheim-c-s-e-2-val-de-vil
  le-b-c-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270123T180000
 DTEND;TZID=Europe/Paris:20270123T200000
 SUMMARY:HINDISHEIM C.S.E - 2 – VAL DE VILLE B.C. - 2
@@ -1202,7 +1202,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-23-20-00-obernai-c-a-1-ie-ctc-m2b-mols
  heim-cstg@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270123T200000
 DTEND;TZID=Europe/Paris:20270123T220000
 SUMMARY:OBERNAI C.A. - 1 – IE - CTC M2B - MOLSHEIM CSTG - 1
@@ -1219,7 +1219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-23-20-30-barr-gertwiller-1-kogenheim-s
  ermershei@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270123T203000
 DTEND;TZID=Europe/Paris:20270123T223000
 SUMMARY:BARR/GERTWILLER - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
@@ -1236,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-24-14-30-ohnenheim-s-s-c-1-strasbourg-
  electrici@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270124T143000
 DTEND;TZID=Europe/Paris:20270124T163000
 SUMMARY:OHNENHEIM S.S.C. - 1 – STRASBOURG ELECTRICITE A.S. - 1
@@ -1251,26 +1251,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647748
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-01-29-20-30-hindisheim-c-s-e-2-bindernhei
- m-c-s-u-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270129T203000
-DTEND;TZID=Europe/Paris:20270129T223000
-SUMMARY:HINDISHEIM C.S.E - 2 – BINDERNHEIM C.S.U. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
- S.E - 2 vs BINDERNHEIM C.S.U. - 1\n\nSALLE STE ETIENNE\n📍 Rue du Stade 
- Hindisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match
- /200000014647749
-LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647749
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-29-20-30-ie-ctc-sow-osthouse-cstb-1-ba
  rr-gertwi@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270129T203000
 DTEND;TZID=Europe/Paris:20270129T223000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – BARR/GERTWILLER - 1
@@ -1285,26 +1268,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647752
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-01-30-18-30-strasbourg-electricite-a-s-1-
- erstein-b@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270130T183000
-DTEND;TZID=Europe/Paris:20270130T203000
-SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – ERSTEIN BC - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
- ECTRICITE A.S. - 1 vs ERSTEIN BC - 1\n\nCENTRE SPORTIF SUD\n📍 Rue des V
- anneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837\,7.7
- 5977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
- FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
- f2/match/200000014647754
-LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+UID:df2-ges-bas-rhin-poule-b-2027-01-29-20-30-hindisheim-c-s-e-2-bindernhei
+ m-c-s-u-1@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270129T203000
+DTEND;TZID=Europe/Paris:20270129T223000
+SUMMARY:HINDISHEIM C.S.E - 2 – BINDERNHEIM C.S.U. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ HINDISHEIM C.
+ S.E - 2 vs BINDERNHEIM C.S.U. - 1\n\nSALLE STE ETIENNE\n📍 Rue du Stade 
+ Hindisheim 67150\n🚗 Waze : https://waze.com/ul?ll=48.46664\,7.62489&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match
+ /200000014647749
+LOCATION:SALLE STE ETIENNE\, Rue du Stade Hindisheim 67150
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647754
+ match/200000014647749
 END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-30-18-30-ie-ctc-m2b-molsheim-cstg-1-du
  ttlenheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270130T183000
 DTEND;TZID=Europe/Paris:20270130T203000
 SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – DUTTLENHEIM LC - 4
@@ -1319,26 +1302,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647751
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-01-30-20-30-kogenheim-sermersheim-b-c-1-o
- hnenheim-@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270130T203000
-DTEND;TZID=Europe/Paris:20270130T223000
-SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – OHNENHEIM S.S.C. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ KOGENHEIM/SER
- MERSHEIM B.C. - 1 vs OHNENHEIM S.S.C. - 1\n\nCENTRE SPORTIF\n📍 Rue du S
- tade Kogenheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.33771\,7.5479&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/ma
- tch/200000014647753
-LOCATION:CENTRE SPORTIF\, Rue du Stade Kogenheim 67230
+UID:df2-ges-bas-rhin-poule-b-2027-01-30-18-30-strasbourg-electricite-a-s-1-
+ erstein-b@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270130T183000
+DTEND;TZID=Europe/Paris:20270130T203000
+SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – ERSTEIN BC - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 1 vs ERSTEIN BC - 1\n\nCENTRE SPORTIF SUD\n📍 Rue des V
+ anneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837\,7.7
+ 5977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ f2/match/200000014647754
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647753
+ match/200000014647754
 END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-01-31-10-30-val-de-ville-b-c-2-obernai-c-
  a-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270131T103000
 DTEND;TZID=Europe/Paris:20270131T123000
 SUMMARY:VAL DE VILLE B.C. - 2 – OBERNAI C.A. - 1
@@ -1353,26 +1336,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647750
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-02-05-20-30-erstein-bc-1-kogenheim-sermer
- sheim-b-c@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270205T203000
-DTEND;TZID=Europe/Paris:20270205T223000
-SUMMARY:ERSTEIN BC - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ ERSTEIN BC - 
- 1 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nGYMNASE MARGUERITE YOURCENAR\n📍 
- Rue Victor Schoelcher Erstein 67150\n🚗 Waze : https://waze.com/ul?ll=48
- .42265\,7.64994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
- competitions/df2/match/200000014647759
-LOCATION:GYMNASE MARGUERITE YOURCENAR\, Rue Victor Schoelcher Erstein 67150
+UID:df2-ges-bas-rhin-poule-b-2027-01-31-16-30-kogenheim-sermersheim-b-c-1-o
+ hnenheim-@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270131T163000
+DTEND;TZID=Europe/Paris:20270131T183000
+SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – OHNENHEIM S.S.C. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ KOGENHEIM/SER
+ MERSHEIM B.C. - 1 vs OHNENHEIM S.S.C. - 1\n\nCENTRE SPORTIF\n📍 Rue du S
+ tade Kogenheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.33771\,7.5479&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/ma
+ tch/200000014647753
+LOCATION:CENTRE SPORTIF\, Rue du Stade Kogenheim 67230
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647759
+ match/200000014647753
 END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-05-20-30-duttlenheim-lc-4-val-de-ville
  -b-c-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270205T203000
 DTEND;TZID=Europe/Paris:20270205T223000
 SUMMARY:DUTTLENHEIM LC - 4 – VAL DE VILLE B.C. - 2
@@ -1387,9 +1370,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647756
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-02-05-20-30-erstein-bc-1-kogenheim-sermer
+ sheim-b-c@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270205T203000
+DTEND;TZID=Europe/Paris:20270205T223000
+SUMMARY:ERSTEIN BC - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ ERSTEIN BC - 
+ 1 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nGYMNASE MARGUERITE YOURCENAR\n📍 
+ Rue Victor Schoelcher Erstein 67150\n🚗 Waze : https://waze.com/ul?ll=48
+ .42265\,7.64994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df2/match/200000014647759
+LOCATION:GYMNASE MARGUERITE YOURCENAR\, Rue Victor Schoelcher Erstein 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647759
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-06-18-00-hindisheim-c-s-e-2-strasbourg
  -electric@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270206T180000
 DTEND;TZID=Europe/Paris:20270206T200000
 SUMMARY:HINDISHEIM C.S.E - 2 – STRASBOURG ELECTRICITE A.S. - 1
@@ -1406,7 +1406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-06-18-30-barr-gertwiller-1-ie-ctc-m2b-
  molsheim-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270206T183000
 DTEND;TZID=Europe/Paris:20270206T203000
 SUMMARY:BARR/GERTWILLER - 1 – IE - CTC M2B - MOLSHEIM CSTG - 1
@@ -1423,7 +1423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-06-20-00-obernai-c-a-1-bindernheim-c-s
  -u-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:OBERNAI C.A. - 1 – BINDERNHEIM C.S.U. - 1
@@ -1440,7 +1440,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-07-16-30-ohnenheim-s-s-c-1-ie-ctc-sow-
  osthouse-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270207T163000
 DTEND;TZID=Europe/Paris:20270207T183000
 SUMMARY:OHNENHEIM S.S.C. - 1 – IE - CTC SOW - OSTHOUSE CSTB - 1
@@ -1457,7 +1457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-12-20-30-duttlenheim-lc-4-bindernheim-
  c-s-u-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270212T203000
 DTEND;TZID=Europe/Paris:20270212T223000
 SUMMARY:DUTTLENHEIM LC - 4 – BINDERNHEIM C.S.U. - 1
@@ -1474,7 +1474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-12-20-30-ie-ctc-sow-osthouse-cstb-1-er
  stein-bc-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270212T203000
 DTEND;TZID=Europe/Paris:20270212T223000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – ERSTEIN BC - 1
@@ -1489,26 +1489,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647764
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-02-13-18-30-kogenheim-sermersheim-b-c-1-h
- indisheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270213T183000
-DTEND;TZID=Europe/Paris:20270213T203000
-SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – HINDISHEIM C.S.E - 2
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ KOGENHEIM/SER
- MERSHEIM B.C. - 1 vs HINDISHEIM C.S.E - 2\n\nCENTRE SPORTIF\n📍 Rue du S
- tade Kogenheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.33771\,7.5479&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/ma
- tch/200000014647765
-LOCATION:CENTRE SPORTIF\, Rue du Stade Kogenheim 67230
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647765
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-13-18-30-ie-ctc-m2b-molsheim-cstg-1-oh
  nenheim-s@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270213T183000
 DTEND;TZID=Europe/Paris:20270213T203000
 SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – OHNENHEIM S.S.C. - 1
@@ -1523,9 +1506,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647763
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-02-13-18-30-kogenheim-sermersheim-b-c-1-h
+ indisheim@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270213T183000
+DTEND;TZID=Europe/Paris:20270213T203000
+SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – HINDISHEIM C.S.E - 2
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ KOGENHEIM/SER
+ MERSHEIM B.C. - 1 vs HINDISHEIM C.S.E - 2\n\nCENTRE SPORTIF\n📍 Rue du S
+ tade Kogenheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.33771\,7.5479&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/ma
+ tch/200000014647765
+LOCATION:CENTRE SPORTIF\, Rue du Stade Kogenheim 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647765
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-13-20-30-strasbourg-electricite-a-s-1-
  obernai-c@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270213T203000
 DTEND;TZID=Europe/Paris:20270213T223000
 SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – OBERNAI C.A. - 1
@@ -1542,7 +1542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-02-14-10-30-val-de-ville-b-c-2-barr-gertw
  iller-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270214T103000
 DTEND;TZID=Europe/Paris:20270214T123000
 SUMMARY:VAL DE VILLE B.C. - 2 – BARR/GERTWILLER - 1
@@ -1559,7 +1559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-06-18-00-hindisheim-c-s-e-2-ie-ctc-sow
  -osthouse@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270306T180000
 DTEND;TZID=Europe/Paris:20270306T200000
 SUMMARY:HINDISHEIM C.S.E - 2 – IE - CTC SOW - OSTHOUSE CSTB - 1
@@ -1574,26 +1574,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647770
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-03-12-20-30-duttlenheim-lc-4-strasbourg-e
- lectricit@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270312T203000
-DTEND;TZID=Europe/Paris:20270312T223000
-SUMMARY:DUTTLENHEIM LC - 4 – STRASBOURG ELECTRICITE A.S. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM L
- C - 4 vs STRASBOURG ELECTRICITE A.S. - 1\n\nSALLE DE LA CONCORDE\n📍 Rue
-  du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,
- 7.56924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
- e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
- s/df2/match/200000014647772
-LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647772
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-12-20-30-erstein-bc-1-ie-ctc-m2b-molsh
  eim-cstg-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270312T203000
 DTEND;TZID=Europe/Paris:20270312T223000
 SUMMARY:ERSTEIN BC - 1 – IE - CTC M2B - MOLSHEIM CSTG - 1
@@ -1608,26 +1591,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647769
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-03-13-20-30-obernai-c-a-1-kogenheim-serme
- rsheim-b-@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270313T203000
-DTEND;TZID=Europe/Paris:20270313T223000
-SUMMARY:OBERNAI C.A. - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OBERNAI C.A. 
- - 1 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nHALL BUGEAUD\n📍 Avenue de Gail
-  Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313\,7.49122&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/2
- 00000014647771
-LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+UID:df2-ges-bas-rhin-poule-b-2027-03-12-20-30-duttlenheim-lc-4-strasbourg-e
+ lectricit@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270312T203000
+DTEND;TZID=Europe/Paris:20270312T223000
+SUMMARY:DUTTLENHEIM LC - 4 – STRASBOURG ELECTRICITE A.S. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM L
+ C - 4 vs STRASBOURG ELECTRICITE A.S. - 1\n\nSALLE DE LA CONCORDE\n📍 Rue
+  du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.53114\,
+ 7.56924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/df2/match/200000014647772
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647771
+ match/200000014647772
 END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-13-20-30-barr-gertwiller-1-bindernheim
  -c-s-u-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270313T203000
 DTEND;TZID=Europe/Paris:20270313T223000
 SUMMARY:BARR/GERTWILLER - 1 – BINDERNHEIM C.S.U. - 1
@@ -1642,9 +1625,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647767
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-03-13-20-30-obernai-c-a-1-kogenheim-serme
+ rsheim-b-@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:OBERNAI C.A. - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OBERNAI C.A. 
+ - 1 vs KOGENHEIM/SERMERSHEIM B.C. - 1\n\nHALL BUGEAUD\n📍 Avenue de Gail
+  Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313\,7.49122&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/2
+ 00000014647771
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647771
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-14-16-30-ohnenheim-s-s-c-1-val-de-vill
  e-b-c-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270314T163000
 DTEND;TZID=Europe/Paris:20270314T183000
 SUMMARY:OHNENHEIM S.S.C. - 1 – VAL DE VILLE B.C. - 2
@@ -1661,7 +1661,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-19-20-30-ie-ctc-sow-osthouse-cstb-1-ob
  ernai-c-a@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270319T203000
 DTEND;TZID=Europe/Paris:20270319T223000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – OBERNAI C.A. - 1
@@ -1678,7 +1678,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-20-18-00-hindisheim-c-s-e-2-ie-ctc-m2b
  -molsheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270320T180000
 DTEND;TZID=Europe/Paris:20270320T200000
 SUMMARY:HINDISHEIM C.S.E - 2 – IE - CTC M2B - MOLSHEIM CSTG - 1
@@ -1695,7 +1695,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-20-18-30-bindernheim-c-s-u-1-ohnenheim
  -s-s-c-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270320T183000
 DTEND;TZID=Europe/Paris:20270320T203000
 SUMMARY:BINDERNHEIM C.S.U. - 1 – OHNENHEIM S.S.C. - 1
@@ -1710,26 +1710,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647773
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-03-20-20-30-strasbourg-electricite-a-s-1-
- barr-gert@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270320T203000
-DTEND;TZID=Europe/Paris:20270320T223000
-SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – BARR/GERTWILLER - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
- ECTRICITE A.S. - 1 vs BARR/GERTWILLER - 1\n\nCENTRE SPORTIF SUD\n📍 Rue 
- des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837
- \,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
- lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
- ons/df2/match/200000014647778
-LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647778
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-20-20-30-kogenheim-sermersheim-b-c-1-d
  uttlenhei@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270320T203000
 DTEND;TZID=Europe/Paris:20270320T223000
 SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – DUTTLENHEIM LC - 4
@@ -1744,9 +1727,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647777
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-03-20-20-30-strasbourg-electricite-a-s-1-
+ barr-gert@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – BARR/GERTWILLER - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 1 vs BARR/GERTWILLER - 1\n\nCENTRE SPORTIF SUD\n📍 Rue 
+ des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.55837
+ \,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/df2/match/200000014647778
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647778
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-21-10-30-val-de-ville-b-c-2-erstein-bc
  -1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270321T103000
 DTEND;TZID=Europe/Paris:20270321T123000
 SUMMARY:VAL DE VILLE B.C. - 2 – ERSTEIN BC - 1
@@ -1763,7 +1763,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-26-20-30-bindernheim-c-s-u-1-strasbour
  g-electri@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270326T203000
 DTEND;TZID=Europe/Paris:20270326T223000
 SUMMARY:BINDERNHEIM C.S.U. - 1 – STRASBOURG ELECTRICITE A.S. - 1
@@ -1780,7 +1780,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-26-20-30-erstein-bc-1-ohnenheim-s-s-c-
  1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270326T203000
 DTEND;TZID=Europe/Paris:20270326T223000
 SUMMARY:ERSTEIN BC - 1 – OHNENHEIM S.S.C. - 1
@@ -1797,7 +1797,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-27-18-00-hindisheim-c-s-e-2-barr-gertw
  iller-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270327T180000
 DTEND;TZID=Europe/Paris:20270327T200000
 SUMMARY:HINDISHEIM C.S.E - 2 – BARR/GERTWILLER - 1
@@ -1814,7 +1814,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-27-18-30-ie-ctc-m2b-molsheim-cstg-1-ie
  -ctc-sow-@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270327T183000
 DTEND;TZID=Europe/Paris:20270327T203000
 SUMMARY:IE - CTC M2B - MOLSHEIM CSTG - 1 – IE - CTC SOW - OSTHOUSE CSTB -
@@ -1832,7 +1832,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-27-20-30-obernai-c-a-1-duttlenheim-lc-
  4@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270327T203000
 DTEND;TZID=Europe/Paris:20270327T223000
 SUMMARY:OBERNAI C.A. - 1 – DUTTLENHEIM LC - 4
@@ -1849,7 +1849,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-03-28-10-30-val-de-ville-b-c-2-kogenheim-
  sermershe@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270328T103000
 DTEND;TZID=Europe/Paris:20270328T123000
 SUMMARY:VAL DE VILLE B.C. - 2 – KOGENHEIM/SERMERSHEIM B.C. - 1
@@ -1866,7 +1866,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-04-09-20-30-duttlenheim-lc-4-hindisheim-c
  -s-e-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270409T203000
 DTEND;TZID=Europe/Paris:20270409T223000
 SUMMARY:DUTTLENHEIM LC - 4 – HINDISHEIM C.S.E - 2
@@ -1881,9 +1881,25 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647789
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-04-10-18-30-barr-gertwiller-1-erstein-bc-
+ 1@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270410T183000
+DTEND;TZID=Europe/Paris:20270410T203000
+SUMMARY:BARR/GERTWILLER - 1 – ERSTEIN BC - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BARR/GERTWILL
+ ER - 1 vs ERSTEIN BC - 1\n\nHALL DU SIVOM\n📍 Rue du Lycée Barr 67140\n
+ 🚗 Waze : https://waze.com/ul?ll=48.4098\,7.45794&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200000014647788
+LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647788
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-04-10-18-30-ie-ctc-sow-osthouse-cstb-1-va
  l-de-vill@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270410T183000
 DTEND;TZID=Europe/Paris:20270410T203000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – VAL DE VILLE B.C. - 2
@@ -1898,25 +1914,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647786
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-04-10-18-30-barr-gertwiller-1-erstein-bc-
- 1@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270410T183000
-DTEND;TZID=Europe/Paris:20270410T203000
-SUMMARY:BARR/GERTWILLER - 1 – ERSTEIN BC - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BARR/GERTWILL
- ER - 1 vs ERSTEIN BC - 1\n\nHALL DU SIVOM\n📍 Rue du Lycée Barr 67140\n
- 🚗 Waze : https://waze.com/ul?ll=48.4098\,7.45794&navigate=yes\n\n📢 A
- rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
- ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200000014647788
-LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
+UID:df2-ges-bas-rhin-poule-b-2027-04-10-20-30-strasbourg-electricite-a-s-1-
+ ie-ctc-m2@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – IE - CTC M2B - MOLSHEIM CSTG - 
+ 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 1 vs IE - CTC M2B - MOLSHEIM CSTG - 1\n\nCENTRE SPORTIF S
+ UD\n📍 Rue des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/u
+ l?ll=48.55837\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/df2/match/200000014647787
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647788
+ match/200000014647787
 END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-04-10-20-30-ohnenheim-s-s-c-1-obernai-c-a
  -1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270410T203000
 DTEND;TZID=Europe/Paris:20270410T223000
 SUMMARY:OHNENHEIM S.S.C. - 1 – OBERNAI C.A. - 1
@@ -1933,7 +1951,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-04-10-20-30-bindernheim-c-s-u-1-kogenheim
  -sermersh@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270410T203000
 DTEND;TZID=Europe/Paris:20270410T223000
 SUMMARY:BINDERNHEIM C.S.U. - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
@@ -1948,27 +1966,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647785
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-04-10-20-30-strasbourg-electricite-a-s-1-
- ie-ctc-m2@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270410T203000
-DTEND;TZID=Europe/Paris:20270410T223000
-SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – IE - CTC M2B - MOLSHEIM CSTG - 
- 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
- ECTRICITE A.S. - 1 vs IE - CTC M2B - MOLSHEIM CSTG - 1\n\nCENTRE SPORTIF S
- UD\n📍 Rue des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/u
- l?ll=48.55837\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation
- \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
- 067/competitions/df2/match/200000014647787
-LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647787
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-04-30-20-30-bindernheim-c-s-u-1-ie-ctc-so
  w-osthous@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270430T203000
 DTEND;TZID=Europe/Paris:20270430T223000
 SUMMARY:BINDERNHEIM C.S.U. - 1 – IE - CTC SOW - OSTHOUSE CSTB - 1
@@ -1985,7 +1985,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-04-30-20-30-erstein-bc-1-duttlenheim-lc-4
  @ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270430T203000
 DTEND;TZID=Europe/Paris:20270430T223000
 SUMMARY:ERSTEIN BC - 1 – DUTTLENHEIM LC - 4
@@ -2002,7 +2002,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-01-18-00-hindisheim-c-s-e-2-obernai-c-
  a-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270501T180000
 DTEND;TZID=Europe/Paris:20270501T200000
 SUMMARY:HINDISHEIM C.S.E - 2 – OBERNAI C.A. - 1
@@ -2017,26 +2017,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647795
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-05-01-20-30-barr-gertwiller-1-ohnenheim-s
- -s-c-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270501T203000
-DTEND;TZID=Europe/Paris:20270501T223000
-SUMMARY:BARR/GERTWILLER - 1 – OHNENHEIM S.S.C. - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BARR/GERTWILL
- ER - 1 vs OHNENHEIM S.S.C. - 1\n\nHALL DU SIVOM\n📍 Rue du Lycée Barr 6
- 7140\n🚗 Waze : https://waze.com/ul?ll=48.4098\,7.45794&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200000014647
- 796
-LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647796
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-01-20-30-kogenheim-sermersheim-b-c-1-s
  trasbourg@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270501T203000
 DTEND;TZID=Europe/Paris:20270501T223000
 SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – STRASBOURG ELECTRICITE A.S. - 1
@@ -2051,9 +2034,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647793
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-05-01-20-30-barr-gertwiller-1-ohnenheim-s
+ -s-c-1@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270501T203000
+DTEND;TZID=Europe/Paris:20270501T223000
+SUMMARY:BARR/GERTWILLER - 1 – OHNENHEIM S.S.C. - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BARR/GERTWILL
+ ER - 1 vs OHNENHEIM S.S.C. - 1\n\nHALL DU SIVOM\n📍 Rue du Lycée Barr 6
+ 7140\n🚗 Waze : https://waze.com/ul?ll=48.4098\,7.45794&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200000014647
+ 796
+LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647796
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-02-17-30-val-de-ville-b-c-2-ie-ctc-m2b
  -molsheim@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270502T173000
 DTEND;TZID=Europe/Paris:20270502T193000
 SUMMARY:VAL DE VILLE B.C. - 2 – IE - CTC M2B - MOLSHEIM CSTG - 1
@@ -2070,7 +2070,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-14-20-30-duttlenheim-lc-4-barr-gertwil
  ler-1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270514T203000
 DTEND;TZID=Europe/Paris:20270514T223000
 SUMMARY:DUTTLENHEIM LC - 4 – BARR/GERTWILLER - 1
@@ -2085,26 +2085,25 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647802
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-05-15-18-30-bindernheim-c-s-u-1-ie-ctc-m2
- b-molshei@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270515T183000
-DTEND;TZID=Europe/Paris:20270515T203000
-SUMMARY:BINDERNHEIM C.S.U. - 1 – IE - CTC M2B - MOLSHEIM CSTG - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BINDERNHEIM C
- .S.U. - 1 vs IE - CTC M2B - MOLSHEIM CSTG - 1\n\nSALLE POLYVALENTE\n📍 R
- ue de Witternheim Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48
- .28678\,7.60704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
- competitions/df2/match/200000014647797
-LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+UID:df2-ges-bas-rhin-poule-b-2027-05-15-18-00-obernai-c-a-1-erstein-bc-1@ff
+ bb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270515T180000
+DTEND;TZID=Europe/Paris:20270515T200000
+SUMMARY:OBERNAI C.A. - 1 – ERSTEIN BC - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OBERNAI C.A. 
+ - 1 vs ERSTEIN BC - 1\n\nHALL BUGEAUD\n📍 Avenue de Gail Obernai 67210\n
+ 🚗 Waze : https://waze.com/ul?ll=48.46313\,7.49122&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200000014647800
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647797
+ match/200000014647800
 END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-15-18-30-ie-ctc-sow-osthouse-cstb-1-ko
  genheim-s@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270515T183000
 DTEND;TZID=Europe/Paris:20270515T203000
 SUMMARY:IE - CTC SOW - OSTHOUSE CSTB - 1 – KOGENHEIM/SERMERSHEIM B.C. - 1
@@ -2119,25 +2118,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647799
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-05-15-20-00-obernai-c-a-1-erstein-bc-1@ff
- bb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270515T200000
-DTEND;TZID=Europe/Paris:20270515T220000
-SUMMARY:OBERNAI C.A. - 1 – ERSTEIN BC - 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ OBERNAI C.A. 
- - 1 vs ERSTEIN BC - 1\n\nHALL BUGEAUD\n📍 Avenue de Gail Obernai 67210\n
- 🚗 Waze : https://waze.com/ul?ll=48.46313\,7.49122&navigate=yes\n\n📢 
- Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
- .ffbb.com/ligues/ges/comites/0067/competitions/df2/match/200000014647800
-LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+UID:df2-ges-bas-rhin-poule-b-2027-05-15-18-30-bindernheim-c-s-u-1-ie-ctc-m2
+ b-molshei@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270515T183000
+DTEND;TZID=Europe/Paris:20270515T203000
+SUMMARY:BINDERNHEIM C.S.U. - 1 – IE - CTC M2B - MOLSHEIM CSTG - 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ BINDERNHEIM C
+ .S.U. - 1 vs IE - CTC M2B - MOLSHEIM CSTG - 1\n\nSALLE POLYVALENTE\n📍 R
+ ue de Witternheim Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48
+ .28678\,7.60704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/df2/match/200000014647797
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
 URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647800
+ match/200000014647797
 END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-15-20-30-strasbourg-electricite-a-s-1-
  val-de-vi@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270515T203000
 DTEND;TZID=Europe/Paris:20270515T223000
 SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – VAL DE VILLE B.C. - 2
@@ -2154,7 +2154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-16-14-30-ohnenheim-s-s-c-1-hindisheim-
  c-s-e-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270516T143000
 DTEND;TZID=Europe/Paris:20270516T163000
 SUMMARY:OHNENHEIM S.S.C. - 1 – HINDISHEIM C.S.E - 2
@@ -2171,7 +2171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-22-18-30-barr-gertwiller-1-obernai-c-a
  -1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270522T183000
 DTEND;TZID=Europe/Paris:20270522T203000
 SUMMARY:BARR/GERTWILLER - 1 – OBERNAI C.A. - 1
@@ -2187,7 +2187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-22-18-30-bindernheim-c-s-u-1-val-de-vi
  lle-b-c-2@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270522T183000
 DTEND;TZID=Europe/Paris:20270522T203000
 SUMMARY:BINDERNHEIM C.S.U. - 1 – VAL DE VILLE B.C. - 2
@@ -2202,27 +2202,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647803
 END:VEVENT
 BEGIN:VEVENT
-UID:df2-ges-bas-rhin-poule-b-2027-05-22-20-30-strasbourg-electricite-a-s-1-
- ie-ctc-so@ffbb-agenda
-DTSTAMP:20260903T200640Z
-DTSTART;TZID=Europe/Paris:20270522T203000
-DTEND;TZID=Europe/Paris:20270522T223000
-SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – IE - CTC SOW - OSTHOUSE CSTB - 
- 1
-DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
- ECTRICITE A.S. - 1 vs IE - CTC SOW - OSTHOUSE CSTB - 1\n\nCENTRE SPORTIF S
- UD\n📍 Rue des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/u
- l?ll=48.55837\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation
- \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
- 067/competitions/df2/match/200000014647805
-LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
- match/200000014647805
-END:VEVENT
-BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-22-20-30-ohnenheim-s-s-c-1-duttlenheim
  -lc-4@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270522T203000
 DTEND;TZID=Europe/Paris:20270522T223000
 SUMMARY:OHNENHEIM S.S.C. - 1 – DUTTLENHEIM LC - 4
@@ -2239,7 +2221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-22-20-30-kogenheim-sermersheim-b-c-1-i
  e-ctc-m2b@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270522T203000
 DTEND;TZID=Europe/Paris:20270522T223000
 SUMMARY:KOGENHEIM/SERMERSHEIM B.C. - 1 – IE - CTC M2B - MOLSHEIM CSTG - 1
@@ -2254,9 +2236,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
  match/200000014647804
 END:VEVENT
 BEGIN:VEVENT
+UID:df2-ges-bas-rhin-poule-b-2027-05-22-20-30-strasbourg-electricite-a-s-1-
+ ie-ctc-so@ffbb-agenda
+DTSTAMP:20260904T200639Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:STRASBOURG ELECTRICITE A.S. - 1 – IE - CTC SOW - OSTHOUSE CSTB - 
+ 1
+DESCRIPTION:🏀 DF2 – GES – Bas-Rhin – Poule B\n⚔️ STRASBOURG EL
+ ECTRICITE A.S. - 1 vs IE - CTC SOW - OSTHOUSE CSTB - 1\n\nCENTRE SPORTIF S
+ UD\n📍 Rue des Vanneaux Strasbourg 67100\n🚗 Waze : https://waze.com/u
+ l?ll=48.55837\,7.75977&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/df2/match/200000014647805
+LOCATION:CENTRE SPORTIF SUD\, Rue des Vanneaux Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df2/
+ match/200000014647805
+END:VEVENT
+BEGIN:VEVENT
 UID:df2-ges-bas-rhin-poule-b-2027-05-23-14-30-hindisheim-c-s-e-2-erstein-bc
  -1@ffbb-agenda
-DTSTAMP:20260903T200640Z
+DTSTAMP:20260904T200639Z
 DTSTART;TZID=Europe/Paris:20270523T143000
 DTEND;TZID=Europe/Paris:20270523T163000
 SUMMARY:HINDISHEIM C.S.E - 2 – ERSTEIN BC - 1

@@ -24,9 +24,26 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-09-13-15-30-sas-fos-provence-basket-la-croix-d
+ -argent-b@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:SAS FOS PROVENCE BASKET – LA CROIX D'ARGENT B MONTPELLIER
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ SAS FOS PROVENCE BASKET vs
+  LA CROIX D'ARGENT B MONTPELLIER\n\nCOMPLEXE SPORTIF PARSEMAIN\n📍 Avenu
+ e Jean Moulin Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul?ll=43.433
+ 14\,4.94793&navigate=yes\n\n📢 Arbitres : Alan KUNTZ\, Laetitia Hernande
+ z\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-
+ elite/match/200000014603171
+LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03171
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-09-13-15-30-ie-ctc-marseille-stade-marseillais
  -uc-saint@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20260913T153000
 DTEND;TZID=Europe/Paris:20260913T173000
 SUMMARY:IE - CTC MARSEILLE - STADE MARSEILLAIS UC – SAINT-CHAMOND ANDREZI
@@ -44,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-09-13-15-30-ie-ctc-lyon-so-basket-territoire-1
  -jeanne-d@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20260913T153000
 DTEND;TZID=Europe/Paris:20260913T173000
 SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – JEANNE DâARC DE VIC
@@ -61,26 +78,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03173
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-09-13-15-30-sas-fos-provence-basket-la-croix-d
- -argent-b@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20260913T153000
-DTEND;TZID=Europe/Paris:20260913T173000
-SUMMARY:SAS FOS PROVENCE BASKET – LA CROIX D'ARGENT B MONTPELLIER
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ SAS FOS PROVENCE BASKET vs
-  LA CROIX D'ARGENT B MONTPELLIER\n\nCOMPLEXE SPORTIF PARSEMAIN\n📍 Avenu
- e Jean Moulin Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul?ll=43.433
- 14\,4.94793&navigate=yes\n\n📢 Arbitres : Alan KUNTZ\, Laetitia Hernande
- z\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-
- elite/match/200000014603171
-LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03171
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-09-20-15-30-saint-chamond-andrezieux-boutheon-
  basket-sc@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
 SUMMARY:SAINT-CHAMOND ANDREZIEUX BOUTHEON BASKET - SCABB – SAS FOS PROVEN
@@ -99,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-09-20-15-30-la-croix-d-argent-b-montpellier-ie
  -ctc-lyon@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
 SUMMARY:LA CROIX D'ARGENT B MONTPELLIER – IE - CTC LYON SO BASKET TERRITO
@@ -117,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-09-20-15-30-jeanne-da-arc-de-vichy-ie-ctc-mars
  eille-sta@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
 SUMMARY:JEANNE DâARC DE VICHY – IE - CTC MARSEILLE - STADE MARSEILLA
@@ -134,9 +134,44 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03203
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-09-27-15-30-ie-ctc-marseille-stade-marseillais
+ -uc-ie-ct@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:IE - CTC MARSEILLE - STADE MARSEILLAIS UC – IE - CTC LYON SO BASK
+ ET TERRITOIRE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC MARSEILLE - STADE
+  MARSEILLAIS UC vs IE - CTC LYON SO BASKET TERRITOIRE - 1\n\nSALLE BERGASS
+ E\n📍 Avenue Clot-Bey Marseille 13008\n🚗 Waze : https://waze.com/ul?l
+ l=43.25965\,5.38662&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elit
+ e/match/200000014603231
+LOCATION:SALLE BERGASSE\, Avenue Clot-Bey Marseille 13008
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03231
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-09-27-15-30-sas-fos-provence-basket-jeanne-da-
+ arc-de-vi@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:SAS FOS PROVENCE BASKET – JEANNE DâARC DE VICHY
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ SAS FOS PROVENCE BASKET vs
+  JEANNE DâARC DE VICHY\n\nCOMPLEXE SPORTIF PARSEMAIN\n📍 Avenue Jea
+ n Moulin Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul?ll=43.43314\,4
+ .94793&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000
+ 0014603232
+LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03232
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-09-27-15-30-saint-chamond-andrezieux-boutheon-
  basket-sc@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20260927T153000
 DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:SAINT-CHAMOND ANDREZIEUX BOUTHEON BASKET - SCABB – LA CROIX D'ARG
@@ -153,80 +188,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03233
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-09-27-15-30-sas-fos-provence-basket-jeanne-da-
- arc-de-vi@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20260927T153000
-DTEND;TZID=Europe/Paris:20260927T173000
-SUMMARY:SAS FOS PROVENCE BASKET – JEANNE DâARC DE VICHY
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ SAS FOS PROVENCE BASKET vs
-  JEANNE DâARC DE VICHY\n\nCOMPLEXE SPORTIF PARSEMAIN\n📍 Avenue Jea
- n Moulin Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul?ll=43.43314\,4
- .94793&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
-  FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000
- 0014603232
-LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03232
-END:VEVENT
-BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-09-27-15-30-ie-ctc-marseille-stade-marseillais
- -uc-ie-ct@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20260927T153000
-DTEND;TZID=Europe/Paris:20260927T173000
-SUMMARY:IE - CTC MARSEILLE - STADE MARSEILLAIS UC – IE - CTC LYON SO BASK
- ET TERRITOIRE - 1
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC MARSEILLE - STADE
-  MARSEILLAIS UC vs IE - CTC LYON SO BASKET TERRITOIRE - 1\n\nSALLE BERGASS
- E\n📍 Avenue Clot-Bey Marseille 13008\n🚗 Waze : https://waze.com/ul?l
- l=43.25965\,5.38662&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
- n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elit
- e/match/200000014603231
-LOCATION:SALLE BERGASSE\, Avenue Clot-Bey Marseille 13008
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03231
-END:VEVENT
-BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-10-04-15-30-ie-ctc-lyon-so-basket-territoire-1
- -sas-fos-@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20261004T153000
-DTEND;TZID=Europe/Paris:20261004T173000
-SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – SAS FOS PROVENCE BASKET
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC LYON SO BASKET TE
- RRITOIRE - 1 vs SAS FOS PROVENCE BASKET\n\nGYMNASE SAINTE BARBE\n📍 Rue 
- Sainte-Barbe Sainte-Foy-lÃ¨s-Lyon 69110\n🚗 Waze : https://waze.com/ul
- ?ll=45.73464\,4.78675&navigate=yes\n\n📢 Arbitres : Pas de désignation\
- n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-el
- ite/match/200000014603261
-LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lÃ¨s-Lyon 691
- 10
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03261
-END:VEVENT
-BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-10-04-15-30-la-croix-d-argent-b-montpellier-ie
- -ctc-mars@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20261004T153000
-DTEND;TZID=Europe/Paris:20261004T173000
-SUMMARY:LA CROIX D'ARGENT B MONTPELLIER – IE - CTC MARSEILLE - STADE MARS
- EILLAIS UC
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
- LLIER vs IE - CTC MARSEILLE - STADE MARSEILLAIS UC\n\nGYMNASE ROGER COUDER
- C\n📍 Rue du Mas de Lemasson Montpellier 34070\n🚗 Waze : https://waze
- .com/ul?ll=43.59708\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désig
- nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
- mu18-elite/match/200000014603262
-LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03262
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-10-04-15-30-jeanne-da-arc-de-vichy-saint-chamo
  nd-andrez@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261004T153000
 DTEND;TZID=Europe/Paris:20261004T173000
 SUMMARY:JEANNE DâARC DE VICHY – SAINT-CHAMOND ANDREZIEUX BOUTHEON BA
@@ -243,9 +207,45 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03263
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-10-04-15-30-la-croix-d-argent-b-montpellier-ie
+ -ctc-mars@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:LA CROIX D'ARGENT B MONTPELLIER – IE - CTC MARSEILLE - STADE MARS
+ EILLAIS UC
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs IE - CTC MARSEILLE - STADE MARSEILLAIS UC\n\nGYMNASE ROGER COUDER
+ C\n📍 Rue du Mas de Lemasson Montpellier 34070\n🚗 Waze : https://waze
+ .com/ul?ll=43.59708\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
+ mu18-elite/match/200000014603262
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03262
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-10-04-15-30-ie-ctc-lyon-so-basket-territoire-1
+ -sas-fos-@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – SAS FOS PROVENCE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC LYON SO BASKET TE
+ RRITOIRE - 1 vs SAS FOS PROVENCE BASKET\n\nGYMNASE SAINTE BARBE\n📍 Rue 
+ Sainte-Barbe Sainte-Foy-lÃ¨s-Lyon 69110\n🚗 Waze : https://waze.com/ul
+ ?ll=45.73464\,4.78675&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-el
+ ite/match/200000014603261
+LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lÃ¨s-Lyon 691
+ 10
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03261
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-10-11-15-30-saint-chamond-andrezieux-boutheon-
  basket-sc@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261011T153000
 DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:SAINT-CHAMOND ANDREZIEUX BOUTHEON BASKET - SCABB – IE - CTC LYON 
@@ -264,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-10-11-15-30-la-croix-d-argent-b-montpellier-je
  anne-da-a@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261011T153000
 DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:LA CROIX D'ARGENT B MONTPELLIER – JEANNE DâARC DE VICHY
@@ -281,7 +281,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-10-11-15-30-sas-fos-provence-basket-ie-ctc-mar
  seille-st@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261011T153000
 DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:SAS FOS PROVENCE BASKET – IE - CTC MARSEILLE - STADE MARSEILLAIS 
@@ -297,9 +297,26 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03291
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-11-01-15-30-la-croix-d-argent-b-montpellier-sa
+ s-fos-pro@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:LA CROIX D'ARGENT B MONTPELLIER – SAS FOS PROVENCE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
+ LLIER vs SAS FOS PROVENCE BASKET\n\nGYMNASE ROGER COUDERC\n📍 Rue du Mas
+  de Lemasson Montpellier 34070\n🚗 Waze : https://waze.com/ul?ll=43.5970
+ 8\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
+ 00000014603321
+LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03321
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-11-01-15-30-jeanne-da-arc-de-vichy-ie-ctc-lyon
  -so-baske@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261101T153000
 DTEND;TZID=Europe/Paris:20261101T173000
 SUMMARY:JEANNE DâARC DE VICHY – IE - CTC LYON SO BASKET TERRITOIRE -
@@ -318,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-11-01-15-30-saint-chamond-andrezieux-boutheon-
  basket-sc@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261101T153000
 DTEND;TZID=Europe/Paris:20261101T173000
 SUMMARY:SAINT-CHAMOND ANDREZIEUX BOUTHEON BASKET - SCABB – IE - CTC MARSE
@@ -335,26 +352,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03322
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-11-01-15-30-la-croix-d-argent-b-montpellier-sa
- s-fos-pro@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20261101T153000
-DTEND;TZID=Europe/Paris:20261101T173000
-SUMMARY:LA CROIX D'ARGENT B MONTPELLIER – SAS FOS PROVENCE BASKET
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ LA CROIX D'ARGENT B MONTPE
- LLIER vs SAS FOS PROVENCE BASKET\n\nGYMNASE ROGER COUDERC\n📍 Rue du Mas
-  de Lemasson Montpellier 34070\n🚗 Waze : https://waze.com/ul?ll=43.5970
- 8\,3.86922&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
- ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
- 00000014603321
-LOCATION:GYMNASE ROGER COUDERC\, Rue du Mas de Lemasson Montpellier 34070
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03321
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-11-08-15-30-sas-fos-provence-basket-saint-cham
  ond-andre@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:SAS FOS PROVENCE BASKET – SAINT-CHAMOND ANDREZIEUX BOUTHEON BASKE
@@ -370,27 +370,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03351
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-11-08-15-30-ie-ctc-marseille-stade-marseillais
- -uc-jeann@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20261108T153000
-DTEND;TZID=Europe/Paris:20261108T173000
-SUMMARY:IE - CTC MARSEILLE - STADE MARSEILLAIS UC – JEANNE DâARC DE 
- VICHY
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC MARSEILLE - STADE
-  MARSEILLAIS UC vs JEANNE DâARC DE VICHY\n\nTECHNO SPORT AIX MARSEILL
- E\n📍 Avenue de Luminy Marseille 13009\n🚗 Waze : https://waze.com/ul?
- ll=43.23488\,5.43799&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
- \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-eli
- te/match/200000014603353
-LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03353
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-11-08-15-30-ie-ctc-lyon-so-basket-territoire-1
  -la-croix@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – LA CROIX D'ARGENT B MONT
@@ -407,28 +389,27 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03352
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-11-15-15-30-ie-ctc-lyon-so-basket-territoire-1
- -ie-ctc-m@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20261115T153000
-DTEND;TZID=Europe/Paris:20261115T173000
-SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – IE - CTC MARSEILLE - STA
- DE MARSEILLAIS UC
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC LYON SO BASKET TE
- RRITOIRE - 1 vs IE - CTC MARSEILLE - STADE MARSEILLAIS UC\n\nGYMNASE SAINT
- E BARBE\n📍 Rue Sainte-Barbe Sainte-Foy-lÃ¨s-Lyon 69110\n🚗 Waze : h
- ttps://waze.com/ul?ll=45.73464\,4.78675&navigate=yes\n\n📢 Arbitres : Pa
- s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
- petitions/nmu18-elite/match/200000014603381
-LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lÃ¨s-Lyon 691
- 10
+UID:nmu18-elite-poule-b-2026-11-08-15-30-ie-ctc-marseille-stade-marseillais
+ -uc-jeann@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:IE - CTC MARSEILLE - STADE MARSEILLAIS UC – JEANNE DâARC DE 
+ VICHY
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC MARSEILLE - STADE
+  MARSEILLAIS UC vs JEANNE DâARC DE VICHY\n\nTECHNO SPORT AIX MARSEILL
+ E\n📍 Avenue de Luminy Marseille 13009\n🚗 Waze : https://waze.com/ul?
+ ll=43.23488\,5.43799&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-eli
+ te/match/200000014603353
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
 URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03381
+ 03353
 END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-11-15-15-30-la-croix-d-argent-b-montpellier-sa
  int-chamo@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:LA CROIX D'ARGENT B MONTPELLIER – SAINT-CHAMOND ANDREZIEUX BOUTHE
@@ -446,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-11-15-15-30-jeanne-da-arc-de-vichy-sas-fos-pro
  vence-bas@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:JEANNE DâARC DE VICHY – SAS FOS PROVENCE BASKET
@@ -462,9 +443,63 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03382
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-11-15-15-30-ie-ctc-lyon-so-basket-territoire-1
+ -ie-ctc-m@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – IE - CTC MARSEILLE - STA
+ DE MARSEILLAIS UC
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC LYON SO BASKET TE
+ RRITOIRE - 1 vs IE - CTC MARSEILLE - STADE MARSEILLAIS UC\n\nGYMNASE SAINT
+ E BARBE\n📍 Rue Sainte-Barbe Sainte-Foy-lÃ¨s-Lyon 69110\n🚗 Waze : h
+ ttps://waze.com/ul?ll=45.73464\,4.78675&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
+ petitions/nmu18-elite/match/200000014603381
+LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lÃ¨s-Lyon 691
+ 10
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03381
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-11-29-15-30-sas-fos-provence-basket-ie-ctc-lyo
+ n-so-bask@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:SAS FOS PROVENCE BASKET – IE - CTC LYON SO BASKET TERRITOIRE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ SAS FOS PROVENCE BASKET vs
+  IE - CTC LYON SO BASKET TERRITOIRE - 1\n\nCOMPLEXE SPORTIF PARSEMAIN\n
+ 📍 Avenue Jean Moulin Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul
+ ?ll=43.43314\,4.94793&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-el
+ ite/match/200000014603411
+LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03411
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-11-29-15-30-ie-ctc-marseille-stade-marseillais
+ -uc-la-cr@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:IE - CTC MARSEILLE - STADE MARSEILLAIS UC – LA CROIX D'ARGENT B M
+ ONTPELLIER
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC MARSEILLE - STADE
+  MARSEILLAIS UC vs LA CROIX D'ARGENT B MONTPELLIER\n\nTECHNO SPORT AIX MAR
+ SEILLE\n📍 Avenue de Luminy Marseille 13009\n🚗 Waze : https://waze.co
+ m/ul?ll=43.23488\,5.43799&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
+ 8-elite/match/200000014603412
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03412
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-11-29-15-30-saint-chamond-andrezieux-boutheon-
  basket-sc@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261129T153000
 DTEND;TZID=Europe/Paris:20261129T173000
 SUMMARY:SAINT-CHAMOND ANDREZIEUX BOUTHEON BASKET - SCABB – JEANNE Dâ
@@ -481,62 +516,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03413
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-11-29-15-30-ie-ctc-marseille-stade-marseillais
- -uc-la-cr@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20261129T153000
-DTEND;TZID=Europe/Paris:20261129T173000
-SUMMARY:IE - CTC MARSEILLE - STADE MARSEILLAIS UC – LA CROIX D'ARGENT B M
- ONTPELLIER
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC MARSEILLE - STADE
-  MARSEILLAIS UC vs LA CROIX D'ARGENT B MONTPELLIER\n\nTECHNO SPORT AIX MAR
- SEILLE\n📍 Avenue de Luminy Marseille 13009\n🚗 Waze : https://waze.co
- m/ul?ll=43.23488\,5.43799&navigate=yes\n\n📢 Arbitres : Pas de désignat
- ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
- 8-elite/match/200000014603412
-LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03412
-END:VEVENT
-BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-11-29-15-30-sas-fos-provence-basket-ie-ctc-lyo
- n-so-bask@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20261129T153000
-DTEND;TZID=Europe/Paris:20261129T173000
-SUMMARY:SAS FOS PROVENCE BASKET – IE - CTC LYON SO BASKET TERRITOIRE - 1
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ SAS FOS PROVENCE BASKET vs
-  IE - CTC LYON SO BASKET TERRITOIRE - 1\n\nCOMPLEXE SPORTIF PARSEMAIN\n
- 📍 Avenue Jean Moulin Fos-sur-Mer 13270\n🚗 Waze : https://waze.com/ul
- ?ll=43.43314\,4.94793&navigate=yes\n\n📢 Arbitres : Pas de désignation\
- n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-el
- ite/match/200000014603411
-LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03411
-END:VEVENT
-BEGIN:VEVENT
-UID:nmu18-elite-poule-b-2026-12-06-15-30-ie-ctc-marseille-stade-marseillais
- -uc-sas-f@ffbb-agenda
-DTSTAMP:20260903T213446Z
-DTSTART;TZID=Europe/Paris:20261206T153000
-DTEND;TZID=Europe/Paris:20261206T173000
-SUMMARY:IE - CTC MARSEILLE - STADE MARSEILLAIS UC – SAS FOS PROVENCE BASK
- ET
-DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC MARSEILLE - STADE
-  MARSEILLAIS UC vs SAS FOS PROVENCE BASKET\n\nTECHNO SPORT AIX MARSEILLE\n
- 📍 Avenue de Luminy Marseille 13009\n🚗 Waze : https://waze.com/ul?ll=
- 43.23488\,5.43799&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
- /match/200000014603441
-LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03441
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-12-06-15-30-jeanne-da-arc-de-vichy-la-croix-d-
  argent-b-@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261206T153000
 DTEND;TZID=Europe/Paris:20261206T173000
 SUMMARY:JEANNE DâARC DE VICHY – LA CROIX D'ARGENT B MONTPELLIER
@@ -554,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-b-2026-12-06-15-30-ie-ctc-lyon-so-basket-territoire-1
  -saint-ch@ffbb-agenda
-DTSTAMP:20260903T213446Z
+DTSTAMP:20260904T213505Z
 DTSTART;TZID=Europe/Paris:20261206T153000
 DTEND;TZID=Europe/Paris:20261206T173000
 SUMMARY:IE - CTC LYON SO BASKET TERRITOIRE - 1 – SAINT-CHAMOND ANDREZIEUX
@@ -569,5 +551,23 @@ LOCATION:GYMNASE SAINTE BARBE\, Rue Sainte-Barbe Sainte-Foy-lÃ¨s-Lyon 691
  10
 URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03443
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-b-2026-12-06-15-30-ie-ctc-marseille-stade-marseillais
+ -uc-sas-f@ffbb-agenda
+DTSTAMP:20260904T213505Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:IE - CTC MARSEILLE - STADE MARSEILLAIS UC – SAS FOS PROVENCE BASK
+ ET
+DESCRIPTION:🏀 NMU18-ELITE – Poule B\n⚔️ IE - CTC MARSEILLE - STADE
+  MARSEILLAIS UC vs SAS FOS PROVENCE BASKET\n\nTECHNO SPORT AIX MARSEILLE\n
+ 📍 Avenue de Luminy Marseille 13009\n🚗 Waze : https://waze.com/ul?ll=
+ 43.23488\,5.43799&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
+ /match/200000014603441
+LOCATION:TECHNO SPORT AIX MARSEILLE\, Avenue de Luminy Marseille 13009
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03441
 END:VEVENT
 END:VCALENDAR

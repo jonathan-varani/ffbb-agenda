@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cpe-sf-18-ges-poule-a-2026-12-20-15-30-weitbruch-a-s-c-g-strasbourg-lib
- ellules-b@ffbb-agenda
-DTSTAMP:20260904T210307Z
-DTSTART;TZID=Europe/Paris:20261220T153000
-DTEND;TZID=Europe/Paris:20261220T173000
-SUMMARY:WEITBRUCH A.S.C.G – STRASBOURG LIBELLULES B.C.
-DESCRIPTION:🏀 CPE-SF-18 – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G vs
-  STRASBOURG LIBELLULES B.C.\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Ég
- lise Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/ligues/ges/competitions/cpe-sf-18/match/20
- 0000014659696
-LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
-URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-sf-18/match/2
- 00000014659696
-END:VEVENT
-BEGIN:VEVENT
 UID:cpe-sf-18-ges-poule-a-2026-12-20-15-00-ohnheim-c-s-s-a-duttlenheim-lc@f
  fbb-agenda
-DTSTAMP:20260904T210307Z
+DTSTAMP:20260905T060707Z
 DTSTART;TZID=Europe/Paris:20261220T150000
 DTEND;TZID=Europe/Paris:20261220T170000
 SUMMARY:OHNHEIM C.S.S.A. – DUTTLENHEIM LC
@@ -56,5 +39,22 @@ DESCRIPTION:🏀 CPE-SF-18 – GES – Poule A\n⚔️ OHNHEIM C.S.S.A. vs
 LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
 URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-sf-18/match/2
  00000014659697
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-sf-18-ges-poule-a-2026-12-20-15-30-weitbruch-a-s-c-g-strasbourg-lib
+ ellules-b@ffbb-agenda
+DTSTAMP:20260905T060707Z
+DTSTART;TZID=Europe/Paris:20261220T153000
+DTEND;TZID=Europe/Paris:20261220T173000
+SUMMARY:WEITBRUCH A.S.C.G – STRASBOURG LIBELLULES B.C.
+DESCRIPTION:🏀 CPE-SF-18 – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G vs
+  STRASBOURG LIBELLULES B.C.\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Ég
+ lise Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/cpe-sf-18/match/20
+ 0000014659696
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-sf-18/match/2
+ 00000014659696
 END:VEVENT
 END:VCALENDAR

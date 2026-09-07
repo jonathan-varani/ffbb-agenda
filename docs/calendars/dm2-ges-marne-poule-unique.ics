@@ -24,9 +24,27 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-09-26-00-00-eveil-recy-saint-martin-bas
+ ket-2-as-@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – AS AMATEUR TINQUEUX BASKET -
+  1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
+ SAINT MARTIN BASKET - 2 vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE PIERR
+ E ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.com/
+ ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0051/competitions/dm2/match/200000014667391
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667391
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-09-26-00-00-la-fertonne-fere-champenois
  e-2-amica@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – AMICALE DES JEUNES DE BETHENY 
@@ -45,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-09-26-00-00-entente-gaillarde-muizonnai
  se-e-l-wi@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – E- L-WITRY LES REIMS BASKET - 1
@@ -62,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-09-26-00-00-esperance-remoise-basket-ba
  ll-gauloi@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:ESPERANCE REMOISE BASKET BALL – GAULOISE DE VITRY LE FRANCOIS - 1
@@ -77,11 +95,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667394
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-09-26-00-00-academie-basket-du-grand-re
+UID:dm2-ges-marne-poule-unique-2026-09-27-16-00-academie-basket-du-grand-re
  ims-2-cad@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20260926T000000
-DTEND;TZID=Europe/Paris:20260926T020000
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20260927T160000
+DTEND;TZID=Europe/Paris:20260927T180000
 SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – CAD MOURMELON BASKETBALL
 DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
  SKET DU GRAND REIMS - 2 vs CAD MOURMELON BASKETBALL\n\nGYMNASE DESBUREAUX\
@@ -94,27 +112,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667390
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-09-26-00-00-eveil-recy-saint-martin-bas
- ket-2-as-@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20260926T000000
-DTEND;TZID=Europe/Paris:20260926T020000
-SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – AS AMATEUR TINQUEUX BASKET -
-  1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
- SAINT MARTIN BASKET - 2 vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE PIERR
- E ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.com/
- ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignatio
- n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
- 0051/competitions/dm2/match/200000014667391
-LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667391
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-10-02-20-30-amicale-des-jeunes-de-bethe
  ny-2-evei@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261002T203000
 DTEND;TZID=Europe/Paris:20261002T223000
 SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – EVEIL RECY SAINT MARTIN BASKE
@@ -130,9 +130,45 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667398
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-10-03-00-00-e-l-witry-les-reims-basket-
+ 1-as-amat@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – AS AMATEUR TINQUEUX BASKET - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ E- L-WITRY 
+ LES REIMS BASKET - 1 vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE JEAN BOU
+ CTON SALLE (n1)\n📍 Rue de Bétheny Witry-lès-Reims 51420\n🚗 Waze : 
+ https://waze.com/ul?ll=49.29189\,4.11144&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0051/competitions/dm2/match/200000014667399
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667399
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-10-03-00-00-cad-mourmelon-basketball-en
+ tente-gai@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:CAD MOURMELON BASKETBALL – ENTENTE GAILLARDE MUIZONNAISE
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ CAD MOURMEL
+ ON BASKETBALL vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE DU TERME HILAIRE
+ \n📍 Rue du Terme Hilaire Mourmelon-le-Grand 51400\n🚗 Waze : https://
+ waze.com/ul?ll=49.13644\,4.36988&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/dm2/match/200000014667397
+LOCATION:GYMNASE DU TERME HILAIRE\, Rue du Terme Hilaire Mourmelon-le-Grand
+  51400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667397
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-10-03-00-00-la-fertonne-fere-champenois
  e-2-gaulo@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261003T000000
 DTEND;TZID=Europe/Paris:20261003T020000
 SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – GAULOISE DE VITRY LE FRANCOIS 
@@ -149,29 +185,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667395
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-10-03-00-00-cad-mourmelon-basketball-en
- tente-gai@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261003T000000
-DTEND;TZID=Europe/Paris:20261003T020000
-SUMMARY:CAD MOURMELON BASKETBALL – ENTENTE GAILLARDE MUIZONNAISE
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ CAD MOURMEL
- ON BASKETBALL vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE DU TERME HILAIRE
- \n📍 Rue du Terme Hilaire Mourmelon-le-Grand 51400\n🚗 Waze : https://
- waze.com/ul?ll=49.13644\,4.36988&navigate=yes\n\n📢 Arbitres : Pas de d
- ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
- s/comites/0051/competitions/dm2/match/200000014667397
-LOCATION:GYMNASE DU TERME HILAIRE\, Rue du Terme Hilaire Mourmelon-le-Grand
-  51400
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667397
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-10-03-00-00-academie-basket-du-grand-re
+UID:dm2-ges-marne-poule-unique-2026-10-04-16-00-academie-basket-du-grand-re
  ims-2-esp@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261003T000000
-DTEND;TZID=Europe/Paris:20261003T020000
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261004T160000
+DTEND;TZID=Europe/Paris:20261004T180000
 SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – ESPERANCE REMOISE BASKET BAL
  L
 DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
@@ -185,27 +203,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667396
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-10-03-00-00-e-l-witry-les-reims-basket-
- 1-as-amat@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261003T000000
-DTEND;TZID=Europe/Paris:20261003T020000
-SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – AS AMATEUR TINQUEUX BASKET - 1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ E- L-WITRY 
- LES REIMS BASKET - 1 vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE JEAN BOU
- CTON SALLE (n1)\n📍 Rue de Bétheny Witry-lès-Reims 51420\n🚗 Waze : 
- https://waze.com/ul?ll=49.29189\,4.11144&navigate=yes\n\n📢 Arbitres : P
- as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
- gues/ges/comites/0051/competitions/dm2/match/200000014667399
-LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
-  51420
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667399
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-10-09-20-30-amicale-des-jeunes-de-bethe
  ny-2-cad-@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261009T203000
 DTEND;TZID=Europe/Paris:20261009T223000
 SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – CAD MOURMELON BASKETBALL
@@ -220,9 +220,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667400
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-10-10-00-00-as-amateur-tinqueux-basket-
+ 1-la-fert@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – LA FERTONNE FERE-CHAMPENOISE - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AS AMATEUR 
+ TINQUEUX BASKET - 1 vs LA FERTONNE FERE-CHAMPENOISE - 2\n\nGYMNASE F. BRON
+ CQUART\n📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://w
+ aze.com/ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0051/competitions/dm2/match/200000014667402
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667402
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-10-10-00-00-eveil-recy-saint-martin-bas
  ket-2-esp@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261010T000000
 DTEND;TZID=Europe/Paris:20261010T020000
 SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – ESPERANCE REMOISE BASKET BAL
@@ -240,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-10-10-00-00-entente-gaillarde-muizonnai
  se-academ@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261010T000000
 DTEND;TZID=Europe/Paris:20261010T020000
 SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – ACADEMIE BASKET DU GRAND REIMS - 
@@ -256,26 +273,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667401
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-10-10-00-00-as-amateur-tinqueux-basket-
- 1-la-fert@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261010T000000
-DTEND;TZID=Europe/Paris:20261010T020000
-SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – LA FERTONNE FERE-CHAMPENOISE - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AS AMATEUR 
- TINQUEUX BASKET - 1 vs LA FERTONNE FERE-CHAMPENOISE - 2\n\nGYMNASE F. BRON
- CQUART\n📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://w
- aze.com/ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de dé
- signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
- comites/0051/competitions/dm2/match/200000014667402
-LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667402
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-10-10-20-30-gauloise-de-vitry-le-franco
  is-1-e-l-@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261010T203000
 DTEND;TZID=Europe/Paris:20261010T223000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS - 1 – E- L-WITRY LES REIMS BASKET -
@@ -292,26 +292,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667403
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-11-07-00-00-esperance-remoise-basket-ba
- ll-as-ama@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261107T000000
-DTEND;TZID=Europe/Paris:20261107T020000
-SUMMARY:ESPERANCE REMOISE BASKET BALL – AS AMATEUR TINQUEUX BASKET - 1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ESPERANCE R
- EMOISE BASKET BALL vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE LEO BORGNE
- T\n📍 Rue Raoul Dufy Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.
- 22498\,4.01339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
-  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/comp
- etitions/dm2/match/200000014667407
-LOCATION:GYMNASE LEO BORGNET\, Rue Raoul Dufy Reims 51100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667407
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-11-07-00-00-la-fertonne-fere-champenois
  e-2-enten@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261107T000000
 DTEND;TZID=Europe/Paris:20261107T020000
 SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – ENTENTE GAILLARDE MUIZONNAISE
@@ -327,27 +310,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667406
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-11-07-00-00-eveil-recy-saint-martin-bas
- ket-2-aca@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261107T000000
-DTEND;TZID=Europe/Paris:20261107T020000
-SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – ACADEMIE BASKET DU GRAND REI
- MS - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
- SAINT MARTIN BASKET - 2 vs ACADEMIE BASKET DU GRAND REIMS - 2\n\nGYMNASE P
- IERRE ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.
- com/ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désign
- ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
- tes/0051/competitions/dm2/match/200000014667405
-LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667405
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-11-07-00-00-cad-mourmelon-basketball-ga
  uloise-de@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261107T000000
 DTEND;TZID=Europe/Paris:20261107T020000
 SUMMARY:CAD MOURMELON BASKETBALL – GAULOISE DE VITRY LE FRANCOIS - 1
@@ -365,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-11-07-00-00-e-l-witry-les-reims-basket-
  1-amicale@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261107T000000
 DTEND;TZID=Europe/Paris:20261107T020000
 SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – AMICALE DES JEUNES DE BETHENY -
@@ -382,9 +347,44 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667408
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-11-07-00-00-eveil-recy-saint-martin-bas
+ ket-2-aca@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – ACADEMIE BASKET DU GRAND REI
+ MS - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
+ SAINT MARTIN BASKET - 2 vs ACADEMIE BASKET DU GRAND REIMS - 2\n\nGYMNASE P
+ IERRE ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.
+ com/ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0051/competitions/dm2/match/200000014667405
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667405
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-11-07-00-00-esperance-remoise-basket-ba
+ ll-as-ama@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:ESPERANCE REMOISE BASKET BALL – AS AMATEUR TINQUEUX BASKET - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ESPERANCE R
+ EMOISE BASKET BALL vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE LEO BORGNE
+ T\n📍 Rue Raoul Dufy Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.
+ 22498\,4.01339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/comp
+ etitions/dm2/match/200000014667407
+LOCATION:GYMNASE LEO BORGNET\, Rue Raoul Dufy Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667407
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-11-13-20-30-amicale-des-jeunes-de-bethe
  ny-2-acad@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261113T203000
 DTEND;TZID=Europe/Paris:20261113T223000
 SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – ACADEMIE BASKET DU GRAND REIM
@@ -400,9 +400,43 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667410
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-11-14-00-00-as-amateur-tinqueux-basket-
+ 1-cad-mou@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – CAD MOURMELON BASKETBALL
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AS AMATEUR 
+ TINQUEUX BASKET - 1 vs CAD MOURMELON BASKETBALL\n\nGYMNASE F. BRONCQUART\n
+ 📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/
+ ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0051/competitions/dm2/match/200000014667412
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667412
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-11-14-00-00-entente-gaillarde-muizonnai
+ se-gauloi@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – GAULOISE DE VITRY LE FRANCOIS - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
+ LLARDE MUIZONNAISE vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE PARC DE
+  LOISIR DU CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=49
+ .27598\,3.88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/dm2/match/200000014667413
+LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667413
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-11-14-00-00-la-fertonne-fere-champenois
  e-2-eveil@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261114T000000
 DTEND;TZID=Europe/Paris:20261114T020000
 SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – EVEIL RECY SAINT MARTIN BASKET
@@ -419,43 +453,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667414
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-11-14-00-00-entente-gaillarde-muizonnai
- se-gauloi@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261114T000000
-DTEND;TZID=Europe/Paris:20261114T020000
-SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – GAULOISE DE VITRY LE FRANCOIS - 1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
- LLARDE MUIZONNAISE vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE PARC DE
-  LOISIR DU CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=49
- .27598\,3.88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
- competitions/dm2/match/200000014667413
-LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667413
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-11-14-00-00-as-amateur-tinqueux-basket-
- 1-cad-mou@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261114T000000
-DTEND;TZID=Europe/Paris:20261114T020000
-SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – CAD MOURMELON BASKETBALL
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AS AMATEUR 
- TINQUEUX BASKET - 1 vs CAD MOURMELON BASKETBALL\n\nGYMNASE F. BRONCQUART\n
- 📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/
- ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignatio
- n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
- 0051/competitions/dm2/match/200000014667412
-LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667412
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-11-14-00-00-e-l-witry-les-reims-basket-
  1-esperan@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261114T000000
 DTEND;TZID=Europe/Paris:20261114T020000
 SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – ESPERANCE REMOISE BASKET BALL
@@ -473,7 +473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-11-21-00-00-cad-mourmelon-basketball-ev
  eil-recy-@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261121T000000
 DTEND;TZID=Europe/Paris:20261121T020000
 SUMMARY:CAD MOURMELON BASKETBALL – EVEIL RECY SAINT MARTIN BASKET - 2
@@ -489,44 +489,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667416
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-11-21-00-00-entente-gaillarde-muizonnai
- se-amical@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261121T000000
-DTEND;TZID=Europe/Paris:20261121T020000
-SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – AMICALE DES JEUNES DE BETHENY - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
- LLARDE MUIZONNAISE vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE PARC DE
-  LOISIR DU CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=49
- .27598\,3.88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
- competitions/dm2/match/200000014667419
-LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667419
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-11-21-00-00-academie-basket-du-grand-re
- ims-2-e-l@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261121T000000
-DTEND;TZID=Europe/Paris:20261121T020000
-SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – E- L-WITRY LES REIMS BASKET 
- - 1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
- SKET DU GRAND REIMS - 2 vs E- L-WITRY LES REIMS BASKET - 1\n\nGYMNASE DESB
- UREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/ul?
- ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
- \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
- 1/competitions/dm2/match/200000014667418
-LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667418
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-11-21-00-00-esperance-remoise-basket-ba
  ll-la-fer@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261121T000000
 DTEND;TZID=Europe/Paris:20261121T020000
 SUMMARY:ESPERANCE REMOISE BASKET BALL – LA FERTONNE FERE-CHAMPENOISE - 2
@@ -541,9 +506,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667417
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-11-21-00-00-entente-gaillarde-muizonnai
+ se-amical@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – AMICALE DES JEUNES DE BETHENY - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
+ LLARDE MUIZONNAISE vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE PARC DE
+  LOISIR DU CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=49
+ .27598\,3.88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/dm2/match/200000014667419
+LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667419
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-11-22-11-00-gauloise-de-vitry-le-franco
  is-1-as-a@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261122T110000
 DTEND;TZID=Europe/Paris:20261122T130000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS - 1 – AS AMATEUR TINQUEUX BASKET - 
@@ -560,9 +542,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667415
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-11-22-14-00-academie-basket-du-grand-re
+ ims-2-e-l@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261122T140000
+DTEND;TZID=Europe/Paris:20261122T160000
+SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – E- L-WITRY LES REIMS BASKET 
+ - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
+ SKET DU GRAND REIMS - 2 vs E- L-WITRY LES REIMS BASKET - 1\n\nGYMNASE DESB
+ UREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/ul?
+ ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 1/competitions/dm2/match/200000014667418
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667418
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-12-04-20-30-amicale-des-jeunes-de-bethe
  ny-2-gaul@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261204T203000
 DTEND;TZID=Europe/Paris:20261204T223000
 SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – GAULOISE DE VITRY LE FRANCOIS
@@ -578,9 +578,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667423
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-12-05-00-00-esperance-remoise-basket-ba
+ ll-entent@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:ESPERANCE REMOISE BASKET BALL – ENTENTE GAILLARDE MUIZONNAISE
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ESPERANCE R
+ EMOISE BASKET BALL vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE LEO BORGNET
+ \n📍 Rue Raoul Dufy Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.2
+ 2498\,4.01339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/compe
+ titions/dm2/match/200000014667420
+LOCATION:GYMNASE LEO BORGNET\, Rue Raoul Dufy Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667420
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-12-05-00-00-eveil-recy-saint-martin-bas
  ket-2-e-l@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261205T000000
 DTEND;TZID=Europe/Paris:20261205T020000
 SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – E- L-WITRY LES REIMS BASKET 
@@ -596,44 +613,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667424
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-12-05-00-00-esperance-remoise-basket-ba
- ll-entent@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261205T000000
-DTEND;TZID=Europe/Paris:20261205T020000
-SUMMARY:ESPERANCE REMOISE BASKET BALL – ENTENTE GAILLARDE MUIZONNAISE
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ESPERANCE R
- EMOISE BASKET BALL vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE LEO BORGNET
- \n📍 Rue Raoul Dufy Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.2
- 2498\,4.01339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
- Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/compe
- titions/dm2/match/200000014667420
-LOCATION:GYMNASE LEO BORGNET\, Rue Raoul Dufy Reims 51100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667420
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-12-05-00-00-la-fertonne-fere-champenois
- e-2-cad-m@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261205T000000
-DTEND;TZID=Europe/Paris:20261205T020000
-SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – CAD MOURMELON BASKETBALL
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ LA FERTONNE
-  FERE-CHAMPENOISE - 2 vs CAD MOURMELON BASKETBALL\n\nGYMNASE PAUL MASSIN\n
- 📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : https://wa
- ze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas de dés
- ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
- omites/0051/competitions/dm2/match/200000014667422
-LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
- 0
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667422
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-12-05-00-00-as-amateur-tinqueux-basket-
  1-academi@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261205T000000
 DTEND;TZID=Europe/Paris:20261205T020000
 SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – ACADEMIE BASKET DU GRAND REIMS -
@@ -649,9 +631,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667421
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-12-05-00-00-la-fertonne-fere-champenois
+ e-2-cad-m@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – CAD MOURMELON BASKETBALL
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ LA FERTONNE
+  FERE-CHAMPENOISE - 2 vs CAD MOURMELON BASKETBALL\n\nGYMNASE PAUL MASSIN\n
+ 📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0051/competitions/dm2/match/200000014667422
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667422
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-12-12-00-00-as-amateur-tinqueux-basket-
  1-amicale@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261212T000000
 DTEND;TZID=Europe/Paris:20261212T020000
 SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – AMICALE DES JEUNES DE BETHENY - 
@@ -667,27 +667,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667429
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2026-12-12-00-00-eveil-recy-saint-martin-bas
- ket-2-ent@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20261212T000000
-DTEND;TZID=Europe/Paris:20261212T020000
-SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – ENTENTE GAILLARDE MUIZONNAIS
- E
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
- SAINT MARTIN BASKET - 2 vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE PIERRE
-  ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.com/u
- l?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignation
- \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
- 051/competitions/dm2/match/200000014667425
-LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667425
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-12-12-00-00-e-l-witry-les-reims-basket-
  1-la-fert@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261212T000000
 DTEND;TZID=Europe/Paris:20261212T020000
 SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – LA FERTONNE FERE-CHAMPENOISE - 
@@ -706,7 +688,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-12-12-00-00-cad-mourmelon-basketball-es
  perance-r@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261212T000000
 DTEND;TZID=Europe/Paris:20261212T020000
 SUMMARY:CAD MOURMELON BASKETBALL – ESPERANCE REMOISE BASKET BALL
@@ -722,9 +704,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667427
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2026-12-12-00-00-eveil-recy-saint-martin-bas
+ ket-2-ent@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – ENTENTE GAILLARDE MUIZONNAIS
+ E
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
+ SAINT MARTIN BASKET - 2 vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE PIERRE
+  ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.com/u
+ l?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 051/competitions/dm2/match/200000014667425
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667425
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2026-12-13-11-00-gauloise-de-vitry-le-franco
  is-1-acad@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20261213T110000
 DTEND;TZID=Europe/Paris:20261213T130000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS - 1 – ACADEMIE BASKET DU GRAND REIM
@@ -743,7 +743,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-16-00-00-esperance-remoise-basket-ba
  ll-amical@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270116T000000
 DTEND;TZID=Europe/Paris:20270116T020000
 SUMMARY:ESPERANCE REMOISE BASKET BALL – AMICALE DES JEUNES DE BETHENY - 2
@@ -758,27 +758,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667432
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-01-16-00-00-academie-basket-du-grand-re
- ims-2-la-@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270116T000000
-DTEND;TZID=Europe/Paris:20270116T020000
-SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – LA FERTONNE FERE-CHAMPENOISE
-  - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
- SKET DU GRAND REIMS - 2 vs LA FERTONNE FERE-CHAMPENOISE - 2\n\nGYMNASE DES
- BUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/ul
- ?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation\
- n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
- 51/competitions/dm2/match/200000014667430
-LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667430
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-16-00-00-e-l-witry-les-reims-basket-
  1-cad-mou@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270116T000000
 DTEND;TZID=Europe/Paris:20270116T020000
 SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – CAD MOURMELON BASKETBALL
@@ -796,7 +778,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-16-00-00-entente-gaillarde-muizonnai
  se-as-ama@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270116T000000
 DTEND;TZID=Europe/Paris:20270116T020000
 SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – AS AMATEUR TINQUEUX BASKET - 1
@@ -811,9 +793,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667433
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-01-16-16-00-academie-basket-du-grand-re
+ ims-2-la-@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270116T160000
+DTEND;TZID=Europe/Paris:20270116T180000
+SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – LA FERTONNE FERE-CHAMPENOISE
+  - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
+ SKET DU GRAND REIMS - 2 vs LA FERTONNE FERE-CHAMPENOISE - 2\n\nGYMNASE DES
+ BUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/ul
+ ?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 51/competitions/dm2/match/200000014667430
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667430
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-17-11-00-gauloise-de-vitry-le-franco
  is-1-evei@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270117T110000
 DTEND;TZID=Europe/Paris:20270117T130000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS - 1 – EVEIL RECY SAINT MARTIN BASKE
@@ -832,7 +832,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-22-20-30-amicale-des-jeunes-de-bethe
  ny-2-la-f@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270122T203000
 DTEND;TZID=Europe/Paris:20270122T223000
 SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – LA FERTONNE FERE-CHAMPENOISE 
@@ -848,45 +848,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667437
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-01-23-00-00-as-amateur-tinqueux-basket-
- 1-eveil-r@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270123T000000
-DTEND;TZID=Europe/Paris:20270123T020000
-SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – EVEIL RECY SAINT MARTIN BASKET -
-  2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AS AMATEUR 
- TINQUEUX BASKET - 1 vs EVEIL RECY SAINT MARTIN BASKET - 2\n\nGYMNASE F. BR
- ONCQUART\n📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https:/
- /waze.com/ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de d
- ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
- s/comites/0051/competitions/dm2/match/200000014667436
-LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667436
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-01-23-00-00-e-l-witry-les-reims-basket-
- 1-entente@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270123T000000
-DTEND;TZID=Europe/Paris:20270123T020000
-SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – ENTENTE GAILLARDE MUIZONNAISE
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ E- L-WITRY 
- LES REIMS BASKET - 1 vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE JEAN BOUC
- TON SALLE (n1)\n📍 Rue de Bétheny Witry-lès-Reims 51420\n🚗 Waze : h
- ttps://waze.com/ul?ll=49.29189\,4.11144&navigate=yes\n\n📢 Arbitres : Pa
- s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
- ues/ges/comites/0051/competitions/dm2/match/200000014667438
-LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
-  51420
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667438
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-23-00-00-cad-mourmelon-basketball-ac
  ademie-ba@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270123T000000
 DTEND;TZID=Europe/Paris:20270123T020000
 SUMMARY:CAD MOURMELON BASKETBALL – ACADEMIE BASKET DU GRAND REIMS - 2
@@ -902,9 +866,45 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667435
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-01-23-00-00-e-l-witry-les-reims-basket-
+ 1-entente@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – ENTENTE GAILLARDE MUIZONNAISE
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ E- L-WITRY 
+ LES REIMS BASKET - 1 vs ENTENTE GAILLARDE MUIZONNAISE\n\nGYMNASE JEAN BOUC
+ TON SALLE (n1)\n📍 Rue de Bétheny Witry-lès-Reims 51420\n🚗 Waze : h
+ ttps://waze.com/ul?ll=49.29189\,4.11144&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0051/competitions/dm2/match/200000014667438
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667438
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-01-23-00-00-as-amateur-tinqueux-basket-
+ 1-eveil-r@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – EVEIL RECY SAINT MARTIN BASKET -
+  2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AS AMATEUR 
+ TINQUEUX BASKET - 1 vs EVEIL RECY SAINT MARTIN BASKET - 2\n\nGYMNASE F. BR
+ ONCQUART\n📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https:/
+ /waze.com/ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/dm2/match/200000014667436
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667436
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-24-09-00-gauloise-de-vitry-le-franco
  is-1-espe@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270124T090000
 DTEND;TZID=Europe/Paris:20270124T110000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS - 1 – ESPERANCE REMOISE BASKET BALL
@@ -920,44 +920,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667439
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-01-30-00-00-entente-gaillarde-muizonnai
- se-cad-mo@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270130T000000
-DTEND;TZID=Europe/Paris:20270130T020000
-SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – CAD MOURMELON BASKETBALL
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
- LLARDE MUIZONNAISE vs CAD MOURMELON BASKETBALL\n\nGYMNASE PARC DE LOISIR D
- U CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=49.27598\,3
- .88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
-  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions
- /dm2/match/200000014667442
-LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667442
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-01-30-00-00-eveil-recy-saint-martin-bas
- ket-2-ami@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270130T000000
-DTEND;TZID=Europe/Paris:20270130T020000
-SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – AMICALE DES JEUNES DE BETHEN
- Y - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
- SAINT MARTIN BASKET - 2 vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE PI
- ERRE ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.c
- om/ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désigna
- tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
- es/0051/competitions/dm2/match/200000014667443
-LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667443
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-30-00-00-as-amateur-tinqueux-basket-
  1-e-l-wit@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270130T000000
 DTEND;TZID=Europe/Paris:20270130T020000
 SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – E- L-WITRY LES REIMS BASKET - 1
@@ -974,7 +939,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-30-00-00-esperance-remoise-basket-ba
  ll-academ@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270130T000000
 DTEND;TZID=Europe/Paris:20270130T020000
 SUMMARY:ESPERANCE REMOISE BASKET BALL – ACADEMIE BASKET DU GRAND REIMS - 
@@ -990,9 +955,44 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667441
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-01-30-00-00-entente-gaillarde-muizonnai
+ se-cad-mo@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – CAD MOURMELON BASKETBALL
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
+ LLARDE MUIZONNAISE vs CAD MOURMELON BASKETBALL\n\nGYMNASE PARC DE LOISIR D
+ U CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=49.27598\,3
+ .88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitions
+ /dm2/match/200000014667442
+LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667442
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-01-30-00-00-eveil-recy-saint-martin-bas
+ ket-2-ami@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – AMICALE DES JEUNES DE BETHEN
+ Y - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
+ SAINT MARTIN BASKET - 2 vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE PI
+ ERRE ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.c
+ om/ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0051/competitions/dm2/match/200000014667443
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667443
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-01-31-11-00-gauloise-de-vitry-le-franco
  is-1-la-f@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270131T110000
 DTEND;TZID=Europe/Paris:20270131T130000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS - 1 – LA FERTONNE FERE-CHAMPENOISE 
@@ -1009,9 +1009,45 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667440
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-02-06-00-00-cad-mourmelon-basketball-am
+ icale-des@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:CAD MOURMELON BASKETBALL – AMICALE DES JEUNES DE BETHENY - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ CAD MOURMEL
+ ON BASKETBALL vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE DU TERME HIL
+ AIRE\n📍 Rue du Terme Hilaire Mourmelon-le-Grand 51400\n🚗 Waze : http
+ s://waze.com/ul?ll=49.13644\,4.36988&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/dm2/match/200000014667445
+LOCATION:GYMNASE DU TERME HILAIRE\, Rue du Terme Hilaire Mourmelon-le-Grand
+  51400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667445
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-02-06-00-00-la-fertonne-fere-champenois
+ e-2-as-am@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – AS AMATEUR TINQUEUX BASKET - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ LA FERTONNE
+  FERE-CHAMPENOISE - 2 vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE PAUL MA
+ SSIN\n📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : http
+ s://waze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0051/competitions/dm2/match/200000014667447
+LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667447
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-02-06-00-00-e-l-witry-les-reims-basket-
  1-gaulois@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270206T000000
 DTEND;TZID=Europe/Paris:20270206T020000
 SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – GAULOISE DE VITRY LE FRANCOIS -
@@ -1030,7 +1066,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-02-06-00-00-esperance-remoise-basket-ba
  ll-eveil-@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270206T000000
 DTEND;TZID=Europe/Paris:20270206T020000
 SUMMARY:ESPERANCE REMOISE BASKET BALL – EVEIL RECY SAINT MARTIN BASKET - 
@@ -1046,29 +1082,11 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667449
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-02-06-00-00-la-fertonne-fere-champenois
- e-2-as-am@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270206T000000
-DTEND;TZID=Europe/Paris:20270206T020000
-SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – AS AMATEUR TINQUEUX BASKET - 1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ LA FERTONNE
-  FERE-CHAMPENOISE - 2 vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE PAUL MA
- SSIN\n📍 Rue de la Libération Fère-Champenoise 51230\n🚗 Waze : http
- s://waze.com/ul?ll=48.75132\,3.99365&navigate=yes\n\n📢 Arbitres : Pas d
- e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
- /ges/comites/0051/competitions/dm2/match/200000014667447
-LOCATION:GYMNASE PAUL MASSIN\, Rue de la Libération Fère-Champenoise 5123
- 0
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667447
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-02-06-00-00-academie-basket-du-grand-re
+UID:dm2-ges-marne-poule-unique-2027-02-07-16-00-academie-basket-du-grand-re
  ims-2-ent@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270206T000000
-DTEND;TZID=Europe/Paris:20270206T020000
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270207T160000
+DTEND;TZID=Europe/Paris:20270207T180000
 SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – ENTENTE GAILLARDE MUIZONNAIS
  E
 DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
@@ -1082,27 +1100,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667446
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-02-06-00-00-cad-mourmelon-basketball-am
- icale-des@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270206T000000
-DTEND;TZID=Europe/Paris:20270206T020000
-SUMMARY:CAD MOURMELON BASKETBALL – AMICALE DES JEUNES DE BETHENY - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ CAD MOURMEL
- ON BASKETBALL vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE DU TERME HIL
- AIRE\n📍 Rue du Terme Hilaire Mourmelon-le-Grand 51400\n🚗 Waze : http
- s://waze.com/ul?ll=49.13644\,4.36988&navigate=yes\n\n📢 Arbitres : Pas d
- e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
- /ges/comites/0051/competitions/dm2/match/200000014667445
-LOCATION:GYMNASE DU TERME HILAIRE\, Rue du Terme Hilaire Mourmelon-le-Grand
-  51400
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667445
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-02-12-20-30-amicale-des-jeunes-de-bethe
  ny-2-e-l-@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270212T203000
 DTEND;TZID=Europe/Paris:20270212T223000
 SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – E- L-WITRY LES REIMS BASKET -
@@ -1118,26 +1118,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667453
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-02-13-00-00-entente-gaillarde-muizonnai
- se-la-fer@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270213T000000
-DTEND;TZID=Europe/Paris:20270213T020000
-SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – LA FERTONNE FERE-CHAMPENOISE - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
- LLARDE MUIZONNAISE vs LA FERTONNE FERE-CHAMPENOISE - 2\n\nGYMNASE PARC DE 
- LOISIR DU CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=49.
- 27598\,3.88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
-  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/comp
- etitions/dm2/match/200000014667451
-LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667451
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-02-13-00-00-as-amateur-tinqueux-basket-
  1-esperan@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270213T000000
 DTEND;TZID=Europe/Paris:20270213T020000
 SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – ESPERANCE REMOISE BASKET BALL
@@ -1152,27 +1135,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667452
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-02-13-00-00-academie-basket-du-grand-re
- ims-2-eve@ffbb-agenda
-DTSTAMP:20260906T202550Z
+UID:dm2-ges-marne-poule-unique-2027-02-13-00-00-entente-gaillarde-muizonnai
+ se-la-fer@ffbb-agenda
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270213T000000
 DTEND;TZID=Europe/Paris:20270213T020000
-SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – EVEIL RECY SAINT MARTIN BASK
- ET - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
- SKET DU GRAND REIMS - 2 vs EVEIL RECY SAINT MARTIN BASKET - 2\n\nGYMNASE D
- ESBUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/
- ul?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignatio
- n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
- 0051/competitions/dm2/match/200000014667450
-LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – LA FERTONNE FERE-CHAMPENOISE - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
+ LLARDE MUIZONNAISE vs LA FERTONNE FERE-CHAMPENOISE - 2\n\nGYMNASE PARC DE 
+ LOISIR DU CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=49.
+ 27598\,3.88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/comp
+ etitions/dm2/match/200000014667451
+LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
 URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667450
+ match/200000014667451
 END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-02-14-09-00-gauloise-de-vitry-le-franco
  is-1-cad-@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270214T090000
 DTEND;TZID=Europe/Paris:20270214T110000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS - 1 – CAD MOURMELON BASKETBALL
@@ -1188,9 +1170,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667454
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-02-14-14-00-academie-basket-du-grand-re
+ ims-2-eve@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270214T140000
+DTEND;TZID=Europe/Paris:20270214T160000
+SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – EVEIL RECY SAINT MARTIN BASK
+ ET - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
+ SKET DU GRAND REIMS - 2 vs EVEIL RECY SAINT MARTIN BASKET - 2\n\nGYMNASE D
+ ESBUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/
+ ul?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0051/competitions/dm2/match/200000014667450
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667450
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-03-13-00-00-esperance-remoise-basket-ba
  ll-e-l-wi@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270313T000000
 DTEND;TZID=Europe/Paris:20270313T020000
 SUMMARY:ESPERANCE REMOISE BASKET BALL – E- L-WITRY LES REIMS BASKET - 1
@@ -1205,45 +1205,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667456
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-03-13-00-00-academie-basket-du-grand-re
- ims-2-ami@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270313T000000
-DTEND;TZID=Europe/Paris:20270313T020000
-SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – AMICALE DES JEUNES DE BETHEN
- Y - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
- SKET DU GRAND REIMS - 2 vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE DE
- SBUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/u
- l?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation
- \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
- 051/competitions/dm2/match/200000014667455
-LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667455
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-03-13-00-00-eveil-recy-saint-martin-bas
- ket-2-la-@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270313T000000
-DTEND;TZID=Europe/Paris:20270313T020000
-SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – LA FERTONNE FERE-CHAMPENOISE
-  - 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
- SAINT MARTIN BASKET - 2 vs LA FERTONNE FERE-CHAMPENOISE - 2\n\nGYMNASE PIE
- RRE ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.co
- m/ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignat
- ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
- s/0051/competitions/dm2/match/200000014667459
-LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667459
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-03-13-00-00-cad-mourmelon-basketball-as
  -amateur-@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270313T000000
 DTEND;TZID=Europe/Paris:20270313T020000
 SUMMARY:CAD MOURMELON BASKETBALL – AS AMATEUR TINQUEUX BASKET - 1
@@ -1259,9 +1223,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667457
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-03-13-00-00-eveil-recy-saint-martin-bas
+ ket-2-la-@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – LA FERTONNE FERE-CHAMPENOISE
+  - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
+ SAINT MARTIN BASKET - 2 vs LA FERTONNE FERE-CHAMPENOISE - 2\n\nGYMNASE PIE
+ RRE ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.co
+ m/ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/dm2/match/200000014667459
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667459
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-03-14-11-00-gauloise-de-vitry-le-franco
  is-1-ente@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270314T110000
 DTEND;TZID=Europe/Paris:20270314T130000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS - 1 – ENTENTE GAILLARDE MUIZONNAISE
@@ -1277,9 +1259,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667458
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-03-14-16-00-academie-basket-du-grand-re
+ ims-2-ami@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270314T160000
+DTEND;TZID=Europe/Paris:20270314T180000
+SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – AMICALE DES JEUNES DE BETHEN
+ Y - 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
+ SKET DU GRAND REIMS - 2 vs AMICALE DES JEUNES DE BETHENY - 2\n\nGYMNASE DE
+ SBUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/u
+ l?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 051/competitions/dm2/match/200000014667455
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667455
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-03-26-20-30-amicale-des-jeunes-de-bethe
  ny-2-ente@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270326T203000
 DTEND;TZID=Europe/Paris:20270326T223000
 SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – ENTENTE GAILLARDE MUIZONNAISE
@@ -1294,9 +1294,44 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667464
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-03-27-00-00-eveil-recy-saint-martin-bas
+ ket-2-cad@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – CAD MOURMELON BASKETBALL
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
+ SAINT MARTIN BASKET - 2 vs CAD MOURMELON BASKETBALL\n\nGYMNASE PIERRE ARNO
+ ULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.com/ul?ll=
+ 48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/dm2/match/200000014667461
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667461
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-03-27-00-00-as-amateur-tinqueux-basket-
+ 1-gaulois@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – GAULOISE DE VITRY LE FRANCOIS - 
+ 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AS AMATEUR 
+ TINQUEUX BASKET - 1 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE F. BRO
+ NCQUART\n📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://
+ waze.com/ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/dm2/match/200000014667460
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667460
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-03-27-00-00-e-l-witry-les-reims-basket-
  1-academi@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270327T000000
 DTEND;TZID=Europe/Paris:20270327T020000
 SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – ACADEMIE BASKET DU GRAND REIMS 
@@ -1313,44 +1348,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667463
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-03-27-00-00-as-amateur-tinqueux-basket-
- 1-gaulois@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270327T000000
-DTEND;TZID=Europe/Paris:20270327T020000
-SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – GAULOISE DE VITRY LE FRANCOIS - 
- 1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ AS AMATEUR 
- TINQUEUX BASKET - 1 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE F. BRO
- NCQUART\n📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://
- waze.com/ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de d
- ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
- s/comites/0051/competitions/dm2/match/200000014667460
-LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667460
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-03-27-00-00-eveil-recy-saint-martin-bas
- ket-2-cad@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270327T000000
-DTEND;TZID=Europe/Paris:20270327T020000
-SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – CAD MOURMELON BASKETBALL
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY 
- SAINT MARTIN BASKET - 2 vs CAD MOURMELON BASKETBALL\n\nGYMNASE PIERRE ARNO
- ULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://waze.com/ul?ll=
- 48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
- competitions/dm2/match/200000014667461
-LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667461
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-03-27-00-00-la-fertonne-fere-champenois
  e-2-esper@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270327T000000
 DTEND;TZID=Europe/Paris:20270327T020000
 SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – ESPERANCE REMOISE BASKET BALL
@@ -1366,27 +1366,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667462
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-04-03-00-00-academie-basket-du-grand-re
- ims-2-as-@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270403T000000
-DTEND;TZID=Europe/Paris:20270403T020000
-SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – AS AMATEUR TINQUEUX BASKET -
-  1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
- SKET DU GRAND REIMS - 2 vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE DESBU
- REAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/ul?l
- l=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
- n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051
- /competitions/dm2/match/200000014667466
-LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667466
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-04-03-00-00-cad-mourmelon-basketball-la
  -fertonne@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270403T000000
 DTEND;TZID=Europe/Paris:20270403T020000
 SUMMARY:CAD MOURMELON BASKETBALL – LA FERTONNE FERE-CHAMPENOISE - 2
@@ -1404,7 +1386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-04-03-00-00-e-l-witry-les-reims-basket-
  1-eveil-r@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270403T000000
 DTEND;TZID=Europe/Paris:20270403T020000
 SUMMARY:E- L-WITRY LES REIMS BASKET - 1 – EVEIL RECY SAINT MARTIN BASKET 
@@ -1423,7 +1405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-04-03-00-00-entente-gaillarde-muizonnai
  se-espera@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270403T000000
 DTEND;TZID=Europe/Paris:20270403T020000
 SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – ESPERANCE REMOISE BASKET BALL
@@ -1440,7 +1422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-04-04-11-00-gauloise-de-vitry-le-franco
  is-1-amic@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270404T110000
 DTEND;TZID=Europe/Paris:20270404T130000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS - 1 – AMICALE DES JEUNES DE BETHENY
@@ -1457,9 +1439,27 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667468
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-04-04-14-00-academie-basket-du-grand-re
+ ims-2-as-@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270404T140000
+DTEND;TZID=Europe/Paris:20270404T160000
+SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – AS AMATEUR TINQUEUX BASKET -
+  1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
+ SKET DU GRAND REIMS - 2 vs AS AMATEUR TINQUEUX BASKET - 1\n\nGYMNASE DESBU
+ REAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/ul?l
+ l=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051
+ /competitions/dm2/match/200000014667466
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667466
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-04-09-20-30-amicale-des-jeunes-de-bethe
  ny-2-as-a@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270409T203000
 DTEND;TZID=Europe/Paris:20270409T223000
 SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – AS AMATEUR TINQUEUX BASKET - 
@@ -1475,62 +1475,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667474
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-04-10-00-00-esperance-remoise-basket-ba
- ll-cad-mo@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270410T000000
-DTEND;TZID=Europe/Paris:20270410T020000
-SUMMARY:ESPERANCE REMOISE BASKET BALL – CAD MOURMELON BASKETBALL
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ESPERANCE R
- EMOISE BASKET BALL vs CAD MOURMELON BASKETBALL\n\nGYMNASE LEO BORGNET\n
- 📍 Rue Raoul Dufy Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.224
- 98\,4.01339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
- uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competi
- tions/dm2/match/200000014667472
-LOCATION:GYMNASE LEO BORGNET\, Rue Raoul Dufy Reims 51100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667472
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-04-10-00-00-academie-basket-du-grand-re
- ims-2-gau@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270410T000000
-DTEND;TZID=Europe/Paris:20270410T020000
-SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – GAULOISE DE VITRY LE FRANCOI
- S - 1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
- SKET DU GRAND REIMS - 2 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE DE
- SBUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/u
- l?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation
- \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
- 051/competitions/dm2/match/200000014667473
-LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667473
-END:VEVENT
-BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-04-10-00-00-entente-gaillarde-muizonnai
- se-eveil-@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270410T000000
-DTEND;TZID=Europe/Paris:20270410T020000
-SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – EVEIL RECY SAINT MARTIN BASKET - 
- 2
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
- LLARDE MUIZONNAISE vs EVEIL RECY SAINT MARTIN BASKET - 2\n\nGYMNASE PARC D
- E LOISIR DU CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=4
- 9.27598\,3.88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
- competitions/dm2/match/200000014667470
-LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667470
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-04-10-00-00-la-fertonne-fere-champenois
  e-2-e-l-w@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270410T000000
 DTEND;TZID=Europe/Paris:20270410T020000
 SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – E- L-WITRY LES REIMS BASKET - 
@@ -1547,9 +1494,62 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667471
 END:VEVENT
 BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-04-10-00-00-entente-gaillarde-muizonnai
+ se-eveil-@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:ENTENTE GAILLARDE MUIZONNAISE – EVEIL RECY SAINT MARTIN BASKET - 
+ 2
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ENTENTE GAI
+ LLARDE MUIZONNAISE vs EVEIL RECY SAINT MARTIN BASKET - 2\n\nGYMNASE PARC D
+ E LOISIR DU CHAMP\n📍 Muizon 51140\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.27598\,3.88912&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/dm2/match/200000014667470
+LOCATION:GYMNASE PARC DE LOISIR DU CHAMP\, Muizon 51140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667470
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-04-10-00-00-esperance-remoise-basket-ba
+ ll-cad-mo@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:ESPERANCE REMOISE BASKET BALL – CAD MOURMELON BASKETBALL
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ESPERANCE R
+ EMOISE BASKET BALL vs CAD MOURMELON BASKETBALL\n\nGYMNASE LEO BORGNET\n
+ 📍 Rue Raoul Dufy Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.224
+ 98\,4.01339&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competi
+ tions/dm2/match/200000014667472
+LOCATION:GYMNASE LEO BORGNET\, Rue Raoul Dufy Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667472
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-04-11-16-00-academie-basket-du-grand-re
+ ims-2-gau@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270411T160000
+DTEND;TZID=Europe/Paris:20270411T180000
+SUMMARY:ACADEMIE BASKET DU GRAND REIMS - 2 – GAULOISE DE VITRY LE FRANCOI
+ S - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ ACADEMIE BA
+ SKET DU GRAND REIMS - 2 vs GAULOISE DE VITRY LE FRANCOIS - 1\n\nGYMNASE DE
+ SBUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.com/u
+ l?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 051/competitions/dm2/match/200000014667473
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667473
+END:VEVENT
+BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-05-07-20-30-amicale-des-jeunes-de-bethe
  ny-2-espe@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270507T203000
 DTEND;TZID=Europe/Paris:20270507T223000
 SUMMARY:AMICALE DES JEUNES DE BETHENY - 2 – ESPERANCE REMOISE BASKET BALL
@@ -1566,7 +1566,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-05-08-00-00-as-amateur-tinqueux-basket-
  1-entente@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270508T000000
 DTEND;TZID=Europe/Paris:20270508T020000
 SUMMARY:AS AMATEUR TINQUEUX BASKET - 1 – ENTENTE GAILLARDE MUIZONNAISE
@@ -1583,7 +1583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-05-08-00-00-la-fertonne-fere-champenois
  e-2-acade@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270508T000000
 DTEND;TZID=Europe/Paris:20270508T020000
 SUMMARY:LA FERTONNE FERE-CHAMPENOISE - 2 – ACADEMIE BASKET DU GRAND REIMS
@@ -1600,27 +1600,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667475
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2-ges-marne-poule-unique-2027-05-08-00-00-cad-mourmelon-basketball-e-
- l-witry-l@ffbb-agenda
-DTSTAMP:20260906T202550Z
-DTSTART;TZID=Europe/Paris:20270508T000000
-DTEND;TZID=Europe/Paris:20270508T020000
-SUMMARY:CAD MOURMELON BASKETBALL – E- L-WITRY LES REIMS BASKET - 1
-DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ CAD MOURMEL
- ON BASKETBALL vs E- L-WITRY LES REIMS BASKET - 1\n\nGYMNASE DU TERME HILAI
- RE\n📍 Rue du Terme Hilaire Mourmelon-le-Grand 51400\n🚗 Waze : https:
- //waze.com/ul?ll=49.13644\,4.36988&navigate=yes\n\n📢 Arbitres : Pas de 
- désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
- es/comites/0051/competitions/dm2/match/200000014667476
-LOCATION:GYMNASE DU TERME HILAIRE\, Rue du Terme Hilaire Mourmelon-le-Grand
-  51400
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
- match/200000014667476
-END:VEVENT
-BEGIN:VEVENT
 UID:dm2-ges-marne-poule-unique-2027-05-08-00-00-eveil-recy-saint-martin-bas
  ket-2-gau@ffbb-agenda
-DTSTAMP:20260906T202550Z
+DTSTAMP:20260907T203339Z
 DTSTART;TZID=Europe/Paris:20270508T000000
 DTEND;TZID=Europe/Paris:20270508T020000
 SUMMARY:EVEIL RECY SAINT MARTIN BASKET - 2 – GAULOISE DE VITRY LE FRANCOI
@@ -1634,5 +1616,23 @@ DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ EVEIL RECY
 LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
 URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
  match/200000014667479
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-marne-poule-unique-2027-05-08-00-00-cad-mourmelon-basketball-e-
+ l-witry-l@ffbb-agenda
+DTSTAMP:20260907T203339Z
+DTSTART;TZID=Europe/Paris:20270508T000000
+DTEND;TZID=Europe/Paris:20270508T020000
+SUMMARY:CAD MOURMELON BASKETBALL – E- L-WITRY LES REIMS BASKET - 1
+DESCRIPTION:🏀 DM2 – GES – Marne – Poule Unique\n⚔️ CAD MOURMEL
+ ON BASKETBALL vs E- L-WITRY LES REIMS BASKET - 1\n\nGYMNASE DU TERME HILAI
+ RE\n📍 Rue du Terme Hilaire Mourmelon-le-Grand 51400\n🚗 Waze : https:
+ //waze.com/ul?ll=49.13644\,4.36988&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0051/competitions/dm2/match/200000014667476
+LOCATION:GYMNASE DU TERME HILAIRE\, Rue du Terme Hilaire Mourmelon-le-Grand
+  51400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dm2/
+ match/200000014667476
 END:VEVENT
 END:VCALENDAR

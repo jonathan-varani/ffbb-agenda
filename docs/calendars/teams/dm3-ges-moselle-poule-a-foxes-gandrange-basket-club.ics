@@ -1,0 +1,277 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – FOXES GANDRANGE BASKET CLUB  [DM3 – GES – Poule A]
+X-WR-CALDESC:Matchs de FOXES GANDRANGE BASKET CLUB – DM3 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-10-04-13-00-district-basket-rodemack-kanfe
+ n-dbrk-fo@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261004T130000
+DTEND;TZID=Europe/Paris:20261004T150000
+SUMMARY:✈️ DISTRICT BASKET RODEMACK KANFEN (DBRK) – FOXES GANDRANGE B
+ ASKET CLUB
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ DISTRICT BASKE
+ T RODEMACK KANFEN (DBRK) vs FOXES GANDRANGE BASKET CLUB\n\nESPACE OMNISPOR
+ TS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https://waze.com/ul?l
+ l=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dm3/match/200000014722005
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722005
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-10-10-20-30-foxes-gandrange-basket-club-th
+ ionville-@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FOXES GANDRANG
+ E BASKET CLUB vs THIONVILLE BC - 3\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 57/competitions/dm3/match/200000014722008
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722008
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-11-08-13-00-loisirs-sport-montigny-2-foxes
+ -gandrang@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261108T130000
+DTEND;TZID=Europe/Paris:20261108T150000
+SUMMARY:✈️ LOISIRS SPORT MONTIGNY - 2 – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ LOISIRS SPORT 
+ MONTIGNY - 2 vs FOXES GANDRANGE BASKET CLUB\n\nGYMNASE MERMOZ\n📍 Rue du
+  11ème Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?
+ ll=49.08585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 7/competitions/dm3/match/200000014722013
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722013
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-11-14-20-30-foxes-gandrange-basket-club-j-
+ s-audunoi@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FOXES GANDRANG
+ E BASKET CLUB vs J.S.AUDUNOISE BASKET\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0057/competitions/dm3/match/200000014722020
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722020
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-11-22-15-30-as-saint-nicolas-en-foret-2-fo
+ xes-gandr@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ AS SAINT NICOLAS EN FORET - 2 – FOXES GANDRANGE BASKET CLU
+ B
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ AS SAINT NICOL
+ AS EN FORET - 2 vs FOXES GANDRANGE BASKET CLUB\n\nSALLE JACQUES ROELANDT\n
+ 📍 Boulevard de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.co
+ m/ul?ll=49.31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0057/competitions/dm3/match/200000014722025
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722025
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-12-13-15-30-fensch-basket-avenir-fba-foxes
+ -gandrang@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:✈️ FENSCH BASKET AVENIR FBA – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FENSCH BASKET 
+ AVENIR FBA vs FOXES GANDRANGE BASKET CLUB\n\nSALLE ALBERT BASSETTO\n📍 R
+ ue de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.342
+ 99\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/dm3/match/200000014722036
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722036
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-01-09-20-30-basket-club-hombourg-haut-foxe
+ s-gandran@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ BASKET CLUB HOMBOURG-HAUT – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ BASKET CLUB HO
+ MBOURG-HAUT vs FOXES GANDRANGE BASKET CLUB\n\nGymnase Pierre de Coubertin\
+ n📍 Rue Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/ul?l
+ l=49.13806\,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057
+ /competitions/dm3/match/200000014722041
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722041
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-01-16-20-30-foxes-gandrange-basket-club-as
+ ptt-metz-@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – ASPTT METZ - BASKET - 2
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FOXES GANDRANG
+ E BASKET CLUB vs ASPTT METZ - BASKET - 2\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0057/competitions/dm3/match/200000014722043
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722043
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-01-30-20-30-foxes-gandrange-basket-club-di
+ strict-ba@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – DISTRICT BASKET RODEMACK KANFE
+ N (DBRK)
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FOXES GANDRANG
+ E BASKET CLUB vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ ligues/ges/comites/0057/competitions/dm3/match/200000014722050
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722050
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-02-07-13-30-thionville-bc-3-foxes-gandrang
+ e-basket-@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270207T133000
+DTEND;TZID=Europe/Paris:20270207T153000
+SUMMARY:✈️ THIONVILLE BC - 3 – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 3 vs FOXES GANDRANGE BASKET CLUB\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermo
+ z Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/mat
+ ch/200000014722053
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722053
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-02-13-20-30-foxes-gandrange-basket-club-lo
+ isirs-spo@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – LOISIRS SPORT MONTIGNY - 2
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FOXES GANDRANG
+ E BASKET CLUB vs LOISIRS SPORT MONTIGNY - 2\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0057/competitions/dm3/match/200000014722058
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722058
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-03-14-15-30-j-s-audunoise-basket-foxes-gan
+ drange-ba@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ J.S.AUDUNOISE BASKET – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOISE 
+ BASKET vs FOXES GANDRANGE BASKET CLUB\n\nGYMNASE PIERRE TOMASI\n📍 Rue J
+ acques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.
+ 473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compet
+ itions/dm3/match/200000014722065
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722065
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-03-20-20-30-foxes-gandrange-basket-club-as
+ -saint-ni@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – AS SAINT NICOLAS EN FORET - 2
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FOXES GANDRANG
+ E BASKET CLUB vs AS SAINT NICOLAS EN FORET - 2\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0057/competitions/dm3/match/200000014722070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722070
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-04-10-20-30-foxes-gandrange-basket-club-fe
+ nsch-bask@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FOXES GANDRANG
+ E BASKET CLUB vs FENSCH BASKET AVENIR FBA\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0057/competitions/dm3/match/200000014722081
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722081
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-05-08-20-30-foxes-gandrange-basket-club-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FOXES GANDRANG
+ E BASKET CLUB vs BASKET CLUB HOMBOURG-HAUT\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0057/competitions/dm3/match/200000014722086
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722086
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-05-22-20-00-asptt-metz-basket-2-foxes-gand
+ range-bas@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270522T200000
+DTEND;TZID=Europe/Paris:20270522T220000
+SUMMARY:✈️ ASPTT METZ - BASKET - 2 – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ ASPTT METZ - B
+ ASKET - 2 vs FOXES GANDRANGE BASKET CLUB\n\nCOSEC DE QUEULEU\n📍 Rue de 
+ Tivoli Metz 57070\n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.19469&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/matc
+ h/200000014722088
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722088
+END:VEVENT
+END:VCALENDAR

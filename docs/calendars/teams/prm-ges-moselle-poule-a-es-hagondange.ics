@@ -1,0 +1,401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ES HAGONDANGE  [PRM – GES – Poule A]
+X-WR-CALDESC:Matchs de ES HAGONDANGE – PRM – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-10-04-15-30-es-hagondange-csj-augny@ffbb-a
+ genda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 ES HAGONDANGE – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs CSJ AUGNY\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri Hoffmann Hagon
+ dange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.16551&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/2000
+ 00014722224
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722224
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-10-10-20-30-as-saint-nicolas-en-foret-1-es
+ -hagondan@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ AS SAINT NICOLAS EN FORET - 1 – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ AS SAINT NICOL
+ AS EN FORET - 1 vs ES HAGONDANGE\n\nSALLE JACQUES ROELANDT\n📍 Boulevard
+  de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.311
+ 46\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/prm/match/200000014722231
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722231
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-08-15-30-es-hagondange-longeville-et-st
+ -avold-ba@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 ES HAGONDANGE – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs LONGEVILLE ET ST AVOLD BASKET\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue 
+ Henri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.253
+ 91\,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/prm/match/200000014722236
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722236
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-14-20-30-basket-club-tucquenois-es-hago
+ ndange@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ BASKET CLUB TUCQUENOIS – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ BASKET CLUB TU
+ CQUENOIS vs ES HAGONDANGE\n\nSALLE MUNICIPALE\n📍 Rue Clemenceau Tucqueg
+ nieux 54640\n🚗 Waze : https://waze.com/ul?ll=49.31183\,5.9016&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/20000
+ 0014722245
+LOCATION:SALLE MUNICIPALE\, Rue Clemenceau Tucquegnieux 54640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722245
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-22-15-30-es-hagondange-morhange-basket-
+ ball-asso@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:🏠 ES HAGONDANGE – MORHANGE BASKET-BALL ASSOCIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs MORHANGE BASKET-BALL ASSOCIATION\n\nPALAIS DES SPORTS PAUL LAMM\n📍 R
+ ue Henri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.
+ 25391\,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/prm/match/200000014722248
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722248
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-28-20-30-ls-rosselange-basket-es-hagond
+ ange@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:✈️ LS ROSSELANGE BASKET – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ LS ROSSELANGE 
+ BASKET vs ES HAGONDANGE\n\nSALLE BERNARD MERCKEL\n📍 Grand Rue Rosselang
+ e 57780\n🚗 Waze : https://waze.com/ul?ll=49.25429\,6.06087&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/20000001
+ 4722259
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722259
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-12-05-20-30-loisirs-sport-montigny-1-es-ha
+ gondange@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ LOISIRS SPORT MONTIGNY - 1 – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ LOISIRS SPORT 
+ MONTIGNY - 1 vs ES HAGONDANGE\n\nGYMNASE MERMOZ\n📍 Rue du 11ème Régim
+ ent d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.08585\,6
+ .14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /prm/match/200000014722262
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722262
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-12-13-15-30-es-hagondange-as-joudreville-p
+ ienne-bou@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:🏠 ES HAGONDANGE – AS JOUDREVILLE PIENNE BOULIGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs AS JOUDREVILLE PIENNE BOULIGNY\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue
+  Henri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25
+ 391\,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compet
+ itions/prm/match/200000014722266
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722266
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-10-15-30-basket-club-hayange-marspich-1
+ -es-hagon@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 1 – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ BASKET CLUB HA
+ YANGE MARSPICH - 1 vs ES HAGONDANGE\n\nC.O.S.E.C.\n📍 Rue du 6 Juin 1944
+  Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.08047&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/2
+ 00000014722273
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722273
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-17-15-30-es-hagondange-thionville-bc-2@
+ ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 ES HAGONDANGE – THIONVILLE BC - 2
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs THIONVILLE BC - 2\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri Hoffma
+ nn Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.16551&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/ma
+ tch/200000014722278
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722278
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-24-15-30-asptt-metz-basket-1-es-hagonda
+ nge@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270124T153000
+DTEND;TZID=Europe/Paris:20270124T173000
+SUMMARY:✈️ ASPTT METZ - BASKET - 1 – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ASPTT METZ - B
+ ASKET - 1 vs ES HAGONDANGE\n\nCOSEC DE QUEULEU\n📍 Rue de Tivoli Metz 57
+ 070\n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.19469&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/200000014722
+ 284
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722284
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-30-20-30-csj-augny-es-hagondange@ffbb-a
+ genda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ CSJ AUGNY – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs E
+ S HAGONDANGE\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de la Libération
+  Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.12132&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/200
+ 000014722290
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722290
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-02-07-15-30-es-hagondange-as-saint-nicolas
+ -en-foret@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:🏠 ES HAGONDANGE – AS SAINT NICOLAS EN FORET - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs AS SAINT NICOLAS EN FORET - 1\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue 
+ Henri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.253
+ 91\,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/prm/match/200000014722297
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722297
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-02-13-20-30-longeville-et-st-avold-basket-
+ es-hagond@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ LONGEVILLE ET 
+ ST AVOLD BASKET vs ES HAGONDANGE\n\nGYMNASE DU CASTEL\n📍 Rue des Myrtil
+ les Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com/ul?ll=
+ 49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/prm/match/200000014722302
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722302
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-03-14-15-30-es-hagondange-basket-club-tucq
+ uenois@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 ES HAGONDANGE – BASKET CLUB TUCQUENOIS
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs BASKET CLUB TUCQUENOIS\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri H
+ offmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.1
+ 6551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/p
+ rm/match/200000014722311
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722311
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-03-20-20-30-morhange-basket-ball-associati
+ on-es-hag@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ MORHANGE BASKET-BALL ASSOCIATION – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs ES HAGONDANGE\n\nGYMNASE MUNICIPAL\n📍 Rue Verlain
+ e Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91915\,6.63069&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match
+ /200000014722314
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722314
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-03-28-15-30-es-hagondange-ls-rosselange-ba
+ sket@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:🏠 ES HAGONDANGE – LS ROSSELANGE BASKET
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs LS ROSSELANGE BASKET\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri Hof
+ fmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.165
+ 51&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm
+ /match/200000014722325
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722325
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-04-04-15-30-es-hagondange-loisirs-sport-mo
+ ntigny-1@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:🏠 ES HAGONDANGE – LOISIRS SPORT MONTIGNY - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs LOISIRS SPORT MONTIGNY - 1\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Hen
+ ri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\
+ ,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/prm/match/200000014722328
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722328
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-04-10-20-30-as-joudreville-pienne-bouligny
+ -es-hagon@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ AS JOUDREVILLE PIENNE BOULIGNY – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ AS JOUDREVILLE
+  PIENNE BOULIGNY vs ES HAGONDANGE\n\nSALLE CESAR MARKUT\n📍 Rue Joliot-C
+ urie Joudreville 54490\n🚗 Waze : https://waze.com/ul?ll=49.29914\,5.786
+ 35&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm
+ /match/200000014722332
+LOCATION:SALLE CESAR MARKUT\, Rue Joliot-Curie Joudreville 54490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722332
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-05-09-15-30-es-hagondange-basket-club-haya
+ nge-marsp@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:🏠 ES HAGONDANGE – BASKET CLUB HAYANGE MARSPICH - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs BASKET CLUB HAYANGE MARSPICH - 1\n\nPALAIS DES SPORTS PAUL LAMM\n📍 R
+ ue Henri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.
+ 25391\,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/prm/match/200000014722339
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722339
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-05-23-16-00-thionville-bc-2-es-hagondange@
+ ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270523T160000
+DTEND;TZID=Europe/Paris:20270523T180000
+SUMMARY:✈️ THIONVILLE BC - 2 – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 2 vs ES HAGONDANGE\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz Thionville 5
+ 7100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/20000001472
+ 2344
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722344
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-05-30-15-30-es-hagondange-asptt-metz-baske
+ t-1@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270530T153000
+DTEND;TZID=Europe/Paris:20270530T173000
+SUMMARY:🏠 ES HAGONDANGE – ASPTT METZ - BASKET - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs ASPTT METZ - BASKET - 1\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri 
+ Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.
+ 16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ prm/match/200000014722350
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722350
+END:VEVENT
+END:VCALENDAR

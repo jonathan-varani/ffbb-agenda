@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC MAIZIERES LES METZ  [DM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de BC MAIZIERES LES METZ – DM2 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-03-20-30-bc-maizieres-les-metz-us-silva
+ nge-baske@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – US SILVANGE BASKET - 3
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs US SILVANGE BASKET - 3\n\nGymnase Joël Bommersheim\n📍 Rue L
+ othaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.
+ 21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/dm2/match/200000014722094
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722094
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-11-15-30-us-boulange-fontoy-bb-bc-maizi
+ eres-les-@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ US BOULANGE FONTOY BB – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US BOULANGE FO
+ NTOY BB vs BC MAIZIERES LES METZ\n\nSALLE DES SPORTS\n📍 Rue du Stade Bo
+ ulange 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200
+ 000014722101
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722101
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-07-20-30-bc-maizieres-les-metz-basket-c
+ lub-de-ta@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – BASKET CLUB DE TALANGE
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs BASKET CLUB DE TALANGE\n\nGymnase Joël Bommersheim\n📍 Rue L
+ othaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.
+ 21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/dm2/match/200000014722106
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722106
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-14-20-30-bc-aumetz-bc-maizieres-les-met
+ z@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ BC AUMETZ – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC AUMETZ vs B
+ C MAIZIERES LES METZ\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger de Mont
+ brillais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194\,5.9491
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722115
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722115
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-21-20-30-bc-maizieres-les-metz-dukes-de
+ -fameck@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – DUKES DE FAMECK
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs DUKES DE FAMECK\n\nGymnase Joël Bommersheim\n📍 Rue Lothaire
+  Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.21847\,
+ 6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/dm2/match/200000014722118
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722118
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-29-17-30-metz-bc-4-bc-maizieres-les-met
+ z@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261129T173000
+DTEND;TZID=Europe/Paris:20261129T193000
+SUMMARY:✈️ METZ BC - 4 – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  BC MAIZIERES LES METZ\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz
+  57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014
+ 722123
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722123
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-06-17-30-basket-club-hayange-marspich-2
+ -bc-maizi@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261206T173000
+DTEND;TZID=Europe/Paris:20261206T193000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 2 – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB HA
+ YANGE MARSPICH - 2 vs BC MAIZIERES LES METZ\n\nC.O.S.E.C.\n📍 Rue du 6 J
+ uin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.080
+ 47&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2
+ /match/200000014722128
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722128
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-12-20-30-bc-maizieres-les-metz-as-sarre
+ guemines-@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs AS SARREGUEMINES BASKET\n\nGymnase Joël Bommersheim\n📍 Rue 
+ Lothaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49
+ .21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dm2/match/200000014722136
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722136
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-09-20-30-bc-maizieres-les-metz-creutzwa
+ ld-bc@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – CREUTZWALD BC
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs CREUTZWALD BC\n\nGymnase Joël Bommersheim\n📍 Rue Lothaire M
+ aizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.21847\,6.
+ 14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ dm2/match/200000014722140
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722140
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-17-17-30-cse-folkling-2-bc-maizieres-le
+ s-metz@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270117T173000
+DTEND;TZID=Europe/Paris:20270117T193000
+SUMMARY:✈️ CSE FOLKLING - 2 – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs BC MAIZIERES LES METZ\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 
+ 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/ma
+ tch/200000014722146
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722146
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-23-20-30-bc-maizieres-les-metz-nbc-sarr
+ ebourg-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs NBC SARREBOURG - 2\n\nGymnase Joël Bommersheim\n📍 Rue Lotha
+ ire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.2184
+ 7\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competit
+ ions/dm2/match/200000014722153
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722153
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-30-20-30-us-silvange-basket-3-bc-maizie
+ res-les-m@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ US SILVANGE BASKET - 3 – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US SILVANGE BA
+ SKET - 3 vs BC MAIZIERES LES METZ\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Mig
+ ette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,
+ 6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/dm2/match/200000014722160
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722160
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-06-20-30-bc-maizieres-les-metz-us-boula
+ nge-fonto@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs US BOULANGE FONTOY BB\n\nGymnase Joël Bommersheim\n📍 Rue Lo
+ thaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.2
+ 1847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/dm2/match/200000014722167
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722167
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-14-15-30-basket-club-de-talange-bc-maiz
+ ieres-les@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ BASKET CLUB DE TALANGE – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB DE
+  TALANGE vs BC MAIZIERES LES METZ\n\nGymnase Pierre de Coubertin\n📍 Rue
+  des Colombes Talange 57525\n🚗 Waze : https://waze.com/ul?ll=49.22599\,
+ 6.17149&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/dm2/match/200000014722172
+LOCATION:Gymnase Pierre de Coubertin\, Rue des Colombes Talange 57525
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722172
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-13-20-30-bc-maizieres-les-metz-bc-aumet
+ z@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – BC AUMETZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs BC AUMETZ\n\nGymnase Joël Bommersheim\n📍 Rue Lothaire Maizi
+ ères-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.21847\,6.1468
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722181
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722181
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-20-20-00-dukes-de-fameck-bc-maizieres-l
+ es-metz@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270320T200000
+DTEND;TZID=Europe/Paris:20270320T220000
+SUMMARY:✈️ DUKES DE FAMECK – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ DUKES DE FAMEC
+ K vs BC MAIZIERES LES METZ\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Exup
+ éry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/matc
+ h/200000014722184
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722184
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-27-20-30-bc-maizieres-les-metz-metz-bc-
+ 4@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs METZ BC - 4\n\nGymnase Joël Bommersheim\n📍 Rue Lothaire Mai
+ zières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.21847\,6.14
+ 689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ 2/match/200000014722189
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722189
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-03-20-30-bc-maizieres-les-metz-basket-c
+ lub-hayan@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – BASKET CLUB HAYANGE MARSPICH - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs BASKET CLUB HAYANGE MARSPICH - 2\n\nGymnase Joël Bommersheim\n
+ 📍 Rue Lothaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com
+ /ul?ll=49.21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0057/competitions/dm2/match/200000014722194
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722194
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-10-20-30-as-sarreguemines-basket-bc-mai
+ zieres-le@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ AS SARREGUEMINES BASKET – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs BC MAIZIERES LES METZ\n\nGYMNASE H. NOMINE\n📍 Rue du Champ
+  de Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\
+ ,7.08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/dm2/match/200000014722202
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722202
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-08-20-15-creutzwald-bc-bc-maizieres-les
+ -metz@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270508T201500
+DTEND;TZID=Europe/Paris:20270508T221500
+SUMMARY:✈️ CREUTZWALD BC – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CREUTZWALD BC 
+ vs BC MAIZIERES LES METZ\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges Ba
+ stide Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.697
+ 96&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2
+ /match/200000014722206
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722206
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-22-20-30-bc-maizieres-les-metz-cse-folk
+ ling-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:🏠 BC MAIZIERES LES METZ – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs CSE FOLKLING - 2\n\nGymnase Joël Bommersheim\n📍 Rue Lothair
+ e Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.21847\
+ ,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/dm2/match/200000014722212
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722212
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-30-17-30-nbc-sarrebourg-2-bc-maizieres-
+ les-metz@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270530T173000
+DTEND;TZID=Europe/Paris:20270530T193000
+SUMMARY:✈️ NBC SARREBOURG - 2 – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs BC MAIZIERES LES METZ\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarre
+ bourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2000
+ 00014722219
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722219
+END:VEVENT
+END:VCALENDAR

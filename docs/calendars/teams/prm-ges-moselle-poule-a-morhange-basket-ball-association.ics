@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – MORHANGE BASKET-BALL ASSOCIATION  [PRM – GES – Poule A]
+X-WR-CALDESC:Matchs de MORHANGE BASKET-BALL ASSOCIATION – PRM – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-10-03-20-30-as-joudreville-pienne-bouligny
+ -morhange@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:✈️ AS JOUDREVILLE PIENNE BOULIGNY – MORHANGE BASKET-BALL ASSO
+ CIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ AS JOUDREVILLE
+  PIENNE BOULIGNY vs MORHANGE BASKET-BALL ASSOCIATION\n\nSALLE CESAR MARKUT
+ \n📍 Rue Joliot-Curie Joudreville 54490\n🚗 Waze : https://waze.com/ul
+ ?ll=49.29914\,5.78635&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 57/competitions/prm/match/200000014722228
+LOCATION:SALLE CESAR MARKUT\, Rue Joliot-Curie Joudreville 54490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722228
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-10-10-20-30-morhange-basket-ball-associati
+ on-basket@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – BASKET CLUB HAYANGE MARSP
+ ICH - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs BASKET CLUB HAYANGE MARSPICH - 1\n\nGYMNASE MUNICIPA
+ L\n📍 Rue Verlaine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48
+ .91915\,6.63069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/prm/match/200000014722234
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722234
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-08-16-00-thionville-bc-2-morhange-baske
+ t-ball-as@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261108T160000
+DTEND;TZID=Europe/Paris:20261108T180000
+SUMMARY:✈️ THIONVILLE BC - 2 – MORHANGE BASKET-BALL ASSOCIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 2 vs MORHANGE BASKET-BALL ASSOCIATION\n\nGYMNASE DE LA PLAINE\n📍 Rue 
+ Mermoz Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16
+ 433&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/pr
+ m/match/200000014722238
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722238
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-14-20-30-morhange-basket-ball-associati
+ on-asptt-@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – ASPTT METZ - BASKET - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs ASPTT METZ - BASKET - 1\n\nGYMNASE MUNICIPAL\n📍 R
+ ue Verlaine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91915\,6
+ .63069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /prm/match/200000014722246
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722246
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-22-15-30-es-hagondange-morhange-basket-
+ ball-asso@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ ES HAGONDANGE – MORHANGE BASKET-BALL ASSOCIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs MORHANGE BASKET-BALL ASSOCIATION\n\nPALAIS DES SPORTS PAUL LAMM\n📍 R
+ ue Henri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.
+ 25391\,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/prm/match/200000014722248
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722248
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-28-20-30-morhange-basket-ball-associati
+ on-loisir@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – LOISIRS SPORT MONTIGNY - 
+ 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs LOISIRS SPORT MONTIGNY - 1\n\nGYMNASE MUNICIPAL\n
+ 📍 Rue Verlaine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91
+ 915\,6.63069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compet
+ itions/prm/match/200000014722258
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722258
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-12-05-20-30-morhange-basket-ball-associati
+ on-as-sai@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – AS SAINT NICOLAS EN FORET
+  - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs AS SAINT NICOLAS EN FORET - 1\n\nGYMNASE MUNICIPAL\n
+ 📍 Rue Verlaine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91
+ 915\,6.63069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compet
+ itions/prm/match/200000014722264
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722264
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-12-12-20-30-csj-augny-morhange-basket-ball
+ -associat@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:✈️ CSJ AUGNY – MORHANGE BASKET-BALL ASSOCIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs M
+ ORHANGE BASKET-BALL ASSOCIATION\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Ru
+ e de la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.059
+ 26\,6.12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/prm/match/200000014722269
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722269
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-09-20-30-ls-rosselange-basket-morhange-
+ basket-ba@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ LS ROSSELANGE BASKET – MORHANGE BASKET-BALL ASSOCIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ LS ROSSELANGE 
+ BASKET vs MORHANGE BASKET-BALL ASSOCIATION\n\nSALLE BERNARD MERCKEL\n📍 
+ Grand Rue Rosselange 57780\n🚗 Waze : https://waze.com/ul?ll=49.25429\,6
+ .06087&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /prm/match/200000014722277
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722277
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-16-20-30-morhange-basket-ball-associati
+ on-basket@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – BASKET CLUB TUCQUENOIS
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs BASKET CLUB TUCQUENOIS\n\nGYMNASE MUNICIPAL\n📍 Ru
+ e Verlaine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91915\,6.
+ 63069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ prm/match/200000014722283
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722283
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-23-20-30-longeville-et-st-avold-basket-
+ morhange-@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – MORHANGE BASKET-BALL ASSOC
+ IATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ LONGEVILLE ET 
+ ST AVOLD BASKET vs MORHANGE BASKET-BALL ASSOCIATION\n\nGYMNASE DU CASTEL\n
+ 📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : http
+ s://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0057/competitions/prm/match/200000014722288
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722288
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-30-20-30-morhange-basket-ball-associati
+ on-as-jou@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – AS JOUDREVILLE PIENNE BOU
+ LIGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs AS JOUDREVILLE PIENNE BOULIGNY\n\nGYMNASE MUNICIPAL\
+ n📍 Rue Verlaine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.9
+ 1915\,6.63069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/prm/match/200000014722294
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722294
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-02-07-15-30-basket-club-hayange-marspich-1
+ -morhange@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 1 – MORHANGE BASKET-BALL AS
+ SOCIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ BASKET CLUB HA
+ YANGE MARSPICH - 1 vs MORHANGE BASKET-BALL ASSOCIATION\n\nC.O.S.E.C.\n📍
+  Rue du 6 Juin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.3
+ 3796\,6.08047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/prm/match/200000014722300
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722300
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-02-13-20-30-morhange-basket-ball-associati
+ on-thionv@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – THIONVILLE BC - 2
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs THIONVILLE BC - 2\n\nGYMNASE MUNICIPAL\n📍 Rue Ver
+ laine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91915\,6.63069
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/m
+ atch/200000014722304
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722304
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-03-14-15-30-asptt-metz-basket-1-morhange-b
+ asket-bal@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ ASPTT METZ - BASKET - 1 – MORHANGE BASKET-BALL ASSOCIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ASPTT METZ - B
+ ASKET - 1 vs MORHANGE BASKET-BALL ASSOCIATION\n\nCOSEC DE QUEULEU\n📍 Ru
+ e de Tivoli Metz 57070\n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.194
+ 69&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm
+ /match/200000014722312
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722312
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-03-20-20-30-morhange-basket-ball-associati
+ on-es-hag@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs ES HAGONDANGE\n\nGYMNASE MUNICIPAL\n📍 Rue Verlain
+ e Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91915\,6.63069&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match
+ /200000014722314
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722314
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-03-27-20-30-loisirs-sport-montigny-1-morha
+ nge-baske@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:✈️ LOISIRS SPORT MONTIGNY - 1 – MORHANGE BASKET-BALL ASSOCIAT
+ ION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ LOISIRS SPORT 
+ MONTIGNY - 1 vs MORHANGE BASKET-BALL ASSOCIATION\n\nGYMNASE MERMOZ\n📍 R
+ ue du 11ème Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.co
+ m/ul?ll=49.08585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0057/competitions/prm/match/200000014722324
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722324
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-04-03-20-30-as-saint-nicolas-en-foret-1-mo
+ rhange-ba@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ AS SAINT NICOLAS EN FORET - 1 – MORHANGE BASKET-BALL ASSOC
+ IATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ AS SAINT NICOL
+ AS EN FORET - 1 vs MORHANGE BASKET-BALL ASSOCIATION\n\nSALLE JACQUES ROELA
+ NDT\n📍 Boulevard de la Tour Neuve Hayange 57700\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0057/competitions/prm/match/200000014722330
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722330
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-04-10-20-30-morhange-basket-ball-associati
+ on-csj-au@ffbb-agenda
+DTSTAMP:20260908T205034Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs CSJ AUGNY\n\nGYMNASE MUNICIPAL\n📍 Rue Verlaine Mo
+ rhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91915\,6.63069&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/200
+ 000014722335
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722335
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-05-08-20-30-morhange-basket-ball-associati
+ on-ls-ros@ffbb-agenda
+DTSTAMP:20260908T205034Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – LS ROSSELANGE BASKET
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs LS ROSSELANGE BASKET\n\nGYMNASE MUNICIPAL\n📍 Rue 
+ Verlaine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91915\,6.63
+ 069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/pr
+ m/match/200000014722343
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722343
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-05-22-20-30-basket-club-tucquenois-morhang
+ e-basket-@ffbb-agenda
+DTSTAMP:20260908T205034Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:✈️ BASKET CLUB TUCQUENOIS – MORHANGE BASKET-BALL ASSOCIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ BASKET CLUB TU
+ CQUENOIS vs MORHANGE BASKET-BALL ASSOCIATION\n\nSALLE MUNICIPALE\n📍 Rue
+  Clemenceau Tucquegnieux 54640\n🚗 Waze : https://waze.com/ul?ll=49.3118
+ 3\,5.9016&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/prm/match/200000014722349
+LOCATION:SALLE MUNICIPALE\, Rue Clemenceau Tucquegnieux 54640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722349
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-05-29-20-30-morhange-basket-ball-associati
+ on-longev@ffbb-agenda
+DTSTAMP:20260908T205034Z
+DTSTART;TZID=Europe/Paris:20270529T203000
+DTEND;TZID=Europe/Paris:20270529T223000
+SUMMARY:🏠 MORHANGE BASKET-BALL ASSOCIATION – LONGEVILLE ET ST AVOLD BA
+ SKET
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE MUNICIPAL\n
+ 📍 Rue Verlaine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91
+ 915\,6.63069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compet
+ itions/prm/match/200000014722354
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722354
+END:VEVENT
+END:VCALENDAR

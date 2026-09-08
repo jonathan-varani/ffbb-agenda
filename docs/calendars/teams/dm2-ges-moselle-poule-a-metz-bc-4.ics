@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – METZ BC - 4  [DM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de METZ BC - 4 – DM2 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-03-18-00-creutzwald-bc-metz-bc-4@ffbb-a
+ genda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ CREUTZWALD BC – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CREUTZWALD BC 
+ vs METZ BC - 4\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges Bastide Creu
+ tzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.69796&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200
+ 000014722093
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722093
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-11-17-30-metz-bc-4-cse-folkling-2@ffbb-
+ agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261011T173000
+DTEND;TZID=Europe/Paris:20261011T193000
+SUMMARY:🏠 METZ BC - 4 – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  CSE FOLKLING - 2\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 5700
+ 0\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722
+ 099
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722099
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-07-20-30-as-sarreguemines-basket-metz-b
+ c-4@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ AS SARREGUEMINES BASKET – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs METZ BC - 4\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de Mars S
+ arreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.08069&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/mat
+ ch/200000014722109
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722109
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-15-17-30-metz-bc-4-nbc-sarrebourg-2@ffb
+ b-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261115T173000
+DTEND;TZID=Europe/Paris:20261115T193000
+SUMMARY:🏠 METZ BC - 4 – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  NBC SARREBOURG - 2\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57
+ 000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722
+ 111
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722111
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-22-17-30-basket-club-hayange-marspich-2
+ -metz-bc-@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261122T173000
+DTEND;TZID=Europe/Paris:20261122T193000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 2 – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB HA
+ YANGE MARSPICH - 2 vs METZ BC - 4\n\nC.O.S.E.C.\n📍 Rue du 6 Juin 1944 H
+ ayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.08047&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200
+ 000014722119
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722119
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-29-17-30-metz-bc-4-bc-maizieres-les-met
+ z@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261129T173000
+DTEND;TZID=Europe/Paris:20261129T193000
+SUMMARY:🏠 METZ BC - 4 – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  BC MAIZIERES LES METZ\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz
+  57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014
+ 722123
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722123
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-06-15-30-basket-club-de-talange-metz-bc
+ -4@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ BASKET CLUB DE TALANGE – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB DE
+  TALANGE vs METZ BC - 4\n\nGymnase Pierre de Coubertin\n📍 Rue des Colom
+ bes Talange 57525\n🚗 Waze : https://waze.com/ul?ll=49.22599\,6.17149&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/matc
+ h/200000014722132
+LOCATION:Gymnase Pierre de Coubertin\, Rue des Colombes Talange 57525
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722132
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-13-17-30-metz-bc-4-us-boulange-fontoy-b
+ b@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261213T173000
+DTEND;TZID=Europe/Paris:20261213T193000
+SUMMARY:🏠 METZ BC - 4 – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  US BOULANGE FONTOY BB\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz
+  57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014
+ 722138
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722138
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-09-20-30-us-silvange-basket-3-metz-bc-4
+ @ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ US SILVANGE BASKET - 3 – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US SILVANGE BA
+ SKET - 3 vs METZ BC - 4\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Maran
+ ge-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/matc
+ h/200000014722143
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722143
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-17-17-30-metz-bc-4-bc-aumetz@ffbb-agend
+ a
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270117T173000
+DTEND;TZID=Europe/Paris:20270117T193000
+SUMMARY:🏠 METZ BC - 4 – BC AUMETZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  BC AUMETZ\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n🚗
+  Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722150
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722150
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-24-17-30-metz-bc-4-dukes-de-fameck@ffbb
+ -agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270124T173000
+DTEND;TZID=Europe/Paris:20270124T193000
+SUMMARY:🏠 METZ BC - 4 – DUKES DE FAMECK
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  DUKES DE FAMECK\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000
+ \n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722
+ 155
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722155
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-31-17-30-metz-bc-4-creutzwald-bc@ffbb-a
+ genda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270131T173000
+DTEND;TZID=Europe/Paris:20270131T193000
+SUMMARY:🏠 METZ BC - 4 – CREUTZWALD BC
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  CREUTZWALD BC\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n
+ 🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722159
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722159
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-07-17-30-cse-folkling-2-metz-bc-4@ffbb-
+ agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270207T173000
+DTEND;TZID=Europe/Paris:20270207T193000
+SUMMARY:✈️ CSE FOLKLING - 2 – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs METZ BC - 4\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Folkl
+ ing 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000
+ 014722165
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722165
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-14-17-30-metz-bc-4-as-sarreguemines-bas
+ ket@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270214T173000
+DTEND;TZID=Europe/Paris:20270214T193000
+SUMMARY:🏠 METZ BC - 4 – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  AS SARREGUEMINES BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Me
+ tz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2000000
+ 14722175
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722175
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-14-17-30-nbc-sarrebourg-2-metz-bc-4@ffb
+ b-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270314T173000
+DTEND;TZID=Europe/Paris:20270314T193000
+SUMMARY:✈️ NBC SARREBOURG - 2 – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs METZ BC - 4\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 5740
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722
+ 177
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722177
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-21-17-30-metz-bc-4-basket-club-hayange-
+ marspich-@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270321T173000
+DTEND;TZID=Europe/Paris:20270321T193000
+SUMMARY:🏠 METZ BC - 4 – BASKET CLUB HAYANGE MARSPICH - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  BASKET CLUB HAYANGE MARSPICH - 2\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Re
+ mparts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/matc
+ h/200000014722185
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722185
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-27-20-30-bc-maizieres-les-metz-metz-bc-
+ 4@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:✈️ BC MAIZIERES LES METZ – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs METZ BC - 4\n\nGymnase Joël Bommersheim\n📍 Rue Lothaire Mai
+ zières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.21847\,6.14
+ 689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ 2/match/200000014722189
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722189
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-04-17-30-metz-bc-4-basket-club-de-talan
+ ge@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270404T173000
+DTEND;TZID=Europe/Paris:20270404T193000
+SUMMARY:🏠 METZ BC - 4 – BASKET CLUB DE TALANGE
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  BASKET CLUB DE TALANGE\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Met
+ z 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/20000001
+ 4722198
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722198
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-11-13-00-us-boulange-fontoy-bb-metz-bc-
+ 4@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270411T130000
+DTEND;TZID=Europe/Paris:20270411T150000
+SUMMARY:✈️ US BOULANGE FONTOY BB – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US BOULANGE FO
+ NTOY BB vs METZ BC - 4\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 576
+ 55\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722
+ 204
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722204
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-09-17-30-metz-bc-4-us-silvange-basket-3
+ @ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270509T173000
+DTEND;TZID=Europe/Paris:20270509T193000
+SUMMARY:🏠 METZ BC - 4 – US SILVANGE BASKET - 3
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  US SILVANGE BASKET - 3\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Met
+ z 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/20000001
+ 4722209
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722209
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-22-20-30-bc-aumetz-metz-bc-4@ffbb-agend
+ a
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:✈️ BC AUMETZ – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC AUMETZ vs M
+ ETZ BC - 4\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger de Montbrillais A
+ umetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194\,5.94911&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2000
+ 00014722216
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722216
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-29-20-00-dukes-de-fameck-metz-bc-4@ffbb
+ -agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270529T200000
+DTEND;TZID=Europe/Paris:20270529T220000
+SUMMARY:✈️ DUKES DE FAMECK – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ DUKES DE FAMEC
+ K vs METZ BC - 4\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Exupéry Famec
+ k 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/20000001
+ 4722221
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722221
+END:VEVENT
+END:VCALENDAR

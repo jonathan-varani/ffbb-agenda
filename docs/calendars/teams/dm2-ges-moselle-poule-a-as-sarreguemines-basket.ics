@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS SARREGUEMINES BASKET  [DM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de AS SARREGUEMINES BASKET – DM2 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-03-20-30-as-sarreguemines-basket-bc-aum
+ etz@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – BC AUMETZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs BC AUMETZ\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de Mars Sar
+ reguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.08069&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match
+ /200000014722097
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722097
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-10-20-00-dukes-de-fameck-as-sarreguemin
+ es-basket@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:✈️ DUKES DE FAMECK – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ DUKES DE FAMEC
+ K vs AS SARREGUEMINES BASKET\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Ex
+ upéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/ma
+ tch/200000014722098
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722098
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-07-20-30-as-sarreguemines-basket-metz-b
+ c-4@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs METZ BC - 4\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de Mars S
+ arreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.08069&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/mat
+ ch/200000014722109
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722109
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-14-20-30-us-silvange-basket-3-as-sarreg
+ uemines-b@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ US SILVANGE BASKET - 3 – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US SILVANGE BA
+ SKET - 3 vs AS SARREGUEMINES BASKET\n\nCOSEC LA ROUSSE\n📍 Rue Auguste M
+ igette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214
+ \,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dm2/match/200000014722112
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722112
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-21-20-30-as-sarreguemines-basket-us-bou
+ lange-fon@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs US BOULANGE FONTOY BB\n\nGYMNASE H. NOMINE\n📍 Rue du Champ
+  de Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\
+ ,7.08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/dm2/match/200000014722121
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722121
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-29-15-30-basket-club-de-talange-as-sarr
+ eguemines@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ BASKET CLUB DE TALANGE – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB DE
+  TALANGE vs AS SARREGUEMINES BASKET\n\nGymnase Pierre de Coubertin\n📍 R
+ ue des Colombes Talange 57525\n🚗 Waze : https://waze.com/ul?ll=49.22599
+ \,6.17149&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dm2/match/200000014722126
+LOCATION:Gymnase Pierre de Coubertin\, Rue des Colombes Talange 57525
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722126
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-05-20-30-as-sarreguemines-basket-cse-fo
+ lkling-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs CSE FOLKLING - 2\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de M
+ ars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.08
+ 069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ 2/match/200000014722130
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722130
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-12-20-30-bc-maizieres-les-metz-as-sarre
+ guemines-@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:✈️ BC MAIZIERES LES METZ – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs AS SARREGUEMINES BASKET\n\nGymnase Joël Bommersheim\n📍 Rue 
+ Lothaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49
+ .21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dm2/match/200000014722136
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722136
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-09-20-30-as-sarreguemines-basket-nbc-sa
+ rrebourg-@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs NBC SARREBOURG - 2\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de
+  Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.
+ 08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ dm2/match/200000014722142
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722142
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-16-20-15-creutzwald-bc-as-sarreguemines
+ -basket@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270116T201500
+DTEND;TZID=Europe/Paris:20270116T221500
+SUMMARY:✈️ CREUTZWALD BC – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CREUTZWALD BC 
+ vs AS SARREGUEMINES BASKET\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges 
+ Bastide Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.6
+ 9796&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ m2/match/200000014722147
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722147
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-24-17-30-basket-club-hayange-marspich-2
+ -as-sarre@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270124T173000
+DTEND;TZID=Europe/Paris:20270124T193000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 2 – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB HA
+ YANGE MARSPICH - 2 vs AS SARREGUEMINES BASKET\n\nC.O.S.E.C.\n📍 Rue du 6
+  Juin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.0
+ 8047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ m2/match/200000014722154
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722154
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-30-20-30-bc-aumetz-as-sarreguemines-bas
+ ket@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ BC AUMETZ – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC AUMETZ vs A
+ S SARREGUEMINES BASKET\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger de Mo
+ ntbrillais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194\,5.94
+ 911&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ 2/match/200000014722163
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722163
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-06-20-30-as-sarreguemines-basket-dukes-
+ de-fameck@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – DUKES DE FAMECK
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs DUKES DE FAMECK\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de Ma
+ rs Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.080
+ 69&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2
+ /match/200000014722164
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722164
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-14-17-30-metz-bc-4-as-sarreguemines-bas
+ ket@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270214T173000
+DTEND;TZID=Europe/Paris:20270214T193000
+SUMMARY:✈️ METZ BC - 4 – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  AS SARREGUEMINES BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Me
+ tz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2000000
+ 14722175
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722175
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-13-20-30-as-sarreguemines-basket-us-sil
+ vange-bas@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – US SILVANGE BASKET - 3
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs US SILVANGE BASKET - 3\n\nGYMNASE H. NOMINE\n📍 Rue du Cham
+ p de Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415
+ \,7.08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dm2/match/200000014722178
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722178
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-21-13-00-us-boulange-fontoy-bb-as-sarre
+ guemines-@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270321T130000
+DTEND;TZID=Europe/Paris:20270321T150000
+SUMMARY:✈️ US BOULANGE FONTOY BB – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US BOULANGE FO
+ NTOY BB vs AS SARREGUEMINES BASKET\n\nSALLE DES SPORTS\n📍 Rue du Stade 
+ Boulange 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2
+ 00000014722187
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722187
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-27-20-30-as-sarreguemines-basket-basket
+ -club-de-@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – BASKET CLUB DE TALANGE
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs BASKET CLUB DE TALANGE\n\nGYMNASE H. NOMINE\n📍 Rue du Cham
+ p de Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415
+ \,7.08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dm2/match/200000014722192
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722192
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-04-17-30-cse-folkling-2-as-sarreguemine
+ s-basket@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270404T173000
+DTEND;TZID=Europe/Paris:20270404T193000
+SUMMARY:✈️ CSE FOLKLING - 2 – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs AS SARREGUEMINES BASKET\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembr
+ e 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.8930
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722196
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722196
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-10-20-30-as-sarreguemines-basket-bc-mai
+ zieres-le@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs BC MAIZIERES LES METZ\n\nGYMNASE H. NOMINE\n📍 Rue du Champ
+  de Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\
+ ,7.08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/dm2/match/200000014722202
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722202
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-09-17-30-nbc-sarrebourg-2-as-sarreguemi
+ nes-baske@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270509T173000
+DTEND;TZID=Europe/Paris:20270509T193000
+SUMMARY:✈️ NBC SARREBOURG - 2 – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs AS SARREGUEMINES BASKET\n\nCOSEC\n📍 Rue Pierre de Coubertin Sar
+ rebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/20
+ 0000014722208
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722208
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-22-20-30-as-sarreguemines-basket-creutz
+ wald-bc@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – CREUTZWALD BC
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs CREUTZWALD BC\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de Mars
+  Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.08069
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/m
+ atch/200000014722213
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722213
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-29-20-30-as-sarreguemines-basket-basket
+ -club-hay@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270529T203000
+DTEND;TZID=Europe/Paris:20270529T223000
+SUMMARY:🏠 AS SARREGUEMINES BASKET – BASKET CLUB HAYANGE MARSPICH - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs BASKET CLUB HAYANGE MARSPICH - 2\n\nGYMNASE H. NOMINE\n📍 R
+ ue du Champ de Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?l
+ l=49.11415\,7.08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057
+ /competitions/dm2/match/200000014722220
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722220
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSE FOLKLING - 2  [DM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de CSE FOLKLING - 2 – DM2 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-04-17-30-cse-folkling-2-dukes-de-fameck
+ @ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261004T173000
+DTEND;TZID=Europe/Paris:20261004T193000
+SUMMARY:🏠 CSE FOLKLING - 2 – DUKES DE FAMECK
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs DUKES DE FAMECK\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 F
+ olkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/20
+ 0000014722092
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722092
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-11-17-30-metz-bc-4-cse-folkling-2@ffbb-
+ agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261011T173000
+DTEND;TZID=Europe/Paris:20261011T193000
+SUMMARY:✈️ METZ BC - 4 – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  CSE FOLKLING - 2\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 5700
+ 0\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722
+ 099
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722099
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-08-17-30-cse-folkling-2-us-silvange-bas
+ ket-3@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261108T173000
+DTEND;TZID=Europe/Paris:20261108T193000
+SUMMARY:🏠 CSE FOLKLING - 2 – US SILVANGE BASKET - 3
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs US SILVANGE BASKET - 3\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre
+  1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/m
+ atch/200000014722104
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722104
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-14-20-30-us-boulange-fontoy-bb-cse-folk
+ ling-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:✈️ US BOULANGE FONTOY BB – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US BOULANGE FO
+ NTOY BB vs CSE FOLKLING - 2\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulang
+ e 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/20000001
+ 4722113
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722113
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-22-17-30-cse-folkling-2-basket-club-de-
+ talange@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261122T173000
+DTEND;TZID=Europe/Paris:20261122T193000
+SUMMARY:🏠 CSE FOLKLING - 2 – BASKET CLUB DE TALANGE
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs BASKET CLUB DE TALANGE\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre
+  1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/m
+ atch/200000014722116
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722116
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-28-20-30-bc-aumetz-cse-folkling-2@ffbb-
+ agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:✈️ BC AUMETZ – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC AUMETZ vs C
+ SE FOLKLING - 2\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger de Montbrill
+ ais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194\,5.94911&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match
+ /200000014722127
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722127
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-05-20-30-as-sarreguemines-basket-cse-fo
+ lkling-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ AS SARREGUEMINES BASKET – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs CSE FOLKLING - 2\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de M
+ ars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.08
+ 069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ 2/match/200000014722130
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722130
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-13-17-30-cse-folkling-2-nbc-sarrebourg-
+ 2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261213T173000
+DTEND;TZID=Europe/Paris:20261213T193000
+SUMMARY:🏠 CSE FOLKLING - 2 – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs NBC SARREBOURG - 2\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 194
+ 4 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match
+ /200000014722134
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722134
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-10-17-30-basket-club-hayange-marspich-2
+ -cse-folk@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270110T173000
+DTEND;TZID=Europe/Paris:20270110T193000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 2 – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB HA
+ YANGE MARSPICH - 2 vs CSE FOLKLING - 2\n\nC.O.S.E.C.\n📍 Rue du 6 Juin 1
+ 944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.08047&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/matc
+ h/200000014722141
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722141
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-17-17-30-cse-folkling-2-bc-maizieres-le
+ s-metz@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270117T173000
+DTEND;TZID=Europe/Paris:20270117T193000
+SUMMARY:🏠 CSE FOLKLING - 2 – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs BC MAIZIERES LES METZ\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 
+ 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/ma
+ tch/200000014722146
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722146
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-23-20-15-creutzwald-bc-cse-folkling-2@f
+ fbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270123T201500
+DTEND;TZID=Europe/Paris:20270123T221500
+SUMMARY:✈️ CREUTZWALD BC – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CREUTZWALD BC 
+ vs CSE FOLKLING - 2\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges Bastide
+  Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.69796&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/matc
+ h/200000014722152
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722152
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-30-20-00-dukes-de-fameck-cse-folkling-2
+ @ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:✈️ DUKES DE FAMECK – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ DUKES DE FAMEC
+ K vs CSE FOLKLING - 2\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Exupéry 
+ Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200
+ 000014722158
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722158
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-07-17-30-cse-folkling-2-metz-bc-4@ffbb-
+ agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270207T173000
+DTEND;TZID=Europe/Paris:20270207T193000
+SUMMARY:🏠 CSE FOLKLING - 2 – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs METZ BC - 4\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Folkl
+ ing 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000
+ 014722165
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722165
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-13-20-30-us-silvange-basket-3-cse-folkl
+ ing-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ US SILVANGE BASKET - 3 – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US SILVANGE BA
+ SKET - 3 vs CSE FOLKLING - 2\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette 
+ Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.113
+ 52&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2
+ /match/200000014722170
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722170
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-14-17-30-cse-folkling-2-us-boulange-fon
+ toy-bb@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270314T173000
+DTEND;TZID=Europe/Paris:20270314T193000
+SUMMARY:🏠 CSE FOLKLING - 2 – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs US BOULANGE FONTOY BB\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 
+ 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/ma
+ tch/200000014722179
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722179
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-21-15-30-basket-club-de-talange-cse-fol
+ kling-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:✈️ BASKET CLUB DE TALANGE – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB DE
+  TALANGE vs CSE FOLKLING - 2\n\nGymnase Pierre de Coubertin\n📍 Rue des 
+ Colombes Talange 57525\n🚗 Waze : https://waze.com/ul?ll=49.22599\,6.171
+ 49&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2
+ /match/200000014722182
+LOCATION:Gymnase Pierre de Coubertin\, Rue des Colombes Talange 57525
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722182
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-27-20-30-cse-folkling-2-bc-aumetz@ffbb-
+ agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:🏠 CSE FOLKLING - 2 – BC AUMETZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs BC AUMETZ\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Folklin
+ g 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/20000001
+ 4722193
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722193
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-04-17-30-cse-folkling-2-as-sarreguemine
+ s-basket@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270404T173000
+DTEND;TZID=Europe/Paris:20270404T193000
+SUMMARY:🏠 CSE FOLKLING - 2 – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs AS SARREGUEMINES BASKET\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembr
+ e 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.8930
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722196
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722196
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-11-17-30-nbc-sarrebourg-2-cse-folkling-
+ 2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270411T173000
+DTEND;TZID=Europe/Paris:20270411T193000
+SUMMARY:✈️ NBC SARREBOURG - 2 – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs CSE FOLKLING - 2\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg
+  57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014
+ 722200
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722200
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-09-17-30-cse-folkling-2-basket-club-hay
+ ange-mars@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270509T173000
+DTEND;TZID=Europe/Paris:20270509T193000
+SUMMARY:🏠 CSE FOLKLING - 2 – BASKET CLUB HAYANGE MARSPICH - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs BASKET CLUB HAYANGE MARSPICH - 2\n\nGYMNASE MUNICIPAL\n📍 Rue du 6
+  Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.1462
+ 2\,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competit
+ ions/dm2/match/200000014722207
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722207
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-22-20-30-bc-maizieres-les-metz-cse-folk
+ ling-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:✈️ BC MAIZIERES LES METZ – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs CSE FOLKLING - 2\n\nGymnase Joël Bommersheim\n📍 Rue Lothair
+ e Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.21847\
+ ,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/dm2/match/200000014722212
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722212
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-29-20-30-cse-folkling-2-creutzwald-bc@f
+ fbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270529T203000
+DTEND;TZID=Europe/Paris:20270529T223000
+SUMMARY:🏠 CSE FOLKLING - 2 – CREUTZWALD BC
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs CREUTZWALD BC\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Fol
+ kling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2000
+ 00014722218
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722218
+END:VEVENT
+END:VCALENDAR

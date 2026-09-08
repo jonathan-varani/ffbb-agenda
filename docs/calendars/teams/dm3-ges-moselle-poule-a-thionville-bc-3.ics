@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – THIONVILLE BC - 3  [DM3 – GES – Poule A]
+X-WR-CALDESC:Matchs de THIONVILLE BC - 3 – DM3 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-10-10-20-30-foxes-gandrange-basket-club-th
+ ionville-@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ FOXES GANDRANGE BASKET CLUB – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FOXES GANDRANG
+ E BASKET CLUB vs THIONVILLE BC - 3\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 57/competitions/dm3/match/200000014722008
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722008
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-11-08-13-30-thionville-bc-3-basket-club-ho
+ mbourg-ha@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261108T133000
+DTEND;TZID=Europe/Paris:20261108T153000
+SUMMARY:🏠 THIONVILLE BC - 3 – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 3 vs BASKET CLUB HOMBOURG-HAUT\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz 
+ Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/match
+ /200000014722014
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722014
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-11-14-20-00-asptt-metz-basket-2-thionville
+ -bc-3@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ ASPTT METZ - BASKET - 2 – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ ASPTT METZ - B
+ ASKET - 2 vs THIONVILLE BC - 3\n\nCOSEC DE QUEULEU\n📍 Rue de Tivoli Met
+ z 57070\n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.19469&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/match/20000001
+ 4722018
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722018
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-11-22-13-30-thionville-bc-3-district-baske
+ t-rodemac@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261122T133000
+DTEND;TZID=Europe/Paris:20261122T153000
+SUMMARY:🏠 THIONVILLE BC - 3 – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 3 vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nGYMNASE DE LA PLAINE\n
+ 📍 Rue Mermoz Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36
+ 701\,6.16433&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compet
+ itions/dm3/match/200000014722024
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722024
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-12-06-13-30-thionville-bc-3-fensch-basket-
+ avenir-fb@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261206T133000
+DTEND;TZID=Europe/Paris:20261206T153000
+SUMMARY:🏠 THIONVILLE BC - 3 – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 3 vs FENSCH BASKET AVENIR FBA\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz T
+ hionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/match/
+ 200000014722027
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722027
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-12-13-13-00-loisirs-sport-montigny-2-thion
+ ville-bc-@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20261213T130000
+DTEND;TZID=Europe/Paris:20261213T150000
+SUMMARY:✈️ LOISIRS SPORT MONTIGNY - 2 – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ LOISIRS SPORT 
+ MONTIGNY - 2 vs THIONVILLE BC - 3\n\nGYMNASE MERMOZ\n📍 Rue du 11ème R
+ égiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.085
+ 85\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/dm3/match/200000014722033
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722033
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-01-10-13-30-thionville-bc-3-j-s-audunoise-
+ basket@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270110T133000
+DTEND;TZID=Europe/Paris:20270110T153000
+SUMMARY:🏠 THIONVILLE BC - 3 – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 3 vs J.S.AUDUNOISE BASKET\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz Thion
+ ville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/match/2000
+ 00014722038
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722038
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-01-17-15-30-as-saint-nicolas-en-foret-2-th
+ ionville-@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:✈️ AS SAINT NICOLAS EN FORET - 2 – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ AS SAINT NICOL
+ AS EN FORET - 2 vs THIONVILLE BC - 3\n\nSALLE JACQUES ROELANDT\n📍 Boule
+ vard de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49
+ .31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dm3/match/200000014722045
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722045
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-02-07-13-30-thionville-bc-3-foxes-gandrang
+ e-basket-@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270207T133000
+DTEND;TZID=Europe/Paris:20270207T153000
+SUMMARY:🏠 THIONVILLE BC - 3 – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 3 vs FOXES GANDRANGE BASKET CLUB\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermo
+ z Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/mat
+ ch/200000014722053
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722053
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-02-13-20-30-basket-club-hombourg-haut-thio
+ nville-bc@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ BASKET CLUB HOMBOURG-HAUT – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ BASKET CLUB HO
+ MBOURG-HAUT vs THIONVILLE BC - 3\n\nGymnase Pierre de Coubertin\n📍 Rue 
+ Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/ul?ll=49.13806
+ \,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dm3/match/200000014722059
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722059
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-03-14-13-30-thionville-bc-3-asptt-metz-bas
+ ket-2@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270314T133000
+DTEND;TZID=Europe/Paris:20270314T153000
+SUMMARY:🏠 THIONVILLE BC - 3 – ASPTT METZ - BASKET - 2
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 3 vs ASPTT METZ - BASKET - 2\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz Th
+ ionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/match/2
+ 00000014722063
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722063
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-03-21-13-00-district-basket-rodemack-kanfe
+ n-dbrk-th@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270321T130000
+DTEND;TZID=Europe/Paris:20270321T150000
+SUMMARY:✈️ DISTRICT BASKET RODEMACK KANFEN (DBRK) – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ DISTRICT BASKE
+ T RODEMACK KANFEN (DBRK) vs THIONVILLE BC - 3\n\nESPACE OMNISPORTS\n📍 I
+ mpasse Jean II Rodemack 57570\n🚗 Waze : https://waze.com/ul?ll=49.46949
+ \,6.2398&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/dm3/match/200000014722069
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722069
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-04-04-15-30-fensch-basket-avenir-fba-thion
+ ville-bc-@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:✈️ FENSCH BASKET AVENIR FBA – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ FENSCH BASKET 
+ AVENIR FBA vs THIONVILLE BC - 3\n\nSALLE ALBERT BASSETTO\n📍 Rue de la M
+ oselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.34299\,6.0480
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722072
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722072
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-04-11-13-30-thionville-bc-3-loisirs-sport-
+ montigny-@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270411T133000
+DTEND;TZID=Europe/Paris:20270411T153000
+SUMMARY:🏠 THIONVILLE BC - 3 – LOISIRS SPORT MONTIGNY - 2
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 3 vs LOISIRS SPORT MONTIGNY - 2\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz
+  Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/matc
+ h/200000014722078
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722078
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-05-09-15-30-j-s-audunoise-basket-thionvill
+ e-bc-3@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:✈️ J.S.AUDUNOISE BASKET – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ J.S.AUDUNOISE 
+ BASKET vs THIONVILLE BC - 3\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacques Duc
+ los Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,5.940
+ 94&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3
+ /match/200000014722083
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722083
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-05-23-13-30-thionville-bc-3-as-saint-nicol
+ as-en-for@ffbb-agenda
+DTSTAMP:20260908T205056Z
+DTSTART;TZID=Europe/Paris:20270523T133000
+DTEND;TZID=Europe/Paris:20270523T153000
+SUMMARY:🏠 THIONVILLE BC - 3 – AS SAINT NICOLAS EN FORET - 2
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 3 vs AS SAINT NICOLAS EN FORET - 2\n\nGYMNASE DE LA PLAINE\n📍 Rue Mer
+ moz Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/m
+ atch/200000014722090
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722090
+END:VEVENT
+END:VCALENDAR

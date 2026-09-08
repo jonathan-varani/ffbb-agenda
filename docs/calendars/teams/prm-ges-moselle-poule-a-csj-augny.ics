@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSJ AUGNY  [PRM – GES – Poule A]
+X-WR-CALDESC:Matchs de CSJ AUGNY – PRM – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-10-04-15-30-es-hagondange-csj-augny@ffbb-a
+ genda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ ES HAGONDANGE – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ES HAGONDANGE 
+ vs CSJ AUGNY\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri Hoffmann Hagon
+ dange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.16551&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/2000
+ 00014722224
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722224
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-10-10-20-30-csj-augny-loisirs-sport-montig
+ ny-1@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:🏠 CSJ AUGNY – LOISIRS SPORT MONTIGNY - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs L
+ OISIRS SPORT MONTIGNY - 1\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de l
+ a Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.
+ 12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ prm/match/200000014722230
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722230
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-07-20-30-as-joudreville-pienne-bouligny
+ -csj-augn@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ AS JOUDREVILLE PIENNE BOULIGNY – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ AS JOUDREVILLE
+  PIENNE BOULIGNY vs CSJ AUGNY\n\nSALLE CESAR MARKUT\n📍 Rue Joliot-Curie
+  Joudreville 54490\n🚗 Waze : https://waze.com/ul?ll=49.29914\,5.78635&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/mat
+ ch/200000014722240
+LOCATION:SALLE CESAR MARKUT\, Rue Joliot-Curie Joudreville 54490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722240
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-14-20-30-csj-augny-basket-club-hayange-
+ marspich-@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 CSJ AUGNY – BASKET CLUB HAYANGE MARSPICH - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs B
+ ASKET CLUB HAYANGE MARSPICH - 1\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Ru
+ e de la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.059
+ 26\,6.12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/prm/match/200000014722242
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722242
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-22-16-00-thionville-bc-2-csj-augny@ffbb
+ -agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261122T160000
+DTEND;TZID=Europe/Paris:20261122T180000
+SUMMARY:✈️ THIONVILLE BC - 2 – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ THIONVILLE BC 
+ - 2 vs CSJ AUGNY\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz Thionville 57100
+ \n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/200000014722
+ 250
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722250
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-11-28-20-30-csj-augny-asptt-metz-basket-1@
+ ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 CSJ AUGNY – ASPTT METZ - BASKET - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs A
+ SPTT METZ - BASKET - 1\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de la L
+ ibération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.121
+ 32&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm
+ /match/200000014722254
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722254
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-12-05-20-30-ls-rosselange-basket-csj-augny
+ @ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ LS ROSSELANGE BASKET – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ LS ROSSELANGE 
+ BASKET vs CSJ AUGNY\n\nSALLE BERNARD MERCKEL\n📍 Grand Rue Rosselange 57
+ 780\n🚗 Waze : https://waze.com/ul?ll=49.25429\,6.06087&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/200000014722
+ 265
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722265
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2026-12-12-20-30-csj-augny-morhange-basket-ball
+ -associat@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 CSJ AUGNY – MORHANGE BASKET-BALL ASSOCIATION
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs M
+ ORHANGE BASKET-BALL ASSOCIATION\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Ru
+ e de la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.059
+ 26\,6.12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/prm/match/200000014722269
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722269
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-09-20-30-basket-club-tucquenois-csj-aug
+ ny@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ BASKET CLUB TUCQUENOIS – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ BASKET CLUB TU
+ CQUENOIS vs CSJ AUGNY\n\nSALLE MUNICIPALE\n📍 Rue Clemenceau Tucquegnieu
+ x 54640\n🚗 Waze : https://waze.com/ul?ll=49.31183\,5.9016&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/200000014
+ 722276
+LOCATION:SALLE MUNICIPALE\, Rue Clemenceau Tucquegnieux 54640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722276
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-16-20-30-csj-augny-longeville-et-st-avo
+ ld-basket@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 CSJ AUGNY – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs L
+ ONGEVILLE ET ST AVOLD BASKET\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue d
+ e la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\
+ ,6.12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/prm/match/200000014722281
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722281
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-23-20-30-as-saint-nicolas-en-foret-1-cs
+ j-augny@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ AS SAINT NICOLAS EN FORET - 1 – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ AS SAINT NICOL
+ AS EN FORET - 1 vs CSJ AUGNY\n\nSALLE JACQUES ROELANDT\n📍 Boulevard de 
+ la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.31146\,
+ 6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/prm/match/200000014722287
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722287
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-01-30-20-30-csj-augny-es-hagondange@ffbb-a
+ genda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 CSJ AUGNY – ES HAGONDANGE
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs E
+ S HAGONDANGE\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de la Libération
+  Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.12132&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/200
+ 000014722290
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722290
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-02-06-20-30-loisirs-sport-montigny-1-csj-a
+ ugny@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ LOISIRS SPORT MONTIGNY - 1 – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ LOISIRS SPORT 
+ MONTIGNY - 1 vs CSJ AUGNY\n\nGYMNASE MERMOZ\n📍 Rue du 11ème Régiment 
+ d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.08585\,6.145
+ 79&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm
+ /match/200000014722296
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722296
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-02-13-20-30-csj-augny-as-joudreville-pienn
+ e-boulign@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 CSJ AUGNY – AS JOUDREVILLE PIENNE BOULIGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs A
+ S JOUDREVILLE PIENNE BOULIGNY\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue 
+ de la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926
+ \,6.12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/prm/match/200000014722306
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722306
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-03-14-15-30-basket-club-hayange-marspich-1
+ -csj-augn@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 1 – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ BASKET CLUB HA
+ YANGE MARSPICH - 1 vs CSJ AUGNY\n\nC.O.S.E.C.\n📍 Rue du 6 Juin 1944 Hay
+ ange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.08047&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/20000
+ 0014722308
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722308
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-03-20-20-30-csj-augny-thionville-bc-2@ffbb
+ -agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 CSJ AUGNY – THIONVILLE BC - 2
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs T
+ HIONVILLE BC - 2\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de la Libéra
+ tion Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.12132&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match
+ /200000014722316
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722316
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-03-28-15-30-asptt-metz-basket-1-csj-augny@
+ ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270328T153000
+DTEND;TZID=Europe/Paris:20270328T173000
+SUMMARY:✈️ ASPTT METZ - BASKET - 1 – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ ASPTT METZ - B
+ ASKET - 1 vs CSJ AUGNY\n\nCOSEC DE QUEULEU\n📍 Rue de Tivoli Metz 57070\
+ n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.19469&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/200000014722320
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722320
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-04-03-20-30-csj-augny-ls-rosselange-basket
+ @ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 CSJ AUGNY – LS ROSSELANGE BASKET
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs L
+ S ROSSELANGE BASKET\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de la Lib
+ ération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.12132
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/m
+ atch/200000014722331
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722331
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-04-10-20-30-morhange-basket-ball-associati
+ on-csj-au@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:✈️ MORHANGE BASKET-BALL ASSOCIATION – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ MORHANGE BASKE
+ T-BALL ASSOCIATION vs CSJ AUGNY\n\nGYMNASE MUNICIPAL\n📍 Rue Verlaine Mo
+ rhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91915\,6.63069&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/match/200
+ 000014722335
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722335
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-05-08-20-30-csj-augny-basket-club-tucqueno
+ is@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 CSJ AUGNY – BASKET CLUB TUCQUENOIS
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs B
+ ASKET CLUB TUCQUENOIS\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de la Li
+ bération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.1213
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722342
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722342
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-05-22-18-30-longeville-et-st-avold-basket-
+ csj-augny@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270522T183000
+DTEND;TZID=Europe/Paris:20270522T203000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – CSJ AUGNY
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ LONGEVILLE ET 
+ ST AVOLD BASKET vs CSJ AUGNY\n\nGYMNASE DU CASTEL\n📍 Rue des Myrtilles 
+ Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com/ul?ll=49.1
+ 1207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/prm/match/200000014722347
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722347
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-moselle-poule-a-2027-05-29-20-30-csj-augny-as-saint-nicolas-en-
+ foret-1@ffbb-agenda
+DTSTAMP:20260908T205033Z
+DTSTART;TZID=Europe/Paris:20270529T203000
+DTEND;TZID=Europe/Paris:20270529T223000
+SUMMARY:🏠 CSJ AUGNY – AS SAINT NICOLAS EN FORET - 1
+DESCRIPTION:🏀 PRM – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs A
+ S SAINT NICOLAS EN FORET - 1\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue d
+ e la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\
+ ,6.12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/prm/match/200000014722353
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/prm/
+ match/200000014722353
+END:VEVENT
+END:VCALENDAR

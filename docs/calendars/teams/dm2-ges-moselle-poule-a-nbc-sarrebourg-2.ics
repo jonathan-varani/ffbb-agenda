@@ -1,0 +1,401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NBC SARREBOURG - 2  [DM2 – GES – Poule A]
+X-WR-CALDESC:Matchs de NBC SARREBOURG - 2 – DM2 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-04-17-30-nbc-sarrebourg-2-basket-club-d
+ e-talange@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261004T173000
+DTEND;TZID=Europe/Paris:20261004T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – BASKET CLUB DE TALANGE
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs BASKET CLUB DE TALANGE\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarr
+ ebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200
+ 000014722096
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722096
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-10-10-20-30-bc-aumetz-nbc-sarrebourg-2@ffb
+ b-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261010T203000
+DTEND;TZID=Europe/Paris:20261010T223000
+SUMMARY:✈️ BC AUMETZ – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC AUMETZ vs N
+ BC SARREBOURG - 2\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Léger de Montbri
+ llais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.42194\,5.94911&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/mat
+ ch/200000014722103
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722103
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-08-17-30-nbc-sarrebourg-2-dukes-de-fame
+ ck@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261108T173000
+DTEND;TZID=Europe/Paris:20261108T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – DUKES DE FAMECK
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs DUKES DE FAMECK\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 
+ 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2000000147
+ 22108
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722108
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-15-17-30-metz-bc-4-nbc-sarrebourg-2@ffb
+ b-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261115T173000
+DTEND;TZID=Europe/Paris:20261115T193000
+SUMMARY:✈️ METZ BC - 4 – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ METZ BC - 4 vs
+  NBC SARREBOURG - 2\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57
+ 000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722
+ 111
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722111
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-22-17-30-nbc-sarrebourg-2-us-silvange-b
+ asket-3@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261122T173000
+DTEND;TZID=Europe/Paris:20261122T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – US SILVANGE BASKET - 3
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs US SILVANGE BASKET - 3\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarr
+ ebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200
+ 000014722120
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722120
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-11-29-13-00-us-boulange-fontoy-bb-nbc-sarr
+ ebourg-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261129T130000
+DTEND;TZID=Europe/Paris:20261129T150000
+SUMMARY:✈️ US BOULANGE FONTOY BB – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US BOULANGE FO
+ NTOY BB vs NBC SARREBOURG - 2\n\nSALLE DES SPORTS\n📍 Rue du Stade Boula
+ nge 57655\n🚗 Waze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000
+ 014722125
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722125
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-06-17-30-nbc-sarrebourg-2-creutzwald-bc
+ @ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261206T173000
+DTEND;TZID=Europe/Paris:20261206T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – CREUTZWALD BC
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs CREUTZWALD BC\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 57
+ 400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722
+ 129
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722129
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2026-12-13-17-30-cse-folkling-2-nbc-sarrebourg-
+ 2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20261213T173000
+DTEND;TZID=Europe/Paris:20261213T193000
+SUMMARY:✈️ CSE FOLKLING - 2 – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING -
+  2 vs NBC SARREBOURG - 2\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 194
+ 4 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match
+ /200000014722134
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722134
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-09-20-30-as-sarreguemines-basket-nbc-sa
+ rrebourg-@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ AS SARREGUEMINES BASKET – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ AS SARREGUEMIN
+ ES BASKET vs NBC SARREBOURG - 2\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de
+  Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.
+ 08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ dm2/match/200000014722142
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722142
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-17-17-30-nbc-sarrebourg-2-basket-club-h
+ ayange-ma@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270117T173000
+DTEND;TZID=Europe/Paris:20270117T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – BASKET CLUB HAYANGE MARSPICH - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs BASKET CLUB HAYANGE MARSPICH - 2\n\nCOSEC\n📍 Rue Pierre de Coub
+ ertin Sarrebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.068
+ 81&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2
+ /match/200000014722148
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722148
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-23-20-30-bc-maizieres-les-metz-nbc-sarr
+ ebourg-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270123T203000
+DTEND;TZID=Europe/Paris:20270123T223000
+SUMMARY:✈️ BC MAIZIERES LES METZ – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES L
+ ES METZ vs NBC SARREBOURG - 2\n\nGymnase Joël Bommersheim\n📍 Rue Lotha
+ ire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.2184
+ 7\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competit
+ ions/dm2/match/200000014722153
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722153
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-01-31-15-30-basket-club-de-talange-nbc-sar
+ rebourg-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ BASKET CLUB DE TALANGE – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB DE
+  TALANGE vs NBC SARREBOURG - 2\n\nGymnase Pierre de Coubertin\n📍 Rue de
+ s Colombes Talange 57525\n🚗 Waze : https://waze.com/ul?ll=49.22599\,6.1
+ 7149&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ m2/match/200000014722162
+LOCATION:Gymnase Pierre de Coubertin\, Rue des Colombes Talange 57525
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722162
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-07-17-30-nbc-sarrebourg-2-bc-aumetz@ffb
+ b-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270207T173000
+DTEND;TZID=Europe/Paris:20270207T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – BC AUMETZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs BC AUMETZ\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 57400\
+ n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722169
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722169
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-02-13-20-00-dukes-de-fameck-nbc-sarrebourg
+ -2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ DUKES DE FAMECK – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ DUKES DE FAMEC
+ K vs NBC SARREBOURG - 2\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Exupér
+ y Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2
+ 00000014722174
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722174
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-14-17-30-nbc-sarrebourg-2-metz-bc-4@ffb
+ b-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270314T173000
+DTEND;TZID=Europe/Paris:20270314T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – METZ BC - 4
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs METZ BC - 4\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 5740
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014722
+ 177
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722177
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-20-20-30-us-silvange-basket-3-nbc-sarre
+ bourg-2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ US SILVANGE BASKET - 3 – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ US SILVANGE BA
+ SKET - 3 vs NBC SARREBOURG - 2\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migett
+ e Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.1
+ 1352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ m2/match/200000014722186
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722186
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-03-28-17-30-nbc-sarrebourg-2-us-boulange-f
+ ontoy-bb@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270328T173000
+DTEND;TZID=Europe/Paris:20270328T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs US BOULANGE FONTOY BB\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarre
+ bourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2000
+ 00014722191
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722191
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-03-20-15-creutzwald-bc-nbc-sarrebourg-2
+ @ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270403T201500
+DTEND;TZID=Europe/Paris:20270403T221500
+SUMMARY:✈️ CREUTZWALD BC – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ CREUTZWALD BC 
+ vs NBC SARREBOURG - 2\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges Basti
+ de Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.69796&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/ma
+ tch/200000014722195
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722195
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-04-11-17-30-nbc-sarrebourg-2-cse-folkling-
+ 2@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270411T173000
+DTEND;TZID=Europe/Paris:20270411T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – CSE FOLKLING - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs CSE FOLKLING - 2\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg
+  57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/200000014
+ 722200
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722200
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-09-17-30-nbc-sarrebourg-2-as-sarreguemi
+ nes-baske@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270509T173000
+DTEND;TZID=Europe/Paris:20270509T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs AS SARREGUEMINES BASKET\n\nCOSEC\n📍 Rue Pierre de Coubertin Sar
+ rebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/20
+ 0000014722208
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722208
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-23-17-30-basket-club-hayange-marspich-2
+ -nbc-sarr@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270523T173000
+DTEND;TZID=Europe/Paris:20270523T193000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 2 – NBC SARREBOURG - 2
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ BASKET CLUB HA
+ YANGE MARSPICH - 2 vs NBC SARREBOURG - 2\n\nC.O.S.E.C.\n📍 Rue du 6 Juin
+  1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.08047&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/ma
+ tch/200000014722214
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722214
+END:VEVENT
+BEGIN:VEVENT
+UID:dm2-ges-moselle-poule-a-2027-05-30-17-30-nbc-sarrebourg-2-bc-maizieres-
+ les-metz@ffbb-agenda
+DTSTAMP:20260908T205045Z
+DTSTART;TZID=Europe/Paris:20270530T173000
+DTEND;TZID=Europe/Paris:20270530T193000
+SUMMARY:🏠 NBC SARREBOURG - 2 – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DM2 – GES – Moselle – Poule A\n⚔️ NBC SARREBOURG
+  - 2 vs BC MAIZIERES LES METZ\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarre
+ bourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/match/2000
+ 00014722219
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm2/
+ match/200000014722219
+END:VEVENT
+END:VCALENDAR

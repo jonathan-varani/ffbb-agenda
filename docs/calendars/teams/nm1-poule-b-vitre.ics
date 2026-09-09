@@ -1,0 +1,404 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VITRE  [NM1 –  – Poule B]
+X-WR-CALDESC:Matchs de VITRE – NM1 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-18-20-00-rennes-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20260918T200000
+DTEND;TZID=Europe/Paris:20260918T220000
+SUMMARY:✈️ RENNES – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ RENNES vs VITRE\n\nSALLE COLETTE B
+ ESSON\n📍 Boulevard Albert 1er Rennes 35200\n🚗 Waze : https://waze.co
+ m/ul?ll=48.08907\,-1.6887&navigate=yes\n\n📢 Arbitres : Cedric BERTORELL
+ E\, Mattéo DUCLAUX\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm1/match/200000014596765
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596765
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-25-20-30-vitre-tarbes-lourdes-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20260925T203000
+DTEND;TZID=Europe/Paris:20260925T223000
+SUMMARY:🏠 VITRE – TARBES LOURDES - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs TARBES LOURDES - 1\n\nSAL
+ LE POULTIERE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n
+ 🚗 Waze : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014596778
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596778
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-29-20-30-lorient-1-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20260929T203000
+DTEND;TZID=Europe/Paris:20260929T223000
+SUMMARY:✈️ LORIENT - 1 – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ LORIENT - 1 vs VITRE\n\nPALAIS DES
+  SPORTS KERVARIC\n📍 Rue Alfred Dreyfus Lorient 56100\n🚗 Waze : https
+ ://waze.com/ul?ll=47.74791\,-3.39003&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nm1/match/200000014596795
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596795
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-02-20-30-vitre-angers-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261002T203000
+DTEND;TZID=Europe/Paris:20261002T223000
+SUMMARY:🏠 VITRE – ANGERS - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs ANGERS - 1\n\nSALLE POULT
+ IERE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 Waz
+ e : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm1/match/200000014596806
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596806
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-09-20-00-tours-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261009T200000
+DTEND;TZID=Europe/Paris:20261009T220000
+SUMMARY:✈️ TOURS – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs VITRE\n\nHALLE MONCONSEIL
+ \n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com/ul?ll=
+ 47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match/2
+ 00000014596818
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596818
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-16-20-30-vitre-bordeaux-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261016T203000
+DTEND;TZID=Europe/Paris:20261016T223000
+SUMMARY:🏠 VITRE – BORDEAUX - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs BORDEAUX - 1\n\nSALLE POU
+ LTIERE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 W
+ aze : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nm1/match/200000014596834
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596834
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-20-20-30-vitre-fougeres@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261020T203000
+DTEND;TZID=Europe/Paris:20261020T223000
+SUMMARY:🏠 VITRE – FOUGERES
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs FOUGERES\n\nSALLE POULTIE
+ RE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 Waze 
+ : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm1/match/200000014596848
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596848
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-23-20-30-toulouse-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261023T203000
+DTEND;TZID=Europe/Paris:20261023T223000
+SUMMARY:✈️ TOULOUSE – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOULOUSE vs VITRE\n\nPALAIS DES SP
+ ORTS A. BROUAT\n📍 Rue du Canon d'Arcole Toulouse 31000\n🚗 Waze : htt
+ ps://waze.com/ul?ll=43.61207\,1.43621&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compe
+ titions/nm1/match/200000014596863
+LOCATION:PALAIS DES SPORTS A. BROUAT\, Rue du Canon d'Arcole Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596863
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-30-20-30-vitre-laval-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261030T203000
+DTEND;TZID=Europe/Paris:20261030T223000
+SUMMARY:🏠 VITRE – LAVAL - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs LAVAL - 1\n\nSALLE POULTI
+ ERE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 Waze
+  : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nm1/match/200000014596876
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596876
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-06-20-30-chartres-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261106T203000
+DTEND;TZID=Europe/Paris:20261106T223000
+SUMMARY:✈️ CHARTRES – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CHARTRES vs VITRE\n\nHALLE JEAN CO
+ CHET\n📍 Rue Jean Monnet Chartres 28000\n🚗 Waze : https://waze.com/ul
+ ?ll=48.45027\,1.50442&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/matc
+ h/200000014596887
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596887
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-13-20-30-vitre-les-sables-d-olonne@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261113T203000
+DTEND;TZID=Europe/Paris:20261113T223000
+SUMMARY:🏠 VITRE – LES SABLES D'OLONNE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs LES SABLES D'OLONNE\n\nSA
+ LLE POULTIERE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\
+ n🚗 Waze : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm1/match/200000014596904
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596904
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-17-20-30-challans-1-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261117T203000
+DTEND;TZID=Europe/Paris:20261117T223000
+SUMMARY:✈️ CHALLANS - 1 – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CHALLANS - 1 vs VITRE\n\nSALLE VRI
+ GNAUD A CHALLANS\n📍 Boulevard Jean Yole Challans 85300\n🚗 Waze : htt
+ ps://waze.com/ul?ll=46.84111\,-1.87667&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nm1/match/200000014596917
+LOCATION:SALLE VRIGNAUD A CHALLANS\, Boulevard Jean Yole Challans 85300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596917
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-20-20-30-vitre-pa-le-france@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261120T203000
+DTEND;TZID=Europe/Paris:20261120T223000
+SUMMARY:🏠 VITRE – PÃLE FRANCE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs PÃLE FRANCE\n\nSALLE P
+ OULTIERE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗
+  Waze : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arb
+ itres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/competitions/nm1/match/200000014596932
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596932
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-04-20-30-vitre-rennes@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261204T203000
+DTEND;TZID=Europe/Paris:20261204T223000
+SUMMARY:🏠 VITRE – RENNES
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs RENNES\n\nSALLE POULTIERE
+  AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 Waze : 
+ https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm1/match/200000014596947
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596947
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-11-20-00-tarbes-lourdes-1-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261211T200000
+DTEND;TZID=Europe/Paris:20261211T220000
+SUMMARY:✈️ TARBES LOURDES - 1 – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TARBES LOURDES - 1 vs VITRE\n\nPAL
+ AIS DES SPORTS\n📍 Quai de l'Adour Tarbes 65000\n🚗 Waze : https://waz
+ e.com/ul?ll=43.23015\,0.08784&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/
+ nm1/match/200000014596960
+LOCATION:PALAIS DES SPORTS\, Quai de l'Adour Tarbes 65000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596960
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-15-20-30-vitre-lorient-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261215T203000
+DTEND;TZID=Europe/Paris:20261215T223000
+SUMMARY:🏠 VITRE – LORIENT - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs LORIENT - 1\n\nSALLE POUL
+ TIERE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nm1/match/200000014596977
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596977
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-18-20-00-angers-1-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261218T200000
+DTEND;TZID=Europe/Paris:20261218T220000
+SUMMARY:✈️ ANGERS - 1 – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ANGERS - 1 vs VITRE\n\nSALLE JEAN 
+ BOUIN\n📍 Boulevard Pierre de Coubertin Angers 49000\n🚗 Waze : https:
+ //waze.com/ul?ll=47.46186\,-0.53251&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nm1/match/200000014596988
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596988
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-08-20-30-vitre-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270108T203000
+DTEND;TZID=Europe/Paris:20270108T223000
+SUMMARY:🏠 VITRE – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs TOURS\n\nSALLE POULTIERE 
+ AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nm1/match/200000014597000
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597000
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-15-20-00-bordeaux-1-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270115T200000
+DTEND;TZID=Europe/Paris:20270115T220000
+SUMMARY:✈️ BORDEAUX - 1 – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ BORDEAUX - 1 vs VITRE\n\nPALAIS DE
+ S SPORTS\n📍 Place de la Ferme de Richemont Bordeaux 33000\n🚗 Waze : 
+ https://waze.com/ul?ll=44.83568\,-0.57212&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm1/match/200000014597016
+LOCATION:PALAIS DES SPORTS\, Place de la Ferme de Richemont Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597016
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-19-20-30-fougeres-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270119T203000
+DTEND;TZID=Europe/Paris:20270119T223000
+SUMMARY:✈️ FOUGERES – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ FOUGERES vs VITRE\n\nSALLE JUSTY S
+ PECKER\n📍 Avenue Georges Pompidou FougÃ¨res 35300\n🚗 Waze : https:
+ //waze.com/ul?ll=48.34565\,-1.20166&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nm1/match/200000014597030
+LOCATION:SALLE JUSTY SPECKER\, Avenue Georges Pompidou FougÃ¨res 35300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597030
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-22-20-30-vitre-toulouse@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270122T203000
+DTEND;TZID=Europe/Paris:20270122T223000
+SUMMARY:🏠 VITRE – TOULOUSE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs TOULOUSE\n\nSALLE POULTIE
+ RE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 Waze 
+ : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm1/match/200000014597045
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597045
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-29-20-30-laval-1-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270129T203000
+DTEND;TZID=Europe/Paris:20270129T223000
+SUMMARY:✈️ LAVAL - 1 – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ LAVAL - 1 vs VITRE\n\nSalle PEGASE
+  - Espace Mayenne\n📍 Rue JosÃ©phine Baker Laval 53000\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.08238\,-0.79116&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
+ petitions/nm1/match/200000014597058
+LOCATION:Salle PEGASE - Espace Mayenne\, Rue JosÃ©phine Baker Laval 53000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597058
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-05-20-30-vitre-chartres@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270205T203000
+DTEND;TZID=Europe/Paris:20270205T223000
+SUMMARY:🏠 VITRE – CHARTRES
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs CHARTRES\n\nSALLE POULTIE
+ RE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 Waze 
+ : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm1/match/200000014597069
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597069
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-12-20-00-les-sables-d-olonne-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:✈️ LES SABLES D'OLONNE – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ LES SABLES D'OLONNE vs VITRE\n\nAR
+ ENA - LES SABLES D'OLONNE\n📍 Rue du Bonheur Les Sables-d'Olonne 85340\n
+ 🚗 Waze : https://waze.com/ul?ll=46.51714\,-1.75532&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014597086
+LOCATION:ARENA - LES SABLES D'OLONNE\, Rue du Bonheur Les Sables-d'Olonne 8
+ 5340
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597086
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-16-20-00-vitre-challans-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270216T200000
+DTEND;TZID=Europe/Paris:20270216T220000
+SUMMARY:🏠 VITRE – CHALLANS - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs CHALLANS - 1\n\nSALLE POU
+ LTIERE AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 W
+ aze : https://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nm1/match/200000014597099
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597099
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-19-20-00-pa-le-france-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:✈️ PÃLE FRANCE – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ PÃLE FRANCE vs VITRE\n\nINSEP C
+ .S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nm1/match/200000014597114
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597114
+END:VEVENT
+END:VCALENDAR

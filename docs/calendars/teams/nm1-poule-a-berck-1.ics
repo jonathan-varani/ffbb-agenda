@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BERCK - 1  [NM1 –  – Poule A]
+X-WR-CALDESC:Matchs de BERCK - 1 – NM1 – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-09-18-20-30-sas-fos-provence-basket-berck-1@ffbb-agend
+ a
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20260918T203000
+DTEND;TZID=Europe/Paris:20260918T223000
+SUMMARY:✈️ SAS FOS PROVENCE BASKET – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SAS FOS PROVENCE BASKET vs BERCK -
+  1\n\nCOMPLEXE SPORTIF PARSEMAIN\n📍 Avenue Jean Moulin Fos-sur-Mer 1327
+ 0\n🚗 Waze : https://waze.com/ul?ll=43.43314\,4.94793&navigate=yes\n\n
+ 📢 Arbitres : Amine KHELAIFIA\, Hamza KLAI\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014596755
+LOCATION:COMPLEXE SPORTIF PARSEMAIN\, Avenue Jean Moulin Fos-sur-Mer 13270
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596755
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-09-25-20-00-berck-1-salon-de-provence-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20260925T200000
+DTEND;TZID=Europe/Paris:20260925T220000
+SUMMARY:🏠 BERCK - 1 – SALON-DE-PROVENCE - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SALON-DE-PROVENCE - 1
+ \n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze 
+ : https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm1/match/200000014596768
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596768
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-09-29-20-00-lyonso-1-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20260929T200000
+DTEND;TZID=Europe/Paris:20260929T220000
+SUMMARY:✈️ LYONSO - 1 – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LYONSO - 1 vs BERCK - 1\n\nHALLE P
+ AUL BERT - LA CANOPEE\n📍 Rue Charles de Gaulle Oullins-Pierre-BÃ©nite
+  69310\n🚗 Waze : https://waze.com/ul?ll=45.69946\,4.81769&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm1/match/200000014596785
+LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
+ e-BÃ©nite 69310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596785
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-03-20-00-berck-1-val-de-seine-basket@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:🏠 BERCK - 1 – VAL DE SEINE BASKET
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs VAL DE SEINE BASKET\n
+ \nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : 
+ https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
+ petitions/nm1/match/200000014596796
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596796
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-13-20-00-charleville-mezieres-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261013T200000
+DTEND;TZID=Europe/Paris:20261013T220000
+SUMMARY:✈️ CHARLEVILLE-MEZIERES – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ CHARLEVILLE-MEZIERES vs BERCK - 1\
+ n\nGuinguette Arena\n📍 Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨r
+ es 08000\n🚗 Waze : https://waze.com/ul?ll=49.7568\,4.71195&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nm1/match/200000014596839
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
+ res 08000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596839
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-16-20-00-berck-1-loon-plage@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261016T200000
+DTEND;TZID=Europe/Paris:20261016T220000
+SUMMARY:🏠 BERCK - 1 – LOON PLAGE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs LOON PLAGE\n\nPALAIS 
+ DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : https://w
+ aze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nm1/match/200000014596824
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596824
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-24-20-00-berck-1-saint-vallier-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:🏠 BERCK - 1 – SAINT-VALLIER - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SAINT-VALLIER - 1\n\n
+ PALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : ht
+ tps://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compe
+ titions/nm1/match/200000014596852
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596852
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-30-20-00-mulhouse-basket-agglomeration-berck-1@ffbb
+ -agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261030T200000
+DTEND;TZID=Europe/Paris:20261030T220000
+SUMMARY:✈️ MULHOUSE BASKET AGGLOMERATION – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs B
+ ERCK - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhou
+ se 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm1/match/200000014596868
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596868
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-07-20-00-berck-1-scabb@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:🏠 BERCK - 1 – SCABB
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SCABB\n\nPALAIS DES S
+ PORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : https://waze.c
+ om/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/
+ match/200000014596880
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596880
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-13-20-00-besancon-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:✈️ BESANCON – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs BERCK - 1\n\nGYMNASE D
+ ES MONTBOUCONS\n📍 Avenue des Montboucons BesanÃ§on 25000\n🚗 Waze :
+  https://waze.com/ul?ll=47.25292\,5.99798&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm1/match/200000014596898
+LOCATION:GYMNASE DES MONTBOUCONS\, Avenue des Montboucons BesanÃ§on 25000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596898
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-17-20-00-berck-1-sasp-bc-orchies@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261117T200000
+DTEND;TZID=Europe/Paris:20261117T220000
+SUMMARY:🏠 BERCK - 1 – SASP BC ORCHIES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SASP BC ORCHIES\n\nPA
+ LAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : http
+ s://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nm1/match/200000014596908
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596908
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-20-20-00-so-maritime-boulogne-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261120T200000
+DTEND;TZID=Europe/Paris:20261120T220000
+SUMMARY:✈️ SO MARITIME BOULOGNE – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SO MARITIME BOULOGNE vs BERCK - 1\
+ n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 6
+ 2200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nm1/match/200000014596928
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596928
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-05-20-00-berck-1-sas-fos-provence-basket@ffbb-agend
+ a
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:🏠 BERCK - 1 – SAS FOS PROVENCE BASKET
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SAS FOS PROVENCE BASK
+ ET\n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waz
+ e : https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm1/match/200000014596937
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596937
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-11-20-00-salon-de-provence-1-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261211T200000
+DTEND;TZID=Europe/Paris:20261211T220000
+SUMMARY:✈️ SALON-DE-PROVENCE - 1 – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs BERCK - 1
+ \n\nHALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Prove
+ nce 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm1/match/200000014596950
+LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
+ nce 13300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596950
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-15-20-00-berck-1-lyonso-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261215T200000
+DTEND;TZID=Europe/Paris:20261215T220000
+SUMMARY:🏠 BERCK - 1 – LYONSO - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs LYONSO - 1\n\nPALAIS 
+ DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : https://w
+ aze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nm1/match/200000014596967
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596967
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-18-20-00-val-de-seine-basket-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20261218T200000
+DTEND;TZID=Europe/Paris:20261218T220000
+SUMMARY:✈️ VAL DE SEINE BASKET – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE BASKET vs BERCK - 1\n
+ \nGYMNASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 
+ Waze : https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nm1/match/200000014596978
+LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596978
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-15-20-00-loon-plage-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20270115T200000
+DTEND;TZID=Europe/Paris:20270115T220000
+SUMMARY:✈️ LOON PLAGE – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs BERCK - 1\n\nLÃ©o 
+ LAGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://waze.com
+ /ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/m
+ atch/200000014597006
+LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597006
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-19-20-00-berck-1-charleville-mezieres@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20270119T200000
+DTEND;TZID=Europe/Paris:20270119T220000
+SUMMARY:🏠 BERCK - 1 – CHARLEVILLE-MEZIERES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs CHARLEVILLE-MEZIERES\
+ n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze :
+  https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nm1/match/200000014597021
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597021
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-22-20-30-saint-vallier-1-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20270122T203000
+DTEND;TZID=Europe/Paris:20270122T223000
+SUMMARY:✈️ SAINT-VALLIER - 1 – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SAINT-VALLIER - 1 vs BERCK - 1\n\n
+ LES DEUX RIVES 1\n📍 Rue Marcel Paul Saint-Vallier 26240\n🚗 Waze : ht
+ tps://waze.com/ul?ll=45.19308\,4.81613&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nm1/match/200000014597034
+LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597034
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-30-20-00-berck-1-mulhouse-basket-agglomeration@ffbb
+ -agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:🏠 BERCK - 1 – MULHOUSE BASKET AGGLOMERATION
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs MULHOUSE BASKET AGGLO
+ MERATION\n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n
+ 🚗 Waze : https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/competitions/nm1/match/200000014597050
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597050
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-06-20-00-scabb-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:✈️ SCABB – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SCABB vs BERCK - 1\n\nPALAIS DES S
+ PORTS\n📍 Rue des Bullieux AndrÃ©zieux-BouthÃ©on 42160\n🚗 Waze : 
+ https://waze.com/ul?ll=45.52819\,4.27178&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nm1/match/200000014597062
+LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
+ 60
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597062
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-12-20-00-berck-1-besancon@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:🏠 BERCK - 1 – BESANCON
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs BESANCON\n\nPALAIS DE
+ S SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : https://waz
+ e.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
+ m1/match/200000014597080
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597080
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-16-20-00-sasp-bc-orchies-berck-1@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20270216T200000
+DTEND;TZID=Europe/Paris:20270216T220000
+SUMMARY:✈️ SASP BC ORCHIES – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs BERCK - 1\n\nPE
+ VELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 Waze : https
+ ://waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nm1/match/200000014597090
+LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597090
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-19-20-00-berck-1-so-maritime-boulogne@ffbb-agenda
+DTSTAMP:20260909T213201Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:🏠 BERCK - 1 – SO MARITIME BOULOGNE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SO MARITIME BOULOGNE\
+ n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze :
+  https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nm1/match/200000014597110
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597110
+END:VEVENT
+END:VCALENDAR

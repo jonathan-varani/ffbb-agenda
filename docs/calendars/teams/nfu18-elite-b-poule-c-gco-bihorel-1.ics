@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – GCO BIHOREL - 1  [NFU18-ELITE-B –  – Poule C]
+X-WR-CALDESC:Matchs de GCO BIHOREL - 1 – NFU18-ELITE-B – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-09-13-15-30-gco-bihorel-1-entente-le-chesnay
+ -versaill@ffbb-agenda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 GCO BIHOREL - 1 – ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 
+ 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ GCO BIHOREL - 1 vs ENTEN
+ TE LE CHESNAY VERSAILLES 78 BASKET - 1\n\nSALLE PIERRE DE COUBERTIN\n📍 
+ Rue de Verdun Bihorel 76420\n🚗 Waze : https://waze.com/ul?ll=49.45894\,
+ 1.12203&navigate=yes\n\n📢 Arbitres : Gautier PICARD\, Thomas PREVOST\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu18-elit
+ e-b/match/200000014603055
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue de Verdun Bihorel 76420
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603055
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-09-20-15-30-ie-rueil-athletic-club-gco-bihor
+ el-1@ffbb-agenda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ IE - RUEIL ATHLETIC CLUB – GCO BIHOREL - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ IE - RUEIL ATHLETIC CLUB
+  vs GCO BIHOREL - 1\n\nGYMNASE JEAN DAME\n📍 Rue Prudent NÃ©el Rueil-M
+ almaison 92500\n🚗 Waze : https://waze.com/ul?ll=48.88239\,2.18374&navig
+ ate=yes\n\n📢 Arbitres : Gabriel PIGELET PATHOUOT\, Xavier GÖRKE\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu18-elite
+ -b/match/200000014603068
+LOCATION:GYMNASE JEAN DAME\, Rue Prudent NÃ©el Rueil-Malmaison 92500
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603068
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-09-27-15-30-gco-bihorel-1-coulaines-j-s-1@ff
+ bb-agenda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:🏠 GCO BIHOREL - 1 – COULAINES J.S. - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ GCO BIHOREL - 1 vs COULA
+ INES J.S. - 1\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue de Verdun Bihorel 764
+ 20\n🚗 Waze : https://waze.com/ul?ll=49.45894\,1.12203&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nfu18-elite-b/match/200000014603078
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue de Verdun Bihorel 76420
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603078
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-10-04-15-30-usm-saran-gco-bihorel-1@ffbb-age
+ nda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ USM SARAN – GCO BIHOREL - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ USM SARAN vs GCO BIHOREL
+  - 1\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗 Waze
+  : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nfu18-elite-b/match/200000014603091
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603091
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-10-11-15-30-cote-d-opale-basket-calais-1-gco
+ -bihorel-@ffbb-agenda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ COTE D'OPALE BASKET CALAIS - 1 – GCO BIHOREL - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ COTE D'OPALE BASKET CALA
+ IS - 1 vs GCO BIHOREL - 1\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard 
+ Calais 62100\n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603102
+LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603102
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-11-01-15-30-entente-le-chesnay-versailles-78
+ -basket-1@ffbb-agenda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – GCO BIHOREL 
+ - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ ENTENTE LE CHESNAY VERSA
+ ILLES 78 BASKET - 1 vs GCO BIHOREL - 1\n\nGYMNASE BEL AIR\n📍 Avenue de 
+ la BretÃ¨che Le Chesnay-Rocquencourt 78150\n🚗 Waze : https://waze.com
+ /ul?ll=48.8295\,2.13173&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu18-
+ elite-b/match/200000014603115
+LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
+  78150
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603115
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-11-08-15-30-gco-bihorel-1-ie-rueil-athletic-
+ club@ffbb-agenda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 GCO BIHOREL - 1 – IE - RUEIL ATHLETIC CLUB
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ GCO BIHOREL - 1 vs IE - 
+ RUEIL ATHLETIC CLUB\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue de Verdun Bihor
+ el 76420\n🚗 Waze : https://waze.com/ul?ll=49.45894\,1.12203&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603128
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue de Verdun Bihorel 76420
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603128
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-11-15-13-15-coulaines-j-s-1-gco-bihorel-1@ff
+ bb-agenda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:✈️ COULAINES J.S. - 1 – GCO BIHOREL - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ COULAINES J.S. - 1 vs GC
+ O BIHOREL - 1\n\nGYMNASE MARIUS GUILLOTIN\n📍 Place de la Gironde Coulai
+ nes 72190\n🚗 Waze : https://waze.com/ul?ll=48.02532\,0.2056&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603138
+LOCATION:GYMNASE MARIUS GUILLOTIN\, Place de la Gironde Coulaines 72190
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603138
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-11-29-15-30-gco-bihorel-1-usm-saran@ffbb-age
+ nda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:🏠 GCO BIHOREL - 1 – USM SARAN
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ GCO BIHOREL - 1 vs USM S
+ ARAN\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue de Verdun Bihorel 76420\n🚗 
+ Waze : https://waze.com/ul?ll=49.45894\,1.12203&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nfu18-elite-b/match/200000014603151
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue de Verdun Bihorel 76420
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603151
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-c-2026-12-06-15-30-gco-bihorel-1-cote-d-opale-baske
+ t-calais-@ffbb-agenda
+DTSTAMP:20260909T212947Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 GCO BIHOREL - 1 – COTE D'OPALE BASKET CALAIS - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule C\n⚔️ GCO BIHOREL - 1 vs COTE 
+ D'OPALE BASKET CALAIS - 1\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue de Verdun
+  Bihorel 76420\n🚗 Waze : https://waze.com/ul?ll=49.45894\,1.12203&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603162
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue de Verdun Bihorel 76420
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603162
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ADA BLOIS BASKET 41  [NMU18-ELITE –  – Poule F]
+X-WR-CALDESC:Matchs de ADA BLOIS BASKET 41 – NMU18-ELITE – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-09-13-15-30-ada-blois-basket-41-tours-metropol
+ e-basket-@ffbb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 ADA BLOIS BASKET 41 – TOURS METROPOLE BASKET PLLL
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ADA BLOIS BASKET 41 vs TOU
+ RS METROPOLE BASKET PLLL\n\nCentre VSF sports\n📍 Boulevard de l'Industr
+ ie Blois 41000\n🚗 Waze : https://waze.com/ul?ll=47.60446\,1.32507&navig
+ ate=yes\n\n📢 Arbitres : Baptiste MARNIER\, Alexandre TURLET\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
+ 00000014603185
+LOCATION:Centre VSF sports\, Boulevard de l'Industrie Blois 41000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03185
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-09-20-15-30-al-madeleine-evreux-1-ada-blois-ba
+ sket-41@ffbb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ AL MADELEINE EVREUX - 1 – ADA BLOIS BASKET 41
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ AL MADELEINE EVREUX - 1 vs
+  ADA BLOIS BASKET 41\n\nSALLE JEAN MOULIN\n📍 Rue Jean Moulin Ãvreux 
+ 27000\n🚗 Waze : https://waze.com/ul?ll=49.01375\,1.1524&navigate=yes\n\
+ n📢 Arbitres : Mathieu BOUGON\, Gabriel VICART\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603214
+LOCATION:SALLE JEAN MOULIN\, Rue Jean Moulin Ãvreux 27000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03214
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-09-27-15-30-rouen-ma-tropole-basket-associatio
+ n-1893-ad@ffbb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ ROUEN MÃTROPOLE BASKET - ASSOCIATION 1893 – ADA BLOIS B
+ ASKET 41
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ROUEN MÃTROPOLE BASKET 
+ - ASSOCIATION 1893 vs ADA BLOIS BASKET 41\n\nSALLE DES COTONNIERS\n📍 Pl
+ ace des Cotonniers Rouen 76100\n🚗 Waze : https://waze.com/ul?ll=49.4309
+ 3\,1.08174&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2
+ 00000014603243
+LOCATION:SALLE DES COTONNIERS\, Place des Cotonniers Rouen 76100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03243
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-10-04-15-30-ada-blois-basket-41-orleans-loiret
+ -basket-a@ffbb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 ADA BLOIS BASKET 41 – ORLEANS LOIRET BASKET ASSOCIATION
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ADA BLOIS BASKET 41 vs ORL
+ EANS LOIRET BASKET ASSOCIATION\n\nCentre VSF sports\n📍 Boulevard de l'I
+ ndustrie Blois 41000\n🚗 Waze : https://waze.com/ul?ll=47.60446\,1.32507
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460
+ 3273
+LOCATION:Centre VSF sports\, Boulevard de l'Industrie Blois 41000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03273
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-10-11-15-30-le-mans-scm-ada-blois-basket-41@ff
+ bb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ LE MANS SCM – ADA BLOIS BASKET 41
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ LE MANS SCM vs ADA BLOIS B
+ ASKET 41\n\nROBERT JARRY\n📍 Boulevard Louis Leprince Ringuet Le Mans 72
+ 000\n🚗 Waze : https://waze.com/ul?ll=48.01734\,0.14684&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu18-elite/match/200000014603305
+LOCATION:ROBERT JARRY\, Boulevard Louis Leprince Ringuet Le Mans 72000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03305
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-11-01-15-30-tours-metropole-basket-plll-ada-bl
+ ois-baske@ffbb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ TOURS METROPOLE BASKET PLLL – ADA BLOIS BASKET 41
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ TOURS METROPOLE BASKET PLL
+ L vs ADA BLOIS BASKET 41\n\nGYMNASE DABILLY\n📍 Rue Dabilly Tours 37000\
+ n🚗 Waze : https://waze.com/ul?ll=47.39269\,0.67486&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nmu18-elite/match/200000014603335
+LOCATION:GYMNASE DABILLY\, Rue Dabilly Tours 37000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03335
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-11-08-15-30-ada-blois-basket-41-al-madeleine-e
+ vreux-1@ffbb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 ADA BLOIS BASKET 41 – AL MADELEINE EVREUX - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ADA BLOIS BASKET 41 vs AL 
+ MADELEINE EVREUX - 1\n\nCentre VSF sports\n📍 Boulevard de l'Industrie B
+ lois 41000\n🚗 Waze : https://waze.com/ul?ll=47.60446\,1.32507&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu18-elite/match/200000014603364
+LOCATION:Centre VSF sports\, Boulevard de l'Industrie Blois 41000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03364
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-11-15-15-30-ada-blois-basket-41-rouen-ma-tropo
+ le-basket@ffbb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 ADA BLOIS BASKET 41 – ROUEN MÃTROPOLE BASKET - ASSOCIATIO
+ N 1893
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ADA BLOIS BASKET 41 vs ROU
+ EN MÃTROPOLE BASKET - ASSOCIATION 1893\n\nCentre VSF sports\n📍 Boule
+ vard de l'Industrie Blois 41000\n🚗 Waze : https://waze.com/ul?ll=47.604
+ 46\,1.32507&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/
+ 200000014603393
+LOCATION:Centre VSF sports\, Boulevard de l'Industrie Blois 41000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03393
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-11-29-15-30-orleans-loiret-basket-association-
+ ada-blois@ffbb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ ORLEANS LOIRET BASKET ASSOCIATION – ADA BLOIS BASKET 41
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ORLEANS LOIRET BASKET ASSO
+ CIATION vs ADA BLOIS BASKET 41\n\nCOMPLEXE SPORTIF CO'MET ANNEXE\n📍 Rue
+  Robert Schuman OrlÃ©ans 45100\n🚗 Waze : https://waze.com/ul?ll=47.87
+ 053\,1.91229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match
+ /200000014603423
+LOCATION:COMPLEXE SPORTIF CO'MET ANNEXE\, Rue Robert Schuman OrlÃ©ans 451
+ 00
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03423
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-12-06-15-30-ada-blois-basket-41-le-mans-scm@ff
+ bb-agenda
+DTSTAMP:20260909T214040Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 ADA BLOIS BASKET 41 – LE MANS SCM
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ADA BLOIS BASKET 41 vs LE 
+ MANS SCM\n\nCentre VSF sports\n📍 Boulevard de l'Industrie Blois 41000\n
+ 🚗 Waze : https://waze.com/ul?ll=47.60446\,1.32507&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nmu18-elite/match/200000014603455
+LOCATION:Centre VSF sports\, Boulevard de l'Industrie Blois 41000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03455
+END:VEVENT
+END:VCALENDAR

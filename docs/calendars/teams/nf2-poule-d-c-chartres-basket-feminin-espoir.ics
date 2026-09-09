@@ -1,0 +1,383 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – C'CHARTRES BASKET FEMININ - ESPOIR  [NF2 –  – Poule D]
+X-WR-CALDESC:Matchs de C'CHARTRES BASKET FEMININ - ESPOIR – NF2 – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-12-17-15-c-chartres-basket-feminin-espoir-entente-l
+ e-chesnay@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20260912T171500
+DTEND;TZID=Europe/Paris:20260912T191500
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – ENTENTE LE CHESNAY VERS
+ AILLES 78 BASKET - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1\n\nHALLE JEAN COCHET\n📍
+  Rue Jean Monnet Chartres 28000\n🚗 Waze : https://waze.com/ul?ll=48.450
+ 27\,1.50442&navigate=yes\n\n📢 Arbitres : Franck GODIN\, Antoine SAMSON\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/matc
+ h/200000014601092
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601092
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-19-20-00-al-coquelles-basket-c-chartres-basket-femi
+ nin-espoi@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:✈️ AL  COQUELLES BASKET – C'CHARTRES BASKET FEMININ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs C'CHARTRES
+  BASKET FEMININ - ESPOIR\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 Parc de la Ro
+ uge Cambre Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll=50.92861\,1
+ .81009&navigate=yes\n\n📢 Arbitres : Guillaume BREUX\, Medhi RICHARD\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
+ 00000014601116
+LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
+ 31
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601116
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-26-15-00-c-chartres-basket-feminin-espoir-villeneuv
+ e-d-ascq-@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – VILLENEUVE D'ASCQ ESB -
+  ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs VILLENEUVE D'ASCQ ESB - ESPOIR\n\nHALLE JEAN COCHET\n📍 Rue Jean Mon
+ net Chartres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf2/match/200000014601140
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601140
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-03-20-00-usm-saran-1-c-chartres-basket-feminin-espo
+ ir@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:✈️ USM SARAN - 1 – C'CHARTRES BASKET FEMININ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs C'CHARTRES BASKET
+  FEMININ - ESPOIR\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 457
+ 70\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601164
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601164
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-10-16-30-c-chartres-basket-feminin-espoir-dunkerque
+ -malo-bas@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20261010T163000
+DTEND;TZID=Europe/Paris:20261010T183000
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – DUNKERQUE MALO BASKET C
+ LUB - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs DUNKERQUE MALO BASKET CLUB - 1\n\nCOLISEE GRANDE SALLE\n📍 Rue Danie
+ lle Casanova Chartres 28000\n🚗 Waze : https://waze.com/ul?ll=48.44699\,
+ 1.47834&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014601
+ 188
+LOCATION:COLISEE GRANDE SALLE\, Rue Danielle Casanova Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601188
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-24-20-00-arras-pays-d-artois-basket-c-chartres-bask
+ et-femini@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:✈️ ARRAS PAYS D'ARTOIS BASKET – C'CHARTRES BASKET FEMININ - E
+ SPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ARRAS PAYS D'ARTOIS BASKET vs C'CH
+ ARTRES BASKET FEMININ - ESPOIR\n\nCENTRE SPORTIF R. TETELIN\n📍 Boulevar
+ d du GÃ©nÃ©ral de Gaulle Arras 62000\n🚗 Waze : https://waze.com/ul?
+ ll=50.28452\,2.76413&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match
+ /200000014601212
+LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
+ rras 62000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601212
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-31-15-00-c-chartres-basket-feminin-espoir-csmf-pari
+ s-1@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20261031T150000
+DTEND;TZID=Europe/Paris:20261031T170000
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – CSMF PARIS - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs CSMF PARIS - 1\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet Chartres 280
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601235
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601235
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-07-20-00-avenir-sportif-d-orly-basket-c-chartres-ba
+ sket-femi@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:✈️ AVENIR SPORTIF D'ORLY BASKET – C'CHARTRES BASKET FEMININ -
+  ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs C'
+ CHARTRES BASKET FEMININ - ESPOIR\n\nGYMNASE ROBERT DESNOS (COSOM)\n📍 Ru
+ e des Hautes Bornes Orly 94310\n🚗 Waze : https://waze.com/ul?ll=48.7497
+ 7\,2.40904&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014
+ 601258
+LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601258
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-14-17-15-c-chartres-basket-feminin-espoir-ie-asa-we
+ yersheim-@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20261114T171500
+DTEND;TZID=Europe/Paris:20261114T191500
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – IE - ASA WEYERSHEIM - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs IE - ASA WEYERSHEIM - 1\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet Cha
+ rtres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf2/match/200000014601281
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601281
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-28-17-15-flammes-carolo-basket-ardennes-espoir-c-ch
+ artres-ba@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20261128T171500
+DTEND;TZID=Europe/Paris:20261128T191500
+SUMMARY:✈️ FLAMMES CAROLO BASKET ARDENNES - ESPOIR – C'CHARTRES BASKE
+ T FEMININ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ FLAMMES CAROLO BASKET ARDENNES - E
+ SPOIR vs C'CHARTRES BASKET FEMININ - ESPOIR\n\nSALLE BAYARD\n📍 Avenue L
+ ouis Tirman Charleville-MÃ©ziÃ¨res 08000\n🚗 Waze : https://waze.com
+ /ul?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/m
+ atch/200000014601307
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-MÃ©ziÃ¨res 0800
+ 0
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601307
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-12-05-15-00-c-chartres-basket-feminin-espoir-templeuve
+ -l-p@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20261205T150000
+DTEND;TZID=Europe/Paris:20261205T170000
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs TEMPLEUVE L P\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet Chartres 2800
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601331
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601331
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-09-20-00-entente-le-chesnay-versailles-78-basket-1-
+ c-chartre@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:✈️ ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – C'CHARTRES B
+ ASKET FEMININ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ENTENTE LE CHESNAY VERSAILLES 78 B
+ ASKET - 1 vs C'CHARTRES BASKET FEMININ - ESPOIR\n\nGYMNASE BEL AIR\n📍 A
+ venue de la BretÃ¨che Le Chesnay-Rocquencourt 78150\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.8295\,2.13173&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nf2/match/200000014601356
+LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
+  78150
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601356
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-16-17-15-c-chartres-basket-feminin-espoir-al-coquel
+ les-baske@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270116T171500
+DTEND;TZID=Europe/Paris:20270116T191500
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – AL  COQUELLES BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs AL  COQUELLES BASKET\n\nGYMNASE DU CRJS\n📍 Rue Jean Monnet Chartres
+  28000\n🚗 Waze : https://waze.com/ul?ll=48.45127\,1.50531&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf2/match/200000014601380
+LOCATION:GYMNASE DU CRJS\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601380
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-30-17-15-villeneuve-d-ascq-esb-espoir-c-chartres-ba
+ sket-femi@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270130T171500
+DTEND;TZID=Europe/Paris:20270130T191500
+SUMMARY:✈️ VILLENEUVE D'ASCQ ESB - ESPOIR – C'CHARTRES BASKET FEMININ
+  - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ VILLENEUVE D'ASCQ ESB - ESPOIR vs 
+ C'CHARTRES BASKET FEMININ - ESPOIR\n\nC.S. PALACIUM\n📍 Rue Breughel Vil
+ leneuve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\,3.13464
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf2/match/200000014601404
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601404
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-06-17-15-c-chartres-basket-feminin-espoir-usm-saran
+ -1@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270206T171500
+DTEND;TZID=Europe/Paris:20270206T191500
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – USM SARAN - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs USM SARAN - 1\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet Chartres 2800
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf2/match/200000014601428
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601428
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-13-20-00-dunkerque-malo-basket-club-1-c-chartres-ba
+ sket-femi@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:✈️ DUNKERQUE MALO BASKET CLUB - 1 – C'CHARTRES BASKET FEMININ
+  - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
+ C'CHARTRES BASKET FEMININ - ESPOIR\n\nMARC BURNOD\n📍 Rue Louis Braille 
+ Dunkerque 59140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.3861&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nf2/match/200000014601452
+LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601452
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-27-17-15-c-chartres-basket-feminin-espoir-arras-pay
+ s-d-artoi@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270227T171500
+DTEND;TZID=Europe/Paris:20270227T191500
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – ARRAS PAYS D'ARTOIS BAS
+ KET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs ARRAS PAYS D'ARTOIS BASKET\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet 
+ Chartres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf2/match/200000014601476
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601476
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-06-17-15-csmf-paris-1-c-chartres-basket-feminin-esp
+ oir@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270306T171500
+DTEND;TZID=Europe/Paris:20270306T191500
+SUMMARY:✈️ CSMF PARIS - 1 – C'CHARTRES BASKET FEMININ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ CSMF PARIS - 1 vs C'CHARTRES BASKE
+ T FEMININ - ESPOIR\n\nGymnase Victor Young Perez\n📍 Rue de Bercy Paris 
+ 75012\n🚗 Waze : https://waze.com/ul?ll=48.84715\,2.36911&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nf2/match/200000014601499
+LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601499
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-13-17-15-c-chartres-basket-feminin-espoir-avenir-sp
+ ortif-d-o@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270313T171500
+DTEND;TZID=Europe/Paris:20270313T191500
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – AVENIR SPORTIF D'ORLY B
+ ASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs AVENIR SPORTIF D'ORLY BASKET\n\nHALLE JEAN COCHET\n📍 Rue Jean Monne
+ t Chartres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf2/match/200000014601522
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601522
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-27-20-00-ie-asa-weyersheim-1-c-chartres-basket-femi
+ nin-espoi@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:✈️ IE - ASA WEYERSHEIM - 1 – C'CHARTRES BASKET FEMININ - ESPO
+ IR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs C'CHART
+ RES BASKET FEMININ - ESPOIR\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ
+ ©s Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf2/match/200000014601545
+LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601545
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-04-10-17-15-c-chartres-basket-feminin-espoir-flammes-c
+ arolo-bas@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270410T171500
+DTEND;TZID=Europe/Paris:20270410T191500
+SUMMARY:🏠 C'CHARTRES BASKET FEMININ - ESPOIR – FLAMMES CAROLO BASKET A
+ RDENNES - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES BASKET FEMININ - ESPOIR
+  vs FLAMMES CAROLO BASKET ARDENNES - ESPOIR\n\nHALLE JEAN COCHET\n📍 Rue
+  Jean Monnet Chartres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,
+ 1.50442&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014601
+ 571
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601571
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-04-17-20-00-templeuve-l-p-c-chartres-basket-feminin-es
+ poir@ffbb-agenda
+DTSTAMP:20260909T212526Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:✈️ TEMPLEUVE L P – C'CHARTRES BASKET FEMININ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs C'CHARTRES BASKET
+  FEMININ - ESPOIR\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templ
+ euve-en-PÃ©vÃ¨le 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3
+ .1731&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001460159
+ 5
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
+ ¨le 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601595
+END:VEVENT
+END:VCALENDAR

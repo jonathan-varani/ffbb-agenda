@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ELAN BEARNAIS PAU NORD-EST  [NMU18-ELITE –  – Poule C]
+X-WR-CALDESC:Matchs de ELAN BEARNAIS PAU NORD-EST – NMU18-ELITE – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-13-15-30-elan-bearnais-pau-nord-est-ie-ctc-
+ avenir-to@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:🏠 ELAN BEARNAIS PAU NORD-EST – IE - CTC AVENIR TOULOUSE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU NORD-EST
+  vs IE - CTC AVENIR TOULOUSE BASKET\n\nC. DE FORM\n📍 Avenue Pierre Mass
+ Ã© Pau 64000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navi
+ gate=yes\n\n📢 Arbitres : Clement MARQUEVIELLE\, Manon MESPLEDE\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/matc
+ h/200000014603176
+LOCATION:C. DE FORM\, Avenue Pierre MassÃ© Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03176
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-20-15-30-jsa-bordeaux-basket-1-elan-bearnai
+ s-pau-nor@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:✈️ JSA BORDEAUX BASKET - 1 – ELAN BEARNAIS PAU NORD-EST
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ JSA BORDEAUX BASKET - 1 vs
+  ELAN BEARNAIS PAU NORD-EST\n\nSALLE DES PEUPLIERS\n📍 AllÃ©e des Peup
+ liers Bordeaux 33000\n🚗 Waze : https://waze.com/ul?ll=44.83177\,-0.6108
+ 2&navigate=yes\n\n📢 Arbitres : Noa Jamet-Surjon\, Antoine KURZYDLO\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
+ /match/200000014603205
+LOCATION:SALLE DES PEUPLIERS\, AllÃ©e des Peupliers Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03205
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-09-27-15-30-limoges-csp-elan-bearnais-pau-nord
+ -est@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:✈️ LIMOGES CSP – ELAN BEARNAIS PAU NORD-EST
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ LIMOGES CSP vs ELAN BEARNA
+ IS PAU NORD-EST\n\nSALLE JEAN LE BAIL\n📍 Rue Jean Le Bail Limoges 87100
+ \n🚗 Waze : https://waze.com/ul?ll=45.83856\,1.22678&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu18-elite/match/200000014603234
+LOCATION:SALLE JEAN LE BAIL\, Rue Jean Le Bail Limoges 87100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03234
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-04-15-30-elan-bearnais-pau-nord-est-ie-ctc-
+ grand-dax@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:🏠 ELAN BEARNAIS PAU NORD-EST – IE - CTC GRAND DAX BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU NORD-EST
+  vs IE - CTC GRAND DAX BASKET\n\nC. DE FORM\n📍 Avenue Pierre MassÃ© P
+ au 64000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nmu18-elite/match/200000014603264
+LOCATION:C. DE FORM\, Avenue Pierre MassÃ© Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03264
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-10-11-15-30-boulazac-basket-dordogne-elan-bear
+ nais-pau-@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:✈️ BOULAZAC BASKET DORDOGNE – ELAN BEARNAIS PAU NORD-EST
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ BOULAZAC BASKET DORDOGNE v
+ s ELAN BEARNAIS PAU NORD-EST\n\nCOMPLEXE SPORTIF AGORA\n📍 Espace Agora 
+ Boulazac Isle Manoire 24750\n🚗 Waze : https://waze.com/ul?ll=45.18148\,
+ 0.76159&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000
+ 00014603296
+LOCATION:COMPLEXE SPORTIF AGORA\, Espace Agora Boulazac Isle Manoire 24750
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03296
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-01-15-30-ie-ctc-avenir-toulouse-basket-elan
+ -bearnais@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:✈️ IE - CTC AVENIR TOULOUSE BASKET – ELAN BEARNAIS PAU NORD-E
+ ST
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC AVENIR TOULOUSE B
+ ASKET vs ELAN BEARNAIS PAU NORD-EST\n\nSALLE E. DEWOITINE\n📍 Chemin de 
+ Garric Toulouse 31200\n🚗 Waze : https://waze.com/ul?ll=43.62128\,1.4084
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03326
+LOCATION:SALLE E. DEWOITINE\, Chemin de Garric Toulouse 31200
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03326
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-08-15-30-elan-bearnais-pau-nord-est-jsa-bor
+ deaux-bas@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:🏠 ELAN BEARNAIS PAU NORD-EST – JSA BORDEAUX BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU NORD-EST
+  vs JSA BORDEAUX BASKET - 1\n\nC. DE FORM\n📍 Avenue Pierre MassÃ© Pau
+  64000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nmu18-elite/match/200000014603355
+LOCATION:C. DE FORM\, Avenue Pierre MassÃ© Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03355
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-15-15-30-elan-bearnais-pau-nord-est-limoges
+ -csp@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 ELAN BEARNAIS PAU NORD-EST – LIMOGES CSP
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU NORD-EST
+  vs LIMOGES CSP\n\nC. DE FORM\n📍 Avenue Pierre MassÃ© Pau 64000\n🚗
+  Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=yes\n\n📢 Arb
+ itres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/competitions/nmu18-elite/match/200000014603384
+LOCATION:C. DE FORM\, Avenue Pierre MassÃ© Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03384
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-11-29-15-30-ie-ctc-grand-dax-basket-elan-bearn
+ ais-pau-n@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ IE - CTC GRAND DAX BASKET – ELAN BEARNAIS PAU NORD-EST
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ IE - CTC GRAND DAX BASKET 
+ vs ELAN BEARNAIS PAU NORD-EST\n\nSALLE DE CANDRESSE\n📍 Rue des Ãcole
+ s Candresse 40180\n🚗 Waze : https://waze.com/ul?ll=43.713\,-0.98014&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603414
+LOCATION:SALLE DE CANDRESSE\, Rue des Ãcoles Candresse 40180
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03414
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-c-2026-12-06-15-30-elan-bearnais-pau-nord-est-boulaza
+ c-basket-@ffbb-agenda
+DTSTAMP:20260909T214003Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:🏠 ELAN BEARNAIS PAU NORD-EST – BOULAZAC BASKET DORDOGNE
+DESCRIPTION:🏀 NMU18-ELITE – Poule C\n⚔️ ELAN BEARNAIS PAU NORD-EST
+  vs BOULAZAC BASKET DORDOGNE\n\nC. DE FORM\n📍 Avenue Pierre MassÃ© Pa
+ u 64000\n🚗 Waze : https://waze.com/ul?ll=43.31376\,-0.35762&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nmu18-elite/match/200000014603446
+LOCATION:C. DE FORM\, Avenue Pierre MassÃ© Pau 64000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03446
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,392 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – TOURS  [NM1 –  – Poule B]
+X-WR-CALDESC:Matchs de TOURS – NM1 – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-18-20-00-angers-1-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20260918T200000
+DTEND;TZID=Europe/Paris:20260918T220000
+SUMMARY:✈️ ANGERS - 1 – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ ANGERS - 1 vs TOURS\n\nSALLE JEAN 
+ BOUIN\n📍 Boulevard Pierre de Coubertin Angers 49000\n🚗 Waze : https:
+ //waze.com/ul?ll=47.46186\,-0.53251&navigate=yes\n\n📢 Arbitres : Faycal
+  SAHRAOUI\, Véronique VOYEAU\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/competitions/nm1/match/200000014596761
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596761
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-25-20-00-tours-lorient-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20260925T200000
+DTEND;TZID=Europe/Paris:20260925T220000
+SUMMARY:🏠 TOURS – LORIENT - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs LORIENT - 1\n\nHALLE MONC
+ ONSEIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com/
+ ul?ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/ma
+ tch/200000014596776
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596776
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-09-29-20-00-tours-bordeaux-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20260929T200000
+DTEND;TZID=Europe/Paris:20260929T220000
+SUMMARY:🏠 TOURS – BORDEAUX - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs BORDEAUX - 1\n\nHALLE MON
+ CONSEIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com
+ /ul?ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/m
+ atch/200000014596790
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596790
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-02-20-30-toulouse-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261002T203000
+DTEND;TZID=Europe/Paris:20261002T223000
+SUMMARY:✈️ TOULOUSE – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOULOUSE vs TOURS\n\nPALAIS DES SP
+ ORTS A. BROUAT\n📍 Rue du Canon d'Arcole Toulouse 31000\n🚗 Waze : htt
+ ps://waze.com/ul?ll=43.61207\,1.43621&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compe
+ titions/nm1/match/200000014596807
+LOCATION:PALAIS DES SPORTS A. BROUAT\, Rue du Canon d'Arcole Toulouse 31000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596807
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-09-20-00-tours-vitre@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261009T200000
+DTEND;TZID=Europe/Paris:20261009T220000
+SUMMARY:🏠 TOURS – VITRE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs VITRE\n\nHALLE MONCONSEIL
+ \n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com/ul?ll=
+ 47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match/2
+ 00000014596818
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596818
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-16-20-00-les-sables-d-olonne-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261016T200000
+DTEND;TZID=Europe/Paris:20261016T220000
+SUMMARY:✈️ LES SABLES D'OLONNE – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ LES SABLES D'OLONNE vs TOURS\n\nAR
+ ENA - LES SABLES D'OLONNE\n📍 Rue du Bonheur Les Sables-d'Olonne 85340\n
+ 🚗 Waze : https://waze.com/ul?ll=46.51714\,-1.75532&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014596832
+LOCATION:ARENA - LES SABLES D'OLONNE\, Rue du Bonheur Les Sables-d'Olonne 8
+ 5340
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596832
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-20-20-00-tours-chartres@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261020T200000
+DTEND;TZID=Europe/Paris:20261020T220000
+SUMMARY:🏠 TOURS – CHARTRES
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs CHARTRES\n\nHALLE MONCONS
+ EIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com/ul?
+ ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match
+ /200000014596846
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596846
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-23-20-00-laval-1-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261023T200000
+DTEND;TZID=Europe/Paris:20261023T220000
+SUMMARY:✈️ LAVAL - 1 – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ LAVAL - 1 vs TOURS\n\nSALLE POLYVA
+ LENTE\n📍 Place de HercÃ© Laval 53000\n🚗 Waze : https://waze.com/ul
+ ?ll=48.06597\,-0.77173&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/mat
+ ch/200000014596864
+LOCATION:SALLE POLYVALENTE\, Place de HercÃ© Laval 53000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596864
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-10-30-20-00-tours-challans-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261030T200000
+DTEND;TZID=Europe/Paris:20261030T220000
+SUMMARY:🏠 TOURS – CHALLANS - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs CHALLANS - 1\n\nHALLE MON
+ CONSEIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com
+ /ul?ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/m
+ atch/200000014596874
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596874
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-06-20-00-rennes-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261106T200000
+DTEND;TZID=Europe/Paris:20261106T220000
+SUMMARY:✈️ RENNES – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ RENNES vs TOURS\n\nSALLE COLETTE B
+ ESSON\n📍 Boulevard Albert 1er Rennes 35200\n🚗 Waze : https://waze.co
+ m/ul?ll=48.08907\,-1.6887&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/
+ match/200000014596891
+LOCATION:SALLE COLETTE BESSON\, Boulevard Albert 1er Rennes 35200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596891
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-11-20-00-tours-pa-le-france@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261111T200000
+DTEND;TZID=Europe/Paris:20261111T220000
+SUMMARY:🏠 TOURS – PÃLE FRANCE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs PÃLE FRANCE\n\nHALLE M
+ ONCONSEIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.c
+ om/ul?ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1
+ /match/200000014596902
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596902
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-17-20-00-fougeres-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261117T200000
+DTEND;TZID=Europe/Paris:20261117T220000
+SUMMARY:✈️ FOUGERES – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ FOUGERES vs TOURS\n\nSALLE JUSTY S
+ PECKER\n📍 Avenue Georges Pompidou FougÃ¨res 35300\n🚗 Waze : https:
+ //waze.com/ul?ll=48.34565\,-1.20166&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nm1/match/200000014596921
+LOCATION:SALLE JUSTY SPECKER\, Avenue Georges Pompidou FougÃ¨res 35300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596921
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-11-21-20-00-tours-tarbes-lourdes-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261121T200000
+DTEND;TZID=Europe/Paris:20261121T220000
+SUMMARY:🏠 TOURS – TARBES LOURDES - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs TARBES LOURDES - 1\n\nHAL
+ LE MONCONSEIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://wa
+ ze.com/ul?ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nm1/match/200000014596930
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596930
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-04-20-00-tours-angers-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261204T200000
+DTEND;TZID=Europe/Paris:20261204T220000
+SUMMARY:🏠 TOURS – ANGERS - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs ANGERS - 1\n\nHALLE MONCO
+ NSEIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com/u
+ l?ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/mat
+ ch/200000014596943
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596943
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-11-20-30-lorient-1-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261211T203000
+DTEND;TZID=Europe/Paris:20261211T223000
+SUMMARY:✈️ LORIENT - 1 – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ LORIENT - 1 vs TOURS\n\nPALAIS DES
+  SPORTS KERVARIC\n📍 Rue Alfred Dreyfus Lorient 56100\n🚗 Waze : https
+ ://waze.com/ul?ll=47.74791\,-3.39003&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nm1/match/200000014596958
+LOCATION:PALAIS DES SPORTS KERVARIC\, Rue Alfred Dreyfus Lorient 56100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596958
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-15-20-00-bordeaux-1-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261215T200000
+DTEND;TZID=Europe/Paris:20261215T220000
+SUMMARY:✈️ BORDEAUX - 1 – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ BORDEAUX - 1 vs TOURS\n\nPALAIS DE
+ S SPORTS\n📍 Place de la Ferme de Richemont Bordeaux 33000\n🚗 Waze : 
+ https://waze.com/ul?ll=44.83568\,-0.57212&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm1/match/200000014596972
+LOCATION:PALAIS DES SPORTS\, Place de la Ferme de Richemont Bordeaux 33000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596972
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2026-12-18-20-00-tours-toulouse@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20261218T200000
+DTEND;TZID=Europe/Paris:20261218T220000
+SUMMARY:🏠 TOURS – TOULOUSE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs TOULOUSE\n\nHALLE MONCONS
+ EIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com/ul?
+ ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match
+ /200000014596989
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596989
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-08-20-30-vitre-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270108T203000
+DTEND;TZID=Europe/Paris:20270108T223000
+SUMMARY:✈️ VITRE – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ VITRE vs TOURS\n\nSALLE POULTIERE 
+ AURORE DE VITRE\n📍 Rue de la PoultiÃ¨re VitrÃ© 35500\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.12472\,-1.19931&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nm1/match/200000014597000
+LOCATION:SALLE POULTIERE AURORE DE VITRE\, Rue de la PoultiÃ¨re VitrÃ© 
+ 35500
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597000
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-15-20-00-tours-les-sables-d-olonne@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270115T200000
+DTEND;TZID=Europe/Paris:20270115T220000
+SUMMARY:🏠 TOURS – LES SABLES D'OLONNE
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs LES SABLES D'OLONNE\n\nHA
+ LLE MONCONSEIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://w
+ aze.com/ul?ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competition
+ s/nm1/match/200000014597014
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597014
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-19-20-30-chartres-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270119T203000
+DTEND;TZID=Europe/Paris:20270119T223000
+SUMMARY:✈️ CHARTRES – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CHARTRES vs TOURS\n\nHALLE JEAN CO
+ CHET\n📍 Rue Jean Monnet Chartres 28000\n🚗 Waze : https://waze.com/ul
+ ?ll=48.45027\,1.50442&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/matc
+ h/200000014597028
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597028
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-23-20-00-tours-laval-1@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270123T200000
+DTEND;TZID=Europe/Paris:20270123T220000
+SUMMARY:🏠 TOURS – LAVAL - 1
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs LAVAL - 1\n\nHALLE MONCON
+ SEIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com/ul
+ ?ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/matc
+ h/200000014597046
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597046
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-01-29-20-30-challans-1-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270129T203000
+DTEND;TZID=Europe/Paris:20270129T223000
+SUMMARY:✈️ CHALLANS - 1 – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ CHALLANS - 1 vs TOURS\n\nSALLE VRI
+ GNAUD A CHALLANS\n📍 Boulevard Jean Yole Challans 85300\n🚗 Waze : htt
+ ps://waze.com/ul?ll=46.84111\,-1.87667&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nm1/match/200000014597056
+LOCATION:SALLE VRIGNAUD A CHALLANS\, Boulevard Jean Yole Challans 85300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597056
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-05-20-00-tours-rennes@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270205T200000
+DTEND;TZID=Europe/Paris:20270205T220000
+SUMMARY:🏠 TOURS – RENNES
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs RENNES\n\nHALLE MONCONSEI
+ L\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com/ul?ll
+ =47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match/2
+ 00000014597073
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597073
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-12-19-00-pa-le-france-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270212T190000
+DTEND;TZID=Europe/Paris:20270212T210000
+SUMMARY:✈️ PÃLE FRANCE – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ PÃLE FRANCE vs TOURS\n\nINSEP C
+ .S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nm1/match/200000014597084
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597084
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-16-20-00-tours-fougeres@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270216T200000
+DTEND;TZID=Europe/Paris:20270216T220000
+SUMMARY:🏠 TOURS – FOUGERES
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TOURS vs FOUGERES\n\nHALLE MONCONS
+ EIL\n📍 Rue de la Chapelle Tours 37100\n🚗 Waze : https://waze.com/ul?
+ ll=47.42071\,0.69992&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match
+ /200000014597103
+LOCATION:HALLE MONCONSEIL\, Rue de la Chapelle Tours 37100
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597103
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-b-2027-02-19-20-00-tarbes-lourdes-1-tours@ffbb-agenda
+DTSTAMP:20260909T213215Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:✈️ TARBES LOURDES - 1 – TOURS
+DESCRIPTION:🏀 NM1 – Poule B\n⚔️ TARBES LOURDES - 1 vs TOURS\n\nPAL
+ AIS DES SPORTS\n📍 Quai de l'Adour Tarbes 65000\n🚗 Waze : https://waz
+ e.com/ul?ll=43.23015\,0.08784&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/
+ nm1/match/200000014597112
+LOCATION:PALAIS DES SPORTS\, Quai de l'Adour Tarbes 65000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597112
+END:VEVENT
+END:VCALENDAR

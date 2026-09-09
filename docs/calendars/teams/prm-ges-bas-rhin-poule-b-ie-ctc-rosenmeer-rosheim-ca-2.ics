@@ -1,0 +1,416 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC ROSENMEER - ROSHEIM CA - 2  [PRM – GES – Poule B]
+X-WR-CALDESC:Matchs de IE - CTC ROSENMEER - ROSHEIM CA - 2 – PRM – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-09-26-18-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -ent-barr@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20260926T183000
+DTEND;TZID=Europe/Paris:20260926T203000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – ENT-BARRGERT/EPFIG - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs ENT-BARRGERT/EPFIG - 1\n\nSALLE MUNICIPALE\n📍
+  Rue de l'Église Rosheim 67560\n🚗 Waze : https://waze.com/ul?ll=48.494
+ 18\,7.46665&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/prm/match/200000014659897
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659897
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-10-04-17-00-ie-ctc-sow-westhouse-e-s-1-ie
+ -ctc-rose@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20261004T170000
+DTEND;TZID=Europe/Paris:20261004T190000
+SUMMARY:✈️ IE - CTC SOW - WESTHOUSE E.S. - 1 – IE - CTC ROSENMEER - R
+ OSHEIM CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC SOW 
+ - WESTHOUSE E.S. - 1 vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nSALLE POLYV
+ ALENTE\n📍 Rue du Stade Westhouse 67230\n🚗 Waze : https://waze.com/ul
+ ?ll=48.40179\,7.58972&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 67/competitions/prm/match/200000014659903
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Westhouse 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659903
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-10-11-16-30-ie-ctc-marle-soultz-soultz-le
+ s-bains-a@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20261011T163000
+DTEND;TZID=Europe/Paris:20261011T183000
+SUMMARY:✈️ IE - CTC MARLE-SOULTZ - SOULTZ LES BAINS A.S.L. - 1 – IE -
+  CTC ROSENMEER - ROSHEIM CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC MARL
+ E-SOULTZ - SOULTZ LES BAINS A.S.L. - 1 vs IE - CTC ROSENMEER - ROSHEIM CA 
+ - 2\n\nSALLE POLYVALENTE\n📍 Rue de Saverne Soultz-les-Bains 67120\n🚗
+  Waze : https://waze.com/ul?ll=48.57392\,7.48501&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0067/competitions/prm/match/200000014659909
+LOCATION:SALLE POLYVALENTE\, Rue de Saverne Soultz-les-Bains 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659909
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-11-07-20-30-eschau-bc-1-ie-ctc-rosenmeer-
+ rosheim-c@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ ESCHAU BC - 1 – IE - CTC ROSENMEER - ROSHEIM CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ ESCHAU BC - 1
+  vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nCENTRE SPORTIF CULTUREL\n📍 P
+ lace des Fêtes Eschau 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7
+ .72053&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /prm/match/200000014659915
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659915
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-11-15-17-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -ohnheim-@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20261115T173000
+DTEND;TZID=Europe/Paris:20261115T193000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – OHNHEIM C.S.S.A. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs OHNHEIM C.S.S.A. - 1\n\nSALLE MUNICIPALE\n📍 R
+ ue de l'Église Rosheim 67560\n🚗 Waze : https://waze.com/ul?ll=48.49418
+ \,7.46665&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/prm/match/200000014659921
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659921
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-11-21-20-30-eckbolsheim-bb-1-ie-ctc-rosen
+ meer-rosh@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:✈️ ECKBOLSHEIM BB - 1 – IE - CTC ROSENMEER - ROSHEIM CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ ECKBOLSHEIM B
+ B - 1 vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nGYMNASE KRAFFT\n📍 Rue d
+ u Stade Eckbolsheim 67201\n🚗 Waze : https://waze.com/ul?ll=48.5767\,7.6
+ 8991&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/p
+ rm/match/200000014659927
+LOCATION:GYMNASE KRAFFT\, Rue du Stade Eckbolsheim 67201
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659927
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-11-29-17-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -schaeffe@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20261129T173000
+DTEND;TZID=Europe/Paris:20261129T193000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – SCHAEFFERSHEIM A.S.L.C
+ . - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs SCHAEFFERSHEIM A.S.L.C. - 2\n\nSALLE POLYVALENTE
+  ESPACE VALLON\n📍 Rue du Moulin Griesheim-près-Molsheim 67870\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.50146\,7.53104&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0067/competitions/prm/match/200000014659930
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659930
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-12-05-20-30-erstein-bc-1-ie-ctc-rosenmeer
+ -rosheim-@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ ERSTEIN BC - 1 – IE - CTC ROSENMEER - ROSHEIM CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ ERSTEIN BC - 
+ 1 vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nGYMNASE MARGUERITE YOURCENAR\n
+ 📍 Rue Victor Schoelcher Erstein 67150\n🚗 Waze : https://waze.com/ul?
+ ll=48.42265\,7.64994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/prm/match/200000014659935
+LOCATION:GYMNASE MARGUERITE YOURCENAR\, Rue Victor Schoelcher Erstein 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659935
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-12-12-20-00-saint-joseph-strasbourg-3-ie-
+ ctc-rosen@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:✈️ SAINT JOSEPH - STRASBOURG - 3 – IE - CTC ROSENMEER - ROSHE
+ IM CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ SAINT JOSEPH 
+ - STRASBOURG - 3 vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nCENTRE SPORTIF 
+ ESPLANADE\n📍 Rue Louvois Strasbourg 67000\n🚗 Waze : https://waze.com
+ /ul?ll=48.577\,7.76202&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/prm/match/200000014659943
+LOCATION:CENTRE SPORTIF ESPLANADE\, Rue Louvois Strasbourg 67000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659943
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2026-12-19-20-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -duttlenh@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20261219T203000
+DTEND;TZID=Europe/Paris:20261219T223000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – DUTTLENHEIM LC - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs DUTTLENHEIM LC - 1\n\nSALLE POLYVALENTE ESPACE V
+ ALLON\n📍 Rue du Moulin Griesheim-près-Molsheim 67870\n🚗 Waze : http
+ s://waze.com/ul?ll=48.50146\,7.53104&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0067/competitions/prm/match/200000014659949
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659949
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-01-15-20-30-geispolsheim-c-j-s-3-ie-ctc-r
+ osenmeer-@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270115T203000
+DTEND;TZID=Europe/Paris:20270115T223000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. - 3 – IE - CTC ROSENMEER - ROSHEIM CA 
+ - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ GEISPOLSHEIM 
+ C.J.S. - 3 vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nCENTRE SPORTIF\n📍 
+ Rue de la Porte Basse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?
+ ll=48.51681\,7.65343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/006
+ 7/competitions/prm/match/200000014659954
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659954
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-01-23-18-30-ent-barrgert-epfig-1-ie-ctc-r
+ osenmeer-@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270123T183000
+DTEND;TZID=Europe/Paris:20270123T203000
+SUMMARY:✈️ ENT-BARRGERT/EPFIG - 1 – IE - CTC ROSENMEER - ROSHEIM CA -
+  2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ ENT-BARRGERT/
+ EPFIG - 1 vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nHALL DU SIVOM\n📍 Ru
+ e du Lycée Barr 67140\n🚗 Waze : https://waze.com/ul?ll=48.4098\,7.4579
+ 4&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659963
+LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659963
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-01-31-17-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -ie-ctc-s@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270131T173000
+DTEND;TZID=Europe/Paris:20270131T193000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – IE - CTC SOW - WESTHOU
+ SE E.S. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs IE - CTC SOW - WESTHOUSE E.S. - 1\n\nSALLE POLYV
+ ALENTE ESPACE VALLON\n📍 Rue du Moulin Griesheim-près-Molsheim 67870\n
+ 🚗 Waze : https://waze.com/ul?ll=48.50146\,7.53104&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0067/competitions/prm/match/200000014659969
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659969
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-02-07-17-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -ie-ctc-m@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270207T173000
+DTEND;TZID=Europe/Paris:20270207T193000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – IE - CTC MARLE-SOULTZ 
+ - SOULTZ LES BAINS A.S.L. - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs IE - CTC MARLE-SOULTZ - SOULTZ LES BAINS A.S.L. 
+ - 1\n\nSALLE MUNICIPALE\n📍 Rue de l'Église Rosheim 67560\n🚗 Waze : 
+ https://waze.com/ul?ll=48.49418\,7.46665&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0067/competitions/prm/match/200000014659975
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659975
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-02-14-17-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -eschau-b@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270214T173000
+DTEND;TZID=Europe/Paris:20270214T193000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – ESCHAU BC - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs ESCHAU BC - 1\n\nSALLE MUNICIPALE\n📍 Rue de l
+ 'Église Rosheim 67560\n🚗 Waze : https://waze.com/ul?ll=48.49418\,7.466
+ 65&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm
+ /match/200000014659981
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659981
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-03-13-20-00-ohnheim-c-s-s-a-1-ie-ctc-rose
+ nmeer-ros@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:✈️ OHNHEIM C.S.S.A. - 1 – IE - CTC ROSENMEER - ROSHEIM CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ OHNHEIM C.S.S
+ .A. - 1 vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nCENTRE SPORTIF ET CULTUR
+ EL\n📍 Place des Fêtes Fegersheim 67640\n🚗 Waze : https://waze.com/u
+ l?ll=48.49126\,7.68302&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/prm/match/200000014659987
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659987
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-03-21-17-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -eckbolsh@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270321T173000
+DTEND;TZID=Europe/Paris:20270321T193000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – ECKBOLSHEIM BB - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs ECKBOLSHEIM BB - 1\n\nSALLE MUNICIPALE\n📍 Rue
+  de l'Église Rosheim 67560\n🚗 Waze : https://waze.com/ul?ll=48.49418\,
+ 7.46665&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/prm/match/200000014659993
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659993
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-03-27-20-30-schaeffersheim-a-s-l-c-2-ie-c
+ tc-rosenm@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:✈️ SCHAEFFERSHEIM A.S.L.C. - 2 – IE - CTC ROSENMEER - ROSHEIM
+  CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ SCHAEFFERSHEI
+ M A.S.L.C. - 2 vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nSALLE EUGENE MART
+ Z\n📍 Rue Belle Vue Schaeffersheim 67150\n🚗 Waze : https://waze.com/u
+ l?ll=48.42801\,7.61627&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/prm/match/200000014659996
+LOCATION:SALLE EUGENE MARTZ\, Rue Belle Vue Schaeffersheim 67150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014659996
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-04-11-17-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -erstein-@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270411T173000
+DTEND;TZID=Europe/Paris:20270411T193000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – ERSTEIN BC - 1
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs ERSTEIN BC - 1\n\nSALLE POLYVALENTE ESPACE VALLO
+ N\n📍 Rue du Moulin Griesheim-près-Molsheim 67870\n🚗 Waze : https://
+ waze.com/ul?ll=48.50146\,7.53104&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0067/competitions/prm/match/200000014660001
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014660001
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-05-01-20-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -saint-jo@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270501T203000
+DTEND;TZID=Europe/Paris:20270501T223000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – SAINT JOSEPH - STRASBO
+ URG - 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs SAINT JOSEPH - STRASBOURG - 3\n\nSALLE MUNICIPAL
+ E\n📍 Rue de l'Église Rosheim 67560\n🚗 Waze : https://waze.com/ul?ll
+ =48.49418\,7.46665&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/prm/match/200000014660009
+LOCATION:SALLE MUNICIPALE\, Rue de l'Église Rosheim 67560
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014660009
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-05-15-20-00-duttlenheim-lc-1-ie-ctc-rosen
+ meer-rosh@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270515T200000
+DTEND;TZID=Europe/Paris:20270515T220000
+SUMMARY:✈️ DUTTLENHEIM LC - 1 – IE - CTC ROSENMEER - ROSHEIM CA - 2
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ DUTTLENHEIM L
+ C - 1 vs IE - CTC ROSENMEER - ROSHEIM CA - 2\n\nSALLE DE LA CONCORDE\n📍
+  Rue du Stade Duttlenheim 67120\n🚗 Waze : https://waze.com/ul?ll=48.531
+ 14\,7.56924&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competi
+ tions/prm/match/200000014660015
+LOCATION:SALLE DE LA CONCORDE\, Rue du Stade Duttlenheim 67120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014660015
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-bas-rhin-poule-b-2027-05-22-20-30-ie-ctc-rosenmeer-rosheim-ca-2
+ -geispols@ffbb-agenda
+DTSTAMP:20260909T201501Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:🏠 IE - CTC ROSENMEER - ROSHEIM CA - 2 – GEISPOLSHEIM C.J.S. - 
+ 3
+DESCRIPTION:🏀 PRM – GES – Bas-Rhin – Poule B\n⚔️ IE - CTC ROSE
+ NMEER - ROSHEIM CA - 2 vs GEISPOLSHEIM C.J.S. - 3\n\nSALLE POLYVALENTE ESP
+ ACE VALLON\n📍 Rue du Moulin Griesheim-près-Molsheim 67870\n🚗 Waze :
+  https://waze.com/ul?ll=48.50146\,7.53104&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0067/competitions/prm/match/200000014660020
+LOCATION:SALLE POLYVALENTE ESPACE VALLON\, Rue du Moulin Griesheim-près-Mo
+ lsheim 67870
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/prm/
+ match/200000014660020
+END:VEVENT
+END:VCALENDAR

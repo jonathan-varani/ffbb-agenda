@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SCHWEIGHOUSE/OHLUNGEN B.C. - 1  [DMU18 – GES – Poule D]
+X-WR-CALDESC:Matchs de SCHWEIGHOUSE/OHLUNGEN B.C. - 1 – DMU18 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-09-13-14-00-schweighouse-ohlungen-b-c-1
+ -schiltig@ffbb-agenda
+DTSTAMP:20260909T201654Z
+DTSTART;TZID=Europe/Paris:20260913T140000
+DTEND;TZID=Europe/Paris:20260913T160000
+SUMMARY:🏠 SCHWEIGHOUSE/OHLUNGEN B.C. - 1 – SCHILTIGHEIM AU - 2
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ SCHWEIGHOUS
+ E/OHLUNGEN B.C. - 1 vs SCHILTIGHEIM AU - 2\n\nCENTRE ROBERT KAEUFLING\n
+ 📍 Rue des Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https://waze
+ .com/ul?ll=48.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0067/competitions/dmu18/match/200000014660839
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660839
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-09-20-10-30-schweighouse-ohlungen-b-c-1
+ -basket-c@ffbb-agenda
+DTSTAMP:20260909T201654Z
+DTSTART;TZID=Europe/Paris:20260920T103000
+DTEND;TZID=Europe/Paris:20260920T123000
+SUMMARY:🏠 SCHWEIGHOUSE/OHLUNGEN B.C. - 1 – BASKET CLUB HOENHEIM
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ SCHWEIGHOUS
+ E/OHLUNGEN B.C. - 1 vs BASKET CLUB HOENHEIM\n\nCENTRE ROBERT KAEUFLING\n
+ 📍 Rue des Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https://waze
+ .com/ul?ll=48.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0067/competitions/dmu18/match/200000014660841
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660841
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-09-26-16-00-vendenheim-bc-2-schweighous
+ e-ohlunge@ffbb-agenda
+DTSTAMP:20260909T201654Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
+SUMMARY:✈️ VENDENHEIM BC - 2 – SCHWEIGHOUSE/OHLUNGEN B.C. - 1
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ VENDENHEIM 
+ BC - 2 vs SCHWEIGHOUSE/OHLUNGEN B.C. - 1\n\nGYMNASE CLAUDE MAILFERT\n📍 
+ Rue Charles Gounod Vendenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48
+ .66623\,7.71054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu18/match/200000014660846
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660846
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-10-03-18-30-unitas-brumath-basket-schwe
+ ighouse-o@ffbb-agenda
+DTSTAMP:20260909T201654Z
+DTSTART;TZID=Europe/Paris:20261003T183000
+DTEND;TZID=Europe/Paris:20261003T203000
+SUMMARY:✈️ UNITAS BRUMATH BASKET – SCHWEIGHOUSE/OHLUNGEN B.C. - 1
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ UNITAS BRUM
+ ATH BASKET vs SCHWEIGHOUSE/OHLUNGEN B.C. - 1\n\nGYMNASE DU COLLEGE\n📍 R
+ ue du Collège Brumath 67170\n🚗 Waze : https://waze.com/ul?ll=48.73189\
+ ,7.71484&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu18/match/200000014660849
+LOCATION:GYMNASE DU COLLEGE\, Rue du Collège Brumath 67170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660849
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-bas-rhin-poule-d-2026-10-10-18-30-schweighouse-ohlungen-b-c-1
+ -asa-souf@ffbb-agenda
+DTSTAMP:20260909T201654Z
+DTSTART;TZID=Europe/Paris:20261010T183000
+DTEND;TZID=Europe/Paris:20261010T203000
+SUMMARY:🏠 SCHWEIGHOUSE/OHLUNGEN B.C. - 1 – ASA SOUFFELWEYERSHEIM - 3
+DESCRIPTION:🏀 DMU18 – GES – Bas-Rhin – Poule D\n⚔️ SCHWEIGHOUS
+ E/OHLUNGEN B.C. - 1 vs ASA SOUFFELWEYERSHEIM - 3\n\nCENTRE ROBERT KAEUFLIN
+ G\n📍 Rue des Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https://w
+ aze.com/ul?ll=48.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0067/competitions/dmu18/match/200000014660851
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 8/match/200000014660851
+END:VEVENT
+END:VCALENDAR

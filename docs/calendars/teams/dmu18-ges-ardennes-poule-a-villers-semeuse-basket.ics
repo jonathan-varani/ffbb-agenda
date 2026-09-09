@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VILLERS SEMEUSE BASKET  [DMU18 – GES – Poule A]
+X-WR-CALDESC:Matchs de VILLERS SEMEUSE BASKET – DMU18 – GES – Ardennes – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-09-26-00-00-villers-semeuse-basket-bask
+ et-club-s@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 VILLERS SEMEUSE BASKET – BASKET CLUB SEDANAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET vs BASKET CLUB SEDANAIS\n\nCOSEC\n📍 Avenue Jean Jaurès Vil
+ lers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.74446&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/m
+ atch/200000014734445
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734445
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-10-03-00-00-union-sportive-de-laifour-v
+ illers-se@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ UNION SPORTIVE DE LAIFOUR – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ UNION SPORT
+ IVE DE LAIFOUR vs VILLERS SEMEUSE BASKET\n\nSALLE J.GILLARD\n📍 Rue de l
+ a Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.91125\,4.69269
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18
+ /match/200000014734448
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734448
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-10-10-00-00-villers-semeuse-basket-ea-v
+ aillante-@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 VILLERS SEMEUSE BASKET – EA VAILLANTE VRIGNE AUX BOIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET vs EA VAILLANTE VRIGNE AUX BOIS\n\nCOSEC\n📍 Avenue Jean Jau
+ rès Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4
+ .74446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions
+ /dmu18/match/200000014734455
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734455
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-10-17-00-00-villers-semeuse-basket-bask
+ et-club-m@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 VILLERS SEMEUSE BASKET – BASKET CLUB MOUZONNAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET vs BASKET CLUB MOUZONNAIS\n\nCOSEC\n📍 Avenue Jean Jaurès V
+ illers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.74446
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18
+ /match/200000014734458
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734458
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-11-07-00-00-etoile-de-charleville-mezie
+ res-ville@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ ETOILE DE C
+ HARLEVILLE MEZIERES vs VILLERS SEMEUSE BASKET\n\nSALLE DUBOIS CRANCE\n📍
+  Rue Dubois-Crancé Charleville-Mézières 08000\n🚗 Waze : https://waze
+ .com/ul?ll=49.77095\,4.71489&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0008/competitions/dmu18/match/200000014734460
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé Charleville-Mézières 08
+ 000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734460
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-11-14-00-00-rethel-sportif-basket-ville
+ rs-semeus@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ RETHEL SPORTIF BASKET – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ RETHEL SPOR
+ TIF BASKET vs VILLERS SEMEUSE BASKET\n\nGYMNASE MERMOZ\n📍 Rue Normandie
+ -Niémen Rethel 08300\n🚗 Waze : https://waze.com/ul?ll=49.5165\,4.37261
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18
+ /match/200000014734467
+LOCATION:GYMNASE MERMOZ\, Rue Normandie-Niémen Rethel 08300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734467
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-11-21-00-00-basket-club-de-haraucourt-v
+ illers-se@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ BASKET CLUB DE HARAUCOURT – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs VILLERS SEMEUSE BASKET\n\nSALLE MUNICIPALE\n📍 Rue de 
+ la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4.9
+ 6115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/d
+ mu18/match/200000014734469
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734469
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-11-28-00-00-basket-club-sedanais-viller
+ s-semeuse@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ BASKET CLUB SEDANAIS – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  SEDANAIS vs VILLERS SEMEUSE BASKET\n\nCOSEC\n📍 Rue Ancienne Porte de B
+ alan Sedan 08200\n🚗 Waze : https://waze.com/ul?ll=49.69659\,4.95307&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/mat
+ ch/200000014734473
+LOCATION:COSEC\, Rue Ancienne Porte de Balan Sedan 08200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734473
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-12-05-00-00-villers-semeuse-basket-unio
+ n-sportiv@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 VILLERS SEMEUSE BASKET – UNION SPORTIVE DE LAIFOUR
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET vs UNION SPORTIVE DE LAIFOUR\n\nCOSEC\n📍 Avenue Jean Jaurè
+ s Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.74
+ 446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm
+ u18/match/200000014734476
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734476
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-12-12-00-00-ea-vaillante-vrigne-aux-boi
+ s-villers@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ EA VAILLANTE VRIGNE AUX BOIS – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ EA VAILLANT
+ E VRIGNE AUX BOIS vs VILLERS SEMEUSE BASKET\n\nSALLE BEREGOVOY\n📍 Avenu
+ e Jean Jaurès Vrigne aux Bois 08330\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.73658\,4.85224&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/
+ competitions/dmu18/match/200000014734483
+LOCATION:SALLE BEREGOVOY\, Avenue Jean Jaurès Vrigne aux Bois 08330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734483
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2027-01-09-00-00-basket-club-mouzonnais-vill
+ ers-semeu@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20270109T000000
+DTEND;TZID=Europe/Paris:20270109T020000
+SUMMARY:✈️ BASKET CLUB MOUZONNAIS – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  MOUZONNAIS vs VILLERS SEMEUSE BASKET\n\nGYMNASE DE MOUZON\n📍 Rue Jean-
+ Claude Stolz Mouzon 08210\n🚗 Waze : https://waze.com/ul?ll=49.60599\,5.
+ 07328&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/
+ dmu18/match/200000014734486
+LOCATION:GYMNASE DE MOUZON\, Rue Jean-Claude Stolz Mouzon 08210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734486
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2027-01-16-00-00-villers-semeuse-basket-etoi
+ le-de-cha@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 VILLERS SEMEUSE BASKET – ETOILE DE CHARLEVILLE MEZIERES
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET vs ETOILE DE CHARLEVILLE MEZIERES\n\nCOSEC\n📍 Avenue Jean J
+ aurès Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\
+ ,4.74446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitio
+ ns/dmu18/match/200000014734488
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734488
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2027-01-23-00-00-villers-semeuse-basket-reth
+ el-sporti@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 VILLERS SEMEUSE BASKET – RETHEL SPORTIF BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET vs RETHEL SPORTIF BASKET\n\nCOSEC\n📍 Avenue Jean Jaurès Vi
+ llers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.74446&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/
+ match/200000014734495
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734495
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2027-01-30-00-00-villers-semeuse-basket-bask
+ et-club-d@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:🏠 VILLERS SEMEUSE BASKET – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET vs BASKET CLUB DE HARAUCOURT\n\nCOSEC\n📍 Avenue Jean Jaurè
+ s Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.74
+ 446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm
+ u18/match/200000014734497
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734497
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC KUNHEIM - 1  [DXU9 – GES – Poule F]
+X-WR-CALDESC:Matchs de BC KUNHEIM - 1 – DXU9 – GES – Haut-Rhin – Poule F
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-09-26-13-30-fcsl-eguisheim-2-bc-kunheim
+ -1@ffbb-agenda
+DTSTAMP:20260909T203414Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:✈️ FCSL EGUISHEIM - 2 – BC KUNHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ FCSL EGUISH
+ EIM - 2 vs BC KUNHEIM - 1\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinte
+ rzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31
+ 428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dx
+ u9/match/200000014560846
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560846
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-10-03-13-00-bc-kunheim-1-ie-ctc-de-l-il
+ l-2@ffbb-agenda
+DTSTAMP:20260909T203414Z
+DTSTART;TZID=Europe/Paris:20261003T130000
+DTEND;TZID=Europe/Paris:20261003T150000
+SUMMARY:🏠 BC KUNHEIM - 1 – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ BC KUNHEIM 
+ - 1 vs IE - CTC DE L'ILL - 2\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kun
+ heim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000
+ 0014560850
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560850
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-10-10-13-30-csc-rustenhart-bc-kunheim-1
+ @ffbb-agenda
+DTSTAMP:20260909T203414Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:✈️ CSC RUSTENHART – BC KUNHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ CSC RUSTENH
+ ART vs BC KUNHEIM - 1\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Rustenh
+ art 68740\n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/2000000
+ 14560854
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560854
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-10-17-17-00-bc-kunheim-1-colmar-basket-
+ 3@ffbb-agenda
+DTSTAMP:20260909T203414Z
+DTSTART;TZID=Europe/Paris:20261017T170000
+DTEND;TZID=Europe/Paris:20261017T190000
+SUMMARY:🏠 BC KUNHEIM - 1 – COLMAR BASKET - 3
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ BC KUNHEIM 
+ - 1 vs COLMAR BASKET - 3\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim
+  68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/200000014
+ 560858
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560858
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-11-08-13-30-as-horbourg-wihr-bc-kunheim
+ -1@ffbb-agenda
+DTSTAMP:20260909T203414Z
+DTSTART;TZID=Europe/Paris:20261108T133000
+DTEND;TZID=Europe/Paris:20261108T153000
+SUMMARY:✈️ AS HORBOURG-WIHR – BC KUNHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ AS HORBOURG
+ -WIHR vs BC KUNHEIM - 1\n\nSALLE POLY. ALFRED KASTLER\n📍 Rue de Lorrain
+ e Horbourg-Wihr 68180\n🚗 Waze : https://waze.com/ul?ll=48.08437\,7.3929
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560866
+LOCATION:SALLE POLY. ALFRED KASTLER\, Rue de Lorraine Horbourg-Wihr 68180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560866
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-11-14-13-30-bc-kunheim-1-cb-kientzheim@
+ ffbb-agenda
+DTSTAMP:20260909T203414Z
+DTSTART;TZID=Europe/Paris:20261114T133000
+DTEND;TZID=Europe/Paris:20261114T153000
+SUMMARY:🏠 BC KUNHEIM - 1 – CB KIENTZHEIM
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ BC KUNHEIM 
+ - 1 vs CB KIENTZHEIM\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 683
+ 20\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000001456
+ 0870
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560870
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-11-21-15-00-bc-kunheim-1-guebwiller-as-
+ saint-leg@ffbb-agenda
+DTSTAMP:20260909T203414Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T170000
+SUMMARY:🏠 BC KUNHEIM - 1 – GUEBWILLER AS SAINT LEGER - 2
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ BC KUNHEIM 
+ - 1 vs GUEBWILLER AS SAINT LEGER - 2\n\nSALLE DES SPORTS\n📍 Rue Jules V
+ erne Kunheim 68320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/mat
+ ch/200000014560877
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560877
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-12-05-00-00-bc-kunheim-2-bc-kunheim-1@f
+ fbb-agenda
+DTSTAMP:20260909T203414Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ BC KUNHEIM - 2 – BC KUNHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ BC KUNHEIM 
+ - 2 vs BC KUNHEIM - 1\n\nSALLE DES SPORTS\n📍 Rue Jules Verne Kunheim 68
+ 320\n🚗 Waze : https://waze.com/ul?ll=48.0774\,7.53638&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9/match/20000001456
+ 0881
+LOCATION:SALLE DES SPORTS\, Rue Jules Verne Kunheim 68320
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560881
+END:VEVENT
+BEGIN:VEVENT
+UID:dxu9-ges-haut-rhin-poule-f-2026-12-12-13-30-fcsl-eguisheim-3-bc-kunheim
+ -1@ffbb-agenda
+DTSTAMP:20260909T203414Z
+DTSTART;TZID=Europe/Paris:20261212T133000
+DTEND;TZID=Europe/Paris:20261212T153000
+SUMMARY:✈️ FCSL EGUISHEIM - 3 – BC KUNHEIM - 1
+DESCRIPTION:🏀 DXU9 – GES – Haut-Rhin – Poule F\n⚔️ FCSL EGUISH
+ EIM - 3 vs BC KUNHEIM - 1\n\nCENTRE SPORTIF LA TUILERIE\n📍 Rue de Hinte
+ rzarten Eguisheim 68420\n🚗 Waze : https://waze.com/ul?ll=48.04439\,7.31
+ 428&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dx
+ u9/match/200000014560886
+LOCATION:CENTRE SPORTIF LA TUILERIE\, Rue de Hinterzarten Eguisheim 68420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dxu9
+ /match/200000014560886
+END:VEVENT
+END:VCALENDAR

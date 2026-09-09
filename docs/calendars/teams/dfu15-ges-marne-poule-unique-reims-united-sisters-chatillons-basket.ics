@@ -1,0 +1,292 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – REIMS UNITED SISTERS CHATILLONS BASKET  [DFU15 – GES – Poule Unique]
+X-WR-CALDESC:Matchs de REIMS UNITED SISTERS CHATILLONS BASKET – DFU15 – GES – Marne – Poule Unique
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2026-09-26-00-00-reims-united-sisters-chat
+ illons-ba@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 REIMS UNITED SISTERS CHATILLONS BASKET – F-J-E-P- BASKET DE 
+ BAZANCOURT
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ REIMS UNI
+ TED SISTERS CHATILLONS BASKET vs F-J-E-P- BASKET DE BAZANCOURT\n\n📢 Arb
+ itres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/ligues/ges/comites/0051/competitions/dfu15/match/200000014696463
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696463
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2026-10-03-00-00-reims-united-sisters-chat
+ illons-ba@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 REIMS UNITED SISTERS CHATILLONS BASKET – IE - CHALONS AGGLO 
+ BASKET FEMININ
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ REIMS UNI
+ TED SISTERS CHATILLONS BASKET vs IE - CHALONS AGGLO BASKET FEMININ\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0051/competitions/dfu15/match/20000001469646
+ 6
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696466
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2026-10-10-00-00-academie-basket-du-grand-
+ reims-rei@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ ACADEMIE BASKET DU GRAND REIMS – REIMS UNITED SISTERS CHAT
+ ILLONS BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ ACADEMIE 
+ BASKET DU GRAND REIMS vs REIMS UNITED SISTERS CHATILLONS BASKET\n\nGYMNASE
+  DESBUREAUX\n📍 Rue de Florence Reims 51100\n🚗 Waze : https://waze.co
+ m/ul?ll=49.27314\,4.03201&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/dfu15/match/200000014696473
+LOCATION:GYMNASE DESBUREAUX\, Rue de Florence Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696473
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2026-11-07-00-00-reims-united-sisters-chat
+ illons-ba@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 REIMS UNITED SISTERS CHATILLONS BASKET – E- L-WITRY LES REIM
+ S BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ REIMS UNI
+ TED SISTERS CHATILLONS BASKET vs E- L-WITRY LES REIMS BASKET\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0051/competitions/dfu15/match/200000014696477
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696477
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2026-11-28-00-00-as-amateur-tinqueux-baske
+ t-reims-u@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ AS AMATEUR TINQUEUX BASKET – REIMS UNITED SISTERS CHATILLO
+ NS BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ AS AMATEU
+ R TINQUEUX BASKET vs REIMS UNITED SISTERS CHATILLONS BASKET\n\nGYMNASE F. 
+ BRONCQUART\n📍 Rue de la Croix Cordier Tinqueux 51430\n🚗 Waze : https
+ ://waze.com/ul?ll=49.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0051/competitions/dfu15/match/200000014696488
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696488
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2026-12-05-00-00-reims-united-sisters-chat
+ illons-ba@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 REIMS UNITED SISTERS CHATILLONS BASKET – AMICALE DES JEUNES 
+ DE BETHENY
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ REIMS UNI
+ TED SISTERS CHATILLONS BASKET vs AMICALE DES JEUNES DE BETHENY\n\n📢 Arb
+ itres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/ligues/ges/comites/0051/competitions/dfu15/match/200000014696493
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696493
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2026-12-12-00-00-champagne-basket-feminin-
+ reims-uni@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ CHAMPAGNE BASKET FEMININ – REIMS UNITED SISTERS CHATILLONS
+  BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ CHAMPAGNE
+  BASKET FEMININ vs REIMS UNITED SISTERS CHATILLONS BASKET\n\nGYMNASE ROLAN
+ D BOURGOIN\n📍 Avenue François Mauriac Reims 51100\n🚗 Waze : https:/
+ /waze.com/ul?ll=49.24065\,3.99742&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/dfu15/match/200000014696497
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696497
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2027-01-16-00-00-b-c-taissy-saint-leonard-
+ reims-uni@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ B-C TAISSY SAINT LEONARD – REIMS UNITED SISTERS CHATILLONS
+  BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ B-C TAISS
+ Y SAINT LEONARD vs REIMS UNITED SISTERS CHATILLONS BASKET\n\nSALLE DES SPO
+ RTS\n📍 Esplanade Jean Colbert Taissy 51500\n🚗 Waze : https://waze.co
+ m/ul?ll=49.21562\,4.08098&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/dfu15/match/200000014696501
+LOCATION:SALLE DES SPORTS\, Esplanade Jean Colbert Taissy 51500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696501
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2027-01-23-00-00-f-j-e-p-basket-de-bazanco
+ urt-reims@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:✈️ F-J-E-P- BASKET DE BAZANCOURT – REIMS UNITED SISTERS CHATI
+ LLONS BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ F-J-E-P- 
+ BASKET DE BAZANCOURT vs REIMS UNITED SISTERS CHATILLONS BASKET\n\nGYMNASE 
+ COMMUNAL\n📍 Voie Barroise Bazancourt 51110\n🚗 Waze : https://waze.co
+ m/ul?ll=49.35801\,4.16745&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/dfu15/match/200000014696508
+LOCATION:GYMNASE COMMUNAL\, Voie Barroise Bazancourt 51110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696508
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2027-01-30-00-00-ie-chalons-agglo-basket-f
+ eminin-re@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ IE - CHALONS AGGLO BASKET FEMININ – REIMS UNITED SISTERS C
+ HATILLONS BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ IE - CHAL
+ ONS AGGLO BASKET FEMININ vs REIMS UNITED SISTERS CHATILLONS BASKET\n\nGYMN
+ ASE PIERRE ARNOULD\n📍 Rue du Boulevard Recy 51520\n🚗 Waze : https://
+ waze.com/ul?ll=48.98825\,4.32891&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0051/competitions/dfu15/match/200000014696511
+LOCATION:GYMNASE PIERRE ARNOULD\, Rue du Boulevard Recy 51520
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696511
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2027-02-06-00-00-reims-united-sisters-chat
+ illons-ba@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20270206T000000
+DTEND;TZID=Europe/Paris:20270206T020000
+SUMMARY:🏠 REIMS UNITED SISTERS CHATILLONS BASKET – ACADEMIE BASKET DU 
+ GRAND REIMS
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ REIMS UNI
+ TED SISTERS CHATILLONS BASKET vs ACADEMIE BASKET DU GRAND REIMS\n\n📢 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ges/comites/0051/competitions/dfu15/match/200000014696518
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696518
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2027-02-13-00-00-e-l-witry-les-reims-baske
+ t-reims-u@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20270213T000000
+DTEND;TZID=Europe/Paris:20270213T020000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – REIMS UNITED SISTERS CHATILL
+ ONS BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ E- L-WITR
+ Y LES REIMS BASKET vs REIMS UNITED SISTERS CHATILLONS BASKET\n\nGYMNASE JE
+ AN BOUCTON SALLE (n1)\n📍 Rue de Bétheny Witry-lès-Reims 51420\n🚗 W
+ aze : https://waze.com/ul?ll=49.29189\,4.11144&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0051/competitions/dfu15/match/200000014696522
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696522
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2027-03-27-00-00-reims-united-sisters-chat
+ illons-ba@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20270327T000000
+DTEND;TZID=Europe/Paris:20270327T020000
+SUMMARY:🏠 REIMS UNITED SISTERS CHATILLONS BASKET – AS AMATEUR TINQUEUX
+  BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ REIMS UNI
+ TED SISTERS CHATILLONS BASKET vs AS AMATEUR TINQUEUX BASKET\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0051/competitions/dfu15/match/200000014696533
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696533
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2027-04-03-00-00-amicale-des-jeunes-de-bet
+ heny-reim@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20270403T000000
+DTEND;TZID=Europe/Paris:20270403T020000
+SUMMARY:✈️ AMICALE DES JEUNES DE BETHENY – REIMS UNITED SISTERS CHATI
+ LLONS BASKET
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ AMICALE D
+ ES JEUNES DE BETHENY vs REIMS UNITED SISTERS CHATILLONS BASKET\n\nGYMNASE 
+ CLAUDIUS CAILLOT\n📍 Allée des Pâquerettes Bétheny 51450\n🚗 Waze :
+  https://waze.com/ul?ll=49.28241\,4.05139&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0051/competitions/dfu15/match/200000014696538
+LOCATION:GYMNASE CLAUDIUS CAILLOT\, Allée des Pâquerettes Bétheny 51450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696538
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2027-04-10-00-00-reims-united-sisters-chat
+ illons-ba@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20270410T000000
+DTEND;TZID=Europe/Paris:20270410T020000
+SUMMARY:🏠 REIMS UNITED SISTERS CHATILLONS BASKET – CHAMPAGNE BASKET FE
+ MININ
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ REIMS UNI
+ TED SISTERS CHATILLONS BASKET vs CHAMPAGNE BASKET FEMININ\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/comites/0051/competitions/dfu15/match/200000014696542
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696542
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-marne-poule-unique-2027-05-08-00-00-reims-united-sisters-chat
+ illons-ba@ffbb-agenda
+DTSTAMP:20260909T203637Z
+DTSTART;TZID=Europe/Paris:20270508T000000
+DTEND;TZID=Europe/Paris:20270508T020000
+SUMMARY:🏠 REIMS UNITED SISTERS CHATILLONS BASKET – B-C TAISSY SAINT LE
+ ONARD
+DESCRIPTION:🏀 DFU15 – GES – Marne – Poule Unique\n⚔️ REIMS UNI
+ TED SISTERS CHATILLONS BASKET vs B-C TAISSY SAINT LEONARD\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/comites/0051/competitions/dfu15/match/200000014696546
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 5/match/200000014696546
+END:VEVENT
+END:VCALENDAR

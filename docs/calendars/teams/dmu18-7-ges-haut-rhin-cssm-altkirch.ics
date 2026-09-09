@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSSM ALTKIRCH  [DMU18-7 – GES]
+X-WR-CALDESC:Matchs de CSSM ALTKIRCH – DMU18-7 – GES – Haut-Rhin
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-09-26-18-30-cssm-altkirch-richwiller-union-s
+ portive@ffbb-agenda
+DTSTAMP:20260909T203104Z
+DTSTART;TZID=Europe/Paris:20260926T183000
+DTEND;TZID=Europe/Paris:20260926T203000
+SUMMARY:🏠 CSSM ALTKIRCH – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ CSSM ALTKIRCH vs RIC
+ HWILLER UNION SPORTIVE\n\nCOSEC\n📍 Rue des Jardins Altkirch 68130\n🚗
+  Waze : https://waze.com/ul?ll=47.62044\,7.23329&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/comites/0068/competitions/dmu18-7/match/200000014560593
+LOCATION:COSEC\, Rue des Jardins Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560593
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-03-00-00-csc-rustenhart-cssm-altkirch@ffb
+ b-agenda
+DTSTAMP:20260909T203104Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ CSC RUSTENHART – CSSM ALTKIRCH
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ CSC RUSTENHART vs CS
+ SM ALTKIRCH\n\nSALLE POLYVALENTE\n📍 Rue des Violettes Rustenhart 68740\
+ n🚗 Waze : https://waze.com/ul?ll=47.94134\,7.465&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/20000001456059
+ 4
+LOCATION:SALLE POLYVALENTE\, Rue des Violettes Rustenhart 68740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560594
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-10-11-16-30-cssm-altkirch-bc-st-georges-cars
+ pach-2@ffbb-agenda
+DTSTAMP:20260909T203104Z
+DTSTART;TZID=Europe/Paris:20261011T163000
+DTEND;TZID=Europe/Paris:20261011T183000
+SUMMARY:🏠 CSSM ALTKIRCH – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ CSSM ALTKIRCH vs BC 
+ ST GEORGES CARSPACH - 2\n\nCOSEC\n📍 Rue des Jardins Altkirch 68130\n
+ 🚗 Waze : https://waze.com/ul?ll=47.62044\,7.23329&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/match/2000000145606
+ 01
+LOCATION:COSEC\, Rue des Jardins Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560601
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-07-19-00-ie-ctc-thur-doller-basket-club-3
+ -cssm-alt@ffbb-agenda
+DTSTAMP:20260909T203104Z
+DTSTART;TZID=Europe/Paris:20261107T190000
+DTEND;TZID=Europe/Paris:20261107T210000
+SUMMARY:✈️ IE - CTC THUR DOLLER BASKET CLUB - 3 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC THUR DOLLER
+  BASKET CLUB - 3 vs CSSM ALTKIRCH\n\nCENTRE SPORTIF BOURGER\n📍 Place de
+  la Halle des Sports Thann 68800\n🚗 Waze : https://waze.com/ul?ll=47.80
+ 333\,7.1054&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dmu18-7/match/200000014560602
+LOCATION:CENTRE SPORTIF BOURGER\, Place de la Halle des Sports Thann 68800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560602
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-14-18-30-cssm-altkirch-as-attenschwiller-
+ 2@ffbb-agenda
+DTSTAMP:20260909T203104Z
+DTSTART;TZID=Europe/Paris:20261114T183000
+DTEND;TZID=Europe/Paris:20261114T203000
+SUMMARY:🏠 CSSM ALTKIRCH – AS ATTENSCHWILLER - 2
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ CSSM ALTKIRCH vs AS 
+ ATTENSCHWILLER - 2\n\nCOSEC\n📍 Rue des Jardins Altkirch 68130\n🚗 Waz
+ e : https://waze.com/ul?ll=47.62044\,7.23329&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/comites/0068/competitions/dmu18-7/match/200000014560606
+LOCATION:COSEC\, Rue des Jardins Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560606
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-11-28-17-00-ie-ctc-jura-alsacien-basket-2-cs
+ sm-altkir@ffbb-agenda
+DTSTAMP:20260909T203104Z
+DTSTART;TZID=Europe/Paris:20261128T170000
+DTEND;TZID=Europe/Paris:20261128T190000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 2 – CSSM ALTKIRCH
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ IE - CTC JURA ALSACI
+ EN BASKET - 2 vs CSSM ALTKIRCH\n\nGYMNASE DU COLLEGE\n📍 Rue Alphonse Je
+ nn Ferrette 68480\n🚗 Waze : https://waze.com/ul?ll=47.50144\,7.31309&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu18-7/
+ match/200000014560610
+LOCATION:GYMNASE DU COLLEGE\, Rue Alphonse Jenn Ferrette 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560610
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-7-ges-haut-rhin-2026-12-13-14-30-cssm-altkirch-colmar-basket-4@ff
+ bb-agenda
+DTSTAMP:20260909T203104Z
+DTSTART;TZID=Europe/Paris:20261213T143000
+DTEND;TZID=Europe/Paris:20261213T163000
+SUMMARY:🏠 CSSM ALTKIRCH – COLMAR BASKET - 4
+DESCRIPTION:🏀 DMU18-7 – GES – Haut-Rhin\n⚔️ CSSM ALTKIRCH vs COL
+ MAR BASKET - 4\n\nCOSEC\n📍 Rue des Jardins Altkirch 68130\n🚗 Waze : 
+ https://waze.com/ul?ll=47.62044\,7.23329&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0068/competitions/dmu18-7/match/200000014560614
+LOCATION:COSEC\, Rue des Jardins Altkirch 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dmu1
+ 8-7/match/200000014560614
+END:VEVENT
+END:VCALENDAR

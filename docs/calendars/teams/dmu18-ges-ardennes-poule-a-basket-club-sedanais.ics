@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB SEDANAIS  [DMU18 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB SEDANAIS – DMU18 – GES – Ardennes – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-09-26-00-00-villers-semeuse-basket-bask
+ et-club-s@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET – BASKET CLUB SEDANAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET vs BASKET CLUB SEDANAIS\n\nCOSEC\n📍 Avenue Jean Jaurès Vil
+ lers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.74446&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/m
+ atch/200000014734445
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734445
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-10-03-00-00-rethel-sportif-basket-baske
+ t-club-se@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ RETHEL SPORTIF BASKET – BASKET CLUB SEDANAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ RETHEL SPOR
+ TIF BASKET vs BASKET CLUB SEDANAIS\n\nGYMNASE MERMOZ\n📍 Rue Normandie-N
+ iémen Rethel 08300\n🚗 Waze : https://waze.com/ul?ll=49.5165\,4.37261&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/m
+ atch/200000014734450
+LOCATION:GYMNASE MERMOZ\, Rue Normandie-Niémen Rethel 08300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734450
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-10-10-00-00-basket-club-sedanais-basket
+ -club-mou@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BASKET CLUB SEDANAIS – BASKET CLUB MOUZONNAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  SEDANAIS vs BASKET CLUB MOUZONNAIS\n\nCOSEC\n📍 Rue Ancienne Porte de B
+ alan Sedan 08200\n🚗 Waze : https://waze.com/ul?ll=49.69659\,4.95307&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/mat
+ ch/200000014734453
+LOCATION:COSEC\, Rue Ancienne Porte de Balan Sedan 08200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734453
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-10-17-00-00-basket-club-sedanais-ea-vai
+ llante-vr@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261017T000000
+DTEND;TZID=Europe/Paris:20261017T020000
+SUMMARY:🏠 BASKET CLUB SEDANAIS – EA VAILLANTE VRIGNE AUX BOIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  SEDANAIS vs EA VAILLANTE VRIGNE AUX BOIS\n\nCOSEC\n📍 Rue Ancienne Port
+ e de Balan Sedan 08200\n🚗 Waze : https://waze.com/ul?ll=49.69659\,4.953
+ 07&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu
+ 18/match/200000014734457
+LOCATION:COSEC\, Rue Ancienne Porte de Balan Sedan 08200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734457
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-11-07-00-00-basket-club-sedanais-union-
+ sportive-@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BASKET CLUB SEDANAIS – UNION SPORTIVE DE LAIFOUR
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  SEDANAIS vs UNION SPORTIVE DE LAIFOUR\n\nCOSEC\n📍 Rue Ancienne Porte d
+ e Balan Sedan 08200\n🚗 Waze : https://waze.com/ul?ll=49.69659\,4.95307&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/
+ match/200000014734463
+LOCATION:COSEC\, Rue Ancienne Porte de Balan Sedan 08200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734463
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-11-14-00-00-basket-club-de-haraucourt-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BASKET CLUB DE HARAUCOURT – BASKET CLUB SEDANAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs BASKET CLUB SEDANAIS\n\nSALLE MUNICIPALE\n📍 Rue de la
+  Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4.961
+ 15&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu
+ 18/match/200000014734466
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734466
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-11-21-00-00-basket-club-sedanais-etoile
+ -de-charl@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BASKET CLUB SEDANAIS – ETOILE DE CHARLEVILLE MEZIERES
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  SEDANAIS vs ETOILE DE CHARLEVILLE MEZIERES\n\nCOSEC\n📍 Rue Ancienne Po
+ rte de Balan Sedan 08200\n🚗 Waze : https://waze.com/ul?ll=49.69659\,4.9
+ 5307&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/d
+ mu18/match/200000014734470
+LOCATION:COSEC\, Rue Ancienne Porte de Balan Sedan 08200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734470
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-11-28-00-00-basket-club-sedanais-viller
+ s-semeuse@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 BASKET CLUB SEDANAIS – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  SEDANAIS vs VILLERS SEMEUSE BASKET\n\nCOSEC\n📍 Rue Ancienne Porte de B
+ alan Sedan 08200\n🚗 Waze : https://waze.com/ul?ll=49.69659\,4.95307&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/mat
+ ch/200000014734473
+LOCATION:COSEC\, Rue Ancienne Porte de Balan Sedan 08200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734473
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-12-05-00-00-basket-club-sedanais-rethel
+ -sportif-@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BASKET CLUB SEDANAIS – RETHEL SPORTIF BASKET
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  SEDANAIS vs RETHEL SPORTIF BASKET\n\nCOSEC\n📍 Rue Ancienne Porte de Ba
+ lan Sedan 08200\n🚗 Waze : https://waze.com/ul?ll=49.69659\,4.95307&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/matc
+ h/200000014734478
+LOCATION:COSEC\, Rue Ancienne Porte de Balan Sedan 08200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734478
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2026-12-12-00-00-basket-club-mouzonnais-bask
+ et-club-s@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ BASKET CLUB MOUZONNAIS – BASKET CLUB SEDANAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  MOUZONNAIS vs BASKET CLUB SEDANAIS\n\nGYMNASE DE MOUZON\n📍 Rue Jean-Cl
+ aude Stolz Mouzon 08210\n🚗 Waze : https://waze.com/ul?ll=49.60599\,5.07
+ 328&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm
+ u18/match/200000014734481
+LOCATION:GYMNASE DE MOUZON\, Rue Jean-Claude Stolz Mouzon 08210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734481
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2027-01-09-00-00-ea-vaillante-vrigne-aux-boi
+ s-basket-@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20270109T000000
+DTEND;TZID=Europe/Paris:20270109T020000
+SUMMARY:✈️ EA VAILLANTE VRIGNE AUX BOIS – BASKET CLUB SEDANAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ EA VAILLANT
+ E VRIGNE AUX BOIS vs BASKET CLUB SEDANAIS\n\nSALLE BEREGOVOY\n📍 Avenue 
+ Jean Jaurès Vrigne aux Bois 08330\n🚗 Waze : https://waze.com/ul?ll=49.
+ 73658\,4.85224&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/comp
+ etitions/dmu18/match/200000014734485
+LOCATION:SALLE BEREGOVOY\, Avenue Jean Jaurès Vrigne aux Bois 08330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734485
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2027-01-16-00-00-union-sportive-de-laifour-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ UNION SPORTIVE DE LAIFOUR – BASKET CLUB SEDANAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ UNION SPORT
+ IVE DE LAIFOUR vs BASKET CLUB SEDANAIS\n\nSALLE J.GILLARD\n📍 Rue de la 
+ Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.91125\,4.69269&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/m
+ atch/200000014734491
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734491
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2027-01-23-00-00-basket-club-sedanais-basket
+ -club-de-@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 BASKET CLUB SEDANAIS – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  SEDANAIS vs BASKET CLUB DE HARAUCOURT\n\nCOSEC\n📍 Rue Ancienne Porte d
+ e Balan Sedan 08200\n🚗 Waze : https://waze.com/ul?ll=49.69659\,4.95307&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu18/
+ match/200000014734494
+LOCATION:COSEC\, Rue Ancienne Porte de Balan Sedan 08200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734494
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-ardennes-poule-a-2027-01-30-00-00-etoile-de-charleville-mezie
+ res-baske@ffbb-agenda
+DTSTAMP:20260909T200627Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES – BASKET CLUB SEDANAIS
+DESCRIPTION:🏀 DMU18 – GES – Ardennes – Poule A\n⚔️ ETOILE DE C
+ HARLEVILLE MEZIERES vs BASKET CLUB SEDANAIS\n\nSALLE DUBOIS CRANCE\n📍 R
+ ue Dubois-Crancé Charleville-Mézières 08000\n🚗 Waze : https://waze.c
+ om/ul?ll=49.77095\,4.71489&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0008/competitions/dmu18/match/200000014734498
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé Charleville-Mézières 08
+ 000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 8/match/200000014734498
+END:VEVENT
+END:VCALENDAR

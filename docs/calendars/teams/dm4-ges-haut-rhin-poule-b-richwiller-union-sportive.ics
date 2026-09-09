@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – RICHWILLER UNION SPORTIVE  [DM4 – GES – Poule B]
+X-WR-CALDESC:Matchs de RICHWILLER UNION SPORTIVE – DM4 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-10-17-20-00-richwiller-union-sportive-ie
+ -ctc-de-l@ffbb-agenda
+DTSTAMP:20260909T202957Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – IE - CTC DE L'ILL - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE vs IE - CTC DE L'ILL - 3\n\nSALLE JEAN-MARIE PFEFFER\n📍 R
+ ue de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78
+ 251\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/compet
+ itions/dm4/match/200000014559100
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559100
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-14-20-00-as-attenschwiller-richwiller
+ -union-sp@ffbb-agenda
+DTSTAMP:20260909T202957Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:✈️ AS ATTENSCHWILLER – RICHWILLER UNION SPORTIVE
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ AS ATTENSCHW
+ ILLER vs RICHWILLER UNION SPORTIVE\n\nSALLE POLYVALENTE\n📍 Rue Charles 
+ de Gaulle Attenschwiller 68220\n🚗 Waze : https://waze.com/ul?ll=47.5691
+ 8\,7.45741&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competit
+ ions/dm4/match/200000014559109
+LOCATION:SALLE POLYVALENTE\, Rue Charles de Gaulle Attenschwiller 68220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559109
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-11-21-20-00-richwiller-union-sportive-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260909T202957Z
+DTSTART;TZID=Europe/Paris:20261121T200000
+DTEND;TZID=Europe/Paris:20261121T220000
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE vs BASKET CLUB SIERENTZ\n\nSALLE JEAN-MARIE PFEFFER\n📍 Ru
+ e de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.782
+ 51\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competi
+ tions/dm4/match/200000014559113
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559113
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2026-12-12-20-00-richwiller-union-sportive-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260909T202957Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T220000
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – BASKET CLUB RIBEAUVILLE
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE vs BASKET CLUB RIBEAUVILLE\n\nSALLE JEAN-MARIE PFEFFER\n📍
+  Rue de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.
+ 78251\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/dm4/match/200000014559123
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559123
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-01-17-14-00-ie-ctc-jura-alsacien-basket-
+ 3-richwil@ffbb-agenda
+DTSTAMP:20260909T202957Z
+DTSTART;TZID=Europe/Paris:20270117T140000
+DTEND;TZID=Europe/Paris:20270117T160000
+SUMMARY:✈️ IE - CTC JURA ALSACIEN BASKET - 3 – RICHWILLER UNION SPORT
+ IVE
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC JUR
+ A ALSACIEN BASKET - 3 vs RICHWILLER UNION SPORTIVE\n\nSALLE POLYVALENTE\n
+ 📍 Rue de la Forêt Heimersdorf 68560\n🚗 Waze : https://waze.com/ul?l
+ l=47.56831\,7.24438&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068
+ /competitions/dm4/match/200000014559129
+LOCATION:SALLE POLYVALENTE\, Rue de la Forêt Heimersdorf 68560
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559129
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-02-06-20-00-richwiller-union-sportive-ab
+ c-lutterb@ffbb-agenda
+DTSTAMP:20260909T202957Z
+DTSTART;TZID=Europe/Paris:20270206T200000
+DTEND;TZID=Europe/Paris:20270206T220000
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – ABC LUTTERBACH - 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE vs ABC LUTTERBACH - 3\n\nSALLE JEAN-MARIE PFEFFER\n📍 Rue 
+ de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78251
+ \,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/dm4/match/200000014559140
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559140
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-03-20-20-00-richwiller-union-sportive-as
+ -attensch@ffbb-agenda
+DTSTAMP:20260909T202957Z
+DTSTART;TZID=Europe/Paris:20270320T200000
+DTEND;TZID=Europe/Paris:20270320T220000
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – AS ATTENSCHWILLER
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE vs AS ATTENSCHWILLER\n\nSALLE JEAN-MARIE PFEFFER\n📍 Rue d
+ e la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78251\
+ ,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dm4/match/200000014559154
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559154
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-04-10-20-00-richwiller-union-sportive-ba
+ sket-ando@ffbb-agenda
+DTSTAMP:20260909T202957Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – BASKET ANDOLSHEIM
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE vs BASKET ANDOLSHEIM\n\nSALLE JEAN-MARIE PFEFFER\n📍 Rue d
+ e la Forêt Richwiller 68120\n🚗 Waze : https://waze.com/ul?ll=47.78251\
+ ,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitio
+ ns/dm4/match/200000014559162
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559162
+END:VEVENT
+BEGIN:VEVENT
+UID:dm4-ges-haut-rhin-poule-b-2027-05-15-20-00-richwiller-union-sportive-ie
+ -ctc-jura@ffbb-agenda
+DTSTAMP:20260909T202957Z
+DTSTART;TZID=Europe/Paris:20270515T200000
+DTEND;TZID=Europe/Paris:20270515T220000
+SUMMARY:🏠 RICHWILLER UNION SPORTIVE – IE - CTC JURA ALSACIEN BASKET - 
+ 3
+DESCRIPTION:🏀 DM4 – GES – Haut-Rhin – Poule B\n⚔️ RICHWILLER U
+ NION SPORTIVE vs IE - CTC JURA ALSACIEN BASKET - 3\n\nSALLE JEAN-MARIE PFE
+ FFER\n📍 Rue de la Forêt Richwiller 68120\n🚗 Waze : https://waze.com
+ /ul?ll=47.78251\,7.27582&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0068/competitions/dm4/match/200000014559174
+LOCATION:SALLE JEAN-MARIE PFEFFER\, Rue de la Forêt Richwiller 68120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/dm4/
+ match/200000014559174
+END:VEVENT
+END:VCALENDAR

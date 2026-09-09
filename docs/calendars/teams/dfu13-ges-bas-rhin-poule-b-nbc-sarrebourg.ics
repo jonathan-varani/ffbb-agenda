@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NBC SARREBOURG  [DFU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de NBC SARREBOURG – DFU13 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-09-19-17-00-vendenheim-bc-nbc-sarrebour
+ g@ffbb-agenda
+DTSTAMP:20260909T201227Z
+DTSTART;TZID=Europe/Paris:20260919T170000
+DTEND;TZID=Europe/Paris:20260919T190000
+SUMMARY:✈️ VENDENHEIM BC – NBC SARREBOURG
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ VENDENHEIM 
+ BC vs NBC SARREBOURG\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod V
+ endenheim 67550\n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.71054&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/matc
+ h/200000014660317
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660317
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-09-26-13-30-nbc-sarrebourg-asa-weyershe
+ im-3@ffbb-agenda
+DTSTAMP:20260909T201227Z
+DTSTART;TZID=Europe/Paris:20260926T133000
+DTEND;TZID=Europe/Paris:20260926T153000
+SUMMARY:🏠 NBC SARREBOURG – ASA WEYERSHEIM - 3
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ NBC SARREBO
+ URG vs ASA WEYERSHEIM - 3\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebour
+ g 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/match/200000
+ 014660321
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660321
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-10-03-13-30-nbc-sarrebourg-basket-club-
+ nord-alsa@ffbb-agenda
+DTSTAMP:20260909T201227Z
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T153000
+SUMMARY:🏠 NBC SARREBOURG – BASKET CLUB NORD ALSACE
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ NBC SARREBO
+ URG vs BASKET CLUB NORD ALSACE\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarr
+ ebourg 57400\n🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13/match/2
+ 00000014660322
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660322
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-bas-rhin-poule-b-2026-10-10-14-30-schweighouse-ohlungen-b-c-n
+ bc-sarreb@ffbb-agenda
+DTSTAMP:20260909T201227Z
+DTSTART;TZID=Europe/Paris:20261010T143000
+DTEND;TZID=Europe/Paris:20261010T163000
+SUMMARY:✈️ SCHWEIGHOUSE/OHLUNGEN B.C. – NBC SARREBOURG
+DESCRIPTION:🏀 DFU13 – GES – Bas-Rhin – Poule B\n⚔️ SCHWEIGHOUS
+ E/OHLUNGEN B.C. vs NBC SARREBOURG\n\nCENTRE ROBERT KAEUFLING\n📍 Rue des
+  Sports Schweighouse-sur-Moder 67590\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.82331\,7.73024&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dfu13/match/200000014660327
+LOCATION:CENTRE ROBERT KAEUFLING\, Rue des Sports Schweighouse-sur-Moder 67
+ 590
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3/match/200000014660327
+END:VEVENT
+END:VCALENDAR

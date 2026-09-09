@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB SIERENTZ  [DF2 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB SIERENTZ – DF2 – GES – Haut-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-09-26-20-00-union-sportive-flaxlanden-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:✈️ UNION SPORTIVE FLAXLANDEN – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ UNION SPORTI
+ VE FLAXLANDEN vs BASKET CLUB SIERENTZ\n\nSALLE DE SPORT\n📍 Allée des N
+ oyers Flaxlanden 68720\n🚗 Waze : https://waze.com/ul?ll=47.69174\,7.325
+ 84&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2
+ /match/200000014655522
+LOCATION:SALLE DE SPORT\, Allée des Noyers Flaxlanden 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655522
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-10-17-18-30-basket-club-moernach-basket-
+ club-sier@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20261017T183000
+DTEND;TZID=Europe/Paris:20261017T203000
+SUMMARY:✈️ BASKET CLUB MOERNACH – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ MOERNACH vs BASKET CLUB SIERENTZ\n\nSALLE DE SPORT\n📍 Rue du Maréchal-
+ Ferrant Moernach 68480\n🚗 Waze : https://waze.com/ul?ll=47.49889\,7.254
+ 16&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2
+ /match/200000014655530
+LOCATION:SALLE DE SPORT\, Rue du Maréchal-Ferrant Moernach 68480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655530
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-15-17-00-ie-ctc-de-l-ill-2-basket-clu
+ b-sierent@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20261115T170000
+DTEND;TZID=Europe/Paris:20261115T190000
+SUMMARY:✈️ IE - CTC DE L'ILL - 2 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ IE - CTC DE 
+ L'ILL - 2 vs BASKET CLUB SIERENTZ\n\nCOMPLEXE SPORTIF E. VOGT\n📍 Rue de
+  l'Ill Ruelisheim 68270\n🚗 Waze : https://waze.com/ul?ll=47.82701\,7.36
+ 244&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df
+ 2/match/200000014655542
+LOCATION:COMPLEXE SPORTIF E. VOGT\, Rue de l'Ill Ruelisheim 68270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655542
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-11-22-10-00-basket-club-sierentz-basket-
+ nord-sund@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20261122T100000
+DTEND;TZID=Europe/Paris:20261122T120000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – BASKET NORD SUNDGAU - 3
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs BASKET NORD SUNDGAU - 3\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rog
+ g-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.4595
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655546
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655546
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-12-06-10-00-basket-club-sierentz-ie-ctc-
+ thur-doll@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20261206T100000
+DTEND;TZID=Europe/Paris:20261206T120000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – IE - CTC THUR DOLLER BASKET CLUB - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs IE - CTC THUR DOLLER BASKET CLUB - 2\n\nSALLE ECOLE J.SCHMIDT\
+ n📍 Rue Rogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.
+ 65031\,7.45955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/comp
+ etitions/df2/match/200000014655553
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655553
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2026-12-13-10-00-basket-club-sierentz-berrwil
+ ler-staff@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20261213T100000
+DTEND;TZID=Europe/Paris:20261213T120000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – BERRWILLER/STAFFELFELDEN BC - 5
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs BERRWILLER/STAFFELFELDEN BC - 5\n\nSALLE ECOLE J.SCHMIDT\n📍
+  Rue Rogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031
+ \,7.45955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competiti
+ ons/df2/match/200000014655526
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655526
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2027-01-17-10-00-basket-club-sierentz-bc-st-g
+ eorges-ca@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20270117T100000
+DTEND;TZID=Europe/Paris:20270117T120000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – BC ST GEORGES CARSPACH - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs BC ST GEORGES CARSPACH - 2\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue 
+ Rogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.4
+ 5955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/d
+ f2/match/200000014655562
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655562
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2027-01-24-10-00-basket-club-sierentz-union-s
+ portive-f@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20270124T100000
+DTEND;TZID=Europe/Paris:20270124T120000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – UNION SPORTIVE FLAXLANDEN
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs UNION SPORTIVE FLAXLANDEN\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue R
+ ogg-Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45
+ 955&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df
+ 2/match/200000014655567
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655567
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2027-02-07-09-00-berrwiller-staffelfelden-bc-
+ 5-basket-@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20270207T090000
+DTEND;TZID=Europe/Paris:20270207T110000
+SUMMARY:✈️ BERRWILLER/STAFFELFELDEN BC - 5 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BERRWILLER/S
+ TAFFELFELDEN BC - 5 vs BASKET CLUB SIERENTZ\n\nSALLE DES SPORTS\n📍 Rue 
+ de Hartmannswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47
+ .85229\,7.21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0068/
+ competitions/df2/match/200000014655571
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655571
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2027-02-14-10-00-basket-club-sierentz-basket-
+ club-moer@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20270214T100000
+DTEND;TZID=Europe/Paris:20270214T120000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – BASKET CLUB MOERNACH
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs BASKET CLUB MOERNACH\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-H
+ aas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/mat
+ ch/200000014655575
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655575
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2027-03-21-10-00-basket-club-sierentz-ie-ctc-
+ de-l-ill-@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20270321T100000
+DTEND;TZID=Europe/Paris:20270321T120000
+SUMMARY:🏠 BASKET CLUB SIERENTZ – IE - CTC DE L'ILL - 2
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET CLUB 
+ SIERENTZ vs IE - CTC DE L'ILL - 2\n\nSALLE ECOLE J.SCHMIDT\n📍 Rue Rogg-
+ Haas Sierentz 68510\n🚗 Waze : https://waze.com/ul?ll=47.65031\,7.45955&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/ma
+ tch/200000014655587
+LOCATION:SALLE ECOLE J.SCHMIDT\, Rue Rogg-Haas Sierentz 68510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655587
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2027-04-03-18-30-basket-nord-sundgau-3-basket
+ -club-sie@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20270403T183000
+DTEND;TZID=Europe/Paris:20270403T203000
+SUMMARY:✈️ BASKET NORD SUNDGAU - 3 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BASKET NORD 
+ SUNDGAU - 3 vs BASKET CLUB SIERENTZ\n\nPOLY SPECHBACH\n📍 Place de l'Ég
+ lise Spechbach 68720\n🚗 Waze : https://waze.com/ul?ll=47.66884\,7.22709
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/m
+ atch/200000014655591
+LOCATION:POLY SPECHBACH\, Place de l'Église Spechbach 68720
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655591
+END:VEVENT
+BEGIN:VEVENT
+UID:df2-ges-haut-rhin-poule-b-2027-05-15-18-30-bc-st-georges-carspach-2-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260909T202646Z
+DTSTART;TZID=Europe/Paris:20270515T183000
+DTEND;TZID=Europe/Paris:20270515T203000
+SUMMARY:✈️ BC ST GEORGES CARSPACH - 2 – BASKET CLUB SIERENTZ
+DESCRIPTION:🏀 DF2 – GES – Haut-Rhin – Poule B\n⚔️ BC ST GEORGE
+ S CARSPACH - 2 vs BASKET CLUB SIERENTZ\n\nGYMNASE PLESSIER\n📍 Avenue du
+  8ème Régiment de Hussards Altkirch 68130\n🚗 Waze : https://waze.com/
+ ul?ll=47.62416\,7.23079&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0068/competitions/df2/match/200000014655607
+LOCATION:GYMNASE PLESSIER\, Avenue du 8ème Régiment de Hussards Altkirch 
+ 68130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0068/competitions/df2/
+ match/200000014655607
+END:VEVENT
+END:VCALENDAR

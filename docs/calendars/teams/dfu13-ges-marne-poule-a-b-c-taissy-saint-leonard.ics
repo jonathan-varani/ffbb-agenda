@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – B-C TAISSY SAINT LEONARD  [DFU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de B-C TAISSY SAINT LEONARD – DFU13 – GES – Marne – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2026-09-26-00-00-b-c-taissy-saint-leonard-reims
+ -united-s@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 B-C TAISSY SAINT LEONARD – REIMS UNITED SISTERS CHATILLONS B
+ ASKET
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ B-C TAISSY SAI
+ NT LEONARD vs REIMS UNITED SISTERS CHATILLONS BASKET\n\nSALLE DES SPORTS\n
+ 📍 Esplanade Jean Colbert Taissy 51500\n🚗 Waze : https://waze.com/ul?
+ ll=49.21562\,4.08098&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 1/competitions/dfu13/match/200000014731042
+LOCATION:SALLE DES SPORTS\, Esplanade Jean Colbert Taissy 51500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731042
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2026-10-10-00-00-b-c-taissy-saint-leonard-aveni
+ r-sportif@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 B-C TAISSY SAINT LEONARD – AVENIR SPORTIF COURTISOLS BASKET
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ B-C TAISSY SAI
+ NT LEONARD vs AVENIR SPORTIF COURTISOLS BASKET\n\nSALLE DES SPORTS\n📍 E
+ splanade Jean Colbert Taissy 51500\n🚗 Waze : https://waze.com/ul?ll=49.
+ 21562\,4.08098&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/comp
+ etitions/dfu13/match/200000014731046
+LOCATION:SALLE DES SPORTS\, Esplanade Jean Colbert Taissy 51500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731046
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2026-11-07-00-00-b-c-taissy-saint-leonard-ie-ch
+ alons-agg@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 B-C TAISSY SAINT LEONARD – IE - CHALONS AGGLO BASKET FEMININ
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ B-C TAISSY SAI
+ NT LEONARD vs IE - CHALONS AGGLO BASKET FEMININ\n\nSALLE DES SPORTS\n📍 
+ Esplanade Jean Colbert Taissy 51500\n🚗 Waze : https://waze.com/ul?ll=49
+ .21562\,4.08098&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/dfu13/match/200000014731054
+LOCATION:SALLE DES SPORTS\, Esplanade Jean Colbert Taissy 51500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731054
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2026-11-14-00-00-as-saint-brice-courcelles-b-c-
+ taissy-sa@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ AS SAINT BRICE COURCELLES – B-C TAISSY SAINT LEONARD
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ AS SAINT BRICE
+  COURCELLES vs B-C TAISSY SAINT LEONARD\n\nGYMNASE SALVADOR ALLENDE\n📍 
+ Rue de Luzarches Saint-Brice-Courcelles 51370\n🚗 Waze : https://waze.co
+ m/ul?ll=49.26198\,3.98809&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0051/competitions/dfu13/match/200000014731059
+LOCATION:GYMNASE SALVADOR ALLENDE\, Rue de Luzarches Saint-Brice-Courcelles
+  51370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731059
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2026-11-21-00-00-as-amateur-tinqueux-basket-b-c
+ -taissy-s@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:✈️ AS AMATEUR TINQUEUX BASKET – B-C TAISSY SAINT LEONARD
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ AS AMATEUR TIN
+ QUEUX BASKET vs B-C TAISSY SAINT LEONARD\n\nGYMNASE F. BRONCQUART\n📍 Ru
+ e de la Croix Cordier Tinqueux 51430\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.24609\,3.98808&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/
+ competitions/dfu13/match/200000014731064
+LOCATION:GYMNASE F. BRONCQUART\, Rue de la Croix Cordier Tinqueux 51430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731064
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2026-11-28-00-00-reims-united-sisters-chatillon
+ s-basket-@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:✈️ REIMS UNITED SISTERS CHATILLONS BASKET – B-C TAISSY SAINT 
+ LEONARD
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ REIMS UNITED S
+ ISTERS CHATILLONS BASKET vs B-C TAISSY SAINT LEONARD\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/comites/0051/competitions/dfu13/match/200000014731072
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731072
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2026-12-12-00-00-avenir-sportif-courtisols-bask
+ et-b-c-ta@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ AVENIR SPORTIF COURTISOLS BASKET – B-C TAISSY SAINT LEONAR
+ D
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ AVENIR SPORTIF
+  COURTISOLS BASKET vs B-C TAISSY SAINT LEONARD\n\nGYMNASE INTERCOMMUNAL LA
+ FONTAINE\n📍 Rue de Dierdorf Courtisols 51460\n🚗 Waze : https://waze.
+ com/ul?ll=48.98946\,4.51757&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0051/competitions/dfu13/match/200000014731076
+LOCATION:GYMNASE INTERCOMMUNAL LAFONTAINE\, Rue de Dierdorf Courtisols 5146
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731076
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2027-01-16-00-00-ie-chalons-agglo-basket-femini
+ n-b-c-tai@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ IE - CHALONS AGGLO BASKET FEMININ – B-C TAISSY SAINT LEONA
+ RD
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ IE - CHALONS A
+ GGLO BASKET FEMININ vs B-C TAISSY SAINT LEONARD\n\nGYMNASE DANIEL CABOT\n
+ 📍 Rue René Lemoine Châlons-en-Champagne 51000\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.94936\,4.37276&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0051/competitions/dfu13/match/200000014731084
+LOCATION:GYMNASE DANIEL CABOT\, Rue René Lemoine Châlons-en-Champagne 510
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731084
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2027-01-23-00-00-b-c-taissy-saint-leonard-as-sa
+ int-brice@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 B-C TAISSY SAINT LEONARD – AS SAINT BRICE COURCELLES
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ B-C TAISSY SAI
+ NT LEONARD vs AS SAINT BRICE COURCELLES\n\nSALLE DES SPORTS\n📍 Esplanad
+ e Jean Colbert Taissy 51500\n🚗 Waze : https://waze.com/ul?ll=49.21562\,
+ 4.08098&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competition
+ s/dfu13/match/200000014731089
+LOCATION:SALLE DES SPORTS\, Esplanade Jean Colbert Taissy 51500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731089
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-ges-marne-poule-a-2027-01-30-00-00-b-c-taissy-saint-leonard-as-am
+ ateur-tin@ffbb-agenda
+DTSTAMP:20260909T203711Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:🏠 B-C TAISSY SAINT LEONARD – AS AMATEUR TINQUEUX BASKET
+DESCRIPTION:🏀 DFU13 – GES – Marne – Poule A\n⚔️ B-C TAISSY SAI
+ NT LEONARD vs AS AMATEUR TINQUEUX BASKET\n\nSALLE DES SPORTS\n📍 Esplana
+ de Jean Colbert Taissy 51500\n🚗 Waze : https://waze.com/ul?ll=49.21562\
+ ,4.08098&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0051/competitio
+ ns/dfu13/match/200000014731094
+LOCATION:SALLE DES SPORTS\, Esplanade Jean Colbert Taissy 51500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/dfu1
+ 3/match/200000014731094
+END:VEVENT
+END:VCALENDAR

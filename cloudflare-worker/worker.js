@@ -320,7 +320,7 @@ async function getOrCreateGoogleCalendar(row, env) {
 
 // ── POST /subscribe ───────────────────────────────────────────────────────────
 
-async function handleSubscribe(request, env) {
+async function handleSubscribe(request, env, ctx) {
   let body;
   try { body = await request.json(); }
   catch { return json({ error: "JSON invalide" }, 400); }
@@ -345,6 +345,16 @@ async function handleSubscribe(request, env) {
   if (!noco.ok) {
     const err = await noco.text();
     return json({ error: "NocoDB : " + err }, 500);
+  }
+
+  // ── Calendrier Google, en tâche de fond ───────────────────────────────────
+  // On lance la création dès l'inscription, sans bloquer la réponse : quand
+  // l'utilisateur ouvrira son email et cliquera (quelques secondes à quelques
+  // minutes plus tard), le calendrier sera déjà prêt et /gcal répondra
+  // instantanément. C'est ce qui évite qu'il clique pendant la création et
+  // reparte avec le lien .ics de repli (invisible sur Android).
+  if (ctx && typeof ctx.waitUntil === "function") {
+    ctx.waitUntil(getOrCreateGoogleCalendar({ fichier, equipe, comp_nom }, env));
   }
 
   // ── Email Brevo ───────────────────────────────────────────────────────────
@@ -609,6 +619,10 @@ async function handleToken(request, env) {
             border-radius: 12px; font-weight: 700; font-size: 1rem; margin-bottom: 10px; }
     .ios { background: #E84E0F; }
     .android { background: #1A73E8; }
+    /* Tant que le vrai calendrier Google n'est pas prêt, le bouton porte encore
+       le lien .ics de repli : on le neutralise visuellement pour éviter que
+       l'utilisateur parte sur l'abonnement externe (invisible sur Android). */
+    a.btn.pending { opacity: .55; }
     .steps { text-align: left; background: #F5F6FA; border-radius: 10px;
              padding: 14px 16px; font-size: .8rem; color: #4B5563;
              line-height: 1.6; margin-top: 14px; }
@@ -673,16 +687,51 @@ async function handleToken(request, env) {
     if (id === "block-android" || id === "block-both") {
       var btns    = document.querySelectorAll("#" + id + " .google-btn");
       var loaders = document.querySelectorAll("#" + id + " .google-loading");
+
+      // La création du calendrier Google prend quelques secondes (création +
+      // partage public + import des matchs). Pendant ce temps le bouton porte
+      // encore le lien .ics de repli : si on laissait cliquer, Android ajoutait
+      // un abonnement externe… qui reste invisible. On bloque donc le clic et
+      // on le rejoue automatiquement dès que le vrai lien est disponible.
+      var pending = true, clickedTooEarly = false;
+
       loaders.forEach(function (l) { l.classList.remove("hidden"); });
+      btns.forEach(function (b) {
+        b.classList.add("pending");
+        b.addEventListener("click", function (e) {
+          if (!pending) return;              // lien définitif : on laisse passer
+          e.preventDefault();
+          clickedTooEarly = true;
+          loaders.forEach(function (l) {
+            l.textContent = "⏳ Préparation en cours, ouverture automatique…";
+          });
+        });
+      });
+
+      // Expression de fonction (et non déclaration dans un bloc) : comportement
+      // identique sur tous les navigateurs, y compris en mode strict.
+      var done = false;
+      var ready = function (finalUrl) {
+        if (done) return;                   // fetch et délai de sécurité peuvent
+        done = true;                        // se déclencher tous les deux
+        pending = false;
+        btns.forEach(function (b) {
+          b.classList.remove("pending");
+          if (finalUrl) b.href = finalUrl;
+        });
+        loaders.forEach(function (l) { l.classList.add("hidden"); });
+        // L'utilisateur avait déjà appuyé : on honore son clic maintenant.
+        if (clickedTooEarly && btns.length) window.location.href = btns[0].href;
+      };
+
+      // Filet de sécurité : si Google traîne, on rend la main au bout de 30 s
+      // plutôt que de laisser un bouton inerte.
+      setTimeout(function () { ready(null); }, 30000);
+
       fetch("/gcal?${gcalQuery}")
         .then(function (r) { return r.json(); })
-        .then(function (data) {
-          if (data.url) {
-            btns.forEach(function (b) { b.href = data.url; });
-          }
-        })
-        .catch(function () { /* on garde le lien webcal:// déjà en place */ })
-        .finally(function () { loaders.forEach(function (l) { l.classList.add("hidden"); }); });
+        .then(function (data) { ready(data.url || null); })
+        .catch(function () { ready(null); });   // repli sur le lien .ics en place
     }
   </script>
 </body>
@@ -735,7 +784,7 @@ function html(content, status = 200) {
 // ── Entry point ───────────────────────────────────────────────────────────────
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const { pathname } = new URL(request.url);
     const path = pathname.replace(/\/+/g, "/"); // normalise // → /
 
@@ -743,7 +792,7 @@ export default {
       return new Response(null, { headers: cors() });
     }
     if (request.method === "POST" && path === "/subscribe") {
-      return handleSubscribe(request, env);
+      return handleSubscribe(request, env, ctx);
     }
     if (request.method === "POST" && path === "/feedback") {
       return handleFeedback(request, env);

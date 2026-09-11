@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-12-17-15-c-chartres-metropole-basket-feminin-espoir
  -entente-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260912T171500
 DTEND;TZID=Europe/Paris:20260912T191500
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – ENTENTE LE CHESNAY
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-12-17-15-flammes-carolo-basket-ardennes-espoir-al-c
  oquelles-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260912T171500
 DTEND;TZID=Europe/Paris:20260912T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – AL  COQUELLES BASKET
@@ -58,9 +58,24 @@ LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-MÃ©ziÃ¨res 0800
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601093
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-12-20-00-ie-asa-weyersheim-1-usm-saran-1@ffbb-agend
+ a
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:IE - ASA WEYERSHEIM - 1 – USM SARAN - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs USM SAR
+ AN - 1\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s Weyersheim 67720\
+ n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢
+  Arbitres : Frederic DEININGER\, William SIEGEL\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601089
+LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601089
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-12-20-00-avenir-sportif-d-orly-basket-dunkerque-mal
  o-basket-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260912T200000
 DTEND;TZID=Europe/Paris:20260912T220000
 SUMMARY:AVENIR SPORTIF D'ORLY BASKET – DUNKERQUE MALO BASKET CLUB - 1
@@ -74,9 +89,25 @@ LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601090
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-12-20-00-csmf-paris-1-arras-pays-d-artois-basket@ff
+ bb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:CSMF PARIS - 1 – ARRAS PAYS D'ARTOIS BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ CSMF PARIS - 1 vs ARRAS PAYS D'ART
+ OIS BASKET\n\nSALLE DU MINISTERE DES FINANCES\n📍 Rue de Bercy Paris 750
+ 12\n🚗 Waze : https://waze.com/ul?ll=48.84124\,2.37742&navigate=yes\n\n
+ 📢 Arbitres : Aymen CHAKROUN\, Edouard CARLOS\, Cédric OKEMBA\, Laurent
+  BORES\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
+ f2/match/200000014601091
+LOCATION:SALLE DU MINISTERE DES FINANCES\, Rue de Bercy Paris 75012
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601091
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-12-20-00-templeuve-l-p-esb-villeneuve-d-ascq-lille-
  metropole@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260912T200000
 DTEND;TZID=Europe/Paris:20260912T220000
 SUMMARY:TEMPLEUVE L P – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR
@@ -91,40 +122,9 @@ LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601094
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-09-12-20-00-csmf-paris-1-arras-pays-d-artois-basket@ff
- bb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20260912T200000
-DTEND;TZID=Europe/Paris:20260912T220000
-SUMMARY:CSMF PARIS - 1 – ARRAS PAYS D'ARTOIS BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ CSMF PARIS - 1 vs ARRAS PAYS D'ART
- OIS BASKET\n\nSALLE DU MINISTERE DES FINANCES\n📍 Rue de Bercy Paris 750
- 12\n🚗 Waze : https://waze.com/ul?ll=48.84124\,2.37742&navigate=yes\n\n
- 📢 Arbitres : Aymen CHAKROUN\, Edouard CARLOS\, Cédric OKEMBA\, Laurent
-  BORES\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
- f2/match/200000014601091
-LOCATION:SALLE DU MINISTERE DES FINANCES\, Rue de Bercy Paris 75012
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601091
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2026-09-12-20-00-ie-asa-weyersheim-1-usm-saran-1@ffbb-agend
- a
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20260912T200000
-DTEND;TZID=Europe/Paris:20260912T220000
-SUMMARY:IE - ASA WEYERSHEIM - 1 – USM SARAN - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs USM SAR
- AN - 1\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s Weyersheim 67720\
- n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢
-  Arbitres : Frederic DEININGER\, William SIEGEL\n\n🔗 Feuille FFBB : htt
- ps://competitions.ffbb.com/competitions/nf2/match/200000014601089
-LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601089
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-19-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-flamme@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260919T171500
 DTEND;TZID=Europe/Paris:20260919T191500
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – FLAMMES CAROLO B
@@ -139,40 +139,8 @@ LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601117
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-09-19-20-00-entente-le-chesnay-versailles-78-basket-1-
- csmf-pari@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20260919T200000
-DTEND;TZID=Europe/Paris:20260919T220000
-SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – CSMF PARIS - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ENTENTE LE CHESNAY VERSAILLES 78 B
- ASKET - 1 vs CSMF PARIS - 1\n\nGYMNASE BEL AIR\n📍 Avenue de la BretÃ¨
- che Le Chesnay-Rocquencourt 78150\n🚗 Waze : https://waze.com/ul?ll=48.8
- 295\,2.13173&navigate=yes\n\n📢 Arbitres : Brahim EL MARGHADI\, Adrien P
- OUA\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/
- match/200000014601115
-LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
-  78150
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601115
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2026-09-19-20-00-dunkerque-malo-basket-club-1-ie-asa-weyers
- heim-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20260919T200000
-DTEND;TZID=Europe/Paris:20260919T220000
-SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – IE - ASA WEYERSHEIM - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
- IE - ASA WEYERSHEIM - 1\n\nMARC BURNOD\n📍 Rue Louis Braille Dunkerque 5
- 9140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.3861&navigate=yes\n\n
- 📢 Arbitres : Benjamin DIAZ\, Kevin DEMAILLY\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nf2/match/200000014601113
-LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601113
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-19-20-00-usm-saran-1-templeuve-l-p@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260919T200000
 DTEND;TZID=Europe/Paris:20260919T220000
 SUMMARY:USM SARAN - 1 – TEMPLEUVE L P
@@ -187,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-19-20-00-al-coquelles-basket-c-chartres-metropole-b
  asket-fem@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260919T200000
 DTEND;TZID=Europe/Paris:20260919T220000
 SUMMARY:AL  COQUELLES BASKET – C'CHARTRES METROPOLE BASKET FEMININ - ESPO
@@ -203,9 +171,41 @@ LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601116
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-19-20-00-dunkerque-malo-basket-club-1-ie-asa-weyers
+ heim-1@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – IE - ASA WEYERSHEIM - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
+ IE - ASA WEYERSHEIM - 1\n\nMARC BURNOD\n📍 Rue Louis Braille Dunkerque 5
+ 9140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.3861&navigate=yes\n\n
+ 📢 Arbitres : Benjamin DIAZ\, Kevin DEMAILLY\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf2/match/200000014601113
+LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601113
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-09-19-20-00-entente-le-chesnay-versailles-78-basket-1-
+ csmf-pari@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – CSMF PARIS - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ENTENTE LE CHESNAY VERSAILLES 78 B
+ ASKET - 1 vs CSMF PARIS - 1\n\nGYMNASE BEL AIR\n📍 Avenue de la BretÃ¨
+ che Le Chesnay-Rocquencourt 78150\n🚗 Waze : https://waze.com/ul?ll=48.8
+ 295\,2.13173&navigate=yes\n\n📢 Arbitres : Brahim EL MARGHADI\, Adrien P
+ OUA\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/
+ match/200000014601115
+LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
+  78150
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601115
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-19-21-00-arras-pays-d-artois-basket-avenir-sportif-
  d-orly-ba@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260919T210000
 DTEND;TZID=Europe/Paris:20260919T230000
 SUMMARY:ARRAS PAYS D'ARTOIS BASKET – AVENIR SPORTIF D'ORLY BASKET
@@ -222,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-26-15-00-c-chartres-metropole-basket-feminin-espoir
  -esb-vill@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260926T150000
 DTEND;TZID=Europe/Paris:20260926T170000
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – ESB VILLENEUVE D'A
@@ -239,7 +239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-26-17-15-flammes-carolo-basket-ardennes-espoir-usm-
  saran-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260926T171500
 DTEND;TZID=Europe/Paris:20260926T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – USM SARAN - 1
@@ -255,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-26-18-00-csmf-paris-1-al-coquelles-basket@ffbb-agen
  da
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260926T180000
 DTEND;TZID=Europe/Paris:20260926T200000
 SUMMARY:CSMF PARIS - 1 – AL  COQUELLES BASKET
@@ -270,7 +270,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-26-20-00-templeuve-l-p-dunkerque-malo-basket-club-1
  @ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260926T200000
 DTEND;TZID=Europe/Paris:20260926T220000
 SUMMARY:TEMPLEUVE L P – DUNKERQUE MALO BASKET CLUB - 1
@@ -286,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-26-20-00-avenir-sportif-d-orly-basket-entente-le-ch
  esnay-ver@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260926T200000
 DTEND;TZID=Europe/Paris:20260926T220000
 SUMMARY:AVENIR SPORTIF D'ORLY BASKET – ENTENTE LE CHESNAY VERSAILLES 78 B
@@ -303,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-09-26-20-00-ie-asa-weyersheim-1-arras-pays-d-artois-ba
  sket@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20260926T200000
 DTEND;TZID=Europe/Paris:20260926T220000
 SUMMARY:IE - ASA WEYERSHEIM - 1 – ARRAS PAYS D'ARTOIS BASKET
@@ -318,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-03-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-csmf-p@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261003T171500
 DTEND;TZID=Europe/Paris:20261003T191500
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – CSMF PARIS - 1
@@ -331,40 +331,9 @@ LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601163
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-10-03-20-00-usm-saran-1-c-chartres-metropole-basket-fe
- minin-esp@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261003T200000
-DTEND;TZID=Europe/Paris:20261003T220000
-SUMMARY:USM SARAN - 1 – C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs C'CHARTRES METROP
- OLE BASKET FEMININ - ESPOIR\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand
-  Saran 45770\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigat
- e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
- //competitions.ffbb.com/competitions/nf2/match/200000014601164
-LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601164
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2026-10-03-20-00-dunkerque-malo-basket-club-1-flammes-carol
- o-basket-@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261003T200000
-DTEND;TZID=Europe/Paris:20261003T220000
-SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – FLAMMES CAROLO BASKET ARDENNES -
-  ESPOIR
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
- FLAMMES CAROLO BASKET ARDENNES - ESPOIR\n\nMARC BURNOD\n📍 Rue Louis Bra
- ille Dunkerque 59140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.3861&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/competitions/nf2/match/200000014601165
-LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601165
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-03-20-00-arras-pays-d-artois-basket-templeuve-l-p@f
  fbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
 SUMMARY:ARRAS PAYS D'ARTOIS BASKET – TEMPLEUVE L P
@@ -378,9 +347,56 @@ LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601166
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-03-20-00-dunkerque-malo-basket-club-1-flammes-carol
+ o-basket-@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – FLAMMES CAROLO BASKET ARDENNES -
+  ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
+ FLAMMES CAROLO BASKET ARDENNES - ESPOIR\n\nMARC BURNOD\n📍 Rue Louis Bra
+ ille Dunkerque 59140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.3861&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf2/match/200000014601165
+LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601165
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-03-20-00-usm-saran-1-c-chartres-metropole-basket-fe
+ minin-esp@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:USM SARAN - 1 – C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs C'CHARTRES METROP
+ OLE BASKET FEMININ - ESPOIR\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand
+  Saran 45770\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf2/match/200000014601164
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601164
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-03-20-00-al-coquelles-basket-avenir-sportif-d-orly-
+ basket@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:AL  COQUELLES BASKET – AVENIR SPORTIF D'ORLY BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs AVENIR SPO
+ RTIF D'ORLY BASKET\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 Parc de la Rouge Ca
+ mbre Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll=50.92861\,1.81009
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf2/match/200000014601162
+LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
+ 31
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601162
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-03-20-00-entente-le-chesnay-versailles-78-basket-1-
  ie-asa-we@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
 SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – IE - ASA WEYERSHEIM
@@ -396,25 +412,9 @@ LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601161
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-10-03-20-00-al-coquelles-basket-avenir-sportif-d-orly-
- basket@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261003T200000
-DTEND;TZID=Europe/Paris:20261003T220000
-SUMMARY:AL  COQUELLES BASKET – AVENIR SPORTIF D'ORLY BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs AVENIR SPO
- RTIF D'ORLY BASKET\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 Parc de la Rouge Ca
- mbre Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll=50.92861\,1.81009
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/competitions/nf2/match/200000014601162
-LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
- 31
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601162
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-10-16-30-c-chartres-metropole-basket-feminin-espoir
  -dunkerqu@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261010T163000
 DTEND;TZID=Europe/Paris:20261010T183000
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – DUNKERQUE MALO BAS
@@ -431,7 +431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-10-17-15-flammes-carolo-basket-ardennes-espoir-arra
  s-pays-d-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261010T171500
 DTEND;TZID=Europe/Paris:20261010T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – ARRAS PAYS D'ARTOIS BAS
@@ -447,9 +447,24 @@ LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-MÃ©ziÃ¨res 0800
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601189
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-10-20-00-ie-asa-weyersheim-1-al-coquelles-basket@ff
+ bb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:IE - ASA WEYERSHEIM - 1 – AL  COQUELLES BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs AL  COQ
+ UELLES BASKET\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s Weyersheim
+  67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf2/match/200000014601185
+LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601185
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-10-20-00-avenir-sportif-d-orly-basket-esb-villeneuv
  e-d-ascq-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261010T200000
 DTEND;TZID=Europe/Paris:20261010T220000
 SUMMARY:AVENIR SPORTIF D'ORLY BASKET – ESB VILLENEUVE D'ASCQ LILLE METROP
@@ -465,7 +480,7 @@ URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601186
 END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-10-20-00-csmf-paris-1-usm-saran-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261010T200000
 DTEND;TZID=Europe/Paris:20261010T220000
 SUMMARY:CSMF PARIS - 1 – USM SARAN - 1
@@ -480,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-10-20-00-templeuve-l-p-entente-le-chesnay-versaille
  s-78-bask@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261010T200000
 DTEND;TZID=Europe/Paris:20261010T220000
 SUMMARY:TEMPLEUVE L P – ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1
@@ -495,24 +510,9 @@ LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601190
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-10-10-20-00-ie-asa-weyersheim-1-al-coquelles-basket@ff
- bb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261010T200000
-DTEND;TZID=Europe/Paris:20261010T220000
-SUMMARY:IE - ASA WEYERSHEIM - 1 – AL  COQUELLES BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs AL  COQ
- UELLES BASKET\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s Weyersheim
-  67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/competitions/nf2/match/200000014601185
-LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601185
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-24-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-ie-asa@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261024T171500
 DTEND;TZID=Europe/Paris:20261024T191500
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – IE - ASA WEYERSH
@@ -529,7 +529,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-24-20-00-dunkerque-malo-basket-club-1-csmf-paris-1@
  ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261024T200000
 DTEND;TZID=Europe/Paris:20261024T220000
 SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – CSMF PARIS - 1
@@ -542,24 +542,9 @@ LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601211
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-10-24-20-00-usm-saran-1-avenir-sportif-d-orly-basket@f
- fbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261024T200000
-DTEND;TZID=Europe/Paris:20261024T220000
-SUMMARY:USM SARAN - 1 – AVENIR SPORTIF D'ORLY BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs AVENIR SPORTIF D'
- ORLY BASKET\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n
- 🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 
- Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
- .ffbb.com/competitions/nf2/match/200000014601210
-LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601210
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-24-20-00-arras-pays-d-artois-basket-c-chartres-metr
  opole-bas@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261024T200000
 DTEND;TZID=Europe/Paris:20261024T220000
 SUMMARY:ARRAS PAYS D'ARTOIS BASKET – C'CHARTRES METROPOLE BASKET FEMININ 
@@ -577,7 +562,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-24-20-00-entente-le-chesnay-versailles-78-basket-1-
  flammes-c@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261024T200000
 DTEND;TZID=Europe/Paris:20261024T220000
 SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – FLAMMES CAROLO BASK
@@ -595,7 +580,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-24-20-00-al-coquelles-basket-templeuve-l-p@ffbb-age
  nda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261024T200000
 DTEND;TZID=Europe/Paris:20261024T220000
 SUMMARY:AL  COQUELLES BASKET – TEMPLEUVE L P
@@ -609,9 +594,24 @@ LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601214
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-24-20-00-usm-saran-1-avenir-sportif-d-orly-basket@f
+ fbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:USM SARAN - 1 – AVENIR SPORTIF D'ORLY BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs AVENIR SPORTIF D'
+ ORLY BASKET\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n
+ 🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf2/match/200000014601210
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601210
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-31-15-00-c-chartres-metropole-basket-feminin-espoir
  -csmf-par@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261031T150000
 DTEND;TZID=Europe/Paris:20261031T170000
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – CSMF PARIS - 1
@@ -624,24 +624,9 @@ LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601235
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-10-31-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
- ir-usm-sa@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261031T171500
-DTEND;TZID=Europe/Paris:20261031T191500
-SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – USM SARAN - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
- OLE - ESPOIR vs USM SARAN - 1\n\nC.S. PALACIUM\n📍 Rue Breughel Villeneu
- ve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\,3.13464&navi
- gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
- ps://competitions.ffbb.com/competitions/nf2/match/200000014601236
-LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601236
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-31-17-15-flammes-carolo-basket-ardennes-espoir-aven
  ir-sporti@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261031T171500
 DTEND;TZID=Europe/Paris:20261031T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – AVENIR SPORTIF D'ORLY B
@@ -657,9 +642,24 @@ LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-MÃ©ziÃ¨res 0800
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601234
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-31-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
+ ir-usm-sa@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261031T171500
+DTEND;TZID=Europe/Paris:20261031T191500
+SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – USM SARAN - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ESB VILLENEUVE D'ASCQ LILLE METROP
+ OLE - ESPOIR vs USM SARAN - 1\n\nC.S. PALACIUM\n📍 Rue Breughel Villeneu
+ ve-d'Ascq 59650\n🚗 Waze : https://waze.com/ul?ll=50.62617\,3.13464&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf2/match/200000014601236
+LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601236
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-31-20-00-templeuve-l-p-ie-asa-weyersheim-1@ffbb-age
  nda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261031T200000
 DTEND;TZID=Europe/Paris:20261031T220000
 SUMMARY:TEMPLEUVE L P – IE - ASA WEYERSHEIM - 1
@@ -673,9 +673,25 @@ LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601233
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-10-31-20-00-al-coquelles-basket-dunkerque-malo-basket-
+ club-1@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:AL  COQUELLES BASKET – DUNKERQUE MALO BASKET CLUB - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs DUNKERQUE 
+ MALO BASKET CLUB - 1\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 Parc de la Rouge 
+ Cambre Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll=50.92861\,1.810
+ 09&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf2/match/200000014601237
+LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
+ 31
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601237
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-10-31-20-00-entente-le-chesnay-versailles-78-basket-1-
  arras-pay@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261031T200000
 DTEND;TZID=Europe/Paris:20261031T220000
 SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – ARRAS PAYS D'ARTOIS
@@ -691,39 +707,8 @@ LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601238
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-10-31-20-00-al-coquelles-basket-dunkerque-malo-basket-
- club-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261031T200000
-DTEND;TZID=Europe/Paris:20261031T220000
-SUMMARY:AL  COQUELLES BASKET – DUNKERQUE MALO BASKET CLUB - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs DUNKERQUE 
- MALO BASKET CLUB - 1\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 Parc de la Rouge 
- Cambre Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll=50.92861\,1.810
- 09&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
- B : https://competitions.ffbb.com/competitions/nf2/match/200000014601237
-LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
- 31
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601237
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2026-11-07-20-00-usm-saran-1-al-coquelles-basket@ffbb-agend
- a
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261107T200000
-DTEND;TZID=Europe/Paris:20261107T220000
-SUMMARY:USM SARAN - 1 – AL  COQUELLES BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs AL  COQUELLES BAS
- KET\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗 Waze 
- : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbitres :
-  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
- competitions/nf2/match/200000014601260
-LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601260
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-07-20-00-csmf-paris-1-templeuve-l-p@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:CSMF PARIS - 1 – TEMPLEUVE L P
@@ -738,7 +723,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-07-20-00-ie-asa-weyersheim-1-flammes-carolo-basket-
  ardennes-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:IE - ASA WEYERSHEIM - 1 – FLAMMES CAROLO BASKET ARDENNES - ESPOIR
@@ -752,26 +737,40 @@ LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601257
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-11-07-20-00-avenir-sportif-d-orly-basket-c-chartres-me
- tropole-b@ffbb-agenda
-DTSTAMP:20260910T212450Z
+UID:nf2-poule-d-2026-11-07-20-00-usm-saran-1-al-coquelles-basket@ffbb-agend
+ a
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
-SUMMARY:AVENIR SPORTIF D'ORLY BASKET – C'CHARTRES METROPOLE BASKET FEMINI
- N - ESPOIR
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs C'
- CHARTRES METROPOLE BASKET FEMININ - ESPOIR\n\nGYMNASE ROBERT DESNOS (COSOM
- )\n📍 Rue des Hautes Bornes Orly 94310\n🚗 Waze : https://waze.com/ul?
- ll=48.74977\,2.40904&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
- \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match
- /200000014601258
-LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601258
+SUMMARY:USM SARAN - 1 – AL  COQUELLES BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs AL  COQUELLES BAS
+ KET\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗 Waze 
+ : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nf2/match/200000014601260
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601260
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-07-20-00-dunkerque-malo-basket-club-1-entente-le-ch
+ esnay-ver@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – ENTENTE LE CHESNAY VERSAILLES 78
+  BASKET - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
+ ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1\n\nMARC BURNOD\n📍 Rue Louis
+  Braille Dunkerque 59140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.38
+ 61&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/competitions/nf2/match/200000014601261
+LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601261
 END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-07-20-00-arras-pays-d-artois-basket-esb-villeneuve-
  d-ascq-li@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:ARRAS PAYS D'ARTOIS BASKET – ESB VILLENEUVE D'ASCQ LILLE METROPOL
@@ -787,25 +786,26 @@ LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601262
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-11-07-20-00-dunkerque-malo-basket-club-1-entente-le-ch
- esnay-ver@ffbb-agenda
-DTSTAMP:20260910T212450Z
+UID:nf2-poule-d-2026-11-07-20-00-avenir-sportif-d-orly-basket-c-chartres-me
+ tropole-b@ffbb-agenda
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
-SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – ENTENTE LE CHESNAY VERSAILLES 78
-  BASKET - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
- ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1\n\nMARC BURNOD\n📍 Rue Louis
-  Braille Dunkerque 59140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.38
- 61&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
- B : https://competitions.ffbb.com/competitions/nf2/match/200000014601261
-LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601261
+SUMMARY:AVENIR SPORTIF D'ORLY BASKET – C'CHARTRES METROPOLE BASKET FEMINI
+ N - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs C'
+ CHARTRES METROPOLE BASKET FEMININ - ESPOIR\n\nGYMNASE ROBERT DESNOS (COSOM
+ )\n📍 Rue des Hautes Bornes Orly 94310\n🚗 Waze : https://waze.com/ul?
+ ll=48.74977\,2.40904&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match
+ /200000014601258
+LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601258
 END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-11-18-00-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-al-coq@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261111T180000
 DTEND;TZID=Europe/Paris:20261111T200000
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – AL  COQUELLES BA
@@ -821,7 +821,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-14-17-15-c-chartres-metropole-basket-feminin-espoir
  -ie-asa-w@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261114T171500
 DTEND;TZID=Europe/Paris:20261114T191500
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – IE - ASA WEYERSHEI
@@ -837,7 +837,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-14-18-00-csmf-paris-1-avenir-sportif-d-orly-basket@
  ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261114T180000
 DTEND;TZID=Europe/Paris:20261114T200000
 SUMMARY:CSMF PARIS - 1 – AVENIR SPORTIF D'ORLY BASKET
@@ -850,43 +850,9 @@ LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601282
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-11-14-20-00-arras-pays-d-artois-basket-dunkerque-malo-
- basket-cl@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261114T200000
-DTEND;TZID=Europe/Paris:20261114T220000
-SUMMARY:ARRAS PAYS D'ARTOIS BASKET – DUNKERQUE MALO BASKET CLUB - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ARRAS PAYS D'ARTOIS BASKET vs DUNK
- ERQUE MALO BASKET CLUB - 1\n\nCENTRE SPORTIF R. TETELIN\n📍 Boulevard du
-  GÃ©nÃ©ral de Gaulle Arras 62000\n🚗 Waze : https://waze.com/ul?ll=5
- 0.28452\,2.76413&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
- 00000014601285
-LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
- rras 62000
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601285
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2026-11-14-20-00-entente-le-chesnay-versailles-78-basket-1-
- usm-saran@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261114T200000
-DTEND;TZID=Europe/Paris:20261114T220000
-SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – USM SARAN - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ENTENTE LE CHESNAY VERSAILLES 78 B
- ASKET - 1 vs USM SARAN - 1\n\nGYMNASE BEL AIR\n📍 Avenue de la BretÃ¨c
- he Le Chesnay-Rocquencourt 78150\n🚗 Waze : https://waze.com/ul?ll=48.82
- 95\,2.13173&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
- uille FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001
- 4601284
-LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
-  78150
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601284
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-14-20-00-templeuve-l-p-flammes-carolo-basket-ardenn
  es-espoir@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:TEMPLEUVE L P – FLAMMES CAROLO BASKET ARDENNES - ESPOIR
@@ -901,9 +867,43 @@ LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601283
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-14-20-00-entente-le-chesnay-versailles-78-basket-1-
+ usm-saran@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – USM SARAN - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ENTENTE LE CHESNAY VERSAILLES 78 B
+ ASKET - 1 vs USM SARAN - 1\n\nGYMNASE BEL AIR\n📍 Avenue de la BretÃ¨c
+ he Le Chesnay-Rocquencourt 78150\n🚗 Waze : https://waze.com/ul?ll=48.82
+ 95\,2.13173&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nf2/match/20000001
+ 4601284
+LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
+  78150
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601284
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-14-20-00-arras-pays-d-artois-basket-dunkerque-malo-
+ basket-cl@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:ARRAS PAYS D'ARTOIS BASKET – DUNKERQUE MALO BASKET CLUB - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ARRAS PAYS D'ARTOIS BASKET vs DUNK
+ ERQUE MALO BASKET CLUB - 1\n\nCENTRE SPORTIF R. TETELIN\n📍 Boulevard du
+  GÃ©nÃ©ral de Gaulle Arras 62000\n🚗 Waze : https://waze.com/ul?ll=5
+ 0.28452\,2.76413&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
+ 00000014601285
+LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
+ rras 62000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601285
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-17-20-00-dunkerque-malo-basket-club-1-esb-villeneuv
  e-d-ascq-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261117T200000
 DTEND;TZID=Europe/Paris:20261117T220000
 SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – ESB VILLENEUVE D'ASCQ LILLE METR
@@ -920,7 +920,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-28-17-15-flammes-carolo-basket-ardennes-espoir-c-ch
  artres-me@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261128T171500
 DTEND;TZID=Europe/Paris:20261128T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – C'CHARTRES METROPOLE BA
@@ -936,24 +936,9 @@ LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-MÃ©ziÃ¨res 0800
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601307
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-11-28-20-00-usm-saran-1-arras-pays-d-artois-basket@ffb
- b-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261128T200000
-DTEND;TZID=Europe/Paris:20261128T220000
-SUMMARY:USM SARAN - 1 – ARRAS PAYS D'ARTOIS BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs ARRAS PAYS D'ARTO
- IS BASKET\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗
-  Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbi
- tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
- b.com/competitions/nf2/match/200000014601308
-LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601308
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-28-20-00-ie-asa-weyersheim-1-csmf-paris-1@ffbb-agen
  da
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:IE - ASA WEYERSHEIM - 1 – CSMF PARIS - 1
@@ -966,9 +951,24 @@ LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601305
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-11-28-20-00-avenir-sportif-d-orly-basket-templeuve-l-p
+ @ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:AVENIR SPORTIF D'ORLY BASKET – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs TE
+ MPLEUVE L P\n\nGYMNASE ROBERT DESNOS (COSOM)\n📍 Rue des Hautes Bornes O
+ rly 94310\n🚗 Waze : https://waze.com/ul?ll=48.74977\,2.40904&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf2/match/200000014601306
+LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601306
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-11-28-20-00-al-coquelles-basket-entente-le-chesnay-ver
  sailles-7@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:AL  COQUELLES BASKET – ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 
@@ -984,24 +984,24 @@ LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601310
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-11-28-20-00-avenir-sportif-d-orly-basket-templeuve-l-p
- @ffbb-agenda
-DTSTAMP:20260910T212450Z
+UID:nf2-poule-d-2026-11-28-20-00-usm-saran-1-arras-pays-d-artois-basket@ffb
+ b-agenda
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
-SUMMARY:AVENIR SPORTIF D'ORLY BASKET – TEMPLEUVE L P
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs TE
- MPLEUVE L P\n\nGYMNASE ROBERT DESNOS (COSOM)\n📍 Rue des Hautes Bornes O
- rly 94310\n🚗 Waze : https://waze.com/ul?ll=48.74977\,2.40904&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/competitions/nf2/match/200000014601306
-LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601306
+SUMMARY:USM SARAN - 1 – ARRAS PAYS D'ARTOIS BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs ARRAS PAYS D'ARTO
+ IS BASKET\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗
+  Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nf2/match/200000014601308
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601308
 END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-12-05-15-00-c-chartres-metropole-basket-feminin-espoir
  -templeuv@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261205T150000
 DTEND;TZID=Europe/Paris:20261205T170000
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – TEMPLEUVE L P
@@ -1016,7 +1016,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2026-12-05-17-15-csmf-paris-1-flammes-carolo-basket-ardenne
  s-espoir@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261205T171500
 DTEND;TZID=Europe/Paris:20261205T191500
 SUMMARY:CSMF PARIS - 1 – FLAMMES CAROLO BASKET ARDENNES - ESPOIR
@@ -1029,9 +1029,24 @@ LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601330
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-12-05-20-00-ie-asa-weyersheim-1-avenir-sportif-d-orly-
+ basket@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:IE - ASA WEYERSHEIM - 1 – AVENIR SPORTIF D'ORLY BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs AVENIR 
+ SPORTIF D'ORLY BASKET\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s We
+ yersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf2/match/200000014601329
+LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601329
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-12-05-20-00-dunkerque-malo-basket-club-1-usm-saran-1@f
  fbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T220000
 SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – USM SARAN - 1
@@ -1044,9 +1059,26 @@ LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601332
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2026-12-05-20-00-arras-pays-d-artois-basket-al-coquelles-ba
+ sket@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:ARRAS PAYS D'ARTOIS BASKET – AL  COQUELLES BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ARRAS PAYS D'ARTOIS BASKET vs AL  
+ COQUELLES BASKET\n\nCENTRE SPORTIF R. TETELIN\n📍 Boulevard du GÃ©nÃ
+ ©ral de Gaulle Arras 62000\n🚗 Waze : https://waze.com/ul?ll=50.28452\,
+ 2.76413&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014601
+ 333
+LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
+ rras 62000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601333
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2026-12-05-20-00-entente-le-chesnay-versailles-78-basket-1-
  esb-ville@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T220000
 SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – ESB VILLENEUVE D'AS
@@ -1062,41 +1094,9 @@ LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601334
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2026-12-05-20-00-ie-asa-weyersheim-1-avenir-sportif-d-orly-
- basket@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261205T200000
-DTEND;TZID=Europe/Paris:20261205T220000
-SUMMARY:IE - ASA WEYERSHEIM - 1 – AVENIR SPORTIF D'ORLY BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs AVENIR 
- SPORTIF D'ORLY BASKET\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s We
- yersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nf2/match/200000014601329
-LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601329
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2026-12-05-20-00-arras-pays-d-artois-basket-al-coquelles-ba
- sket@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20261205T200000
-DTEND;TZID=Europe/Paris:20261205T220000
-SUMMARY:ARRAS PAYS D'ARTOIS BASKET – AL  COQUELLES BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ARRAS PAYS D'ARTOIS BASKET vs AL  
- COQUELLES BASKET\n\nCENTRE SPORTIF R. TETELIN\n📍 Boulevard du GÃ©nÃ
- ©ral de Gaulle Arras 62000\n🚗 Waze : https://waze.com/ul?ll=50.28452\,
- 2.76413&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
- e FFBB : https://competitions.ffbb.com/competitions/nf2/match/200000014601
- 333
-LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
- rras 62000
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601333
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-09-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-temple@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270109T171500
 DTEND;TZID=Europe/Paris:20270109T191500
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – TEMPLEUVE L P
@@ -1111,7 +1111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-09-19-00-al-coquelles-basket-flammes-carolo-basket-
  ardennes-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270109T190000
 DTEND;TZID=Europe/Paris:20270109T210000
 SUMMARY:AL  COQUELLES BASKET – FLAMMES CAROLO BASKET ARDENNES - ESPOIR
@@ -1126,55 +1126,9 @@ LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601357
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-01-09-20-00-dunkerque-malo-basket-club-1-avenir-sporti
- f-d-orly-@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270109T200000
-DTEND;TZID=Europe/Paris:20270109T220000
-SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – AVENIR SPORTIF D'ORLY BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
- AVENIR SPORTIF D'ORLY BASKET\n\nMARC BURNOD\n📍 Rue Louis Braille Dunker
- que 59140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.3861&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/competitions/nf2/match/200000014601354
-LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601354
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2027-01-09-20-00-arras-pays-d-artois-basket-csmf-paris-1@ff
- bb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270109T200000
-DTEND;TZID=Europe/Paris:20270109T220000
-SUMMARY:ARRAS PAYS D'ARTOIS BASKET – CSMF PARIS - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ARRAS PAYS D'ARTOIS BASKET vs CSMF
-  PARIS - 1\n\nCENTRE SPORTIF R. TETELIN\n📍 Boulevard du GÃ©nÃ©ral d
- e Gaulle Arras 62000\n🚗 Waze : https://waze.com/ul?ll=50.28452\,2.76413
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/competitions/nf2/match/200000014601355
-LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
- rras 62000
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601355
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2027-01-09-20-00-usm-saran-1-ie-asa-weyersheim-1@ffbb-agend
- a
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270109T200000
-DTEND;TZID=Europe/Paris:20270109T220000
-SUMMARY:USM SARAN - 1 – IE - ASA WEYERSHEIM - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs IE - ASA WEYERSHE
- IM - 1\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗 Wa
- ze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbitre
- s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
- om/competitions/nf2/match/200000014601353
-LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601353
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-09-20-00-entente-le-chesnay-versailles-78-basket-1-
  c-chartre@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270109T200000
 DTEND;TZID=Europe/Paris:20270109T220000
 SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – C'CHARTRES METROPOL
@@ -1190,9 +1144,55 @@ LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601356
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-09-20-00-arras-pays-d-artois-basket-csmf-paris-1@ff
+ bb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:ARRAS PAYS D'ARTOIS BASKET – CSMF PARIS - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ ARRAS PAYS D'ARTOIS BASKET vs CSMF
+  PARIS - 1\n\nCENTRE SPORTIF R. TETELIN\n📍 Boulevard du GÃ©nÃ©ral d
+ e Gaulle Arras 62000\n🚗 Waze : https://waze.com/ul?ll=50.28452\,2.76413
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf2/match/200000014601355
+LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
+ rras 62000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601355
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-09-20-00-dunkerque-malo-basket-club-1-avenir-sporti
+ f-d-orly-@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – AVENIR SPORTIF D'ORLY BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
+ AVENIR SPORTIF D'ORLY BASKET\n\nMARC BURNOD\n📍 Rue Louis Braille Dunker
+ que 59140\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.3861&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf2/match/200000014601354
+LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601354
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-09-20-00-usm-saran-1-ie-asa-weyersheim-1@ffbb-agend
+ a
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:USM SARAN - 1 – IE - ASA WEYERSHEIM - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs IE - ASA WEYERSHE
+ IM - 1\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗 Wa
+ ze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nf2/match/200000014601353
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601353
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-16-17-15-c-chartres-metropole-basket-feminin-espoir
  -al-coque@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270116T171500
 DTEND;TZID=Europe/Paris:20270116T191500
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – AL  COQUELLES BASK
@@ -1208,7 +1208,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-16-17-15-flammes-carolo-basket-ardennes-espoir-esb-
  villeneuv@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270116T171500
 DTEND;TZID=Europe/Paris:20270116T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – ESB VILLENEUVE D'ASCQ L
@@ -1224,24 +1224,9 @@ LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-MÃ©ziÃ¨res 0800
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601381
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-01-16-20-00-ie-asa-weyersheim-1-dunkerque-malo-basket-
- club-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270116T200000
-DTEND;TZID=Europe/Paris:20270116T220000
-SUMMARY:IE - ASA WEYERSHEIM - 1 – DUNKERQUE MALO BASKET CLUB - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs DUNKERQ
- UE MALO BASKET CLUB - 1\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s 
- Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/competitions/nf2/match/200000014601377
-LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601377
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-16-20-00-csmf-paris-1-entente-le-chesnay-versailles
  -78-baske@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270116T200000
 DTEND;TZID=Europe/Paris:20270116T220000
 SUMMARY:CSMF PARIS - 1 – ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1
@@ -1256,7 +1241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-16-20-00-avenir-sportif-d-orly-basket-arras-pays-d-
  artois-ba@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270116T200000
 DTEND;TZID=Europe/Paris:20270116T220000
 SUMMARY:AVENIR SPORTIF D'ORLY BASKET – ARRAS PAYS D'ARTOIS BASKET
@@ -1269,8 +1254,23 @@ LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601378
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-16-20-00-ie-asa-weyersheim-1-dunkerque-malo-basket-
+ club-1@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:IE - ASA WEYERSHEIM - 1 – DUNKERQUE MALO BASKET CLUB - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs DUNKERQ
+ UE MALO BASKET CLUB - 1\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s 
+ Weyersheim 67720\n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf2/match/200000014601377
+LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601377
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-16-20-00-templeuve-l-p-usm-saran-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270116T200000
 DTEND;TZID=Europe/Paris:20270116T220000
 SUMMARY:TEMPLEUVE L P – USM SARAN - 1
@@ -1286,7 +1286,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-30-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-c-char@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270130T171500
 DTEND;TZID=Europe/Paris:20270130T191500
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – C'CHARTRES METRO
@@ -1303,7 +1303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-30-19-00-al-coquelles-basket-csmf-paris-1@ffbb-agen
  da
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270130T190000
 DTEND;TZID=Europe/Paris:20270130T210000
 SUMMARY:AL  COQUELLES BASKET – CSMF PARIS - 1
@@ -1317,39 +1317,9 @@ LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601403
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-01-30-20-00-dunkerque-malo-basket-club-1-templeuve-l-p
- @ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270130T200000
-DTEND;TZID=Europe/Paris:20270130T220000
-SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – TEMPLEUVE L P
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
- TEMPLEUVE L P\n\nMARC BURNOD\n📍 Rue Louis Braille Dunkerque 59140\n🚗
-  Waze : https://waze.com/ul?ll=51.0324\,2.3861&navigate=yes\n\n📢 Arbitr
- es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
- com/competitions/nf2/match/200000014601406
-LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601406
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2027-01-30-20-00-usm-saran-1-flammes-carolo-basket-ardennes
- -espoir@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270130T200000
-DTEND;TZID=Europe/Paris:20270130T220000
-SUMMARY:USM SARAN - 1 – FLAMMES CAROLO BASKET ARDENNES - ESPOIR
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs FLAMMES CAROLO BA
- SKET ARDENNES - ESPOIR\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Sara
- n 45770\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/competitions/nf2/match/200000014601405
-LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601405
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-30-20-00-entente-le-chesnay-versailles-78-basket-1-
  avenir-sp@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270130T200000
 DTEND;TZID=Europe/Paris:20270130T220000
 SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – AVENIR SPORTIF D'OR
@@ -1367,7 +1337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-01-30-20-00-arras-pays-d-artois-basket-ie-asa-weyershe
  im-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270130T200000
 DTEND;TZID=Europe/Paris:20270130T220000
 SUMMARY:ARRAS PAYS D'ARTOIS BASKET – IE - ASA WEYERSHEIM - 1
@@ -1382,9 +1352,39 @@ LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601401
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-30-20-00-dunkerque-malo-basket-club-1-templeuve-l-p
+ @ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
+ TEMPLEUVE L P\n\nMARC BURNOD\n📍 Rue Louis Braille Dunkerque 59140\n🚗
+  Waze : https://waze.com/ul?ll=51.0324\,2.3861&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nf2/match/200000014601406
+LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601406
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-01-30-20-00-usm-saran-1-flammes-carolo-basket-ardennes
+ -espoir@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:USM SARAN - 1 – FLAMMES CAROLO BASKET ARDENNES - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs FLAMMES CAROLO BA
+ SKET ARDENNES - ESPOIR\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Sara
+ n 45770\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf2/match/200000014601405
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601405
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-06-17-15-csmf-paris-1-esb-villeneuve-d-ascq-lille-m
  etropole-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270206T171500
 DTEND;TZID=Europe/Paris:20270206T191500
 SUMMARY:CSMF PARIS - 1 – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR
@@ -1397,9 +1397,24 @@ LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601427
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-06-17-15-c-chartres-metropole-basket-feminin-espoir
+ -usm-sara@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270206T171500
+DTEND;TZID=Europe/Paris:20270206T191500
+SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – USM SARAN - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES METROPOLE BASKET FEMINI
+ N - ESPOIR vs USM SARAN - 1\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet Cha
+ rtres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf2/match/200000014601428
+LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601428
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-06-17-15-flammes-carolo-basket-ardennes-espoir-dunk
  erque-mal@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270206T171500
 DTEND;TZID=Europe/Paris:20270206T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – DUNKERQUE MALO BASKET C
@@ -1415,24 +1430,9 @@ LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-MÃ©ziÃ¨res 0800
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601429
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-02-06-17-15-c-chartres-metropole-basket-feminin-espoir
- -usm-sara@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270206T171500
-DTEND;TZID=Europe/Paris:20270206T191500
-SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – USM SARAN - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ C'CHARTRES METROPOLE BASKET FEMINI
- N - ESPOIR vs USM SARAN - 1\n\nHALLE JEAN COCHET\n📍 Rue Jean Monnet Cha
- rtres 28000\n🚗 Waze : https://waze.com/ul?ll=48.45027\,1.50442&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/competitions/nf2/match/200000014601428
-LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601428
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-06-20-00-ie-asa-weyersheim-1-entente-le-chesnay-ver
  sailles-7@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:IE - ASA WEYERSHEIM - 1 – ENTENTE LE CHESNAY VERSAILLES 78 BASKET
@@ -1449,7 +1449,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-06-20-00-avenir-sportif-d-orly-basket-al-coquelles-
  basket@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:AVENIR SPORTIF D'ORLY BASKET – AL  COQUELLES BASKET
@@ -1464,7 +1464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-06-20-00-templeuve-l-p-arras-pays-d-artois-basket@f
  fbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:TEMPLEUVE L P – ARRAS PAYS D'ARTOIS BASKET
@@ -1480,7 +1480,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-13-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-avenir@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270213T171500
 DTEND;TZID=Europe/Paris:20270213T191500
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – AVENIR SPORTIF D
@@ -1495,9 +1495,23 @@ LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601450
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2027-02-13-20-00-usm-saran-1-csmf-paris-1@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:USM SARAN - 1 – CSMF PARIS - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs CSMF PARIS - 1\n\
+ nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗 Waze : http
+ s://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nf2/match/200000014601451
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601451
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-13-20-00-arras-pays-d-artois-basket-flammes-carolo-
  basket-ar@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270213T200000
 DTEND;TZID=Europe/Paris:20270213T220000
 SUMMARY:ARRAS PAYS D'ARTOIS BASKET – FLAMMES CAROLO BASKET ARDENNES - ESP
@@ -1513,23 +1527,9 @@ LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601453
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-02-13-20-00-usm-saran-1-csmf-paris-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270213T200000
-DTEND;TZID=Europe/Paris:20270213T220000
-SUMMARY:USM SARAN - 1 – CSMF PARIS - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs CSMF PARIS - 1\n\
- nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n🚗 Waze : http
- s://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 Arbitres : Pas d
- e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
- itions/nf2/match/200000014601451
-LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601451
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-13-20-00-al-coquelles-basket-ie-asa-weyersheim-1@ff
  bb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270213T200000
 DTEND;TZID=Europe/Paris:20270213T220000
 SUMMARY:AL  COQUELLES BASKET – IE - ASA WEYERSHEIM - 1
@@ -1545,7 +1545,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-13-20-00-entente-le-chesnay-versailles-78-basket-1-
  templeuve@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270213T200000
 DTEND;TZID=Europe/Paris:20270213T220000
 SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – TEMPLEUVE L P
@@ -1562,7 +1562,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-13-20-00-dunkerque-malo-basket-club-1-c-chartres-me
  tropole-b@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270213T200000
 DTEND;TZID=Europe/Paris:20270213T220000
 SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – C'CHARTRES METROPOLE BASKET FEMI
@@ -1578,7 +1578,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-27-17-15-flammes-carolo-basket-ardennes-espoir-ente
  nte-le-ch@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270227T171500
 DTEND;TZID=Europe/Paris:20270227T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – ENTENTE LE CHESNAY VERS
@@ -1596,7 +1596,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-27-17-15-c-chartres-metropole-basket-feminin-espoir
  -arras-pa@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270227T171500
 DTEND;TZID=Europe/Paris:20270227T191500
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – ARRAS PAYS D'ARTOI
@@ -1612,7 +1612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-27-20-00-csmf-paris-1-dunkerque-malo-basket-club-1@
  ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270227T200000
 DTEND;TZID=Europe/Paris:20270227T220000
 SUMMARY:CSMF PARIS - 1 – DUNKERQUE MALO BASKET CLUB - 1
@@ -1625,24 +1625,25 @@ LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601475
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-02-27-20-00-avenir-sportif-d-orly-basket-usm-saran-1@f
- fbb-agenda
-DTSTAMP:20260910T212450Z
+UID:nf2-poule-d-2027-02-27-20-00-templeuve-l-p-al-coquelles-basket@ffbb-age
+ nda
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270227T200000
 DTEND;TZID=Europe/Paris:20270227T220000
-SUMMARY:AVENIR SPORTIF D'ORLY BASKET – USM SARAN - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs US
- M SARAN - 1\n\nGYMNASE ROBERT DESNOS (COSOM)\n📍 Rue des Hautes Bornes O
- rly 94310\n🚗 Waze : https://waze.com/ul?ll=48.74977\,2.40904&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/competitions/nf2/match/200000014601474
-LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601474
+SUMMARY:TEMPLEUVE L P – AL  COQUELLES BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs AL  COQUELLES BAS
+ KET\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-en-PÃ©v
+ Ã¨le 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf2/match/200000014601478
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
+ ¨le 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601478
 END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-02-27-20-00-ie-asa-weyersheim-1-esb-villeneuve-d-ascq-
  lille-met@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270227T200000
 DTEND;TZID=Europe/Paris:20270227T220000
 SUMMARY:IE - ASA WEYERSHEIM - 1 – ESB VILLENEUVE D'ASCQ LILLE METROPOLE -
@@ -1657,25 +1658,24 @@ LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601473
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-02-27-20-00-templeuve-l-p-al-coquelles-basket@ffbb-age
- nda
-DTSTAMP:20260910T212450Z
+UID:nf2-poule-d-2027-02-27-20-00-avenir-sportif-d-orly-basket-usm-saran-1@f
+ fbb-agenda
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270227T200000
 DTEND;TZID=Europe/Paris:20270227T220000
-SUMMARY:TEMPLEUVE L P – AL  COQUELLES BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs AL  COQUELLES BAS
- KET\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-en-PÃ©v
- Ã¨le 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/competitions/nf2/match/200000014601478
-LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
- ¨le 59242
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601478
+SUMMARY:AVENIR SPORTIF D'ORLY BASKET – USM SARAN - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs US
+ M SARAN - 1\n\nGYMNASE ROBERT DESNOS (COSOM)\n📍 Rue des Hautes Bornes O
+ rly 94310\n🚗 Waze : https://waze.com/ul?ll=48.74977\,2.40904&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf2/match/200000014601474
+LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601474
 END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-06-17-15-csmf-paris-1-c-chartres-metropole-basket-f
  eminin-es@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270306T171500
 DTEND;TZID=Europe/Paris:20270306T191500
 SUMMARY:CSMF PARIS - 1 – C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR
@@ -1688,24 +1688,56 @@ LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601499
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-03-06-20-00-dunkerque-malo-basket-club-1-al-coquelles-
- basket@ffbb-agenda
-DTSTAMP:20260910T212450Z
+UID:nf2-poule-d-2027-03-06-20-00-ie-asa-weyersheim-1-templeuve-l-p@ffbb-age
+ nda
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270306T200000
 DTEND;TZID=Europe/Paris:20270306T220000
-SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – AL  COQUELLES BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
- AL  COQUELLES BASKET\n\nMARC BURNOD\n📍 Rue Louis Braille Dunkerque 5914
- 0\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.3861&navigate=yes\n\n📢
+SUMMARY:IE - ASA WEYERSHEIM - 1 – TEMPLEUVE L P
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs TEMPLEU
+ VE L P\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s Weyersheim 67720\
+ n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢
   Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
- s.ffbb.com/competitions/nf2/match/200000014601501
-LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601501
+ s.ffbb.com/competitions/nf2/match/200000014601497
+LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601497
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-06-20-00-avenir-sportif-d-orly-basket-flammes-carol
+ o-basket-@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:AVENIR SPORTIF D'ORLY BASKET – FLAMMES CAROLO BASKET ARDENNES - E
+ SPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs FL
+ AMMES CAROLO BASKET ARDENNES - ESPOIR\n\nGYMNASE ROBERT DESNOS (COSOM)\n
+ 📍 Rue des Hautes Bornes Orly 94310\n🚗 Waze : https://waze.com/ul?ll=
+ 48.74977\,2.40904&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
+ 00000014601498
+LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601498
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-06-20-00-usm-saran-1-esb-villeneuve-d-ascq-lille-me
+ tropole-e@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:USM SARAN - 1 – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs ESB VILLENEUVE D'
+ ASCQ LILLE METROPOLE - ESPOIR\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sa
+ nd Saran 45770\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf2/match/200000014601500
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601500
 END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-06-20-00-arras-pays-d-artois-basket-entente-le-ches
  nay-versa@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270306T200000
 DTEND;TZID=Europe/Paris:20270306T220000
 SUMMARY:ARRAS PAYS D'ARTOIS BASKET – ENTENTE LE CHESNAY VERSAILLES 78 BAS
@@ -1721,56 +1753,24 @@ LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601502
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-03-06-20-00-usm-saran-1-esb-villeneuve-d-ascq-lille-me
- tropole-e@ffbb-agenda
-DTSTAMP:20260910T212450Z
+UID:nf2-poule-d-2027-03-06-20-00-dunkerque-malo-basket-club-1-al-coquelles-
+ basket@ffbb-agenda
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270306T200000
 DTEND;TZID=Europe/Paris:20270306T220000
-SUMMARY:USM SARAN - 1 – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs ESB VILLENEUVE D'
- ASCQ LILLE METROPOLE - ESPOIR\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sa
- nd Saran 45770\n🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nf2/match/200000014601500
-LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601500
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2027-03-06-20-00-avenir-sportif-d-orly-basket-flammes-carol
- o-basket-@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270306T200000
-DTEND;TZID=Europe/Paris:20270306T220000
-SUMMARY:AVENIR SPORTIF D'ORLY BASKET – FLAMMES CAROLO BASKET ARDENNES - E
- SPOIR
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs FL
- AMMES CAROLO BASKET ARDENNES - ESPOIR\n\nGYMNASE ROBERT DESNOS (COSOM)\n
- 📍 Rue des Hautes Bornes Orly 94310\n🚗 Waze : https://waze.com/ul?ll=
- 48.74977\,2.40904&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
- 00000014601498
-LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601498
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2027-03-06-20-00-ie-asa-weyersheim-1-templeuve-l-p@ffbb-age
- nda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270306T200000
-DTEND;TZID=Europe/Paris:20270306T220000
-SUMMARY:IE - ASA WEYERSHEIM - 1 – TEMPLEUVE L P
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ IE - ASA WEYERSHEIM - 1 vs TEMPLEU
- VE L P\n\nESPACE W - Salle JUPITER\n📍 Rue des PrÃ©s Weyersheim 67720\
- n🚗 Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢
+SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – AL  COQUELLES BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ DUNKERQUE MALO BASKET CLUB - 1 vs 
+ AL  COQUELLES BASKET\n\nMARC BURNOD\n📍 Rue Louis Braille Dunkerque 5914
+ 0\n🚗 Waze : https://waze.com/ul?ll=51.0324\,2.3861&navigate=yes\n\n📢
   Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
- s.ffbb.com/competitions/nf2/match/200000014601497
-LOCATION:ESPACE W - Salle JUPITER\, Rue des PrÃ©s Weyersheim 67720
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601497
+ s.ffbb.com/competitions/nf2/match/200000014601501
+LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601501
 END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-13-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-arras-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270313T171500
 DTEND;TZID=Europe/Paris:20270313T191500
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – ARRAS PAYS D'ART
@@ -1787,7 +1787,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-13-17-15-flammes-carolo-basket-ardennes-espoir-ie-a
  sa-weyers@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270313T171500
 DTEND;TZID=Europe/Paris:20270313T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – IE - ASA WEYERSHEIM - 1
@@ -1804,7 +1804,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-13-17-15-c-chartres-metropole-basket-feminin-espoir
  -avenir-s@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270313T171500
 DTEND;TZID=Europe/Paris:20270313T191500
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – AVENIR SPORTIF D'O
@@ -1819,24 +1819,9 @@ LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601522
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-03-13-20-00-templeuve-l-p-csmf-paris-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270313T200000
-DTEND;TZID=Europe/Paris:20270313T220000
-SUMMARY:TEMPLEUVE L P – CSMF PARIS - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs CSMF PARIS - 1\n\
- nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-en-PÃ©vÃ¨le
-  59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/competitions/nf2/match/200000014601523
-LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
- ¨le 59242
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601523
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-13-20-00-al-coquelles-basket-usm-saran-1@ffbb-agend
  a
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270313T200000
 DTEND;TZID=Europe/Paris:20270313T220000
 SUMMARY:AL  COQUELLES BASKET – USM SARAN - 1
@@ -1850,9 +1835,24 @@ LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601524
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-13-20-00-templeuve-l-p-csmf-paris-1@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:TEMPLEUVE L P – CSMF PARIS - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs CSMF PARIS - 1\n\
+ nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-en-PÃ©vÃ¨le
+  59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nf2/match/200000014601523
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
+ ¨le 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601523
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-13-20-00-entente-le-chesnay-versailles-78-basket-1-
  dunkerque@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270313T200000
 DTEND;TZID=Europe/Paris:20270313T220000
 SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – DUNKERQUE MALO BASK
@@ -1870,7 +1870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-27-17-15-flammes-carolo-basket-ardennes-espoir-temp
  leuve-l-p@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270327T171500
 DTEND;TZID=Europe/Paris:20270327T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – TEMPLEUVE L P
@@ -1884,9 +1884,27 @@ LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-MÃ©ziÃ¨res 0800
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601547
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2027-03-27-20-00-al-coquelles-basket-esb-villeneuve-d-ascq-
+ lille-met@ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:AL  COQUELLES BASKET – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ES
+ POIR
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs ESB VILLEN
+ EUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 P
+ arc de la Rouge Cambre Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll
+ =50.92861\,1.81009&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
+ 00000014601550
+LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
+ 31
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601550
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-27-20-00-ie-asa-weyersheim-1-c-chartres-metropole-b
  asket-fem@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270327T200000
 DTEND;TZID=Europe/Paris:20270327T220000
 SUMMARY:IE - ASA WEYERSHEIM - 1 – C'CHARTRES METROPOLE BASKET FEMININ - E
@@ -1903,7 +1921,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-27-20-00-avenir-sportif-d-orly-basket-csmf-paris-1@
  ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270327T200000
 DTEND;TZID=Europe/Paris:20270327T220000
 SUMMARY:AVENIR SPORTIF D'ORLY BASKET – CSMF PARIS - 1
@@ -1918,7 +1936,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-27-20-00-usm-saran-1-entente-le-chesnay-versailles-
  78-basket@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270327T200000
 DTEND;TZID=Europe/Paris:20270327T220000
 SUMMARY:USM SARAN - 1 – ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1
@@ -1933,7 +1951,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-03-27-20-00-dunkerque-malo-basket-club-1-arras-pays-d-
  artois-ba@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270327T200000
 DTEND;TZID=Europe/Paris:20270327T220000
 SUMMARY:DUNKERQUE MALO BASKET CLUB - 1 – ARRAS PAYS D'ARTOIS BASKET
@@ -1946,27 +1964,9 @@ LOCATION:MARC BURNOD\, Rue Louis Braille Dunkerque 59140
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601549
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-03-27-20-00-al-coquelles-basket-esb-villeneuve-d-ascq-
- lille-met@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270327T200000
-DTEND;TZID=Europe/Paris:20270327T220000
-SUMMARY:AL  COQUELLES BASKET – ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ES
- POIR
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs ESB VILLEN
- EUVE D'ASCQ LILLE METROPOLE - ESPOIR\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 P
- arc de la Rouge Cambre Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll
- =50.92861\,1.81009&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf2/match/2
- 00000014601550
-LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
- 31
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601550
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2027-04-10-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-dunker@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270410T171500
 DTEND;TZID=Europe/Paris:20270410T191500
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – DUNKERQUE MALO B
@@ -1983,7 +1983,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-04-10-17-15-c-chartres-metropole-basket-feminin-espoir
  -flammes-@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270410T171500
 DTEND;TZID=Europe/Paris:20270410T191500
 SUMMARY:C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR – FLAMMES CAROLO BAS
@@ -1998,40 +1998,9 @@ LOCATION:HALLE JEAN COCHET\, Rue Jean Monnet Chartres 28000
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601571
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-04-10-20-00-templeuve-l-p-avenir-sportif-d-orly-basket
- @ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270410T200000
-DTEND;TZID=Europe/Paris:20270410T220000
-SUMMARY:TEMPLEUVE L P – AVENIR SPORTIF D'ORLY BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs AVENIR SPORTIF D'
- ORLY BASKET\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-e
- n-PÃ©vÃ¨le 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/competitions/nf2/match/200000014601570
-LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
- ¨le 59242
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601570
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2027-04-10-20-00-csmf-paris-1-ie-asa-weyersheim-1@ffbb-agen
- da
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270410T200000
-DTEND;TZID=Europe/Paris:20270410T220000
-SUMMARY:CSMF PARIS - 1 – IE - ASA WEYERSHEIM - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ CSMF PARIS - 1 vs IE - ASA WEYERSH
- EIM - 1\n\nGymnase Victor Young Perez\n📍 Rue de Bercy Paris 75012\n🚗
-  Waze : https://waze.com/ul?ll=48.84715\,2.36911&navigate=yes\n\n📢 Arbi
- tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
- b.com/competitions/nf2/match/200000014601569
-LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601569
-END:VEVENT
-BEGIN:VEVENT
 UID:nf2-poule-d-2027-04-10-20-00-arras-pays-d-artois-basket-usm-saran-1@ffb
  b-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270410T200000
 DTEND;TZID=Europe/Paris:20270410T220000
 SUMMARY:ARRAS PAYS D'ARTOIS BASKET – USM SARAN - 1
@@ -2045,9 +2014,25 @@ LOCATION:CENTRE SPORTIF R. TETELIN\, Boulevard du GÃ©nÃ©ral de Gaulle A
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601572
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2027-04-10-20-00-templeuve-l-p-avenir-sportif-d-orly-basket
+ @ffbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:TEMPLEUVE L P – AVENIR SPORTIF D'ORLY BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ TEMPLEUVE L P vs AVENIR SPORTIF D'
+ ORLY BASKET\n\nSALLE DES SPORTS (SALLE A)\n📍 Rue de Roubaix Templeuve-e
+ n-PÃ©vÃ¨le 59242\n🚗 Waze : https://waze.com/ul?ll=50.52813\,3.1731&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf2/match/200000014601570
+LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
+ ¨le 59242
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601570
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2027-04-10-20-00-entente-le-chesnay-versailles-78-basket-1-
  al-coquel@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270410T200000
 DTEND;TZID=Europe/Paris:20270410T220000
 SUMMARY:ENTENTE LE CHESNAY VERSAILLES 78 BASKET - 1 – AL  COQUELLES BASKE
@@ -2063,9 +2048,24 @@ LOCATION:GYMNASE BEL AIR\, Avenue de la BretÃ¨che Le Chesnay-Rocquencourt
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601574
 END:VEVENT
 BEGIN:VEVENT
+UID:nf2-poule-d-2027-04-10-20-00-csmf-paris-1-ie-asa-weyersheim-1@ffbb-agen
+ da
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:CSMF PARIS - 1 – IE - ASA WEYERSHEIM - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ CSMF PARIS - 1 vs IE - ASA WEYERSH
+ EIM - 1\n\nGymnase Victor Young Perez\n📍 Rue de Bercy Paris 75012\n🚗
+  Waze : https://waze.com/ul?ll=48.84715\,2.36911&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nf2/match/200000014601569
+LOCATION:Gymnase Victor Young Perez\, Rue de Bercy Paris 75012
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601569
+END:VEVENT
+BEGIN:VEVENT
 UID:nf2-poule-d-2027-04-17-17-15-flammes-carolo-basket-ardennes-espoir-csmf
  -paris-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270417T171500
 DTEND;TZID=Europe/Paris:20270417T191500
 SUMMARY:FLAMMES CAROLO BASKET ARDENNES - ESPOIR – CSMF PARIS - 1
@@ -2081,7 +2081,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-04-17-17-15-esb-villeneuve-d-ascq-lille-metropole-espo
  ir-entent@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270417T171500
 DTEND;TZID=Europe/Paris:20270417T191500
 SUMMARY:ESB VILLENEUVE D'ASCQ LILLE METROPOLE - ESPOIR – ENTENTE LE CHESN
@@ -2096,24 +2096,40 @@ LOCATION:C.S. PALACIUM\, Rue Breughel Villeneuve-d'Ascq 59650
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601598
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-04-17-20-00-avenir-sportif-d-orly-basket-ie-asa-weyers
- heim-1@ffbb-agenda
-DTSTAMP:20260910T212450Z
+UID:nf2-poule-d-2027-04-17-20-00-al-coquelles-basket-arras-pays-d-artois-ba
+ sket@ffbb-agenda
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270417T200000
 DTEND;TZID=Europe/Paris:20270417T220000
-SUMMARY:AVENIR SPORTIF D'ORLY BASKET – IE - ASA WEYERSHEIM - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs IE
-  - ASA WEYERSHEIM - 1\n\nGYMNASE ROBERT DESNOS (COSOM)\n📍 Rue des Haute
- s Bornes Orly 94310\n🚗 Waze : https://waze.com/ul?ll=48.74977\,2.40904&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/competitions/nf2/match/200000014601593
-LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601593
+SUMMARY:AL  COQUELLES BASKET – ARRAS PAYS D'ARTOIS BASKET
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs ARRAS PAYS
+  D'ARTOIS BASKET\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 Parc de la Rouge Camb
+ re Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll=50.92861\,1.81009&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf2/match/200000014601597
+LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
+ 31
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601597
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2-poule-d-2027-04-17-20-00-usm-saran-1-dunkerque-malo-basket-club-1@f
+ fbb-agenda
+DTSTAMP:20260911T152006Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:USM SARAN - 1 – DUNKERQUE MALO BASKET CLUB - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs DUNKERQUE MALO BA
+ SKET CLUB - 1\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n
+ 🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf2/match/200000014601596
+LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601596
 END:VEVENT
 BEGIN:VEVENT
 UID:nf2-poule-d-2027-04-17-20-00-templeuve-l-p-c-chartres-metropole-basket-
  feminin-e@ffbb-agenda
-DTSTAMP:20260910T212450Z
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270417T200000
 DTEND;TZID=Europe/Paris:20270417T220000
 SUMMARY:TEMPLEUVE L P – C'CHARTRES METROPOLE BASKET FEMININ - ESPOIR
@@ -2128,34 +2144,18 @@ LOCATION:SALLE DES SPORTS (SALLE A)\, Rue de Roubaix Templeuve-en-PÃ©vÃ
 URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601595
 END:VEVENT
 BEGIN:VEVENT
-UID:nf2-poule-d-2027-04-17-20-00-usm-saran-1-dunkerque-malo-basket-club-1@f
- fbb-agenda
-DTSTAMP:20260910T212450Z
+UID:nf2-poule-d-2027-04-17-20-00-avenir-sportif-d-orly-basket-ie-asa-weyers
+ heim-1@ffbb-agenda
+DTSTAMP:20260911T152006Z
 DTSTART;TZID=Europe/Paris:20270417T200000
 DTEND;TZID=Europe/Paris:20270417T220000
-SUMMARY:USM SARAN - 1 – DUNKERQUE MALO BASKET CLUB - 1
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ USM SARAN - 1 vs DUNKERQUE MALO BA
- SKET CLUB - 1\n\nGYMNASE GUY VERGRACHT\n📍 Rue George Sand Saran 45770\n
- 🚗 Waze : https://waze.com/ul?ll=47.92963\,1.88852&navigate=yes\n\n📢 
- Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
- .ffbb.com/competitions/nf2/match/200000014601596
-LOCATION:GYMNASE GUY VERGRACHT\, Rue George Sand Saran 45770
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601596
-END:VEVENT
-BEGIN:VEVENT
-UID:nf2-poule-d-2027-04-17-20-00-al-coquelles-basket-arras-pays-d-artois-ba
- sket@ffbb-agenda
-DTSTAMP:20260910T212450Z
-DTSTART;TZID=Europe/Paris:20270417T200000
-DTEND;TZID=Europe/Paris:20270417T220000
-SUMMARY:AL  COQUELLES BASKET – ARRAS PAYS D'ARTOIS BASKET
-DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AL  COQUELLES BASKET vs ARRAS PAYS
-  D'ARTOIS BASKET\n\nCOMPLEXE SPORTIF CALQUELLA\n📍 Parc de la Rouge Camb
- re Coquelles 62231\n🚗 Waze : https://waze.com/ul?ll=50.92861\,1.81009&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/competitions/nf2/match/200000014601597
-LOCATION:COMPLEXE SPORTIF CALQUELLA\, Parc de la Rouge Cambre Coquelles 622
- 31
-URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601597
+SUMMARY:AVENIR SPORTIF D'ORLY BASKET – IE - ASA WEYERSHEIM - 1
+DESCRIPTION:🏀 NF2 – Poule D\n⚔️ AVENIR SPORTIF D'ORLY BASKET vs IE
+  - ASA WEYERSHEIM - 1\n\nGYMNASE ROBERT DESNOS (COSOM)\n📍 Rue des Haute
+ s Bornes Orly 94310\n🚗 Waze : https://waze.com/ul?ll=48.74977\,2.40904&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nf2/match/200000014601593
+LOCATION:GYMNASE ROBERT DESNOS (COSOM)\, Rue des Hautes Bornes Orly 94310
+URL:https://competitions.ffbb.com/competitions/nf2/match/200000014601593
 END:VEVENT
 END:VCALENDAR

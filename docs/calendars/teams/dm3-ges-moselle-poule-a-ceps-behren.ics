@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CEPS BEHREN  [DM3 – GES – Poule A]
+X-WR-CALDESC:Matchs de CEPS BEHREN – DM3 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-10-11-15-30-ceps-behren-loisirs-sport-mont
+ igny-2@ffbb-agenda
+DTSTAMP:20260911T164812Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 CEPS BEHREN – LOISIRS SPORT MONTIGNY - 2
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ CEPS BEHREN vs
+  LOISIRS SPORT MONTIGNY - 2\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman 
+ Behren-lès-Forbach 57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.
+ 93507&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ dm3/match/200000014722009
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722009
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-11-15-15-30-ceps-behren-as-saint-nicolas-e
+ n-foret-2@ffbb-agenda
+DTSTAMP:20260911T164812Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 CEPS BEHREN – AS SAINT NICOLAS EN FORET - 2
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ CEPS BEHREN vs
+  AS SAINT NICOLAS EN FORET - 2\n\nPALAIS DES SPORTS\n📍 Rue Robert Schum
+ an Behren-lès-Forbach 57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\
+ ,6.93507&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/dm3/match/200000014722021
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722021
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2026-12-13-15-30-ceps-behren-basket-club-hombou
+ rg-haut@ffbb-agenda
+DTSTAMP:20260911T164812Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:🏠 CEPS BEHREN – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ CEPS BEHREN vs
+  BASKET CLUB HOMBOURG-HAUT\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman B
+ ehren-lès-Forbach 57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.9
+ 3507&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ m3/match/200000014722034
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722034
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-01-17-15-30-ceps-behren-district-basket-ro
+ demack-ka@ffbb-agenda
+DTSTAMP:20260911T164812Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:🏠 CEPS BEHREN – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ CEPS BEHREN vs
+  DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nPALAIS DES SPORTS\n📍 Rue Rob
+ ert Schuman Behren-lès-Forbach 57460\n🚗 Waze : https://waze.com/ul?ll=
+ 49.16707\,6.93507&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dm3/match/200000014722044
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722044
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-01-31-15-30-ceps-behren-thionville-bc-3@ff
+ bb-agenda
+DTSTAMP:20260911T164812Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 CEPS BEHREN – THIONVILLE BC - 3
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ CEPS BEHREN vs
+  THIONVILLE BC - 3\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Behren-l
+ ès-Forbach 57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93507&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/matc
+ h/200000014722049
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722049
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-02-14-15-30-ceps-behren-j-s-audunoise-bask
+ et@ffbb-agenda
+DTSTAMP:20260911T164812Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 CEPS BEHREN – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ CEPS BEHREN vs
+  J.S.AUDUNOISE BASKET\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Behren
+ -lès-Forbach 57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93507&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/ma
+ tch/200000014722057
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722057
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-03-21-15-30-ceps-behren-fensch-basket-aven
+ ir-fba@ffbb-agenda
+DTSTAMP:20260911T164812Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:🏠 CEPS BEHREN – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ CEPS BEHREN vs
+  FENSCH BASKET AVENIR FBA\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Be
+ hren-lès-Forbach 57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93
+ 507&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ 3/match/200000014722071
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722071
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-04-04-15-30-ceps-behren-foxes-gandrange-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260911T164812Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:🏠 CEPS BEHREN – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ CEPS BEHREN vs
+  FOXES GANDRANGE BASKET CLUB\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman
+  Behren-lès-Forbach 57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6
+ .93507&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /dm3/match/200000014722076
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722076
+END:VEVENT
+BEGIN:VEVENT
+UID:dm3-ges-moselle-poule-a-2027-05-09-15-30-ceps-behren-asptt-metz-basket-
+ 2@ffbb-agenda
+DTSTAMP:20260911T164812Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:🏠 CEPS BEHREN – ASPTT METZ - BASKET - 2
+DESCRIPTION:🏀 DM3 – GES – Moselle – Poule A\n⚔️ CEPS BEHREN vs
+  ASPTT METZ - BASKET - 2\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Beh
+ ren-lès-Forbach 57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.935
+ 07&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3
+ /match/200000014722085
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm3/
+ match/200000014722085
+END:VEVENT
+END:VCALENDAR

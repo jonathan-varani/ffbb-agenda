@@ -72,8 +72,17 @@ TEAM_ABBREVIATIONS = load_team_abbreviations()
 
 
 def abbreviate_team(name: str) -> str:
-    """Renvoie le nom court si présent dans la table, sinon le nom tel quel."""
-    return TEAM_ABBREVIATIONS.get(name, name)
+    """Renvoie le nom court si présent dans la table, sinon le nom tel quel.
+
+    Un club avec plusieurs équipes est suffixé par la FFBB ("NOM - 1", "NOM - 2") :
+    on matche donc aussi en préfixe, en conservant ce suffixe.
+    """
+    if name in TEAM_ABBREVIATIONS:
+        return TEAM_ABBREVIATIONS[name]
+    for long_name in sorted(TEAM_ABBREVIATIONS, key=len, reverse=True):
+        if name.startswith(long_name) and name[len(long_name):len(long_name) + 1] in (" ", ""):
+            return TEAM_ABBREVIATIONS[long_name] + name[len(long_name):]
+    return name
 
 TEST_URL = (
     "https://competitions.ffbb.com/ligues/ara/competitions/pnf"

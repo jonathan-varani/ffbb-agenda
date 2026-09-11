@@ -26,6 +26,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Lancer le scraping (comités départementaux Grand Est)
+        env:
+          NOCODB_TOKEN: ${{ secrets.NOCODB_TOKEN }}
         run: >
           python generate_ics.py --region
           "https://competitions.ffbb.com/ligues/ges/comites/0008"
@@ -40,6 +42,8 @@ jobs:
           "https://competitions.ffbb.com/ligues/ges/comites/0088"
 
       - name: Commit + push si changements
+        env:
+          NOCODB_TOKEN: ${{ secrets.NOCODB_TOKEN }}
         run: |
           set -x
           git config user.name "ffbb-bot"

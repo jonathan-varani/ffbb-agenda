@@ -27,9 +27,13 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Lancer le scraping (région GES)
+        env:
+          NOCODB_TOKEN: ${{ secrets.NOCODB_TOKEN }}
         run: python generate_ics.py --region "https://competitions.ffbb.com/ligues/ges"
 
       - name: Commit + push si changements
+        env:
+          NOCODB_TOKEN: ${{ secrets.NOCODB_TOKEN }}
         run: |
           git config user.name "ffbb-bot"
           git config user.email "actions@github.com"

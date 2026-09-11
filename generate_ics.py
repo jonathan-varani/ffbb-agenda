@@ -26,6 +26,54 @@ OUTPUT_DIR   = "docs/calendars"       # dossier de sortie GitHub Pages
 MANIFEST     = "docs/calendars.json"  # index lu par le frontend
 TIMEZONE_STR = "Europe/Paris"
 PRODID       = "-//FFBB Agenda//FR"
+NOCODB_API             = "https://app.nocodb.com"
+NOCODB_TABLE_ABBREV    = "m2zeie8818xag60"  # table "Abreviations Equipes"
+NOCODB_TOKEN_FILE      = os.path.join("Nocodb", "Token_ffbb-agenda.txt")
+
+
+def load_team_abbreviations() -> dict:
+    """Charge la table nom long -> nom court depuis NocoDB (table Abreviations Equipes).
+
+    Ne fait jamais échouer generate_ics.py : si le token/la table est indisponible,
+    les noms d'équipe restent affichés tels quels.
+    """
+    token = os.environ.get("NOCODB_TOKEN")
+    if not token and os.path.exists(NOCODB_TOKEN_FILE):
+        with open(NOCODB_TOKEN_FILE, encoding="utf-8") as f:
+            token = f.read().strip()
+    if not token:
+        return {}
+
+    import requests
+    headers = {"xc-token": token}
+    mapping, offset = {}, 0
+    try:
+        while True:
+            res = requests.get(
+                f"{NOCODB_API}/api/v2/tables/{NOCODB_TABLE_ABBREV}/records",
+                headers=headers, params={"limit": 100, "offset": offset}, timeout=15,
+            )
+            res.raise_for_status()
+            page = res.json().get("list", [])
+            for row in page:
+                long_name, short_name = row.get("nom_long"), row.get("nom_court")
+                if long_name and short_name:
+                    mapping[long_name] = short_name
+            if len(page) < 100:
+                break
+            offset += 100
+    except Exception as e:
+        print(f"⚠️  Table d'abréviations NocoDB indisponible ({e}) — noms d'équipe non abrégés.")
+        return {}
+    return mapping
+
+
+TEAM_ABBREVIATIONS = load_team_abbreviations()
+
+
+def abbreviate_team(name: str) -> str:
+    """Renvoie le nom court si présent dans la table, sinon le nom tel quel."""
+    return TEAM_ABBREVIATIONS.get(name, name)
 
 TEST_URL = (
     "https://competitions.ffbb.com/ligues/ara/competitions/pnf"
@@ -89,8 +137,8 @@ def build_vevent(match: dict, competition_nom: str, uid_prefix: str, team: str |
     if team:
         lieu_emoji = "🏠 " if team == eq1 else "✈️ "
 
-    # Titre
-    titre = f"{lieu_emoji}{eq1} – {eq2}"
+    # Titre (avec noms abrégés si présents dans la table de correspondance)
+    titre = f"{lieu_emoji}{abbreviate_team(eq1)} – {abbreviate_team(eq2)}"
     if score and score not in ("", "0-0"):
         titre += f" ({score})"
 

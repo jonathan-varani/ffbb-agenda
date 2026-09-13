@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WEITBRUCH A.S.C.G  [RMU21 – GES – Poule A]
+X-WR-CALDESC:Matchs de WEITBRUCH A.S.C.G – RMU21 – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2026-10-04-14-30-espe-basket-chalons-en-champagne-wei
+ tbruch-a-@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20261004T143000
+DTEND;TZID=Europe/Paris:20261004T163000
+SUMMARY:✈️ ESPE BASKET CHALONS EN CHAMPAGNE – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ ESPE BASKET CHALONS EN C
+ HAMPAGNE vs WEITBRUCH A.S.C.G\n\nGYMNASE DANIEL CABOT\n📍 Rue René Lemo
+ ine Châlons-en-Champagne 51000\n🚗 Waze : https://waze.com/ul?ll=48.949
+ 36\,4.37276&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/m
+ atch/200000014753212
+LOCATION:GYMNASE DANIEL CABOT\, Rue René Lemoine Châlons-en-Champagne 510
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753212
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2026-10-10-18-00-weitbruch-a-s-c-g-asa-souffelweyersh
+ eim@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – ASA SOUFFELWEYERSHEIM
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G vs ASA
+  SOUFFELWEYERSHEIM\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weit
+ bruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753217
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753217
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2026-11-07-18-00-cos-villers-les-nancy-weitbruch-a-s-
+ c-g@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ COS VILLERS LES NANCY – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ COS VILLERS LES NANCY vs
+  WEITBRUCH A.S.C.G\n\nSALLE GILBERT BAUVIN\n📍 Rue Maurice André Viller
+ s-lès-Nancy 54600\n🚗 Waze : https://waze.com/ul?ll=48.67362\,6.15439&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001
+ 4753226
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753226
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2026-11-14-17-30-weitbruch-a-s-c-g-reims-champagne-ba
+ sket@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20261114T173000
+DTEND;TZID=Europe/Paris:20261114T193000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G vs REI
+ MS CHAMPAGNE BASKET\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Wei
+ tbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001475323
+ 4
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753234
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2026-11-23-20-30-s-u-schiltigheim-basket-ball-weitbru
+ ch-a-s-c-@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20261123T203000
+DTEND;TZID=Europe/Paris:20261123T223000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ S.U. SCHILTIGHEIM BASKET
+  BALL vs WEITBRUCH A.S.C.G\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Rue du
+  Marais Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.61103\,7
+ .76747&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/
+ 200000014753244
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753244
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2026-12-05-17-30-weitbruch-a-s-c-g-ceps-behren@ffbb-a
+ genda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20261205T173000
+DTEND;TZID=Europe/Paris:20261205T193000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – CEPS BEHREN
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G vs CEP
+ S BEHREN\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weitbruch 6750
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753251
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753251
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2027-01-09-17-30-weitbruch-a-s-c-g-espe-basket-chalon
+ s-en-cham@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20270109T173000
+DTEND;TZID=Europe/Paris:20270109T193000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – ESPE BASKET CHALONS EN CHAMPAGNE
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G vs ESP
+ E BASKET CHALONS EN CHAMPAGNE\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'
+ Église Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77
+ 719&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200
+ 000014753268
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753268
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2027-01-17-15-30-asa-souffelweyersheim-weitbruch-a-s-
+ c-g@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ ASA SOUFFELWEYERSHEIM vs
+  WEITBRUCH A.S.C.G\n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents Souffel
+ weyersheim 67460\n🚗 Waze : https://waze.com/ul?ll=48.6319\,7.74&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001475327
+ 3
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753273
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2027-01-23-00-00-weitbruch-a-s-c-g-cos-villers-les-na
+ ncy@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – COS VILLERS LES NANCY
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G vs COS
+  VILLERS LES NANCY\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Église Weit
+ bruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753282
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753282
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2027-02-07-15-30-reims-champagne-basket-weitbruch-a-s
+ -c-g@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:✈️ REIMS CHAMPAGNE BASKET – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET v
+ s WEITBRUCH A.S.C.G\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue François Ar
+ ago Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.22861\,4.00473&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001475
+ 3290
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753290
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2027-02-13-17-30-weitbruch-a-s-c-g-s-u-schiltigheim-b
+ asket-bal@ffbb-agenda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20270213T173000
+DTEND;TZID=Europe/Paris:20270213T193000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ WEITBRUCH A.S.C.G vs S.U
+ . SCHILTIGHEIM BASKET BALL\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'Égl
+ ise Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77719&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/2000000
+ 14753300
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753300
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-a-2027-03-13-18-00-ceps-behren-weitbruch-a-s-c-g@ffbb-a
+ genda
+DTSTAMP:20260913T224400Z
+DTSTART;TZID=Europe/Paris:20270313T180000
+DTEND;TZID=Europe/Paris:20270313T200000
+SUMMARY:✈️ CEPS BEHREN – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ CEPS BEHREN vs WEITBRUCH
+  A.S.C.G\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Behren-lès-Forbach
+  57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93507&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753307
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753307
+END:VEVENT
+END:VCALENDAR

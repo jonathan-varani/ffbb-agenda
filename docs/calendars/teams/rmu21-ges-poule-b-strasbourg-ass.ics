@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – STRASBOURG ASS  [RMU21 – GES – Poule B]
+X-WR-CALDESC:Matchs de STRASBOURG ASS – RMU21 – GES – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-10-04-15-30-racing-club-de-strasbourg-strasbourg
+ -ass@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ RACING CLUB DE STRASBOURG – STRASBOURG ASS
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ RACING CLUB DE STRASBOUR
+ G vs STRASBOURG ASS\n\nSALLE JEAN NICOLAS MULLER 2\n📍 Rue du Languedoc 
+ Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.54765\,7.74581&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/2000000147
+ 53215
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753215
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-10-11-15-30-strasbourg-ass-geispolsheim-c-j-s@ff
+ bb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:🏠 STRASBOURG ASS – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ STRASBOURG ASS vs GEISPO
+ LSHEIM C.J.S.\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss Strasbourg 67
+ 200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753222
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753222
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-11-07-18-00-asa-gries-oberhoffen-strasbourg-ass@
+ ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN – STRASBOURG ASS
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN v
+ s STRASBOURG ASS\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67240\n
+ 🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rmu21/match/200000014753229
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753229
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-11-15-15-30-strasbourg-ass-basket-club-de-kinger
+ sheim@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 STRASBOURG ASS – BASKET CLUB DE KINGERSHEIM
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ STRASBOURG ASS vs BASKET
+  CLUB DE KINGERSHEIM\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss Strasb
+ ourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753239
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753239
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-12-06-13-30-selestat-bc-strasbourg-ass@ffbb-agen
+ da
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261206T133000
+DTEND;TZID=Europe/Paris:20261206T153000
+SUMMARY:✈️ SELESTAT BC – STRASBOURG ASS
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ SELESTAT BC vs STRASBOUR
+ G ASS\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré Sélestat 67600\n🚗 Waz
+ e : https://waze.com/ul?ll=48.25946\,7.43429&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/competitions/rmu21/match/200000014753255
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753255
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-12-13-15-30-strasbourg-ass-holtzheim-vogesia@ffb
+ b-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:🏠 STRASBOURG ASS – HOLTZHEIM VOGESIA
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ STRASBOURG ASS vs HOLTZH
+ EIM VOGESIA\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss Strasbourg 6720
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753263
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753263
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-01-10-15-30-strasbourg-ass-racing-club-de-strasb
+ ourg@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:🏠 STRASBOURG ASS – RACING CLUB DE STRASBOURG
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ STRASBOURG ASS vs RACING
+  CLUB DE STRASBOURG\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss Strasbo
+ urg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753271
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753271
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-01-16-18-00-geispolsheim-c-j-s-strasbourg-ass@ff
+ bb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270116T180000
+DTEND;TZID=Europe/Paris:20270116T200000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. – STRASBOURG ASS
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. vs S
+ TRASBOURG ASS\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim 6
+ 7118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753278
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753278
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-01-24-15-30-strasbourg-ass-asa-gries-oberhoffen@
+ ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270124T153000
+DTEND;TZID=Europe/Paris:20270124T173000
+SUMMARY:🏠 STRASBOURG ASS – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ STRASBOURG ASS vs ASA GR
+ IES / OBERHOFFEN\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss Strasbourg
+  67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753285
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753285
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-02-06-20-30-basket-club-de-kingersheim-strasbour
+ g-ass@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM – STRASBOURG ASS
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ BASKET CLUB DE KINGERSHE
+ IM vs STRASBOURG ASS\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Coubertin Ki
+ ngersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.32801&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001475
+ 3295
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753295
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-03-14-15-30-strasbourg-ass-selestat-bc@ffbb-agen
+ da
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 STRASBOURG ASS – SELESTAT BC
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ STRASBOURG ASS vs SELEST
+ AT BC\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss Strasbourg 67200\n
+ 🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/competitions/rmu21/match/200000014753311
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753311
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-03-21-15-30-holtzheim-vogesia-strasbourg-ass@ffb
+ b-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:✈️ HOLTZHEIM VOGESIA – STRASBOURG ASS
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ HOLTZHEIM VOGESIA vs STR
+ ASBOURG ASS\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 67810\n🚗
+  Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/competitions/rmu21/match/200000014753319
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753319
+END:VEVENT
+END:VCALENDAR

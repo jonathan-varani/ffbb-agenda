@@ -1,0 +1,226 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB DE KINGERSHEIM  [RMU21 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB DE KINGERSHEIM – RMU21 – GES – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-10-03-18-00-geispolsheim-c-j-s-basket-club-de-ki
+ ngersheim@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. – BASKET CLUB DE KINGERSHEIM
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. vs B
+ ASKET CLUB DE KINGERSHEIM\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Ge
+ ispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/2000000147
+ 53214
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753214
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-10-11-13-00-basket-club-de-kingersheim-asa-gries
+ -oberhoff@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261011T130000
+DTEND;TZID=Europe/Paris:20261011T150000
+SUMMARY:🏠 BASKET CLUB DE KINGERSHEIM – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ BASKET CLUB DE KINGERSHE
+ IM vs ASA GRIES / OBERHOFFEN\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Coub
+ ertin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.32
+ 801&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200
+ 000014753223
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753223
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-11-15-15-30-strasbourg-ass-basket-club-de-kinger
+ sheim@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ STRASBOURG ASS – BASKET CLUB DE KINGERSHEIM
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ STRASBOURG ASS vs BASKET
+  CLUB DE KINGERSHEIM\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss Strasb
+ ourg 67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753239
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753239
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-11-21-18-00-basket-club-de-kingersheim-selestat-
+ bc@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:🏠 BASKET CLUB DE KINGERSHEIM – SELESTAT BC
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ BASKET CLUB DE KINGERSHE
+ IM vs SELESTAT BC\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Coubertin Kinge
+ rsheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.32801&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001475324
+ 8
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753248
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-12-06-15-30-holtzheim-vogesia-basket-club-de-kin
+ gersheim@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ HOLTZHEIM VOGESIA – BASKET CLUB DE KINGERSHEIM
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ HOLTZHEIM VOGESIA vs BAS
+ KET CLUB DE KINGERSHEIM\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim
+  67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753254
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753254
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-12-13-15-00-basket-club-de-kingersheim-racing-cl
+ ub-de-str@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261213T150000
+DTEND;TZID=Europe/Paris:20261213T170000
+SUMMARY:🏠 BASKET CLUB DE KINGERSHEIM – RACING CLUB DE STRASBOURG
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ BASKET CLUB DE KINGERSHE
+ IM vs RACING CLUB DE STRASBOURG\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de C
+ oubertin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7
+ .32801&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/
+ 200000014753264
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753264
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-01-10-15-00-basket-club-de-kingersheim-geispolsh
+ eim-c-j-s@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270110T150000
+DTEND;TZID=Europe/Paris:20270110T170000
+SUMMARY:🏠 BASKET CLUB DE KINGERSHEIM – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ BASKET CLUB DE KINGERSHE
+ IM vs GEISPOLSHEIM C.J.S.\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Coubert
+ in Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.32801
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000
+ 014753270
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753270
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-01-16-18-00-asa-gries-oberhoffen-basket-club-de-
+ kingershe@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270116T180000
+DTEND;TZID=Europe/Paris:20270116T200000
+SUMMARY:✈️ ASA GRIES / OBERHOFFEN – BASKET CLUB DE KINGERSHEIM
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN v
+ s BASKET CLUB DE KINGERSHEIM\n\nESPACE SPORT LA FORET\n📍 Rue du Stade G
+ ries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753279
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753279
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-02-06-20-30-basket-club-de-kingersheim-strasbour
+ g-ass@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 BASKET CLUB DE KINGERSHEIM – STRASBOURG ASS
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ BASKET CLUB DE KINGERSHE
+ IM vs STRASBOURG ASS\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Coubertin Ki
+ ngersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.32801&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001475
+ 3295
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753295
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-02-14-13-30-selestat-bc-basket-club-de-kingershe
+ im@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270214T133000
+DTEND;TZID=Europe/Paris:20270214T153000
+SUMMARY:✈️ SELESTAT BC – BASKET CLUB DE KINGERSHEIM
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ SELESTAT BC vs BASKET CL
+ UB DE KINGERSHEIM\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré Sélestat 676
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753304
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753304
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-03-13-20-30-basket-club-de-kingersheim-holtzheim
+ -vogesia@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 BASKET CLUB DE KINGERSHEIM – HOLTZHEIM VOGESIA
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ BASKET CLUB DE KINGERSHE
+ IM vs HOLTZHEIM VOGESIA\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Coubertin
+  Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.32801&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001
+ 4753310
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753310
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-03-21-15-30-racing-club-de-strasbourg-basket-clu
+ b-de-king@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:✈️ RACING CLUB DE STRASBOURG – BASKET CLUB DE KINGERSHEIM
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ RACING CLUB DE STRASBOUR
+ G vs BASKET CLUB DE KINGERSHEIM\n\nSALLE JEAN NICOLAS MULLER 2\n📍 Rue d
+ u Languedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.54765\
+ ,7.74581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/matc
+ h/200000014753320
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753320
+END:VEVENT
+END:VCALENDAR

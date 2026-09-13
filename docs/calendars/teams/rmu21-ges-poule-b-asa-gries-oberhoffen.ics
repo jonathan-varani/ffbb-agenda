@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASA GRIES / OBERHOFFEN  [RMU21 – GES – Poule B]
+X-WR-CALDESC:Matchs de ASA GRIES / OBERHOFFEN – RMU21 – GES – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-10-11-13-00-basket-club-de-kingersheim-asa-gries
+ -oberhoff@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261011T130000
+DTEND;TZID=Europe/Paris:20261011T150000
+SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ BASKET CLUB DE KINGERSHE
+ IM vs ASA GRIES / OBERHOFFEN\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Coub
+ ertin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.32
+ 801&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200
+ 000014753223
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753223
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-11-07-18-00-asa-gries-oberhoffen-strasbourg-ass@
+ ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – STRASBOURG ASS
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN v
+ s STRASBOURG ASS\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67240\n
+ 🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rmu21/match/200000014753229
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753229
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-11-15-13-30-selestat-bc-asa-gries-oberhoffen@ffb
+ b-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261115T133000
+DTEND;TZID=Europe/Paris:20261115T153000
+SUMMARY:✈️ SELESTAT BC – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ SELESTAT BC vs ASA GRIES
+  / OBERHOFFEN\n\nGYMNASE DORLAN\n📍 Rue Gabriel Fauré Sélestat 67600\n
+ 🚗 Waze : https://waze.com/ul?ll=48.25946\,7.43429&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rmu21/match/200000014753238
+LOCATION:GYMNASE DORLAN\, Rue Gabriel Fauré Sélestat 67600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753238
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-11-21-18-00-asa-gries-oberhoffen-holtzheim-voges
+ ia@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – HOLTZHEIM VOGESIA
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN v
+ s HOLTZHEIM VOGESIA\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 6724
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753245
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753245
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-12-06-15-30-racing-club-de-strasbourg-asa-gries-
+ oberhoffe@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ RACING CLUB DE STRASBOURG – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ RACING CLUB DE STRASBOUR
+ G vs ASA GRIES / OBERHOFFEN\n\nSALLE JEAN NICOLAS MULLER 2\n📍 Rue du La
+ nguedoc Strasbourg 67100\n🚗 Waze : https://waze.com/ul?ll=48.54765\,7.7
+ 4581&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20
+ 0000014753253
+LOCATION:SALLE JEAN NICOLAS MULLER 2\, Rue du Languedoc Strasbourg 67100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753253
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2026-12-12-18-00-asa-gries-oberhoffen-geispolsheim-c-
+ j-s@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN v
+ s GEISPOLSHEIM C.J.S.\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67
+ 240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753261
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753261
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-01-16-18-00-asa-gries-oberhoffen-basket-club-de-
+ kingershe@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270116T180000
+DTEND;TZID=Europe/Paris:20270116T200000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – BASKET CLUB DE KINGERSHEIM
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN v
+ s BASKET CLUB DE KINGERSHEIM\n\nESPACE SPORT LA FORET\n📍 Rue du Stade G
+ ries 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753279
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753279
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-01-24-15-30-strasbourg-ass-asa-gries-oberhoffen@
+ ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270124T153000
+DTEND;TZID=Europe/Paris:20270124T173000
+SUMMARY:✈️ STRASBOURG ASS – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ STRASBOURG ASS vs ASA GR
+ IES / OBERHOFFEN\n\nGYMNASE DE LA ROTONDE\n📍 Rue Pierre Nuss Strasbourg
+  67200\n🚗 Waze : https://waze.com/ul?ll=48.5894\,7.72525&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753285
+LOCATION:GYMNASE DE LA ROTONDE\, Rue Pierre Nuss Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753285
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-02-06-18-00-asa-gries-oberhoffen-selestat-bc@ffb
+ b-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270206T180000
+DTEND;TZID=Europe/Paris:20270206T200000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – SELESTAT BC
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN v
+ s SELESTAT BC\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67240\n
+ 🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rmu21/match/200000014753294
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753294
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-02-14-15-30-holtzheim-vogesia-asa-gries-oberhoff
+ en@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ HOLTZHEIM VOGESIA – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ HOLTZHEIM VOGESIA vs ASA
+  GRIES / OBERHOFFEN\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 678
+ 10\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753301
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753301
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-03-13-18-00-asa-gries-oberhoffen-racing-club-de-
+ strasbour@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270313T180000
+DTEND;TZID=Europe/Paris:20270313T200000
+SUMMARY:🏠 ASA GRIES / OBERHOFFEN – RACING CLUB DE STRASBOURG
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ ASA GRIES / OBERHOFFEN v
+ s RACING CLUB DE STRASBOURG\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gr
+ ies 67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753309
+LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753309
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-poule-b-2027-03-20-18-00-geispolsheim-c-j-s-asa-gries-oberhof
+ fen@ffbb-agenda
+DTSTAMP:20260913T224406Z
+DTSTART;TZID=Europe/Paris:20270320T180000
+DTEND;TZID=Europe/Paris:20270320T200000
+SUMMARY:✈️ GEISPOLSHEIM C.J.S. – ASA GRIES / OBERHOFFEN
+DESCRIPTION:🏀 RMU21 – GES – Poule B\n⚔️ GEISPOLSHEIM C.J.S. vs A
+ SA GRIES / OBERHOFFEN\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispo
+ lsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001475331
+ 7
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753317
+END:VEVENT
+END:VCALENDAR

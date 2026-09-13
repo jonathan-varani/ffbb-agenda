@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DRUSENHEIM A.B.C. - 2  [DMU11-3 – GES – Poule D]
+X-WR-CALDESC:Matchs de DRUSENHEIM A.B.C. - 2 – DMU11-3 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-3-ges-bas-rhin-poule-d-2026-09-27-10-30-drusenheim-a-b-c-2-basket
+ -club-hoe@ffbb-agenda
+DTSTAMP:20260913T223640Z
+DTSTART;TZID=Europe/Paris:20260927T103000
+DTEND;TZID=Europe/Paris:20260927T123000
+SUMMARY:🏠 DRUSENHEIM A.B.C. - 2 – BASKET CLUB HOENHEIM
+DESCRIPTION:🏀 DMU11-3 – GES – Bas-Rhin – Poule D\n⚔️ DRUSENHEI
+ M A.B.C. - 2 vs BASKET CLUB HOENHEIM\n\nGYMNASE INTERCOMMUNAL\n📍 Rue du
+  Collège Drusenheim 67410\n🚗 Waze : https://waze.com/ul?ll=48.76147\,7
+ .95978&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions
+ /dmu11-3/match/200000014750817
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Collège Drusenheim 67410
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-3/match/200000014750817
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-3-ges-bas-rhin-poule-d-2026-10-03-00-00-drusenheim-a-b-c-2-seltz-
+ multi-spo@ffbb-agenda
+DTSTAMP:20260913T223640Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 DRUSENHEIM A.B.C. - 2 – SELTZ MULTI SPORT CLUB
+DESCRIPTION:🏀 DMU11-3 – GES – Bas-Rhin – Poule D\n⚔️ DRUSENHEI
+ M A.B.C. - 2 vs SELTZ MULTI SPORT CLUB\n\nGYMNASE INTERCOMMUNAL\n📍 Rue 
+ du Collège Drusenheim 67410\n🚗 Waze : https://waze.com/ul?ll=48.76147\
+ ,7.95978&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dmu11-3/match/200000014750840
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Collège Drusenheim 67410
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-3/match/200000014750840
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-3-ges-bas-rhin-poule-d-2026-10-10-13-30-drusenheim-a-b-c-2-walbou
+ rg-eschba@ffbb-agenda
+DTSTAMP:20260913T223640Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:🏠 DRUSENHEIM A.B.C. - 2 – WALBOURG ESCHBACH BASKET
+DESCRIPTION:🏀 DMU11-3 – GES – Bas-Rhin – Poule D\n⚔️ DRUSENHEI
+ M A.B.C. - 2 vs WALBOURG ESCHBACH BASKET\n\nGYMNASE INTERCOMMUNAL\n📍 Ru
+ e du Collège Drusenheim 67410\n🚗 Waze : https://waze.com/ul?ll=48.7614
+ 7\,7.95978&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competit
+ ions/dmu11-3/match/200000014750862
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Collège Drusenheim 67410
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-3/match/200000014750862
+END:VEVENT
+END:VCALENDAR

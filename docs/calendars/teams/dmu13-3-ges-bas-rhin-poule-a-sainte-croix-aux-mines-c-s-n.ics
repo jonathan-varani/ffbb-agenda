@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAINTE CROIX AUX MINES C.S.N.  [DMU13-3 – GES – Poule A]
+X-WR-CALDESC:Matchs de SAINTE CROIX AUX MINES C.S.N. – DMU13-3 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-a-2026-09-26-00-00-val-de-ville-b-c-2-sainte
+ -croix-au@ffbb-agenda
+DTSTAMP:20260913T223108Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ VAL DE VILLE B.C. - 2 – SAINTE CROIX AUX MINES C.S.N.
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule A\n⚔️ VAL DE VI
+ LLE B.C. - 2 vs SAINTE CROIX AUX MINES C.S.N.\n\nCENTRE SPORTIF\n📍 Rue 
+ Belle Vue Villé 67220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.297
+ 88&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu
+ 13-3/match/200000014750927
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750927
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-a-2026-10-03-14-00-sainte-croix-aux-mines-c-
+ s-n-witte@ffbb-agenda
+DTSTAMP:20260913T223108Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. – WITTERNHEIM
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule A\n⚔️ SAINTE CR
+ OIX AUX MINES C.S.N. vs WITTERNHEIM\n\nSALLE DES SPORTS DE LA TIMBACH\n
+ 📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : https://waz
+ e.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0067/competitions/dmu13-3/match/200000014750938
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750938
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-a-2026-10-10-13-30-sainte-croix-aux-mines-c-
+ s-n-kogen@ffbb-agenda
+DTSTAMP:20260913T223108Z
+DTSTART;TZID=Europe/Paris:20261010T133000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:🏠 SAINTE CROIX AUX MINES C.S.N. – KOGENHEIM/SERMERSHEIM B.C. -
+  2
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule A\n⚔️ SAINTE CR
+ OIX AUX MINES C.S.N. vs KOGENHEIM/SERMERSHEIM B.C. - 2\n\nSALLE DES SPORTS
+  DE LA TIMBACH\n📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/comites/0067/competitions/dmu13-3/match/200000014750948
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750948
+END:VEVENT
+END:VCALENDAR

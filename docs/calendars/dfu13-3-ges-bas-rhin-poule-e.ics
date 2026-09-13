@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DFU13-3 – GES – Bas-Rhin – Poule E
+X-WR-CALDESC:Tous les matchs DFU13-3 – GES – Bas-Rhin – Poule E
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-e-2026-09-26-00-00-ie-ctc-sow-schaeffersheim
+ -a-s-l-c-@ffbb-agenda
+DTSTAMP:20260913T221227Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C. – VAL DE VILLE B.C.
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule E\n⚔️ IE - CTC 
+ SOW - SCHAEFFERSHEIM A.S.L.C. vs VAL DE VILLE B.C.\n\nSALLE POLYVALENTE\n
+ 📍 Rue du Stade Westhouse 67230\n🚗 Waze : https://waze.com/ul?ll=48.4
+ 0179\,7.58972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dfu13-3/match/200000014750904
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Westhouse 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750904
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-e-2026-09-26-15-00-ebersheim-c-c-a-barr-gert
+ willer@ffbb-agenda
+DTSTAMP:20260913T221227Z
+DTSTART;TZID=Europe/Paris:20260926T150000
+DTEND;TZID=Europe/Paris:20260926T170000
+SUMMARY:EBERSHEIM C.C.A – BARR/GERTWILLER
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule E\n⚔️ EBERSHEIM
+  C.C.A vs BARR/GERTWILLER\n\nSALLE IGNACE HEINRICH\n📍 Rue de Muttershol
+ tz Ebersheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.30144\,7.50142&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-3
+ /match/200000014750905
+LOCATION:SALLE IGNACE HEINRICH\, Rue de Muttersholtz Ebersheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750905
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-e-2026-10-03-00-00-barr-gertwiller-ie-ctc-so
+ w-schaeff@ffbb-agenda
+DTSTAMP:20260913T221227Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:BARR/GERTWILLER – IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C.
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule E\n⚔️ BARR/GERT
+ WILLER vs IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C.\n\nHALL DU SIVOM\n📍 Ru
+ e du Lycée Barr 67140\n🚗 Waze : https://waze.com/ul?ll=48.4098\,7.4579
+ 4&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750914
+LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750914
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-e-2026-10-03-00-00-val-de-ville-b-c-ebershei
+ m-c-c-a@ffbb-agenda
+DTSTAMP:20260913T221227Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:VAL DE VILLE B.C. – EBERSHEIM C.C.A
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule E\n⚔️ VAL DE VI
+ LLE B.C. vs EBERSHEIM C.C.A\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé 6
+ 7220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-3/match/2000000
+ 14750915
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750915
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-e-2026-10-10-00-00-val-de-ville-b-c-barr-ger
+ twiller@ffbb-agenda
+DTSTAMP:20260913T221227Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:VAL DE VILLE B.C. – BARR/GERTWILLER
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule E\n⚔️ VAL DE VI
+ LLE B.C. vs BARR/GERTWILLER\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé 6
+ 7220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-3/match/2000000
+ 14750925
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750925
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-e-2026-10-10-00-00-ie-ctc-sow-schaeffersheim
+ -a-s-l-c-@ffbb-agenda
+DTSTAMP:20260913T221227Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:IE - CTC SOW - SCHAEFFERSHEIM A.S.L.C. – EBERSHEIM C.C.A
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule E\n⚔️ IE - CTC 
+ SOW - SCHAEFFERSHEIM A.S.L.C. vs EBERSHEIM C.C.A\n\nSALLE POLYVALENTE\n
+ 📍 Rue du Stade Westhouse 67230\n🚗 Waze : https://waze.com/ul?ll=48.4
+ 0179\,7.58972&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/compe
+ titions/dfu13-3/match/200000014750924
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Westhouse 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750924
+END:VEVENT
+END:VCALENDAR

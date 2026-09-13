@@ -24,9 +24,27 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:b-2-dmu15-2-ges-marne-poule-a-2026-09-26-00-00-la-fertonne-fere-champen
+ oise-unio@ffbb-agenda
+DTSTAMP:20260913T230517Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:LA FERTONNE FERE-CHAMPENOISE – UNION SPORTIVE FISMOISE ARDRE et V
+ ESLE
+DESCRIPTION:🏀 B-2-DMU15-2 – GES – Marne – Poule A\n⚔️ LA FERTO
+ NNE FERE-CHAMPENOISE vs UNION SPORTIVE FISMOISE ARDRE et VESLE\n\nHALLE DE
+ S SPORTS\n📍 Avenue de la Gare Fismes 51170\n🚗 Waze : https://waze.co
+ m/ul?ll=49.3099\,3.68889&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0051/competitions/b-2-dmu15-2/match/200000014687170
+LOCATION:HALLE DES SPORTS\, Avenue de la Gare Fismes 51170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
+ dmu15-2/match/200000014687170
+END:VEVENT
+BEGIN:VEVENT
 UID:b-2-dmu15-2-ges-marne-poule-a-2026-09-26-00-00-eveil-recy-saint-martin-
  basket-as@ffbb-agenda
-DTSTAMP:20260912T204653Z
+DTSTAMP:20260913T230517Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:EVEIL RECY SAINT MARTIN BASKET – AS AMATEUR TINQUEUX BASKET
@@ -43,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b-2-dmu15-2-ges-marne-poule-a-2026-09-26-00-00-eveil-recy-saint-martin-
  basket-la@ffbb-agenda
-DTSTAMP:20260912T204653Z
+DTSTAMP:20260913T230517Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:EVEIL RECY SAINT MARTIN BASKET – LA FERTONNE FERE-CHAMPENOISE
@@ -60,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b-2-dmu15-2-ges-marne-poule-a-2026-09-26-00-00-as-amateur-tinqueux-bask
  et-union-@ffbb-agenda
-DTSTAMP:20260912T204653Z
+DTSTAMP:20260913T230517Z
 DTSTART;TZID=Europe/Paris:20260926T000000
 DTEND;TZID=Europe/Paris:20260926T020000
 SUMMARY:AS AMATEUR TINQUEUX BASKET – UNION SPORTIVE FISMOISE ARDRE et VES
@@ -74,23 +92,5 @@ DESCRIPTION:🏀 B-2-DMU15-2 – GES – Marne – Poule A\n⚔️ AS AMATE
 LOCATION:HALLE DES SPORTS\, Avenue de la Gare Fismes 51170
 URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
  dmu15-2/match/200000014687169
-END:VEVENT
-BEGIN:VEVENT
-UID:b-2-dmu15-2-ges-marne-poule-a-2026-09-26-00-00-la-fertonne-fere-champen
- oise-unio@ffbb-agenda
-DTSTAMP:20260912T204653Z
-DTSTART;TZID=Europe/Paris:20260926T000000
-DTEND;TZID=Europe/Paris:20260926T020000
-SUMMARY:LA FERTONNE FERE-CHAMPENOISE – UNION SPORTIVE FISMOISE ARDRE et V
- ESLE
-DESCRIPTION:🏀 B-2-DMU15-2 – GES – Marne – Poule A\n⚔️ LA FERTO
- NNE FERE-CHAMPENOISE vs UNION SPORTIVE FISMOISE ARDRE et VESLE\n\nHALLE DE
- S SPORTS\n📍 Avenue de la Gare Fismes 51170\n🚗 Waze : https://waze.co
- m/ul?ll=49.3099\,3.68889&navigate=yes\n\n📢 Arbitres : Pas de désignati
- on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
- /0051/competitions/b-2-dmu15-2/match/200000014687170
-LOCATION:HALLE DES SPORTS\, Avenue de la Gare Fismes 51170
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-2-
- dmu15-2/match/200000014687170
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – KESKASTEL BC  [DFU13-3 – GES – Poule D]
+X-WR-CALDESC:Matchs de KESKASTEL BC – DFU13-3 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-d-2026-09-26-00-00-schiltigheim-au-keskastel
+ -bc@ffbb-agenda
+DTSTAMP:20260913T221220Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ SCHILTIGHEIM AU – KESKASTEL BC
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule D\n⚔️ SCHILTIGH
+ EIM AU vs KESKASTEL BC\n\nGYMNASE DES MALTERIES 1\n📍 Rue des Malteries 
+ Schiltigheim 67300\n🚗 Waze : https://waze.com/ul?ll=48.60445\,7.74374&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-3
+ /match/200000014750902
+LOCATION:GYMNASE DES MALTERIES 1\, Rue des Malteries Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750902
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-d-2026-10-03-00-00-keskastel-bc-eckbolsheim-
+ bb-2@ffbb-agenda
+DTSTAMP:20260913T221220Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 KESKASTEL BC – ECKBOLSHEIM BB - 2
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule D\n⚔️ KESKASTEL
+  BC vs ECKBOLSHEIM BB - 2\n\nSALLE POLYVALENTE\n📍 Rue de la Fontaine Ke
+ skastel 67260\n🚗 Waze : https://waze.com/ul?ll=48.97217\,7.04804&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-3/matc
+ h/200000014750913
+LOCATION:SALLE POLYVALENTE\, Rue de la Fontaine Keskastel 67260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750913
+END:VEVENT
+END:VCALENDAR

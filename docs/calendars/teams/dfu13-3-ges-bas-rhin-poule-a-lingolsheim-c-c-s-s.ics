@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LINGOLSHEIM C.C.S.S.  [DFU13-3 – GES – Poule A]
+X-WR-CALDESC:Matchs de LINGOLSHEIM C.C.S.S. – DFU13-3 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-a-2026-09-26-00-00-lingolsheim-c-c-s-s-unita
+ s-brumath@ffbb-agenda
+DTSTAMP:20260913T221205Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 LINGOLSHEIM C.C.S.S. – UNITAS BRUMATH BASKET
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule A\n⚔️ LINGOLSHE
+ IM C.C.S.S. vs UNITAS BRUMATH BASKET\n\nGYMNASE DES VOSGES\n📍 Rue des T
+ ulipes Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7.6
+ 8652&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ fu13-3/match/200000014750897
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750897
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-a-2026-10-03-00-00-mundolsheim-b-c-lingolshe
+ im-c-c-s-@ffbb-agenda
+DTSTAMP:20260913T221205Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ MUNDOLSHEIM B.C. – LINGOLSHEIM C.C.S.S.
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule A\n⚔️ MUNDOLSHE
+ IM B.C. vs LINGOLSHEIM C.C.S.S.\n\nGYMNASE DU COLLEGE - COSEC\n📍 Rue du
+  Collège Mundolsheim 67450\n🚗 Waze : https://waze.com/ul?ll=48.64379\,
+ 7.70957&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dfu13-3/match/200000014750907
+LOCATION:GYMNASE DU COLLEGE - COSEC\, Rue du Collège Mundolsheim 67450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750907
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-a-2026-10-11-16-00-griesheim-dingsheim-b-c-2
+ -lingolsh@ffbb-agenda
+DTSTAMP:20260913T221205Z
+DTSTART;TZID=Europe/Paris:20261011T160000
+DTEND;TZID=Europe/Paris:20261011T180000
+SUMMARY:✈️ GRIESHEIM/DINGSHEIM B.C. - 2 – LINGOLSHEIM C.C.S.S.
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule A\n⚔️ GRIESHEIM
+ /DINGSHEIM B.C. - 2 vs LINGOLSHEIM C.C.S.S.\n\nLES PORTES DU KOCHERSBERG\n
+ 📍 Rue du Gymnase Pfulgriesheim 67370\n🚗 Waze : https://waze.com/ul?l
+ l=48.63873\,7.66855&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067
+ /competitions/dfu13-3/match/200000014750916
+LOCATION:LES PORTES DU KOCHERSBERG\, Rue du Gymnase Pfulgriesheim 67370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750916
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – URMATT BC  [DFU13-3 – GES – Poule B]
+X-WR-CALDESC:Matchs de URMATT BC – DFU13-3 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-b-2026-10-04-09-00-bruche-sports-academy-2-u
+ rmatt-bc@ffbb-agenda
+DTSTAMP:20260913T221210Z
+DTSTART;TZID=Europe/Paris:20261004T090000
+DTEND;TZID=Europe/Paris:20261004T110000
+SUMMARY:✈️ BRUCHE SPORTS ACADEMY - 2 – URMATT BC
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule B\n⚔️ BRUCHE SP
+ ORTS ACADEMY - 2 vs URMATT BC\n\nGYMNASE INTERCOMMUNAL\n📍 Rue Curie Gre
+ sswiller 67190\n🚗 Waze : https://waze.com/ul?ll=48.5343\,7.42123&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu13-3/matc
+ h/200000014750909
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue Curie Gresswiller 67190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750909
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu13-3-ges-bas-rhin-poule-b-2026-10-10-00-00-wangenbourg-engenthal-u-s
+ -urmatt-b@ffbb-agenda
+DTSTAMP:20260913T221210Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ WANGENBOURG-ENGENTHAL U.S. – URMATT BC
+DESCRIPTION:🏀 DFU13-3 – GES – Bas-Rhin – Poule B\n⚔️ WANGENBOU
+ RG-ENGENTHAL U.S. vs URMATT BC\n\nSALLE POLYVALENTE\n📍 Lieu-dit Engenth
+ al le Bas Wangenbourg-Engenthal 67710\n🚗 Waze : https://waze.com/ul?ll=
+ 48.63353\,7.29841&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dfu13-3/match/200000014750918
+LOCATION:SALLE POLYVALENTE\, Lieu-dit Engenthal le Bas Wangenbourg-Engentha
+ l 67710
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 3-3/match/200000014750918
+END:VEVENT
+END:VCALENDAR

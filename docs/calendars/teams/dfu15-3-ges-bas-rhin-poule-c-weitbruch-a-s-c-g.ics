@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WEITBRUCH A.S.C.G  [DFU15-3 – GES – Poule C]
+X-WR-CALDESC:Matchs de WEITBRUCH A.S.C.G – DFU15-3 – GES – Bas-Rhin – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-3-ges-bas-rhin-poule-c-2026-09-26-15-30-wissembourg-bc-weitbruch-
+ a-s-c-g@ffbb-agenda
+DTSTAMP:20260913T220843Z
+DTSTART;TZID=Europe/Paris:20260926T153000
+DTEND;TZID=Europe/Paris:20260926T173000
+SUMMARY:✈️ WISSEMBOURG BC – WEITBRUCH A.S.C.G
+DESCRIPTION:🏀 DFU15-3 – GES – Bas-Rhin – Poule C\n⚔️ WISSEMBOU
+ RG BC vs WEITBRUCH A.S.C.G\n\nGYMNASE DU LYCEE\n📍 Rue du Lycée Wissemb
+ ourg 67160\n🚗 Waze : https://waze.com/ul?ll=49.03522\,7.9609&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu15-3/match/20
+ 0000014750961
+LOCATION:GYMNASE DU LYCEE\, Rue du Lycée Wissembourg 67160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-3/match/200000014750961
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-3-ges-bas-rhin-poule-c-2026-10-03-00-00-weitbruch-a-s-c-g-souffle
+ nheim-c-c@ffbb-agenda
+DTSTAMP:20260913T220843Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – SOUFFLENHEIM C.C.S.A - 2
+DESCRIPTION:🏀 DFU15-3 – GES – Bas-Rhin – Poule C\n⚔️ WEITBRUCH
+  A.S.C.G vs SOUFFLENHEIM C.C.S.A - 2\n\nSALLE POLYVALENTE GALLIA\n📍 Rue
+  de l'Église Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192
+ \,7.77719&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dfu15-3/match/200000014750968
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-3/match/200000014750968
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-3-ges-bas-rhin-poule-c-2026-10-10-16-00-weitbruch-a-s-c-g-drusenh
+ eim-a-b-c@ffbb-agenda
+DTSTAMP:20260913T220843Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 WEITBRUCH A.S.C.G – DRUSENHEIM A.B.C.
+DESCRIPTION:🏀 DFU15-3 – GES – Bas-Rhin – Poule C\n⚔️ WEITBRUCH
+  A.S.C.G vs DRUSENHEIM A.B.C.\n\nSALLE POLYVALENTE GALLIA\n📍 Rue de l'
+ Église Weitbruch 67500\n🚗 Waze : https://waze.com/ul?ll=48.75192\,7.77
+ 719&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/df
+ u15-3/match/200000014750974
+LOCATION:SALLE POLYVALENTE GALLIA\, Rue de l'Église Weitbruch 67500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5-3/match/200000014750974
+END:VEVENT
+END:VCALENDAR

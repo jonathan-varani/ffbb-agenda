@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – HOLTZHEIM VOGESIA  [DMU11-3 – GES – Poule E]
+X-WR-CALDESC:Matchs de HOLTZHEIM VOGESIA – DMU11-3 – GES – Bas-Rhin – Poule E
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-3-ges-bas-rhin-poule-e-2026-09-26-00-00-ohnheim-c-s-s-a-holtzheim
+ -vogesia@ffbb-agenda
+DTSTAMP:20260913T223647Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ OHNHEIM C.S.S.A. – HOLTZHEIM VOGESIA
+DESCRIPTION:🏀 DMU11-3 – GES – Bas-Rhin – Poule E\n⚔️ OHNHEIM C
+ .S.S.A. vs HOLTZHEIM VOGESIA\n\nCENTRE SPORTIF ET CULTUREL\n📍 Place des
+  Fêtes Fegersheim 67640\n🚗 Waze : https://waze.com/ul?ll=48.49126\,7.6
+ 8302&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/d
+ mu11-3/match/200000014750820
+LOCATION:CENTRE SPORTIF ET CULTUREL\, Place des Fêtes Fegersheim 67640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-3/match/200000014750820
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-3-ges-bas-rhin-poule-e-2026-10-04-10-30-holtzheim-vogesia-geispol
+ sheim-c-j@ffbb-agenda
+DTSTAMP:20260913T223647Z
+DTSTART;TZID=Europe/Paris:20261004T103000
+DTEND;TZID=Europe/Paris:20261004T123000
+SUMMARY:🏠 HOLTZHEIM VOGESIA – GEISPOLSHEIM C.J.S. - 4
+DESCRIPTION:🏀 DMU11-3 – GES – Bas-Rhin – Poule E\n⚔️ HOLTZHEIM
+  VOGESIA vs GEISPOLSHEIM C.J.S. - 4\n\nSALLE DE LA BRUCHE\n📍 Rue du Sta
+ de Holtzheim 67810\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-3
+ /match/200000014750841
+LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-3/match/200000014750841
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-3-ges-bas-rhin-poule-e-2026-10-10-00-00-lingolsheim-c-c-s-s-holtz
+ heim-voge@ffbb-agenda
+DTSTAMP:20260913T223647Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ LINGOLSHEIM C.C.S.S. – HOLTZHEIM VOGESIA
+DESCRIPTION:🏀 DMU11-3 – GES – Bas-Rhin – Poule E\n⚔️ LINGOLSHE
+ IM C.C.S.S. vs HOLTZHEIM VOGESIA\n\nGYMNASE DES VOSGES\n📍 Rue des Tulip
+ es Lingolsheim 67380\n🚗 Waze : https://waze.com/ul?ll=48.56063\,7.68652
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11
+ -3/match/200000014750864
+LOCATION:GYMNASE DES VOSGES\, Rue des Tulipes Lingolsheim 67380
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-3/match/200000014750864
+END:VEVENT
+END:VCALENDAR

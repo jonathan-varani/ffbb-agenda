@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – OBERNAI C.A. - 2  [DMU13-3 – GES – Poule D]
+X-WR-CALDESC:Matchs de OBERNAI C.A. - 2 – DMU13-3 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-d-2026-09-26-00-00-obernai-c-a-2-strasbourg-
+ libellule@ffbb-agenda
+DTSTAMP:20260913T223127Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 OBERNAI C.A. - 2 – STRASBOURG LIBELLULES B.C. - 2
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule D\n⚔️ OBERNAI C
+ .A. - 2 vs STRASBOURG LIBELLULES B.C. - 2\n\nHALL BUGEAUD\n📍 Avenue de 
+ Gail Obernai 67210\n🚗 Waze : https://waze.com/ul?ll=48.46313\,7.49122&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-3
+ /match/200000014750934
+LOCATION:HALL BUGEAUD\, Avenue de Gail Obernai 67210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750934
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-d-2026-10-03-14-30-schirmeck-lb-2-obernai-c-
+ a-2@ffbb-agenda
+DTSTAMP:20260913T223127Z
+DTSTART;TZID=Europe/Paris:20261003T143000
+DTEND;TZID=Europe/Paris:20261003T163000
+SUMMARY:✈️ SCHIRMECK LB - 2 – OBERNAI C.A. - 2
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule D\n⚔️ SCHIRMECK
+  LB - 2 vs OBERNAI C.A. - 2\n\nHALL DES SPORTS SCHIRMECK\n📍 Rue des Gri
+ ves Schirmeck 67130\n🚗 Waze : https://waze.com/ul?ll=48.48212\,7.22795&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-
+ 3/match/200000014750944
+LOCATION:HALL DES SPORTS SCHIRMECK\, Rue des Grives Schirmeck 67130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750944
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-d-2026-10-10-00-00-ie-ctc-sow-westhouse-e-s-
+ obernai-c@ffbb-agenda
+DTSTAMP:20260913T223127Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ IE - CTC SOW - WESTHOUSE E.S. – OBERNAI C.A. - 2
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule D\n⚔️ IE - CTC 
+ SOW - WESTHOUSE E.S. vs OBERNAI C.A. - 2\n\nSALLE POLYVALENTE\n📍 Rue du
+  Stade Westhouse 67230\n🚗 Waze : https://waze.com/ul?ll=48.40179\,7.589
+ 72&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu
+ 13-3/match/200000014750953
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Westhouse 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750953
+END:VEVENT
+END:VCALENDAR

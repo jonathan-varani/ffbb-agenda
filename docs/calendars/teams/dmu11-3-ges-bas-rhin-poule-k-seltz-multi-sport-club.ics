@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SELTZ MULTI SPORT CLUB  [DMU11-3 – GES – Poule K]
+X-WR-CALDESC:Matchs de SELTZ MULTI SPORT CLUB – DMU11-3 – GES – Bas-Rhin – Poule K
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu11-3-ges-bas-rhin-poule-k-2026-09-26-00-00-hatten-bc-seltz-multi-spo
+ rt-club@ffbb-agenda
+DTSTAMP:20260913T223728Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ HATTEN BC – SELTZ MULTI SPORT CLUB
+DESCRIPTION:🏀 DMU11-3 – GES – Bas-Rhin – Poule K\n⚔️ HATTEN BC
+  vs SELTZ MULTI SPORT CLUB\n\nSALLE POLYVALENTE\n📍 Rue des Écoles Hatt
+ en 67690\n🚗 Waze : https://waze.com/ul?ll=48.90169\,7.98235&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu11-3/match/200
+ 000014750831
+LOCATION:SALLE POLYVALENTE\, Rue des Écoles Hatten 67690
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-3/match/200000014750831
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-3-ges-bas-rhin-poule-k-2026-10-03-00-00-seltz-multi-sport-club-un
+ itas-brum@ffbb-agenda
+DTSTAMP:20260913T223728Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 SELTZ MULTI SPORT CLUB – UNITAS BRUMATH BASKET - 4
+DESCRIPTION:🏀 DMU11-3 – GES – Bas-Rhin – Poule K\n⚔️ SELTZ MUL
+ TI SPORT CLUB vs UNITAS BRUMATH BASKET - 4\n\nGYMNASE INTERCOMMUNAL\n📍 
+ Rue du Général de Gaulle Seltz 67470\n🚗 Waze : https://waze.com/ul?ll
+ =48.90152\,8.11254&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/
+ competitions/dmu11-3/match/200000014750854
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Général de Gaulle Seltz 67470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-3/match/200000014750854
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu11-3-ges-bas-rhin-poule-k-2026-10-10-00-00-seltz-multi-sport-club-wi
+ ssembourg@ffbb-agenda
+DTSTAMP:20260913T223728Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 SELTZ MULTI SPORT CLUB – WISSEMBOURG BC
+DESCRIPTION:🏀 DMU11-3 – GES – Bas-Rhin – Poule K\n⚔️ SELTZ MUL
+ TI SPORT CLUB vs WISSEMBOURG BC\n\nGYMNASE INTERCOMMUNAL\n📍 Rue du Gén
+ éral de Gaulle Seltz 67470\n🚗 Waze : https://waze.com/ul?ll=48.90152\,
+ 8.11254&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu11-3/match/200000014750876
+LOCATION:GYMNASE INTERCOMMUNAL\, Rue du Général de Gaulle Seltz 67470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 1-3/match/200000014750876
+END:VEVENT
+END:VCALENDAR

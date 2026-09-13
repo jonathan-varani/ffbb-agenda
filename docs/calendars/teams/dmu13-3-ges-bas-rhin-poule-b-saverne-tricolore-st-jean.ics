@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAVERNE TRICOLORE ST JEAN  [DMU13-3 – GES – Poule B]
+X-WR-CALDESC:Matchs de SAVERNE TRICOLORE ST JEAN – DMU13-3 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-b-2026-09-26-15-30-phalsbourg-b-c-saverne-tr
+ icolore-s@ffbb-agenda
+DTSTAMP:20260913T223113Z
+DTSTART;TZID=Europe/Paris:20260926T153000
+DTEND;TZID=Europe/Paris:20260926T173000
+SUMMARY:✈️ PHALSBOURG B.C. – SAVERNE TRICOLORE ST JEAN
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule B\n⚔️ PHALSBOUR
+ G B.C. vs SAVERNE TRICOLORE ST JEAN\n\nSALLE VAUBAN\n📍 Allée des Sport
+ s Phalsbourg 57370\n🚗 Waze : https://waze.com/ul?ll=48.76986\,7.25521&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-3
+ /match/200000014750929
+LOCATION:SALLE VAUBAN\, Allée des Sports Phalsbourg 57370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750929
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-b-2026-10-04-10-00-saverne-tricolore-st-jean
+ -basket-c@ffbb-agenda
+DTSTAMP:20260913T223113Z
+DTSTART;TZID=Europe/Paris:20261004T100000
+DTEND;TZID=Europe/Paris:20261004T120000
+SUMMARY:🏠 SAVERNE TRICOLORE ST JEAN – BASKET CLUB HOENHEIM
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule B\n⚔️ SAVERNE T
+ RICOLORE ST JEAN vs BASKET CLUB HOENHEIM\n\nSALLE DES SPORTS DE ST J SAVER
+ NE\n📍 Rue de Monswiller Saint-Jean-Saverne 67700\n🚗 Waze : https://w
+ aze.com/ul?ll=48.77088\,7.3628&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0067/competitions/dmu13-3/match/200000014750940
+LOCATION:SALLE DES SPORTS DE ST J SAVERNE\, Rue de Monswiller Saint-Jean-Sa
+ verne 67700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750940
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BARR/GERTWILLER  [DMU15-3 – GES – Poule D]
+X-WR-CALDESC:Matchs de BARR/GERTWILLER – DMU15-3 – GES – Bas-Rhin – Poule D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-3-ges-bas-rhin-poule-d-2026-09-26-00-00-eschau-bc-2-barr-gertwill
+ er@ffbb-agenda
+DTSTAMP:20260913T222721Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:✈️ ESCHAU BC - 2 – BARR/GERTWILLER
+DESCRIPTION:🏀 DMU15-3 – GES – Bas-Rhin – Poule D\n⚔️ ESCHAU BC
+  - 2 vs BARR/GERTWILLER\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes 
+ Eschau 67114\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-3/match/2
+ 00000014751185
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-3/match/200000014751185
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-bas-rhin-poule-d-2026-10-03-00-00-barr-gertwiller-schirmeck
+ -lb@ffbb-agenda
+DTSTAMP:20260913T222721Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:🏠 BARR/GERTWILLER – SCHIRMECK LB
+DESCRIPTION:🏀 DMU15-3 – GES – Bas-Rhin – Poule D\n⚔️ BARR/GERT
+ WILLER vs SCHIRMECK LB\n\nHALL DU SIVOM\n📍 Rue du Lycée Barr 67140\n
+ 🚗 Waze : https://waze.com/ul?ll=48.4098\,7.45794&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0067/competitions/dmu15-3/match/20000001475119
+ 4
+LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-3/match/200000014751194
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-bas-rhin-poule-d-2026-10-10-00-00-barr-gertwiller-sainte-cr
+ oix-aux-m@ffbb-agenda
+DTSTAMP:20260913T222721Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BARR/GERTWILLER – SAINTE CROIX AUX MINES C.S.N.
+DESCRIPTION:🏀 DMU15-3 – GES – Bas-Rhin – Poule D\n⚔️ BARR/GERT
+ WILLER vs SAINTE CROIX AUX MINES C.S.N.\n\nHALL DU SIVOM\n📍 Rue du Lyc
+ ée Barr 67140\n🚗 Waze : https://waze.com/ul?ll=48.4098\,7.45794&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-3/matc
+ h/200000014751202
+LOCATION:HALL DU SIVOM\, Rue du Lycée Barr 67140
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-3/match/200000014751202
+END:VEVENT
+END:VCALENDAR

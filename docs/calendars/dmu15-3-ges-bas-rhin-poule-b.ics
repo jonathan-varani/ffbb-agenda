@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DMU15-3 – GES – Bas-Rhin – Poule B
+X-WR-CALDESC:Tous les matchs DMU15-3 – GES – Bas-Rhin – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-3-ges-bas-rhin-poule-b-2026-09-26-13-45-wantzenau-la-a-s-c-sp-2-u
+ nitas-bru@ffbb-agenda
+DTSTAMP:20260913T222709Z
+DTSTART;TZID=Europe/Paris:20260926T134500
+DTEND;TZID=Europe/Paris:20260926T154500
+SUMMARY:WANTZENAU (LA) A.S.C.SP - 2 – UNITAS BRUMATH BASKET
+DESCRIPTION:🏀 DMU15-3 – GES – Bas-Rhin – Poule B\n⚔️ WANTZENAU
+  (LA) A.S.C.SP - 2 vs UNITAS BRUMATH BASKET\n\nESPACE JC KLEIN\n📍 Rue d
+ es Vergers La Wantzenau 67610\n🚗 Waze : https://waze.com/ul?ll=48.66013
+ \,7.83203&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competiti
+ ons/dmu15-3/match/200000014751181
+LOCATION:ESPACE JC KLEIN\, Rue des Vergers La Wantzenau 67610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-3/match/200000014751181
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-bas-rhin-poule-b-2026-10-03-17-15-unitas-brumath-basket-sch
+ iltigheim@ffbb-agenda
+DTSTAMP:20260913T222709Z
+DTSTART;TZID=Europe/Paris:20261003T171500
+DTEND;TZID=Europe/Paris:20261003T191500
+SUMMARY:UNITAS BRUMATH BASKET – SCHILTIGHEIM AU - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Bas-Rhin – Poule B\n⚔️ UNITAS BR
+ UMATH BASKET vs SCHILTIGHEIM AU - 2\n\nCENTRE OMNISPORTS\n📍 Rue André 
+ Malraux Brumath 67170\n🚗 Waze : https://waze.com/ul?ll=48.73677\,7.7108
+ 7&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-3/match/200000014751190
+LOCATION:CENTRE OMNISPORTS\, Rue André Malraux Brumath 67170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-3/match/200000014751190
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-bas-rhin-poule-b-2026-10-11-13-30-wantzenau-la-a-s-c-sp-2-s
+ chiltighe@ffbb-agenda
+DTSTAMP:20260913T222709Z
+DTSTART;TZID=Europe/Paris:20261011T133000
+DTEND;TZID=Europe/Paris:20261011T153000
+SUMMARY:WANTZENAU (LA) A.S.C.SP - 2 – SCHILTIGHEIM AU - 2
+DESCRIPTION:🏀 DMU15-3 – GES – Bas-Rhin – Poule B\n⚔️ WANTZENAU
+  (LA) A.S.C.SP - 2 vs SCHILTIGHEIM AU - 2\n\nESPACE JC KLEIN\n📍 Rue des
+  Vergers La Wantzenau 67610\n🚗 Waze : https://waze.com/ul?ll=48.66013\,
+ 7.83203&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competition
+ s/dmu15-3/match/200000014751197
+LOCATION:ESPACE JC KLEIN\, Rue des Vergers La Wantzenau 67610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-3/match/200000014751197
+END:VEVENT
+END:VCALENDAR

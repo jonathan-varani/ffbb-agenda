@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – WITTERNHEIM  [DMU13-3 – GES – Poule A]
+X-WR-CALDESC:Matchs de WITTERNHEIM – DMU13-3 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-a-2026-09-26-00-00-witternheim-kogenheim-ser
+ mersheim-@ffbb-agenda
+DTSTAMP:20260913T223108Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 WITTERNHEIM – KOGENHEIM/SERMERSHEIM B.C. - 2
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule A\n⚔️ WITTERNHE
+ IM vs KOGENHEIM/SERMERSHEIM B.C. - 2\n\nHALL DES SPORTS\n📍 Rue de Hilse
+ nheim Witternheim 67230\n🚗 Waze : https://waze.com/ul?ll=48.31211\,7.60
+ 834&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dm
+ u13-3/match/200000014750928
+LOCATION:HALL DES SPORTS\, Rue de Hilsenheim Witternheim 67230
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750928
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-a-2026-10-03-14-00-sainte-croix-aux-mines-c-
+ s-n-witte@ffbb-agenda
+DTSTAMP:20260913T223108Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ SAINTE CROIX AUX MINES C.S.N. – WITTERNHEIM
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule A\n⚔️ SAINTE CR
+ OIX AUX MINES C.S.N. vs WITTERNHEIM\n\nSALLE DES SPORTS DE LA TIMBACH\n
+ 📍 Rue du Château Sainte-Croix-aux-Mines 68160\n🚗 Waze : https://waz
+ e.com/ul?ll=48.26347\,7.23213&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0067/competitions/dmu13-3/match/200000014750938
+LOCATION:SALLE DES SPORTS DE LA TIMBACH\, Rue du Château Sainte-Croix-aux-
+ Mines 68160
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750938
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-3-ges-bas-rhin-poule-a-2026-10-10-00-00-val-de-ville-b-c-2-witter
+ nheim@ffbb-agenda
+DTSTAMP:20260913T223108Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ VAL DE VILLE B.C. - 2 – WITTERNHEIM
+DESCRIPTION:🏀 DMU13-3 – GES – Bas-Rhin – Poule A\n⚔️ VAL DE VI
+ LLE B.C. - 2 vs WITTERNHEIM\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé 6
+ 7220\n🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0067/competitions/dmu13-3/match/2000000
+ 14750947
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 3-3/match/200000014750947
+END:VEVENT
+END:VCALENDAR

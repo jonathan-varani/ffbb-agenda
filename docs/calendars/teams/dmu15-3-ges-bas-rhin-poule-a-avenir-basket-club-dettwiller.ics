@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AVENIR BASKET CLUB DETTWILLER  [DMU15-3 – GES – Poule A]
+X-WR-CALDESC:Matchs de AVENIR BASKET CLUB DETTWILLER – DMU15-3 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-3-ges-bas-rhin-poule-a-2026-09-26-00-00-avenir-basket-club-dettwi
+ ller-save@ffbb-agenda
+DTSTAMP:20260913T222704Z
+DTSTART;TZID=Europe/Paris:20260926T000000
+DTEND;TZID=Europe/Paris:20260926T020000
+SUMMARY:🏠 AVENIR BASKET CLUB DETTWILLER – SAVERNE TRICOLORE ST JEAN
+DESCRIPTION:🏀 DMU15-3 – GES – Bas-Rhin – Poule A\n⚔️ AVENIR BA
+ SKET CLUB DETTWILLER vs SAVERNE TRICOLORE ST JEAN\n\nSALLE POLYVALENTE\n
+ 📍 Rue du Stade Dettwiller 67490\n🚗 Waze : https://waze.com/ul?ll=48.
+ 76225\,7.47016&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/comp
+ etitions/dmu15-3/match/200000014751180
+LOCATION:SALLE POLYVALENTE\, Rue du Stade Dettwiller 67490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-3/match/200000014751180
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-3-ges-bas-rhin-poule-a-2026-10-03-00-00-bischheim-bs-avenir-baske
+ t-club-de@ffbb-agenda
+DTSTAMP:20260913T222704Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ BISCHHEIM BS – AVENIR BASKET CLUB DETTWILLER
+DESCRIPTION:🏀 DMU15-3 – GES – Bas-Rhin – Poule A\n⚔️ BISCHHEIM
+  BS vs AVENIR BASKET CLUB DETTWILLER\n\nGYMNASE LAMARTINE\n📍 Rue Lamart
+ ine Bischheim 67800\n🚗 Waze : https://waze.com/ul?ll=48.61387\,7.73797&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu15-
+ 3/match/200000014751188
+LOCATION:GYMNASE LAMARTINE\, Rue Lamartine Bischheim 67800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dmu1
+ 5-3/match/200000014751188
+END:VEVENT
+END:VCALENDAR

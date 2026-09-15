@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ENSEMBLE BASKET REMIREMONT LE THILLOT  [DMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de ENSEMBLE BASKET REMIREMONT LE THILLOT – DMU13 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-03-14-00-ensemble-basket-remiremont-le
+ -thillot-@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 ENSEMBLE BASKET REMIREMONT LE THILLOT – ENTENTE SAINT AME - 
+ LA BRESSE
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ ENSEMBLE BASK
+ ET REMIREMONT LE THILLOT vs ENTENTE SAINT AME - LA BRESSE\n\nGYMNASE DU TE
+ RTRE\n📍 Rue du Tertre Remiremont 88200\n🚗 Waze : https://waze.com/ul
+ ?ll=48.01873\,6.591&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088
+ /competitions/dmu13/match/200000014765578
+LOCATION:GYMNASE DU TERTRE\, Rue du Tertre Remiremont 88200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765578
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-10-14-00-basket-club-sainte-marguerite
+ -ensemble@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ BASKET CLUB SAINTE MARGUERITE – ENSEMBLE BASKET REMIREMONT
+  LE THILLOT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ BASKET CLUB S
+ AINTE MARGUERITE vs ENSEMBLE BASKET REMIREMONT LE THILLOT\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/comites/0088/competitions/dmu13/match/200000014765586
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765586
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-17-14-00-ensemble-basket-remiremont-le
+ -thillot-@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T160000
+SUMMARY:🏠 ENSEMBLE BASKET REMIREMONT LE THILLOT – ENTENTE GRANGES GERA
+ RDMER
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ ENSEMBLE BASK
+ ET REMIREMONT LE THILLOT vs ENTENTE GRANGES GERARDMER\n\nGYMNASE DU TERTRE
+ \n📍 Rue du Tertre Remiremont 88200\n🚗 Waze : https://waze.com/ul?ll=
+ 48.01873\,6.591&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/dmu13/match/200000014765594
+LOCATION:GYMNASE DU TERTRE\, Rue du Tertre Remiremont 88200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765594
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-14-14-00-la-valdajolaise-ensemble-bask
+ et-remire@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ LA VALDAJOLAISE – ENSEMBLE BASKET REMIREMONT LE THILLOT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ LA VALDAJOLAI
+ SE vs ENSEMBLE BASKET REMIREMONT LE THILLOT\n\nSALLE MUNICIPALE SPORTS\n
+ 📍 Rue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?
+ ll=47.92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/008
+ 8/competitions/dmu13/match/200000014765609
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765609
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-28-14-00-ensemble-basket-remiremont-le
+ -thillot-@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 ENSEMBLE BASKET REMIREMONT LE THILLOT – SAINT DIE VOSGES BAS
+ KET
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ ENSEMBLE BASK
+ ET REMIREMONT LE THILLOT vs SAINT DIE VOSGES BASKET\n\nGYMNASE DU TERTRE\n
+ 📍 Rue du Tertre Remiremont 88200\n🚗 Waze : https://waze.com/ul?ll=48
+ .01873\,6.591&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/compe
+ titions/dmu13/match/200000014765616
+LOCATION:GYMNASE DU TERTRE\, Rue du Tertre Remiremont 88200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765616
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-12-12-14-00-sl-rambervillers-ensemble-bas
+ ket-remir@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ SL RAMBERVILLERS – ENSEMBLE BASKET REMIREMONT LE THILLOT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ SL RAMBERVILL
+ ERS vs ENSEMBLE BASKET REMIREMONT LE THILLOT\n\nCOSEC (SALLE 1)\n📍 Rue 
+ de Métendal Rambervillers 88700\n🚗 Waze : https://waze.com/ul?ll=48.35
+ 85\,6.6523&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competit
+ ions/dmu13/match/200000014765626
+LOCATION:COSEC (SALLE 1)\, Rue de Métendal Rambervillers 88700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765626
+END:VEVENT
+END:VCALENDAR

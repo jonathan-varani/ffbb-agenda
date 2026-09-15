@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS DES MYRTILLES DE CORCIEUX  [DMU18 – GES – Poule A]
+X-WR-CALDESC:Matchs de AS DES MYRTILLES DE CORCIEUX – DMU18 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-vosges-poule-a-2026-10-10-18-00-as-des-myrtilles-de-corcieux-
+ as-xertig@ffbb-agenda
+DTSTAMP:20260915T233909Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 AS DES MYRTILLES DE CORCIEUX – AS XERTIGNY
+DESCRIPTION:🏀 DMU18 – GES – Vosges – Poule A\n⚔️ AS DES MYRTIL
+ LES DE CORCIEUX vs AS XERTIGNY\n\nSALLE ROGER PERRIN\n📍 Corcieux 88430\
+ n🚗 Waze : https://waze.com/ul?ll=48.17247\,6.87955&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0088/competitions/dmu18/match/20000001476797
+ 1
+LOCATION:SALLE ROGER PERRIN\, Corcieux 88430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 8/match/200000014767971
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-vosges-poule-a-2026-10-17-18-00-saint-die-vosges-basket-2-as-
+ des-myrti@ffbb-agenda
+DTSTAMP:20260915T233909Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:✈️ SAINT DIE VOSGES BASKET - 2 – AS DES MYRTILLES DE CORCIEUX
+DESCRIPTION:🏀 DMU18 – GES – Vosges – Poule A\n⚔️ SAINT DIE VOS
+ GES BASKET - 2 vs AS DES MYRTILLES DE CORCIEUX\n\nPALAIS OMNISP. J. CLAUDE
+ L S. 1\n📍 Rue du 12ème R.A. Prolongée Saint-Dié-des-Vosges 88100\n
+ 🚗 Waze : https://waze.com/ul?ll=48.28424\,6.96799&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0088/competitions/dmu18/match/200000014767975
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 8/match/200000014767975
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-vosges-poule-a-2026-11-07-18-00-as-st-nicolas-liffol-le-grand
+ -as-des-m@ffbb-agenda
+DTSTAMP:20260915T233909Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ AS ST NICOLAS LIFFOL-LE-GRAND – AS DES MYRTILLES DE CORCIE
+ UX
+DESCRIPTION:🏀 DMU18 – GES – Vosges – Poule A\n⚔️ AS ST NICOLAS
+  LIFFOL-LE-GRAND vs AS DES MYRTILLES DE CORCIEUX\n\nGYMNASE FERNAND BERTAU
+ X\n📍 Route d'Harréville Liffol-le-Grand 88350\n🚗 Waze : https://waz
+ e.com/ul?ll=48.29906\,5.59167&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0088/competitions/dmu18/match/200000014767978
+LOCATION:GYMNASE FERNAND BERTAUX\, Route d'Harréville Liffol-le-Grand 8835
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 8/match/200000014767978
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-vosges-poule-a-2026-11-14-18-00-as-des-myrtilles-de-corcieux-
+ effort-ba@ffbb-agenda
+DTSTAMP:20260915T233909Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 AS DES MYRTILLES DE CORCIEUX – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 DMU18 – GES – Vosges – Poule A\n⚔️ AS DES MYRTIL
+ LES DE CORCIEUX vs EFFORT BASKET MIRECOURT\n\nSALLE ROGER PERRIN\n📍 Cor
+ cieux 88430\n🚗 Waze : https://waze.com/ul?ll=48.17247\,6.87955&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu18/match/20
+ 0000014767981
+LOCATION:SALLE ROGER PERRIN\, Corcieux 88430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 8/match/200000014767981
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-vosges-poule-a-2026-11-28-18-00-ensemble-basket-remiremont-le
+ -thillot-@ffbb-agenda
+DTSTAMP:20260915T233909Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:✈️ ENSEMBLE BASKET REMIREMONT LE THILLOT – AS DES MYRTILLES D
+ E CORCIEUX
+DESCRIPTION:🏀 DMU18 – GES – Vosges – Poule A\n⚔️ ENSEMBLE BASK
+ ET REMIREMONT LE THILLOT vs AS DES MYRTILLES DE CORCIEUX\n\nGYMNASE DU TER
+ TRE\n📍 Rue du Tertre Remiremont 88200\n🚗 Waze : https://waze.com/ul?
+ ll=48.01873\,6.591&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/dmu18/match/200000014767984
+LOCATION:GYMNASE DU TERTRE\, Rue du Tertre Remiremont 88200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 8/match/200000014767984
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-vosges-poule-a-2026-12-05-18-00-as-des-myrtilles-de-corcieux-
+ entente-s@ffbb-agenda
+DTSTAMP:20260915T233909Z
+DTSTART;TZID=Europe/Paris:20261205T180000
+DTEND;TZID=Europe/Paris:20261205T200000
+SUMMARY:🏠 AS DES MYRTILLES DE CORCIEUX – ENTENTE SPORTIVE THAON BASKET
+  BALL (E.S. THAON BASKET BALL)
+DESCRIPTION:🏀 DMU18 – GES – Vosges – Poule A\n⚔️ AS DES MYRTIL
+ LES DE CORCIEUX vs ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET B
+ ALL)\n\nSALLE ROGER PERRIN\n📍 Corcieux 88430\n🚗 Waze : https://waze.
+ com/ul?ll=48.17247\,6.87955&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0088/competitions/dmu18/match/200000014767990
+LOCATION:SALLE ROGER PERRIN\, Corcieux 88430
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 8/match/200000014767990
+END:VEVENT
+END:VCALENDAR

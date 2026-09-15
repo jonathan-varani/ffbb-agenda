@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – METZ BC  [DVM-4 – GES – Poule A]
+X-WR-CALDESC:Matchs de METZ BC – DVM-4 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-10-02-20-30-joeuf-homecourt-basket-metz-
+ bc@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261002T203000
+DTEND;TZID=Europe/Paris:20261002T223000
+SUMMARY:✈️ JHB – METZ BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ JOEUF HOMECO
+ URT BASKET vs METZ BC\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bas
+ tien Joeuf 54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/matc
+ h/200000014765649
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765649
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-10-09-20-30-metz-bc-loisirs-sport-montig
+ ny@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261009T203000
+DTEND;TZID=Europe/Paris:20261009T223000
+SUMMARY:🏠 METZ BC – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ METZ BC vs L
+ OISIRS SPORT MONTIGNY\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 
+ 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/20000001
+ 4765654
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765654
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-11-06-20-30-metz-bc-ent-val-orne-basket@
+ ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261106T203000
+DTEND;TZID=Europe/Paris:20261106T223000
+SUMMARY:🏠 METZ BC – ENT. VAL ORNE BASKET
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ METZ BC vs E
+ NT. VAL ORNE BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57
+ 000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/2000000147
+ 65659
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765659
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-11-13-20-00-es-hagondange-metz-bc@ffbb-a
+ genda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:✈️ ES HAGONDANGE – METZ BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ ES HAGONDANG
+ E vs METZ BC\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri Hoffmann Hagon
+ dange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.16551&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/20
+ 0000014765662
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765662
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-11-27-20-30-metz-bc-longeville-et-st-avo
+ ld-basket@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261127T203000
+DTEND;TZID=Europe/Paris:20261127T223000
+SUMMARY:🏠 METZ BC – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ METZ BC vs L
+ ONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Rempart
+ s Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/2
+ 00000014765667
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765667
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-12-09-20-30-creutzwald-bc-metz-bc@ffbb-a
+ genda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261209T203000
+DTEND;TZID=Europe/Paris:20261209T223000
+SUMMARY:✈️ CREUTZWALD BC – METZ BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ CREUTZWALD B
+ C vs METZ BC\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges Bastide Creutz
+ wald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.69796&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/200
+ 000014765669
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765669
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-01-15-20-30-metz-bc-basket-club-tucqueno
+ is@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270115T203000
+DTEND;TZID=Europe/Paris:20270115T223000
+SUMMARY:🏠 METZ BC – BASKET CLUB TUCQUENOIS
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ METZ BC vs B
+ ASKET CLUB TUCQUENOIS\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 
+ 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/20000001
+ 4765675
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765675
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-01-22-20-30-metz-bc-joeuf-homecourt-bask
+ et@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270122T203000
+DTEND;TZID=Europe/Paris:20270122T223000
+SUMMARY:🏠 METZ BC – JHB
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ METZ BC vs J
+ OEUF HOMECOURT BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 
+ 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/20000001
+ 4765677
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765677
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-02-08-20-30-loisirs-sport-montigny-metz-
+ bc@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270208T203000
+DTEND;TZID=Europe/Paris:20270208T223000
+SUMMARY:✈️ LOISIRS SPORT MONTIGNY – METZ BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs METZ BC\n\nGYMNASE MERMOZ\n📍 Rue du 11ème Régiment d'Av
+ iation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.08585\,6.14579&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/m
+ atch/200000014765682
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765682
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-02-16-20-30-ent-val-orne-basket-metz-bc@
+ ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270216T203000
+DTEND;TZID=Europe/Paris:20270216T223000
+SUMMARY:✈️ ENT. VAL ORNE BASKET – METZ BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ ENT. VAL ORN
+ E BASKET vs METZ BC\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /dvm-4/match/200000014765687
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765687
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-03-12-20-30-metz-bc-es-hagondange@ffbb-a
+ genda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270312T203000
+DTEND;TZID=Europe/Paris:20270312T223000
+SUMMARY:🏠 METZ BC – ES HAGONDANGE
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ METZ BC vs E
+ S HAGONDANGE\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n
+ 🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/200000014765690
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765690
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-03-22-20-30-longeville-et-st-avold-baske
+ t-metz-bc@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270322T203000
+DTEND;TZID=Europe/Paris:20270322T223000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – METZ BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs METZ BC\n\nGYMNASE DU CASTEL\n📍 Rue des Myrtilles 
+ Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com/ul?ll=49.1
+ 1207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/dvm-4/match/200000014765695
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765695
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-04-02-20-30-metz-bc-creutzwald-bc@ffbb-a
+ genda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270402T203000
+DTEND;TZID=Europe/Paris:20270402T223000
+SUMMARY:🏠 METZ BC – CREUTZWALD BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ METZ BC vs C
+ REUTZWALD BC\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n
+ 🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/200000014765697
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765697
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-04-15-20-30-basket-club-tucquenois-metz-
+ bc@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270415T203000
+DTEND;TZID=Europe/Paris:20270415T223000
+SUMMARY:✈️ BASKET CLUB TUCQUENOIS – METZ BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ TUCQUENOIS vs METZ BC\n\nSALLE MUNICIPALE\n📍 Rue Clemenceau Tucquegnieu
+ x 54640\n🚗 Waze : https://waze.com/ul?ll=49.31183\,5.9016&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/2000000
+ 14765703
+LOCATION:SALLE MUNICIPALE\, Rue Clemenceau Tucquegnieux 54640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765703
+END:VEVENT
+END:VCALENDAR

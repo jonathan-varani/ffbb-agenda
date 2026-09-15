@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ESPERANCE HENNEZEL  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de ESPERANCE HENNEZEL – DMU13 – GES – Vosges – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-10-03-14-00-esperance-hennezel-entente-sp
+ ortive-th@ffbb-agenda
+DTSTAMP:20260915T234012Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 ESPERANCE HENNEZEL – ENTENTE SPORTIVE THAON BASKET BALL (E.S
+ . THAON BASKET BALL)
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ ESPERANCE HEN
+ NEZEL vs ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL)\n\nSA
+ LLE ABBE MATHIS\n📍 Hennezel 88260\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.05433\,6.11969&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/dmu13/match/200000014765583
+LOCATION:SALLE ABBE MATHIS\, Hennezel 88260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765583
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-10-10-14-00-basket-club-chavelotais-2-esp
+ erance-he@ffbb-agenda
+DTSTAMP:20260915T234012Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ BASKET CLUB CHAVELOTAIS - 2 – ESPERANCE HENNEZEL
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ BASKET CLUB C
+ HAVELOTAIS - 2 vs ESPERANCE HENNEZEL\n\nSALLE DES SPORTS\n📍 Place de la
+  République Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll=48.23758\,
+ 6.43697&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competition
+ s/dmu13/match/200000014765591
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765591
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-10-17-14-00-basket-club-gironcourt-espera
+ nce-henne@ffbb-agenda
+DTSTAMP:20260915T234012Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T160000
+SUMMARY:✈️ BASKET CLUB GIRONCOURT – ESPERANCE HENNEZEL
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ BASKET CLUB G
+ IRONCOURT vs ESPERANCE HENNEZEL\n\nSALLE POLYVALENTE\n📍 Rue Jeanne d'Ar
+ c Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.com/ul?ll=48.31056
+ \,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competiti
+ ons/dmu13/match/200000014765598
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765598
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-11-07-14-00-esperance-hennezel-effort-bas
+ ket-mirec@ffbb-agenda
+DTSTAMP:20260915T234012Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 ESPERANCE HENNEZEL – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ ESPERANCE HEN
+ NEZEL vs EFFORT BASKET MIRECOURT\n\nSALLE ABBE MATHIS\n📍 Hennezel 88260
+ \n🚗 Waze : https://waze.com/ul?ll=48.05433\,6.11969&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0088/competitions/dmu13/match/2000000147
+ 65605
+LOCATION:SALLE ABBE MATHIS\, Hennezel 88260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765605
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-11-14-14-00-basket-club-thermal-1-esperan
+ ce-hennez@ffbb-agenda
+DTSTAMP:20260915T234012Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ BASKET CLUB THERMAL - 1 – ESPERANCE HENNEZEL
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ BASKET CLUB T
+ HERMAL - 1 vs ESPERANCE HENNEZEL\n\nCENTRE PREPARATION OLYMPIQUE\n📍 Ave
+ nue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/ul?ll=48.193
+ 1\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competit
+ ions/dmu13/match/200000014765612
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765612
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-12-12-14-00-basket-club-thermal-2-esperan
+ ce-hennez@ffbb-agenda
+DTSTAMP:20260915T234012Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ BASKET CLUB THERMAL - 2 – ESPERANCE HENNEZEL
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ BASKET CLUB T
+ HERMAL - 2 vs ESPERANCE HENNEZEL\n\nCENTRE PREPARATION OLYMPIQUE\n📍 Ave
+ nue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/ul?ll=48.193
+ 1\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competit
+ ions/dmu13/match/200000014765631
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765631
+END:VEVENT
+END:VCALENDAR

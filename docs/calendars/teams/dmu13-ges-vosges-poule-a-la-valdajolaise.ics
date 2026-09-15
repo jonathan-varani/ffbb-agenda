@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LA VALDAJOLAISE  [DMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de LA VALDAJOLAISE – DMU13 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-03-14-00-la-valdajolaise-sl-rambervill
+ ers@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 LA VALDAJOLAISE – SL RAMBERVILLERS
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ LA VALDAJOLAI
+ SE vs SL RAMBERVILLERS\n\nSALLE MUNICIPALE SPORTS\n📍 Rue des Oeuvres Le
+  Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.92639\,6.47849&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu13/ma
+ tch/200000014765577
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765577
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-10-14-00-entente-saint-ame-la-bresse-l
+ a-valdajo@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ ENTENTE SAINT AME - LA BRESSE – LA VALDAJOLAISE
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ ENTENTE SAINT
+  AME - LA BRESSE vs LA VALDAJOLAISE\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 088/competitions/dmu13/match/200000014765585
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765585
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-17-14-00-la-valdajolaise-basket-club-s
+ ainte-mar@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T160000
+SUMMARY:🏠 LA VALDAJOLAISE – BASKET CLUB SAINTE MARGUERITE
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ LA VALDAJOLAI
+ SE vs BASKET CLUB SAINTE MARGUERITE\n\nSALLE MUNICIPALE SPORTS\n📍 Rue d
+ es Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?ll=47.9263
+ 9\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competit
+ ions/dmu13/match/200000014765593
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765593
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-07-14-00-entente-granges-gerardmer-la-
+ valdajola@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ ENTENTE GRANGES GERARDMER – LA VALDAJOLAISE
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ ENTENTE GRANG
+ ES GERARDMER vs LA VALDAJOLAISE\n\nGYMNASE MUNICIPAL\n📍 Rue P. Ancel Se
+ itz Granges-Aumontzey 88640\n🚗 Waze : https://waze.com/ul?ll=48.14517\,
+ 6.79376&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competition
+ s/dmu13/match/200000014765601
+LOCATION:GYMNASE MUNICIPAL\, Rue P. Ancel Seitz Granges-Aumontzey 88640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765601
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-14-14-00-la-valdajolaise-ensemble-bask
+ et-remire@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 LA VALDAJOLAISE – ENSEMBLE BASKET REMIREMONT LE THILLOT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ LA VALDAJOLAI
+ SE vs ENSEMBLE BASKET REMIREMONT LE THILLOT\n\nSALLE MUNICIPALE SPORTS\n
+ 📍 Rue des Oeuvres Le Val-d'Ajol 88340\n🚗 Waze : https://waze.com/ul?
+ ll=47.92639\,6.47849&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/008
+ 8/competitions/dmu13/match/200000014765609
+LOCATION:SALLE MUNICIPALE SPORTS\, Rue des Oeuvres Le Val-d'Ajol 88340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765609
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-12-12-14-00-saint-die-vosges-basket-la-va
+ ldajolais@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ SAINT DIE VOSGES BASKET – LA VALDAJOLAISE
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ SAINT DIE VOS
+ GES BASKET vs LA VALDAJOLAISE\n\nPALAIS OMNISP. J. CLAUDEL S. 1\n📍 Rue 
+ du 12ème R.A. Prolongée Saint-Dié-des-Vosges 88100\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.28424\,6.96799&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0088/competitions/dmu13/match/200000014765625
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765625
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SAINT DIE VOSGES BASKET  [DMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de SAINT DIE VOSGES BASKET – DMU13 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-10-14-00-sl-rambervillers-saint-die-vo
+ sges-bask@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ SL RAMBERVILLERS – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ SL RAMBERVILL
+ ERS vs SAINT DIE VOSGES BASKET\n\nCOSEC (SALLE 1)\n📍 Rue de Métendal R
+ ambervillers 88700\n🚗 Waze : https://waze.com/ul?ll=48.3585\,6.6523&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu13/mat
+ ch/200000014765584
+LOCATION:COSEC (SALLE 1)\, Rue de Métendal Rambervillers 88700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765584
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-17-14-00-saint-die-vosges-basket-enten
+ te-saint-@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T160000
+SUMMARY:🏠 SAINT DIE VOSGES BASKET – ENTENTE SAINT AME - LA BRESSE
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ SAINT DIE VOS
+ GES BASKET vs ENTENTE SAINT AME - LA BRESSE\n\nPALAIS OMNISP. J. CLAUDEL S
+ . 1\n📍 Rue du 12ème R.A. Prolongée Saint-Dié-des-Vosges 88100\n🚗 
+ Waze : https://waze.com/ul?ll=48.28424\,6.96799&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0088/competitions/dmu13/match/200000014765592
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765592
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-07-14-00-basket-club-sainte-marguerite
+ -saint-di@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ BASKET CLUB SAINTE MARGUERITE – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ BASKET CLUB S
+ AINTE MARGUERITE vs SAINT DIE VOSGES BASKET\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0088/competitions/dmu13/match/200000014765600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765600
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-14-14-00-saint-die-vosges-basket-enten
+ te-grange@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 SAINT DIE VOSGES BASKET – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ SAINT DIE VOS
+ GES BASKET vs ENTENTE GRANGES GERARDMER\n\nPALAIS OMNISP. J. CLAUDEL S. 1\
+ n📍 Rue du 12ème R.A. Prolongée Saint-Dié-des-Vosges 88100\n🚗 Waze
+  : https://waze.com/ul?ll=48.28424\,6.96799&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0088/competitions/dmu13/match/200000014765608
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765608
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-28-14-00-ensemble-basket-remiremont-le
+ -thillot-@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:✈️ ENSEMBLE BASKET REMIREMONT LE THILLOT – SAINT DIE VOSGES B
+ ASKET
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ ENSEMBLE BASK
+ ET REMIREMONT LE THILLOT vs SAINT DIE VOSGES BASKET\n\nGYMNASE DU TERTRE\n
+ 📍 Rue du Tertre Remiremont 88200\n🚗 Waze : https://waze.com/ul?ll=48
+ .01873\,6.591&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/compe
+ titions/dmu13/match/200000014765616
+LOCATION:GYMNASE DU TERTRE\, Rue du Tertre Remiremont 88200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765616
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-12-12-14-00-saint-die-vosges-basket-la-va
+ ldajolais@ffbb-agenda
+DTSTAMP:20260915T234006Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:🏠 SAINT DIE VOSGES BASKET – LA VALDAJOLAISE
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ SAINT DIE VOS
+ GES BASKET vs LA VALDAJOLAISE\n\nPALAIS OMNISP. J. CLAUDEL S. 1\n📍 Rue 
+ du 12ème R.A. Prolongée Saint-Dié-des-Vosges 88100\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.28424\,6.96799&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0088/competitions/dmu13/match/200000014765625
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765625
+END:VEVENT
+END:VCALENDAR

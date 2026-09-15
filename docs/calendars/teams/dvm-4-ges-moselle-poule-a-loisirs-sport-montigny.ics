@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LOISIRS SPORT MONTIGNY  [DVM-4 – GES – Poule A]
+X-WR-CALDESC:Matchs de LOISIRS SPORT MONTIGNY – DVM-4 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-10-05-20-30-loisirs-sport-montigny-ent-v
+ al-orne-b@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261005T203000
+DTEND;TZID=Europe/Paris:20261005T223000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – ENT. VAL ORNE BASKET
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs ENT. VAL ORNE BASKET\n\nGYMNASE MERMOZ\n📍 Rue du 11ème R
+ égiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.085
+ 85\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/dvm-4/match/200000014765648
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765648
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-10-09-20-30-metz-bc-loisirs-sport-montig
+ ny@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261009T203000
+DTEND;TZID=Europe/Paris:20261009T223000
+SUMMARY:✈️ METZ BC – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ METZ BC vs L
+ OISIRS SPORT MONTIGNY\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 
+ 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/match/20000001
+ 4765654
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765654
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-11-09-20-30-loisirs-sport-montigny-es-ha
+ gondange@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261109T203000
+DTEND;TZID=Europe/Paris:20261109T223000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – ES HAGONDANGE
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs ES HAGONDANGE\n\nGYMNASE MERMOZ\n📍 Rue du 11ème Régimen
+ t d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.08585\,6.1
+ 4579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ vm-4/match/200000014765656
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765656
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-11-16-20-30-longeville-et-st-avold-baske
+ t-loisirs@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261116T203000
+DTEND;TZID=Europe/Paris:20261116T223000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs LOISIRS SPORT MONTIGNY\n\nGYMNASE DU CASTEL\n📍 Rue
+  des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze
+ .com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0057/competitions/dvm-4/match/200000014765661
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765661
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-11-30-20-30-loisirs-sport-montigny-creut
+ zwald-bc@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261130T203000
+DTEND;TZID=Europe/Paris:20261130T223000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – CREUTZWALD BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs CREUTZWALD BC\n\nGYMNASE MERMOZ\n📍 Rue du 11ème Régimen
+ t d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.08585\,6.1
+ 4579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ vm-4/match/200000014765664
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765664
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2026-12-10-20-30-basket-club-tucquenois-loisi
+ rs-sport-@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20261210T203000
+DTEND;TZID=Europe/Paris:20261210T223000
+SUMMARY:✈️ BASKET CLUB TUCQUENOIS – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ TUCQUENOIS vs LOISIRS SPORT MONTIGNY\n\nSALLE MUNICIPALE\n📍 Rue Clemenc
+ eau Tucquegnieux 54640\n🚗 Waze : https://waze.com/ul?ll=49.31183\,5.901
+ 6&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765668
+LOCATION:SALLE MUNICIPALE\, Rue Clemenceau Tucquegnieux 54640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765668
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-01-18-20-30-loisirs-sport-montigny-joeuf
+ -homecour@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270118T203000
+DTEND;TZID=Europe/Paris:20270118T223000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – JHB
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs JOEUF HOMECOURT BASKET\n\nGYMNASE MERMOZ\n📍 Rue du 11ème
+  Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.0
+ 8585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/dvm-4/match/200000014765672
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765672
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-01-26-20-30-ent-val-orne-basket-loisirs-
+ sport-mon@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270126T203000
+DTEND;TZID=Europe/Paris:20270126T223000
+SUMMARY:✈️ ENT. VAL ORNE BASKET – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ ENT. VAL ORN
+ E BASKET vs LOISIRS SPORT MONTIGNY\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 57/competitions/dvm-4/match/200000014765676
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765676
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-02-08-20-30-loisirs-sport-montigny-metz-
+ bc@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270208T203000
+DTEND;TZID=Europe/Paris:20270208T223000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – METZ BC
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs METZ BC\n\nGYMNASE MERMOZ\n📍 Rue du 11ème Régiment d'Av
+ iation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.08585\,6.14579&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-4/m
+ atch/200000014765682
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765682
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-02-12-20-00-es-hagondange-loisirs-sport-
+ montigny@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:✈️ ES HAGONDANGE – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ ES HAGONDANG
+ E vs LOISIRS SPORT MONTIGNY\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri
+  Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6
+ .16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /dvm-4/match/200000014765684
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765684
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-03-15-20-30-loisirs-sport-montigny-longe
+ ville-et-@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270315T203000
+DTEND;TZID=Europe/Paris:20270315T223000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE MERMOZ\n📍 Rue du
+  11ème Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?
+ ll=49.08585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 7/competitions/dvm-4/match/200000014765689
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765689
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-03-24-20-30-creutzwald-bc-loisirs-sport-
+ montigny@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270324T203000
+DTEND;TZID=Europe/Paris:20270324T223000
+SUMMARY:✈️ CREUTZWALD BC – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ CREUTZWALD B
+ C vs LOISIRS SPORT MONTIGNY\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges
+  Bastide Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.
+ 69796&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ dvm-4/match/200000014765692
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765692
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-04-05-20-30-loisirs-sport-montigny-baske
+ t-club-tu@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270405T203000
+DTEND;TZID=Europe/Paris:20270405T223000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – BASKET CLUB TUCQUENOIS
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs BASKET CLUB TUCQUENOIS\n\nGYMNASE MERMOZ\n📍 Rue du 11ème
+  Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.0
+ 8585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/dvm-4/match/200000014765696
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765696
+END:VEVENT
+BEGIN:VEVENT
+UID:dvm-4-ges-moselle-poule-a-2027-04-09-20-30-joeuf-homecourt-basket-loisi
+ rs-sport-@ffbb-agenda
+DTSTAMP:20260915T233756Z
+DTSTART;TZID=Europe/Paris:20270409T203000
+DTEND;TZID=Europe/Paris:20270409T223000
+SUMMARY:✈️ JHB – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DVM-4 – GES – Moselle – Poule A\n⚔️ JOEUF HOMECO
+ URT BASKET vs LOISIRS SPORT MONTIGNY\n\nSALLE MUNICIPALE DES SPORTS\n📍 
+ Rue Eugène Bastien Joeuf 54240\n🚗 Waze : https://waze.com/ul?ll=49.227
+ 6\,6.00446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competit
+ ions/dvm-4/match/200000014765700
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dvm-
+ 4/match/200000014765700
+END:VEVENT
+END:VCALENDAR

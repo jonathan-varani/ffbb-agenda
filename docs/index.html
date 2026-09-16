@@ -378,11 +378,21 @@
       padding: 12px;
       background: #F0FDF4;
       border-radius: var(--radius);
-      color: var(--green);
-      font-weight: 600;
       font-size: .9rem;
       margin-bottom: 8px;
     }
+    #sub-links .btn {
+      display: block;
+      color: #fff;
+      text-decoration: none;
+      padding: 13px;
+      border-radius: var(--radius);
+      font-weight: 700;
+      font-size: .92rem;
+    }
+    #sub-links .btn.ios     { background: var(--orange); }
+    #sub-links .btn.android { background: #1A73E8; }
+    #sub-links .btn.pending { opacity: .55; }
     .modal-close-btn {
       display: block;
       width: 100%;
@@ -522,13 +532,12 @@
     <div class="modal-footer">
       <div id="sub-form">
         <input type="email" id="sub-email" placeholder="votre@email.com" autocomplete="email">
-        <button onclick="submitSubscribe()">Recevoir le lien 📨</button>
+        <button onclick="submitSubscribe()">S'abonner 📅</button>
       </div>
       <div id="sub-success" style="display:none">
-        ✅ Lien envoyé ! Vérifiez votre boîte mail.
+        <div id="sub-links"></div>
         <div style="margin-top:6px;font-weight:400;font-size:.78rem;color:#6B7280">
-          Vous ne le voyez pas ? Pensez à vérifier vos <strong>spams</strong>
-          et, sur Gmail, l'onglet <strong>Promotions</strong>.
+          Un email de confirmation vous a aussi été envoyé.
         </div>
       </div>
       <div id="sub-error" style="display:none;color:#DC2626;font-size:.82rem;margin-bottom:8px"></div>
@@ -850,15 +859,71 @@ async function submitSubscribe() {
     const data = await res.json();
     if (!res.ok || data.error) throw new Error(data.error || "Erreur serveur");
 
+    renderSubLinks(data);
     document.getElementById("sub-form").style.display    = "none";
     document.getElementById("sub-success").style.display = "block";
     document.getElementById("sub-error").style.display   = "none";
   } catch(e) {
     showSubError("Erreur : " + e.message);
   } finally {
-    btn.textContent = "Recevoir le lien 📨";
+    btn.textContent = "S'abonner 📅";
     btn.disabled = false;
   }
+}
+
+// Affiche directement les boutons d'ajout au calendrier (plus d'étape de
+// confirmation par email) et améliore le lien Android en lien Google Agenda
+// dès qu'il est prêt (création en tâche de fond côté worker).
+function renderSubLinks(data) {
+  const box = document.getElementById("sub-links");
+
+  if (isIOS) {
+    box.innerHTML = `<a class="btn ios" href="${data.webcalUrl}">📅 Ajouter à mon calendrier</a>`;
+  } else if (isAndroid) {
+    box.innerHTML =
+      `<a class="btn android google-btn pending" href="${data.googleUrl}">📅 Ajouter à Google Agenda</a>
+       <p class="google-loading" style="font-size:.78rem;color:#6B7280;margin-top:6px">⏳ Préparation de votre calendrier Google…</p>`;
+  } else {
+    box.innerHTML =
+      `<a class="btn ios" href="${data.webcalUrl}">📱 iPhone / iPad / Mac</a>
+       <a class="btn android google-btn pending" href="${data.googleUrl}" style="margin-top:8px">🤖 Android / Google Agenda</a>
+       <p class="google-loading" style="font-size:.78rem;color:#6B7280;margin-top:6px">⏳ Préparation de votre calendrier Google…</p>`;
+  }
+
+  if (isIOS) return; // pas de bouton Google à améliorer
+  upgradeGoogleLink(box, data);
+}
+
+function upgradeGoogleLink(box, data) {
+  const btns    = box.querySelectorAll(".google-btn");
+  const loaders = box.querySelectorAll(".google-loading");
+  if (!btns.length) return;
+
+  let pending = true, clickedTooEarly = false, done = false;
+
+  btns.forEach(b => b.addEventListener("click", e => {
+    if (!pending) return;
+    e.preventDefault();
+    clickedTooEarly = true;
+    loaders.forEach(l => l.textContent = "⏳ Préparation en cours, ouverture automatique…");
+  }));
+
+  const ready = (finalUrl) => {
+    if (done) return;
+    done = true;
+    pending = false;
+    btns.forEach(b => { b.classList.remove("pending"); if (finalUrl) b.href = finalUrl; });
+    loaders.forEach(l => l.style.display = "none");
+    if (clickedTooEarly && btns.length) window.location.href = btns[0].href;
+  };
+
+  setTimeout(() => ready(null), 30000);
+
+  const q = `fichier=${encodeURIComponent(data.fichier)}&equipe=${encodeURIComponent(data.equipe || "")}&comp_nom=${encodeURIComponent(data.comp_nom || "")}`;
+  fetch(`${WORKER}/gcal?${q}`)
+    .then(r => r.json())
+    .then(d => ready(d.url || null))
+    .catch(() => ready(null));
 }
 
 function showSubError(msg) {

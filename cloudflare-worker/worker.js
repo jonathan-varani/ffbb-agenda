@@ -2,8 +2,9 @@
  * FFBB Agenda — Cloudflare Worker
  * Test VARAI
  *
- * POST /subscribe  → enregistre dans NocoDB + envoie email avec lien tokenisé
- * GET  /sub        → valide token, marque utilisé, redirige vers webcal://
+ * POST /subscribe  → enregistre dans NocoDB, retourne directement les liens
+ *                     d'abonnement (iOS/Android) + envoie un email de
+ *                     remerciement en tâche de fond (pas de confirmation).
  *
  * Variables d'environnement (secrets) à configurer dans Cloudflare :
  *   NOCODB_TOKEN   — clé API NocoDB
@@ -23,13 +24,6 @@ const SENDER_EMAIL = "jonathan.varani@varai.fr";
 const SENDER_NAME  = "Agendas FFBB";
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
-
-function uuid() {
-  return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, c => {
-    const r = Math.random() * 16 | 0;
-    return (c === "x" ? r : (r & 0x3 | 0x8)).toString(16);
-  });
-}
 
 function cors() {
   return {
@@ -320,73 +314,32 @@ async function getOrCreateGoogleCalendar(row, env) {
 
 // ── POST /subscribe ───────────────────────────────────────────────────────────
 
-async function handleSubscribe(request, env, ctx) {
-  let body;
-  try { body = await request.json(); }
-  catch { return json({ error: "JSON invalide" }, 400); }
+/**
+ * Envoie l'email de remerciement (pas de lien d'abonnement : l'utilisateur y a
+ * déjà accès directement) puis note la date d'envoi sur la ligne NocoDB
+ * correspondante. Appelé en tâche de fond, ne doit jamais faire échouer
+ * l'abonnement lui-même.
+ */
+async function sendThankYouEmail(rowId, email, equipe, compNom, env) {
+  const compSuffix = compNom ? ` — ${compNom}` : "";
 
-  const { email, equipe, comp_nom, fichier, device } = body;
-  if (!email || !equipe || !fichier) {
-    return json({ error: "Champs manquants : email, equipe, fichier" }, 400);
-  }
-
-  const token = uuid();
-  const now   = new Date().toISOString();
-
-  // ── Enregistrement NocoDB ─────────────────────────────────────────────────
-  const noco = await fetch(
-    `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE}`,
-    {
-      method: "POST",
-      headers: { "xc-token": env.NOCODB_TOKEN, "Content-Type": "application/json" },
-      body: JSON.stringify({ email, equipe, comp_nom, fichier, device, token, token_used: false, subscribed_at: now }),
-    }
-  );
-  if (!noco.ok) {
-    const err = await noco.text();
-    return json({ error: "NocoDB : " + err }, 500);
-  }
-
-  // ── Calendrier Google, en tâche de fond ───────────────────────────────────
-  // On lance la création dès l'inscription, sans bloquer la réponse : quand
-  // l'utilisateur ouvrira son email et cliquera (quelques secondes à quelques
-  // minutes plus tard), le calendrier sera déjà prêt et /gcal répondra
-  // instantanément. C'est ce qui évite qu'il clique pendant la création et
-  // reparte avec le lien .ics de repli (invisible sur Android).
-  if (ctx && typeof ctx.waitUntil === "function") {
-    ctx.waitUntil(getOrCreateGoogleCalendar({ fichier, equipe, comp_nom }, env));
-  }
-
-  // ── Email Brevo ───────────────────────────────────────────────────────────
-  const tokenLink = `${workerOrigin(request, env)}/sub?token=${token}`;
-  const compSuffix = comp_nom ? ` — ${comp_nom}` : "";
-
-  // Contenu volontairement sobre (pas de gros logo/en-tête, un seul bouton
-  // discret) : le style "campagne marketing" chargé est un signal fort pour
-  // le tri automatique de Gmail vers l'onglet Promotions.
+  // Contenu volontairement sobre (pas de gros logo/en-tête) : le style
+  // "campagne marketing" chargé est un signal fort pour le tri automatique
+  // de Gmail vers l'onglet Promotions.
   const emailHtml = `
   <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
               max-width:480px;margin:0 auto;padding:24px;color:#1B2A4A;font-size:.95rem;line-height:1.5">
     <p style="margin-bottom:12px">Bonjour,</p>
     <p style="margin-bottom:20px">
-      Voici le lien pour vous abonner au calendrier de
-      <strong>${equipe}</strong>${compSuffix} :
-    </p>
-
-    <p style="margin-bottom:20px">
-      <a href="${tokenLink}"
-         style="display:inline-block;background:#E84E0F;color:#fff;
-                text-decoration:none;padding:12px 24px;border-radius:8px;
-                font-weight:600;font-size:.95rem">
-        S'abonner au calendrier
-      </a>
+      Merci ! Vous êtes bien abonné(e) au calendrier de
+      <strong>${equipe}</strong>${compSuffix}. Les mises à jour (horaires,
+      scores, arbitres) apparaîtront désormais automatiquement dans votre
+      application Agenda.
     </p>
 
     <p style="margin-bottom:16px;color:#6B7280">
-      Ouvrez ce lien depuis votre téléphone pour ajouter le calendrier
-      directement dans votre application Agenda. Les mises à jour (horaires,
-      scores, arbitres) apparaîtront ensuite automatiquement — ce lien n'est
-      valable qu'une seule fois.
+      Un souci avec votre abonnement ? Répondez directement à cet email,
+      nous reviendrons vers vous.
     </p>
 
     <p style="margin-bottom:0;color:#6B7280">
@@ -402,45 +355,102 @@ async function handleSubscribe(request, env, ctx) {
   const emailText =
 `Bonjour,
 
-Voici le lien pour vous abonner au calendrier de ${equipe}${compSuffix} :
-${tokenLink}
+Merci ! Vous êtes bien abonné(e) au calendrier de ${equipe}${compSuffix}.
+Les mises à jour (horaires, scores, arbitres) apparaîtront désormais
+automatiquement dans votre application Agenda.
 
-Ouvrez-le depuis votre téléphone pour ajouter le calendrier directement dans
-votre application Agenda. Les mises à jour (horaires, scores, arbitres)
-apparaîtront ensuite automatiquement — ce lien n'est valable qu'une seule fois.
+Un souci avec votre abonnement ? Répondez directement à cet email, nous
+reviendrons vers vous.
 
 Bon match,
 Agendas FFBB
 
 Données issues de competitions.ffbb.com · Projet non officiel`;
 
-  const brevo = await fetch("https://api.brevo.com/v3/smtp/email", {
-    method: "POST",
-    headers: { "api-key": env.BREVO_KEY, "Content-Type": "application/json" },
-    body: JSON.stringify({
-      sender:      { name: SENDER_NAME, email: SENDER_EMAIL },
-      to:          [{ email }],
-      replyTo:     { email: SENDER_EMAIL },
-      subject:     `Votre abonnement au calendrier — ${equipe}`,
-      htmlContent: emailHtml,
-      textContent: emailText,
-      // Désactive le wrapper de tracking Brevo (sendibt2.com) qui casse le lien sur Android
-      // et évite les pixels/liens de tracking qui font pencher Gmail vers "Promotions".
-      trackClicks: false,
-      trackOpens:  false,
-      // Un en-tête List-Unsubscribe (même en mailto) est un signal positif pour
-      // les filtres anti-spam : son absence est typique des envois non légitimes.
-      headers: {
-        "List-Unsubscribe": `<mailto:${SENDER_EMAIL}?subject=Desabonnement>`,
-      },
-    }),
-  });
-  if (!brevo.ok) {
-    const err = await brevo.text();
-    return json({ error: "Brevo : " + err }, 500);
+  try {
+    const brevo = await fetch("https://api.brevo.com/v3/smtp/email", {
+      method: "POST",
+      headers: { "api-key": env.BREVO_KEY, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        sender:      { name: SENDER_NAME, email: SENDER_EMAIL },
+        to:          [{ email }],
+        replyTo:     { email: SENDER_EMAIL },
+        subject:     `Confirmation de votre abonnement — ${equipe}`,
+        htmlContent: emailHtml,
+        textContent: emailText,
+        trackClicks: false,
+        trackOpens:  false,
+        headers: {
+          "List-Unsubscribe": `<mailto:${SENDER_EMAIL}?subject=Desabonnement>`,
+        },
+      }),
+    });
+    if (!brevo.ok) {
+      console.error("Brevo (remerciement) :", await brevo.text());
+      return;
+    }
+  } catch (e) {
+    console.error("Brevo (remerciement) :", e.message);
+    return;
   }
 
-  return json({ ok: true });
+  if (!rowId) return;
+  await fetch(
+    `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE}/${rowId}`,
+    {
+      method: "PATCH",
+      headers: { "xc-token": env.NOCODB_TOKEN, "Content-Type": "application/json" },
+      body: JSON.stringify({ thankyou_sent_at: new Date().toISOString() }),
+    }
+  ).catch(e => console.error("NocoDB (thankyou_sent_at) :", e.message));
+}
+
+async function handleSubscribe(request, env, ctx) {
+  let body;
+  try { body = await request.json(); }
+  catch { return json({ error: "JSON invalide" }, 400); }
+
+  const { email, equipe, comp_nom, fichier, device } = body;
+  if (!email || !equipe || !fichier) {
+    return json({ error: "Champs manquants : email, equipe, fichier" }, 400);
+  }
+
+  const now = new Date().toISOString();
+
+  // ── Enregistrement NocoDB ─────────────────────────────────────────────────
+  const noco = await fetch(
+    `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE}`,
+    {
+      method: "POST",
+      headers: { "xc-token": env.NOCODB_TOKEN, "Content-Type": "application/json" },
+      body: JSON.stringify({ email, equipe, comp_nom, fichier, device, subscribed_at: now }),
+    }
+  );
+  if (!noco.ok) {
+    const err = await noco.text();
+    return json({ error: "NocoDB : " + err }, 500);
+  }
+  const createdRow = await noco.json().catch(() => ({}));
+  const rowId = createdRow.Id ?? createdRow.id ?? null;
+
+  // ── Calendrier Google, en tâche de fond ───────────────────────────────────
+  // On lance la création dès l'inscription : la page d'abonnement (retournée
+  // immédiatement ci-dessous) démarre avec le lien .ics de repli, puis
+  // s'améliore automatiquement en lien Google Agenda via /gcal dès que la
+  // création est terminée (voir docs/index.html).
+  if (ctx && typeof ctx.waitUntil === "function") {
+    ctx.waitUntil(getOrCreateGoogleCalendar({ fichier, equipe, comp_nom }, env));
+    ctx.waitUntil(sendThankYouEmail(rowId, email, equipe, comp_nom, env));
+  } else {
+    await sendThankYouEmail(rowId, email, equipe, comp_nom, env);
+  }
+
+  // ── Liens d'abonnement, retournés directement (pas d'étape de confirmation) ─
+  const httpsUrl  = icsFullUrl(fichier);
+  const webcalUrl = icsProxyUrl(fichier, request, env).replace(/^https?:\/\//, "webcal://");
+  const googleUrl = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUrl)}`;
+
+  return json({ ok: true, equipe, comp_nom: comp_nom || "", fichier, httpsUrl, webcalUrl, googleUrl });
 }
 
 // ── POST /feedback ────────────────────────────────────────────────────────────
@@ -525,223 +535,11 @@ async function handleContactParents(request, env) {
   return json({ ok: true });
 }
 
-// ── GET /sub?token=xxx ────────────────────────────────────────────────────────
-
-async function handleToken(request, env) {
-  const url   = new URL(request.url);
-  const token = url.searchParams.get("token");
-  const debug = url.searchParams.get("debug") === "1";   // ?debug=1 pour diagnostiquer
-
-  if (!token) return html("<h2>Token manquant.</h2>", 400);
-
-  // ── Recherche NocoDB (v1) ─────────────────────────────────────────────────
-  const searchUrl =
-    `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE}` +
-    `?where=(token,eq,${encodeURIComponent(token)})&limit=1`;
-
-  let searchRes, data;
-  try {
-    searchRes = await fetch(searchUrl, { headers: { "xc-token": env.NOCODB_TOKEN } });
-    data      = await searchRes.json();
-  } catch (e) {
-    return html(`<h2>Erreur NocoDB</h2><pre>${e.message}</pre>`, 500);
-  }
-
-  if (debug) {
-    return new Response(JSON.stringify({ searchUrl, status: searchRes.status, data }, null, 2), {
-      headers: { "Content-Type": "application/json" },
-    });
-  }
-
-  // NocoDB v1 renvoie { list: [...] } ; v2 pourrait renvoyer { records: [...] }
-  const rows = data.list ?? data.records ?? [];
-  const row  = rows[0];
-
-  if (!row) {
-    return html("<h2>🔗 Lien invalide ou expiré.</h2>" +
-      `<p><a href="${PAGES_BASE}">Retour au calendrier</a></p>`, 404);
-  }
-
-  if (row.token_used) {
-    return html(
-      `<h2>🔒 Ce lien a déjà été utilisé.</h2>
-       <p>Retournez sur <a href="${PAGES_BASE}">Agendas FFBB</a>
-       pour obtenir un nouveau lien.</p>`, 410);
-  }
-
-  // ── Marquer utilisé (row.Id = NocoDB v1, row.id = v2) ───────────────────
-  const rowId = row.Id ?? row.id;
-  if (rowId) {
-    await fetch(
-      `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE}/${rowId}`,
-      {
-        method: "PATCH",
-        headers: { "xc-token": env.NOCODB_TOKEN, "Content-Type": "application/json" },
-        body: JSON.stringify({ token_used: true, token_used_at: new Date().toISOString() }),
-      }
-    );
-  }
-
-  // ── Page d'abonnement ───────────────────────────────────────────────────────
-  // Un clic utilisateur direct est indispensable : un redirect 302 vers webcal://
-  // donne une page blanche dans un navigateur mobile.
-  const httpsUrl    = icsFullUrl(row.fichier);                          // lien direct (téléchargement navigateur)
-  const webcalUrl   = icsProxyUrl(row.fichier, request, env).replace(/^https?:\/\//, "webcal://"); // abonnement (charset correct)
-  const equipeLabel = row.equipe || "votre équipe";
-
-  // Android : un vrai calendrier Google (cid=<id google>) s'affiche tout de
-  // suite, contrairement à un abonnement .ics externe qui reste invisible tant
-  // qu'il n'est pas activé à la main. Créé au premier abonnement de l'équipe.
-  // La création (+ import des matchs) peut prendre plusieurs secondes : on ne
-  // l'attend pas ici pour ne pas laisser la page blanche, elle se fait en JS
-  // via /gcal une fois la page affichée (lien webcal en attendant, déjà valide).
-  const googleUrl = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUrl)}`;
-  const gcalQuery = `fichier=${encodeURIComponent(row.fichier)}&equipe=${encodeURIComponent(row.equipe || "")}&comp_nom=${encodeURIComponent(row.comp_nom || "")}`;
-
-  return new Response(`<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Agendas FFBB — Abonnement</title>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-           background: #F5F6FA; color: #1B2A4A;
-           display: flex; align-items: center; justify-content: center;
-           min-height: 100vh; padding: 20px; }
-    .card { background: #fff; border-radius: 16px; padding: 32px 24px;
-            max-width: 400px; width: 100%; text-align: center;
-            box-shadow: 0 4px 20px rgba(0,0,0,.08); }
-    h1 { font-size: 1.15rem; margin: 14px 0 6px; }
-    .sub { font-size: .88rem; color: #6B7280; margin-bottom: 24px; line-height: 1.5; }
-    a.btn { display: block; color: #fff; text-decoration: none; padding: 15px;
-            border-radius: 12px; font-weight: 700; font-size: 1rem; margin-bottom: 10px; }
-    .ios { background: #E84E0F; }
-    .android { background: #1A73E8; }
-    /* Tant que le vrai calendrier Google n'est pas prêt, le bouton porte encore
-       le lien .ics de repli : on le neutralise visuellement pour éviter que
-       l'utilisateur parte sur l'abonnement externe (invisible sur Android). */
-    a.btn.pending { opacity: .55; }
-    .steps { text-align: left; background: #F5F6FA; border-radius: 10px;
-             padding: 14px 16px; font-size: .8rem; color: #4B5563;
-             line-height: 1.6; margin-top: 14px; }
-    .steps strong { color: #1B2A4A; }
-    .alt { font-size: .75rem; color: #9CA3AF; margin-top: 16px; }
-    .alt a { color: #9CA3AF; }
-    .hidden { display: none; }
-    .loading { font-size: .8rem; color: #6B7280; margin: -2px 0 10px; }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <div style="font-size:3rem">🏀</div>
-    <h1>Abonnement prêt !</h1>
-    <p class="sub">Calendrier de <strong>${equipeLabel}</strong></p>
-
-    <!-- iOS / Mac -->
-    <div id="block-ios" class="hidden">
-      <a href="${webcalUrl}" class="btn ios">📅 Ajouter à mon calendrier</a>
-      <div class="steps">
-        Votre application <strong>Calendrier</strong> va s'ouvrir.
-        Appuyez sur <strong>S'abonner</strong> puis <strong>Terminé</strong>.
-      </div>
-    </div>
-
-    <!-- Android -->
-    <div id="block-android" class="hidden">
-      <a href="${googleUrl}" class="btn android google-btn">📅 Ajouter à Google Agenda</a>
-      <p class="loading google-loading hidden">⏳ Préparation de votre calendrier Google…</p>
-      <div class="steps">
-        <strong>Sur Android</strong>, l'abonnement passe par votre compte Google :<br>
-        1. La page Google Agenda s'ouvre → appuyez sur <strong>Ajouter</strong><br>
-        2. Le calendrier apparaît ensuite <strong>automatiquement</strong> dans l'app Agenda de votre téléphone<br>
-        3. Comptez jusqu'à quelques heures pour la première synchronisation
-      </div>
-    </div>
-
-    <!-- Desktop / inconnu : les deux -->
-    <div id="block-both" class="hidden">
-      <a href="${webcalUrl}" class="btn ios">📱 iPhone / iPad / Mac</a>
-      <a href="${googleUrl}" class="btn android google-btn">🤖 Android / Google Agenda</a>
-      <p class="loading google-loading hidden">⏳ Préparation de votre calendrier Google…</p>
-    </div>
-
-    <p class="alt">
-      Lien direct : <a href="${httpsUrl}">${httpsUrl}</a>
-    </p>
-  </div>
-
-  <script>
-    var ua = navigator.userAgent || "";
-    var isIOS = /iPad|iPhone|iPod/.test(ua) ||
-                (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
-    var isMac = /Macintosh/.test(ua);
-    var isAndroid = /Android/.test(ua);
-    var id = isAndroid ? "block-android" : (isIOS || isMac) ? "block-ios" : "block-both";
-    document.getElementById(id).classList.remove("hidden");
-
-    // Le lien webcal:// ci-dessus fonctionne déjà : on tente juste d'obtenir le
-    // vrai calendrier Google (affichage immédiat côté Android) en tâche de fond,
-    // sans jamais bloquer l'affichage de la page.
-    if (id === "block-android" || id === "block-both") {
-      var btns    = document.querySelectorAll("#" + id + " .google-btn");
-      var loaders = document.querySelectorAll("#" + id + " .google-loading");
-
-      // La création du calendrier Google prend quelques secondes (création +
-      // partage public + import des matchs). Pendant ce temps le bouton porte
-      // encore le lien .ics de repli : si on laissait cliquer, Android ajoutait
-      // un abonnement externe… qui reste invisible. On bloque donc le clic et
-      // on le rejoue automatiquement dès que le vrai lien est disponible.
-      var pending = true, clickedTooEarly = false;
-
-      loaders.forEach(function (l) { l.classList.remove("hidden"); });
-      btns.forEach(function (b) {
-        b.classList.add("pending");
-        b.addEventListener("click", function (e) {
-          if (!pending) return;              // lien définitif : on laisse passer
-          e.preventDefault();
-          clickedTooEarly = true;
-          loaders.forEach(function (l) {
-            l.textContent = "⏳ Préparation en cours, ouverture automatique…";
-          });
-        });
-      });
-
-      // Expression de fonction (et non déclaration dans un bloc) : comportement
-      // identique sur tous les navigateurs, y compris en mode strict.
-      var done = false;
-      var ready = function (finalUrl) {
-        if (done) return;                   // fetch et délai de sécurité peuvent
-        done = true;                        // se déclencher tous les deux
-        pending = false;
-        btns.forEach(function (b) {
-          b.classList.remove("pending");
-          if (finalUrl) b.href = finalUrl;
-        });
-        loaders.forEach(function (l) { l.classList.add("hidden"); });
-        // L'utilisateur avait déjà appuyé : on honore son clic maintenant.
-        if (clickedTooEarly && btns.length) window.location.href = btns[0].href;
-      };
-
-      // Filet de sécurité : si Google traîne, on rend la main au bout de 30 s
-      // plutôt que de laisser un bouton inerte.
-      setTimeout(function () { ready(null); }, 30000);
-
-      fetch("/gcal?${gcalQuery}")
-        .then(function (r) { return r.json(); })
-        .then(function (data) { ready(data.url || null); })
-        .catch(function () { ready(null); });   // repli sur le lien .ics en place
-    }
-  </script>
-</body>
-</html>`, { headers: { "Content-Type": "text/html;charset=UTF-8" } });
-}
 
 // ── GET /gcal?fichier=...&equipe=...&comp_nom=... ──────────────────────────────
-// Appelé en tâche de fond par la page d'abonnement (jamais par l'utilisateur
-// directement) : crée le vrai calendrier Google si besoin, sans bloquer le
-// rendu de /sub. Ne prend aucune donnée sensible en entrée.
+// Appelé en tâche de fond par le front (jamais par l'utilisateur directement) :
+// crée le vrai calendrier Google si besoin, sans bloquer la réponse de
+// /subscribe. Ne prend aucune donnée sensible en entrée.
 
 async function handleGcal(request, env) {
   const url     = new URL(request.url);
@@ -769,18 +567,6 @@ function json(body, status = 200) {
   });
 }
 
-function html(content, status = 200) {
-  return new Response(
-    `<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width,initial-scale=1">
-     <title>Agendas FFBB</title>
-     <style>body{font-family:-apple-system,sans-serif;text-align:center;
-     padding:60px 20px;color:#1B2A4A}a{color:#E84E0F}</style></head>
-     <body><div style="font-size:2rem">🏀</div>${content}</body></html>`,
-    { status, headers: { "Content-Type": "text/html;charset=UTF-8" } }
-  );
-}
-
 // ── Entry point ───────────────────────────────────────────────────────────────
 
 export default {
@@ -799,9 +585,6 @@ export default {
     }
     if (request.method === "POST" && path === "/contact-parents") {
       return handleContactParents(request, env);
-    }
-    if (request.method === "GET" && path === "/sub") {
-      return handleToken(request, env);
     }
     if (request.method === "GET" && path === "/gcal") {
       return handleGcal(request, env);

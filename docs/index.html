@@ -392,7 +392,6 @@
     }
     #sub-links .btn.ios     { background: var(--orange); }
     #sub-links .btn.android { background: #1A73E8; }
-    #sub-links .btn.pending { opacity: .55; }
     .modal-close-btn {
       display: block;
       width: 100%;
@@ -871,59 +870,50 @@ async function submitSubscribe() {
   }
 }
 
-// Affiche directement les boutons d'ajout au calendrier (plus d'étape de
-// confirmation par email) et améliore le lien Android en lien Google Agenda
-// dès qu'il est prêt (création en tâche de fond côté worker).
+// Affiche directement le bouton d'ajout au calendrier (plus d'étape de
+// confirmation par email). Sur Android/desktop, le bouton Google Agenda
+// n'apparaît qu'une fois le vrai calendrier créé côté worker : pas de lien
+// de repli cliquable pendant la préparation.
 function renderSubLinks(data) {
   const box = document.getElementById("sub-links");
 
   if (isIOS) {
     box.innerHTML = `<a class="btn ios" href="${data.webcalUrl}">📅 Ajouter à mon calendrier</a>`;
-  } else if (isAndroid) {
-    box.innerHTML =
-      `<a class="btn android google-btn pending" href="${data.googleUrl}">📅 Ajouter à Google Agenda</a>
-       <p class="google-loading" style="font-size:.78rem;color:#6B7280;margin-top:6px">⏳ Préparation de votre calendrier Google…</p>`;
+    return;
+  }
+
+  if (isAndroid) {
+    box.innerHTML = `<p class="google-loading" style="font-size:.85rem;color:#6B7280">⏳ Préparation de votre calendrier Google…</p>`;
+    loadGoogleLink(box, data);
   } else {
     box.innerHTML =
       `<a class="btn ios" href="${data.webcalUrl}">📱 iPhone / iPad / Mac</a>
-       <a class="btn android google-btn pending" href="${data.googleUrl}" style="margin-top:8px">🤖 Android / Google Agenda</a>
-       <p class="google-loading" style="font-size:.78rem;color:#6B7280;margin-top:6px">⏳ Préparation de votre calendrier Google…</p>`;
+       <div class="google-slot" style="margin-top:8px">
+         <p class="google-loading" style="font-size:.85rem;color:#6B7280">⏳ Préparation de votre calendrier Google…</p>
+       </div>`;
+    loadGoogleLink(box.querySelector(".google-slot"), data);
   }
-
-  if (isIOS) return; // pas de bouton Google à améliorer
-  upgradeGoogleLink(box, data);
 }
 
-function upgradeGoogleLink(box, data) {
-  const btns    = box.querySelectorAll(".google-btn");
-  const loaders = box.querySelectorAll(".google-loading");
-  if (!btns.length) return;
+/** Interroge /gcal jusqu'à obtenir le vrai calendrier, puis révèle le bouton. */
+function loadGoogleLink(target, data) {
+  const q = `fichier=${encodeURIComponent(data.fichier)}&equipe=${encodeURIComponent(data.equipe || "")}&comp_nom=${encodeURIComponent(data.comp_nom || "")}`;
 
-  let pending = true, clickedTooEarly = false, done = false;
-
-  btns.forEach(b => b.addEventListener("click", e => {
-    if (!pending) return;
-    e.preventDefault();
-    clickedTooEarly = true;
-    loaders.forEach(l => l.textContent = "⏳ Préparation en cours, ouverture automatique…");
-  }));
-
-  const ready = (finalUrl) => {
+  let done = false;
+  const reveal = (url) => {
     if (done) return;
     done = true;
-    pending = false;
-    btns.forEach(b => { b.classList.remove("pending"); if (finalUrl) b.href = finalUrl; });
-    loaders.forEach(l => l.style.display = "none");
-    if (clickedTooEarly && btns.length) window.location.href = btns[0].href;
+    target.innerHTML = `<a class="btn android" href="${url || data.googleUrl}">📅 Ajouter à Google Agenda</a>`;
   };
 
-  setTimeout(() => ready(null), 30000);
+  // Filet de sécurité : si Google traîne, on affiche quand même le bouton
+  // (lien .ics de repli) plutôt que de laisser le loader indéfiniment.
+  setTimeout(() => reveal(null), 30000);
 
-  const q = `fichier=${encodeURIComponent(data.fichier)}&equipe=${encodeURIComponent(data.equipe || "")}&comp_nom=${encodeURIComponent(data.comp_nom || "")}`;
   fetch(`${WORKER}/gcal?${q}`)
     .then(r => r.json())
-    .then(d => ready(d.url || null))
-    .catch(() => ready(null));
+    .then(d => reveal(d.url))
+    .catch(() => reveal(null));
 }
 
 function showSubError(msg) {

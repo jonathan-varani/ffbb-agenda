@@ -563,10 +563,11 @@ async def discover_competitions(
     """
     exclude = [kw.lower() for kw in (exclude or ["coupe", "plateau", "cup", "amicale"])]
     # La FFBB nomme systématiquement les compétitions "Amicale" avec un slug
-    # du type "17-ami-nmu18" — signal plus fiable que le texte du lien (qui
-    # peut être vide/générique si plusieurs <a> pointent vers le même slug,
-    # ex: menu mobile dupliqué).
-    amicale_slug_re = re.compile(r"/\d+-ami-", re.I)
+    # du type "17-ami-nmu18" (ligues) ou, au niveau départemental, directement
+    # "ami-joudrevile" sans préfixe numérique — signal plus fiable que le texte
+    # du lien (qui peut être vide/générique si plusieurs <a> pointent vers le
+    # même slug, ex: menu mobile dupliqué).
+    amicale_slug_re = re.compile(r"/(?:\d+-)?ami-", re.I)
     print(f"\n  Découverte des compétitions : {region_url}")
 
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as session:

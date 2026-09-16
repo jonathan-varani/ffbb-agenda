@@ -237,8 +237,8 @@ async function deleteGoogleCalendarRow(rowId, env) {
 
 /** Attend qu'une autre requête ait fini de créer le calendrier (~30s max). */
 async function waitForGoogleCalendarId(fichier, env) {
-  for (let i = 0; i < 20; i++) {
-    await new Promise(r => setTimeout(r, 1500));
+  for (let i = 0; i < 60; i++) {
+    await new Promise(r => setTimeout(r, 500));
     const rows  = await findGoogleCalendarRows(fichier, env);
     const ready = rows.find(r => r.google_calendar_id);
     if (ready) return ready.google_calendar_id;
@@ -496,13 +496,14 @@ async function handleSubscribe(request, env, ctx) {
   const createdRow = await noco.json().catch(() => ({}));
   const rowId = createdRow.Id ?? createdRow.id ?? null;
 
-  // ── Calendrier Google, en tâche de fond ───────────────────────────────────
-  // On lance la création dès l'inscription : la page d'abonnement (retournée
-  // immédiatement ci-dessous) démarre avec le lien .ics de repli, puis
-  // s'améliore automatiquement en lien Google Agenda via /gcal dès que la
-  // création est terminée (voir docs/index.html).
+  // ── Email de remerciement, en tâche de fond ───────────────────────────────
+  // Le calendrier Google n'est PAS lancé ici : le front (docs/index.html)
+  // appelle /gcal juste après cette réponse pour le créer à la demande. Le
+  // lancer aussi depuis /subscribe créait une course avec cet appel — les
+  // deux se lançaient au même instant, et la logique anti-doublon fait
+  // alors attendre l'un des deux le temps que l'autre termine, ce qui
+  // rallonge l'attente pour rien dans le cas courant (un seul abonné).
   if (ctx && typeof ctx.waitUntil === "function") {
-    ctx.waitUntil(getOrCreateGoogleCalendar({ fichier, equipe, comp_nom }, env));
     ctx.waitUntil(sendThankYouEmail(rowId, email, equipe, comp_nom, env));
   } else {
     await sendThankYouEmail(rowId, email, equipe, comp_nom, env);

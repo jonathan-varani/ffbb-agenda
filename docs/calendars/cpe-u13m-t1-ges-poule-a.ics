@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CPE-U13M-T1 – GES – Poule A
+X-WR-CALDESC:Tous les matchs CPE-U13M-T1 – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cpe-u13m-t1-ges-poule-a-2026-10-17-14-30-nancy-basketball-cslb-bar-le-d
+ uc@ffbb-agenda
+DTSTAMP:20260916T232658Z
+DTSTART;TZID=Europe/Paris:20261017T143000
+DTEND;TZID=Europe/Paris:20261017T163000
+SUMMARY:NANCY BASKETBALL – CSLB BAR LE DUC
+DESCRIPTION:🏀 CPE-U13M-T1 – GES – Poule A\n⚔️ NANCY BASKETBALL v
+ s CSLB BAR LE DUC\n\nGYMNASE PIERRE DE COUBERTIN\n📍 Rue de Phalsbourg N
+ ancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.68294\,6.18168&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/cpe-u13m-t1/match/2000000147
+ 75878
+LOCATION:GYMNASE PIERRE DE COUBERTIN\, Rue de Phalsbourg Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13m-t1/match
+ /200000014775878
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-u13m-t1-ges-poule-a-2026-10-17-14-30-revigny-basket-club-cse-folkli
+ ng@ffbb-agenda
+DTSTAMP:20260916T232658Z
+DTSTART;TZID=Europe/Paris:20261017T143000
+DTEND;TZID=Europe/Paris:20261017T163000
+SUMMARY:REVIGNY BASKET CLUB – CSE FOLKLING
+DESCRIPTION:🏀 CPE-U13M-T1 – GES – Poule A\n⚔️ REVIGNY BASKET CLU
+ B vs CSE FOLKLING\n\nGYMNASE DU COLLEGE\n📍 Rue Jean Moulin Revigny-sur-
+ Ornain 55800\n🚗 Waze : https://waze.com/ul?ll=48.82845\,4.98215&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/cpe-u13m-t1/match/20000001
+ 4775879
+LOCATION:GYMNASE DU COLLEGE\, Rue Jean Moulin Revigny-sur-Ornain 55800
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13m-t1/match
+ /200000014775879
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-u13m-t1-ges-poule-a-2026-10-17-14-30-mustangs-association-colmar-ba
+ sket@ffbb-agenda
+DTSTAMP:20260916T232658Z
+DTSTART;TZID=Europe/Paris:20261017T143000
+DTEND;TZID=Europe/Paris:20261017T163000
+SUMMARY:MUSTANGS ASSOCIATION – COLMAR BASKET
+DESCRIPTION:🏀 CPE-U13M-T1 – GES – Poule A\n⚔️ MUSTANGS ASSOCIATI
+ ON vs COLMAR BASKET\n\nSALLE POLYVALENTE\n📍 Rue de Kingersheim Pfastatt
+  68120\n🚗 Waze : https://waze.com/ul?ll=47.77264\,7.30777&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/cpe-u13m-t1/match/20000001477588
+ 0
+LOCATION:SALLE POLYVALENTE\, Rue de Kingersheim Pfastatt 68120
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13m-t1/match
+ /200000014775880
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-u13m-t1-ges-poule-a-2026-10-17-14-30-basket-club-de-kingersheim-asa
+ -souffelw@ffbb-agenda
+DTSTAMP:20260916T232658Z
+DTSTART;TZID=Europe/Paris:20261017T143000
+DTEND;TZID=Europe/Paris:20261017T163000
+SUMMARY:BASKET CLUB DE KINGERSHEIM – ASA SOUFFELWEYERSHEIM
+DESCRIPTION:🏀 CPE-U13M-T1 – GES – Poule A\n⚔️ BASKET CLUB DE KIN
+ GERSHEIM vs ASA SOUFFELWEYERSHEIM\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de
+  Coubertin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\
+ ,7.32801&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13m-t
+ 1/match/200000014775881
+LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13m-t1/match
+ /200000014775881
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-u13m-t1-ges-poule-a-2026-10-17-14-30-val-de-ville-b-c-s-i-graffenst
+ aden@ffbb-agenda
+DTSTAMP:20260916T232658Z
+DTSTART;TZID=Europe/Paris:20261017T143000
+DTEND;TZID=Europe/Paris:20261017T163000
+SUMMARY:VAL DE VILLE B.C. – S.I. GRAFFENSTADEN
+DESCRIPTION:🏀 CPE-U13M-T1 – GES – Poule A\n⚔️ VAL DE VILLE B.C. 
+ vs S.I. GRAFFENSTADEN\n\nCENTRE SPORTIF\n📍 Rue Belle Vue Villé 67220\n
+ 🚗 Waze : https://waze.com/ul?ll=48.34304\,7.29788&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/cpe-u13m-t1/match/200000014775882
+LOCATION:CENTRE SPORTIF\, Rue Belle Vue Villé 67220
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13m-t1/match
+ /200000014775882
+END:VEVENT
+END:VCALENDAR

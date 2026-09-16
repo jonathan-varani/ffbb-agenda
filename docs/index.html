@@ -392,6 +392,22 @@
     }
     #sub-links .btn.ios     { background: var(--orange); }
     #sub-links .btn.android { background: #1A73E8; }
+    #sub-links .google-loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+    .spinner {
+      width: 15px;
+      height: 15px;
+      flex-shrink: 0;
+      border: 2px solid var(--border);
+      border-top-color: var(--orange);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
     .modal-close-btn {
       display: block;
       width: 100%;
@@ -535,9 +551,6 @@
       </div>
       <div id="sub-success" style="display:none">
         <div id="sub-links"></div>
-        <div style="margin-top:6px;font-weight:400;font-size:.78rem;color:#6B7280">
-          Un email de confirmation vous a aussi été envoyé.
-        </div>
       </div>
       <div id="sub-error" style="display:none;color:#DC2626;font-size:.82rem;margin-bottom:8px"></div>
       <button class="modal-close-btn" onclick="closeModal()">Fermer</button>
@@ -884,7 +897,9 @@ function renderSubLinks(data) {
     return;
   }
 
-  box.innerHTML = `<p class="google-loading" style="font-size:.85rem;color:#6B7280">⏳ Préparation de votre calendrier Google…</p>`;
+  box.innerHTML = `<p class="google-loading" style="font-size:.85rem;color:#6B7280">
+    <span class="spinner"></span>Préparation de votre calendrier Google…
+  </p>`;
   loadGoogleLink(box, data);
 }
 

@@ -871,9 +871,11 @@ async function submitSubscribe() {
 }
 
 // Affiche directement le bouton d'ajout au calendrier (plus d'étape de
-// confirmation par email). Sur Android/desktop, le bouton Google Agenda
-// n'apparaît qu'une fois le vrai calendrier créé côté worker : pas de lien
-// de repli cliquable pendant la préparation.
+// confirmation par email). Sur iOS, le lien webcal est déjà valide, affiché
+// tout de suite. Partout ailleurs (Android/desktop), rien ne s'affiche tant
+// que le vrai calendrier Google n'est pas créé côté worker : un simple
+// loader, puis les boutons définitifs (Google seul sur Android, iOS+Google
+// sur desktop).
 function renderSubLinks(data) {
   const box = document.getElementById("sub-links");
 
@@ -882,32 +884,27 @@ function renderSubLinks(data) {
     return;
   }
 
-  if (isAndroid) {
-    box.innerHTML = `<p class="google-loading" style="font-size:.85rem;color:#6B7280">⏳ Préparation de votre calendrier Google…</p>`;
-    loadGoogleLink(box, data);
-  } else {
-    box.innerHTML =
-      `<a class="btn ios" href="${data.webcalUrl}">📱 iPhone / iPad / Mac</a>
-       <div class="google-slot" style="margin-top:8px">
-         <p class="google-loading" style="font-size:.85rem;color:#6B7280">⏳ Préparation de votre calendrier Google…</p>
-       </div>`;
-    loadGoogleLink(box.querySelector(".google-slot"), data);
-  }
+  box.innerHTML = `<p class="google-loading" style="font-size:.85rem;color:#6B7280">⏳ Préparation de votre calendrier Google…</p>`;
+  loadGoogleLink(box, data);
 }
 
-/** Interroge /gcal jusqu'à obtenir le vrai calendrier, puis révèle le bouton. */
-function loadGoogleLink(target, data) {
+/** Interroge /gcal jusqu'à obtenir le vrai calendrier, puis révèle le(s) bouton(s). */
+function loadGoogleLink(box, data) {
   const q = `fichier=${encodeURIComponent(data.fichier)}&equipe=${encodeURIComponent(data.equipe || "")}&comp_nom=${encodeURIComponent(data.comp_nom || "")}`;
 
   let done = false;
   const reveal = (url) => {
     if (done) return;
     done = true;
-    target.innerHTML = `<a class="btn android" href="${url || data.googleUrl}">📅 Ajouter à Google Agenda</a>`;
+    const googleBtn = `<a class="btn android" href="${url || data.googleUrl}">📅 Ajouter à Google Agenda</a>`;
+    box.innerHTML = isAndroid
+      ? googleBtn
+      : `<a class="btn ios" href="${data.webcalUrl}">📱 iPhone / iPad / Mac</a>
+         <div style="margin-top:8px">${googleBtn}</div>`;
   };
 
-  // Filet de sécurité : si Google traîne, on affiche quand même le bouton
-  // (lien .ics de repli) plutôt que de laisser le loader indéfiniment.
+  // Filet de sécurité : si Google traîne, on affiche quand même le(s)
+  // bouton(s) (lien .ics de repli) plutôt que de laisser le loader indéfiniment.
   setTimeout(() => reveal(null), 30000);
 
   fetch(`${WORKER}/gcal?${q}`)

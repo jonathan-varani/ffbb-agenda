@@ -198,19 +198,19 @@ function icsDateToRfc3339(v) {
 
 // ── Mapping équipe → google_calendar_id (NocoDB) ──────────────────────────────
 
-async function findGoogleCalendarId(fichier, env) {
+async function findGoogleCalendarRows(fichier, env) {
   const url =
     `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE_GCAL}` +
-    `?where=(fichier,eq,${encodeURIComponent(fichier)})&limit=1`;
+    `?where=(fichier,eq,${encodeURIComponent(fichier)})`;
   const res = await fetch(url, { headers: { "xc-token": env.NOCODB_TOKEN } });
-  if (!res.ok) return null;
+  if (!res.ok) return [];
   const data = await res.json();
-  const row  = (data.list ?? data.records ?? [])[0];
-  return row ? row.google_calendar_id : null;
+  return data.list ?? data.records ?? [];
 }
 
-async function saveGoogleCalendarId(fichier, equipe, calendarId, env) {
-  await fetch(
+/** Pose un jalon (google_calendar_id vide) et retourne son Id NocoDB. */
+async function reserveGoogleCalendarRow(fichier, equipe, env) {
+  const res = await fetch(
     `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE_GCAL}`,
     {
       method: "POST",
@@ -218,11 +218,32 @@ async function saveGoogleCalendarId(fichier, equipe, calendarId, env) {
       body: JSON.stringify({
         fichier,
         equipe,
-        google_calendar_id: calendarId,
+        google_calendar_id: "",
         created_at: new Date().toISOString(),
       }),
     },
   );
+  if (!res.ok) return null;
+  const created = await res.json().catch(() => ({}));
+  return created.Id ?? created.id ?? null;
+}
+
+async function deleteGoogleCalendarRow(rowId, env) {
+  await fetch(
+    `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE_GCAL}/${rowId}`,
+    { method: "DELETE", headers: { "xc-token": env.NOCODB_TOKEN } },
+  ).catch(() => null);
+}
+
+/** Attend qu'une autre requête ait fini de créer le calendrier (~30s max). */
+async function waitForGoogleCalendarId(fichier, env) {
+  for (let i = 0; i < 20; i++) {
+    await new Promise(r => setTimeout(r, 1500));
+    const rows  = await findGoogleCalendarRows(fichier, env);
+    const ready = rows.find(r => r.google_calendar_id);
+    if (ready) return ready.google_calendar_id;
+  }
+  return null;
 }
 
 // ── Création du calendrier + injection des matchs ─────────────────────────────
@@ -292,17 +313,59 @@ async function createGoogleCalendar(row, env) {
     }
   }
 
-  await saveGoogleCalendarId(row.fichier, equipe, calendarId, env);
   return calendarId;
 }
 
-/** Retourne l'id du calendrier Google de l'équipe, en le créant si besoin. */
+/**
+ * Retourne l'id du calendrier Google de l'équipe, en le créant si besoin.
+ *
+ * Le worker peut recevoir deux appels concurrents pour la même équipe
+ * (tâche de fond de /subscribe + polling /gcal du front) : sans verrou, les
+ * deux passaient le test "aucune ligne trouvée" avant que l'un des deux
+ * n'ait fini d'écrire, créant deux calendriers Google en double. La
+ * contrainte unique NocoDB n'est pas disponible sur ce plan ; on gère donc
+ * la course "après coup" — chaque candidat pose un jalon (ligne avec
+ * google_calendar_id vide), puis relit toutes les lignes de l'équipe : la
+ * plus ancienne (Id le plus petit) gagne et crée le calendrier, les autres
+ * suppriment leur jalon et attendent son résultat.
+ */
 async function getOrCreateGoogleCalendar(row, env) {
   if (!env.GOOGLE_SA_JSON || !NOCODB_TABLE_GCAL) return null;
   try {
-    const existing = await findGoogleCalendarId(row.fichier, env);
-    if (existing) return existing;
-    return await createGoogleCalendar(row, env);
+    let rows  = await findGoogleCalendarRows(row.fichier, env);
+    let ready = rows.find(r => r.google_calendar_id);
+    if (ready) return ready.google_calendar_id;
+
+    let myId = null;
+    if (rows.length === 0) {
+      myId  = await reserveGoogleCalendarRow(row.fichier, row.equipe, env);
+      rows  = await findGoogleCalendarRows(row.fichier, env);
+      ready = rows.find(r => r.google_calendar_id);
+      if (ready) {
+        if (myId) await deleteGoogleCalendarRow(myId, env);
+        return ready.google_calendar_id;
+      }
+    }
+
+    const winnerId = Math.min(...rows.map(r => r.Id ?? r.id));
+
+    if (myId !== winnerId) {
+      // On a perdu la course (ou une réservation existait déjà avant nous).
+      if (myId) await deleteGoogleCalendarRow(myId, env);
+      return await waitForGoogleCalendarId(row.fichier, env);
+    }
+
+    // On a gagné la course : seul ce worker crée le calendrier.
+    const calendarId = await createGoogleCalendar(row, env);
+    await fetch(
+      `${NOCODB_API}/api/v1/db/data/noco/${NOCODB_BASE}/${NOCODB_TABLE_GCAL}/${winnerId}`,
+      {
+        method: "PATCH",
+        headers: { "xc-token": env.NOCODB_TOKEN, "Content-Type": "application/json" },
+        body: JSON.stringify({ google_calendar_id: calendarId }),
+      },
+    );
+    return calendarId;
   } catch (e) {
     // En cas d'échec on ne casse pas l'abonnement : la page retombera sur le
     // lien .ics classique.

@@ -6,7 +6,8 @@ FFBB) -> nom court, utilisée par generate_ics.py pour raccourcir les titres
 d'événements calendrier. Si une équipe n'a pas de ligne ici, son nom est
 affiché tel quel.
 
-Le token est lu depuis Nocodb/Token_ffbb-agenda.txt et n'est jamais affiché.
+Le token est lu depuis la variable d'environnement NOCODB_TOKEN (fichier .env)
+et n'est jamais affiché.
 
 Usage :
     python setup_nocodb_abbreviations.py
@@ -15,10 +16,12 @@ import os
 import sys
 
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 NOCODB_API  = "https://app.nocodb.com"
 NOCODB_BASE = "poq54dd1rjvxuki"
-TOKEN_FILE  = os.path.join("Nocodb", "Token_ffbb-agenda.txt")
 
 TABLE_TITLE = "Abreviations Equipes"
 COLUMNS = [
@@ -28,11 +31,11 @@ COLUMNS = [
 
 
 def read_token() -> str:
-    if not os.path.exists(TOKEN_FILE):
-        print(f"❌ Token introuvable : {TOKEN_FILE}")
+    token = os.environ.get("NOCODB_TOKEN")
+    if not token:
+        print("❌ NOCODB_TOKEN introuvable (à définir dans .env)")
         sys.exit(1)
-    with open(TOKEN_FILE, encoding="utf-8") as f:
-        return f.read().strip()
+    return token
 
 
 def find_existing(headers) -> str | None:

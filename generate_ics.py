@@ -19,7 +19,11 @@ import sys
 import unicodedata
 from datetime import datetime, timedelta, timezone
 
+from dotenv import load_dotenv
+
 from scraper_http import scrape_competition, build_calendar_name, find_all_poule_urls, discover_competitions, discover_national_competitions
+
+load_dotenv()
 
 # ── Config ────────────────────────────────────────────────────────────────────
 OUTPUT_DIR   = "docs/calendars"       # dossier de sortie GitHub Pages
@@ -28,7 +32,6 @@ TIMEZONE_STR = "Europe/Paris"
 PRODID       = "-//FFBB Agenda//FR"
 NOCODB_API             = "https://app.nocodb.com"
 NOCODB_TABLE_ABBREV    = "m2zeie8818xag60"  # table "Abreviations Equipes"
-NOCODB_TOKEN_FILE      = os.path.join("Nocodb", "Token_ffbb-agenda.txt")
 
 
 def load_team_abbreviations() -> dict:
@@ -38,9 +41,6 @@ def load_team_abbreviations() -> dict:
     les noms d'équipe restent affichés tels quels.
     """
     token = os.environ.get("NOCODB_TOKEN")
-    if not token and os.path.exists(NOCODB_TOKEN_FILE):
-        with open(NOCODB_TOKEN_FILE, encoding="utf-8") as f:
-            token = f.read().strip()
     if not token:
         return {}
 

@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB DE HARAUCOURT  [DFU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB DE HARAUCOURT – DFU15 – GES – Ardennes – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-10-03-00-00-flammes-carolo-basket-arden
+ nes-2-bas@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ FLAMMES CAROLO BASKET ARDENNES - 2 – BASKET CLUB DE HARAUC
+ OURT
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES - 2 vs BASKET CLUB DE HARAUCOURT\n\nSALLE BAYARD\n📍
+  Avenue Louis Tirman Charleville-Mézières 08000\n🚗 Waze : https://waz
+ e.com/ul?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0008/competitions/dfu15/match/200000014773308
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773308
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-10-10-00-00-etoile-de-charleville-mezie
+ res-baske@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ ETOILE DE C
+ HARLEVILLE MEZIERES vs BASKET CLUB DE HARAUCOURT\n\nSALLE DUBOIS CRANCE\n
+ 📍 Rue Dubois-Crancé Charleville-Mézières 08000\n🚗 Waze : https://
+ waze.com/ul?ll=49.77095\,4.71489&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0008/competitions/dfu15/match/200000014773312
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé Charleville-Mézières 08
+ 000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773312
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-11-07-00-00-basket-club-de-haraucourt-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – BASKET CLUB GIVETOIS
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs BASKET CLUB GIVETOIS\n\nSALLE MUNICIPALE\n📍 Rue de la
+  Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4.961
+ 15&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu
+ 15/match/200000014773316
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773316
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-11-14-00-00-basket-club-de-haraucourt-v
+ illers-se@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – VILLERS SEMEUSE BASKET - 2
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs VILLERS SEMEUSE BASKET - 2\n\nSALLE MUNICIPALE\n📍 Rue
+  de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\
+ ,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitio
+ ns/dfu15/match/200000014773319
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773319
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-11-28-00-00-basket-club-de-haraucourt-f
+ lammes-ca@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – FLAMMES CAROLO BASKET ARDENNES -
+  2
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs FLAMMES CAROLO BASKET ARDENNES - 2\n\nSALLE MUNICIPALE\n
+ 📍 Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.61976\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/
+ competitions/dfu15/match/200000014773323
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773323
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-12-05-00-00-basket-club-de-haraucourt-e
+ toile-de-@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 BASKET CLUB DE HARAUCOURT – ETOILE DE CHARLEVILLE MEZIERES
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs ETOILE DE CHARLEVILLE MEZIERES\n\nSALLE MUNICIPALE\n📍
+  Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61
+ 976\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/compet
+ itions/dfu15/match/200000014773327
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773327
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-12-12-00-00-basket-club-givetois-basket
+ -club-de-@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ BASKET CLUB GIVETOIS – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  GIVETOIS vs BASKET CLUB DE HARAUCOURT\n\nSALLE GERARD TASSIN\n📍 Rue Be
+ rthelot Givet 08600\n🚗 Waze : https://waze.com/ul?ll=50.1422\,4.82607&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu15/m
+ atch/200000014773331
+LOCATION:SALLE GERARD TASSIN\, Rue Berthelot Givet 08600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773331
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2027-01-09-00-00-villers-semeuse-basket-2-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20270109T000000
+DTEND;TZID=Europe/Paris:20270109T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET - 2 – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET - 2 vs BASKET CLUB DE HARAUCOURT\n\nCOSEC\n📍 Avenue Jean Ja
+ urès Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,
+ 4.74446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competition
+ s/dfu15/match/200000014773334
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773334
+END:VEVENT
+END:VCALENDAR

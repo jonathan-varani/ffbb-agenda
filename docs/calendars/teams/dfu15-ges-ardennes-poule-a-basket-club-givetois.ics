@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB GIVETOIS  [DFU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB GIVETOIS – DFU15 – GES – Ardennes – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-10-10-00-00-basket-club-givetois-flamme
+ s-carolo-@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 BASKET CLUB GIVETOIS – FLAMMES CAROLO BASKET ARDENNES - 2
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  GIVETOIS vs FLAMMES CAROLO BASKET ARDENNES - 2\n\nSALLE GERARD TASSIN\n
+ 📍 Rue Berthelot Givet 08600\n🚗 Waze : https://waze.com/ul?ll=50.1422
+ \,4.82607&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competiti
+ ons/dfu15/match/200000014773313
+LOCATION:SALLE GERARD TASSIN\, Rue Berthelot Givet 08600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773313
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-11-07-00-00-basket-club-de-haraucourt-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ BASKET CLUB DE HARAUCOURT – BASKET CLUB GIVETOIS
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs BASKET CLUB GIVETOIS\n\nSALLE MUNICIPALE\n📍 Rue de la
+  Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61976\,4.961
+ 15&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu
+ 15/match/200000014773316
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773316
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-11-14-00-00-basket-club-givetois-etoile
+ -de-charl@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:🏠 BASKET CLUB GIVETOIS – ETOILE DE CHARLEVILLE MEZIERES
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  GIVETOIS vs ETOILE DE CHARLEVILLE MEZIERES\n\nSALLE GERARD TASSIN\n📍 R
+ ue Berthelot Givet 08600\n🚗 Waze : https://waze.com/ul?ll=50.1422\,4.82
+ 607&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/df
+ u15/match/200000014773317
+LOCATION:SALLE GERARD TASSIN\, Rue Berthelot Givet 08600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773317
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-11-21-00-00-basket-club-givetois-viller
+ s-semeuse@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 BASKET CLUB GIVETOIS – VILLERS SEMEUSE BASKET - 2
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  GIVETOIS vs VILLERS SEMEUSE BASKET - 2\n\nSALLE GERARD TASSIN\n📍 Rue B
+ erthelot Givet 08600\n🚗 Waze : https://waze.com/ul?ll=50.1422\,4.82607&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu15/
+ match/200000014773321
+LOCATION:SALLE GERARD TASSIN\, Rue Berthelot Givet 08600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773321
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-12-05-00-00-flammes-carolo-basket-arden
+ nes-2-bas@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ FLAMMES CAROLO BASKET ARDENNES - 2 – BASKET CLUB GIVETOIS
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES - 2 vs BASKET CLUB GIVETOIS\n\nSALLE BAYARD\n📍 Aven
+ ue Louis Tirman Charleville-Mézières 08000\n🚗 Waze : https://waze.com
+ /ul?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0008/competitions/dfu15/match/200000014773328
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773328
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-12-12-00-00-basket-club-givetois-basket
+ -club-de-@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:🏠 BASKET CLUB GIVETOIS – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  GIVETOIS vs BASKET CLUB DE HARAUCOURT\n\nSALLE GERARD TASSIN\n📍 Rue Be
+ rthelot Givet 08600\n🚗 Waze : https://waze.com/ul?ll=50.1422\,4.82607&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu15/m
+ atch/200000014773331
+LOCATION:SALLE GERARD TASSIN\, Rue Berthelot Givet 08600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773331
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2027-01-09-00-00-etoile-de-charleville-mezie
+ res-baske@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20270109T000000
+DTEND;TZID=Europe/Paris:20270109T020000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES – BASKET CLUB GIVETOIS
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ ETOILE DE C
+ HARLEVILLE MEZIERES vs BASKET CLUB GIVETOIS\n\nSALLE DUBOIS CRANCE\n📍 R
+ ue Dubois-Crancé Charleville-Mézières 08000\n🚗 Waze : https://waze.c
+ om/ul?ll=49.77095\,4.71489&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0008/competitions/dfu15/match/200000014773332
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé Charleville-Mézières 08
+ 000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773332
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2027-01-16-00-00-villers-semeuse-basket-2-ba
+ sket-club@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET - 2 – BASKET CLUB GIVETOIS
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET - 2 vs BASKET CLUB GIVETOIS\n\nCOSEC\n📍 Avenue Jean Jaurès
+  Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\,4.744
+ 46&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu
+ 15/match/200000014773336
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773336
+END:VEVENT
+END:VCALENDAR

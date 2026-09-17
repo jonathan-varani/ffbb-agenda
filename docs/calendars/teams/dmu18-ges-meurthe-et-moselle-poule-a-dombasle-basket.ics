@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DOMBASLE BASKET  [DMU18 – GES – Poule A]
+X-WR-CALDESC:Matchs de DOMBASLE BASKET – DMU18 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-10-03-17-30-nancy-basket-conv
+ ivialite-@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261003T173000
+DTEND;TZID=Europe/Paris:20261003T193000
+SUMMARY:✈️ NANCY BASKET CONVIVIALITE – DOMBASLE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ N
+ ANCY BASKET CONVIVIALITE vs DOMBASLE BASKET\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/dmu18/match/200000014775145
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775145
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-10-10-17-30-avant-garde-porto
+ ise-baske@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261010T173000
+DTEND;TZID=Europe/Paris:20261010T193000
+SUMMARY:✈️ AVANT-GARDE PORTOISE BASKET – DOMBASLE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ A
+ VANT-GARDE PORTOISE BASKET vs DOMBASLE BASKET\n\nCOMPLEXE SPORTIF SALLE A\
+ n📍 Rue du Blanc Mur Saint-Nicolas-de-Port 54210\n🚗 Waze : https://wa
+ ze.com/ul?ll=48.625\,6.29364&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/dmu18/match/200000014775154
+LOCATION:COMPLEXE SPORTIF SALLE A\, Rue du Blanc Mur Saint-Nicolas-de-Port 
+ 54210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775154
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-11-07-17-30-dombasle-basket-l
+ udres-pon@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261107T173000
+DTEND;TZID=Europe/Paris:20261107T193000
+SUMMARY:🏠 DOMBASLE BASKET – LUDRES PONT ST VINCENT BASKET CL
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ D
+ OMBASLE BASKET vs LUDRES PONT ST VINCENT BASKET CL\n\nSALLE ROGER BOILEAU\
+ n📍 Avenue du Général Leclerc Dombasle-sur-Meurthe 54110\n🚗 Waze : 
+ https://waze.com/ul?ll=48.62034\,6.35076&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0054/competitions/dmu18/match/200000014775163
+LOCATION:SALLE ROGER BOILEAU\, Avenue du Général Leclerc Dombasle-sur-Meu
+ rthe 54110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775163
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-11-14-17-30-basket-club-lunev
+ ille-domb@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261114T173000
+DTEND;TZID=Europe/Paris:20261114T193000
+SUMMARY:✈️ BASKET CLUB LUNEVILLE – DOMBASLE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ B
+ ASKET CLUB LUNEVILLE vs DOMBASLE BASKET\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0054/competitions/dmu18/match/200000014775170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775170
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-11-21-17-30-dombasle-basket-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261121T173000
+DTEND;TZID=Europe/Paris:20261121T193000
+SUMMARY:🏠 DOMBASLE BASKET – BASKET CLUB DIEUZE
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ D
+ OMBASLE BASKET vs BASKET CLUB DIEUZE\n\nSALLE ROGER BOILEAU\n📍 Avenue d
+ u Général Leclerc Dombasle-sur-Meurthe 54110\n🚗 Waze : https://waze.c
+ om/ul?ll=48.62034\,6.35076&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0054/competitions/dmu18/match/200000014775179
+LOCATION:SALLE ROGER BOILEAU\, Avenue du Général Leclerc Dombasle-sur-Meu
+ rthe 54110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775179
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-11-28-17-30-esperance-toul-do
+ mbasle-ba@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261128T173000
+DTEND;TZID=Europe/Paris:20261128T193000
+SUMMARY:✈️ ESPERANCE TOUL – DOMBASLE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ E
+ SPERANCE TOUL vs DOMBASLE BASKET\n\nGYMNASE J et H BALSON\n📍 Place de l
+ a Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=48.67875\,5
+ .89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /dmu18/match/200000014775185
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775185
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-12-12-17-30-dombasle-basket-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261212T173000
+DTEND;TZID=Europe/Paris:20261212T193000
+SUMMARY:🏠 DOMBASLE BASKET – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ D
+ OMBASLE BASKET vs BASKET CLUB GONDREVILLE\n\nSALLE ROGER BOILEAU\n📍 Ave
+ nue du Général Leclerc Dombasle-sur-Meurthe 54110\n🚗 Waze : https://w
+ aze.com/ul?ll=48.62034\,6.35076&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0054/competitions/dmu18/match/200000014775195
+LOCATION:SALLE ROGER BOILEAU\, Avenue du Général Leclerc Dombasle-sur-Meu
+ rthe 54110
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775195
+END:VEVENT
+END:VCALENDAR

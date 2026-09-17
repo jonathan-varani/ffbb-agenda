@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB DE VALLEROY-BRIEY  [DMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB DE VALLEROY-BRIEY – DMU18 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-10-03-17-30-vandoeuvre-basket
+ ball-bask@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261003T173000
+DTEND;TZID=Europe/Paris:20261003T193000
+SUMMARY:✈️ VANDOEUVRE BASKETBALL – BASKET CLUB DE VALLEROY-BRIEY
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ V
+ ANDOEUVRE BASKETBALL vs BASKET CLUB DE VALLEROY-BRIEY\n\nGYMNASE DU HAUT D
+ E PENOY\n📍 Rue de Crevic Vandoeuvre-lès-Nancy 54500\n🚗 Waze : https
+ ://waze.com/ul?ll=48.65417\,6.17622&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0054/competitions/dmu18/match/200000014775150
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic Vandoeuvre-lès-Nancy 545
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775150
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-10-10-17-30-basket-club-de-va
+ lleroy-br@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261010T173000
+DTEND;TZID=Europe/Paris:20261010T193000
+SUMMARY:🏠 BASKET CLUB DE VALLEROY-BRIEY – SLUC NANCY BASKET ASSOCIATIO
+ N - 4
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET CLUB DE VALLEROY-BRIEY vs SLUC NANCY BASKET ASSOCIATION - 4\n\nSALLE
+  OMNISPORTS\n📍 Rue du Stade Valleroy 54910\n🚗 Waze : https://waze.co
+ m/ul?ll=49.2124\,5.94334&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/dmu18/match/200000014775157
+LOCATION:SALLE OMNISPORTS\, Rue du Stade Valleroy 54910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775157
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-11-07-17-30-asptt-nancy-tombl
+ aine-bask@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261107T173000
+DTEND;TZID=Europe/Paris:20261107T193000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE – BASKET CLUB DE VALLEROY-BRIEY
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ A
+ SPTT NANCY TOMBLAINE vs BASKET CLUB DE VALLEROY-BRIEY\n\nCOSEC 1\n📍 Rue
+  Jean Moulin Tomblaine 54510\n🚗 Waze : https://waze.com/ul?ll=48.69542\
+ ,6.21374&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/dmu18/match/200000014775164
+LOCATION:COSEC 1\, Rue Jean Moulin Tomblaine 54510
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775164
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-11-14-17-30-basket-club-de-va
+ lleroy-br@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261114T173000
+DTEND;TZID=Europe/Paris:20261114T193000
+SUMMARY:🏠 BASKET CLUB DE VALLEROY-BRIEY – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET CLUB DE VALLEROY-BRIEY vs PAGNY SUR MEUSE BC\n\nSALLE OMNISPORTS\n
+ 📍 Rue du Stade Valleroy 54910\n🚗 Waze : https://waze.com/ul?ll=49.21
+ 24\,5.94334&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/dmu18/match/200000014775174
+LOCATION:SALLE OMNISPORTS\, Rue du Stade Valleroy 54910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775174
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-11-21-17-30-basket-club-de-va
+ lleroy-br@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261121T173000
+DTEND;TZID=Europe/Paris:20261121T193000
+SUMMARY:🏠 BASKET CLUB DE VALLEROY-BRIEY – UNION SPORTIVE JARNISY SECTI
+ ON BASKET
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET CLUB DE VALLEROY-BRIEY vs UNION SPORTIVE JARNISY SECTION BASKET\n\nS
+ ALLE OMNISPORTS\n📍 Rue du Stade Valleroy 54910\n🚗 Waze : https://waz
+ e.com/ul?ll=49.2124\,5.94334&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/dmu18/match/200000014775182
+LOCATION:SALLE OMNISPORTS\, Rue du Stade Valleroy 54910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775182
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-11-28-17-30-ie-ctc-collectif-
+ basket-va@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261128T173000
+DTEND;TZID=Europe/Paris:20261128T193000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – BASKET CLU
+ B DE VALLEROY-BRIEY
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ I
+ E - CTC COLLECTIF BASKET VAL DE LORRAINE SUD vs BASKET CLUB DE VALLEROY-BR
+ IEY\n\nSALLE INTERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze
+  : https://waze.com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0054/competitions/dmu18/match/200000014775190
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775190
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-12-12-17-30-basket-club-de-va
+ lleroy-br@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261212T173000
+DTEND;TZID=Europe/Paris:20261212T193000
+SUMMARY:🏠 BASKET CLUB DE VALLEROY-BRIEY – LA PORTE VERTE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET CLUB DE VALLEROY-BRIEY vs LA PORTE VERTE BASKET\n\nSALLE OMNISPORTS\
+ n📍 Rue du Stade Valleroy 54910\n🚗 Waze : https://waze.com/ul?ll=49.2
+ 124\,5.94334&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compet
+ itions/dmu18/match/200000014775198
+LOCATION:SALLE OMNISPORTS\, Rue du Stade Valleroy 54910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775198
+END:VEVENT
+END:VCALENDAR

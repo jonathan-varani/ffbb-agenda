@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET NOMENY  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET NOMENY – DMU13 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-09-26-14-00-cos-villers-les-n
+ ancy-bask@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20260926T140000
+DTEND;TZID=Europe/Paris:20260926T160000
+SUMMARY:✈️ COS VILLERS LES NANCY – BASKET NOMENY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ C
+ OS VILLERS LES NANCY vs BASKET NOMENY\n\nSALLE GILBERT BAUVIN\n📍 Rue Ma
+ urice André Villers-lès-Nancy 54600\n🚗 Waze : https://waze.com/ul?ll=
+ 48.67362\,6.15439&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dmu13/match/200000014768038
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768038
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-10-03-14-00-basket-nomeny-as-
+ champigne@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 BASKET NOMENY – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET NOMENY vs AS CHAMPIGNEULLES BASKETBALL\n\nHALLE DES SPORTS DU COLLEG
+ E\n📍 Rue Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.88715\,6.2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dmu13/match/200000014768051
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768051
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-10-10-14-00-les-lynx-maxevill
+ ois-baske@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ LES LYNX MAXEVILLOIS – BASKET NOMENY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ L
+ ES LYNX MAXEVILLOIS vs BASKET NOMENY\n\nSALLE LEO LAGRANGE\n📍 Rue de l'
+ Orne Mantes-la-Ville 78711\n🚗 Waze : https://waze.com/ul?ll=48.96407\,1
+ .72023&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /dmu13/match/200000014768069
+LOCATION:SALLE LEO LAGRANGE\, Rue de l'Orne Mantes-la-Ville 78711
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768069
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-10-17-14-00-basket-nomeny-la-
+ porte-ver@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T160000
+SUMMARY:🏠 BASKET NOMENY – LA PORTE VERTE BASKET
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET NOMENY vs LA PORTE VERTE BASKET\n\nHALLE DES SPORTS DU COLLEGE\n📍
+  Rue Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=48.88715
+ \,6.2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/dmu13/match/200000014768083
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768083
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-07-14-00-sluc-nancy-basket
+ -associat@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 4 – BASKET NOMENY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ S
+ LUC NANCY BASKET ASSOCIATION - 4 vs BASKET NOMENY\n\nPALAIS DES SPORTS ANN
+ EXE\n📍 Rue du Capitaine Guynemer Nancy 54100\n🚗 Waze : https://waze.
+ com/ul?ll=48.69975\,6.13996&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/dmu13/match/200000014768096
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768096
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-14-14-00-basket-nomeny-sai
+ nt-max-ba@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 BASKET NOMENY – SAINT MAX BASKET CLUB
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET NOMENY vs SAINT MAX BASKET CLUB\n\nHALLE DES SPORTS DU COLLEGE\n📍
+  Rue Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=48.88715
+ \,6.2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/dmu13/match/200000014768110
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768110
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-21-14-00-ie-ctc-collectif-
+ basket-va@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – BASKET NOM
+ ENY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ I
+ E - CTC COLLECTIF BASKET VAL DE LORRAINE SUD vs BASKET NOMENY\n\nSALLE INT
+ ERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : https://waze.
+ com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/dmu13/match/200000014768123
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768123
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-28-14-00-basket-nomeny-asp
+ tt-nancy-@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 BASKET NOMENY – ASPTT NANCY TOMBLAINE
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET NOMENY vs ASPTT NANCY TOMBLAINE\n\nHALLE DES SPORTS DU COLLEGE\n📍
+  Rue Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=48.88715
+ \,6.2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/dmu13/match/200000014768137
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768137
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-12-12-14-00-vandoeuvre-basket
+ ball-bask@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ VANDOEUVRE BASKETBALL – BASKET NOMENY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ V
+ ANDOEUVRE BASKETBALL vs BASKET NOMENY\n\nGYMNASE DU HAUT DE PENOY\n📍 Ru
+ e de Crevic Vandoeuvre-lès-Nancy 54500\n🚗 Waze : https://waze.com/ul?l
+ l=48.65417\,6.17622&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054
+ /competitions/dmu13/match/200000014768146
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic Vandoeuvre-lès-Nancy 545
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768146
+END:VEVENT
+END:VCALENDAR

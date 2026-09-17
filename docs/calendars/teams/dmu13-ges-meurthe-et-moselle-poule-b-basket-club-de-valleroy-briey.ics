@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB DE VALLEROY-BRIEY  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB DE VALLEROY-BRIEY – DMU13 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-10-03-14-00-joeuf-homecourt-b
+ asket-bas@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ JHB – BASKET CLUB DE VALLEROY-BRIEY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ J
+ OEUF HOMECOURT BASKET vs BASKET CLUB DE VALLEROY-BRIEY\n\nSALLE MUNICIPALE
+  DES SPORTS\n📍 Rue Eugène Bastien Joeuf 54240\n🚗 Waze : https://waz
+ e.com/ul?ll=49.2276\,6.00446&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/dmu13/match/200000014768044
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768044
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-07-14-00-union-sportive-ja
+ rnisy-sec@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ UNION SPORTIVE JARNISY SECTION BASKET – BASKET CLUB DE VAL
+ LEROY-BRIEY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ U
+ NION SPORTIVE JARNISY SECTION BASKET vs BASKET CLUB DE VALLEROY-BRIEY\n\nG
+ YMNASE MAURICE BAQUET\n📍 Avenue du Général Patton Jarny 54800\n🚗 W
+ aze : https://waze.com/ul?ll=49.16191\,5.87158&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/comites/0054/competitions/dmu13/match/200000014768070
+LOCATION:GYMNASE MAURICE BAQUET\, Avenue du Général Patton Jarny 54800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768070
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-14-14-00-basket-club-de-va
+ lleroy-br@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 BASKET CLUB DE VALLEROY-BRIEY – GS ARNAVILLE NOVEANT
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET CLUB DE VALLEROY-BRIEY vs GS ARNAVILLE NOVEANT\n\nSALLE OMNISPORTS\n
+ 📍 Rue du Stade Valleroy 54910\n🚗 Waze : https://waze.com/ul?ll=49.21
+ 24\,5.94334&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/dmu13/match/200000014768086
+LOCATION:SALLE OMNISPORTS\, Rue du Stade Valleroy 54910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768086
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-21-14-00-basket-club-de-va
+ lleroy-br@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:🏠 BASKET CLUB DE VALLEROY-BRIEY – BASKET ALL STAR MUSSIPONTAIN
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET CLUB DE VALLEROY-BRIEY vs BASKET ALL STAR MUSSIPONTAIN\n\nSALLE OMNI
+ SPORTS\n📍 Rue du Stade Valleroy 54910\n🚗 Waze : https://waze.com/ul?
+ ll=49.2124\,5.94334&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054
+ /competitions/dmu13/match/200000014768100
+LOCATION:SALLE OMNISPORTS\, Rue du Stade Valleroy 54910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768100
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-28-14-00-as-joudreville-pi
+ enne-boul@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:✈️ AS JOUDREVILLE PIENNE BOULIGNY – BASKET CLUB DE VALLEROY-B
+ RIEY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ A
+ S JOUDREVILLE PIENNE BOULIGNY vs BASKET CLUB DE VALLEROY-BRIEY\n\nSALLE CE
+ SAR MARKUT\n📍 Rue Joliot-Curie Joudreville 54490\n🚗 Waze : https://w
+ aze.com/ul?ll=49.29914\,5.78635&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0054/competitions/dmu13/match/200000014768114
+LOCATION:SALLE CESAR MARKUT\, Rue Joliot-Curie Joudreville 54490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768114
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-12-12-14-00-basket-club-de-va
+ lleroy-br@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:🏠 BASKET CLUB DE VALLEROY-BRIEY – AURORE BASKET HUSSIGNY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET CLUB DE VALLEROY-BRIEY vs AURORE BASKET HUSSIGNY\n\nSALLE OMNISPORTS
+ \n📍 Rue du Stade Valleroy 54910\n🚗 Waze : https://waze.com/ul?ll=49.
+ 2124\,5.94334&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compe
+ titions/dmu13/match/200000014768128
+LOCATION:SALLE OMNISPORTS\, Rue du Stade Valleroy 54910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768128
+END:VEVENT
+END:VCALENDAR

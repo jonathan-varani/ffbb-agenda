@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET NOMENY  [DMU15 – GES – Poule C]
+X-WR-CALDESC:Matchs de BASKET NOMENY – DMU15 – GES – Meurthe-et-Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-09-26-15-30-basket-nomeny-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20260926T153000
+DTEND;TZID=Europe/Paris:20260926T173000
+SUMMARY:🏠 BASKET NOMENY – BASKET-CLUB HOUDEMONT
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ B
+ ASKET NOMENY vs BASKET-CLUB HOUDEMONT\n\nHALLE DES SPORTS DU COLLEGE\n📍
+  Rue Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=48.88715
+ \,6.2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/dmu15/match/200000014769815
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769815
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-10-03-15-30-cos-villers-les-n
+ ancy-bask@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20261003T153000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:✈️ COS VILLERS LES NANCY – BASKET NOMENY
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ C
+ OS VILLERS LES NANCY vs BASKET NOMENY\n\nSALLE GILBERT BAUVIN\n📍 Rue Ma
+ urice André Villers-lès-Nancy 54600\n🚗 Waze : https://waze.com/ul?ll=
+ 48.67362\,6.15439&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dmu15/match/200000014769827
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769827
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-10-10-15-30-basket-nomeny-sai
+ nt-max-ba@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:🏠 BASKET NOMENY – SAINT MAX BASKET CLUB
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ B
+ ASKET NOMENY vs SAINT MAX BASKET CLUB\n\nHALLE DES SPORTS DU COLLEGE\n📍
+  Rue Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=48.88715
+ \,6.2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/dmu15/match/200000014769838
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769838
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-10-17-15-30-basket-nomeny-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20261017T153000
+DTEND;TZID=Europe/Paris:20261017T173000
+SUMMARY:🏠 BASKET NOMENY – BASKET CLUB LUNEVILLE
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ B
+ ASKET NOMENY vs BASKET CLUB LUNEVILLE\n\nHALLE DES SPORTS DU COLLEGE\n📍
+  Rue Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=48.88715
+ \,6.2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/dmu15/match/200000014769850
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769850
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-11-07-15-30-basket-club-dieuz
+ e-basket-@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20261107T153000
+DTEND;TZID=Europe/Paris:20261107T173000
+SUMMARY:✈️ BASKET CLUB DIEUZE – BASKET NOMENY
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ B
+ ASKET CLUB DIEUZE vs BASKET NOMENY\n\nSALLE MUNICIPALE\n📍 Chemin Royal 
+ Dieuze 57260\n🚗 Waze : https://waze.com/ul?ll=48.80666\,6.72442&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu15/match/2
+ 00000014769862
+LOCATION:SALLE MUNICIPALE\, Chemin Royal Dieuze 57260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769862
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-11-14-15-30-basket-club-houde
+ mont-bask@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T173000
+SUMMARY:✈️ BASKET-CLUB HOUDEMONT – BASKET NOMENY
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ B
+ ASKET-CLUB HOUDEMONT vs BASKET NOMENY\n\nGYMNASE JULIEN ABSALON\n📍 Rue 
+ du Collège Heillecourt 54180\n🚗 Waze : https://waze.com/ul?ll=48.65762
+ \,6.20927&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competiti
+ ons/dmu15/match/200000014769875
+LOCATION:GYMNASE JULIEN ABSALON\, Rue du Collège Heillecourt 54180
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769875
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-11-21-15-30-basket-nomeny-cos
+ -villers-@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20261121T153000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:🏠 BASKET NOMENY – COS VILLERS LES NANCY
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ B
+ ASKET NOMENY vs COS VILLERS LES NANCY\n\nHALLE DES SPORTS DU COLLEGE\n📍
+  Rue Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=48.88715
+ \,6.2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitio
+ ns/dmu15/match/200000014769887
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769887
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-11-28-15-30-saint-max-basket-
+ club-bask@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20261128T153000
+DTEND;TZID=Europe/Paris:20261128T173000
+SUMMARY:✈️ SAINT MAX BASKET CLUB – BASKET NOMENY
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ S
+ AINT MAX BASKET CLUB vs BASKET NOMENY\n\nGYMNASE HENRI COCHET\n📍 Rue de
+  la Haie le Comte Saint-Max 54130\n🚗 Waze : https://waze.com/ul?ll=48.7
+ 0584\,6.20643&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/compe
+ titions/dmu15/match/200000014769898
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte Saint-Max 54130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769898
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-12-05-15-30-basket-club-lunev
+ ille-bask@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20261205T153000
+DTEND;TZID=Europe/Paris:20261205T173000
+SUMMARY:✈️ BASKET CLUB LUNEVILLE – BASKET NOMENY
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ B
+ ASKET CLUB LUNEVILLE vs BASKET NOMENY\n\nCOSEC ALAIN MIMOUN\n📍 Rue Sain
+ te-Anne Lunéville 54300\n🚗 Waze : https://waze.com/ul?ll=48.58796\,6.4
+ 8461&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/d
+ mu15/match/200000014769910
+LOCATION:COSEC ALAIN MIMOUN\, Rue Sainte-Anne Lunéville 54300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769910
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-meurthe-et-moselle-poule-c-2026-12-12-15-30-basket-nomeny-bas
+ ket-club-@ffbb-agenda
+DTSTAMP:20260917T020211Z
+DTSTART;TZID=Europe/Paris:20261212T153000
+DTEND;TZID=Europe/Paris:20261212T173000
+SUMMARY:🏠 BASKET NOMENY – BASKET CLUB DIEUZE
+DESCRIPTION:🏀 DMU15 – GES – Meurthe-et-Moselle – Poule C\n⚔️ B
+ ASKET NOMENY vs BASKET CLUB DIEUZE\n\nHALLE DES SPORTS DU COLLEGE\n📍 Ru
+ e Louis Marin Nomeny 54610\n🚗 Waze : https://waze.com/ul?ll=48.88715\,6
+ .2229&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/
+ dmu15/match/200000014769922
+LOCATION:HALLE DES SPORTS DU COLLEGE\, Rue Louis Marin Nomeny 54610
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 5/match/200000014769922
+END:VEVENT
+END:VCALENDAR

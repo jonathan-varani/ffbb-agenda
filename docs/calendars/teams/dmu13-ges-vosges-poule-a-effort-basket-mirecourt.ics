@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – EFFORT BASKET MIRECOURT  [DMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de EFFORT BASKET MIRECOURT – DMU13 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-10-14-00-basket-club-thermal-2-effort-
+ basket-mi@ffbb-agenda
+DTSTAMP:20260917T020832Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ BASKET CLUB THERMAL - 2 – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ BASKET CLUB T
+ HERMAL - 2 vs EFFORT BASKET MIRECOURT\n\nCENTRE PREPARATION OLYMPIQUE\n
+ 📍 Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/ul?l
+ l=48.1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/dmu13/match/200000014765589
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765589
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-10-17-14-00-effort-basket-mirecourt-enten
+ te-sporti@ffbb-agenda
+DTSTAMP:20260917T020832Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T160000
+SUMMARY:🏠 EFFORT BASKET MIRECOURT – ENTENTE SPORTIVE THAON BASKET BALL
+  (E.S. THAON BASKET BALL)
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ EFFORT BASKET
+  MIRECOURT vs ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL)\
+ n\nSALLE CLAUDE HACQUARD\n📍 Rue de Bonn-Buel Mirecourt 88500\n🚗 Waze
+  : https://waze.com/ul?ll=48.29433\,6.13292&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0088/competitions/dmu13/match/200000014765597
+LOCATION:SALLE CLAUDE HACQUARD\, Rue de Bonn-Buel Mirecourt 88500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765597
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-07-14-00-esperance-hennezel-effort-bas
+ ket-mirec@ffbb-agenda
+DTSTAMP:20260917T020832Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ ESPERANCE HENNEZEL – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ ESPERANCE HEN
+ NEZEL vs EFFORT BASKET MIRECOURT\n\nSALLE ABBE MATHIS\n📍 Hennezel 88260
+ \n🚗 Waze : https://waze.com/ul?ll=48.05433\,6.11969&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0088/competitions/dmu13/match/2000000147
+ 65605
+LOCATION:SALLE ABBE MATHIS\, Hennezel 88260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765605
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-14-14-00-effort-basket-mirecourt-baske
+ t-club-gi@ffbb-agenda
+DTSTAMP:20260917T020832Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 EFFORT BASKET MIRECOURT – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ EFFORT BASKET
+  MIRECOURT vs BASKET CLUB GIRONCOURT\n\nSALLE CLAUDE HACQUARD\n📍 Rue de
+  Bonn-Buel Mirecourt 88500\n🚗 Waze : https://waze.com/ul?ll=48.29433\,6
+ .13292&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions
+ /dmu13/match/200000014765613
+LOCATION:SALLE CLAUDE HACQUARD\, Rue de Bonn-Buel Mirecourt 88500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765613
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-11-28-14-00-basket-club-chavelotais-2-eff
+ ort-baske@ffbb-agenda
+DTSTAMP:20260917T020832Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:✈️ BASKET CLUB CHAVELOTAIS - 2 – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ BASKET CLUB C
+ HAVELOTAIS - 2 vs EFFORT BASKET MIRECOURT\n\nSALLE DES SPORTS\n📍 Place 
+ de la République Chavelot 88150\n🚗 Waze : https://waze.com/ul?ll=48.23
+ 758\,6.43697&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/compet
+ itions/dmu13/match/200000014765621
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765621
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-a-2026-12-12-14-00-basket-club-thermal-1-effort-
+ basket-mi@ffbb-agenda
+DTSTAMP:20260917T020832Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ BASKET CLUB THERMAL - 1 – EFFORT BASKET MIRECOURT
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule A\n⚔️ BASKET CLUB T
+ HERMAL - 1 vs EFFORT BASKET MIRECOURT\n\nCENTRE PREPARATION OLYMPIQUE\n
+ 📍 Avenue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/ul?l
+ l=48.1931\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/dmu13/match/200000014765629
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014765629
+END:VEVENT
+END:VCALENDAR

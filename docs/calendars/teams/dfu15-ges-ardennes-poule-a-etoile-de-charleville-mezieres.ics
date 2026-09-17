@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ETOILE DE CHARLEVILLE MEZIERES  [DFU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de ETOILE DE CHARLEVILLE MEZIERES – DFU15 – GES – Ardennes – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-10-03-00-00-villers-semeuse-basket-2-et
+ oile-de-c@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261003T000000
+DTEND;TZID=Europe/Paris:20261003T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET - 2 – ETOILE DE CHARLEVILLE MEZIERE
+ S
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET - 2 vs ETOILE DE CHARLEVILLE MEZIERES\n\nCOSEC\n📍 Avenue Je
+ an Jaurès Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74
+ 096\,4.74446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/compet
+ itions/dfu15/match/200000014773310
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773310
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-10-10-00-00-etoile-de-charleville-mezie
+ res-baske@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261010T000000
+DTEND;TZID=Europe/Paris:20261010T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – BASKET CLUB DE HARAUCOURT
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ ETOILE DE C
+ HARLEVILLE MEZIERES vs BASKET CLUB DE HARAUCOURT\n\nSALLE DUBOIS CRANCE\n
+ 📍 Rue Dubois-Crancé Charleville-Mézières 08000\n🚗 Waze : https://
+ waze.com/ul?ll=49.77095\,4.71489&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0008/competitions/dfu15/match/200000014773312
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé Charleville-Mézières 08
+ 000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773312
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-11-14-00-00-basket-club-givetois-etoile
+ -de-charl@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BASKET CLUB GIVETOIS – ETOILE DE CHARLEVILLE MEZIERES
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  GIVETOIS vs ETOILE DE CHARLEVILLE MEZIERES\n\nSALLE GERARD TASSIN\n📍 R
+ ue Berthelot Givet 08600\n🚗 Waze : https://waze.com/ul?ll=50.1422\,4.82
+ 607&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/df
+ u15/match/200000014773317
+LOCATION:SALLE GERARD TASSIN\, Rue Berthelot Givet 08600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773317
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-11-21-00-00-etoile-de-charleville-mezie
+ res-flamm@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261121T000000
+DTEND;TZID=Europe/Paris:20261121T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – FLAMMES CAROLO BASKET ARDEN
+ NES - 2
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ ETOILE DE C
+ HARLEVILLE MEZIERES vs FLAMMES CAROLO BASKET ARDENNES - 2\n\nSALLE DUBOIS 
+ CRANCE\n📍 Rue Dubois-Crancé Charleville-Mézières 08000\n🚗 Waze : 
+ https://waze.com/ul?ll=49.77095\,4.71489&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0008/competitions/dfu15/match/200000014773320
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé Charleville-Mézières 08
+ 000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773320
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-11-28-00-00-etoile-de-charleville-mezie
+ res-ville@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261128T000000
+DTEND;TZID=Europe/Paris:20261128T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – VILLERS SEMEUSE BASKET - 2
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ ETOILE DE C
+ HARLEVILLE MEZIERES vs VILLERS SEMEUSE BASKET - 2\n\nSALLE DUBOIS CRANCE\n
+ 📍 Rue Dubois-Crancé Charleville-Mézières 08000\n🚗 Waze : https://
+ waze.com/ul?ll=49.77095\,4.71489&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0008/competitions/dfu15/match/200000014773325
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé Charleville-Mézières 08
+ 000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773325
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2026-12-05-00-00-basket-club-de-haraucourt-e
+ toile-de-@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:✈️ BASKET CLUB DE HARAUCOURT – ETOILE DE CHARLEVILLE MEZIERES
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  DE HARAUCOURT vs ETOILE DE CHARLEVILLE MEZIERES\n\nSALLE MUNICIPALE\n📍
+  Rue de la Gare Haraucourt 08450\n🚗 Waze : https://waze.com/ul?ll=49.61
+ 976\,4.96115&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/compet
+ itions/dfu15/match/200000014773327
+LOCATION:SALLE MUNICIPALE\, Rue de la Gare Haraucourt 08450
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773327
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2027-01-09-00-00-etoile-de-charleville-mezie
+ res-baske@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20270109T000000
+DTEND;TZID=Europe/Paris:20270109T020000
+SUMMARY:🏠 ETOILE DE CHARLEVILLE MEZIERES – BASKET CLUB GIVETOIS
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ ETOILE DE C
+ HARLEVILLE MEZIERES vs BASKET CLUB GIVETOIS\n\nSALLE DUBOIS CRANCE\n📍 R
+ ue Dubois-Crancé Charleville-Mézières 08000\n🚗 Waze : https://waze.c
+ om/ul?ll=49.77095\,4.71489&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0008/competitions/dfu15/match/200000014773332
+LOCATION:SALLE DUBOIS CRANCE\, Rue Dubois-Crancé Charleville-Mézières 08
+ 000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773332
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-ardennes-poule-a-2027-01-16-00-00-flammes-carolo-basket-arden
+ nes-2-eto@ffbb-agenda
+DTSTAMP:20260917T010010Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:✈️ FLAMMES CAROLO BASKET ARDENNES - 2 – ETOILE DE CHARLEVILLE
+  MEZIERES
+DESCRIPTION:🏀 DFU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES - 2 vs ETOILE DE CHARLEVILLE MEZIERES\n\nSALLE BAYARD\
+ n📍 Avenue Louis Tirman Charleville-Mézières 08000\n🚗 Waze : https:
+ //waze.com/ul?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0008/competitions/dfu15/match/200000014773335
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dfu1
+ 5/match/200000014773335
+END:VEVENT
+END:VCALENDAR

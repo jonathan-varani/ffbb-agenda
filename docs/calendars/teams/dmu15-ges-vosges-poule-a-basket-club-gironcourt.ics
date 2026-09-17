@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB GIRONCOURT  [DMU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB GIRONCOURT – DMU15 – GES – Vosges – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-vosges-poule-a-2026-10-10-16-00-basket-club-gironcourt-entent
+ e-sportiv@ffbb-agenda
+DTSTAMP:20260917T020735Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – ENTENTE SPORTIVE THAON BASKET BALL 
+ (E.S. THAON BASKET BALL)
+DESCRIPTION:🏀 DMU15 – GES – Vosges – Poule A\n⚔️ BASKET CLUB G
+ IRONCOURT vs ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL)\n
+ \nSALLE POLYVALENTE\n📍 Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170\n
+ 🚗 Waze : https://waze.com/ul?ll=48.31056\,5.92418&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0088/competitions/dmu15/match/200000014769336
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 5/match/200000014769336
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-vosges-poule-a-2026-11-07-18-00-basket-club-thermal-basket-cl
+ ub-gironc@ffbb-agenda
+DTSTAMP:20260917T020735Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ BASKET CLUB THERMAL – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 DMU15 – GES – Vosges – Poule A\n⚔️ BASKET CLUB T
+ HERMAL vs BASKET CLUB GIRONCOURT\n\nCENTRE PREPARATION OLYMPIQUE\n📍 Ave
+ nue du Haut du Fol Vittel 88800\n🚗 Waze : https://waze.com/ul?ll=48.193
+ 1\,5.93772&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competit
+ ions/dmu15/match/200000014769338
+LOCATION:CENTRE PREPARATION OLYMPIQUE\, Avenue du Haut du Fol Vittel 88800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 5/match/200000014769338
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-vosges-poule-a-2026-11-14-16-00-effort-basket-mirecourt-baske
+ t-club-gi@ffbb-agenda
+DTSTAMP:20260917T020735Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:✈️ EFFORT BASKET MIRECOURT – BASKET CLUB GIRONCOURT
+DESCRIPTION:🏀 DMU15 – GES – Vosges – Poule A\n⚔️ EFFORT BASKET
+  MIRECOURT vs BASKET CLUB GIRONCOURT\n\nSALLE CLAUDE HACQUARD\n📍 Rue de
+  Bonn-Buel Mirecourt 88500\n🚗 Waze : https://waze.com/ul?ll=48.29433\,6
+ .13292&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions
+ /dmu15/match/200000014769342
+LOCATION:SALLE CLAUDE HACQUARD\, Rue de Bonn-Buel Mirecourt 88500
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 5/match/200000014769342
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-vosges-poule-a-2026-12-05-16-00-basket-club-gironcourt-basket
+ -club-gol@ffbb-agenda
+DTSTAMP:20260917T020735Z
+DTSTART;TZID=Europe/Paris:20261205T160000
+DTEND;TZID=Europe/Paris:20261205T180000
+SUMMARY:🏠 BASKET CLUB GIRONCOURT – BASKET CLUB GOLBEY EPINAL - 2
+DESCRIPTION:🏀 DMU15 – GES – Vosges – Poule A\n⚔️ BASKET CLUB G
+ IRONCOURT vs BASKET CLUB GOLBEY EPINAL - 2\n\nSALLE POLYVALENTE\n📍 Rue 
+ Jeanne d'Arc Gironcourt-sur-Vraine 88170\n🚗 Waze : https://waze.com/ul?
+ ll=48.31056\,5.92418&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/008
+ 8/competitions/dmu15/match/200000014769347
+LOCATION:SALLE POLYVALENTE\, Rue Jeanne d'Arc Gironcourt-sur-Vraine 88170
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 5/match/200000014769347
+END:VEVENT
+END:VCALENDAR

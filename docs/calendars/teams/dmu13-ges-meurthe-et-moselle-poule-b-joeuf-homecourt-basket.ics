@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – JOEUF HOMECOURT BASKET  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de JOEUF HOMECOURT BASKET – DMU13 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-10-03-14-00-joeuf-homecourt-b
+ asket-bas@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 JHB – BASKET CLUB DE VALLEROY-BRIEY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ J
+ OEUF HOMECOURT BASKET vs BASKET CLUB DE VALLEROY-BRIEY\n\nSALLE MUNICIPALE
+  DES SPORTS\n📍 Rue Eugène Bastien Joeuf 54240\n🚗 Waze : https://waz
+ e.com/ul?ll=49.2276\,6.00446&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/dmu13/match/200000014768044
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768044
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-10-10-14-00-as-joudreville-pi
+ enne-boul@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ AS JOUDREVILLE PIENNE BOULIGNY – JHB
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ A
+ S JOUDREVILLE PIENNE BOULIGNY vs JOEUF HOMECOURT BASKET\n\nSALLE CESAR MAR
+ KUT\n📍 Rue Joliot-Curie Joudreville 54490\n🚗 Waze : https://waze.com
+ /ul?ll=49.29914\,5.78635&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/dmu13/match/200000014768056
+LOCATION:SALLE CESAR MARKUT\, Rue Joliot-Curie Joudreville 54490
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768056
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-07-14-00-joeuf-homecourt-b
+ asket-aur@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 JHB – AURORE BASKET HUSSIGNY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ J
+ OEUF HOMECOURT BASKET vs AURORE BASKET HUSSIGNY\n\nSALLE MUNICIPALE DES SP
+ ORTS\n📍 Rue Eugène Bastien Joeuf 54240\n🚗 Waze : https://waze.com/u
+ l?ll=49.2276\,6.00446&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 54/competitions/dmu13/match/200000014768072
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768072
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-14-14-00-basket-all-star-m
+ ussiponta@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ BASKET ALL STAR MUSSIPONTAIN – JHB
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ B
+ ASKET ALL STAR MUSSIPONTAIN vs JOEUF HOMECOURT BASKET\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0054/competitions/dmu13/match/200000014768087
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768087
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-28-14-00-joeuf-homecourt-b
+ asket-uni@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 JHB – UNION SPORTIVE JARNISY SECTION BASKET
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ J
+ OEUF HOMECOURT BASKET vs UNION SPORTIVE JARNISY SECTION BASKET\n\nSALLE MU
+ NICIPALE DES SPORTS\n📍 Rue Eugène Bastien Joeuf 54240\n🚗 Waze : htt
+ ps://waze.com/ul?ll=49.2276\,6.00446&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/dmu13/match/200000014768112
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768112
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-12-12-14-00-gs-arnaville-nove
+ ant-joeuf@ffbb-agenda
+DTSTAMP:20260917T020243Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ GS ARNAVILLE NOVEANT – JHB
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ G
+ S ARNAVILLE NOVEANT vs JOEUF HOMECOURT BASKET\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0054/competitions/dmu13/match/200000014768129
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768129
+END:VEVENT
+END:VCALENDAR

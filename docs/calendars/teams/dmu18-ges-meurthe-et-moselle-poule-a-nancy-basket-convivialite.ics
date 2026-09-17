@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – NANCY BASKET CONVIVIALITE  [DMU18 – GES – Poule A]
+X-WR-CALDESC:Matchs de NANCY BASKET CONVIVIALITE – DMU18 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-10-03-17-30-nancy-basket-conv
+ ivialite-@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261003T173000
+DTEND;TZID=Europe/Paris:20261003T193000
+SUMMARY:🏠 NANCY BASKET CONVIVIALITE – DOMBASLE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ N
+ ANCY BASKET CONVIVIALITE vs DOMBASLE BASKET\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/dmu18/match/200000014775145
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775145
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-10-10-17-30-basket-club-lunev
+ ille-nanc@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261010T173000
+DTEND;TZID=Europe/Paris:20261010T193000
+SUMMARY:✈️ BASKET CLUB LUNEVILLE – NANCY BASKET CONVIVIALITE
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ B
+ ASKET CLUB LUNEVILLE vs NANCY BASKET CONVIVIALITE\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/dmu18/match/200000014775153
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775153
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-11-07-17-30-nancy-basket-conv
+ ivialite-@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261107T173000
+DTEND;TZID=Europe/Paris:20261107T193000
+SUMMARY:🏠 NANCY BASKET CONVIVIALITE – BASKET CLUB DIEUZE
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ N
+ ANCY BASKET CONVIVIALITE vs BASKET CLUB DIEUZE\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0054/competitions/dmu18/match/200000014775161
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775161
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-11-14-17-30-esperance-toul-na
+ ncy-baske@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261114T173000
+DTEND;TZID=Europe/Paris:20261114T193000
+SUMMARY:✈️ ESPERANCE TOUL – NANCY BASKET CONVIVIALITE
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ E
+ SPERANCE TOUL vs NANCY BASKET CONVIVIALITE\n\nGYMNASE J et H BALSON\n📍 
+ Place de la Porte de Metz Toul 54200\n🚗 Waze : https://waze.com/ul?ll=4
+ 8.67875\,5.89363&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/dmu18/match/200000014775168
+LOCATION:GYMNASE J et H BALSON\, Place de la Porte de Metz Toul 54200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775168
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-11-21-17-30-nancy-basket-conv
+ ivialite-@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261121T173000
+DTEND;TZID=Europe/Paris:20261121T193000
+SUMMARY:🏠 NANCY BASKET CONVIVIALITE – BASKET CLUB GONDREVILLE
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ N
+ ANCY BASKET CONVIVIALITE vs BASKET CLUB GONDREVILLE\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0054/competitions/dmu18/match/200000014775177
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775177
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-11-28-17-30-nancy-basket-conv
+ ivialite-@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261128T173000
+DTEND;TZID=Europe/Paris:20261128T193000
+SUMMARY:🏠 NANCY BASKET CONVIVIALITE – LUDRES PONT ST VINCENT BASKET CL
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ N
+ ANCY BASKET CONVIVIALITE vs LUDRES PONT ST VINCENT BASKET CL\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0054/competitions/dmu18/match/200000014775187
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775187
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-a-2026-12-12-17-30-avant-garde-porto
+ ise-baske@ffbb-agenda
+DTSTAMP:20260917T020145Z
+DTSTART;TZID=Europe/Paris:20261212T173000
+DTEND;TZID=Europe/Paris:20261212T193000
+SUMMARY:✈️ AVANT-GARDE PORTOISE BASKET – NANCY BASKET CONVIVIALITE
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule A\n⚔️ A
+ VANT-GARDE PORTOISE BASKET vs NANCY BASKET CONVIVIALITE\n\nCOMPLEXE SPORTI
+ F SALLE A\n📍 Rue du Blanc Mur Saint-Nicolas-de-Port 54210\n🚗 Waze : 
+ https://waze.com/ul?ll=48.625\,6.29364&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0054/competitions/dmu18/match/200000014775192
+LOCATION:COMPLEXE SPORTIF SALLE A\, Rue du Blanc Mur Saint-Nicolas-de-Port 
+ 54210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775192
+END:VEVENT
+END:VCALENDAR

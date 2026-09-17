@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – VANDOEUVRE BASKETBALL  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de VANDOEUVRE BASKETBALL – DMU13 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-09-26-14-00-vandoeuvre-basket
+ ball-la-p@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20260926T140000
+DTEND;TZID=Europe/Paris:20260926T160000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL – LA PORTE VERTE BASKET
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ V
+ ANDOEUVRE BASKETBALL vs LA PORTE VERTE BASKET\n\nGYMNASE DU HAUT DE PENOY\
+ n📍 Rue de Crevic Vandoeuvre-lès-Nancy 54500\n🚗 Waze : https://waze.
+ com/ul?ll=48.65417\,6.17622&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/dmu13/match/200000014768039
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic Vandoeuvre-lès-Nancy 545
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768039
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-10-03-14-00-sluc-nancy-basket
+ -associat@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 4 – VANDOEUVRE BASKETBALL
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ S
+ LUC NANCY BASKET ASSOCIATION - 4 vs VANDOEUVRE BASKETBALL\n\nPALAIS DES SP
+ ORTS ANNEXE\n📍 Rue du Capitaine Guynemer Nancy 54100\n🚗 Waze : https
+ ://waze.com/ul?ll=48.69975\,6.13996&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0054/competitions/dmu13/match/200000014768053
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768053
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-10-10-14-00-saint-max-basket-
+ club-vand@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ SAINT MAX BASKET CLUB – VANDOEUVRE BASKETBALL
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ S
+ AINT MAX BASKET CLUB vs VANDOEUVRE BASKETBALL\n\nGYMNASE HENRI COCHET\n
+ 📍 Rue de la Haie le Comte Saint-Max 54130\n🚗 Waze : https://waze.com
+ /ul?ll=48.70584\,6.20643&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0054/competitions/dmu13/match/200000014768067
+LOCATION:GYMNASE HENRI COCHET\, Rue de la Haie le Comte Saint-Max 54130
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768067
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-10-17-14-00-ie-ctc-collectif-
+ basket-va@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T160000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – VANDOEUVRE
+  BASKETBALL
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ I
+ E - CTC COLLECTIF BASKET VAL DE LORRAINE SUD vs VANDOEUVRE BASKETBALL\n\nS
+ ALLE INTERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : https
+ ://waze.com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0054/competitions/dmu13/match/200000014768081
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768081
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-07-14-00-vandoeuvre-basket
+ ball-aspt@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL – ASPTT NANCY TOMBLAINE
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ V
+ ANDOEUVRE BASKETBALL vs ASPTT NANCY TOMBLAINE\n\nGYMNASE DU HAUT DE PENOY\
+ n📍 Rue de Crevic Vandoeuvre-lès-Nancy 54500\n🚗 Waze : https://waze.
+ com/ul?ll=48.65417\,6.17622&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/dmu13/match/200000014768095
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic Vandoeuvre-lès-Nancy 545
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768095
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-14-14-00-vandoeuvre-basket
+ ball-les-@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL – LES LYNX MAXEVILLOIS
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ V
+ ANDOEUVRE BASKETBALL vs LES LYNX MAXEVILLOIS\n\nGYMNASE DU HAUT DE PENOY\n
+ 📍 Rue de Crevic Vandoeuvre-lès-Nancy 54500\n🚗 Waze : https://waze.c
+ om/ul?ll=48.65417\,6.17622&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0054/competitions/dmu13/match/200000014768109
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic Vandoeuvre-lès-Nancy 545
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768109
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-21-14-00-cos-villers-les-n
+ ancy-vand@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:✈️ COS VILLERS LES NANCY – VANDOEUVRE BASKETBALL
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ C
+ OS VILLERS LES NANCY vs VANDOEUVRE BASKETBALL\n\nSALLE GILBERT BAUVIN\n
+ 📍 Rue Maurice André Villers-lès-Nancy 54600\n🚗 Waze : https://waze
+ .com/ul?ll=48.67362\,6.15439&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/dmu13/match/200000014768122
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768122
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-11-28-14-00-vandoeuvre-basket
+ ball-as-c@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ V
+ ANDOEUVRE BASKETBALL vs AS CHAMPIGNEULLES BASKETBALL\n\nGYMNASE DU HAUT DE
+  PENOY\n📍 Rue de Crevic Vandoeuvre-lès-Nancy 54500\n🚗 Waze : https:
+ //waze.com/ul?ll=48.65417\,6.17622&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0054/competitions/dmu13/match/200000014768135
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic Vandoeuvre-lès-Nancy 545
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768135
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-meurthe-et-moselle-poule-b-2026-12-12-14-00-vandoeuvre-basket
+ ball-bask@ffbb-agenda
+DTSTAMP:20260917T020241Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:🏠 VANDOEUVRE BASKETBALL – BASKET NOMENY
+DESCRIPTION:🏀 DMU13 – GES – Meurthe-et-Moselle – Poule B\n⚔️ V
+ ANDOEUVRE BASKETBALL vs BASKET NOMENY\n\nGYMNASE DU HAUT DE PENOY\n📍 Ru
+ e de Crevic Vandoeuvre-lès-Nancy 54500\n🚗 Waze : https://waze.com/ul?l
+ l=48.65417\,6.17622&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054
+ /competitions/dmu13/match/200000014768146
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic Vandoeuvre-lès-Nancy 545
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 3/match/200000014768146
+END:VEVENT
+END:VCALENDAR

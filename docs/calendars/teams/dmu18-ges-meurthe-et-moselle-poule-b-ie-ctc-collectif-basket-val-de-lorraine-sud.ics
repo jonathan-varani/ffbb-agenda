@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD  [DMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – DMU18 – GES – Meurthe-et-Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-10-03-17-30-la-porte-verte-ba
+ sket-ie-c@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261003T173000
+DTEND;TZID=Europe/Paris:20261003T193000
+SUMMARY:✈️ LA PORTE VERTE BASKET – IE - CTC COLLECTIF BASKET VAL DE L
+ ORRAINE SUD
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ L
+ A PORTE VERTE BASKET vs IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD\n\nS
+ ALLE DES SPORTS\n📍 Rue d'Essey Saulxures-lès-Nancy 54420\n🚗 Waze : 
+ https://waze.com/ul?ll=48.69559\,6.24137&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0054/competitions/dmu18/match/200000014775151
+LOCATION:SALLE DES SPORTS\, Rue d'Essey Saulxures-lès-Nancy 54420
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775151
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-10-10-17-30-ie-ctc-collectif-
+ basket-va@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261010T173000
+DTEND;TZID=Europe/Paris:20261010T193000
+SUMMARY:🏠 IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – VANDOEUVRE B
+ ASKETBALL
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ I
+ E - CTC COLLECTIF BASKET VAL DE LORRAINE SUD vs VANDOEUVRE BASKETBALL\n\nS
+ ALLE INTERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : https
+ ://waze.com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0054/competitions/dmu18/match/200000014775156
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775156
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-11-07-17-30-sluc-nancy-basket
+ -associat@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261107T173000
+DTEND;TZID=Europe/Paris:20261107T193000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION - 4 – IE - CTC COLLECTIF BAS
+ KET VAL DE LORRAINE SUD
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ S
+ LUC NANCY BASKET ASSOCIATION - 4 vs IE - CTC COLLECTIF BASKET VAL DE LORRA
+ INE SUD\n\nPALAIS DES SPORTS ANNEXE\n📍 Rue du Capitaine Guynemer Nancy 
+ 54100\n🚗 Waze : https://waze.com/ul?ll=48.69975\,6.13996&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/comites/0054/competitions/dmu18/match/20000001
+ 4775165
+LOCATION:PALAIS DES SPORTS ANNEXE\, Rue du Capitaine Guynemer Nancy 54100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775165
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-11-14-17-30-ie-ctc-collectif-
+ basket-va@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261114T173000
+DTEND;TZID=Europe/Paris:20261114T193000
+SUMMARY:🏠 IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – ASPTT NANCY 
+ TOMBLAINE
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ I
+ E - CTC COLLECTIF BASKET VAL DE LORRAINE SUD vs ASPTT NANCY TOMBLAINE\n\nS
+ ALLE INTERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : https
+ ://waze.com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/comites/0054/competitions/dmu18/match/200000014775173
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775173
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-11-21-17-30-pagny-sur-meuse-b
+ c-ie-ctc-@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261121T173000
+DTEND;TZID=Europe/Paris:20261121T193000
+SUMMARY:✈️ PAGNY SUR MEUSE BC – IE - CTC COLLECTIF BASKET VAL DE LORR
+ AINE SUD
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ P
+ AGNY SUR MEUSE BC vs IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD\n\nSALL
+ E DE SPORTS - LES CORVEES\n📍 Allée des Corvées Pagny-sur-Meuse 55190\
+ n🚗 Waze : https://waze.com/ul?ll=48.69532\,5.73431&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/comites/0054/competitions/dmu18/match/20000001477518
+ 3
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775183
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-11-28-17-30-ie-ctc-collectif-
+ basket-va@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261128T173000
+DTEND;TZID=Europe/Paris:20261128T193000
+SUMMARY:🏠 IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – BASKET CLUB 
+ DE VALLEROY-BRIEY
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ I
+ E - CTC COLLECTIF BASKET VAL DE LORRAINE SUD vs BASKET CLUB DE VALLEROY-BR
+ IEY\n\nSALLE INTERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze
+  : https://waze.com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/comites/0054/competitions/dmu18/match/200000014775190
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775190
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-meurthe-et-moselle-poule-b-2026-12-12-17-30-union-sportive-ja
+ rnisy-sec@ffbb-agenda
+DTSTAMP:20260917T020147Z
+DTSTART;TZID=Europe/Paris:20261212T173000
+DTEND;TZID=Europe/Paris:20261212T193000
+SUMMARY:✈️ UNION SPORTIVE JARNISY SECTION BASKET – IE - CTC COLLECTIF
+  BASKET VAL DE LORRAINE SUD
+DESCRIPTION:🏀 DMU18 – GES – Meurthe-et-Moselle – Poule B\n⚔️ U
+ NION SPORTIVE JARNISY SECTION BASKET vs IE - CTC COLLECTIF BASKET VAL DE L
+ ORRAINE SUD\n\nGYMNASE MAURICE BAQUET\n📍 Avenue du Général Patton Jar
+ ny 54800\n🚗 Waze : https://waze.com/ul?ll=49.16191\,5.87158&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu18/match/20000
+ 0014775197
+LOCATION:GYMNASE MAURICE BAQUET\, Avenue du Général Patton Jarny 54800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu1
+ 8/match/200000014775197
+END:VEVENT
+END:VCALENDAR

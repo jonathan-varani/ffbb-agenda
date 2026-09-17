@@ -2,31 +2,47 @@
 
 ## Vue d'ensemble
 
-Ce projet scrape automatiquement le site [competitions.ffbb.com](https://competitions.ffbb.com) et synchronise les matchs dans des **Google Calendars publics**, un par championnat/poule et un par équipe. Une page HTML permet à n'importe quel utilisateur de s'abonner au calendrier de son équipe depuis son mobile.
+Ce projet scrape automatiquement [competitions.ffbb.com](https://competitions.ffbb.com) et génère des **calendriers `.ics` statiques** (un par championnat/poule et un par équipe), hébergés sur GitHub Pages. Une page publique (`docs/index.html`) permet à n'importe qui de chercher son équipe et de s'abonner depuis son mobile. Un Cloudflare Worker gère l'abonnement, l'email de remerciement, et — sur Android uniquement — la création à la demande d'un vrai calendrier Google.
+
+Le pipeline est 100 % automatisé via GitHub Actions : scraping, régénération des `.ics`, commit et push tournent sans intervention, plusieurs fois par jour.
 
 ---
 
 ## Architecture
 
 ```
-competitions.ffbb.com
+competitions.ffbb.com (HTML SSR, JSON __next_f embarqué)
         │
         ▼
-  scraper.py          ← Playwright + BeautifulSoup
-  (scrape les matchs)
+  scraper_http.py        ← aiohttp + BeautifulSoup, sans navigateur
+  (scrape poules/journées/matchs, découverte des compétitions)
         │
         ▼
-  calendar_sync.py    ← Google Calendar API
-  (crée/met à jour les agendas)
-        │
-        ├── calendars.json   ← base locale (clé → calendar_id)
+  generate_ics.py        ← construit les .ics + le manifest
+        │  ├─ NocoDB (table "Abreviations Equipes") → noms courts
         │
         ▼
-  generate_frontend.py
-  (génère index.html)
+  docs/calendars/*.ics          ← 1 fichier par championnat/poule
+  docs/calendars/teams/*.ics    ← 1 fichier par équipe
+  docs/calendars.json           ← manifest lu par le frontend
         │
         ▼
-    index.html         ← page publique d'abonnement
+  GitHub Pages (dossier docs/, servi sur basket.varai.fr)
+        │
+        ▼
+  docs/index.html         ← page publique (recherche équipe + abonnement)
+        │
+        ▼
+  Cloudflare Worker (cloudflare-worker/worker.js)
+  ├─ POST /subscribe       → enregistre dans NocoDB, email de remerciement (Brevo)
+  ├─ GET  /gcal             → crée/retourne un vrai calendrier Google (Android)
+  ├─ GET  /ics/{fichier}    → proxy des .ics (force charset=utf-8)
+  ├─ POST /feedback         → email de signalement
+  └─ POST /contact-parents  → enregistre les coordonnées parents (NocoDB)
+        │
+        ▼
+  sync_google_calendars.py ← répercute les mises à jour .ics dans les
+                              calendriers Google réellement créés (NocoDB)
 ```
 
 ---
@@ -35,217 +51,205 @@ competitions.ffbb.com
 
 | Fichier | Rôle |
 |---|---|
-| `scraper.py` | Scraping Playwright, extraction matchs + détails |
-| `calendar_sync.py` | Sync Google Calendar (création, MàJ, suppression) |
-| `generate_frontend.py` | Génère `index.html` depuis `calendars.json` |
-| `index.html` | Page publique : recherche équipe + abonnement |
-| `calendars.json` | Cache local : `clé → calendar_id` Google |
-| `service_account.json` | Credentials compte de service Google (**ne jamais partager**) |
+| `scraper_http.py` | Scraping HTTP (aiohttp + BeautifulSoup) : matchs, arbitres, découverte des poules/compétitions/régions |
+| `generate_ics.py` | Génère les `.ics` (championnats + équipes) et `docs/calendars.json` |
+| `sync_google_calendars.py` | Répercute les mises à jour dans les vrais calendriers Google créés à la demande |
+| `setup_nocodb_abbreviations.py` | Crée la table NocoDB "Abreviations Equipes" |
+| `setup_nocodb_gcal.py` | Crée la table NocoDB "Calendriers Google" et met à jour son ID dans `worker.js` |
+| `setup_nocodb_joueurs.py` | Ajoute/remplit les colonnes licence/naissance sur "Contacts Joueurs" (dry-run par défaut, `--apply` pour écrire) |
+| `cleanup_amicales.py` | Script ponctuel : supprime les compétitions "Amicale" déjà scrapées avant l'ajout du filtre d'exclusion |
+| `cloudflare-worker/worker.js` | Worker Cloudflare : abonnement, email, calendrier Google à la demande, proxy `.ics`, feedback, contact parents |
+| `docs/index.html` | Page publique GitHub Pages : recherche équipe + abonnement (édité directement, pas généré) |
+| `docs/calendars.json` | Manifest : liste des championnats et équipes → chemin du `.ics` |
+| `docs/calendars/` | Fichiers `.ics` statiques (championnats à la racine, équipes dans `teams/`) |
+| `.env` | Toutes les clés API du projet, centralisées (NocoDB, Brevo, Cloudflare, Google service account) |
+
+### Fichiers legacy (non utilisés par le pipeline actuel)
+
+`scraper.py` (Playwright), `calendar_sync.py` (sync directe vers Google Calendar API), `generate_frontend.py` (générait un ancien `index.html` à la racine depuis `calendars.json` à la racine), `calendars.json` / `calendars_sauv.json` (racine, ancien cache). Conservés dans le repo mais plus référencés par aucun workflow — l'architecture est passée d'une sync Google Calendar directe à des `.ics` statiques + création Google à la demande via le Worker.
 
 ---
 
 ## Prérequis
 
-### 1. Python et dépendances
+### Python
 ```bash
-pip install playwright beautifulsoup4 google-api-python-client google-auth --break-system-packages
-playwright install chromium
+pip install -r requirements.txt
 ```
+(`aiohttp`, `beautifulsoup4`, `requests`, `google-auth`, `google-api-python-client`, `python-dotenv`)
 
-### 2. Compte de service Google
-- Projet GCP : `ffbb-agenda`
-- Compte de service : `ffbb-scraper@ffbb-agenda.iam.gserviceaccount.com`
-- Fichier credentials : `service_account.json` (à placer dans le dossier du projet)
-- API activée : **Google Calendar API**
+### Variables d'environnement (`.env` à la racine)
+
+| Variable | Usage |
+|---|---|
+| `NOCODB_TOKEN` | Clé API NocoDB (abréviations, abonnements, calendriers Google, contacts) |
+| `NOCODB_TABLE_GCAL` | ID de la table NocoDB "Calendriers Google" |
+| `BREVO_KEY` | Envoi d'emails (remerciement, feedback) |
+| `WORKER_URL` | URL publique du Worker (fallback : déduite de la requête si absent) |
+| `CLOUDFLARE_API_TOKEN` | Déploiement du Worker via `wrangler` |
+| `GOOGLE_SA_JSON` | Credentials du compte de service Google (JSON complet sur une ligne), utilisé par le Worker et `sync_google_calendars.py` pour créer/mettre à jour les calendriers Google |
+
+Les mêmes clés (sauf `WORKER_URL`) sont dupliquées en secrets GitHub Actions pour les workflows CI, et en secrets Cloudflare pour le Worker (`wrangler secret put ...`).
 
 ---
 
-## Fonctionnement du scraping (`scraper.py`)
+## Fonctionnement du scraping (`scraper_http.py`)
 
-### Chaîne de scraping pour un championnat
+Aucun navigateur : le HTML SSR de competitions.ffbb.com embarque les données dans des scripts `self.__next_f.push([1,"..."])` (payload Next.js échappé). Le scraper décode ces scripts et extrait le tableau `rencontres` en cherchant l'`id` de la poule ciblée (le HTML contient en fait **toutes** les poules de la page).
+
+### Chaîne de scraping
 
 ```
-URL championnat (avec phase= et poule=)
+URL compétition (phase= et poule=)
     │
-    ├─ find_all_poule_urls()
-    │   └─ Lit le <select aria-label="Poules"> → toutes les poules
+    ├─ find_all_poule_urls()      → <select aria-label="Poules"> puis fallback liens / JSON __next_f
     │
-    └─ Pour chaque poule :
+    └─ Pour chaque poule (scrape_poule) :
          │
-         ├─ find_journee_urls()
-         │   └─ Lit le <select aria-label="Journées"> → toutes les journées
+         ├─ extract_journee_numbers() → journées disponibles
          │
-         └─ Pour chaque journée :
+         └─ Pour chaque journée (en parallèle, Semaphore(8)) :
               │
-              ├─ extract_matches()      ← divs avec 2 <a title="EQUIPE">
-              │
-              └─ scrape_match_detail()  ← page /match/{id}
-                   ├─ Salle (label "Nom" dans section "Salle")
-                   ├─ Adresse (label "Adresse")
-                   ├─ Lien Waze
-                   ├─ Lien Google Maps
-                   └─ Arbitres (siblings après label "Arbitre")
+              ├─ extract_next_f_json() → tableau rencontres brut FFBB
+              ├─ parse_rencontre()     → format match normalisé
+              └─ fetch_arbitres()      → page /match/{id}, uniquement pour les
+                                          matchs joués ou dans les 14 prochains jours
 ```
 
-### Détection des matchs dans le DOM
+### Modes de découverte
 
-Un match = un `<div>` ayant **exactement 2 enfants directs `<a title="NOM_EQUIPE">`**.  
-Déduplication par `(date, heure, equipe1, equipe2)` pour éviter les doublons mobile/desktop.
+- **`--direct URL...`** : scrape directement les poules données (pas d'auto-détection).
+- **mode par défaut (URL de compétition)** : auto-détecte toutes les poules via `find_all_poule_urls()`.
+- **`--region URL_LIGUE`** : `discover_competitions()` parcourt une page de ligue/comité et résout l'URL `?phase=` de chaque compétition trouvée (exclut coupes, plateaux, amicales via regex sur le slug `/(?:\d+-)?ami-`).
+- **`--national`** : liste fixe de championnats nationaux (`NF1-3`, `NM1-3`, `NFU18/U15 Elite`, `NMU18/U15 Elite`) dont l'URL `?phase=` est résolue dynamiquement.
 
-### Extraction de la poule active
+### Résilience
 
-La poule courante est identifiée par l'ID dans l'URL (`poule=XXXXXXXX`).  
-On cherche l'`<option value="XXXXXXXX">` correspondante dans le `<select aria-label="Poules">` pour en lire le libellé (ex: "Poule B").
+- SSL non vérifié (`SSL_CTX.verify_mode = ssl.CERT_NONE`) : le certificat de competitions.ffbb.com est parfois expiré.
+- Retry avec backoff (1s, 2s) sur les erreurs réseau par journée.
+- Déduplication par `match_url` (au sein d'une poule) et par empreinte de l'ensemble des `match_url` (entre poules, dans `generate_ics.py`) pour éviter de retraiter deux fois les mêmes données si le HTML renvoie un faux poule_id.
 
 ---
 
-## Fonctionnement de la synchronisation (`calendar_sync.py`)
+## Génération des calendriers (`generate_ics.py`)
 
-### Structure des calendriers créés
+Pour chaque poule scrapée :
+1. Un `.ics` **championnat** avec tous les matchs → `docs/calendars/{slug}.ics`
+2. Un `.ics` **par équipe** (matchs filtrés, avec 🏠/✈️ domicile-extérieur dans le titre) → `docs/calendars/teams/{slug}.ics`
+3. Mise à jour de `docs/calendars.json` (entrées `calendriers` et `equipes`, dédupliquées par slug)
 
-| Type | Nom | Exemple |
-|---|---|---|
-| Championnat | `🏀 FFBB – {SLUG} – {REGION} – {POULE}` | `🏀 FFBB – PNF – ARA – Poule A` |
-| Équipe | `🏀 FFBB – {EQUIPE}  [{SLUG} – {REGION}]` | `🏀 FFBB – US ISSOIRE - 1  [PNF – ARA]` |
+### Abréviations d'équipe
 
-Tous les calendriers sont **publics** (ACL `reader` pour `default`).
-
-### Clés dans `calendars.json`
-
-- Championnat : `{phase_id}_{poule_id}` → ex: `200000002897651_200000003055506`
-- Équipe : `eq_{phase_id}_{poule_id}_{NOM_EQUIPE[:40]}` → ex: `eq_200000002897651_200000003055506_US_ISSOIRE`
-
-### Déduplication des événements
-
-Chaque event Google Calendar a une propriété privée `ffbb_match_id` :
-```
-{date}_{heure}_{equipe1}_{equipe2}
-```
-Si un match existe déjà, il est mis à jour uniquement si le titre, l'horaire, le lieu ou la description ont changé.
+`load_team_abbreviations()` charge la table NocoDB "Abreviations Equipes" (nom long → nom court) au démarrage. Si le token ou la table est indisponible, les noms restent affichés tels quels (le script ne plante jamais pour cette raison). Le matching gère aussi les suffixes `- 1`, `- 2` (clubs à plusieurs équipes).
 
 ### Format d'un événement
 
 ```
-Titre    : 🏠 US ISSOIRE - 1 – FIRMINY CHAZEAU-FAYOL AL
-           (🏠 domicile / ✈️ extérieur — uniquement dans le calendrier équipe)
-
+UID      : slug({uid_prefix}_{date}_{heure}_{eq1}_{eq2})@ffbb-agenda
+Titre    : 🏠 US ISSOIRE - 1 – FIRMINY CHAZEAU-FAYOL AL (72-65)
+           (🏠/✈️ uniquement dans le calendrier équipe ; score si disponible)
 Location : GYMNASE FERNAND COUNIL, Chemin des Croizettes, 63500 Issoire
 
 Description :
   🏀 PNF – ARA – Poule A
-  ⚔️  US ISSOIRE - 1 vs FIRMINY CHAZEAU-FAYOL AL
-  📊 Score : 72-65              (si disponible)
+  ⚔️ US ISSOIRE - 1 vs FIRMINY CHAZEAU-FAYOL AL
+  📊 Score : 72-65
 
   GYMNASE FERNAND COUNIL
   📍 Chemin des Croizettes, 63500 Issoire
-  🚗 Waze : https://waze.com/ul?q=...
+  🚗 Waze : https://waze.com/ul?ll=...
 
-  🦺 Arbitres : NOM PRENOM, NOM PRENOM  (ou "Pas de désignation")
+  📢 Arbitres : NOM Prénom, NOM Prénom  (ou "Pas de désignation")
 
-  🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ara/...
+  🔗 Feuille FFBB : https://competitions.ffbb.com/...
 ```
 
-### Gestion des quotas Google Calendar
-
-- **Retry avec backoff exponentiel** : toute erreur 403/429 déclenche une attente (5s → 10s → 20s → 40s → 80s)
-- **Pause de 1,5s** après chaque création de calendrier pour éviter le rate-limiting en rafale
+Chaque `.ics` inclut une définition `VTIMEZONE` Europe/Paris (CET/CEST) minimale, pas de dépendance à une base tz externe.
 
 ---
 
-## Commandes
+## Abonnement et Cloudflare Worker (`cloudflare-worker/worker.js`)
 
-### Sync complet d'un championnat (toutes les poules auto-détectées)
-```bash
-python calendar_sync.py "https://competitions.ffbb.com/ligues/ara/competitions/pnf?phase=200000002897651&poule=200000003055506"
-```
+Le Worker (`ffbb-agenda`, déployé sur `*.workers.dev`, appelé depuis `docs/index.html`) expose :
 
-### Sync d'une seule poule (mode direct, sans auto-détection)
-```bash
-python calendar_sync.py --direct "https://competitions.ffbb.com/ligues/ara/competitions/pnf?phase=200000002897651&poule=200000003055507"
-```
+| Route | Rôle |
+|---|---|
+| `POST /subscribe` | Enregistre `{email, equipe, comp_nom, fichier, device}` dans NocoDB, lance l'email de remerciement (Brevo) en tâche de fond, retourne directement les liens d'abonnement (`httpsUrl`, `webcalUrl`, `googleUrl`) — pas d'étape de confirmation |
+| `GET /gcal?fichier=&equipe=&comp_nom=` | Crée (ou retourne l'id existant d') un **vrai** calendrier Google pour l'équipe, appelé en tâche de fond par le front juste après `/subscribe` |
+| `GET /ics/{fichier}` | Proxy vers le `.ics` GitHub Pages, force `Content-Type: text/calendar; charset=utf-8` (sinon Google Agenda Android mésinterprète les emoji/accents du nom d'agenda) |
+| `POST /feedback` | Envoie un email de signalement (Brevo) |
+| `POST /contact-parents` | Enregistre les coordonnées d'un parent (NocoDB, table "Contacts Joueurs") |
 
-### Régénérer la page HTML publique
+### Pourquoi un vrai calendrier Google (Android uniquement)
+
+Sur Android, un abonnement à une URL `.ics` externe est ajouté au compte mais reste invisible tant que l'utilisateur ne l'active pas manuellement. Un lien `cid=<id calendrier Google>` s'affiche lui immédiatement. Créer les ~1600 calendriers d'équipe à l'avance dépasserait les limites opérationnelles de Google : le Worker en crée donc un uniquement **au premier abonnement** de chaque équipe, en :
+1. signant un JWT RS256 avec le compte de service (`GOOGLE_SA_JSON`) pour obtenir un access token OAuth2,
+2. créant le calendrier + ACL public (`reader`/`default`),
+3. import des événements du `.ics` statique correspondant via `events/import` (conserve l'UID d'origine → resynchronisable sans doublon).
+
+### Anti-doublon sous concurrence
+
+Deux appels concurrents pour la même équipe (`/subscribe` en tâche de fond + polling `/gcal` du front) pouvaient créer deux calendriers Google en double, faute de contrainte unique disponible côté NocoDB sur ce plan. Chaque candidat pose un jalon (ligne NocoDB avec `google_calendar_id` vide), relit toutes les lignes de l'équipe : la plus ancienne (`Id` le plus petit) gagne et crée le calendrier ; les autres suppriment leur jalon et attendent (poll 500ms, jusqu'à 30s) via `waitForGoogleCalendarId()`.
+
+### Déploiement
+
 ```bash
-python generate_frontend.py
+cd cloudflare-worker
+wrangler deploy
 ```
+Secrets à configurer côté Cloudflare (`wrangler secret put <NOM>`) : `NOCODB_TOKEN`, `BREVO_KEY`, `WORKER_URL`, `GOOGLE_SA_JSON`.
 
 ---
 
-## Abonnement à un calendrier
+## Synchronisation Google Calendar (`sync_google_calendars.py`)
 
-### iPhone / iPad
-1. Ouvrir la page `index.html`
-2. Chercher son équipe → cliquer **S'abonner**
-3. Choisir **"Ajouter à Calendrier iPhone"** → s'ouvre automatiquement dans l'app Calendrier
-4. Confirmer l'abonnement
-
-Le lien utilise le protocole `webcal://` reconnu nativement par iOS.
-
-### Android
-1. Ouvrir la page `index.html`
-2. Chercher son équipe → cliquer **S'abonner**
-3. Choisir **"Ajouter à Google Agenda"** → s'ouvre dans Google Calendar
-4. Cliquer **"Ajouter"**
-
-### Desktop / Mac
-- **iCal / Calendrier macOS** : clic sur le lien `webcal://` ou importer le fichier `.ics`
-- **Google Agenda** : utiliser le lien "Ouvrir dans Google Agenda"
-- **Outlook** : importer le fichier `.ics` ou s'abonner via l'URL `https://calendar.google.com/calendar/ical/{id}/public/basic.ics`
-
-### Mise à jour automatique des abonnements
-Les abonnés **reçoivent automatiquement les mises à jour** : les changements d'horaire, l'ajout des scores et des arbitres apparaissent sans aucune action de leur part. La fréquence de synchronisation dépend de l'app (iOS : toutes les heures environ, Google Agenda : plusieurs fois par jour).
+Ne touche que les calendriers **réellement créés** (listés dans la table NocoDB "Calendriers Google", donc quelques unités — jamais les ~1600 équipes). Après chaque scraping, répercute les changements (horaires, scores, arbitres) du `.ics` statique correspondant vers le vrai calendrier Google, via l'API Google Calendar avec les mêmes credentials de compte de service que le Worker.
 
 ---
 
-## Cron (synchronisation automatique)
+## Automatisation (GitHub Actions)
 
-À configurer sur la machine hébergeant le projet (Windows : Planificateur de tâches, Linux/Mac : crontab).
+Tous les workflows tournent sur `ubuntu-latest`, poussent directement sur `main`, et gèrent les conflits de push concurrents sur `docs/calendars.json` en régénérant par-dessus l'état distant plutôt qu'en rejouant un rebase (`git rebase --abort` + `git reset --hard origin/main` + relance du script).
 
-### Exemple crontab Linux
-```cron
-# Sync rapide toutes les 3h (poule spécifique)
-0 */3 * * * cd /chemin/projet && python calendar_sync.py --direct "URL_POULE" >> logs/sync.log 2>&1
+| Workflow | Déclenchement | Commande |
+|---|---|---|
+| `scrape.yml` (région GES) | 8h00 et 23h00 Paris (`6h`/`21h` UTC) + manuel | `generate_ics.py --region "https://competitions.ffbb.com/ligues/ges"` |
+| `scrape-departements.yml` | 22h00 Paris (`20h` UTC) + manuel | `generate_ics.py --region` sur les 10 comités départementaux Grand Est |
+| `scrape-national.yml` | 23h15 Paris (`21h15` UTC, décalé de 15 min pour éviter les pushs simultanés) + manuel | `generate_ics.py --national` |
+| `sync-google.yml` | À la fin (succès) de `scrape.yml` ou `scrape-national.yml`, ou manuel | `sync_google_calendars.py` |
 
-# Sync complet hebdomadaire (dimanche 3h du matin)
-0 3 * * 0 cd /chemin/projet && python calendar_sync.py "URL_CHAMPIONNAT" >> logs/sync_full.log 2>&1
+Secrets GitHub requis : `NOCODB_TOKEN`, `NOCODB_TABLE_GCAL`, `GOOGLE_SA_JSON`.
 
-# Régénération du frontend après chaque sync
-5 */3 * * * cd /chemin/projet && python generate_frontend.py >> logs/frontend.log 2>&1
-```
+⚠️ Les horaires en commentaire sont calés sur l'heure d'été (UTC+2) — à décaler d'1h en hiver si besoin de précision, sinon dérive d'une heure entre novembre et mars.
 
 ---
 
-## ⚠️ Attention : `calendars.json`
+## Abonnement (utilisateur final)
 
-Ce fichier est la **seule correspondance** entre les clés FFBB et les IDs Google Calendar. Il ne doit jamais être supprimé en production.
+Depuis `docs/index.html` (basket.varai.fr) : recherche de l'équipe → le front appelle `/subscribe`, reçoit `httpsUrl`/`webcalUrl`/`googleUrl`, puis :
 
-### Ce qui se passe si on le supprime
+- **iPhone / iPad / Desktop (iCal, Outlook)** : lien `webcal://` (proxifié via `/ics/{fichier}`) ou import direct du `.ics`.
+- **Android / Google Agenda** : le front appelle aussi `/gcal` en tâche de fond ; dès que le vrai calendrier Google est prêt, le bouton "Ajouter à Google Agenda" pointe vers `calendar.google.com/calendar/u/0?cid=...` (visible immédiatement, contrairement à un simple lien `.ics`).
 
-Le script ne sait plus que les calendriers existent déjà → il en **recrée de nouveaux** avec de nouveaux IDs. Conséquence directe : **tous les abonnés perdent leur abonnement** car leur app (iPhone, Google Agenda) pointe vers l'ancien ID qui n'est plus alimenté.
+### Mise à jour automatique des abonnés
 
-Les anciens calendriers Google restent orphelins dans le compte de service — il faut les supprimer manuellement depuis la [Google Calendar API Console](https://console.cloud.google.com) ou via un script.
+- Abonnés `.ics` classiques : mise à jour selon la fréquence de polling du client (iOS ~1h, Google Agenda plusieurs fois/jour).
+- Abonnés avec vrai calendrier Google : mis à jour par `sync_google_calendars.py` après chaque scraping (quasi temps réel).
 
-### Quand supprimer `calendars.json` (reset volontaire)
+---
 
-Uniquement si on veut **repartir de zéro**, par exemple pour corriger des noms de calendriers incorrects. Dans ce cas :
+## ⚠️ Attention : `docs/calendars.json`
 
-1. Supprimer `calendars.json`
-2. Supprimer manuellement les anciens calendriers dans Google Calendar (ou via l'API)
-3. Relancer `python calendar_sync.py` → recrée tout proprement
-4. **Prévenir les utilisateurs** qu'ils doivent se réabonner
+Seule correspondance entre une compétition/équipe et son fichier `.ics`. Il est réécrit intégralement à chaque run de `generate_ics.py` (lu puis regénéré en dédupliquant par slug) — ne pas l'éditer à la main pendant qu'un workflow tourne (risque de conflit de push, déjà géré par le fallback "reset + régénère" des workflows).
 
-### Sauvegarde recommandée
-
-```bash
-# Avant toute opération risquée
-cp calendars.json calendars.json.backup
-```
+Contrairement à l'ancienne architecture Google Calendar directe, une suppression de ce fichier n'a **pas** d'impact destructeur sur les abonnements existants : les fichiers `.ics` gardent les mêmes UID/chemins, un `generate_ics.py` régénère le manifest à l'identique. Le seul risque est côté table NocoDB "Calendriers Google" : ne pas la vider sans raison, elle est la seule trace des calendriers Google réellement créés pour les abonnés Android.
 
 ---
 
 ## Limitations connues
 
-- **Scraping séquentiel** : chaque page Playwright est ouverte l'une après l'autre (~4s/page). Pour 6 poules × 10 journées + détails matchs : environ 30-45 min par championnat complet.
-- **Quota Google Calendar** : création en masse limitée. Le backoff automatique gère les erreurs, mais un sync initial de plusieurs championnats peut prendre plusieurs heures.
-- **Arbitres** : les désignations arrivent tard dans la saison. Avant désignation, l'event affiche "Pas de désignation".
-- **Scores** : récupérés sur la page détail du match. Disponibles uniquement après la rencontre.
+- **Scraping séquentiel entre workflows, parallèle en interne** : chaque poule scrape ses journées en parallèle (`Semaphore(8)`), mais les compétitions/poules sont traitées l'une après l'autre.
+- **Arbitres** : récupérés uniquement pour les matchs joués ou dans les 14 prochains jours (évite de scraper inutilement ~1600 pages détail à chaque run). Avant désignation, l'event affiche "Pas de désignation".
+- **Scores** : disponibles uniquement après la rencontre.
+- **Certificat SSL** : vérification désactivée pour competitions.ffbb.com (certificat parfois expiré côté FFBB).
+- **Calendriers Google à la demande** : limité aux abonnés Android qui déclenchent `/gcal` ; pas de garantie de synchro temps réel, dépend du déclenchement de `sync-google.yml` après un scraping réussi.

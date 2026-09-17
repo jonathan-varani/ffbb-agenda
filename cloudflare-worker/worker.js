@@ -1,6 +1,7 @@
 /**
  * FFBB Agenda — Cloudflare Worker
  * Test VARAI
+ * Deploiement verifie via wrangler CLI (Claude, 2026-09-17)
  *
  * POST /subscribe  → enregistre dans NocoDB, retourne directement les liens
  *                     d'abonnement (iOS/Android) + envoie un email de

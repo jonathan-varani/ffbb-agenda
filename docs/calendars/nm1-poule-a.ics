@@ -24,39 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-09-18-20-00-lyonso-basket-1-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20260918T200000
-DTEND;TZID=Europe/Paris:20260918T220000
-SUMMARY:LYONSO BASKET - 1 – BESANCON
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LYONSO BASKET - 1 vs BESANCON\n\nH
- ALLE PAUL BERT - LA CANOPEE\n📍 Rue Charles de Gaulle Oullins-Pierre-BÃ
- ©nite 69310\n🚗 Waze : https://waze.com/ul?ll=45.69946\,4.81769&navigat
- e=yes\n\n📢 Arbitres : Jonathan STAUDT\, Alexandre ARCHER\n\n🔗 Feuill
- e FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000014596
- 757
-LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
- e-BÃ©nite 69310
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596757
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-09-18-20-00-val-de-seine-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20260918T200000
-DTEND;TZID=Europe/Paris:20260918T220000
-SUMMARY:VAL DE SEINE – SCABB
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs SCABB\n\nGYMNASE G
- UIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 Waze : http
- s://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitres : Yogach
- andran KIRITHARAN\, Thibault ROPERT\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nm1/match/200000014596758
-LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596758
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-18-20-00-loon-plage-charleville-mezieres@ffbb-agend
  a
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260918T200000
 DTEND;TZID=Europe/Paris:20260918T220000
 SUMMARY:LOON PLAGE – CHARLEVILLE-MEZIERES
@@ -69,9 +39,23 @@ LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596754
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-09-18-20-00-val-de-seine-scabb@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20260918T200000
+DTEND;TZID=Europe/Paris:20260918T220000
+SUMMARY:VAL DE SEINE – SCABB
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs SCABB\n\nGYMNASE G
+ UIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 Waze : http
+ s://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitres : Yogach
+ andran KIRITHARAN\, Thibault ROPERT\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm1/match/200000014596758
+LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596758
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-18-20-00-salon-de-provence-1-boulogne-sur-mer@ffbb-
  agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260918T200000
 DTEND;TZID=Europe/Paris:20260918T220000
 SUMMARY:SALON-DE-PROVENCE - 1 – BOULOGNE-SUR-MER
@@ -87,7 +71,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596756
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-18-20-00-pa-le-france-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260918T200000
 DTEND;TZID=Europe/Paris:20260918T220000
 SUMMARY:PÃLE FRANCE – BERCK - 1
@@ -100,9 +84,25 @@ LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596755
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-09-18-20-00-lyonso-basket-1-besancon@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20260918T200000
+DTEND;TZID=Europe/Paris:20260918T220000
+SUMMARY:LYONSO BASKET - 1 – BESANCON
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LYONSO BASKET - 1 vs BESANCON\n\nH
+ ALLE PAUL BERT - LA CANOPEE\n📍 Rue Charles de Gaulle Oullins-Pierre-BÃ
+ ©nite 69310\n🚗 Waze : https://waze.com/ul?ll=45.69946\,4.81769&navigat
+ e=yes\n\n📢 Arbitres : Jonathan STAUDT\, Alexandre ARCHER\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000014596
+ 757
+LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
+ e-BÃ©nite 69310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596757
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-18-20-30-saint-vallier-basket-dra-me-1-sasp-bc-orch
  ies@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260918T203000
 DTEND;TZID=Europe/Paris:20260918T223000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – SASP BC ORCHIES
@@ -115,25 +115,23 @@ LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596760
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-09-22-20-00-mulhouse-basket-agglomeration-loon-plage@f
- fbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-09-22-20-00-mulhouse-loon-plage@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260922T200000
 DTEND;TZID=Europe/Paris:20260922T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – LOON PLAGE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs L
- OON PLAGE\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulho
- use 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=y
- es\n\n📢 Arbitres : Jonathan STAUDT\, Francois-damien PHALIP\n\n🔗 Feu
- ille FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000014
- 596770
+SUMMARY:MULHOUSE – LOON PLAGE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs LOON PLAGE\n\nPALAIS D
+ ES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n🚗 Waze 
+ : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 Arbitres :
+  Jonathan STAUDT\, Francois-damien PHALIP\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm1/match/200000014596770
 LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596770
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-25-20-00-sasp-bc-orchies-lyonso-basket-1@ffbb-agend
  a
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260925T200000
 DTEND;TZID=Europe/Paris:20260925T220000
 SUMMARY:SASP BC ORCHIES – LYONSO BASKET - 1
@@ -146,22 +144,23 @@ LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596773
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-09-25-20-00-besancon-val-de-seine@ffbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-09-25-20-00-boulogne-sur-mer-pa-le-france@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260925T200000
 DTEND;TZID=Europe/Paris:20260925T220000
-SUMMARY:BESANCON – VAL DE SEINE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs VAL DE SEINE\n\nPALAIS
-  DES SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 25000\n🚗 Waze : ht
- tps://waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n📢 Arbitres : Aud
- ric TABERT\, Clémence PAGE\n\n🔗 Feuille FFBB : https://competitions.ff
- bb.com/competitions/nm1/match/200000014596772
-LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596772
+SUMMARY:BOULOGNE-SUR-MER – PÃLE FRANCE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs PÃLE FRANCE
+ \n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n
+ \n📢 Arbitres : Tony HERPIN\, Scotty SANDROLINI\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nm1/match/200000014596774
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596774
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-25-20-00-berck-1-salon-de-provence-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260925T200000
 DTEND;TZID=Europe/Paris:20260925T220000
 SUMMARY:BERCK - 1 – SALON-DE-PROVENCE - 1
@@ -176,7 +175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-25-20-00-charleville-mezieres-saint-vallier-basket-
  dra-me-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260925T200000
 DTEND;TZID=Europe/Paris:20260925T220000
 SUMMARY:CHARLEVILLE-MEZIERES – SAINT-VALLIER BASKET DRÃME - 1
@@ -191,54 +190,38 @@ LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596769
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-09-25-20-00-boulogne-sur-mer-pa-le-france@ffbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-09-25-20-00-besancon-val-de-seine@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260925T200000
 DTEND;TZID=Europe/Paris:20260925T220000
-SUMMARY:BOULOGNE-SUR-MER – PÃLE FRANCE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs PÃLE FRANCE
- \n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 
- 62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n
- \n📢 Arbitres : Tony HERPIN\, Scotty SANDROLINI\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/competitions/nm1/match/200000014596774
-LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
- 62200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596774
+SUMMARY:BESANCON – VAL DE SEINE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs VAL DE SEINE\n\nPALAIS
+  DES SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 25000\n🚗 Waze : ht
+ tps://waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n📢 Arbitres : Aud
+ ric TABERT\, Clémence PAGE\n\n🔗 Feuille FFBB : https://competitions.ff
+ bb.com/competitions/nm1/match/200000014596772
+LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596772
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-09-26-20-00-scabb-mulhouse-basket-agglomeration@ffbb-a
- genda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-09-26-20-00-scabb-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260926T200000
 DTEND;TZID=Europe/Paris:20260926T220000
-SUMMARY:SCABB – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SCABB vs MULHOUSE BASKET AGGLOMERA
- TION\n\nPALAIS DES SPORTS\n📍 Rue des Bullieux AndrÃ©zieux-BouthÃ©on
-  42160\n🚗 Waze : https://waze.com/ul?ll=45.52819\,4.27178&navigate=yes\
- n\n📢 Arbitres : Hadj YAHIA BENATTIA\, Audric TABERT\n\n🔗 Feuille FFB
- B : https://competitions.ffbb.com/competitions/nm1/match/200000014596827
+SUMMARY:SCABB – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SCABB vs MULHOUSE\n\nPALAIS DES SP
+ ORTS\n📍 Rue des Bullieux AndrÃ©zieux-BouthÃ©on 42160\n🚗 Waze : h
+ ttps://waze.com/ul?ll=45.52819\,4.27178&navigate=yes\n\n📢 Arbitres : Ha
+ dj YAHIA BENATTIA\, Audric TABERT\n\n🔗 Feuille FFBB : https://competiti
+ ons.ffbb.com/competitions/nm1/match/200000014596827
 LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
  60
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596827
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-09-29-20-00-val-de-seine-sasp-bc-orchies@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20260929T200000
-DTEND;TZID=Europe/Paris:20260929T220000
-SUMMARY:VAL DE SEINE – SASP BC ORCHIES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs SASP BC ORCHIES\n\
- nGYMNASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 W
- aze : https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitre
- s : Olivier ADAM\, Mattéo DUCLAUX\n\n🔗 Feuille FFBB : https://competit
- ions.ffbb.com/competitions/nm1/match/200000014596786
-LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596786
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-29-20-00-saint-vallier-basket-dra-me-1-scabb@ffbb-a
  genda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260929T200000
 DTEND;TZID=Europe/Paris:20260929T220000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – SCABB
@@ -251,8 +234,22 @@ LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596788
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-09-29-20-00-val-de-seine-sasp-bc-orchies@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20260929T200000
+DTEND;TZID=Europe/Paris:20260929T220000
+SUMMARY:VAL DE SEINE – SASP BC ORCHIES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs SASP BC ORCHIES\n\
+ nGYMNASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 W
+ aze : https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitre
+ s : Olivier ADAM\, Mattéo DUCLAUX\n\n🔗 Feuille FFBB : https://competit
+ ions.ffbb.com/competitions/nm1/match/200000014596786
+LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596786
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-29-20-00-loon-plage-boulogne-sur-mer@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260929T200000
 DTEND;TZID=Europe/Paris:20260929T220000
 SUMMARY:LOON PLAGE – BOULOGNE-SUR-MER
@@ -265,25 +262,23 @@ LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596782
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-09-29-20-00-charleville-mezieres-mulhouse-basket-agglo
- meration@ffbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-09-29-20-00-charleville-mezieres-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260929T200000
 DTEND;TZID=Europe/Paris:20260929T220000
-SUMMARY:CHARLEVILLE-MEZIERES – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ CHARLEVILLE-MEZIERES vs MULHOUSE B
- ASKET AGGLOMERATION\n\nGuinguette Arena\n📍 Rue de la Vieille Meuse Char
- leville-MÃ©ziÃ¨res 08000\n🚗 Waze : https://waze.com/ul?ll=49.7568\,
- 4.71195&navigate=yes\n\n📢 Arbitres : Arnaud SIMEON\, Alexandre ARCHER\n
- \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match
- /200000014596783
+SUMMARY:CHARLEVILLE-MEZIERES – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ CHARLEVILLE-MEZIERES vs MULHOUSE\n
+ \nGuinguette Arena\n📍 Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨re
+ s 08000\n🚗 Waze : https://waze.com/ul?ll=49.7568\,4.71195&navigate=yes\
+ n\n📢 Arbitres : Arnaud SIMEON\, Alexandre ARCHER\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nm1/match/200000014596783
 LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
  res 08000
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596783
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-29-20-00-lyonso-basket-1-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260929T200000
 DTEND;TZID=Europe/Paris:20260929T220000
 SUMMARY:LYONSO BASKET - 1 – BERCK - 1
@@ -300,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-09-29-20-00-salon-de-provence-1-pa-le-france@ffbb-agen
  da
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20260929T200000
 DTEND;TZID=Europe/Paris:20260929T220000
 SUMMARY:SALON-DE-PROVENCE - 1 – PÃLE FRANCE
@@ -314,9 +309,38 @@ LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596784
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-02-16-00-pa-le-france-lyonso-basket-1@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261002T160000
+DTEND;TZID=Europe/Paris:20261002T180000
+SUMMARY:PÃLE FRANCE – LYONSO BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs LYONSO BASKET - 
+ 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n
+ 🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm1/match/200000014596797
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596797
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-02-20-00-mulhouse-saint-vallier-basket-dra-me-1@ffb
+ b-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261002T200000
+DTEND;TZID=Europe/Paris:20261002T220000
+SUMMARY:MULHOUSE – SAINT-VALLIER BASKET DRÃME - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs SAINT-VALLIER BASKET D
+ RÃME - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mul
+ house 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nm1/match/200000014596798
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596798
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-02-20-00-sasp-bc-orchies-salon-de-provence-1@ffbb-a
  genda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261002T200000
 DTEND;TZID=Europe/Paris:20261002T220000
 SUMMARY:SASP BC ORCHIES – SALON-DE-PROVENCE - 1
@@ -329,24 +353,8 @@ LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596801
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-02-20-00-mulhouse-basket-agglomeration-saint-vallie
- r-basket-@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261002T200000
-DTEND;TZID=Europe/Paris:20261002T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – SAINT-VALLIER BASKET DRÃME - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
- AINT-VALLIER BASKET DRÃME - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍
-  Rue de l'Illberg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73
- 904\,7.31853&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
- euille FFBB : https://competitions.ffbb.com/competitions/nm1/match/2000000
- 14596798
-LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596798
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-02-20-00-besancon-charleville-mezieres@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261002T200000
 DTEND;TZID=Europe/Paris:20261002T220000
 SUMMARY:BESANCON – CHARLEVILLE-MEZIERES
@@ -359,22 +367,22 @@ LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596800
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-02-20-00-pa-le-france-lyonso-basket-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261002T200000
-DTEND;TZID=Europe/Paris:20261002T220000
-SUMMARY:PÃLE FRANCE – LYONSO BASKET - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs LYONSO BASKET - 
- 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n
- 🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 
- Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
- .ffbb.com/competitions/nm1/match/200000014596797
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596797
+UID:nm1-poule-a-2026-10-03-20-00-berck-1-val-de-seine@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:BERCK - 1 – VAL DE SEINE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs VAL DE SEINE\n\nPALAI
+ S DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : https:/
+ /waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
+ ons/nm1/match/200000014596796
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596796
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-03-20-00-scabb-loon-plage@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
 SUMMARY:SCABB – LOON PLAGE
@@ -388,23 +396,52 @@ LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596799
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-03-20-00-berck-1-val-de-seine@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261003T200000
-DTEND;TZID=Europe/Paris:20261003T220000
-SUMMARY:BERCK - 1 – VAL DE SEINE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs VAL DE SEINE\n\nPALAI
- S DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : https:/
- /waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de d
- ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competiti
- ons/nm1/match/200000014596796
-LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596796
+UID:nm1-poule-a-2026-10-09-20-00-loon-plage-besancon@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261009T200000
+DTEND;TZID=Europe/Paris:20261009T220000
+SUMMARY:LOON PLAGE – BESANCON
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs BESANCON\n\nLÃ©o L
+ AGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://waze.com/
+ ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/ma
+ tch/200000014596810
+LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596810
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-09-20-00-charleville-mezieres-scabb@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261009T200000
+DTEND;TZID=Europe/Paris:20261009T220000
+SUMMARY:CHARLEVILLE-MEZIERES – SCABB
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ CHARLEVILLE-MEZIERES vs SCABB\n\nG
+ uinguette Arena\n📍 Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨res 0
+ 8000\n🚗 Waze : https://waze.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm1/match/200000014596811
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
+ res 08000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596811
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-09-20-00-mulhouse-sasp-bc-orchies@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261009T200000
+DTEND;TZID=Europe/Paris:20261009T220000
+SUMMARY:MULHOUSE – SASP BC ORCHIES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs SASP BC ORCHIES\n\nPAL
+ AIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n🚗 
+ Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/competitions/nm1/match/200000014596812
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596812
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-09-20-00-lyonso-basket-1-salon-de-provence-1@ffbb-a
  genda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261009T200000
 DTEND;TZID=Europe/Paris:20261009T220000
 SUMMARY:LYONSO BASKET - 1 – SALON-DE-PROVENCE - 1
@@ -420,7 +457,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596813
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-09-20-00-val-de-seine-pa-le-france@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261009T200000
 DTEND;TZID=Europe/Paris:20261009T220000
 SUMMARY:VAL DE SEINE – PÃLE FRANCE
@@ -433,53 +470,9 @@ LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596814
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-09-20-00-loon-plage-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261009T200000
-DTEND;TZID=Europe/Paris:20261009T220000
-SUMMARY:LOON PLAGE – BESANCON
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs BESANCON\n\nLÃ©o L
- AGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://waze.com/
- ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de désignatio
- n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/ma
- tch/200000014596810
-LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596810
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-09-20-00-charleville-mezieres-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261009T200000
-DTEND;TZID=Europe/Paris:20261009T220000
-SUMMARY:CHARLEVILLE-MEZIERES – SCABB
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ CHARLEVILLE-MEZIERES vs SCABB\n\nG
- uinguette Arena\n📍 Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨res 0
- 8000\n🚗 Waze : https://waze.com/ul?ll=49.7568\,4.71195&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nm1/match/200000014596811
-LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
- res 08000
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596811
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-09-20-00-mulhouse-basket-agglomeration-sasp-bc-orch
- ies@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261009T200000
-DTEND;TZID=Europe/Paris:20261009T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – SASP BC ORCHIES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
- ASP BC ORCHIES\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg 
- Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nm1/match/200000014596812
-LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596812
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-09-20-30-saint-vallier-basket-dra-me-1-boulogne-sur
  -mer@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261009T203000
 DTEND;TZID=Europe/Paris:20261009T223000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – BOULOGNE-SUR-MER
@@ -493,7 +486,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596816
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-13-20-00-charleville-mezieres-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261013T200000
 DTEND;TZID=Europe/Paris:20261013T220000
 SUMMARY:CHARLEVILLE-MEZIERES – BERCK - 1
@@ -507,8 +500,55 @@ LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596839
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-16-20-00-pa-le-france-charleville-mezieres@ffbb-age
+ nda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261016T200000
+DTEND;TZID=Europe/Paris:20261016T220000
+SUMMARY:PÃLE FRANCE – CHARLEVILLE-MEZIERES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs CHARLEVILLE-MEZI
+ ERES\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\
+ n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014596825
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596825
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-16-20-00-boulogne-sur-mer-lyonso-basket-1@ffbb-agen
+ da
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261016T200000
+DTEND;TZID=Europe/Paris:20261016T220000
+SUMMARY:BOULOGNE-SUR-MER – LYONSO BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs LYONSO BASKET 
+ - 1\n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-M
+ er 62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm1/match/200000014596830
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596830
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-16-20-00-salon-de-provence-1-val-de-seine@ffbb-agen
+ da
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261016T200000
+DTEND;TZID=Europe/Paris:20261016T220000
+SUMMARY:SALON-DE-PROVENCE - 1 – VAL DE SEINE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs VAL DE SE
+ INE\n\nHALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Pr
+ ovence 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014596826
+LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
+ nce 13300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596826
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-16-20-00-berck-1-loon-plage@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261016T200000
 DTEND;TZID=Europe/Paris:20261016T220000
 SUMMARY:BERCK - 1 – LOON PLAGE
@@ -523,7 +563,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-16-20-00-besancon-saint-vallier-basket-dra-me-1@ffb
  b-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261016T200000
 DTEND;TZID=Europe/Paris:20261016T220000
 SUMMARY:BESANCON – SAINT-VALLIER BASKET DRÃME - 1
@@ -536,70 +576,8 @@ LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596828
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-16-20-00-boulogne-sur-mer-lyonso-basket-1@ffbb-agen
- da
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261016T200000
-DTEND;TZID=Europe/Paris:20261016T220000
-SUMMARY:BOULOGNE-SUR-MER – LYONSO BASKET - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs LYONSO BASKET 
- - 1\n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-M
- er 62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=ye
- s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
- mpetitions.ffbb.com/competitions/nm1/match/200000014596830
-LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
- 62200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596830
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-16-20-00-pa-le-france-charleville-mezieres@ffbb-age
- nda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261016T200000
-DTEND;TZID=Europe/Paris:20261016T220000
-SUMMARY:PÃLE FRANCE – CHARLEVILLE-MEZIERES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs CHARLEVILLE-MEZI
- ERES\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\
- n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢
-  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
- s.ffbb.com/competitions/nm1/match/200000014596825
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596825
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-16-20-00-salon-de-provence-1-val-de-seine@ffbb-agen
- da
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261016T200000
-DTEND;TZID=Europe/Paris:20261016T220000
-SUMMARY:SALON-DE-PROVENCE - 1 – VAL DE SEINE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs VAL DE SE
- INE\n\nHALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Pr
- ovence 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigat
- e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
- //competitions.ffbb.com/competitions/nm1/match/200000014596826
-LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
- nce 13300
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596826
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-20-20-00-saint-vallier-basket-dra-me-1-pa-le-france
- @ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261020T200000
-DTEND;TZID=Europe/Paris:20261020T220000
-SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – PÃLE FRANCE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SAINT-VALLIER BASKET DRÃME - 1 
- vs PÃLE FRANCE\n\nLES DEUX RIVES 1\n📍 Rue Marcel Paul Saint-Vallier 
- 26240\n🚗 Waze : https://waze.com/ul?ll=45.19308\,4.81613&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/competitions/nm1/match/200000014596844
-LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596844
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-20-20-00-val-de-seine-lyonso-basket-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261020T200000
 DTEND;TZID=Europe/Paris:20261020T220000
 SUMMARY:VAL DE SEINE – LYONSO BASKET - 1
@@ -613,7 +591,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596842
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-20-20-00-scabb-boulogne-sur-mer@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261020T200000
 DTEND;TZID=Europe/Paris:20261020T220000
 SUMMARY:SCABB – BOULOGNE-SUR-MER
@@ -627,23 +605,22 @@ LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596841
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-20-20-00-mulhouse-basket-agglomeration-besancon@ffb
- b-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-10-20-20-00-mulhouse-besancon@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261020T200000
 DTEND;TZID=Europe/Paris:20261020T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – BESANCON
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs B
- ESANCON\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhous
- e 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/competitions/nm1/match/200000014596840
+SUMMARY:MULHOUSE – BESANCON
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs BESANCON\n\nPALAIS DES
+  SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n🚗 Waze : 
+ https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nm1/match/200000014596840
 LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596840
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-20-20-00-sasp-bc-orchies-loon-plage@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261020T200000
 DTEND;TZID=Europe/Paris:20261020T220000
 SUMMARY:SASP BC ORCHIES – LOON PLAGE
@@ -656,23 +633,23 @@ LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596838
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-23-20-00-sasp-bc-orchies-charleville-mezieres@ffbb-
- agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261023T200000
-DTEND;TZID=Europe/Paris:20261023T220000
-SUMMARY:SASP BC ORCHIES – CHARLEVILLE-MEZIERES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs CHARLEVILLE-MEZ
- IERES\n\nPEVELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 W
- aze : https://waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitr
- es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
- com/competitions/nm1/match/200000014596857
-LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596857
+UID:nm1-poule-a-2026-10-20-20-00-saint-vallier-basket-dra-me-1-pa-le-france
+ @ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261020T200000
+DTEND;TZID=Europe/Paris:20261020T220000
+SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – PÃLE FRANCE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SAINT-VALLIER BASKET DRÃME - 1 
+ vs PÃLE FRANCE\n\nLES DEUX RIVES 1\n📍 Rue Marcel Paul Saint-Vallier 
+ 26240\n🚗 Waze : https://waze.com/ul?ll=45.19308\,4.81613&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nm1/match/200000014596844
+LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596844
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-23-20-00-salon-de-provence-1-loon-plage@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261023T200000
 DTEND;TZID=Europe/Paris:20261023T220000
 SUMMARY:SALON-DE-PROVENCE - 1 – LOON PLAGE
@@ -687,7 +664,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596854
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-23-20-00-besancon-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261023T200000
 DTEND;TZID=Europe/Paris:20261023T220000
 SUMMARY:BESANCON – SCABB
@@ -700,23 +677,52 @@ LOCATION:GYMNASE DES MONTBOUCONS\, Avenue des Montboucons BesanÃ§on 25000
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596856
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-23-20-00-pa-le-france-mulhouse-basket-agglomeration
- @ffbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-10-23-20-00-sasp-bc-orchies-charleville-mezieres@ffbb-
+ agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261023T200000
 DTEND;TZID=Europe/Paris:20261023T220000
-SUMMARY:PÃLE FRANCE – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs MULHOUSE BASKET 
- AGGLOMERATION\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Par
- is 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=ye
- s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
- mpetitions.ffbb.com/competitions/nm1/match/200000014596853
+SUMMARY:SASP BC ORCHIES – CHARLEVILLE-MEZIERES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs CHARLEVILLE-MEZ
+ IERES\n\nPEVELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 W
+ aze : https://waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nm1/match/200000014596857
+LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596857
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-23-20-00-pa-le-france-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261023T200000
+DTEND;TZID=Europe/Paris:20261023T220000
+SUMMARY:PÃLE FRANCE – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs MULHOUSE\n\nINSE
+ P C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗 Waze :
+  https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm1/match/200000014596853
 LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596853
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-24-20-00-berck-1-saint-vallier-basket-dra-me-1@ffbb
+ -agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:BERCK - 1 – SAINT-VALLIER BASKET DRÃME - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SAINT-VALLIER BASKET 
+ DRÃME - 1\n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600
+ \n🚗 Waze : https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014596852
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596852
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-24-20-00-boulogne-sur-mer-val-de-seine@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261024T200000
 DTEND;TZID=Europe/Paris:20261024T220000
 SUMMARY:BOULOGNE-SUR-MER – VAL DE SEINE
@@ -730,23 +736,8 @@ LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596858
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-24-20-00-berck-1-saint-vallier-basket-dra-me-1@ffbb
- -agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261024T200000
-DTEND;TZID=Europe/Paris:20261024T220000
-SUMMARY:BERCK - 1 – SAINT-VALLIER BASKET DRÃME - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SAINT-VALLIER BASKET 
- DRÃME - 1\n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600
- \n🚗 Waze : https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢
-  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
- s.ffbb.com/competitions/nm1/match/200000014596852
-LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596852
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-30-20-00-besancon-boulogne-sur-mer@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261030T200000
 DTEND;TZID=Europe/Paris:20261030T220000
 SUMMARY:BESANCON – BOULOGNE-SUR-MER
@@ -759,38 +750,23 @@ LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596870
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-30-20-00-loon-plage-pa-le-france@ffbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-10-30-20-00-mulhouse-berck-1@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261030T200000
 DTEND;TZID=Europe/Paris:20261030T220000
-SUMMARY:LOON PLAGE – PÃLE FRANCE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs PÃLE FRANCE\n\nL
- Ã©o LAGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://wa
- ze.com/ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de dés
- ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
- /nm1/match/200000014596866
-LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596866
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-10-30-20-00-mulhouse-basket-agglomeration-berck-1@ffbb
- -agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261030T200000
-DTEND;TZID=Europe/Paris:20261030T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – BERCK - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs B
- ERCK - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhou
- se 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=ye
- s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
- mpetitions.ffbb.com/competitions/nm1/match/200000014596868
+SUMMARY:MULHOUSE – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs BERCK - 1\n\nPALAIS DE
+ S SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n🚗 Waze :
+  https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm1/match/200000014596868
 LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596868
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-30-20-00-charleville-mezieres-salon-de-provence-1@f
  fbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261030T200000
 DTEND;TZID=Europe/Paris:20261030T220000
 SUMMARY:CHARLEVILLE-MEZIERES – SALON-DE-PROVENCE - 1
@@ -804,9 +780,23 @@ LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596867
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-10-30-20-00-loon-plage-pa-le-france@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261030T200000
+DTEND;TZID=Europe/Paris:20261030T220000
+SUMMARY:LOON PLAGE – PÃLE FRANCE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs PÃLE FRANCE\n\nL
+ Ã©o LAGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://wa
+ ze.com/ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nm1/match/200000014596866
+LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596866
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-30-20-30-saint-vallier-basket-dra-me-1-lyonso-baske
  t-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261030T203000
 DTEND;TZID=Europe/Paris:20261030T223000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – LYONSO BASKET - 1
@@ -820,7 +810,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596872
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-10-31-20-00-scabb-sasp-bc-orchies@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261031T200000
 DTEND;TZID=Europe/Paris:20261031T220000
 SUMMARY:SCABB – SASP BC ORCHIES
@@ -835,7 +825,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596869
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-06-20-00-lyonso-basket-1-loon-plage@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261106T200000
 DTEND;TZID=Europe/Paris:20261106T220000
 SUMMARY:LYONSO BASKET - 1 – LOON PLAGE
@@ -849,9 +839,53 @@ LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596883
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-06-20-00-sasp-bc-orchies-besancon@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261106T200000
+DTEND;TZID=Europe/Paris:20261106T220000
+SUMMARY:SASP BC ORCHIES – BESANCON
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs BESANCON\n\nPEV
+ ELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 Waze : https:
+ //waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nm1/match/200000014596885
+LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596885
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-06-20-00-val-de-seine-charleville-mezieres@ffbb-age
+ nda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261106T200000
+DTEND;TZID=Europe/Paris:20261106T220000
+SUMMARY:VAL DE SEINE – CHARLEVILLE-MEZIERES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs CHARLEVILLE-MEZIER
+ ES\n\nGYMNASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n
+ 🚗 Waze : https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/competitions/nm1/match/200000014596884
+LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596884
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-06-20-00-boulogne-sur-mer-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261106T200000
+DTEND;TZID=Europe/Paris:20261106T220000
+SUMMARY:BOULOGNE-SUR-MER – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs MULHOUSE\n\nPA
+ LAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 62200\
+ n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014596886
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596886
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-06-20-00-salon-de-provence-1-saint-vallier-basket-d
  ra-me-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261106T200000
 DTEND;TZID=Europe/Paris:20261106T220000
 SUMMARY:SALON-DE-PROVENCE - 1 – SAINT-VALLIER BASKET DRÃME - 1
@@ -866,53 +900,8 @@ LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596882
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-06-20-00-boulogne-sur-mer-mulhouse-basket-agglomera
- tion@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261106T200000
-DTEND;TZID=Europe/Paris:20261106T220000
-SUMMARY:BOULOGNE-SUR-MER – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs MULHOUSE BASKE
- T AGGLOMERATION\n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Bo
- ulogne-sur-Mer 62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/competitions/nm1/match/200000014596886
-LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
- 62200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596886
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-06-20-00-val-de-seine-charleville-mezieres@ffbb-age
- nda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261106T200000
-DTEND;TZID=Europe/Paris:20261106T220000
-SUMMARY:VAL DE SEINE – CHARLEVILLE-MEZIERES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs CHARLEVILLE-MEZIER
- ES\n\nGYMNASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n
- 🚗 Waze : https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 A
- rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
- ffbb.com/competitions/nm1/match/200000014596884
-LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596884
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-06-20-00-sasp-bc-orchies-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261106T200000
-DTEND;TZID=Europe/Paris:20261106T220000
-SUMMARY:SASP BC ORCHIES – BESANCON
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs BESANCON\n\nPEV
- ELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 Waze : https:
- //waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitres : Pas de 
- désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
- ions/nm1/match/200000014596885
-LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596885
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-07-20-00-berck-1-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:BERCK - 1 – SCABB
@@ -925,53 +914,9 @@ LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596880
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-13-20-00-mulhouse-basket-agglomeration-salon-de-pro
- vence-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261113T200000
-DTEND;TZID=Europe/Paris:20261113T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – SALON-DE-PROVENCE - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
- ALON-DE-PROVENCE - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Il
- lberg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/competitions/nm1/match/200000014596896
-LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596896
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-13-20-00-besancon-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261113T200000
-DTEND;TZID=Europe/Paris:20261113T220000
-SUMMARY:BESANCON – BERCK - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs BERCK - 1\n\nGYMNASE D
- ES MONTBOUCONS\n📍 Avenue des Montboucons BesanÃ§on 25000\n🚗 Waze :
-  https://waze.com/ul?ll=47.25292\,5.99798&navigate=yes\n\n📢 Arbitres : 
- Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
- ompetitions/nm1/match/200000014596898
-LOCATION:GYMNASE DES MONTBOUCONS\, Avenue des Montboucons BesanÃ§on 25000
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596898
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-13-20-00-sasp-bc-orchies-boulogne-sur-mer@ffbb-agen
- da
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261113T200000
-DTEND;TZID=Europe/Paris:20261113T220000
-SUMMARY:SASP BC ORCHIES – BOULOGNE-SUR-MER
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs BOULOGNE-SUR-ME
- R\n\nPEVELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 Waze 
- : https://waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitres :
-  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
- competitions/nm1/match/200000014596899
-LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596899
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-13-20-00-charleville-mezieres-lyonso-basket-1@ffbb-
  agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261113T200000
 DTEND;TZID=Europe/Paris:20261113T220000
 SUMMARY:CHARLEVILLE-MEZIERES – LYONSO BASKET - 1
@@ -985,8 +930,37 @@ LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596895
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-13-20-00-mulhouse-salon-de-provence-1@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:MULHOUSE – SALON-DE-PROVENCE - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs SALON-DE-PROVENCE - 1\
+ n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\
+ n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014596896
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596896
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-13-20-00-sasp-bc-orchies-boulogne-sur-mer@ffbb-agen
+ da
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:SASP BC ORCHIES – BOULOGNE-SUR-MER
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs BOULOGNE-SUR-ME
+ R\n\nPEVELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 Waze 
+ : https://waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ competitions/nm1/match/200000014596899
+LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596899
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-13-20-00-loon-plage-val-de-seine@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261113T200000
 DTEND;TZID=Europe/Paris:20261113T220000
 SUMMARY:LOON PLAGE – VAL DE SEINE
@@ -999,8 +973,22 @@ LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596894
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-13-20-00-besancon-berck-1@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:BESANCON – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs BERCK - 1\n\nGYMNASE D
+ ES MONTBOUCONS\n📍 Avenue des Montboucons BesanÃ§on 25000\n🚗 Waze :
+  https://waze.com/ul?ll=47.25292\,5.99798&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/c
+ ompetitions/nm1/match/200000014596898
+LOCATION:GYMNASE DES MONTBOUCONS\, Avenue des Montboucons BesanÃ§on 25000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596898
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-14-20-00-scabb-pa-le-france@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:SCABB – PÃLE FRANCE
@@ -1014,8 +1002,23 @@ LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596897
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-17-20-00-salon-de-provence-1-scabb@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261117T200000
+DTEND;TZID=Europe/Paris:20261117T220000
+SUMMARY:SALON-DE-PROVENCE - 1 – SCABB
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs SCABB\n\n
+ HALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Provence 
+ 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nm1/match/200000014596910
+LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
+ nce 13300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596910
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-17-20-00-pa-le-france-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261117T200000
 DTEND;TZID=Europe/Paris:20261117T220000
 SUMMARY:PÃLE FRANCE – BESANCON
@@ -1030,7 +1033,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-17-20-00-boulogne-sur-mer-charleville-mezieres@ffbb
  -agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261117T200000
 DTEND;TZID=Europe/Paris:20261117T220000
 SUMMARY:BOULOGNE-SUR-MER – CHARLEVILLE-MEZIERES
@@ -1044,23 +1047,9 @@ LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596914
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-17-20-00-berck-1-sasp-bc-orchies@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261117T200000
-DTEND;TZID=Europe/Paris:20261117T220000
-SUMMARY:BERCK - 1 – SASP BC ORCHIES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SASP BC ORCHIES\n\nPA
- LAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : http
- s://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de
-  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
- tions/nm1/match/200000014596908
-LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596908
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-17-20-00-val-de-seine-saint-vallier-basket-dra-me-1
  @ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261117T200000
 DTEND;TZID=Europe/Paris:20261117T220000
 SUMMARY:VAL DE SEINE – SAINT-VALLIER BASKET DRÃME - 1
@@ -1073,70 +1062,37 @@ LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596912
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-17-20-00-salon-de-provence-1-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-11-17-20-00-lyonso-basket-1-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261117T200000
 DTEND;TZID=Europe/Paris:20261117T220000
-SUMMARY:SALON-DE-PROVENCE - 1 – SCABB
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs SCABB\n\n
- HALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Provence 
- 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/competitions/nm1/match/200000014596910
-LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
- nce 13300
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596910
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-17-20-00-lyonso-basket-1-mulhouse-basket-agglomerat
- ion@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261117T200000
-DTEND;TZID=Europe/Paris:20261117T220000
-SUMMARY:LYONSO BASKET - 1 – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LYONSO BASKET - 1 vs MULHOUSE BASK
- ET AGGLOMERATION\n\nHALLE PAUL BERT - LA CANOPEE\n📍 Rue Charles de Gaul
- le Oullins-Pierre-BÃ©nite 69310\n🚗 Waze : https://waze.com/ul?ll=45.6
- 9946\,4.81769&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
- Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match/200000
- 014596911
+SUMMARY:LYONSO BASKET - 1 – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LYONSO BASKET - 1 vs MULHOUSE\n\nH
+ ALLE PAUL BERT - LA CANOPEE\n📍 Rue Charles de Gaulle Oullins-Pierre-BÃ
+ ©nite 69310\n🚗 Waze : https://waze.com/ul?ll=45.69946\,4.81769&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014596911
 LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
  e-BÃ©nite 69310
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596911
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-20-20-00-boulogne-sur-mer-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261120T200000
-DTEND;TZID=Europe/Paris:20261120T220000
-SUMMARY:BOULOGNE-SUR-MER – BERCK - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs BERCK - 1\n\nP
- ALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 62200
- \n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nm1/match/200000014596928
-LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
- 62200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596928
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-11-20-20-00-mulhouse-basket-agglomeration-val-de-seine
- @ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261120T200000
-DTEND;TZID=Europe/Paris:20261120T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – VAL DE SEINE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs V
- AL DE SEINE\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mul
- house 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/competitions/nm1/match/200000014596924
-LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596924
+UID:nm1-poule-a-2026-11-17-20-00-berck-1-sasp-bc-orchies@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261117T200000
+DTEND;TZID=Europe/Paris:20261117T220000
+SUMMARY:BERCK - 1 – SASP BC ORCHIES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs SASP BC ORCHIES\n\nPA
+ LAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : http
+ s://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competi
+ tions/nm1/match/200000014596908
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596908
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-20-20-00-besancon-salon-de-provence-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261120T200000
 DTEND;TZID=Europe/Paris:20261120T220000
 SUMMARY:BESANCON – SALON-DE-PROVENCE - 1
@@ -1150,7 +1106,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596926
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-20-20-00-sasp-bc-orchies-pa-le-france@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261120T200000
 DTEND;TZID=Europe/Paris:20261120T220000
 SUMMARY:SASP BC ORCHIES – PÃLE FRANCE
@@ -1163,9 +1119,38 @@ LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596927
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-20-20-00-boulogne-sur-mer-berck-1@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261120T200000
+DTEND;TZID=Europe/Paris:20261120T220000
+SUMMARY:BOULOGNE-SUR-MER – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs BERCK - 1\n\nP
+ ALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 62200
+ \n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm1/match/200000014596928
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596928
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-11-20-20-00-mulhouse-val-de-seine@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261120T200000
+DTEND;TZID=Europe/Paris:20261120T220000
+SUMMARY:MULHOUSE – VAL DE SEINE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs VAL DE SEINE\n\nPALAIS
+  DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n🚗 Waz
+ e : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nm1/match/200000014596924
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596924
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-20-20-30-saint-vallier-basket-dra-me-1-loon-plage@f
  fbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261120T203000
 DTEND;TZID=Europe/Paris:20261120T223000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – LOON PLAGE
@@ -1179,7 +1164,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596922
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-11-21-20-00-scabb-lyonso-basket-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261121T200000
 DTEND;TZID=Europe/Paris:20261121T220000
 SUMMARY:SCABB – LYONSO BASKET - 1
@@ -1193,9 +1178,39 @@ LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596925
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-04-20-00-besancon-lyonso-basket-1@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261204T200000
+DTEND;TZID=Europe/Paris:20261204T220000
+SUMMARY:BESANCON – LYONSO BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs LYONSO BASKET - 1\n\nP
+ ALAIS DES SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 25000\n🚗 Waze
+  : https://waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm1/match/200000014596939
+LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596939
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-04-20-00-boulogne-sur-mer-salon-de-provence-1@ffbb-
+ agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261204T200000
+DTEND;TZID=Europe/Paris:20261204T220000
+SUMMARY:BOULOGNE-SUR-MER – SALON-DE-PROVENCE - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs SALON-DE-PROVE
+ NCE - 1\n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-s
+ ur-Mer 62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014596938
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596938
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-04-20-00-charleville-mezieres-loon-plage@ffbb-agend
  a
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261204T200000
 DTEND;TZID=Europe/Paris:20261204T220000
 SUMMARY:CHARLEVILLE-MEZIERES – LOON PLAGE
@@ -1211,7 +1226,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-04-20-00-sasp-bc-orchies-saint-vallier-basket-dra-m
  e-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261204T200000
 DTEND;TZID=Europe/Paris:20261204T220000
 SUMMARY:SASP BC ORCHIES – SAINT-VALLIER BASKET DRÃME - 1
@@ -1224,38 +1239,8 @@ LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596942
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-04-20-00-besancon-lyonso-basket-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261204T200000
-DTEND;TZID=Europe/Paris:20261204T220000
-SUMMARY:BESANCON – LYONSO BASKET - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs LYONSO BASKET - 1\n\nP
- ALAIS DES SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 25000\n🚗 Waze
-  : https://waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n📢 Arbitres 
- : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
- /competitions/nm1/match/200000014596939
-LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596939
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-04-20-00-boulogne-sur-mer-salon-de-provence-1@ffbb-
- agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261204T200000
-DTEND;TZID=Europe/Paris:20261204T220000
-SUMMARY:BOULOGNE-SUR-MER – SALON-DE-PROVENCE - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs SALON-DE-PROVE
- NCE - 1\n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-s
- ur-Mer 62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigat
- e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
- //competitions.ffbb.com/competitions/nm1/match/200000014596938
-LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
- 62200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596938
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-05-20-00-berck-1-pa-le-france@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T220000
 SUMMARY:BERCK - 1 – PÃLE FRANCE
@@ -1269,7 +1254,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596937
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-05-20-00-scabb-val-de-seine@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T220000
 SUMMARY:SCABB – VAL DE SEINE
@@ -1283,38 +1268,22 @@ LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596940
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-08-20-00-loon-plage-mulhouse-basket-agglomeration@f
- fbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-12-08-20-00-loon-plage-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261208T200000
 DTEND;TZID=Europe/Paris:20261208T220000
-SUMMARY:LOON PLAGE – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs MULHOUSE BASKET AGGL
- OMERATION\n\nLÃ©o LAGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waz
- e : https://waze.com/ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres
-  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
- m/competitions/nm1/match/200000014596952
+SUMMARY:LOON PLAGE – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs MULHOUSE\n\nLÃ©o L
+ AGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://waze.com/
+ ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/ma
+ tch/200000014596952
 LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596952
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-11-20-00-salon-de-provence-1-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261211T200000
-DTEND;TZID=Europe/Paris:20261211T220000
-SUMMARY:SALON-DE-PROVENCE - 1 – BERCK - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs BERCK - 1
- \n\nHALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Prove
- nce 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/competitions/nm1/match/200000014596950
-LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
- nce 13300
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596950
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-11-20-00-val-de-seine-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261211T200000
 DTEND;TZID=Europe/Paris:20261211T220000
 SUMMARY:VAL DE SEINE – BESANCON
@@ -1329,7 +1298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-11-20-00-lyonso-basket-1-sasp-bc-orchies@ffbb-agend
  a
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261211T200000
 DTEND;TZID=Europe/Paris:20261211T220000
 SUMMARY:LYONSO BASKET - 1 – SASP BC ORCHIES
@@ -1343,8 +1312,23 @@ LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596955
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-11-20-00-salon-de-provence-1-berck-1@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261211T200000
+DTEND;TZID=Europe/Paris:20261211T220000
+SUMMARY:SALON-DE-PROVENCE - 1 – BERCK - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs BERCK - 1
+ \n\nHALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Prove
+ nce 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nm1/match/200000014596950
+LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
+ nce 13300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596950
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-11-20-00-pa-le-france-boulogne-sur-mer@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261211T200000
 DTEND;TZID=Europe/Paris:20261211T220000
 SUMMARY:PÃLE FRANCE – BOULOGNE-SUR-MER
@@ -1359,7 +1343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-11-20-30-saint-vallier-basket-dra-me-1-charleville-
  mezieres@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261211T203000
 DTEND;TZID=Europe/Paris:20261211T223000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – CHARLEVILLE-MEZIERES
@@ -1372,24 +1356,52 @@ LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596951
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-12-20-00-mulhouse-basket-agglomeration-scabb@ffbb-a
- genda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-12-12-20-00-mulhouse-scabb@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261212T200000
 DTEND;TZID=Europe/Paris:20261212T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – SCABB
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs S
- CABB\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 6
- 8200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\
- n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
- itions.ffbb.com/competitions/nm1/match/200000014597009
+SUMMARY:MULHOUSE – SCABB
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs SCABB\n\nPALAIS DES SP
+ ORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n🚗 Waze : htt
+ ps://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compe
+ titions/nm1/match/200000014597009
 LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597009
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-15-20-00-mulhouse-charleville-mezieres@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261215T200000
+DTEND;TZID=Europe/Paris:20261215T220000
+SUMMARY:MULHOUSE – CHARLEVILLE-MEZIERES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs CHARLEVILLE-MEZIERES\n
+ \nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n
+ 🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm1/match/200000014596965
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596965
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-15-20-00-boulogne-sur-mer-loon-plage@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261215T200000
+DTEND;TZID=Europe/Paris:20261215T220000
+SUMMARY:BOULOGNE-SUR-MER – LOON PLAGE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs LOON PLAGE\n\n
+ PALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 6220
+ 0\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nm1/match/200000014596964
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596964
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-15-20-00-scabb-saint-vallier-basket-dra-me-1@ffbb-a
  genda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261215T200000
 DTEND;TZID=Europe/Paris:20261215T220000
 SUMMARY:SCABB – SAINT-VALLIER BASKET DRÃME - 1
@@ -1404,7 +1416,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596970
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-15-20-00-sasp-bc-orchies-val-de-seine@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261215T200000
 DTEND;TZID=Europe/Paris:20261215T220000
 SUMMARY:SASP BC ORCHIES – VAL DE SEINE
@@ -1418,7 +1430,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596968
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-15-20-00-berck-1-lyonso-basket-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261215T200000
 DTEND;TZID=Europe/Paris:20261215T220000
 SUMMARY:BERCK - 1 – LYONSO BASKET - 1
@@ -1431,39 +1443,9 @@ LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596967
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-15-20-00-mulhouse-basket-agglomeration-charleville-
- mezieres@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261215T200000
-DTEND;TZID=Europe/Paris:20261215T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – CHARLEVILLE-MEZIERES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs C
- HARLEVILLE-MEZIERES\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Ill
- berg Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/competitions/nm1/match/200000014596965
-LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596965
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-15-20-00-boulogne-sur-mer-loon-plage@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261215T200000
-DTEND;TZID=Europe/Paris:20261215T220000
-SUMMARY:BOULOGNE-SUR-MER – LOON PLAGE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs LOON PLAGE\n\n
- PALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 6220
- 0\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nm1/match/200000014596964
-LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
- 62200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596964
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-15-20-00-pa-le-france-salon-de-provence-1@ffbb-agen
  da
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261215T200000
 DTEND;TZID=Europe/Paris:20261215T220000
 SUMMARY:PÃLE FRANCE – SALON-DE-PROVENCE - 1
@@ -1476,53 +1458,9 @@ LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596966
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-18-20-00-charleville-mezieres-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261218T200000
-DTEND;TZID=Europe/Paris:20261218T220000
-SUMMARY:CHARLEVILLE-MEZIERES – BESANCON
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ CHARLEVILLE-MEZIERES vs BESANCON\n
- \nGuinguette Arena\n📍 Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨re
- s 08000\n🚗 Waze : https://waze.com/ul?ll=49.7568\,4.71195&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/competitions/nm1/match/200000014596982
-LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
- res 08000
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596982
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-18-20-00-lyonso-basket-1-pa-le-france@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261218T200000
-DTEND;TZID=Europe/Paris:20261218T220000
-SUMMARY:LYONSO BASKET - 1 – PÃLE FRANCE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LYONSO BASKET - 1 vs PÃLE FRANC
- E\n\nHALLE PAUL BERT - LA CANOPEE\n📍 Rue Charles de Gaulle Oullins-Pier
- re-BÃ©nite 69310\n🚗 Waze : https://waze.com/ul?ll=45.69946\,4.81769&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/competitions/nm1/match/200000014596979
-LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
- e-BÃ©nite 69310
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596979
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-18-20-00-loon-plage-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20261218T200000
-DTEND;TZID=Europe/Paris:20261218T220000
-SUMMARY:LOON PLAGE – SCABB
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs SCABB\n\nLÃ©o LAGR
- ANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://waze.com/ul?
- ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
- \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match
- /200000014596981
-LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596981
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-18-20-00-salon-de-provence-1-sasp-bc-orchies@ffbb-a
  genda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261218T200000
 DTEND;TZID=Europe/Paris:20261218T220000
 SUMMARY:SALON-DE-PROVENCE - 1 – SASP BC ORCHIES
@@ -1536,8 +1474,52 @@ LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596983
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-18-20-00-lyonso-basket-1-pa-le-france@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261218T200000
+DTEND;TZID=Europe/Paris:20261218T220000
+SUMMARY:LYONSO BASKET - 1 – PÃLE FRANCE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LYONSO BASKET - 1 vs PÃLE FRANC
+ E\n\nHALLE PAUL BERT - LA CANOPEE\n📍 Rue Charles de Gaulle Oullins-Pier
+ re-BÃ©nite 69310\n🚗 Waze : https://waze.com/ul?ll=45.69946\,4.81769&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nm1/match/200000014596979
+LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
+ e-BÃ©nite 69310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596979
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-18-20-00-charleville-mezieres-besancon@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261218T200000
+DTEND;TZID=Europe/Paris:20261218T220000
+SUMMARY:CHARLEVILLE-MEZIERES – BESANCON
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ CHARLEVILLE-MEZIERES vs BESANCON\n
+ \nGuinguette Arena\n📍 Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨re
+ s 08000\n🚗 Waze : https://waze.com/ul?ll=49.7568\,4.71195&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm1/match/200000014596982
+LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
+ res 08000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596982
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2026-12-18-20-00-loon-plage-scabb@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20261218T200000
+DTEND;TZID=Europe/Paris:20261218T220000
+SUMMARY:LOON PLAGE – SCABB
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs SCABB\n\nLÃ©o LAGR
+ ANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://waze.com/ul?
+ ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nm1/match
+ /200000014596981
+LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596981
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-18-20-00-val-de-seine-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261218T200000
 DTEND;TZID=Europe/Paris:20261218T220000
 SUMMARY:VAL DE SEINE – BERCK - 1
@@ -1550,24 +1532,24 @@ LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596978
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2026-12-18-20-30-saint-vallier-basket-dra-me-1-mulhouse-bas
- ket-agglo@ffbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2026-12-18-20-30-saint-vallier-basket-dra-me-1-mulhouse@ffb
+ b-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261218T203000
 DTEND;TZID=Europe/Paris:20261218T223000
-SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – MULHOUSE BASKET AGGLOMERATION
+SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – MULHOUSE
 DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SAINT-VALLIER BASKET DRÃME - 1 
- vs MULHOUSE BASKET AGGLOMERATION\n\nLES DEUX RIVES 1\n📍 Rue Marcel Paul
-  Saint-Vallier 26240\n🚗 Waze : https://waze.com/ul?ll=45.19308\,4.81613
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/competitions/nm1/match/200000014596980
+ vs MULHOUSE\n\nLES DEUX RIVES 1\n📍 Rue Marcel Paul Saint-Vallier 26240\
+ n🚗 Waze : https://waze.com/ul?ll=45.19308\,4.81613&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014596980
 LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596980
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2026-12-22-20-00-boulogne-sur-mer-saint-vallier-basket-dra-
  me-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20261222T200000
 DTEND;TZID=Europe/Paris:20261222T220000
 SUMMARY:BOULOGNE-SUR-MER – SAINT-VALLIER BASKET DRÃME - 1
@@ -1581,52 +1563,9 @@ LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596998
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-08-20-00-sasp-bc-orchies-mulhouse-basket-agglomerat
- ion@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270108T200000
-DTEND;TZID=Europe/Paris:20270108T220000
-SUMMARY:SASP BC ORCHIES – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs MULHOUSE BASKET
-  AGGLOMERATION\n\nPEVELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 5931
- 0\n🚗 Waze : https://waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nm1/match/200000014596994
-LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596994
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-08-20-00-pa-le-france-val-de-seine@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270108T200000
-DTEND;TZID=Europe/Paris:20270108T220000
-SUMMARY:PÃLE FRANCE – VAL DE SEINE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs VAL DE SEINE\n\n
- INSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗 Wa
- ze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbitre
- s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
- om/competitions/nm1/match/200000014596996
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596996
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-08-20-00-besancon-loon-plage@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270108T200000
-DTEND;TZID=Europe/Paris:20270108T220000
-SUMMARY:BESANCON – LOON PLAGE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs LOON PLAGE\n\nPALAIS D
- ES SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 25000\n🚗 Waze : http
- s://waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n📢 Arbitres : Pas d
- e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
- itions/nm1/match/200000014596992
-LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596992
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-08-20-00-salon-de-provence-1-lyonso-basket-1@ffbb-a
  genda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270108T200000
 DTEND;TZID=Europe/Paris:20270108T220000
 SUMMARY:SALON-DE-PROVENCE - 1 – LYONSO BASKET - 1
@@ -1640,8 +1579,50 @@ LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596995
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-08-20-00-pa-le-france-val-de-seine@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270108T200000
+DTEND;TZID=Europe/Paris:20270108T220000
+SUMMARY:PÃLE FRANCE – VAL DE SEINE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs VAL DE SEINE\n\n
+ INSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗 Wa
+ ze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/competitions/nm1/match/200000014596996
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596996
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-08-20-00-sasp-bc-orchies-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270108T200000
+DTEND;TZID=Europe/Paris:20270108T220000
+SUMMARY:SASP BC ORCHIES – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs MULHOUSE\n\nPEV
+ ELE ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 Waze : https:
+ //waze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nm1/match/200000014596994
+LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596994
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-08-20-00-besancon-loon-plage@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270108T200000
+DTEND;TZID=Europe/Paris:20270108T220000
+SUMMARY:BESANCON – LOON PLAGE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs LOON PLAGE\n\nPALAIS D
+ ES SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 25000\n🚗 Waze : http
+ s://waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nm1/match/200000014596992
+LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596992
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-09-20-00-scabb-charleville-mezieres@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270109T200000
 DTEND;TZID=Europe/Paris:20270109T220000
 SUMMARY:SCABB – CHARLEVILLE-MEZIERES
@@ -1656,7 +1637,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014596993
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-15-20-00-loon-plage-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270115T200000
 DTEND;TZID=Europe/Paris:20270115T220000
 SUMMARY:LOON PLAGE – BERCK - 1
@@ -1671,7 +1652,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-15-20-00-val-de-seine-salon-de-provence-1@ffbb-agen
  da
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270115T200000
 DTEND;TZID=Europe/Paris:20270115T220000
 SUMMARY:VAL DE SEINE – SALON-DE-PROVENCE - 1
@@ -1686,7 +1667,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-15-20-00-lyonso-basket-1-boulogne-sur-mer@ffbb-agen
  da
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270115T200000
 DTEND;TZID=Europe/Paris:20270115T220000
 SUMMARY:LYONSO BASKET - 1 – BOULOGNE-SUR-MER
@@ -1702,7 +1683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-15-20-00-charleville-mezieres-pa-le-france@ffbb-age
  nda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270115T200000
 DTEND;TZID=Europe/Paris:20270115T220000
 SUMMARY:CHARLEVILLE-MEZIERES – PÃLE FRANCE
@@ -1718,7 +1699,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-15-20-30-saint-vallier-basket-dra-me-1-besancon@ffb
  b-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270115T203000
 DTEND;TZID=Europe/Paris:20270115T223000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – BESANCON
@@ -1731,8 +1712,65 @@ LOCATION:LES DEUX RIVES 1\, Rue Marcel Paul Saint-Vallier 26240
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597010
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-19-20-00-loon-plage-sasp-bc-orchies@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270119T200000
+DTEND;TZID=Europe/Paris:20270119T220000
+SUMMARY:LOON PLAGE – SASP BC ORCHIES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs SASP BC ORCHIES\n\nL
+ Ã©o LAGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://wa
+ ze.com/ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nm1/match/200000014597020
+LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597020
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-19-20-00-berck-1-charleville-mezieres@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270119T200000
+DTEND;TZID=Europe/Paris:20270119T220000
+SUMMARY:BERCK - 1 – CHARLEVILLE-MEZIERES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs CHARLEVILLE-MEZIERES\
+ n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze :
+  https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nm1/match/200000014597021
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597021
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-19-20-00-besancon-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270119T200000
+DTEND;TZID=Europe/Paris:20270119T220000
+SUMMARY:BESANCON – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs MULHOUSE\n\nPALAIS DES
+  SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 25000\n🚗 Waze : https:
+ //waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nm1/match/200000014597022
+LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597022
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-19-20-00-pa-le-france-saint-vallier-basket-dra-me-1
+ @ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270119T200000
+DTEND;TZID=Europe/Paris:20270119T220000
+SUMMARY:PÃLE FRANCE – SAINT-VALLIER BASKET DRÃME - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs SAINT-VALLIER BA
+ SKET DRÃME - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay
+  Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nm1/match/200000014597026
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597026
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-19-20-00-lyonso-basket-1-val-de-seine@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270119T200000
 DTEND;TZID=Europe/Paris:20270119T220000
 SUMMARY:LYONSO BASKET - 1 – VAL DE SEINE
@@ -1747,7 +1785,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597024
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-19-20-00-boulogne-sur-mer-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270119T200000
 DTEND;TZID=Europe/Paris:20270119T220000
 SUMMARY:BOULOGNE-SUR-MER – SCABB
@@ -1761,66 +1799,22 @@ LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597023
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-19-20-00-loon-plage-sasp-bc-orchies@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270119T200000
-DTEND;TZID=Europe/Paris:20270119T220000
-SUMMARY:LOON PLAGE – SASP BC ORCHIES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ LOON PLAGE vs SASP BC ORCHIES\n\nL
- Ã©o LAGRANGE\n📍 Rue du Stade Loon-Plage 59279\n🚗 Waze : https://wa
- ze.com/ul?ll=50.99437\,2.22175&navigate=yes\n\n📢 Arbitres : Pas de dés
- ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
- /nm1/match/200000014597020
-LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597020
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-19-20-00-berck-1-charleville-mezieres@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270119T200000
-DTEND;TZID=Europe/Paris:20270119T220000
-SUMMARY:BERCK - 1 – CHARLEVILLE-MEZIERES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs CHARLEVILLE-MEZIERES\
- n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze :
-  https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : P
- as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
- mpetitions/nm1/match/200000014597021
-LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597021
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-19-20-00-besancon-mulhouse-basket-agglomeration@ffb
- b-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270119T200000
-DTEND;TZID=Europe/Paris:20270119T220000
-SUMMARY:BESANCON – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs MULHOUSE BASKET AGGLOM
- ERATION\n\nPALAIS DES SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 2500
- 0\n🚗 Waze : https://waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nm1/match/200000014597022
-LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597022
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-19-20-00-pa-le-france-saint-vallier-basket-dra-me-1
- @ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270119T200000
-DTEND;TZID=Europe/Paris:20270119T220000
-SUMMARY:PÃLE FRANCE – SAINT-VALLIER BASKET DRÃME - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs SAINT-VALLIER BA
- SKET DRÃME - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay
-  Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigat
- e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
- //competitions.ffbb.com/competitions/nm1/match/200000014597026
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597026
+UID:nm1-poule-a-2027-01-22-20-00-mulhouse-pa-le-france@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270122T200000
+DTEND;TZID=Europe/Paris:20270122T220000
+SUMMARY:MULHOUSE – PÃLE FRANCE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs PÃLE FRANCE\n\nPALA
+ IS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n🚗 W
+ aze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nm1/match/200000014597035
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597035
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-22-20-00-loon-plage-salon-de-provence-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270122T200000
 DTEND;TZID=Europe/Paris:20270122T220000
 SUMMARY:LOON PLAGE – SALON-DE-PROVENCE - 1
@@ -1833,9 +1827,23 @@ LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597036
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-22-20-00-val-de-seine-boulogne-sur-mer@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270122T200000
+DTEND;TZID=Europe/Paris:20270122T220000
+SUMMARY:VAL DE SEINE – BOULOGNE-SUR-MER
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs BOULOGNE-SUR-MER\n
+ \nGYMNASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 
+ Waze : https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nm1/match/200000014597040
+LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597040
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-22-20-00-charleville-mezieres-sasp-bc-orchies@ffbb-
  agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270122T200000
 DTEND;TZID=Europe/Paris:20270122T220000
 SUMMARY:CHARLEVILLE-MEZIERES – SASP BC ORCHIES
@@ -1849,38 +1857,9 @@ LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597039
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-22-20-00-val-de-seine-boulogne-sur-mer@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270122T200000
-DTEND;TZID=Europe/Paris:20270122T220000
-SUMMARY:VAL DE SEINE – BOULOGNE-SUR-MER
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs BOULOGNE-SUR-MER\n
- \nGYMNASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 
- Waze : https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitr
- es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
- com/competitions/nm1/match/200000014597040
-LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597040
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-22-20-00-mulhouse-basket-agglomeration-pa-le-france
- @ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270122T200000
-DTEND;TZID=Europe/Paris:20270122T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – PÃLE FRANCE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs P
- ÃLE FRANCE\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg M
- ulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&naviga
- te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
- ://competitions.ffbb.com/competitions/nm1/match/200000014597035
-LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597035
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-22-20-30-saint-vallier-basket-dra-me-1-berck-1@ffbb
  -agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270122T203000
 DTEND;TZID=Europe/Paris:20270122T223000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – BERCK - 1
@@ -1894,7 +1873,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597034
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-23-20-00-scabb-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270123T200000
 DTEND;TZID=Europe/Paris:20270123T220000
 SUMMARY:SCABB – BESANCON
@@ -1908,52 +1887,9 @@ LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597038
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-29-20-00-sasp-bc-orchies-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270129T200000
-DTEND;TZID=Europe/Paris:20270129T220000
-SUMMARY:SASP BC ORCHIES – SCABB
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs SCABB\n\nPEVELE
-  ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 Waze : https://w
- aze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitres : Pas de dé
- signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competition
- s/nm1/match/200000014597051
-LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597051
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-29-20-00-pa-le-france-loon-plage@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270129T200000
-DTEND;TZID=Europe/Paris:20270129T220000
-SUMMARY:PÃLE FRANCE – LOON PLAGE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs LOON PLAGE\n\nIN
- SEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗 Waze
-  : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbitres 
- : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
- /competitions/nm1/match/200000014597048
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597048
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-29-20-00-boulogne-sur-mer-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270129T200000
-DTEND;TZID=Europe/Paris:20270129T220000
-SUMMARY:BOULOGNE-SUR-MER – BESANCON
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs BESANCON\n\nPA
- LAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 62200\
- n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n\n📢
-  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
- s.ffbb.com/competitions/nm1/match/200000014597052
-LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
- 62200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597052
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-29-20-00-lyonso-basket-1-saint-vallier-basket-dra-m
  e-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270129T200000
 DTEND;TZID=Europe/Paris:20270129T220000
 SUMMARY:LYONSO BASKET - 1 – SAINT-VALLIER BASKET DRÃME - 1
@@ -1970,7 +1906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-01-29-20-00-salon-de-provence-1-charleville-mezieres@f
  fbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270129T200000
 DTEND;TZID=Europe/Paris:20270129T220000
 SUMMARY:SALON-DE-PROVENCE - 1 – CHARLEVILLE-MEZIERES
@@ -1984,38 +1920,65 @@ LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597049
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-01-30-20-00-berck-1-mulhouse-basket-agglomeration@ffbb
- -agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2027-01-29-20-00-sasp-bc-orchies-scabb@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270129T200000
+DTEND;TZID=Europe/Paris:20270129T220000
+SUMMARY:SASP BC ORCHIES – SCABB
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SASP BC ORCHIES vs SCABB\n\nPEVELE
+  ARENA\n📍 Rue des 3 Bonniers Marin Orchies 59310\n🚗 Waze : https://w
+ aze.com/ul?ll=50.46466\,3.26259&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competition
+ s/nm1/match/200000014597051
+LOCATION:PEVELE ARENA\, Rue des 3 Bonniers Marin Orchies 59310
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597051
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-29-20-00-boulogne-sur-mer-besancon@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270129T200000
+DTEND;TZID=Europe/Paris:20270129T220000
+SUMMARY:BOULOGNE-SUR-MER – BESANCON
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs BESANCON\n\nPA
+ LAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer 62200\
+ n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nm1/match/200000014597052
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597052
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-29-20-00-pa-le-france-loon-plage@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270129T200000
+DTEND;TZID=Europe/Paris:20270129T220000
+SUMMARY:PÃLE FRANCE – LOON PLAGE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs LOON PLAGE\n\nIN
+ SEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗 Waze
+  : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /competitions/nm1/match/200000014597048
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597048
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-01-30-20-00-berck-1-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270130T200000
 DTEND;TZID=Europe/Paris:20270130T220000
-SUMMARY:BERCK - 1 – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs MULHOUSE BASKET AGGLO
- MERATION\n\nPALAIS DES SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n
- 🚗 Waze : https://waze.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 A
- rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
- ffbb.com/competitions/nm1/match/200000014597050
+SUMMARY:BERCK - 1 – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs MULHOUSE\n\nPALAIS DE
+ S SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : https://waz
+ e.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
+ m1/match/200000014597050
 LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597050
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-05-20-00-mulhouse-basket-agglomeration-boulogne-sur
- -mer@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270205T200000
-DTEND;TZID=Europe/Paris:20270205T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – BOULOGNE-SUR-MER
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs B
- OULOGNE-SUR-MER\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg
-  Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navi
- gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
- ps://competitions.ffbb.com/competitions/nm1/match/200000014597068
-LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597068
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-05-20-00-loon-plage-lyonso-basket-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270205T200000
 DTEND;TZID=Europe/Paris:20270205T220000
 SUMMARY:LOON PLAGE – LYONSO BASKET - 1
@@ -2028,9 +1991,23 @@ LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597065
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-05-20-00-mulhouse-boulogne-sur-mer@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270205T200000
+DTEND;TZID=Europe/Paris:20270205T220000
+SUMMARY:MULHOUSE – BOULOGNE-SUR-MER
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs BOULOGNE-SUR-MER\n\nPA
+ LAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n🚗
+  Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nm1/match/200000014597068
+LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597068
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-05-20-00-charleville-mezieres-val-de-seine@ffbb-age
  nda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270205T200000
 DTEND;TZID=Europe/Paris:20270205T220000
 SUMMARY:CHARLEVILLE-MEZIERES – VAL DE SEINE
@@ -2045,7 +2022,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597066
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-05-20-00-besancon-sasp-bc-orchies@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270205T200000
 DTEND;TZID=Europe/Paris:20270205T220000
 SUMMARY:BESANCON – SASP BC ORCHIES
@@ -2060,7 +2037,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-05-20-30-saint-vallier-basket-dra-me-1-salon-de-pro
  vence-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270205T203000
 DTEND;TZID=Europe/Paris:20270205T223000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – SALON-DE-PROVENCE - 1
@@ -2074,7 +2051,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597064
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-06-20-00-scabb-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:SCABB – BERCK - 1
@@ -2088,84 +2065,9 @@ LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597062
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-12-20-00-val-de-seine-loon-plage@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270212T200000
-DTEND;TZID=Europe/Paris:20270212T220000
-SUMMARY:VAL DE SEINE – LOON PLAGE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs LOON PLAGE\n\nGYMN
- ASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 Waze :
-  https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitres : P
- as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
- mpetitions/nm1/match/200000014597076
-LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597076
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-12-20-00-boulogne-sur-mer-sasp-bc-orchies@ffbb-agen
- da
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270212T200000
-DTEND;TZID=Europe/Paris:20270212T220000
-SUMMARY:BOULOGNE-SUR-MER – SASP BC ORCHIES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs SASP BC ORCHIE
- S\n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer
-  62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/competitions/nm1/match/200000014597081
-LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
- 62200
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597081
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-12-20-00-salon-de-provence-1-mulhouse-basket-agglom
- eration@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270212T200000
-DTEND;TZID=Europe/Paris:20270212T220000
-SUMMARY:SALON-DE-PROVENCE - 1 – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs MULHOUSE 
- BASKET AGGLOMERATION\n\nHALLE DES SPORTS SAINT COME\n📍 Boulevard de l'E
- urope Salon-de-Provence 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615
- \,5.10302&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
- lle FFBB : https://competitions.ffbb.com/competitions/nm1/match/2000000145
- 97078
-LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
- nce 13300
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597078
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-12-20-00-berck-1-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270212T200000
-DTEND;TZID=Europe/Paris:20270212T220000
-SUMMARY:BERCK - 1 – BESANCON
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs BESANCON\n\nPALAIS DE
- S SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : https://waz
- e.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de désig
- nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
- m1/match/200000014597080
-LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597080
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-12-20-00-pa-le-france-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270212T200000
-DTEND;TZID=Europe/Paris:20270212T220000
-SUMMARY:PÃLE FRANCE – SCABB
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs SCABB\n\nINSEP C
- .S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗 Waze : ht
- tps://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbitres : Pas
-  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
- etitions/nm1/match/200000014597079
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597079
-END:VEVENT
-BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-12-20-00-lyonso-basket-1-charleville-mezieres@ffbb-
  agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270212T200000
 DTEND;TZID=Europe/Paris:20270212T220000
 SUMMARY:LYONSO BASKET - 1 – CHARLEVILLE-MEZIERES
@@ -2179,22 +2081,81 @@ LOCATION:HALLE PAUL BERT - LA CANOPEE\, Rue Charles de Gaulle Oullins-Pierr
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597077
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-16-20-00-besancon-pa-le-france@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270216T200000
-DTEND;TZID=Europe/Paris:20270216T220000
-SUMMARY:BESANCON – PÃLE FRANCE
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs PÃLE FRANCE\n\nPALA
- IS DES SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 25000\n🚗 Waze : 
- https://waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n📢 Arbitres : P
+UID:nm1-poule-a-2027-02-12-20-00-boulogne-sur-mer-sasp-bc-orchies@ffbb-agen
+ da
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:BOULOGNE-SUR-MER – SASP BC ORCHIES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BOULOGNE-SUR-MER vs SASP BC ORCHIE
+ S\n\nPALAIS DES SPORTS DAMREMONT\n📍 Place LÃ©on Blum Boulogne-sur-Mer
+  62200\n🚗 Waze : https://waze.com/ul?ll=50.71665\,1.60358&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nm1/match/200000014597081
+LOCATION:PALAIS DES SPORTS DAMREMONT\, Place LÃ©on Blum Boulogne-sur-Mer 
+ 62200
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597081
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-12-20-00-salon-de-provence-1-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:SALON-DE-PROVENCE - 1 – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs MULHOUSE\
+ n\nHALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Proven
+ ce 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm1/match/200000014597078
+LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
+ nce 13300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597078
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-12-20-00-berck-1-besancon@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:BERCK - 1 – BESANCON
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs BESANCON\n\nPALAIS DE
+ S SPORTS\n📍 Rue Ãmile Lavezzari Berck 62600\n🚗 Waze : https://waz
+ e.com/ul?ll=50.40323\,1.5726&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/n
+ m1/match/200000014597080
+LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597080
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-12-20-00-pa-le-france-scabb@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:PÃLE FRANCE – SCABB
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs SCABB\n\nINSEP C
+ .S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nm1/match/200000014597079
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597079
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-12-20-00-val-de-seine-loon-plage@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270212T200000
+DTEND;TZID=Europe/Paris:20270212T220000
+SUMMARY:VAL DE SEINE – LOON PLAGE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs LOON PLAGE\n\nGYMN
+ ASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 Waze :
+  https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitres : P
  as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
- mpetitions/nm1/match/200000014597091
-LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597091
+ mpetitions/nm1/match/200000014597076
+LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597076
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-16-20-00-sasp-bc-orchies-berck-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270216T200000
 DTEND;TZID=Europe/Paris:20270216T220000
 SUMMARY:SASP BC ORCHIES – BERCK - 1
@@ -2208,7 +2169,7 @@ URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597090
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-16-20-00-scabb-salon-de-provence-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270216T200000
 DTEND;TZID=Europe/Paris:20270216T220000
 SUMMARY:SCABB – SALON-DE-PROVENCE - 1
@@ -2222,24 +2183,23 @@ LOCATION:PALAIS DES SPORTS\, Rue des Bullieux AndrÃ©zieux-BouthÃ©on 421
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597092
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-16-20-00-mulhouse-basket-agglomeration-lyonso-baske
- t-1@ffbb-agenda
-DTSTAMP:20260916T001212Z
+UID:nm1-poule-a-2027-02-16-20-00-mulhouse-lyonso-basket-1@ffbb-agenda
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270216T200000
 DTEND;TZID=Europe/Paris:20270216T220000
-SUMMARY:MULHOUSE BASKET AGGLOMERATION – LYONSO BASKET - 1
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE BASKET AGGLOMERATION vs L
- YONSO BASKET - 1\n\nPALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illber
- g Mulhouse 68200\n🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/competitions/nm1/match/200000014597093
+SUMMARY:MULHOUSE – LYONSO BASKET - 1
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ MULHOUSE vs LYONSO BASKET - 1\n\nP
+ ALAIS DES SPORTS (GRANDE SALLE)\n📍 Rue de l'Illberg Mulhouse 68200\n
+ 🚗 Waze : https://waze.com/ul?ll=47.73904\,7.31853&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nm1/match/200000014597093
 LOCATION:PALAIS DES SPORTS (GRANDE SALLE)\, Rue de l'Illberg Mulhouse 68200
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597093
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-16-20-00-saint-vallier-basket-dra-me-1-val-de-seine
  @ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270216T200000
 DTEND;TZID=Europe/Paris:20270216T220000
 SUMMARY:SAINT-VALLIER BASKET DRÃME - 1 – VAL DE SEINE
@@ -2254,7 +2214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-16-20-00-charleville-mezieres-boulogne-sur-mer@ffbb
  -agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270216T200000
 DTEND;TZID=Europe/Paris:20270216T220000
 SUMMARY:CHARLEVILLE-MEZIERES – BOULOGNE-SUR-MER
@@ -2268,52 +2228,22 @@ LOCATION:Guinguette Arena\, Rue de la Vieille Meuse Charleville-MÃ©ziÃ¨
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597096
 END:VEVENT
 BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-19-20-00-val-de-seine-mulhouse-basket-agglomeration
- @ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270219T200000
-DTEND;TZID=Europe/Paris:20270219T220000
-SUMMARY:VAL DE SEINE – MULHOUSE BASKET AGGLOMERATION
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs MULHOUSE BASKET AG
- GLOMERATION\n\nGYMNASE GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon
-  92360\n🚗 Waze : https://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/competitions/nm1/match/200000014597106
-LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597106
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-19-20-00-pa-le-france-sasp-bc-orchies@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270219T200000
-DTEND;TZID=Europe/Paris:20270219T220000
-SUMMARY:PÃLE FRANCE – SASP BC ORCHIES
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs SASP BC ORCHIES\
- n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗
-  Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbi
- tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
- b.com/competitions/nm1/match/200000014597109
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597109
-END:VEVENT
-BEGIN:VEVENT
-UID:nm1-poule-a-2027-02-19-20-00-salon-de-provence-1-besancon@ffbb-agenda
-DTSTAMP:20260916T001212Z
-DTSTART;TZID=Europe/Paris:20270219T200000
-DTEND;TZID=Europe/Paris:20270219T220000
-SUMMARY:SALON-DE-PROVENCE - 1 – BESANCON
-DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs BESANCON\
- n\nHALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Proven
- ce 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigate=ye
- s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
- mpetitions.ffbb.com/competitions/nm1/match/200000014597108
-LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
- nce 13300
-URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597108
+UID:nm1-poule-a-2027-02-16-20-00-besancon-pa-le-france@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270216T200000
+DTEND;TZID=Europe/Paris:20270216T220000
+SUMMARY:BESANCON – PÃLE FRANCE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BESANCON vs PÃLE FRANCE\n\nPALA
+ IS DES SPORTS\n📍 Avenue LÃ©o Lagrange BesanÃ§on 25000\n🚗 Waze : 
+ https://waze.com/ul?ll=47.24505\,5.99788&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/co
+ mpetitions/nm1/match/200000014597091
+LOCATION:PALAIS DES SPORTS\, Avenue LÃ©o Lagrange BesanÃ§on 25000
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597091
 END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-19-20-00-lyonso-basket-1-scabb@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270219T200000
 DTEND;TZID=Europe/Paris:20270219T220000
 SUMMARY:LYONSO BASKET - 1 – SCABB
@@ -2329,7 +2259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-19-20-00-loon-plage-saint-vallier-basket-dra-me-1@f
  fbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270219T200000
 DTEND;TZID=Europe/Paris:20270219T220000
 SUMMARY:LOON PLAGE – SAINT-VALLIER BASKET DRÃME - 1
@@ -2342,8 +2272,22 @@ LOCATION:LÃ©o LAGRANGE\, Rue du Stade Loon-Plage 59279
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597104
 END:VEVENT
 BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-19-20-00-pa-le-france-sasp-bc-orchies@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:PÃLE FRANCE – SASP BC ORCHIES
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ PÃLE FRANCE vs SASP BC ORCHIES\
+ n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Paris 75012\n🚗
+  Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/competitions/nm1/match/200000014597109
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597109
+END:VEVENT
+BEGIN:VEVENT
 UID:nm1-poule-a-2027-02-19-20-00-berck-1-boulogne-sur-mer@ffbb-agenda
-DTSTAMP:20260916T001212Z
+DTSTAMP:20260916T235445Z
 DTSTART;TZID=Europe/Paris:20270219T200000
 DTEND;TZID=Europe/Paris:20270219T220000
 SUMMARY:BERCK - 1 – BOULOGNE-SUR-MER
@@ -2354,5 +2298,34 @@ DESCRIPTION:🏀 NM1 – Poule A\n⚔️ BERCK - 1 vs BOULOGNE-SUR-MER\n\nP
  itions/nm1/match/200000014597110
 LOCATION:PALAIS DES SPORTS\, Rue Ãmile Lavezzari Berck 62600
 URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597110
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-19-20-00-val-de-seine-mulhouse@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:VAL DE SEINE – MULHOUSE
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ VAL DE SEINE vs MULHOUSE\n\nGYMNAS
+ E GUIMIER\n📍 Route du Pavillon de l'AbbÃ© Meudon 92360\n🚗 Waze : h
+ ttps://waze.com/ul?ll=48.80867\,2.2189&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/comp
+ etitions/nm1/match/200000014597106
+LOCATION:GYMNASE GUIMIER\, Route du Pavillon de l'AbbÃ© Meudon 92360
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597106
+END:VEVENT
+BEGIN:VEVENT
+UID:nm1-poule-a-2027-02-19-20-00-salon-de-provence-1-besancon@ffbb-agenda
+DTSTAMP:20260916T235445Z
+DTSTART;TZID=Europe/Paris:20270219T200000
+DTEND;TZID=Europe/Paris:20270219T220000
+SUMMARY:SALON-DE-PROVENCE - 1 – BESANCON
+DESCRIPTION:🏀 NM1 – Poule A\n⚔️ SALON-DE-PROVENCE - 1 vs BESANCON\
+ n\nHALLE DES SPORTS SAINT COME\n📍 Boulevard de l'Europe Salon-de-Proven
+ ce 13300\n🚗 Waze : https://waze.com/ul?ll=43.64615\,5.10302&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nm1/match/200000014597108
+LOCATION:HALLE DES SPORTS SAINT COME\, Boulevard de l'Europe Salon-de-Prove
+ nce 13300
+URL:https://competitions.ffbb.com/competitions/nm1/match/200000014597108
 END:VEVENT
 END:VCALENDAR

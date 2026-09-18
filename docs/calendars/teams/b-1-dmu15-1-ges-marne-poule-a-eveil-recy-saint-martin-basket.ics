@@ -24,11 +24,31 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b-1-dmu15-1-ges-marne-poule-a-2026-09-19-00-00-eveil-recy-saint-martin-
+UID:b-1-dmu15-1-ges-marne-poule-a-2026-09-19-13-00-eveil-recy-saint-martin-
+ basket-ie@ffbb-agenda
+DTSTAMP:20260918T020120Z
+DTSTART;TZID=Europe/Paris:20260919T130000
+DTEND;TZID=Europe/Paris:20260919T150000
+SUMMARY:🏠 EVEIL RECY SAINT MARTIN BASKET – IE - CHALONS SARRY BASKET (
+ CSB)
+DESCRIPTION:🏀 B-1-DMU15-1 – GES – Marne – Poule A\n⚔️ EVEIL RE
+ CY SAINT MARTIN BASKET vs IE - CHALONS SARRY BASKET (CSB)\n\nGYMNASE J.F K
+ IEZER\n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Que
+ ntin CELLIER\, Florian PICARD\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/comites/0051/competitions/b-1-dmu15-1/match/2000000146
+ 86716
+LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
+ dmu15-1/match/200000014686716
+END:VEVENT
+BEGIN:VEVENT
+UID:b-1-dmu15-1-ges-marne-poule-a-2026-09-19-14-00-eveil-recy-saint-martin-
  basket-ga@ffbb-agenda
-DTSTAMP:20260917T015202Z
-DTSTART;TZID=Europe/Paris:20260919T000000
-DTEND;TZID=Europe/Paris:20260919T020000
+DTSTAMP:20260918T020120Z
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T160000
 SUMMARY:🏠 EVEIL RECY SAINT MARTIN BASKET – GAULOISE DE VITRY LE FRANCO
  IS
 DESCRIPTION:🏀 B-1-DMU15-1 – GES – Marne – Poule A\n⚔️ EVEIL RE
@@ -41,23 +61,5 @@ LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
  0
 URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
  dmu15-1/match/200000014686717
-END:VEVENT
-BEGIN:VEVENT
-UID:b-1-dmu15-1-ges-marne-poule-a-2026-09-19-00-00-union-sportive-de-sezann
- e-eveil-r@ffbb-agenda
-DTSTAMP:20260917T015202Z
-DTSTART;TZID=Europe/Paris:20260919T000000
-DTEND;TZID=Europe/Paris:20260919T020000
-SUMMARY:✈️ UNION SPORTIVE DE SEZANNE – EVEIL RECY SAINT MARTIN BASKET
-DESCRIPTION:🏀 B-1-DMU15-1 – GES – Marne – Poule A\n⚔️ UNION SP
- ORTIVE DE SEZANNE vs EVEIL RECY SAINT MARTIN BASKET\n\nGYMNASE J.F KIEZER\
- n📍 Avenue des Alliés Châlons-en-Champagne 51000\n🚗 Waze : https://
- waze.com/ul?ll=48.94049\,4.38047&navigate=yes\n\n📢 Arbitres : Pas de d
- ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
- s/comites/0051/competitions/b-1-dmu15-1/match/200000014686715
-LOCATION:GYMNASE J.F KIEZER\, Avenue des Alliés Châlons-en-Champagne 5100
- 0
-URL:https://competitions.ffbb.com/ligues/ges/comites/0051/competitions/b-1-
- dmu15-1/match/200000014686715
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – SL RAMBERVILLERS  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de SL RAMBERVILLERS – DMU13 – GES – Vosges – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-10-10-14-00-sl-rambervillers-saint-die-vo
+ sges-bask@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 SL RAMBERVILLERS – SAINT DIE VOSGES BASKET
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ SL RAMBERVILL
+ ERS vs SAINT DIE VOSGES BASKET\n\nCOSEC (SALLE 1)\n📍 Rue de Métendal R
+ ambervillers 88700\n🚗 Waze : https://waze.com/ul?ll=48.3585\,6.6523&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu13/mat
+ ch/200000014781329
+LOCATION:COSEC (SALLE 1)\, Rue de Métendal Rambervillers 88700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781329
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-11-07-14-00-ensemble-basket-remiremont-le
+ -thillot-@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ ENSEMBLE BASKET REMIREMONT LE THILLOT – SL RAMBERVILLERS
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ ENSEMBLE BASK
+ ET REMIREMONT LE THILLOT vs SL RAMBERVILLERS\n\nGYMNASE DU TERTRE\n📍 Ru
+ e du Tertre Remiremont 88200\n🚗 Waze : https://waze.com/ul?ll=48.01873\
+ ,6.591&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/competitions
+ /dmu13/match/200000014781337
+LOCATION:GYMNASE DU TERTRE\, Rue du Tertre Remiremont 88200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781337
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-11-14-14-00-sl-rambervillers-entente-gran
+ ges-gerar@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 SL RAMBERVILLERS – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ SL RAMBERVILL
+ ERS vs ENTENTE GRANGES GERARDMER\n\nCOSEC (SALLE 1)\n📍 Rue de Métendal
+  Rambervillers 88700\n🚗 Waze : https://waze.com/ul?ll=48.3585\,6.6523&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu13/m
+ atch/200000014781343
+LOCATION:COSEC (SALLE 1)\, Rue de Métendal Rambervillers 88700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781343
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-11-28-14-00-entente-saint-ame-la-bresse-s
+ l-ramberv@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:✈️ ENTENTE SAINT AME - LA BRESSE – SL RAMBERVILLERS
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ ENTENTE SAINT
+  AME - LA BRESSE vs SL RAMBERVILLERS\n\nGYMNASE PIERRE ET PAUL DIDIER\n
+ 📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=48
+ .07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/dmu13/match/200000014781351
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781351
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-12-12-14-00-basket-club-sainte-marguerite
+ -sl-rambe@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ BASKET CLUB SAINTE MARGUERITE – SL RAMBERVILLERS
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ BASKET CLUB S
+ AINTE MARGUERITE vs SL RAMBERVILLERS\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0088/competitions/dmu13/match/200000014781357
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781357
+END:VEVENT
+END:VCALENDAR

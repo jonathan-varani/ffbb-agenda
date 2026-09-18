@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ENTENTE SAINT AME - LA BRESSE  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de ENTENTE SAINT AME - LA BRESSE – DMU13 – GES – Vosges – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-10-10-14-00-entente-saint-ame-la-bresse-e
+ ntente-gr@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 ENTENTE SAINT AME - LA BRESSE – ENTENTE GRANGES GERARDMER
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ ENTENTE SAINT
+  AME - LA BRESSE vs ENTENTE GRANGES GERARDMER\n\nGYMNASE PIERRE ET PAUL DI
+ DIER\n📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul
+ ?ll=48.07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 88/competitions/dmu13/match/200000014781331
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781331
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-11-07-14-00-saint-die-vosges-basket-enten
+ te-saint-@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ SAINT DIE VOSGES BASKET – ENTENTE SAINT AME - LA BRESSE
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ SAINT DIE VOS
+ GES BASKET vs ENTENTE SAINT AME - LA BRESSE\n\nPALAIS OMNISP. J. CLAUDEL S
+ . 1\n📍 Rue du 12ème R.A. Prolongée Saint-Dié-des-Vosges 88100\n🚗 
+ Waze : https://waze.com/ul?ll=48.28424\,6.96799&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0088/competitions/dmu13/match/200000014781338
+LOCATION:PALAIS OMNISP. J. CLAUDEL S. 1\, Rue du 12ème R.A. Prolongée Sai
+ nt-Dié-des-Vosges 88100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781338
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-11-14-14-00-entente-saint-ame-la-bresse-b
+ asket-clu@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:🏠 ENTENTE SAINT AME - LA BRESSE – BASKET CLUB SAINTE MARGUERIT
+ E
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ ENTENTE SAINT
+  AME - LA BRESSE vs BASKET CLUB SAINTE MARGUERITE\n\nGYMNASE PIERRE ET PAU
+ L DIDIER\n📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.co
+ m/ul?ll=48.07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0088/competitions/dmu13/match/200000014781344
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781344
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-11-28-14-00-entente-saint-ame-la-bresse-s
+ l-ramberv@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 ENTENTE SAINT AME - LA BRESSE – SL RAMBERVILLERS
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ ENTENTE SAINT
+  AME - LA BRESSE vs SL RAMBERVILLERS\n\nGYMNASE PIERRE ET PAUL DIDIER\n
+ 📍 Rue du Levant Gérardmer 88400\n🚗 Waze : https://waze.com/ul?ll=48
+ .07245\,6.88185&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088/
+ competitions/dmu13/match/200000014781351
+LOCATION:GYMNASE PIERRE ET PAUL DIDIER\, Rue du Levant Gérardmer 88400
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781351
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-vosges-poule-b-2026-12-12-14-00-ensemble-basket-remiremont-le
+ -thillot-@ffbb-agenda
+DTSTAMP:20260918T021941Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ ENSEMBLE BASKET REMIREMONT LE THILLOT – ENTENTE SAINT AME 
+ - LA BRESSE
+DESCRIPTION:🏀 DMU13 – GES – Vosges – Poule B\n⚔️ ENSEMBLE BASK
+ ET REMIREMONT LE THILLOT vs ENTENTE SAINT AME - LA BRESSE\n\nGYMNASE DU TE
+ RTRE\n📍 Rue du Tertre Remiremont 88200\n🚗 Waze : https://waze.com/ul
+ ?ll=48.01873\,6.591&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0088
+ /competitions/dmu13/match/200000014781358
+LOCATION:GYMNASE DU TERTRE\, Rue du Tertre Remiremont 88200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0088/competitions/dmu1
+ 3/match/200000014781358
+END:VEVENT
+END:VCALENDAR

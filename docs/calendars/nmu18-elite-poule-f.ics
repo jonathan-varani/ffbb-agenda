@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:nmu18-elite-poule-f-2026-09-13-15-30-sasp-ada-blois-basket-tours-metrop
- ole-baske@ffbb-agenda
-DTSTAMP:20260918T000119Z
-DTSTART;TZID=Europe/Paris:20260913T153000
-DTEND;TZID=Europe/Paris:20260913T173000
-SUMMARY:SASP ADA BLOIS BASKET – TOURS METROPOLE BASKET PLLL (91-72)
-DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ SASP ADA BLOIS BASKET vs T
- OURS METROPOLE BASKET PLLL\n📊 Score : 91-72\n\nCentre VSF sports\n📍 
- Boulevard de l'Industrie Blois 41000\n🚗 Waze : https://waze.com/ul?ll=4
- 7.60446\,1.32507&navigate=yes\n\n📢 Arbitres : Baptiste MARNIER\, Alexan
- dre TURLET\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitio
- ns/nmu18-elite/match/200000014603185
-LOCATION:Centre VSF sports\, Boulevard de l'Industrie Blois 41000
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03185
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-09-13-15-30-rouen-metropole-basket-le-mans-scm
  @ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20260913T153000
 DTEND;TZID=Europe/Paris:20260913T173000
 SUMMARY:ROUEN METROPOLE BASKET – LE MANS SCM (58-112)
@@ -60,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-09-13-15-30-orleans-loiret-basket-association-
  alm-evreu@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20260913T153000
 DTEND;TZID=Europe/Paris:20260913T173000
 SUMMARY:ORLEANS LOIRET BASKET ASSOCIATION – ALM EVREUX BASKET - 1 (70-65)
@@ -76,9 +59,42 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03183
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-09-13-15-30-sasp-ada-blois-basket-tours-metrop
+ ole-baske@ffbb-agenda
+DTSTAMP:20260918T234522Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:SASP ADA BLOIS BASKET – TOURS METROPOLE BASKET PLLL (91-72)
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ SASP ADA BLOIS BASKET vs T
+ OURS METROPOLE BASKET PLLL\n📊 Score : 91-72\n\nCentre VSF sports\n📍 
+ Boulevard de l'Industrie Blois 41000\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.60446\,1.32507&navigate=yes\n\n📢 Arbitres : Baptiste MARNIER\, Alexan
+ dre TURLET\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitio
+ ns/nmu18-elite/match/200000014603185
+LOCATION:Centre VSF sports\, Boulevard de l'Industrie Blois 41000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03185
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-09-20-15-30-tours-metropole-basket-plll-rouen-
+ metropole@ffbb-agenda
+DTSTAMP:20260918T234522Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:TOURS METROPOLE BASKET PLLL – ROUEN METROPOLE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ TOURS METROPOLE BASKET PLL
+ L vs ROUEN METROPOLE BASKET\n\nGYMNASE DABILLY\n📍 Rue Dabilly Tours 370
+ 00\n🚗 Waze : https://waze.com/ul?ll=47.39269\,0.67486&navigate=yes\n\n
+ 📢 Arbitres : Antoine SAMSON\, Mathis CHOLET\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603215
+LOCATION:GYMNASE DABILLY\, Rue Dabilly Tours 37000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03215
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-09-20-15-30-alm-evreux-basket-1-sasp-ada-blois
  -basket@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
 SUMMARY:ALM EVREUX BASKET - 1 – SASP ADA BLOIS BASKET
@@ -94,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-09-20-15-30-le-mans-scm-orleans-loiret-basket-
  associati@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
 SUMMARY:LE MANS SCM – ORLEANS LOIRET BASKET ASSOCIATION
@@ -109,25 +125,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03213
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-f-2026-09-20-15-30-tours-metropole-basket-plll-rouen-
- metropole@ffbb-agenda
-DTSTAMP:20260918T000119Z
-DTSTART;TZID=Europe/Paris:20260920T153000
-DTEND;TZID=Europe/Paris:20260920T173000
-SUMMARY:TOURS METROPOLE BASKET PLLL – ROUEN METROPOLE BASKET
-DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ TOURS METROPOLE BASKET PLL
- L vs ROUEN METROPOLE BASKET\n\nGYMNASE DABILLY\n📍 Rue Dabilly Tours 370
- 00\n🚗 Waze : https://waze.com/ul?ll=47.39269\,0.67486&navigate=yes\n\n
- 📢 Arbitres : Antoine SAMSON\, Mathis CHOLET\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603215
-LOCATION:GYMNASE DABILLY\, Rue Dabilly Tours 37000
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03215
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-09-27-15-30-rouen-metropole-basket-sasp-ada-bl
  ois-baske@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20260927T153000
 DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:ROUEN METROPOLE BASKET – SASP ADA BLOIS BASKET
@@ -144,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-09-27-15-30-orleans-loiret-basket-association-
  tours-met@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20260927T153000
 DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:ORLEANS LOIRET BASKET ASSOCIATION – TOURS METROPOLE BASKET PLLL
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-09-27-15-30-le-mans-scm-alm-evreux-basket-1@ff
  bb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20260927T153000
 DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:LE MANS SCM – ALM EVREUX BASKET - 1
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-10-04-15-30-tours-metropole-basket-plll-le-man
  s-scm@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261004T153000
 DTEND;TZID=Europe/Paris:20261004T173000
 SUMMARY:TOURS METROPOLE BASKET PLLL – LE MANS SCM
@@ -193,9 +193,25 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03275
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-10-04-15-30-alm-evreux-basket-1-rouen-metropol
+ e-basket@ffbb-agenda
+DTSTAMP:20260918T234522Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:ALM EVREUX BASKET - 1 – ROUEN METROPOLE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ALM EVREUX BASKET - 1 vs R
+ OUEN METROPOLE BASKET\n\nSALLE JEAN MOULIN\n📍 Rue Jean Moulin Ãvreux
+  27000\n🚗 Waze : https://waze.com/ul?ll=49.01375\,1.1524&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu18-elite/match/200000014603274
+LOCATION:SALLE JEAN MOULIN\, Rue Jean Moulin Ãvreux 27000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03274
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-10-04-15-30-sasp-ada-blois-basket-orleans-loir
  et-basket@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261004T153000
 DTEND;TZID=Europe/Paris:20261004T173000
 SUMMARY:SASP ADA BLOIS BASKET – ORLEANS LOIRET BASKET ASSOCIATION
@@ -210,25 +226,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03273
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-f-2026-10-04-15-30-alm-evreux-basket-1-rouen-metropol
- e-basket@ffbb-agenda
-DTSTAMP:20260918T000119Z
-DTSTART;TZID=Europe/Paris:20261004T153000
-DTEND;TZID=Europe/Paris:20261004T173000
-SUMMARY:ALM EVREUX BASKET - 1 – ROUEN METROPOLE BASKET
-DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ALM EVREUX BASKET - 1 vs R
- OUEN METROPOLE BASKET\n\nSALLE JEAN MOULIN\n📍 Rue Jean Moulin Ãvreux
-  27000\n🚗 Waze : https://waze.com/ul?ll=49.01375\,1.1524&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/competitions/nmu18-elite/match/200000014603274
-LOCATION:SALLE JEAN MOULIN\, Rue Jean Moulin Ãvreux 27000
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03274
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-10-11-14-00-alm-evreux-basket-1-tours-metropol
  e-basket-@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261011T140000
 DTEND;TZID=Europe/Paris:20261011T160000
 SUMMARY:ALM EVREUX BASKET - 1 – TOURS METROPOLE BASKET PLLL
@@ -242,9 +242,25 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03304
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-10-11-15-30-le-mans-scm-sasp-ada-blois-basket@
+ ffbb-agenda
+DTSTAMP:20260918T234522Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:LE MANS SCM – SASP ADA BLOIS BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ LE MANS SCM vs SASP ADA BL
+ OIS BASKET\n\nROBERT JARRY\n📍 Boulevard Louis Leprince Ringuet Le Mans 
+ 72000\n🚗 Waze : https://waze.com/ul?ll=48.01734\,0.14684&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nmu18-elite/match/200000014603305
+LOCATION:ROBERT JARRY\, Boulevard Louis Leprince Ringuet Le Mans 72000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03305
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-10-11-15-30-orleans-loiret-basket-association-
  rouen-met@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261011T153000
 DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:ORLEANS LOIRET BASKET ASSOCIATION – ROUEN METROPOLE BASKET
@@ -259,25 +275,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03303
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-f-2026-10-11-15-30-le-mans-scm-sasp-ada-blois-basket@
- ffbb-agenda
-DTSTAMP:20260918T000119Z
-DTSTART;TZID=Europe/Paris:20261011T153000
-DTEND;TZID=Europe/Paris:20261011T173000
-SUMMARY:LE MANS SCM – SASP ADA BLOIS BASKET
-DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ LE MANS SCM vs SASP ADA BL
- OIS BASKET\n\nROBERT JARRY\n📍 Boulevard Louis Leprince Ringuet Le Mans 
- 72000\n🚗 Waze : https://waze.com/ul?ll=48.01734\,0.14684&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/competitions/nmu18-elite/match/200000014603305
-LOCATION:ROBERT JARRY\, Boulevard Louis Leprince Ringuet Le Mans 72000
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03305
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-11-01-15-30-alm-evreux-basket-1-orleans-loiret
  -basket-a@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261101T153000
 DTEND;TZID=Europe/Paris:20261101T173000
 SUMMARY:ALM EVREUX BASKET - 1 – ORLEANS LOIRET BASKET ASSOCIATION
@@ -291,25 +291,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03333
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-f-2026-11-01-15-30-le-mans-scm-rouen-metropole-basket
- @ffbb-agenda
-DTSTAMP:20260918T000119Z
-DTSTART;TZID=Europe/Paris:20261101T153000
-DTEND;TZID=Europe/Paris:20261101T173000
-SUMMARY:LE MANS SCM – ROUEN METROPOLE BASKET
-DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ LE MANS SCM vs ROUEN METRO
- POLE BASKET\n\nROBERT JARRY\n📍 Boulevard Louis Leprince Ringuet Le Mans
-  72000\n🚗 Waze : https://waze.com/ul?ll=48.01734\,0.14684&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/competitions/nmu18-elite/match/200000014603334
-LOCATION:ROBERT JARRY\, Boulevard Louis Leprince Ringuet Le Mans 72000
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03334
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-11-01-15-30-tours-metropole-basket-plll-sasp-a
  da-blois-@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261101T153000
 DTEND;TZID=Europe/Paris:20261101T173000
 SUMMARY:TOURS METROPOLE BASKET PLLL – SASP ADA BLOIS BASKET
@@ -323,26 +307,25 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03335
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-f-2026-11-08-15-30-orleans-loiret-basket-association-
- le-mans-s@ffbb-agenda
-DTSTAMP:20260918T000119Z
-DTSTART;TZID=Europe/Paris:20261108T153000
-DTEND;TZID=Europe/Paris:20261108T173000
-SUMMARY:ORLEANS LOIRET BASKET ASSOCIATION – LE MANS SCM
-DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ORLEANS LOIRET BASKET ASSO
- CIATION vs LE MANS SCM\n\nGYMNASE DE L'ARGONAUTE\n📍 Boulevard Marie Stu
- art OrlÃ©ans 45000\n🚗 Waze : https://waze.com/ul?ll=47.91119\,1.93115
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460
- 3363
-LOCATION:GYMNASE DE L'ARGONAUTE\, Boulevard Marie Stuart OrlÃ©ans 45000
+UID:nmu18-elite-poule-f-2026-11-01-15-30-le-mans-scm-rouen-metropole-basket
+ @ffbb-agenda
+DTSTAMP:20260918T234522Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:LE MANS SCM – ROUEN METROPOLE BASKET
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ LE MANS SCM vs ROUEN METRO
+ POLE BASKET\n\nROBERT JARRY\n📍 Boulevard Louis Leprince Ringuet Le Mans
+  72000\n🚗 Waze : https://waze.com/ul?ll=48.01734\,0.14684&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nmu18-elite/match/200000014603334
+LOCATION:ROBERT JARRY\, Boulevard Louis Leprince Ringuet Le Mans 72000
 URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03363
+ 03334
 END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-11-08-15-30-sasp-ada-blois-basket-alm-evreux-b
  asket-1@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:SASP ADA BLOIS BASKET – ALM EVREUX BASKET - 1
@@ -358,7 +341,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-11-08-15-30-rouen-metropole-basket-tours-metro
  pole-bask@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:ROUEN METROPOLE BASKET – TOURS METROPOLE BASKET PLLL
@@ -372,9 +355,26 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03365
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-11-08-15-30-orleans-loiret-basket-association-
+ le-mans-s@ffbb-agenda
+DTSTAMP:20260918T234522Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:ORLEANS LOIRET BASKET ASSOCIATION – LE MANS SCM
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ORLEANS LOIRET BASKET ASSO
+ CIATION vs LE MANS SCM\n\nGYMNASE DE L'ARGONAUTE\n📍 Boulevard Marie Stu
+ art OrlÃ©ans 45000\n🚗 Waze : https://waze.com/ul?ll=47.91119\,1.93115
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460
+ 3363
+LOCATION:GYMNASE DE L'ARGONAUTE\, Boulevard Marie Stuart OrlÃ©ans 45000
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03363
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-11-15-14-00-alm-evreux-basket-1-le-mans-scm@ff
  bb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261115T140000
 DTEND;TZID=Europe/Paris:20261115T160000
 SUMMARY:ALM EVREUX BASKET - 1 – LE MANS SCM
@@ -390,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-11-15-15-30-tours-metropole-basket-plll-orlean
  s-loiret-@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:TOURS METROPOLE BASKET PLLL – ORLEANS LOIRET BASKET ASSOCIATION
@@ -406,7 +406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-11-15-15-30-sasp-ada-blois-basket-rouen-metrop
  ole-baske@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:SASP ADA BLOIS BASKET – ROUEN METROPOLE BASKET
@@ -420,25 +420,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03393
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-f-2026-11-29-15-30-rouen-metropole-basket-alm-evreux-
- basket-1@ffbb-agenda
-DTSTAMP:20260918T000119Z
-DTSTART;TZID=Europe/Paris:20261129T153000
-DTEND;TZID=Europe/Paris:20261129T173000
-SUMMARY:ROUEN METROPOLE BASKET – ALM EVREUX BASKET - 1
-DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ROUEN METROPOLE BASKET vs 
- ALM EVREUX BASKET - 1\n\nSALLE DES COTONNIERS\n📍 Place des Cotonniers R
- ouen 76100\n🚗 Waze : https://waze.com/ul?ll=49.43093\,1.08174&navigate=
- yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
- competitions.ffbb.com/competitions/nmu18-elite/match/200000014603424
-LOCATION:SALLE DES COTONNIERS\, Place des Cotonniers Rouen 76100
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03424
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-11-29-15-30-orleans-loiret-basket-association-
  sasp-ada-@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261129T153000
 DTEND;TZID=Europe/Paris:20261129T173000
 SUMMARY:ORLEANS LOIRET BASKET ASSOCIATION – SASP ADA BLOIS BASKET
@@ -456,7 +440,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-11-29-15-30-le-mans-scm-tours-metropole-basket
  -plll@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261129T153000
 DTEND;TZID=Europe/Paris:20261129T173000
 SUMMARY:LE MANS SCM – TOURS METROPOLE BASKET PLLL
@@ -470,9 +454,25 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03425
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-f-2026-11-29-15-30-rouen-metropole-basket-alm-evreux-
+ basket-1@ffbb-agenda
+DTSTAMP:20260918T234522Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:ROUEN METROPOLE BASKET – ALM EVREUX BASKET - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule F\n⚔️ ROUEN METROPOLE BASKET vs 
+ ALM EVREUX BASKET - 1\n\nSALLE DES COTONNIERS\n📍 Place des Cotonniers R
+ ouen 76100\n🚗 Waze : https://waze.com/ul?ll=49.43093\,1.08174&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nmu18-elite/match/200000014603424
+LOCATION:SALLE DES COTONNIERS\, Place des Cotonniers Rouen 76100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03424
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-12-06-15-30-sasp-ada-blois-basket-le-mans-scm@
  ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261206T153000
 DTEND;TZID=Europe/Paris:20261206T173000
 SUMMARY:SASP ADA BLOIS BASKET – LE MANS SCM
@@ -488,7 +488,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-12-06-15-30-tours-metropole-basket-plll-alm-ev
  reux-bask@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261206T153000
 DTEND;TZID=Europe/Paris:20261206T173000
 SUMMARY:TOURS METROPOLE BASKET PLLL – ALM EVREUX BASKET - 1
@@ -504,7 +504,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-f-2026-12-06-15-30-rouen-metropole-basket-orleans-loi
  ret-baske@ffbb-agenda
-DTSTAMP:20260918T000119Z
+DTSTAMP:20260918T234522Z
 DTSTART;TZID=Europe/Paris:20261206T153000
 DTEND;TZID=Europe/Paris:20261206T173000
 SUMMARY:ROUEN METROPOLE BASKET – ORLEANS LOIRET BASKET ASSOCIATION

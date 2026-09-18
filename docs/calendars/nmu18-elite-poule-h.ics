@@ -24,44 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-09-13-15-30-sqbb-jsc-ie-entente-sportive-massy
- @ffbb-agenda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20260913T153000
-DTEND;TZID=Europe/Paris:20260913T173000
-SUMMARY:SQBB - JSC – IE - ENTENTE SPORTIVE MASSY (86-62)
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ SQBB - JSC vs IE - ENTENTE
-  SPORTIVE MASSY\n📊 Score : 86-62\n\nBERTRAND GAMESS\n📍 Rue d'Alember
- t Saint-Quentin 02100\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.2977
- 1&navigate=yes\n\n📢 Arbitres : Cedric LENQUETTE\, Anthony CANAVERA\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
- /match/200000014603189
-LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03189
-END:VEVENT
-BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-09-13-15-30-denain-voltaire-basket-porte-du-ha
- inaut-cen@ffbb-agenda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20260913T153000
-DTEND;TZID=Europe/Paris:20260913T173000
-SUMMARY:DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT – CENTRE FEDERAL BB (88
- -80)
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ DENAIN VOLTAIRE BASKET - P
- ORTE DU HAINAUT vs CENTRE FEDERAL BB\n📊 Score : 88-80\n\nSalle Jean DEG
- ROS\n📍 Boulevard du 8 Mai 1945 Denain 59220\n🚗 Waze : https://waze.c
- om/ul?ll=50.32283\,3.39604&navigate=yes\n\n📢 Arbitres : Ludovic MACADRE
- \, Eva JAUER\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
- ions/nmu18-elite/match/200000014603191
-LOCATION:Salle Jean DEGROS\, Boulevard du 8 Mai 1945 Denain 59220
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03191
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-09-13-15-30-saint-charles-charenton-saint-maur
  ice-1-lil@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20260913T153000
 DTEND;TZID=Europe/Paris:20260913T173000
 SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – LILLE METROPOLE BASKE
@@ -78,26 +43,61 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03190
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-09-20-15-30-centre-federal-bb-saint-charles-ch
- arenton-s@ffbb-agenda
-DTSTAMP:20260918T000201Z
+UID:nmu18-elite-poule-h-2026-09-13-15-30-denain-voltaire-basket-porte-du-ha
+ inaut-cen@ffbb-agenda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT – CENTRE FEDERAL BB (88
+ -80)
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ DENAIN VOLTAIRE BASKET - P
+ ORTE DU HAINAUT vs CENTRE FEDERAL BB\n📊 Score : 88-80\n\nSalle Jean DEG
+ ROS\n📍 Boulevard du 8 Mai 1945 Denain 59220\n🚗 Waze : https://waze.c
+ om/ul?ll=50.32283\,3.39604&navigate=yes\n\n📢 Arbitres : Ludovic MACADRE
+ \, Eva JAUER\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nmu18-elite/match/200000014603191
+LOCATION:Salle Jean DEGROS\, Boulevard du 8 Mai 1945 Denain 59220
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03191
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-h-2026-09-13-15-30-sqbb-jsc-ie-entente-sportive-massy
+ @ffbb-agenda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20260913T153000
+DTEND;TZID=Europe/Paris:20260913T173000
+SUMMARY:SQBB - JSC – IE - ENTENTE SPORTIVE MASSY (86-62)
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ SQBB - JSC vs IE - ENTENTE
+  SPORTIVE MASSY\n📊 Score : 86-62\n\nBERTRAND GAMESS\n📍 Rue d'Alember
+ t Saint-Quentin 02100\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.2977
+ 1&navigate=yes\n\n📢 Arbitres : Cedric LENQUETTE\, Anthony CANAVERA\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite
+ /match/200000014603189
+LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03189
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-h-2026-09-20-15-30-lille-metropole-basket-clubs-sqbb-
+ jsc@ffbb-agenda
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
-SUMMARY:CENTRE FEDERAL BB – SAINT CHARLES CHARENTON SAINT MAURICE - 1
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ CENTRE FEDERAL BB vs SAINT
-  CHARLES CHARENTON SAINT MAURICE - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍
-  Avenue du Tremblay Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.833
- 95\,2.45456&navigate=yes\n\n📢 Arbitres : Didier CLAUDE\, Yoann BETHENCO
- URT\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
- 8-elite/match/200000014603221
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+SUMMARY:LILLE METROPOLE BASKET CLUBS – SQBB - JSC
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ LILLE METROPOLE BASKET CLU
+ BS vs SQBB - JSC\n\nJean ZAY 1\n📍 Rue de la LiniÃ¨re Faches-Thumesnil
+  59155\n🚗 Waze : https://waze.com/ul?ll=50.60722\,3.06241&navigate=yes\
+ n\n📢 Arbitres : Herve NOTTEZ\, Louise DESCHATRES\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603
+ 219
+LOCATION:Jean ZAY 1\, Rue de la LiniÃ¨re Faches-Thumesnil 59155
 URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03221
+ 03219
 END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-09-20-15-30-ie-entente-sportive-massy-denain-v
  oltaire-b@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
 SUMMARY:IE - ENTENTE SPORTIVE MASSY – DENAIN VOLTAIRE BASKET - PORTE DU H
@@ -113,42 +113,26 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03220
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-09-20-15-30-lille-metropole-basket-clubs-sqbb-
- jsc@ffbb-agenda
-DTSTAMP:20260918T000201Z
+UID:nmu18-elite-poule-h-2026-09-20-15-30-centre-federal-bb-saint-charles-ch
+ arenton-s@ffbb-agenda
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
-SUMMARY:LILLE METROPOLE BASKET CLUBS – SQBB - JSC
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ LILLE METROPOLE BASKET CLU
- BS vs SQBB - JSC\n\nJean ZAY 1\n📍 Rue de la LiniÃ¨re Faches-Thumesnil
-  59155\n🚗 Waze : https://waze.com/ul?ll=50.60722\,3.06241&navigate=yes\
- n\n📢 Arbitres : Herve NOTTEZ\, Louise DESCHATRES\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603
- 219
-LOCATION:Jean ZAY 1\, Rue de la LiniÃ¨re Faches-Thumesnil 59155
+SUMMARY:CENTRE FEDERAL BB – SAINT CHARLES CHARENTON SAINT MAURICE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ CENTRE FEDERAL BB vs SAINT
+  CHARLES CHARENTON SAINT MAURICE - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍
+  Avenue du Tremblay Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.833
+ 95\,2.45456&navigate=yes\n\n📢 Arbitres : Didier CLAUDE\, Yoann BETHENCO
+ URT\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu1
+ 8-elite/match/200000014603221
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03219
-END:VEVENT
-BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-09-27-15-30-sqbb-jsc-centre-federal-bb@ffbb-ag
- enda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20260927T153000
-DTEND;TZID=Europe/Paris:20260927T173000
-SUMMARY:SQBB - JSC – CENTRE FEDERAL BB
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ SQBB - JSC vs CENTRE FEDER
- AL BB\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Saint-Quentin 02100\n🚗 Wa
- ze : https://waze.com/ul?ll=49.86341\,3.29771&navigate=yes\n\n📢 Arbitre
- s : David MARCHAL\, Clementin GUISON\n\n🔗 Feuille FFBB : https://compet
- itions.ffbb.com/competitions/nmu18-elite/match/200000014603250
-LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03250
+ 03221
 END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-09-27-15-30-saint-charles-charenton-saint-maur
  ice-1-den@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20260927T153000
 DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – DENAIN VOLTAIRE BASKE
@@ -167,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-09-27-15-30-lille-metropole-basket-clubs-ie-en
  tente-spo@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20260927T153000
 DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:LILLE METROPOLE BASKET CLUBS – IE - ENTENTE SPORTIVE MASSY
@@ -182,9 +166,43 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03251
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-h-2026-09-27-15-30-sqbb-jsc-centre-federal-bb@ffbb-ag
+ enda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20260927T153000
+DTEND;TZID=Europe/Paris:20260927T173000
+SUMMARY:SQBB - JSC – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ SQBB - JSC vs CENTRE FEDER
+ AL BB\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Saint-Quentin 02100\n🚗 Wa
+ ze : https://waze.com/ul?ll=49.86341\,3.29771&navigate=yes\n\n📢 Arbitre
+ s : David MARCHAL\, Clementin GUISON\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nmu18-elite/match/200000014603250
+LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03250
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-h-2026-10-04-15-30-ie-entente-sportive-massy-saint-ch
+ arles-cha@ffbb-agenda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:IE - ENTENTE SPORTIVE MASSY – SAINT CHARLES CHARENTON SAINT MAURI
+ CE - 1
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ IE - ENTENTE SPORTIVE MASS
+ Y vs SAINT CHARLES CHARENTON SAINT MAURICE - 1\n\nGYMNASE ALBERT CAMUS\n
+ 📍 Avenue de la RÃ©publique Massy 91300\n🚗 Waze : https://waze.com/
+ ul?ll=48.73573\,2.29493&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-
+ elite/match/200000014603280
+LOCATION:GYMNASE ALBERT CAMUS\, Avenue de la RÃ©publique Massy 91300
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03280
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-10-04-15-30-denain-voltaire-basket-porte-du-ha
  inaut-sqb@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261004T153000
 DTEND;TZID=Europe/Paris:20261004T173000
 SUMMARY:DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT – SQBB - JSC
@@ -201,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-10-04-15-30-centre-federal-bb-lille-metropole-
  basket-cl@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261004T153000
 DTEND;TZID=Europe/Paris:20261004T173000
 SUMMARY:CENTRE FEDERAL BB – LILLE METROPOLE BASKET CLUBS
@@ -216,27 +234,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03281
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-10-04-15-30-ie-entente-sportive-massy-saint-ch
- arles-cha@ffbb-agenda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20261004T153000
-DTEND;TZID=Europe/Paris:20261004T173000
-SUMMARY:IE - ENTENTE SPORTIVE MASSY – SAINT CHARLES CHARENTON SAINT MAURI
- CE - 1
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ IE - ENTENTE SPORTIVE MASS
- Y vs SAINT CHARLES CHARENTON SAINT MAURICE - 1\n\nGYMNASE ALBERT CAMUS\n
- 📍 Avenue de la RÃ©publique Massy 91300\n🚗 Waze : https://waze.com/
- ul?ll=48.73573\,2.29493&navigate=yes\n\n📢 Arbitres : Pas de désignatio
- n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nmu18-
- elite/match/200000014603280
-LOCATION:GYMNASE ALBERT CAMUS\, Avenue de la RÃ©publique Massy 91300
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03280
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-10-10-17-00-ie-entente-sportive-massy-centre-f
  ederal-bb@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261010T170000
 DTEND;TZID=Europe/Paris:20261010T190000
 SUMMARY:IE - ENTENTE SPORTIVE MASSY – CENTRE FEDERAL BB
@@ -253,7 +253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-10-11-15-30-lille-metropole-basket-clubs-denai
  n-voltair@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261011T153000
 DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:LILLE METROPOLE BASKET CLUBS – DENAIN VOLTAIRE BASKET - PORTE DU 
@@ -271,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-10-11-15-30-sqbb-jsc-saint-charles-charenton-s
  aint-maur@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261011T153000
 DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:SQBB - JSC – SAINT CHARLES CHARENTON SAINT MAURICE - 1
@@ -285,9 +285,26 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03309
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-h-2026-11-01-15-30-centre-federal-bb-denain-voltaire-
+ basket-po@ffbb-agenda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:CENTRE FEDERAL BB – DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ CENTRE FEDERAL BB vs DENAI
+ N VOLTAIRE BASKET - PORTE DU HAINAUT\n\nINSEP C.S NELSON PAILLOU (1)\n📍
+  Avenue du Tremblay Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.833
+ 95\,2.45456&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/
+ 200000014603341
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03341
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-11-01-15-30-lille-metropole-basket-clubs-saint
  -charles-@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261101T153000
 DTEND;TZID=Europe/Paris:20261101T173000
 SUMMARY:LILLE METROPOLE BASKET CLUBS – SAINT CHARLES CHARENTON SAINT MAUR
@@ -305,7 +322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-11-01-15-30-ie-entente-sportive-massy-sqbb-jsc
  @ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261101T153000
 DTEND;TZID=Europe/Paris:20261101T173000
 SUMMARY:IE - ENTENTE SPORTIVE MASSY – SQBB - JSC
@@ -319,26 +336,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03339
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-11-01-15-30-centre-federal-bb-denain-voltaire-
- basket-po@ffbb-agenda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20261101T153000
-DTEND;TZID=Europe/Paris:20261101T173000
-SUMMARY:CENTRE FEDERAL BB – DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ CENTRE FEDERAL BB vs DENAI
- N VOLTAIRE BASKET - PORTE DU HAINAUT\n\nINSEP C.S NELSON PAILLOU (1)\n📍
-  Avenue du Tremblay Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.833
- 95\,2.45456&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
- uille FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/
- 200000014603341
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03341
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-11-08-15-30-saint-charles-charenton-saint-maur
  ice-1-cen@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – CENTRE FEDERAL BB
@@ -354,9 +354,25 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03371
 END:VEVENT
 BEGIN:VEVENT
+UID:nmu18-elite-poule-h-2026-11-08-15-30-sqbb-jsc-lille-metropole-basket-cl
+ ubs@ffbb-agenda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:SQBB - JSC – LILLE METROPOLE BASKET CLUBS
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ SQBB - JSC vs LILLE METROP
+ OLE BASKET CLUBS\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Saint-Quentin 021
+ 00\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.29771&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nmu18-elite/match/200000014603369
+LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03369
+END:VEVENT
+BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-11-08-15-30-denain-voltaire-basket-porte-du-ha
  inaut-ie-@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT – IE - ENTENTE SPORTIVE
@@ -372,25 +388,26 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03370
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-11-08-15-30-sqbb-jsc-lille-metropole-basket-cl
- ubs@ffbb-agenda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20261108T153000
-DTEND;TZID=Europe/Paris:20261108T173000
-SUMMARY:SQBB - JSC – LILLE METROPOLE BASKET CLUBS
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ SQBB - JSC vs LILLE METROP
- OLE BASKET CLUBS\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Saint-Quentin 021
- 00\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.29771&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nmu18-elite/match/200000014603369
-LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+UID:nmu18-elite-poule-h-2026-11-15-15-30-ie-entente-sportive-massy-lille-me
+ tropole-b@ffbb-agenda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:IE - ENTENTE SPORTIVE MASSY – LILLE METROPOLE BASKET CLUBS
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ IE - ENTENTE SPORTIVE MASS
+ Y vs LILLE METROPOLE BASKET CLUBS\n\nGYMNASE ALBERT CAMUS\n📍 Avenue de 
+ la RÃ©publique Massy 91300\n🚗 Waze : https://waze.com/ul?ll=48.73573\
+ ,2.29493&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200
+ 000014603401
+LOCATION:GYMNASE ALBERT CAMUS\, Avenue de la RÃ©publique Massy 91300
 URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03369
+ 03401
 END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-11-15-15-30-centre-federal-bb-sqbb-jsc@ffbb-ag
  enda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:CENTRE FEDERAL BB – SQBB - JSC
@@ -406,7 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-11-15-15-30-denain-voltaire-basket-porte-du-ha
  inaut-sai@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT – SAINT CHARLES CHARENT
@@ -422,26 +439,41 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03399
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-11-15-15-30-ie-entente-sportive-massy-lille-me
- tropole-b@ffbb-agenda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20261115T153000
-DTEND;TZID=Europe/Paris:20261115T173000
-SUMMARY:IE - ENTENTE SPORTIVE MASSY – LILLE METROPOLE BASKET CLUBS
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ IE - ENTENTE SPORTIVE MASS
- Y vs LILLE METROPOLE BASKET CLUBS\n\nGYMNASE ALBERT CAMUS\n📍 Avenue de 
- la RÃ©publique Massy 91300\n🚗 Waze : https://waze.com/ul?ll=48.73573\
- ,2.29493&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
- le FFBB : https://competitions.ffbb.com/competitions/nmu18-elite/match/200
- 000014603401
-LOCATION:GYMNASE ALBERT CAMUS\, Avenue de la RÃ©publique Massy 91300
+UID:nmu18-elite-poule-h-2026-11-29-15-30-lille-metropole-basket-clubs-centr
+ e-federal@ffbb-agenda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:LILLE METROPOLE BASKET CLUBS – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ LILLE METROPOLE BASKET CLU
+ BS vs CENTRE FEDERAL BB\n\nJean ZAY 1\n📍 Rue de la LiniÃ¨re Faches-Th
+ umesnil 59155\n🚗 Waze : https://waze.com/ul?ll=50.60722\,3.06241&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603431
+LOCATION:Jean ZAY 1\, Rue de la LiniÃ¨re Faches-Thumesnil 59155
 URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03401
+ 03431
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-h-2026-11-29-15-30-sqbb-jsc-denain-voltaire-basket-po
+ rte-du-ha@ffbb-agenda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:SQBB - JSC – DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ SQBB - JSC vs DENAIN VOLTA
+ IRE BASKET - PORTE DU HAINAUT\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Sain
+ t-Quentin 02100\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.29771&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603429
+LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03429
 END:VEVENT
 BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-11-29-15-30-saint-charles-charenton-saint-maur
  ice-1-ie-@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261129T153000
 DTEND;TZID=Europe/Paris:20261129T173000
 SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – IE - ENTENTE SPORTIVE
@@ -458,41 +490,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03430
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-11-29-15-30-lille-metropole-basket-clubs-centr
- e-federal@ffbb-agenda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20261129T153000
-DTEND;TZID=Europe/Paris:20261129T173000
-SUMMARY:LILLE METROPOLE BASKET CLUBS – CENTRE FEDERAL BB
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ LILLE METROPOLE BASKET CLU
- BS vs CENTRE FEDERAL BB\n\nJean ZAY 1\n📍 Rue de la LiniÃ¨re Faches-Th
- umesnil 59155\n🚗 Waze : https://waze.com/ul?ll=50.60722\,3.06241&naviga
- te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
- ://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603431
-LOCATION:Jean ZAY 1\, Rue de la LiniÃ¨re Faches-Thumesnil 59155
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03431
-END:VEVENT
-BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-11-29-15-30-sqbb-jsc-denain-voltaire-basket-po
- rte-du-ha@ffbb-agenda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20261129T153000
-DTEND;TZID=Europe/Paris:20261129T173000
-SUMMARY:SQBB - JSC – DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ SQBB - JSC vs DENAIN VOLTA
- IRE BASKET - PORTE DU HAINAUT\n\nBERTRAND GAMESS\n📍 Rue d'Alembert Sain
- t-Quentin 02100\n🚗 Waze : https://waze.com/ul?ll=49.86341\,3.29771&navi
- gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
- ps://competitions.ffbb.com/competitions/nmu18-elite/match/200000014603429
-LOCATION:BERTRAND GAMESS\, Rue d'Alembert Saint-Quentin 02100
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03429
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-12-06-15-30-saint-charles-charenton-saint-maur
  ice-1-sqb@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261206T153000
 DTEND;TZID=Europe/Paris:20261206T173000
 SUMMARY:SAINT CHARLES CHARENTON SAINT MAURICE - 1 – SQBB - JSC
@@ -508,26 +508,9 @@ URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03459
 END:VEVENT
 BEGIN:VEVENT
-UID:nmu18-elite-poule-h-2026-12-06-15-30-centre-federal-bb-ie-entente-sport
- ive-massy@ffbb-agenda
-DTSTAMP:20260918T000201Z
-DTSTART;TZID=Europe/Paris:20261206T153000
-DTEND;TZID=Europe/Paris:20261206T173000
-SUMMARY:CENTRE FEDERAL BB – IE - ENTENTE SPORTIVE MASSY
-DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ CENTRE FEDERAL BB vs IE - 
- ENTENTE SPORTIVE MASSY\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tre
- mblay Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460346
- 0
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
- 03460
-END:VEVENT
-BEGIN:VEVENT
 UID:nmu18-elite-poule-h-2026-12-06-15-30-denain-voltaire-basket-porte-du-ha
  inaut-lil@ffbb-agenda
-DTSTAMP:20260918T000201Z
+DTSTAMP:20260918T234602Z
 DTSTART;TZID=Europe/Paris:20261206T153000
 DTEND;TZID=Europe/Paris:20261206T173000
 SUMMARY:DENAIN VOLTAIRE BASKET - PORTE DU HAINAUT – LILLE METROPOLE BASKE
@@ -541,5 +524,22 @@ DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ DENAIN VOLTAIRE BASKET - P
 LOCATION:Salle Jean DEGROS\, Boulevard du 8 Mai 1945 Denain 59220
 URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
  03461
+END:VEVENT
+BEGIN:VEVENT
+UID:nmu18-elite-poule-h-2026-12-06-15-30-centre-federal-bb-ie-entente-sport
+ ive-massy@ffbb-agenda
+DTSTAMP:20260918T234602Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:CENTRE FEDERAL BB – IE - ENTENTE SPORTIVE MASSY
+DESCRIPTION:🏀 NMU18-ELITE – Poule H\n⚔️ CENTRE FEDERAL BB vs IE - 
+ ENTENTE SPORTIVE MASSY\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tre
+ mblay Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nmu18-elite/match/20000001460346
+ 0
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nmu18-elite/match/2000000146
+ 03460
 END:VEVENT
 END:VCALENDAR

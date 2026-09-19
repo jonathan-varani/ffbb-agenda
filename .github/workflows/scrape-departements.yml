@@ -41,6 +41,18 @@ jobs:
           "https://competitions.ffbb.com/ligues/ges/comites/0057"
           "https://competitions.ffbb.com/ligues/ges/comites/0088"
 
+      - name: Scraping forcé (compétitions absentes du listing FFBB)
+        env:
+          NOCODB_TOKEN: ${{ secrets.NOCODB_TOKEN }}
+        # La page de listing du comité 0054 ne propose plus le lien vers DMU15
+        # (Départementale masculine U15) depuis le 17/09/2026 — probablement un
+        # bug/réorganisation côté FFBB — alors que la compétition reste
+        # accessible et à jour via son URL directe (phase=200000002900145).
+        # On la scrape donc en direct pour ne pas la perdre du manifest.
+        run: >
+          python generate_ics.py
+          "https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu15?phase=200000002900145"
+
       - name: Commit + push si changements
         env:
           NOCODB_TOKEN: ${{ secrets.NOCODB_TOKEN }}
@@ -84,6 +96,8 @@ jobs:
                   "https://competitions.ffbb.com/ligues/ges/comites/0055" \
                   "https://competitions.ffbb.com/ligues/ges/comites/0057" \
                   "https://competitions.ffbb.com/ligues/ges/comites/0088"
+                python generate_ics.py \
+                  "https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/dmu15?phase=200000002900145"
                 git add docs/calendars docs/calendars.json
                 git commit -m "Auto: mise à jour calendriers départementaux GES $(date -u +'%Y-%m-%d %H:%M UTC')"
               fi

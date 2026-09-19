@@ -368,7 +368,10 @@ async def main():
             poule_urls = await find_all_poule_urls(comp_url)
             print(f"→ {len(poule_urls)} poule(s)")
             for purl in poule_urls:
-                await process_poule(purl, manifest)
+                try:
+                    await process_poule(purl, manifest)
+                except Exception as e:
+                    print(f"  ⚠️  Poule ignorée après échec : {purl} — {e}")
 
     elif region:
         # Mode région : découverte automatique de toutes les compétitions
@@ -382,12 +385,18 @@ async def main():
                 poule_urls = await find_all_poule_urls(comp_url)
                 print(f"→ {len(poule_urls)} poule(s)")
                 for purl in poule_urls:
-                    await process_poule(purl, manifest)
+                    try:
+                        await process_poule(purl, manifest)
+                    except Exception as e:
+                        print(f"  ⚠️  Poule ignorée après échec : {purl} — {e}")
 
     elif direct:
         for url in urls:
             print(f"\n{'='*60}\n[direct] {url}\n{'='*60}")
-            await process_poule(url, manifest)
+            try:
+                await process_poule(url, manifest)
+            except Exception as e:
+                print(f"  ⚠️  Poule ignorée après échec : {url} — {e}")
 
     else:
         for url in urls:
@@ -395,7 +404,10 @@ async def main():
             poule_urls = await find_all_poule_urls(url)
             print(f"→ {len(poule_urls)} poule(s)")
             for purl in poule_urls:
-                await process_poule(purl, manifest)
+                try:
+                    await process_poule(purl, manifest)
+                except Exception as e:
+                    print(f"  ⚠️  Poule ignorée après échec : {purl} — {e}")
 
     print(f"\n✅ Terminé. Fichiers dans ./{OUTPUT_DIR}/")
     print(f"   Manifest : ./{MANIFEST}")

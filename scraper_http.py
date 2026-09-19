@@ -332,8 +332,16 @@ async def scrape_poule(
         # Charge journée 1 pour découvrir le nombre de journées + la méta
         j1_url = f"{base_url}&journee=1"
         async with sem:
-            async with session.get(j1_url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
-                html_j1 = await resp.text()
+            for attempt in range(3):
+                try:
+                    async with session.get(j1_url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
+                        html_j1 = await resp.text()
+                    break
+                except Exception as e:
+                    if attempt == 2:
+                        print(f"  ⚠️  J1 erreur après 3 tentatives : {e}")
+                        raise
+                    await asyncio.sleep(2 ** attempt)  # 1s, 2s
 
         journees = extract_journee_numbers(html_j1)
         if not journees:

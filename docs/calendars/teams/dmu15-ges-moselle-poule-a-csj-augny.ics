@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSJ AUGNY  [DMU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de CSJ AUGNY – DMU15 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-10-03-16-00-csj-augny-thionville-bc-1@ff
+ bb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:🏠 CSJ AUGNY – THIONVILLE BC - 1
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs
+  THIONVILLE BC - 1\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de la Libé
+ ration Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.12132&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/m
+ atch/200000014794356
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794356
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-10-10-16-00-metz-bc-2-csj-augny@ffbb-age
+ nda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:✈️ METZ BC - 2 – CSJ AUGNY
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ METZ BC - 2 
+ vs CSJ AUGNY\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Remparts Metz 57000\n
+ 🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0057/competitions/dmu15/match/200000014794366
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794366
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-07-16-00-longeville-et-st-avold-baske
+ t-csj-aug@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – CSJ AUGNY
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs CSJ AUGNY\n\nGYMNASE DU CASTEL\n📍 Rue des Myrtille
+ s Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com/ul?ll=49
+ .11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu15/match/200000014794374
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794374
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-14-16-00-as-sarreguemines-basket-csj-
+ augny@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:✈️ AS SARREGUEMINES BASKET – CSJ AUGNY
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ AS SARREGUEM
+ INES BASKET vs CSJ AUGNY\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de Mars S
+ arreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.08069&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/m
+ atch/200000014794385
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794385
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-21-16-00-csj-augny-bc-maizieres-les-m
+ etz@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:🏠 CSJ AUGNY – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs
+  BC MAIZIERES LES METZ\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de la L
+ ibération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.121
+ 32&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu
+ 15/match/200000014794392
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794392
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-28-16-00-csj-augny-basket-club-hombou
+ rg-haut@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:🏠 CSJ AUGNY – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs
+  BASKET CLUB HOMBOURG-HAUT\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de 
+ la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6
+ .12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /dmu15/match/200000014794405
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794405
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-12-12-16-00-csj-augny-loisirs-sport-mont
+ igny@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:🏠 CSJ AUGNY – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs
+  LOISIRS SPORT MONTIGNY\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de la 
+ Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6.12
+ 132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ u15/match/200000014794414
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794414
+END:VEVENT
+END:VCALENDAR

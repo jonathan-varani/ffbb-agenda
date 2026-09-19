@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – J.S.AUDUNOISE BASKET  [DMU13 – GES – Poule C]
+X-WR-CALDESC:Matchs de J.S.AUDUNOISE BASKET – DMU13 – GES – Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-10-03-14-00-us-silvange-basket-2-j-s-aud
+ unoise-ba@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ US SILVANGE BASKET - 2 – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ US SILVANGE 
+ BASKET - 2 vs J.S.AUDUNOISE BASKET\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Mi
+ gette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\
+ ,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/dmu13/match/200000014794481
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794481
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-10-10-14-00-j-s-audunoise-basket-foxes-g
+ andrange-@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ J.S.AUDUNOIS
+ E BASKET vs FOXES GANDRANGE BASKET CLUB\n\nGYMNASE PIERRE TOMASI\n📍 Rue
+  Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/dmu13/match/200000014794496
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794496
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-07-14-00-j-s-audunoise-basket-usbb-uc
+ kange@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – USBB UCKANGE
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ J.S.AUDUNOIS
+ E BASKET vs USBB UCKANGE\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacques Duclos
+  Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,5.94094&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/
+ match/200000014794511
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794511
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-21-14-00-as-saint-nicolas-en-foret-j-
+ s-audunoi@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:✈️ AS SAINT NICOLAS EN FORET – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ AS SAINT NIC
+ OLAS EN FORET vs J.S.AUDUNOISE BASKET\n\nSALLE JACQUES ROELANDT\n📍 Boul
+ evard de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794538
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794538
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-29-10-00-es-hagondange-2-j-s-audunois
+ e-basket@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261129T100000
+DTEND;TZID=Europe/Paris:20261129T120000
+SUMMARY:✈️ ES HAGONDANGE - 2 – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ ES HAGONDANG
+ E - 2 vs J.S.AUDUNOISE BASKET\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Hen
+ ri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\
+ ,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/dmu13/match/200000014794555
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794555
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-12-12-14-00-j-s-audunoise-basket-asp-ste
+ -marie-au@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:🏠 J.S.AUDUNOISE BASKET – ASP SMAC - 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ J.S.AUDUNOIS
+ E BASKET vs ASP STE MARIE AUX CHENES - 2\n\nGYMNASE PIERRE TOMASI\n📍 Ru
+ e Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=
+ 49.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794572
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794572
+END:VEVENT
+END:VCALENDAR

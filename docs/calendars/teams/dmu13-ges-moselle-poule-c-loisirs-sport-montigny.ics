@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LOISIRS SPORT MONTIGNY  [DMU13 – GES – Poule C]
+X-WR-CALDESC:Matchs de LOISIRS SPORT MONTIGNY – DMU13 – GES – Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-10-10-14-00-asp-ste-marie-aux-chenes-2-l
+ oisirs-sp@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ ASP SMAC - 2 – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ ASP STE MARI
+ E AUX CHENES - 2 vs LOISIRS SPORT MONTIGNY\n\nGYMNASE BERTHELOT\n📍 Rue 
+ Berthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/ul?
+ ll=49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 7/competitions/dmu13/match/200000014794493
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794493
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-07-14-00-loisirs-sport-montigny-foxes
+ -gandrang@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs FOXES GANDRANGE BASKET CLUB\n\nGYMNASE MERMOZ\n📍 Rue du 1
+ 1ème Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll
+ =49.08585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794512
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794512
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-15-08-30-es-hagondange-2-loisirs-spor
+ t-montign@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261115T083000
+DTEND;TZID=Europe/Paris:20261115T103000
+SUMMARY:✈️ ES HAGONDANGE - 2 – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ ES HAGONDANG
+ E - 2 vs LOISIRS SPORT MONTIGNY\n\nCOSEC\n📍 Rue des Pêcheurs Hagondang
+ e 57300\n🚗 Waze : https://waze.com/ul?ll=49.25007\,6.17271&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/match/200000
+ 014794523
+LOCATION:COSEC\, Rue des Pêcheurs Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794523
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-21-14-00-loisirs-sport-montigny-asptt
+ -metz-bas@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – ASPTT METZ - BASKET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs ASPTT METZ - BASKET\n\nGYMNASE MERMOZ\n📍 Rue du 11ème R
+ égiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.085
+ 85\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/dmu13/match/200000014794540
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794540
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-28-14-00-loisirs-sport-montigny-usbb-
+ uckange@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 LOISIRS SPORT MONTIGNY – USBB UCKANGE
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs USBB UCKANGE\n\nGYMNASE MERMOZ\n📍 Rue du 11ème Régiment
+  d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.08585\,6.14
+ 579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ u13/match/200000014794553
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794553
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-12-12-14-00-as-saint-nicolas-en-foret-lo
+ isirs-spo@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ AS SAINT NICOLAS EN FORET – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ AS SAINT NIC
+ OLAS EN FORET vs LOISIRS SPORT MONTIGNY\n\nSALLE JACQUES ROELANDT\n📍 Bo
+ ulevard de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?ll
+ =49.31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794570
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794570
+END:VEVENT
+END:VCALENDAR

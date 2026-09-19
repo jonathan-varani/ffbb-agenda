@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – FENSCH BASKET AVENIR FBA  [DMU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de FENSCH BASKET AVENIR FBA – DMU15 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-10-03-14-00-thionville-bc-2-fensch-baske
+ t-avenir-@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ THIONVILLE BC - 2 – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs FENSCH BASKET AVENIR FBA\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz
+  Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/ma
+ tch/200000014794357
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794357
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-10-10-16-00-fensch-basket-avenir-fba-ent
+ ente-bask@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 FENSCH BASKET AVENIR FBA – ENTENTE BASKET NILVANGE SEREMANGE
+  ALGRANGE
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ FENSCH BASKE
+ T AVENIR FBA vs ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE\n\nSALLE ALBERT
+  BASSETTO\n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waze
+ .com/ul?ll=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0057/competitions/dmu15/match/200000014794367
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794367
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-07-16-00-fensch-basket-avenir-fba-bcv
+ -verdun-2@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 FENSCH BASKET AVENIR FBA – BCV VERDUN - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ FENSCH BASKE
+ T AVENIR FBA vs BCV VERDUN - 2\n\nSALLE ALBERT BASSETTO\n📍 Rue de la Mo
+ selle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.34299\,6.04802
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15
+ /match/200000014794379
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794379
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-14-16-00-as-saint-nicolas-en-foret-fe
+ nsch-bask@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:✈️ AS SAINT NICOLAS EN FORET – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ AS SAINT NIC
+ OLAS EN FORET vs FENSCH BASKET AVENIR FBA\n\nSALLE JACQUES ROELANDT\n📍 
+ Boulevard de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?
+ ll=49.31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 7/competitions/dmu15/match/200000014794388
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794388
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-21-16-00-fensch-basket-avenir-fba-duk
+ es-de-fam@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:🏠 FENSCH BASKET AVENIR FBA – DUKES DE FAMECK
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ FENSCH BASKE
+ T AVENIR FBA vs DUKES DE FAMECK\n\nSALLE ALBERT BASSETTO\n📍 Rue de la M
+ oselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.34299\,6.0480
+ 2&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794400
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794400
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-28-16-00-ent-des-terres-rouges-fensch
+ -basket-a@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:✈️ ENT. DES TERRES ROUGES – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. DES TER
+ RES ROUGES vs FENSCH BASKET AVENIR FBA\n\nGYMNASE PIERRE TOMASI\n📍 Rue 
+ Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49
+ .473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/dmu15/match/200000014794408
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794408
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-12-13-11-00-basket-club-hayange-marspich
+ -2-fensch@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261213T110000
+DTEND;TZID=Europe/Paris:20261213T130000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 2 – FENSCH BASKET AVENIR FB
+ A
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ BASKET CLUB 
+ HAYANGE MARSPICH - 2 vs FENSCH BASKET AVENIR FBA\n\nC.O.S.E.C.\n📍 Rue d
+ u 6 Juin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,
+ 6.08047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/dmu15/match/200000014794421
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794421
+END:VEVENT
+END:VCALENDAR

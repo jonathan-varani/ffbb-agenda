@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LONGEVILLE ET ST AVOLD BASKET  [DMU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de LONGEVILLE ET ST AVOLD BASKET – DMU15 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-10-03-16-00-metz-bc-2-longeville-et-st-a
+ vold-bask@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ METZ BC - 2 – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ METZ BC - 2 
+ vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE DE L'ARSENAL\n📍 Rue des Rem
+ parts Metz 57000\n🚗 Waze : https://waze.com/ul?ll=49.12403\,6.18341&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/mat
+ ch/200000014794352
+LOCATION:GYMNASE DE L'ARSENAL\, Rue des Remparts Metz 57000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794352
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-10-10-16-00-longeville-et-st-avold-baske
+ t-loisirs@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs LOISIRS SPORT MONTIGNY\n\nGYMNASE DU CASTEL\n📍 Rue
+  des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze
+ .com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0057/competitions/dmu15/match/200000014794362
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794362
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-07-16-00-longeville-et-st-avold-baske
+ t-csj-aug@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – CSJ AUGNY
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs CSJ AUGNY\n\nGYMNASE DU CASTEL\n📍 Rue des Myrtille
+ s Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com/ul?ll=49
+ .11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu15/match/200000014794374
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794374
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-14-16-00-basket-club-hombourg-haut-lo
+ ngeville-@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:✈️ BASKET CLUB HOMBOURG-HAUT – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs LONGEVILLE ET ST AVOLD BASKET\n\nGymnase Pierre de Couber
+ tin\n📍 Rue Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/
+ ul?ll=49.13806\,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0057/competitions/dmu15/match/200000014794383
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794383
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-21-16-00-longeville-et-st-avold-baske
+ t-as-sarr@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET vs AS SARREGUEMINES BASKET\n\nGYMNASE DU CASTEL\n📍 Ru
+ e des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waz
+ e.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0057/competitions/dmu15/match/200000014794395
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794395
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-28-16-00-cse-folkling-2-longeville-et
+ -st-avold@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:✈️ CSE FOLKLING - 2 – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING
+  - 2 vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 
+ Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622
+ \,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dmu15/match/200000014794403
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794403
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-12-12-16-00-bc-maizieres-les-metz-longev
+ ille-et-s@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:✈️ BC MAIZIERES LES METZ – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ BC MAIZIERES
+  LES METZ vs LONGEVILLE ET ST AVOLD BASKET\n\nGymnase Joël Bommersheim\n
+ 📍 Rue Lothaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com
+ /ul?ll=49.21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignati
+ on\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites
+ /0057/competitions/dmu15/match/200000014794416
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794416
+END:VEVENT
+END:VCALENDAR

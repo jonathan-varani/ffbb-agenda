@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – THIONVILLE BC - 2  [DMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de THIONVILLE BC - 2 – DMU18 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-10-03-18-00-thionville-bc-2-entente-bask
+ et-nilvan@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:🏠 THIONVILLE BC - 2 – ENTENTE BASKET NILVANGE SEREMANGE ALGRAN
+ GE
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE\n\nGYMNASE DE LA PLAIN
+ E\n📍 Rue Mermoz Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49
+ .36701\,6.16433&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu18/match/200000014793743
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793743
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-10-10-18-00-ls-rosselange-basket-thionvi
+ lle-bc-2@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:✈️ LS ROSSELANGE BASKET – THIONVILLE BC - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ LS ROSSELANG
+ E BASKET vs THIONVILLE BC - 2\n\nSALLE BERNARD MERCKEL\n📍 Grand Rue Ros
+ selange 57780\n🚗 Waze : https://waze.com/ul?ll=49.25429\,6.06087&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/match/
+ 200000014793752
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793752
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-07-18-00-dukes-de-fameck-thionville-b
+ c-2@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:✈️ DUKES DE FAMECK – THIONVILLE BC - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ DUKES DE FAM
+ ECK vs THIONVILLE BC - 2\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Exupé
+ ry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/matc
+ h/200000014793761
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793761
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-14-18-00-thionville-bc-2-fensch-baske
+ t-avenir-@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 THIONVILLE BC - 2 – FENSCH BASKET AVENIR FBA - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs FENSCH BASKET AVENIR FBA - 2\n\nGYMNASE DE LA PLAINE\n📍 Rue Me
+ rmoz Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.1643
+ 3&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793771
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793771
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-29-08-30-es-hagondange-thionville-bc-
+ 2@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261129T083000
+DTEND;TZID=Europe/Paris:20261129T103000
+SUMMARY:✈️ ES HAGONDANGE – THIONVILLE BC - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ ES HAGONDANG
+ E vs THIONVILLE BC - 2\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri Hoff
+ mann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.1655
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793793
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793793
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-12-12-18-00-thionville-bc-2-l-esperance-
+ de-stenay@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:🏠 THIONVILLE BC - 2 – L'ESPERANCE DE STENAY
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs L'ESPERANCE DE STENAY\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz Th
+ ionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/match
+ /200000014793800
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793800
+END:VEVENT
+END:VCALENDAR

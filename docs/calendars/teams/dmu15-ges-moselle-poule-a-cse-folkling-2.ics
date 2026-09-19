@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSE FOLKLING - 2  [DMU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de CSE FOLKLING - 2 – DMU15 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-10-03-16-00-as-sarreguemines-basket-cse-
+ folkling-@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ AS SARREGUEMINES BASKET – CSE FOLKLING - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ AS SARREGUEM
+ INES BASKET vs CSE FOLKLING - 2\n\nGYMNASE H. NOMINE\n📍 Rue du Champ de
+  Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.11415\,7.
+ 08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ dmu15/match/200000014794354
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794354
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-10-10-16-00-asptt-metz-basket-cse-folkli
+ ng-2@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:✈️ ASPTT METZ - BASKET – CSE FOLKLING - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ ASPTT METZ -
+  BASKET vs CSE FOLKLING - 2\n\nCOSEC DE QUEULEU\n📍 Rue de Tivoli Metz 5
+ 7070\n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.19469&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/match/200000014
+ 794363
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794363
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-07-16-00-cse-folkling-2-basket-club-h
+ ombourg-h@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 CSE FOLKLING - 2 – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING
+  - 2 vs BASKET CLUB HOMBOURG-HAUT\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Déc
+ embre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.
+ 89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ dmu15/match/200000014794373
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794373
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-14-16-00-cse-folkling-2-metz-bc-2@ffb
+ b-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 CSE FOLKLING - 2 – METZ BC - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING
+  - 2 vs METZ BC - 2\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Fol
+ kling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/match/20
+ 0000014794386
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794386
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-21-16-00-loisirs-sport-montigny-cse-f
+ olkling-2@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:✈️ LOISIRS SPORT MONTIGNY – CSE FOLKLING - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs CSE FOLKLING - 2\n\nGYMNASE MERMOZ\n📍 Rue du 11ème Régi
+ ment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.08585\,
+ 6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/dmu15/match/200000014794394
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794394
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-28-16-00-cse-folkling-2-longeville-et
+ -st-avold@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:🏠 CSE FOLKLING - 2 – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING
+  - 2 vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 
+ Décembre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622
+ \,6.89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dmu15/match/200000014794403
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794403
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-12-12-16-00-cse-folkling-2-thionville-bc
+ -1@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:🏠 CSE FOLKLING - 2 – THIONVILLE BC - 1
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING
+  - 2 vs THIONVILLE BC - 1\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 19
+ 44 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.89305&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/ma
+ tch/200000014794413
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794413
+END:VEVENT
+END:VCALENDAR

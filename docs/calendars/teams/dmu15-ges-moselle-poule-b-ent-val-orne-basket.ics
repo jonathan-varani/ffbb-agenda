@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ENT. VAL ORNE BASKET  [DMU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de ENT. VAL ORNE BASKET – DMU15 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-10-03-16-00-bcv-verdun-2-ent-val-orne-ba
+ sket@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:✈️ BCV VERDUN - 2 – ENT. VAL ORNE BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ BCV VERDUN -
+  2 vs ENT. VAL ORNE BASKET\n\nCOSEC DES PLANCHETTES\n📍 Rue Général S
+ éré de Rivières Verdun 55100\n🚗 Waze : https://waze.com/ul?ll=49.152
+ 82\,5.40878&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/dmu15/match/200000014794361
+LOCATION:COSEC DES PLANCHETTES\, Rue Général Séré de Rivières Verdun 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794361
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-10-10-16-00-ent-val-orne-basket-as-saint
+ -nicolas-@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 ENT. VAL ORNE BASKET – AS SAINT NICOLAS EN FORET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. VAL ORN
+ E BASKET vs AS SAINT NICOLAS EN FORET\n\nSALLE BERNARD MERCKEL\n📍 Grand
+  Rue Rosselange 57780\n🚗 Waze : https://waze.com/ul?ll=49.25429\,6.0608
+ 7&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794369
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794369
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-07-16-00-ent-val-orne-basket-district
+ -basket-r@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 ENT. VAL ORNE BASKET – DISTRICT BASKET RODEMACK KANFEN (DBRK
+ )
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. VAL ORN
+ E BASKET vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nSALLE BERNARD MERCKE
+ L\n📍 Grand Rue Rosselange 57780\n🚗 Waze : https://waze.com/ul?ll=49.
+ 25429\,6.06087&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/dmu15/match/200000014794377
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794377
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-14-16-00-ent-val-orne-basket-entente-
+ basket-ni@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 ENT. VAL ORNE BASKET – ENTENTE BASKET NILVANGE SEREMANGE ALG
+ RANGE
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. VAL ORN
+ E BASKET vs ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE\n\nSALLE BERNARD ME
+ RCKEL\n📍 Grand Rue Rosselange 57780\n🚗 Waze : https://waze.com/ul?ll
+ =49.25429\,6.06087&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu15/match/200000014794387
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794387
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-21-16-00-thionville-bc-2-ent-val-orne
+ -basket@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:✈️ THIONVILLE BC - 2 – ENT. VAL ORNE BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs ENT. VAL ORNE BASKET\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz Thi
+ onville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/match/
+ 200000014794398
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794398
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-28-16-00-ent-val-orne-basket-basket-c
+ lub-hayan@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:🏠 ENT. VAL ORNE BASKET – BASKET CLUB HAYANGE MARSPICH - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. VAL ORN
+ E BASKET vs BASKET CLUB HAYANGE MARSPICH - 2\n\nSALLE BERNARD MERCKEL\n
+ 📍 Grand Rue Rosselange 57780\n🚗 Waze : https://waze.com/ul?ll=49.254
+ 29\,6.06087&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competi
+ tions/dmu15/match/200000014794409
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794409
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-12-12-16-00-ent-des-terres-rouges-ent-va
+ l-orne-ba@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:✈️ ENT. DES TERRES ROUGES – ENT. VAL ORNE BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. DES TER
+ RES ROUGES vs ENT. VAL ORNE BASKET\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacq
+ ues Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473
+ \,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dmu15/match/200000014794418
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794418
+END:VEVENT
+END:VCALENDAR

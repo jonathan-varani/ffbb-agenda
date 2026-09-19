@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LS ROSSELANGE BASKET  [DMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de LS ROSSELANGE BASKET – DMU18 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-10-04-10-00-es-hagondange-ls-rosselange-
+ basket@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261004T100000
+DTEND;TZID=Europe/Paris:20261004T120000
+SUMMARY:✈️ ES HAGONDANGE – LS ROSSELANGE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ ES HAGONDANG
+ E vs LS ROSSELANGE BASKET\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue Henri H
+ offmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391\,6.1
+ 6551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ mu18/match/200000014793744
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793744
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-10-10-18-00-ls-rosselange-basket-thionvi
+ lle-bc-2@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 LS ROSSELANGE BASKET – THIONVILLE BC - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ LS ROSSELANG
+ E BASKET vs THIONVILLE BC - 2\n\nSALLE BERNARD MERCKEL\n📍 Grand Rue Ros
+ selange 57780\n🚗 Waze : https://waze.com/ul?ll=49.25429\,6.06087&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/match/
+ 200000014793752
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793752
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-14-18-00-ls-rosselange-basket-us-silv
+ ange-bask@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 LS ROSSELANGE BASKET – US SILVANGE BASKET - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ LS ROSSELANG
+ E BASKET vs US SILVANGE BASKET - 2\n\nSALLE BERNARD MERCKEL\n📍 Grand Ru
+ e Rosselange 57780\n🚗 Waze : https://waze.com/ul?ll=49.25429\,6.06087&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/m
+ atch/200000014793770
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793770
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-21-17-00-foxes-gandrange-basket-club-
+ ls-rossel@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261121T170000
+DTEND;TZID=Europe/Paris:20261121T190000
+SUMMARY:✈️ FOXES GANDRANGE BASKET CLUB – LS ROSSELANGE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ FOXES GANDRA
+ NGE BASKET CLUB vs LS ROSSELANGE BASKET\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0057/competitions/dmu18/match/200000014793781
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793781
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-28-18-00-ls-rosselange-basket-entente
+ -basket-n@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:🏠 LS ROSSELANGE BASKET – ENTENTE BASKET NILVANGE SEREMANGE ALG
+ RANGE
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ LS ROSSELANG
+ E BASKET vs ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE\n\nSALLE BERNARD ME
+ RCKEL\n📍 Grand Rue Rosselange 57780\n🚗 Waze : https://waze.com/ul?ll
+ =49.25429\,6.06087&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu18/match/200000014793792
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793792
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-12-12-18-00-dukes-de-fameck-ls-rosselang
+ e-basket@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:✈️ DUKES DE FAMECK – LS ROSSELANGE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ DUKES DE FAM
+ ECK vs LS ROSSELANGE BASKET\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Exu
+ péry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/m
+ atch/200000014793801
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793801
+END:VEVENT
+END:VCALENDAR

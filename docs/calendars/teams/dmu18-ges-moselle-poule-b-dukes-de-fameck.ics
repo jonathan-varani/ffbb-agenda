@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DUKES DE FAMECK  [DMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de DUKES DE FAMECK – DMU18 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-10-03-18-00-l-esperance-de-stenay-dukes-
+ de-fameck@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ L'ESPERANCE DE STENAY – DUKES DE FAMECK
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ L'ESPERANCE 
+ DE STENAY vs DUKES DE FAMECK\n\nSALLE POLYVALENTE\n📍 Avenue de Verdun S
+ tenay 55700\n🚗 Waze : https://waze.com/ul?ll=49.4884\,5.19528&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/match/200
+ 000014793742
+LOCATION:SALLE POLYVALENTE\, Avenue de Verdun Stenay 55700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793742
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-07-18-00-dukes-de-fameck-thionville-b
+ c-2@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:🏠 DUKES DE FAMECK – THIONVILLE BC - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ DUKES DE FAM
+ ECK vs THIONVILLE BC - 2\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Exupé
+ ry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/matc
+ h/200000014793761
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793761
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-14-18-00-dukes-de-fameck-foxes-gandra
+ nge-baske@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 DUKES DE FAMECK – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ DUKES DE FAM
+ ECK vs FOXES GANDRANGE BASKET CLUB\n\nSALLE LAURENT LUCIE\n📍 Rue Antoin
+ e de Saint-Exupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30
+ 381\,6.11256&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compet
+ itions/dmu18/match/200000014793774
+LOCATION:SALLE LAURENT LUCIE\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793774
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-21-18-00-us-silvange-basket-2-dukes-d
+ e-fameck@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:✈️ US SILVANGE BASKET - 2 – DUKES DE FAMECK
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ US SILVANGE 
+ BASKET - 2 vs DUKES DE FAMECK\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette
+  Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11
+ 352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ u18/match/200000014793782
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793782
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-28-18-00-dukes-de-fameck-fensch-baske
+ t-avenir-@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:🏠 DUKES DE FAMECK – FENSCH BASKET AVENIR FBA - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ DUKES DE FAM
+ ECK vs FENSCH BASKET AVENIR FBA - 2\n\nSalle VISOSA\n📍 Rue Antoine de S
+ aint-Exupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6
+ .11256&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /dmu18/match/200000014793791
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793791
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-12-12-18-00-dukes-de-fameck-ls-rosselang
+ e-basket@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:🏠 DUKES DE FAMECK – LS ROSSELANGE BASKET
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ DUKES DE FAM
+ ECK vs LS ROSSELANGE BASKET\n\nSalle VISOSA\n📍 Rue Antoine de Saint-Exu
+ péry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/m
+ atch/200000014793801
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793801
+END:VEVENT
+END:VCALENDAR

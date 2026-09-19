@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS SOUILLY-BASKET  [PRM – GES – Poule A]
+X-WR-CALDESC:Matchs de AS SOUILLY-BASKET – PRM – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-09-25-20-30-as-souilly-basket-cslb-bar-le-du
+ c-2@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20260925T203000
+DTEND;TZID=Europe/Paris:20260925T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – CSLB BAR LE DUC - 2
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs CSLB BAR LE DUC - 2\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competi
+ tions/prm/match/200000014793031
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793031
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-10-09-20-30-as-souilly-basket-bcv-verdun@ffb
+ b-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261009T203000
+DTEND;TZID=Europe/Paris:20261009T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – BCV VERDUN
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs BCV VERDUN\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm
+ /match/200000014793043
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793043
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-11-07-20-30-asc-charny-sur-meuse-1-as-souill
+ y-basket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE - 1 – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs AS SOUILLY-BASKET\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous
+  le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.2
+ 1061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/prm/match/200000014793049
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793049
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-11-20-20-30-as-souilly-basket-asc-charny-sur
+ -meuse-2@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261120T203000
+DTEND;TZID=Europe/Paris:20261120T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – ASC CHARNY SUR MEUSE - 2
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs ASC CHARNY SUR MEUSE - 2\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793055
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793055
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-11-29-13-30-asc-charny-sur-meuse-3-as-souill
+ y-basket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261129T133000
+DTEND;TZID=Europe/Paris:20261129T153000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE - 3 – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 3 vs AS SOUILLY-BASKET\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous
+  le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.2
+ 1061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/prm/match/200000014793061
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793061
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-12-04-20-30-as-souilly-basket-avenir-de-vign
+ ot-2@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261204T203000
+DTEND;TZID=Europe/Paris:20261204T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – AVENIR DE VIGNOT - 2
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs AVENIR DE VIGNOT - 2\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compet
+ itions/prm/match/200000014793064
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793064
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-12-13-15-30-avenir-de-vignot-1-as-souilly-ba
+ sket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:✈️ AVENIR DE VIGNOT - 1 – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AVENIR DE VIGNOT
+  - 1 vs AS SOUILLY-BASKET\n\nSALLE POLYVALENTE DES OUILLONS\n📍 Rue de L
+ orraine Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.69166\,6.17146&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/ma
+ tch/200000014793069
+LOCATION:SALLE POLYVALENTE DES OUILLONS\, Rue de Lorraine Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793069
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-12-20-13-30-l-esperance-de-stenay-as-souilly
+ -basket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261220T133000
+DTEND;TZID=Europe/Paris:20261220T153000
+SUMMARY:✈️ L'ESPERANCE DE STENAY – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ L'ESPERANCE DE S
+ TENAY vs AS SOUILLY-BASKET\n\nSALLE POLYVALENTE\n📍 Avenue de Verdun Ste
+ nay 55700\n🚗 Waze : https://waze.com/ul?ll=49.4884\,5.19528&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/match/2000000
+ 14793077
+LOCATION:SALLE POLYVALENTE\, Avenue de Verdun Stenay 55700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793077
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-01-08-20-30-as-souilly-basket-pagny-sur-meus
+ e-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270108T203000
+DTEND;TZID=Europe/Paris:20270108T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs PAGNY SUR MEUSE BC\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competit
+ ions/prm/match/200000014793083
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793083
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-01-16-20-30-cslb-bar-le-duc-1-as-souilly-bas
+ ket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:✈️ CSLB BAR LE DUC - 1 – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ CSLB BAR LE DUC 
+ - 1 vs AS SOUILLY-BASKET\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'Écol
+ e Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.
+ 1546&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/p
+ rm/match/200000014793088
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793088
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-01-30-20-30-cslb-bar-le-duc-2-as-souilly-bas
+ ket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:✈️ CSLB BAR LE DUC - 2 – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ CSLB BAR LE DUC 
+ - 2 vs AS SOUILLY-BASKET\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'Écol
+ e Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.
+ 1546&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/p
+ rm/match/200000014793097
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793097
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-02-13-20-30-bcv-verdun-as-souilly-basket@ffb
+ b-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:✈️ BCV VERDUN – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ BCV VERDUN vs AS
+  SOUILLY-BASKET\n\nCOSEC DES PLANCHETTES\n📍 Rue Général Séré de Riv
+ ières Verdun 55100\n🚗 Waze : https://waze.com/ul?ll=49.15282\,5.40878&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/ma
+ tch/200000014793109
+LOCATION:COSEC DES PLANCHETTES\, Rue Général Séré de Rivières Verdun 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793109
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-03-12-20-30-as-souilly-basket-asc-charny-sur
+ -meuse-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270312T203000
+DTEND;TZID=Europe/Paris:20270312T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs ASC CHARNY SUR MEUSE - 1\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793115
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793115
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-03-20-20-30-asc-charny-sur-meuse-2-as-souill
+ y-basket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE - 2 – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 2 vs AS SOUILLY-BASKET\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous
+  le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.2
+ 1061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/prm/match/200000014793121
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793121
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-03-26-20-30-as-souilly-basket-asc-charny-sur
+ -meuse-3@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270326T203000
+DTEND;TZID=Europe/Paris:20270326T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – ASC CHARNY SUR MEUSE - 3
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs ASC CHARNY SUR MEUSE - 3\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793127
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793127
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-04-04-13-30-avenir-de-vignot-2-as-souilly-ba
+ sket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270404T133000
+DTEND;TZID=Europe/Paris:20270404T153000
+SUMMARY:✈️ AVENIR DE VIGNOT - 2 – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AVENIR DE VIGNOT
+  - 2 vs AS SOUILLY-BASKET\n\nSALLE POLYVALENTE DES OUILLONS\n📍 Rue de L
+ orraine Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.69166\,6.17146&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/ma
+ tch/200000014793130
+LOCATION:SALLE POLYVALENTE DES OUILLONS\, Rue de Lorraine Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793130
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-04-09-20-30-as-souilly-basket-avenir-de-vign
+ ot-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270409T203000
+DTEND;TZID=Europe/Paris:20270409T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – AVENIR DE VIGNOT - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs AVENIR DE VIGNOT - 1\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compet
+ itions/prm/match/200000014793135
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793135
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-04-16-20-30-as-souilly-basket-l-esperance-de
+ -stenay@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270416T203000
+DTEND;TZID=Europe/Paris:20270416T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – L'ESPERANCE DE STENAY
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs L'ESPERANCE DE STENAY\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/prm/match/200000014793143
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793143
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-05-15-20-30-pagny-sur-meuse-bc-as-souilly-ba
+ sket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:✈️ PAGNY SUR MEUSE BC – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs AS SOUILLY-BASKET\n\nSALLE DE SPORTS - LES CORVEES\n📍 Allée des 
+ Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll=48.6953
+ 2\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competit
+ ions/prm/match/200000014793149
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793149
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-05-21-20-30-as-souilly-basket-cslb-bar-le-du
+ c-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270521T203000
+DTEND;TZID=Europe/Paris:20270521T223000
+SUMMARY:🏠 AS SOUILLY-BASKET – CSLB BAR LE DUC - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs CSLB BAR LE DUC - 1\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competi
+ tions/prm/match/200000014793154
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793154
+END:VEVENT
+END:VCALENDAR

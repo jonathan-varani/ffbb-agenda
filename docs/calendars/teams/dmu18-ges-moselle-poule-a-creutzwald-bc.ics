@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CREUTZWALD BC  [DMU18 – GES – Poule A]
+X-WR-CALDESC:Matchs de CREUTZWALD BC – DMU18 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-a-2026-10-10-18-00-asptt-metz-basket-creutzwald
+ -bc@ffbb-agenda
+DTSTAMP:20260919T170141Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:✈️ ASPTT METZ - BASKET – CREUTZWALD BC
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule A\n⚔️ ASPTT METZ -
+  BASKET vs CREUTZWALD BC\n\nCOSEC DE QUEULEU\n📍 Rue de Tivoli Metz 5707
+ 0\n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.19469&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/match/2000000147
+ 93745
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793745
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-a-2026-11-07-18-00-creutzwald-bc-thionville-bc-
+ 1@ffbb-agenda
+DTSTAMP:20260919T170141Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:🏠 CREUTZWALD BC – THIONVILLE BC - 1
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule A\n⚔️ CREUTZWALD B
+ C vs THIONVILLE BC - 1\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges Bast
+ ide Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.69796
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18
+ /match/200000014793759
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793759
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-a-2026-11-14-18-00-basket-club-hombourg-haut-cr
+ eutzwald-@ffbb-agenda
+DTSTAMP:20260919T170141Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:✈️ BASKET CLUB HOMBOURG-HAUT – CREUTZWALD BC
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs CREUTZWALD BC\n\nGymnase Pierre de Coubertin\n📍 Rue Be
+ au Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/ul?ll=49.13806\,
+ 6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/dmu18/match/200000014793765
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793765
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-a-2026-11-21-18-00-creutzwald-bc-cse-folkling-2
+ @ffbb-agenda
+DTSTAMP:20260919T170141Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:🏠 CREUTZWALD BC – CSE FOLKLING - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule A\n⚔️ CREUTZWALD B
+ C vs CSE FOLKLING - 2\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges Basti
+ de Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.69796&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu18/
+ match/200000014793777
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793777
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-a-2026-11-28-18-00-creutzwald-bc-as-sarreguemin
+ es-basket@ffbb-agenda
+DTSTAMP:20260919T170141Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:🏠 CREUTZWALD BC – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule A\n⚔️ CREUTZWALD B
+ C vs AS SARREGUEMINES BASKET\n\nGYMNASE DU BRECKELBERG\n📍 Square George
+ s Bastide Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6
+ .69796&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /dmu18/match/200000014793785
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793785
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-a-2026-12-12-18-00-ent-longeville-st-avold-faul
+ quemont-b@ffbb-agenda
+DTSTAMP:20260919T170141Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:✈️ ENT. LONGEVILLE ST AVOLD FAULQUEMONT BASKET – CREUTZWALD B
+ C
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule A\n⚔️ ENT. LONGEVI
+ LLE ST AVOLD FAULQUEMONT BASKET vs CREUTZWALD BC\n\nGYMNASE DU CASTEL\n
+ 📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : http
+ s://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0057/competitions/dmu18/match/200000014793797
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793797
+END:VEVENT
+END:VCALENDAR

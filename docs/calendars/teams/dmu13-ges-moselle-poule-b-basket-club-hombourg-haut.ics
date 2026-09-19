@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB HOMBOURG-HAUT  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de BASKET CLUB HOMBOURG-HAUT – DMU13 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-10-03-14-00-basket-club-hombourg-haut-cr
+ eutzwald-@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 BASKET CLUB HOMBOURG-HAUT – CREUTZWALD BC
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs CREUTZWALD BC\n\nGymnase Pierre de Coubertin\n📍 Rue Be
+ au Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/ul?ll=49.13806\,
+ 6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/dmu13/match/200000014794473
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794473
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-10-10-14-00-basket-club-hombourg-haut-bc
+ -maiziere@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 BASKET CLUB HOMBOURG-HAUT – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs BC MAIZIERES LES METZ\n\nGymnase Pierre de Coubertin\n
+ 📍 Rue Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/ul?ll
+ =49.13806\,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794492
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794492
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-11-08-10-00-es-hagondange-basket-club-ho
+ mbourg-ha@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261108T100000
+DTEND;TZID=Europe/Paris:20261108T120000
+SUMMARY:✈️ ES HAGONDANGE – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ ES HAGONDANG
+ E vs BASKET CLUB HOMBOURG-HAUT\n\nPALAIS DES SPORTS PAUL LAMM\n📍 Rue He
+ nri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.com/ul?ll=49.25391
+ \,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dmu13/match/200000014794506
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794506
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-11-14-14-00-morhange-basket-ball-associa
+ tion-bask@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ MORHANGE BASKET-BALL ASSOCIATION – BASKET CLUB HOMBOURG-HA
+ UT
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ MORHANGE BAS
+ KET-BALL ASSOCIATION vs BASKET CLUB HOMBOURG-HAUT\n\nGYMNASE MUNICIPAL\n
+ 📍 Rue Verlaine Morhange 57340\n🚗 Waze : https://waze.com/ul?ll=48.91
+ 915\,6.63069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compet
+ itions/dmu13/match/200000014794522
+LOCATION:GYMNASE MUNICIPAL\, Rue Verlaine Morhange 57340
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794522
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-11-21-14-00-basket-club-hombourg-haut-lo
+ ngeville-@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:🏠 BASKET CLUB HOMBOURG-HAUT – LONGEVILLE ET ST AVOLD BASKET - 
+ 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs LONGEVILLE ET ST AVOLD BASKET - 2\n\nGymnase Pierre de Co
+ ubertin\n📍 Rue Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.
+ com/ul?ll=49.13806\,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0057/competitions/dmu13/match/200000014794534
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794534
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-11-28-14-00-as-sarreguemines-basket-bask
+ et-club-h@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:✈️ AS SARREGUEMINES BASKET – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ AS SARREGUEM
+ INES BASKET vs BASKET CLUB HOMBOURG-HAUT\n\nGYMNASE H. NOMINE\n📍 Rue du
+  Champ de Mars Sarreguemines 57200\n🚗 Waze : https://waze.com/ul?ll=49.
+ 11415\,7.08069&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/dmu13/match/200000014794548
+LOCATION:GYMNASE H. NOMINE\, Rue du Champ de Mars Sarreguemines 57200
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794548
+END:VEVENT
+END:VCALENDAR

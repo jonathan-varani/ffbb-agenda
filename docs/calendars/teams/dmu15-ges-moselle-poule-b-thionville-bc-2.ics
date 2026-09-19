@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – THIONVILLE BC - 2  [DMU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de THIONVILLE BC - 2 – DMU15 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-10-03-14-00-thionville-bc-2-fensch-baske
+ t-avenir-@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 THIONVILLE BC - 2 – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs FENSCH BASKET AVENIR FBA\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz
+  Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/ma
+ tch/200000014794357
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794357
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-10-10-16-00-thionville-bc-2-bcv-verdun-2
+ @ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:🏠 THIONVILLE BC - 2 – BCV VERDUN - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs BCV VERDUN - 2\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz Thionvill
+ e 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/match/200000
+ 014794371
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794371
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-07-16-00-basket-club-hayange-marspich
+ -2-thionv@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 2 – THIONVILLE BC - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ BASKET CLUB 
+ HAYANGE MARSPICH - 2 vs THIONVILLE BC - 2\n\nC.O.S.E.C.\n📍 Rue du 6 Jui
+ n 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.08047
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15
+ /match/200000014794380
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794380
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-14-16-00-ent-des-terres-rouges-thionv
+ ille-bc-2@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:✈️ ENT. DES TERRES ROUGES – THIONVILLE BC - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. DES TER
+ RES ROUGES vs THIONVILLE BC - 2\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacques
+  Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,5
+ .94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /dmu15/match/200000014794391
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794391
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-21-16-00-thionville-bc-2-ent-val-orne
+ -basket@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:🏠 THIONVILLE BC - 2 – ENT. VAL ORNE BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs ENT. VAL ORNE BASKET\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz Thi
+ onville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/match/
+ 200000014794398
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794398
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-28-16-00-entente-basket-nilvange-sere
+ mange-alg@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:✈️ ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE – THIONVILLE BC
+  - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENTENTE BASK
+ ET NILVANGE SEREMANGE ALGRANGE vs THIONVILLE BC - 2\n\nSALLE ALBERT BASSET
+ TO\n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul
+ ?ll=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 57/competitions/dmu15/match/200000014794407
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794407
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-12-12-16-00-thionville-bc-2-district-bas
+ ket-rodem@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:🏠 THIONVILLE BC - 2 – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nGYMNASE DE LA PLAINE\n
+ 📍 Rue Mermoz Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36
+ 701\,6.16433&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compet
+ itions/dmu15/match/200000014794420
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794420
+END:VEVENT
+END:VCALENDAR

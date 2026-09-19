@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LONGEVILLE ET ST AVOLD BASKET - 1  [DMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de LONGEVILLE ET ST AVOLD BASKET - 1 – DMU13 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-10-10-14-00-fensch-basket-avenir-fba-lon
+ geville-e@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ FENSCH BASKET AVENIR FBA – LONGEVILLE ET ST AVOLD BASKET -
+  1
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ FENSCH BASKE
+ T AVENIR FBA vs LONGEVILLE ET ST AVOLD BASKET - 1\n\nSALLE ALBERT BASSETTO
+ \n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?l
+ l=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057
+ /competitions/dmu13/match/200000014794483
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794483
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-11-07-14-00-longeville-et-st-avold-baske
+ t-1-ls-ro@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET - 1 – LS ROSSELANGE BASKET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET - 1 vs LS ROSSELANGE BASKET\n\nGYMNASE DU CASTEL\n📍 R
+ ue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0057/competitions/dmu13/match/200000014794502
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794502
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-11-14-14-00-thionville-bc-longeville-et-
+ st-avold-@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ THIONVILLE BC – LONGEVILLE ET ST AVOLD BASKET - 1
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ THIONVILLE B
+ C vs LONGEVILLE ET ST AVOLD BASKET - 1\n\nGYMNASE DE LA PLAINE\n📍 Rue M
+ ermoz Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.164
+ 33&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu
+ 13/match/200000014794513
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794513
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-11-21-14-00-longeville-et-st-avold-baske
+ t-1-dukes@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET - 1 – DUKES DE FAMECK - 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET - 1 vs DUKES DE FAMECK - 2\n\nGYMNASE DU CASTEL\n📍 Ru
+ e des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waz
+ e.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0057/competitions/dmu13/match/200000014794530
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794530
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-11-29-11-00-longeville-et-st-avold-baske
+ t-1-metz-@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261129T110000
+DTEND;TZID=Europe/Paris:20261129T130000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET - 1 – METZ BC - 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ LONGEVILLE E
+ T ST AVOLD BASKET - 1 vs METZ BC - 2\n\nGYMNASE DU CASTEL\n📍 Rue des My
+ rtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : https://waze.com/ul
+ ?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 57/competitions/dmu13/match/200000014794543
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794543
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-12-13-09-30-basket-club-hayange-marspich
+ -2-longev@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261213T093000
+DTEND;TZID=Europe/Paris:20261213T113000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 2 – LONGEVILLE ET ST AVOLD 
+ BASKET - 1
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ HAYANGE MARSPICH - 2 vs LONGEVILLE ET ST AVOLD BASKET - 1\n\nC.O.S.E.C.\n
+ 📍 Rue du 6 Juin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=
+ 49.33796\,6.08047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794560
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794560
+END:VEVENT
+END:VCALENDAR

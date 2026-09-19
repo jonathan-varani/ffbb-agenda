@@ -1,0 +1,379 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ASC CHARNY SUR MEUSE - 1  [PRM – GES – Poule A]
+X-WR-CALDESC:Matchs de ASC CHARNY SUR MEUSE - 1 – PRM – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-09-27-13-30-avenir-de-vignot-2-asc-charny-su
+ r-meuse-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20260927T133000
+DTEND;TZID=Europe/Paris:20260927T153000
+SUMMARY:✈️ AVENIR DE VIGNOT - 2 – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AVENIR DE VIGNOT
+  - 2 vs ASC CHARNY SUR MEUSE - 1\n\nSALLE POLYVALENTE DES OUILLONS\n📍 R
+ ue de Lorraine Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.69166\,6
+ .17146&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions
+ /prm/match/200000014793028
+LOCATION:SALLE POLYVALENTE DES OUILLONS\, Rue de Lorraine Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793028
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-10-03-20-30-asc-charny-sur-meuse-1-avenir-de
+ -vignot-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – AVENIR DE VIGNOT - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs AVENIR DE VIGNOT - 1\n\nSALLE DES SPORTS 1\n📍 Lotissement S
+ ous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793033
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793033
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-10-11-13-30-l-esperance-de-stenay-asc-charny
+ -sur-meus@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261011T133000
+DTEND;TZID=Europe/Paris:20261011T153000
+SUMMARY:✈️ L'ESPERANCE DE STENAY – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ L'ESPERANCE DE S
+ TENAY vs ASC CHARNY SUR MEUSE - 1\n\nSALLE POLYVALENTE\n📍 Avenue de Ver
+ dun Stenay 55700\n🚗 Waze : https://waze.com/ul?ll=49.4884\,5.19528&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/match/
+ 200000014793044
+LOCATION:SALLE POLYVALENTE\, Avenue de Verdun Stenay 55700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793044
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-11-07-20-30-asc-charny-sur-meuse-1-as-souill
+ y-basket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261107T203000
+DTEND;TZID=Europe/Paris:20261107T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs AS SOUILLY-BASKET\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous
+  le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.2
+ 1061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/prm/match/200000014793049
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793049
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-11-21-20-30-pagny-sur-meuse-bc-asc-charny-su
+ r-meuse-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:✈️ PAGNY SUR MEUSE BC – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs ASC CHARNY SUR MEUSE - 1\n\nSALLE DE SPORTS - LES CORVEES\n📍 All
+ ée des Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll
+ =48.69532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793054
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793054
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-11-28-20-30-asc-charny-sur-meuse-1-cslb-bar-
+ le-duc-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – CSLB BAR LE DUC - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs CSLB BAR LE DUC - 1\n\nSALLE DES SPORTS 1\n📍 Lotissement So
+ us le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49
+ .21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793059
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793059
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-12-05-20-30-cslb-bar-le-duc-2-asc-charny-sur
+ -meuse-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ CSLB BAR LE DUC - 2 – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ CSLB BAR LE DUC 
+ - 2 vs ASC CHARNY SUR MEUSE - 1\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de 
+ l'École Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7
+ 636\,5.1546&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competi
+ tions/prm/match/200000014793067
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793067
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-12-12-20-30-asc-charny-sur-meuse-1-asc-charn
+ y-sur-meu@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – ASC CHARNY SUR MEUSE - 3
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs ASC CHARNY SUR MEUSE - 3\n\nSALLE DES SPORTS 1\n📍 Lotisseme
+ nt Sous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?
+ ll=49.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 5/competitions/prm/match/200000014793073
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793073
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-12-19-20-30-asc-charny-sur-meuse-2-asc-charn
+ y-sur-meu@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261219T203000
+DTEND;TZID=Europe/Paris:20261219T223000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE - 2 – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 2 vs ASC CHARNY SUR MEUSE - 1\n\nSALLE DES SPORTS 1\n📍 Lotisseme
+ nt Sous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?
+ ll=49.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 5/competitions/prm/match/200000014793079
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793079
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-01-16-20-30-asc-charny-sur-meuse-1-bcv-verdu
+ n@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – BCV VERDUN
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs BCV VERDUN\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Mou
+ lin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.21061\,5
+ .36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions
+ /prm/match/200000014793090
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793090
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-01-30-20-30-asc-charny-sur-meuse-1-avenir-de
+ -vignot-2@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – AVENIR DE VIGNOT - 2
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs AVENIR DE VIGNOT - 2\n\nSALLE DES SPORTS 1\n📍 Lotissement S
+ ous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793094
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793094
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-02-07-15-30-avenir-de-vignot-1-asc-charny-su
+ r-meuse-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:✈️ AVENIR DE VIGNOT - 1 – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AVENIR DE VIGNOT
+  - 1 vs ASC CHARNY SUR MEUSE - 1\n\nSALLE POLYVALENTE DES OUILLONS\n📍 R
+ ue de Lorraine Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.69166\,6
+ .17146&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions
+ /prm/match/200000014793099
+LOCATION:SALLE POLYVALENTE DES OUILLONS\, Rue de Lorraine Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793099
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-02-13-20-30-asc-charny-sur-meuse-1-l-esperan
+ ce-de-ste@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – L'ESPERANCE DE STENAY
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs L'ESPERANCE DE STENAY\n\nSALLE DES SPORTS 1\n📍 Lotissement 
+ Sous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=
+ 49.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793110
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793110
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-03-12-20-30-as-souilly-basket-asc-charny-sur
+ -meuse-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270312T203000
+DTEND;TZID=Europe/Paris:20270312T223000
+SUMMARY:✈️ AS SOUILLY-BASKET – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs ASC CHARNY SUR MEUSE - 1\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793115
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793115
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-03-20-20-30-asc-charny-sur-meuse-1-pagny-sur
+ -meuse-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs PAGNY SUR MEUSE BC\n\nSALLE DES SPORTS 1\n📍 Lotissement Sou
+ s le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.
+ 21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/comp
+ etitions/prm/match/200000014793120
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793120
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-03-27-20-30-cslb-bar-le-duc-1-asc-charny-sur
+ -meuse-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:✈️ CSLB BAR LE DUC - 1 – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ CSLB BAR LE DUC 
+ - 1 vs ASC CHARNY SUR MEUSE - 1\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de 
+ l'École Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7
+ 636\,5.1546&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competi
+ tions/prm/match/200000014793125
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793125
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-04-03-20-30-asc-charny-sur-meuse-1-cslb-bar-
+ le-duc-2@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – CSLB BAR LE DUC - 2
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs CSLB BAR LE DUC - 2\n\nSALLE DES SPORTS 1\n📍 Lotissement So
+ us le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49
+ .21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793133
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793133
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-04-11-13-30-asc-charny-sur-meuse-3-asc-charn
+ y-sur-meu@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270411T133000
+DTEND;TZID=Europe/Paris:20270411T153000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE - 3 – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 3 vs ASC CHARNY SUR MEUSE - 1\n\nSALLE DES SPORTS 1\n📍 Lotisseme
+ nt Sous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?
+ ll=49.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 5/competitions/prm/match/200000014793139
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793139
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-04-17-20-30-asc-charny-sur-meuse-1-asc-charn
+ y-sur-meu@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:🏠 ASC CHARNY SUR MEUSE - 1 – ASC CHARNY SUR MEUSE - 2
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs ASC CHARNY SUR MEUSE - 2\n\nSALLE DES SPORTS 1\n📍 Lotisseme
+ nt Sous le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?
+ ll=49.21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 5/competitions/prm/match/200000014793145
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793145
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-05-22-20-30-bcv-verdun-asc-charny-sur-meuse-
+ 1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270522T203000
+DTEND;TZID=Europe/Paris:20270522T223000
+SUMMARY:✈️ BCV VERDUN – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ BCV VERDUN vs AS
+ C CHARNY SUR MEUSE - 1\n\nCOSEC DES PLANCHETTES\n📍 Rue Général Séré
+  de Rivières Verdun 55100\n🚗 Waze : https://waze.com/ul?ll=49.15282\,5
+ .40878&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions
+ /prm/match/200000014793156
+LOCATION:COSEC DES PLANCHETTES\, Rue Général Séré de Rivières Verdun 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793156
+END:VEVENT
+END:VCALENDAR

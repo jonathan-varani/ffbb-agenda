@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASKET CLUB HOMBOURG-HAUT  [DMU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de BASKET CLUB HOMBOURG-HAUT – DMU15 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-10-03-16-00-basket-club-hombourg-haut-bc
+ -maiziere@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:🏠 BASKET CLUB HOMBOURG-HAUT – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs BC MAIZIERES LES METZ\n\nGymnase Pierre de Coubertin\n
+ 📍 Rue Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/ul?ll
+ =49.13806\,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu15/match/200000014794355
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794355
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-10-10-16-00-thionville-bc-1-basket-club-
+ hombourg-@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261010T160000
+DTEND;TZID=Europe/Paris:20261010T180000
+SUMMARY:✈️ THIONVILLE BC - 1 – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ THIONVILLE B
+ C - 1 vs BASKET CLUB HOMBOURG-HAUT\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermo
+ z Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15/m
+ atch/200000014794364
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794364
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-07-16-00-cse-folkling-2-basket-club-h
+ ombourg-h@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:✈️ CSE FOLKLING - 2 – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSE FOLKLING
+  - 2 vs BASKET CLUB HOMBOURG-HAUT\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Déc
+ embre 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.
+ 89305&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/
+ dmu15/match/200000014794373
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794373
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-14-16-00-basket-club-hombourg-haut-lo
+ ngeville-@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 BASKET CLUB HOMBOURG-HAUT – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs LONGEVILLE ET ST AVOLD BASKET\n\nGymnase Pierre de Couber
+ tin\n📍 Rue Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/
+ ul?ll=49.13806\,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0057/competitions/dmu15/match/200000014794383
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794383
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-21-16-00-basket-club-hombourg-haut-as
+ ptt-metz-@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:🏠 BASKET CLUB HOMBOURG-HAUT – ASPTT METZ - BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs ASPTT METZ - BASKET\n\nGymnase Pierre de Coubertin\n📍 
+ Rue Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/ul?ll=49.1
+ 3806\,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/dmu15/match/200000014794396
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794396
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-11-28-16-00-csj-augny-basket-club-hombou
+ rg-haut@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:✈️ CSJ AUGNY – BASKET CLUB HOMBOURG-HAUT
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ CSJ AUGNY vs
+  BASKET CLUB HOMBOURG-HAUT\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de 
+ la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6
+ .12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /dmu15/match/200000014794405
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794405
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-a-2026-12-12-16-00-basket-club-hombourg-haut-as
+ -sarregue@ffbb-agenda
+DTSTAMP:20260919T170152Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:🏠 BASKET CLUB HOMBOURG-HAUT – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs AS SARREGUEMINES BASKET\n\nGymnase Pierre de Coubertin\n
+ 📍 Rue Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/ul?ll
+ =49.13806\,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu15/match/200000014794412
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794412
+END:VEVENT
+END:VCALENDAR

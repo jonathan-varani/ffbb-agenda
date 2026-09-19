@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE  [DMU18 – GES – Poule B]
+X-WR-CALDESC:Matchs de ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE – DMU18 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-10-03-18-00-thionville-bc-2-entente-bask
+ et-nilvan@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ THIONVILLE BC - 2 – ENTENTE BASKET NILVANGE SEREMANGE ALGR
+ ANGE
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ THIONVILLE B
+ C - 2 vs ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE\n\nGYMNASE DE LA PLAIN
+ E\n📍 Rue Mermoz Thionville 57100\n🚗 Waze : https://waze.com/ul?ll=49
+ .36701\,6.16433&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu18/match/200000014793743
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793743
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-10-10-18-00-entente-basket-nilvange-sere
+ mange-alg@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE – L'ESPERANCE DE 
+ STENAY
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ ENTENTE BASK
+ ET NILVANGE SEREMANGE ALGRANGE vs L'ESPERANCE DE STENAY\n\nSALLE ALBERT BA
+ SSETTO\n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waze.co
+ m/ul?ll=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0057/competitions/dmu18/match/200000014793753
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793753
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-07-18-00-entente-basket-nilvange-sere
+ mange-alg@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261107T180000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:🏠 ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE – FOXES GANDRANGE
+  BASKET CLUB
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ ENTENTE BASK
+ ET NILVANGE SEREMANGE ALGRANGE vs FOXES GANDRANGE BASKET CLUB\n\nSALLE ALB
+ ERT BASSETTO\n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://w
+ aze.com/ul?ll=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0057/competitions/dmu18/match/200000014793763
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793763
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-22-10-00-es-hagondange-entente-basket
+ -nilvange@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261122T100000
+DTEND;TZID=Europe/Paris:20261122T120000
+SUMMARY:✈️ ES HAGONDANGE – ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ ES HAGONDANG
+ E vs ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE\n\nPALAIS DES SPORTS PAUL 
+ LAMM\n📍 Rue Henri Hoffmann Hagondange 57300\n🚗 Waze : https://waze.c
+ om/ul?ll=49.25391\,6.16551&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0057/competitions/dmu18/match/200000014793780
+LOCATION:PALAIS DES SPORTS PAUL LAMM\, Rue Henri Hoffmann Hagondange 57300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793780
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-11-28-18-00-ls-rosselange-basket-entente
+ -basket-n@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:✈️ LS ROSSELANGE BASKET – ENTENTE BASKET NILVANGE SEREMANGE A
+ LGRANGE
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ LS ROSSELANG
+ E BASKET vs ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE\n\nSALLE BERNARD ME
+ RCKEL\n📍 Grand Rue Rosselange 57780\n🚗 Waze : https://waze.com/ul?ll
+ =49.25429\,6.06087&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu18/match/200000014793792
+LOCATION:SALLE BERNARD MERCKEL\, Grand Rue Rosselange 57780
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793792
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu18-ges-moselle-poule-b-2026-12-12-18-00-entente-basket-nilvange-sere
+ mange-alg@ffbb-agenda
+DTSTAMP:20260919T170146Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:🏠 ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE – FENSCH BASKET A
+ VENIR FBA - 2
+DESCRIPTION:🏀 DMU18 – GES – Moselle – Poule B\n⚔️ ENTENTE BASK
+ ET NILVANGE SEREMANGE ALGRANGE vs FENSCH BASKET AVENIR FBA - 2\n\nSALLE AL
+ BERT BASSETTO\n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://
+ waze.com/ul?ll=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0057/competitions/dmu18/match/200000014793804
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 8/match/200000014793804
+END:VEVENT
+END:VCALENDAR

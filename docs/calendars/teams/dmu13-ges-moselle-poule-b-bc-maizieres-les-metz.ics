@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC MAIZIERES LES METZ  [DMU13 – GES – Poule B]
+X-WR-CALDESC:Matchs de BC MAIZIERES LES METZ – DMU13 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-10-03-14-00-bc-maizieres-les-metz-longev
+ ille-et-s@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 BC MAIZIERES LES METZ – LONGEVILLE ET ST AVOLD BASKET - 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ BC MAIZIERES
+  LES METZ vs LONGEVILLE ET ST AVOLD BASKET - 2\n\nGymnase Joël Bommershei
+ m\n📍 Rue Lothaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.
+ com/ul?ll=49.21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0057/competitions/dmu13/match/200000014794477
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794477
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-10-10-14-00-basket-club-hombourg-haut-bc
+ -maiziere@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ BASKET CLUB HOMBOURG-HAUT – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ BASKET CLUB 
+ HOMBOURG-HAUT vs BC MAIZIERES LES METZ\n\nGymnase Pierre de Coubertin\n
+ 📍 Rue Beau Site Hombourg-Haut 57470\n🚗 Waze : https://waze.com/ul?ll
+ =49.13806\,6.78145&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794492
+LOCATION:Gymnase Pierre de Coubertin\, Rue Beau Site Hombourg-Haut 57470
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794492
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-11-07-14-00-creutzwald-bc-bc-maizieres-l
+ es-metz@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ CREUTZWALD BC – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ CREUTZWALD B
+ C vs BC MAIZIERES LES METZ\n\nGYMNASE DU BRECKELBERG\n📍 Square Georges 
+ Bastide Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.19891\,6.6
+ 9796&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ mu13/match/200000014794505
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794505
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-11-14-14-00-cse-folkling-2-bc-maizieres-
+ les-metz@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T160000
+SUMMARY:✈️ CSE FOLKLING - 2 – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ CSE FOLKLING
+  - 2 vs BC MAIZIERES LES METZ\n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembr
+ e 1944 Folkling 57600\n🚗 Waze : https://waze.com/ul?ll=49.14622\,6.8930
+ 5&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794521
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794521
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-11-21-14-00-bc-maizieres-les-metz-es-hag
+ ondange@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:🏠 BC MAIZIERES LES METZ – ES HAGONDANGE
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ BC MAIZIERES
+  LES METZ vs ES HAGONDANGE\n\nGymnase Joël Bommersheim\n📍 Rue Lothaire
+  Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.21847\,
+ 6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competition
+ s/dmu13/match/200000014794533
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794533
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-11-28-14-00-bc-maizieres-les-metz-csj-au
+ gny@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 BC MAIZIERES LES METZ – CSJ AUGNY
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ BC MAIZIERES
+  LES METZ vs CSJ AUGNY\n\nGymnase Joël Bommersheim\n📍 Rue Lothaire Mai
+ zières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=49.21847\,6.14
+ 689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ u13/match/200000014794551
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794551
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-b-2026-12-12-14-00-bc-maizieres-les-metz-as-sar
+ reguemine@ffbb-agenda
+DTSTAMP:20260919T170209Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:🏠 BC MAIZIERES LES METZ – AS SARREGUEMINES BASKET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule B\n⚔️ BC MAIZIERES
+  LES METZ vs AS SARREGUEMINES BASKET\n\nGymnase Joël Bommersheim\n📍 Ru
+ e Lothaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.com/ul?ll=
+ 49.21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794565
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794565
+END:VEVENT
+END:VCALENDAR

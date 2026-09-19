@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – FOXES GANDRANGE BASKET CLUB  [DMU13 – GES – Poule C]
+X-WR-CALDESC:Matchs de FOXES GANDRANGE BASKET CLUB – DMU13 – GES – Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-10-03-14-00-foxes-gandrange-basket-club-
+ asptt-met@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – ASPTT METZ - BASKET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ FOXES GANDRA
+ NGE BASKET CLUB vs ASPTT METZ - BASKET\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0057/competitions/dmu13/match/200000014794480
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794480
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-10-10-14-00-j-s-audunoise-basket-foxes-g
+ andrange-@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ J.S.AUDUNOISE BASKET – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ J.S.AUDUNOIS
+ E BASKET vs FOXES GANDRANGE BASKET CLUB\n\nGYMNASE PIERRE TOMASI\n📍 Rue
+  Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/dmu13/match/200000014794496
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794496
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-07-14-00-loisirs-sport-montigny-foxes
+ -gandrang@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ LOISIRS SPORT MONTIGNY – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs FOXES GANDRANGE BASKET CLUB\n\nGYMNASE MERMOZ\n📍 Rue du 1
+ 1ème Régiment d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll
+ =49.08585\,6.14579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794512
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794512
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-14-16-00-foxes-gandrange-basket-club-
+ as-saint-@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 FOXES GANDRANGE BASKET CLUB – AS SAINT NICOLAS EN FORET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ FOXES GANDRA
+ NGE BASKET CLUB vs AS SAINT NICOLAS EN FORET\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0057/competitions/dmu13/match/200000014794526
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794526
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-21-14-00-asp-ste-marie-aux-chenes-2-f
+ oxes-gand@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:✈️ ASP SMAC - 2 – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ ASP STE MARI
+ E AUX CHENES - 2 vs FOXES GANDRANGE BASKET CLUB\n\nGYMNASE BERTHELOT\n📍
+  Rue Berthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.co
+ m/ul?ll=49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0057/competitions/dmu13/match/200000014794541
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794541
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-12-12-14-00-us-silvange-basket-2-foxes-g
+ andrange-@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:✈️ US SILVANGE BASKET - 2 – FOXES GANDRANGE BASKET CLUB
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ US SILVANGE 
+ BASKET - 2 vs FOXES GANDRANGE BASKET CLUB\n\nCOSEC LA ROUSSE\n📍 Rue Aug
+ uste Migette Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49
+ .21214\,6.11352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794568
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794568
+END:VEVENT
+END:VCALENDAR

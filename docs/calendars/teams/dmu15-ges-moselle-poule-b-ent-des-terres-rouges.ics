@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ENT. DES TERRES ROUGES  [DMU15 – GES – Poule B]
+X-WR-CALDESC:Matchs de ENT. DES TERRES ROUGES – DMU15 – GES – Moselle – Poule B
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-10-03-18-00-dukes-de-fameck-ent-des-terr
+ es-rouges@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T200000
+SUMMARY:✈️ DUKES DE FAMECK – ENT. DES TERRES ROUGES
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ DUKES DE FAM
+ ECK vs ENT. DES TERRES ROUGES\n\nSalle VISOSA\n📍 Rue Antoine de Saint-E
+ xupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu15
+ /match/200000014794359
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794359
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-10-11-11-00-district-basket-rodemack-kan
+ fen-dbrk-@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261011T110000
+DTEND;TZID=Europe/Paris:20261011T130000
+SUMMARY:✈️ DISTRICT BASKET RODEMACK KANFEN (DBRK) – ENT. DES TERRES R
+ OUGES
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ DISTRICT BAS
+ KET RODEMACK KANFEN (DBRK) vs ENT. DES TERRES ROUGES\n\nGYMNASE OMNISPORT\
+ n📍 Rue de Hettange Kanfen 57330\n🚗 Waze : https://waze.com/ul?ll=49.
+ 43544\,6.11049&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/dmu15/match/200000014794368
+LOCATION:GYMNASE OMNISPORT\, Rue de Hettange Kanfen 57330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794368
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-07-16-00-ent-des-terres-rouges-as-sai
+ nt-nicola@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261107T160000
+DTEND;TZID=Europe/Paris:20261107T180000
+SUMMARY:🏠 ENT. DES TERRES ROUGES – AS SAINT NICOLAS EN FORET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. DES TER
+ RES ROUGES vs AS SAINT NICOLAS EN FORET\n\nGYMNASE PIERRE TOMASI\n📍 Rue
+  Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/comp
+ etitions/dmu15/match/200000014794378
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794378
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-14-16-00-ent-des-terres-rouges-thionv
+ ille-bc-2@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:🏠 ENT. DES TERRES ROUGES – THIONVILLE BC - 2
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. DES TER
+ RES ROUGES vs THIONVILLE BC - 2\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacques
+  Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,5
+ .94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions
+ /dmu15/match/200000014794391
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794391
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-21-16-00-entente-basket-nilvange-sere
+ mange-alg@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:✈️ ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE – ENT. DES TERR
+ ES ROUGES
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENTENTE BASK
+ ET NILVANGE SEREMANGE ALGRANGE vs ENT. DES TERRES ROUGES\n\nSALLE ALBERT B
+ ASSETTO\n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waze.c
+ om/ul?ll=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0057/competitions/dmu15/match/200000014794399
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794399
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-11-28-16-00-ent-des-terres-rouges-fensch
+ -basket-a@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:🏠 ENT. DES TERRES ROUGES – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. DES TER
+ RES ROUGES vs FENSCH BASKET AVENIR FBA\n\nGYMNASE PIERRE TOMASI\n📍 Rue 
+ Jacques Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49
+ .473\,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/dmu15/match/200000014794408
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794408
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-moselle-poule-b-2026-12-12-16-00-ent-des-terres-rouges-ent-va
+ l-orne-ba@ffbb-agenda
+DTSTAMP:20260919T170158Z
+DTSTART;TZID=Europe/Paris:20261212T160000
+DTEND;TZID=Europe/Paris:20261212T180000
+SUMMARY:🏠 ENT. DES TERRES ROUGES – ENT. VAL ORNE BASKET
+DESCRIPTION:🏀 DMU15 – GES – Moselle – Poule B\n⚔️ ENT. DES TER
+ RES ROUGES vs ENT. VAL ORNE BASKET\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacq
+ ues Duclos Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473
+ \,5.94094&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/dmu15/match/200000014794418
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 5/match/200000014794418
+END:VEVENT
+END:VCALENDAR

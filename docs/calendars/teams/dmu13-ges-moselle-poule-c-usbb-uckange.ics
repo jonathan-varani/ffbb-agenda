@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – USBB UCKANGE  [DMU13 – GES – Poule C]
+X-WR-CALDESC:Matchs de USBB UCKANGE – DMU13 – GES – Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-10-03-14-00-usbb-uckange-asp-ste-marie-a
+ ux-chenes@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 USBB UCKANGE – ASP SMAC - 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ USBB UCKANGE
+  vs ASP STE MARIE AUX CHENES - 2\n\nGYMNASE PETITE FONTAINE\n📍 Rue Jean
+  Moulin Uckange 57270\n🚗 Waze : https://waze.com/ul?ll=49.30388\,6.1440
+ 9&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794478
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794478
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-10-10-14-00-usbb-uckange-as-saint-nicola
+ s-en-fore@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 USBB UCKANGE – AS SAINT NICOLAS EN FORET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ USBB UCKANGE
+  vs AS SAINT NICOLAS EN FORET\n\nGYMNASE PETITE FONTAINE\n📍 Rue Jean Mo
+ ulin Uckange 57270\n🚗 Waze : https://waze.com/ul?ll=49.30388\,6.14409&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/m
+ atch/200000014794497
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794497
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-07-14-00-j-s-audunoise-basket-usbb-uc
+ kange@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ J.S.AUDUNOISE BASKET – USBB UCKANGE
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ J.S.AUDUNOIS
+ E BASKET vs USBB UCKANGE\n\nGYMNASE PIERRE TOMASI\n📍 Rue Jacques Duclos
+  Audun-le-Tiche 57390\n🚗 Waze : https://waze.com/ul?ll=49.473\,5.94094&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/
+ match/200000014794511
+LOCATION:GYMNASE PIERRE TOMASI\, Rue Jacques Duclos Audun-le-Tiche 57390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794511
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-14-16-00-asptt-metz-basket-usbb-uckan
+ ge@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:✈️ ASPTT METZ - BASKET – USBB UCKANGE
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ ASPTT METZ -
+  BASKET vs USBB UCKANGE\n\nCOSEC DE QUEULEU\n📍 Rue de Tivoli Metz 57070
+ \n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.19469&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/match/2000000147
+ 94527
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794527
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-21-14-00-usbb-uckange-es-hagondange-2
+ @ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:🏠 USBB UCKANGE – ES HAGONDANGE - 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ USBB UCKANGE
+  vs ES HAGONDANGE - 2\n\nGYMNASE PETITE FONTAINE\n📍 Rue Jean Moulin Uck
+ ange 57270\n🚗 Waze : https://waze.com/ul?ll=49.30388\,6.14409&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/match/200
+ 000014794539
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794539
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-28-14-00-loisirs-sport-montigny-usbb-
+ uckange@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:✈️ LOISIRS SPORT MONTIGNY – USBB UCKANGE
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ LOISIRS SPOR
+ T MONTIGNY vs USBB UCKANGE\n\nGYMNASE MERMOZ\n📍 Rue du 11ème Régiment
+  d'Aviation Marly 57155\n🚗 Waze : https://waze.com/ul?ll=49.08585\,6.14
+ 579&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dm
+ u13/match/200000014794553
+LOCATION:GYMNASE MERMOZ\, Rue du 11ème Régiment d'Aviation Marly 57155
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794553
+END:VEVENT
+END:VCALENDAR

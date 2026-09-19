@@ -1,0 +1,379 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – PAGNY SUR MEUSE BC  [PRM – GES – Poule A]
+X-WR-CALDESC:Matchs de PAGNY SUR MEUSE BC – PRM – GES – Meuse – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-09-26-20-30-pagny-sur-meuse-bc-asc-charny-su
+ r-meuse-3@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20260926T203000
+DTEND;TZID=Europe/Paris:20260926T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – ASC CHARNY SUR MEUSE - 3
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs ASC CHARNY SUR MEUSE - 3\n\nSALLE DE SPORTS - LES CORVEES\n📍 All
+ ée des Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll
+ =48.69532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793030
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793030
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-10-03-20-30-cslb-bar-le-duc-2-pagny-sur-meus
+ e-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:✈️ CSLB BAR LE DUC - 2 – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ CSLB BAR LE DUC 
+ - 2 vs PAGNY SUR MEUSE BC\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'Éco
+ le Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5
+ .1546&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/
+ prm/match/200000014793036
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793036
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-11-08-13-30-bcv-verdun-pagny-sur-meuse-bc@ff
+ bb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261108T133000
+DTEND;TZID=Europe/Paris:20261108T153000
+SUMMARY:✈️ BCV VERDUN – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ BCV VERDUN vs PA
+ GNY SUR MEUSE BC\n\nCOSEC DES PLANCHETTES\n📍 Rue Général Séré de Ri
+ vières Verdun 55100\n🚗 Waze : https://waze.com/ul?ll=49.15282\,5.40878
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/m
+ atch/200000014793048
+LOCATION:COSEC DES PLANCHETTES\, Rue Général Séré de Rivières Verdun 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793048
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-11-21-20-30-pagny-sur-meuse-bc-asc-charny-su
+ r-meuse-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261121T203000
+DTEND;TZID=Europe/Paris:20261121T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – ASC CHARNY SUR MEUSE - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs ASC CHARNY SUR MEUSE - 1\n\nSALLE DE SPORTS - LES CORVEES\n📍 All
+ ée des Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll
+ =48.69532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793054
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793054
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-11-28-20-30-asc-charny-sur-meuse-2-pagny-sur
+ -meuse-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261128T203000
+DTEND;TZID=Europe/Paris:20261128T223000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE - 2 – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 2 vs PAGNY SUR MEUSE BC\n\nSALLE DES SPORTS 1\n📍 Lotissement Sou
+ s le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.
+ 21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/comp
+ etitions/prm/match/200000014793060
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793060
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-12-05-20-30-pagny-sur-meuse-bc-cslb-bar-le-d
+ uc-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – CSLB BAR LE DUC - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs CSLB BAR LE DUC - 1\n\nSALLE DE SPORTS - LES CORVEES\n📍 Allée de
+ s Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll=48.69
+ 532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compet
+ itions/prm/match/200000014793065
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793065
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-12-13-13-30-avenir-de-vignot-2-pagny-sur-meu
+ se-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261213T133000
+DTEND;TZID=Europe/Paris:20261213T153000
+SUMMARY:✈️ AVENIR DE VIGNOT - 2 – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AVENIR DE VIGNOT
+  - 2 vs PAGNY SUR MEUSE BC\n\nSALLE POLYVALENTE DES OUILLONS\n📍 Rue de 
+ Lorraine Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.69166\,6.17146
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/m
+ atch/200000014793070
+LOCATION:SALLE POLYVALENTE DES OUILLONS\, Rue de Lorraine Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793070
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2026-12-19-20-30-pagny-sur-meuse-bc-avenir-de-vig
+ not-1@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20261219T203000
+DTEND;TZID=Europe/Paris:20261219T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – AVENIR DE VIGNOT - 1
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs AVENIR DE VIGNOT - 1\n\nSALLE DE SPORTS - LES CORVEES\n📍 Allée d
+ es Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 9532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/prm/match/200000014793075
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793075
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-01-08-20-30-as-souilly-basket-pagny-sur-meus
+ e-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270108T203000
+DTEND;TZID=Europe/Paris:20270108T223000
+SUMMARY:✈️ AS SOUILLY-BASKET – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AS SOUILLY-BASKE
+ T vs PAGNY SUR MEUSE BC\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competit
+ ions/prm/match/200000014793083
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793083
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-01-16-20-30-pagny-sur-meuse-bc-l-esperance-d
+ e-stenay@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – L'ESPERANCE DE STENAY
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs L'ESPERANCE DE STENAY\n\nSALLE DE SPORTS - LES CORVEES\n📍 Allée 
+ des Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll=48.
+ 69532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/comp
+ etitions/prm/match/200000014793089
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793089
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-01-31-13-30-asc-charny-sur-meuse-3-pagny-sur
+ -meuse-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270131T133000
+DTEND;TZID=Europe/Paris:20270131T153000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE - 3 – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 3 vs PAGNY SUR MEUSE BC\n\nSALLE DES SPORTS 1\n📍 Lotissement Sou
+ s le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.
+ 21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/comp
+ etitions/prm/match/200000014793096
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793096
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-02-06-20-30-pagny-sur-meuse-bc-cslb-bar-le-d
+ uc-2@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270206T203000
+DTEND;TZID=Europe/Paris:20270206T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – CSLB BAR LE DUC - 2
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs CSLB BAR LE DUC - 2\n\nSALLE DE SPORTS - LES CORVEES\n📍 Allée de
+ s Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll=48.69
+ 532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compet
+ itions/prm/match/200000014793102
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793102
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-03-13-20-30-pagny-sur-meuse-bc-bcv-verdun@ff
+ bb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270313T203000
+DTEND;TZID=Europe/Paris:20270313T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – BCV VERDUN
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs BCV VERDUN\n\nSALLE DE SPORTS - LES CORVEES\n📍 Allée des Corvée
+ s Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll=48.69532\,5.73
+ 431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/pr
+ m/match/200000014793114
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793114
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-03-20-20-30-asc-charny-sur-meuse-1-pagny-sur
+ -meuse-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE - 1 – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ ASC CHARNY SUR M
+ EUSE - 1 vs PAGNY SUR MEUSE BC\n\nSALLE DES SPORTS 1\n📍 Lotissement Sou
+ s le Moulin Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.
+ 21061\,5.36486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/comp
+ etitions/prm/match/200000014793120
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793120
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-03-27-20-30-pagny-sur-meuse-bc-asc-charny-su
+ r-meuse-2@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270327T203000
+DTEND;TZID=Europe/Paris:20270327T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – ASC CHARNY SUR MEUSE - 2
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs ASC CHARNY SUR MEUSE - 2\n\nSALLE DE SPORTS - LES CORVEES\n📍 All
+ ée des Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll
+ =48.69532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/
+ competitions/prm/match/200000014793126
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793126
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-04-03-20-30-cslb-bar-le-duc-1-pagny-sur-meus
+ e-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:✈️ CSLB BAR LE DUC - 1 – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ CSLB BAR LE DUC 
+ - 1 vs PAGNY SUR MEUSE BC\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'Éco
+ le Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5
+ .1546&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/
+ prm/match/200000014793131
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793131
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-04-10-20-30-pagny-sur-meuse-bc-avenir-de-vig
+ not-2@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270410T203000
+DTEND;TZID=Europe/Paris:20270410T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – AVENIR DE VIGNOT - 2
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs AVENIR DE VIGNOT - 2\n\nSALLE DE SPORTS - LES CORVEES\n📍 Allée d
+ es Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll=48.6
+ 9532\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/compe
+ titions/prm/match/200000014793136
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793136
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-04-18-15-30-avenir-de-vignot-1-pagny-sur-meu
+ se-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:✈️ AVENIR DE VIGNOT - 1 – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ AVENIR DE VIGNOT
+  - 1 vs PAGNY SUR MEUSE BC\n\nSALLE POLYVALENTE DES OUILLONS\n📍 Rue de 
+ Lorraine Nancy 54000\n🚗 Waze : https://waze.com/ul?ll=48.69166\,6.17146
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/m
+ atch/200000014793141
+LOCATION:SALLE POLYVALENTE DES OUILLONS\, Rue de Lorraine Nancy 54000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793141
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-05-15-20-30-pagny-sur-meuse-bc-as-souilly-ba
+ sket@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:🏠 PAGNY SUR MEUSE BC – AS SOUILLY-BASKET
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ PAGNY SUR MEUSE 
+ BC vs AS SOUILLY-BASKET\n\nSALLE DE SPORTS - LES CORVEES\n📍 Allée des 
+ Corvées Pagny-sur-Meuse 55190\n🚗 Waze : https://waze.com/ul?ll=48.6953
+ 2\,5.73431&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0055/competit
+ ions/prm/match/200000014793149
+LOCATION:SALLE DE SPORTS - LES CORVEES\, Allée des Corvées Pagny-sur-Meus
+ e 55190
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793149
+END:VEVENT
+BEGIN:VEVENT
+UID:prm-ges-meuse-poule-a-2027-05-23-13-30-l-esperance-de-stenay-pagny-sur-
+ meuse-bc@ffbb-agenda
+DTSTAMP:20260919T165740Z
+DTSTART;TZID=Europe/Paris:20270523T133000
+DTEND;TZID=Europe/Paris:20270523T153000
+SUMMARY:✈️ L'ESPERANCE DE STENAY – PAGNY SUR MEUSE BC
+DESCRIPTION:🏀 PRM – GES – Meuse – Poule A\n⚔️ L'ESPERANCE DE S
+ TENAY vs PAGNY SUR MEUSE BC\n\nSALLE POLYVALENTE\n📍 Avenue de Verdun St
+ enay 55700\n🚗 Waze : https://waze.com/ul?ll=49.4884\,5.19528&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/match/200000
+ 014793155
+LOCATION:SALLE POLYVALENTE\, Avenue de Verdun Stenay 55700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0055/competitions/prm/
+ match/200000014793155
+END:VEVENT
+END:VCALENDAR

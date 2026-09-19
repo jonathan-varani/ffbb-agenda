@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – US BOULANGE FONTOY BB  [DMU13 – GES – Poule A]
+X-WR-CALDESC:Matchs de US BOULANGE FONTOY BB – DMU13 – GES – Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-10-03-14-00-district-basket-rodemack-kan
+ fen-dbrk-@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ DISTRICT BASKET RODEMACK KANFEN (DBRK) - 2 – US BOULANGE F
+ ONTOY BB
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ DISTRICT BAS
+ KET RODEMACK KANFEN (DBRK) - 2 vs US BOULANGE FONTOY BB\n\nESPACE OMNISPOR
+ TS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https://waze.com/ul?l
+ l=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794471
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794471
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-10-10-14-00-us-boulange-fontoy-bb-ls-ros
+ selange-b@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 US BOULANGE FONTOY BB – LS ROSSELANGE BASKET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ US BOULANGE 
+ FONTOY BB vs LS ROSSELANGE BASKET\n\nSALLE PIERRE SCHEYER\n📍 Rue Jean B
+ urger Fontoy 57650\n🚗 Waze : https://waze.com/ul?ll=49.35787\,6.00094&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/m
+ atch/200000014794486
+LOCATION:SALLE PIERRE SCHEYER\, Rue Jean Burger Fontoy 57650
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794486
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-11-07-14-00-us-boulange-fontoy-bb-metz-b
+ c-2@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:🏠 US BOULANGE FONTOY BB – METZ BC - 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ US BOULANGE 
+ FONTOY BB vs METZ BC - 2\n\nSALLE PIERRE SCHEYER\n📍 Rue Jean Burger Fon
+ toy 57650\n🚗 Waze : https://waze.com/ul?ll=49.35787\,6.00094&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/match/2000
+ 00014794501
+LOCATION:SALLE PIERRE SCHEYER\, Rue Jean Burger Fontoy 57650
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794501
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-11-21-16-00-basket-club-hayange-marspich
+ -2-us-bou@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261121T160000
+DTEND;TZID=Europe/Paris:20261121T180000
+SUMMARY:✈️ BASKET CLUB HAYANGE MARSPICH - 2 – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ BASKET CLUB 
+ HAYANGE MARSPICH - 2 vs US BOULANGE FONTOY BB\n\nC.O.S.E.C.\n📍 Rue du 6
+  Juin 1944 Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.33796\,6.0
+ 8047&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/d
+ mu13/match/200000014794528
+LOCATION:C.O.S.E.C.\, Rue du 6 Juin 1944 Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794528
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-11-28-14-00-thionville-bc-us-boulange-fo
+ ntoy-bb@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:✈️ THIONVILLE BC – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ THIONVILLE B
+ C vs US BOULANGE FONTOY BB\n\nGYMNASE DE LA PLAINE\n📍 Rue Mermoz Thionv
+ ille 57100\n🚗 Waze : https://waze.com/ul?ll=49.36701\,6.16433&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/match/200
+ 000014794545
+LOCATION:GYMNASE DE LA PLAINE\, Rue Mermoz Thionville 57100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794545
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-a-2026-12-12-14-00-us-boulange-fontoy-bb-fensch
+ -basket-a@ffbb-agenda
+DTSTAMP:20260919T170204Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:🏠 US BOULANGE FONTOY BB – FENSCH BASKET AVENIR FBA
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule A\n⚔️ US BOULANGE 
+ FONTOY BB vs FENSCH BASKET AVENIR FBA\n\nSALLE PIERRE SCHEYER\n📍 Rue Je
+ an Burger Fontoy 57650\n🚗 Waze : https://waze.com/ul?ll=49.35787\,6.000
+ 94&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu
+ 13/match/200000014794562
+LOCATION:SALLE PIERRE SCHEYER\, Rue Jean Burger Fontoy 57650
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794562
+END:VEVENT
+END:VCALENDAR

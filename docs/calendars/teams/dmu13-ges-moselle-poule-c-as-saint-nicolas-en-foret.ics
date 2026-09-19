@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – AS SAINT NICOLAS EN FORET  [DMU13 – GES – Poule C]
+X-WR-CALDESC:Matchs de AS SAINT NICOLAS EN FORET – DMU13 – GES – Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-10-03-14-00-as-saint-nicolas-en-foret-es
+ -hagondan@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:🏠 AS SAINT NICOLAS EN FORET – ES HAGONDANGE - 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ AS SAINT NIC
+ OLAS EN FORET vs ES HAGONDANGE - 2\n\nSALLE JACQUES ROELANDT\n📍 Bouleva
+ rd de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=49.3
+ 1146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/compe
+ titions/dmu13/match/200000014794482
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794482
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-10-10-14-00-usbb-uckange-as-saint-nicola
+ s-en-fore@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:✈️ USBB UCKANGE – AS SAINT NICOLAS EN FORET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ USBB UCKANGE
+  vs AS SAINT NICOLAS EN FORET\n\nGYMNASE PETITE FONTAINE\n📍 Rue Jean Mo
+ ulin Uckange 57270\n🚗 Waze : https://waze.com/ul?ll=49.30388\,6.14409&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu13/m
+ atch/200000014794497
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794497
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-07-14-00-asp-ste-marie-aux-chenes-2-a
+ s-saint-n@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261107T140000
+DTEND;TZID=Europe/Paris:20261107T160000
+SUMMARY:✈️ ASP SMAC - 2 – AS SAINT NICOLAS EN FORET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ ASP STE MARI
+ E AUX CHENES - 2 vs AS SAINT NICOLAS EN FORET\n\nGYMNASE BERTHELOT\n📍 R
+ ue Berthelot Sainte-Marie-aux-Chênes 57255\n🚗 Waze : https://waze.com/
+ ul?ll=49.19465\,5.99704&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0057/competitions/dmu13/match/200000014794510
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794510
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-14-16-00-foxes-gandrange-basket-club-
+ as-saint-@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:✈️ FOXES GANDRANGE BASKET CLUB – AS SAINT NICOLAS EN FORET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ FOXES GANDRA
+ NGE BASKET CLUB vs AS SAINT NICOLAS EN FORET\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0057/competitions/dmu13/match/200000014794526
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794526
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-21-14-00-as-saint-nicolas-en-foret-j-
+ s-audunoi@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:🏠 AS SAINT NICOLAS EN FORET – J.S.AUDUNOISE BASKET
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ AS SAINT NIC
+ OLAS EN FORET vs J.S.AUDUNOISE BASKET\n\nSALLE JACQUES ROELANDT\n📍 Boul
+ evard de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?ll=4
+ 9.31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794538
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794538
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-11-28-14-00-as-saint-nicolas-en-foret-us
+ -silvange@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 AS SAINT NICOLAS EN FORET – US SILVANGE BASKET - 2
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ AS SAINT NIC
+ OLAS EN FORET vs US SILVANGE BASKET - 2\n\nSALLE JACQUES ROELANDT\n📍 Bo
+ ulevard de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?ll
+ =49.31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794556
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794556
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu13-ges-moselle-poule-c-2026-12-12-14-00-as-saint-nicolas-en-foret-lo
+ isirs-spo@ffbb-agenda
+DTSTAMP:20260919T170214Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T160000
+SUMMARY:🏠 AS SAINT NICOLAS EN FORET – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 DMU13 – GES – Moselle – Poule C\n⚔️ AS SAINT NIC
+ OLAS EN FORET vs LOISIRS SPORT MONTIGNY\n\nSALLE JACQUES ROELANDT\n📍 Bo
+ ulevard de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.com/ul?ll
+ =49.31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/dmu13/match/200000014794570
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/dmu1
+ 3/match/200000014794570
+END:VEVENT
+END:VCALENDAR

@@ -24,27 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cpe-u13f-t1-ges-poule-a-2026-12-20-14-30-asc-charny-sur-meuse-nbc-sarre
- bourg@ffbb-agenda
-DTSTAMP:20260919T100509Z
-DTSTART;TZID=Europe/Paris:20261220T143000
-DTEND;TZID=Europe/Paris:20261220T163000
-SUMMARY:ASC CHARNY SUR MEUSE – NBC SARREBOURG
-DESCRIPTION:🏀 CPE-U13F-T1 – GES – Poule A\n⚔️ ASC CHARNY SUR MEU
- SE vs NBC SARREBOURG\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Mouli
- n Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.21061\,5.3
- 6486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
- FBB : https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13f-t1/ma
- tch/200000014775725
-LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
- 5100
-URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13f-t1/match
- /200000014775725
-END:VEVENT
-BEGIN:VEVENT
 UID:cpe-u13f-t1-ges-poule-a-2026-12-20-14-30-ie-ctc-eurometropole-strasbour
  g-basket-@ffbb-agenda
-DTSTAMP:20260919T100509Z
+DTSTAMP:20260919T223701Z
 DTSTART;TZID=Europe/Paris:20261220T143000
 DTEND;TZID=Europe/Paris:20261220T163000
 SUMMARY:IE - CTC EUROMETROPOLE STRASBOURG BASKET FEMININ - S.I. GRAFFENSTAD
@@ -58,5 +40,23 @@ DESCRIPTION:🏀 CPE-U13F-T1 – GES – Poule A\n⚔️ IE - CTC EUROMETRO
 LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
 URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13f-t1/match
  /200000014775726
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-u13f-t1-ges-poule-a-2026-12-20-14-30-asc-charny-sur-meuse-nbc-sarre
+ bourg@ffbb-agenda
+DTSTAMP:20260919T223701Z
+DTSTART;TZID=Europe/Paris:20261220T143000
+DTEND;TZID=Europe/Paris:20261220T163000
+SUMMARY:ASC CHARNY SUR MEUSE – NBC SARREBOURG
+DESCRIPTION:🏀 CPE-U13F-T1 – GES – Poule A\n⚔️ ASC CHARNY SUR MEU
+ SE vs NBC SARREBOURG\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Mouli
+ n Charny-sur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.21061\,5.3
+ 6486&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13f-t1/ma
+ tch/200000014775725
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u13f-t1/match
+ /200000014775725
 END:VEVENT
 END:VCALENDAR

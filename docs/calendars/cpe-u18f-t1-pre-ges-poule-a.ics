@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CPE-U18F-T1-PRE – GES – Poule A
+X-WR-CALDESC:Tous les matchs CPE-U18F-T1-PRE – GES – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cpe-u18f-t1-pre-ges-poule-a-2026-10-17-18-00-nbc-sarrebourg-cse-folklin
+ g@ffbb-agenda
+DTSTAMP:20260919T223638Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:NBC SARREBOURG – CSE FOLKLING
+DESCRIPTION:🏀 CPE-U18F-T1-PRE – GES – Poule A\n⚔️ NBC SARREBOURG
+  vs CSE FOLKLING\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 57400\n
+ 🚗 Waze : https://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/cpe-u18f-t1/match/200000014775871
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18f-t1/match
+ /200000014775871
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-u18f-t1-pre-ges-poule-a-2026-10-17-18-00-berrwiller-staffelfelden-b
+ c-kriegsh@ffbb-agenda
+DTSTAMP:20260919T223638Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:BERRWILLER/STAFFELFELDEN BC – KRIEGSHEIM/R. ASC
+DESCRIPTION:🏀 CPE-U18F-T1-PRE – GES – Poule A\n⚔️ BERRWILLER/STA
+ FFELFELDEN BC vs KRIEGSHEIM/R. ASC\n\nSALLE DES SPORTS\n📍 Rue de Hartma
+ nnswiller Berrwiller 68500\n🚗 Waze : https://waze.com/ul?ll=47.85229\,7
+ .21998&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18f-t1/
+ match/200000014775872
+LOCATION:SALLE DES SPORTS\, Rue de Hartmannswiller Berrwiller 68500
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18f-t1/match
+ /200000014775872
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-u18f-t1-pre-ges-poule-a-2026-10-17-18-00-bindernheim-c-s-u-geispols
+ heim-c-j-@ffbb-agenda
+DTSTAMP:20260919T223638Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:BINDERNHEIM C.S.U. – GEISPOLSHEIM C.J.S.
+DESCRIPTION:🏀 CPE-U18F-T1-PRE – GES – Poule A\n⚔️ BINDERNHEIM C.
+ S.U. vs GEISPOLSHEIM C.J.S.\n\nSALLE POLYVALENTE\n📍 Rue de Witternheim 
+ Bindernheim 67600\n🚗 Waze : https://waze.com/ul?ll=48.28678\,7.60704&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/cpe-u18f-t1/match/200
+ 000014775868
+LOCATION:SALLE POLYVALENTE\, Rue de Witternheim Bindernheim 67600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18f-t1/match
+ /200000014775868
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-u18f-t1-pre-ges-poule-a-2026-10-17-18-00-strasbourg-libellules-b-c-
+ pantheres@ffbb-agenda
+DTSTAMP:20260919T223638Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:STRASBOURG LIBELLULES B.C. – PANTHERES MULHOUSE BASKET ALSACE
+DESCRIPTION:🏀 CPE-U18F-T1-PRE – GES – Poule A\n⚔️ STRASBOURG LIB
+ ELLULES B.C. vs PANTHERES MULHOUSE BASKET ALSACE\n\nGYMNASE GUTENBERG\n
+ 📍 Rue Albert Sayet Strasbourg 67200\n🚗 Waze : https://waze.com/ul?ll
+ =48.56146\,7.70879&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ cpe-u18f-t1/match/200000014775869
+LOCATION:GYMNASE GUTENBERG\, Rue Albert Sayet Strasbourg 67200
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18f-t1/match
+ /200000014775869
+END:VEVENT
+BEGIN:VEVENT
+UID:cpe-u18f-t1-pre-ges-poule-a-2026-10-17-18-00-eschau-bc-asa-weyersheim@f
+ fbb-agenda
+DTSTAMP:20260919T223638Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:ESCHAU BC – ASA WEYERSHEIM
+DESCRIPTION:🏀 CPE-U18F-T1-PRE – GES – Poule A\n⚔️ ESCHAU BC vs A
+ SA WEYERSHEIM\n\nCENTRE SPORTIF CULTUREL\n📍 Place des Fêtes Eschau 671
+ 14\n🚗 Waze : https://waze.com/ul?ll=48.487\,7.72053&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/cpe-u18f-t1/match/200000014775870
+LOCATION:CENTRE SPORTIF CULTUREL\, Place des Fêtes Eschau 67114
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18f-t1/match
+ /200000014775870
+END:VEVENT
+END:VCALENDAR

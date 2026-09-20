@@ -1,0 +1,358 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CHAMPAGNE BASKET FEMININ  [RF2 – GES]
+X-WR-CALDESC:Matchs de CHAMPAGNE BASKET FEMININ – RF2 – GES
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-03-20-30-champagne-basket-feminin-asc-charny-sur-meuse@
+ ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs ASC CHARNY
+  SUR MEUSE\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauriac Reims
+  51100\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632328
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632328
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-10-18-00-e-l-witry-les-reims-basket-champagne-basket-fe
+ minin@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ E- L-WITRY LES REIMS BASKET vs CHAMPAG
+ NE BASKET FEMININ\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue de Bétheny
+  Witry-lès-Reims 51420\n🚗 Waze : https://waze.com/ul?ll=49.29189\,4.11
+ 144&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20000
+ 0014632347
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632347
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-17-20-30-champagne-basket-feminin-as-champigneulles-bas
+ ketball@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs AS CHAMPIG
+ NEULLES BASKETBALL\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauri
+ ac Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20000001463236
+ 4
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632364
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-08-13-15-asp-ste-marie-aux-chenes-2-champagne-basket-fe
+ minin@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:✈️ ASP SMAC - 2 – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASP STE MARIE AUX CHENES - 2 vs CHAMPA
+ GNE BASKET FEMININ\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot Sainte-Marie-a
+ ux-Chênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.19465\,5.99704&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632
+ 385
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632385
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-14-20-30-champagne-basket-feminin-dukes-de-fameck@ffbb-
+ agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – DUKES DE FAMECK
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs DUKES DE F
+ AMECK\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauriac Reims 5110
+ 0\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632400
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632400
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-29-13-15-champagne-basket-feminin-us-silvange-basket@ff
+ bb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs US SILVANG
+ E BASKET\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauriac Reims 5
+ 1100\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632438
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632438
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-05-20-30-champagne-basket-feminin-rombas-oc@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – ROMBAS OC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs ROMBAS OC\
+ n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauriac Reims 51100\n
+ 🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rf2/match/200000014632454
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632454
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-13-15-30-us-boulange-fontoy-bb-champagne-basket-feminin
+ @ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:✈️ US BOULANGE FONTOY BB – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US BOULANGE FONTOY BB vs CHAMPAGNE BAS
+ KET FEMININ\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 57655\n🚗 Wa
+ ze : https://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n📢 Arbitre
+ s : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.c
+ om/ligues/ges/competitions/rf2/match/200000014632473
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632473
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-09-20-30-champagne-basket-feminin-cslb-bar-le-duc@ffbb-
+ agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs CSLB BAR L
+ E DUC\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauriac Reims 5110
+ 0\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632490
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632490
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-16-20-30-ie-ctc-collectif-basket-val-de-lorraine-sud-ch
+ ampagne-b@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – CHAMPAGNE 
+ BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ IE - CTC COLLECTIF BASKET VAL DE LORRA
+ INE SUD vs CHAMPAGNE BASKET FEMININ\n\nSALLE INTERCOMMUNALE\n📍 Rue de l
+ a Salle Frouard 54390\n🚗 Waze : https://waze.com/ul?ll=48.76451\,6.1286
+ 4&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632508
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632508
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-23-18-00-asc-charny-sur-meuse-champagne-basket-feminin@
+ ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270123T180000
+DTEND;TZID=Europe/Paris:20270123T200000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASC CHARNY SUR MEUSE vs CHAMPAGNE BASK
+ ET FEMININ\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Moulin Charny-s
+ ur-Meuse 55100\n🚗 Waze : https://waze.com/ul?ll=49.21061\,5.36486&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20000001463252
+ 6
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632526
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-30-20-30-champagne-basket-feminin-e-l-witry-les-reims-b
+ asket@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs E- L-WITRY
+  LES REIMS BASKET\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauria
+ c Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632545
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632545
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-02-07-15-30-as-champigneulles-basketball-champagne-basket-
+ feminin@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ AS CHAMPIGNEULLES BASKETBALL vs CHAMPA
+ GNE BASKET FEMININ\n\nCOMPLEXE SPORTIF BELLEFONTAINE\n📍 Rue de Roncevau
+ x Champigneulles 54250\n🚗 Waze : https://waze.com/ul?ll=48.72533\,6.148
+ 93&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFB
+ B : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000
+ 014632562
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux Champigneulles 5
+ 4250
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632562
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-02-13-20-30-champagne-basket-feminin-asp-ste-marie-aux-che
+ nes-2@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270213T203000
+DTEND;TZID=Europe/Paris:20270213T223000
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – ASP SMAC - 2
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs ASP STE MA
+ RIE AUX CHENES - 2\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauri
+ ac Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20000001463258
+ 3
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632583
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-03-14-15-30-dukes-de-fameck-champagne-basket-feminin@ffbb-
+ agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:✈️ DUKES DE FAMECK – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ DUKES DE FAMECK vs CHAMPAGNE BASKET FE
+ MININ\n\nSALLE LAURENT LUCIE\n📍 Rue Antoine de Saint-Exupéry Fameck 57
+ 290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632598
+LOCATION:SALLE LAURENT LUCIE\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632598
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-04-15-30-us-silvange-basket-champagne-basket-feminin@ff
+ bb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:✈️ US SILVANGE BASKET – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs CHAMPAGNE BASKET
+  FEMININ\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange 575
+ 35\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632636
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632636
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-11-15-30-rombas-oc-champagne-basket-feminin@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:✈️ ROMBAS OC – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ROMBAS OC vs CHAMPAGNE BASKET FEMININ\
+ n\nCOSEC ANDRE RUPPERT\n📍 Rue Maréchal Joffre Rombas 57120\n🚗 Waze 
+ : https://waze.com/ul?ll=49.2535\,6.09994&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/competitions/rf2/match/200000014632652
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632652
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-17-20-30-champagne-basket-feminin-us-boulange-fontoy-bb
+ @ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270417T203000
+DTEND;TZID=Europe/Paris:20270417T223000
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs US BOULANG
+ E FONTOY BB\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauriac Reim
+ s 51100\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632671
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632671
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-05-08-20-30-cslb-bar-le-duc-champagne-basket-feminin@ffbb-
+ agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:✈️ CSLB BAR LE DUC – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs CHAMPAGNE BASKET FE
+ MININ\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-le-Du
+ c 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632688
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632688
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-05-15-20-30-champagne-basket-feminin-ie-ctc-collectif-bask
+ et-val-de@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270515T203000
+DTEND;TZID=Europe/Paris:20270515T223000
+SUMMARY:🏠 CHAMPAGNE BASKET FEMININ – IE - CTC COLLECTIF BASKET VAL DE 
+ LORRAINE SUD
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs IE - CTC C
+ OLLECTIF BASKET VAL DE LORRAINE SUD\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenu
+ e François Mauriac Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.240
+ 65\,3.99742&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/mat
+ ch/200000014632706
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632706
+END:VEVENT
+END:VCALENDAR

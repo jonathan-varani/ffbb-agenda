@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CSLB BAR LE DUC  [RF2 – GES]
+X-WR-CALDESC:Matchs de CSLB BAR LE DUC – RF2 – GES
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-03-20-30-cslb-bar-le-duc-as-champigneulles-basketball@f
+ fbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T223000
+SUMMARY:🏠 CSLB BAR LE DUC – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs AS CHAMPIGNEULLES B
+ ASKETBALL\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-l
+ e-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632330
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632330
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-11-13-15-asp-ste-marie-aux-chenes-2-cslb-bar-le-duc@ffb
+ b-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261011T131500
+DTEND;TZID=Europe/Paris:20261011T151500
+SUMMARY:✈️ ASP SMAC - 2 – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASP STE MARIE AUX CHENES - 2 vs CSLB B
+ AR LE DUC\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot Sainte-Marie-aux-Chêne
+ s 57255\n🚗 Waze : https://waze.com/ul?ll=49.19465\,5.99704&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632349
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632349
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-17-20-30-cslb-bar-le-duc-dukes-de-fameck@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T223000
+SUMMARY:🏠 CSLB BAR LE DUC – DUKES DE FAMECK
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs DUKES DE FAMECK\n\n
+ SALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-le-Duc 55000\n
+ 🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=yes\n\n📢 Ar
+ bitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.f
+ fbb.com/ligues/ges/competitions/rf2/match/200000014632366
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632366
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-14-20-30-cslb-bar-le-duc-asc-charny-sur-meuse@ffbb-agen
+ da
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T223000
+SUMMARY:🏠 CSLB BAR LE DUC – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs ASC CHARNY SUR MEUS
+ E\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-le-Duc 55
+ 000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632402
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632402
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-21-18-00-e-l-witry-les-reims-basket-cslb-bar-le-duc@ffb
+ b-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ E- L-WITRY LES REIMS BASKET vs CSLB BA
+ R LE DUC\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue de Bétheny Witry-l
+ ès-Reims 51420\n🚗 Waze : https://waze.com/ul?ll=49.29189\,4.11144&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000146324
+ 19
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632419
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-29-15-30-us-boulange-fontoy-bb-cslb-bar-le-duc@ffbb-age
+ nda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ US BOULANGE FONTOY BB – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US BOULANGE FONTOY BB vs CSLB BAR LE D
+ UC\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 57655\n🚗 Waze : http
+ s://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/competitions/rf2/match/200000014632436
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632436
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-05-20-30-cslb-bar-le-duc-us-silvange-basket@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:🏠 CSLB BAR LE DUC – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs US SILVANGE BASKET\
+ n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-le-Duc 5500
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/competitions/rf2/match/200000014632456
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632456
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-12-20-30-cslb-bar-le-duc-ie-ctc-collectif-basket-val-de
+ -lorraine@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261212T203000
+DTEND;TZID=Europe/Paris:20261212T223000
+SUMMARY:🏠 CSLB BAR LE DUC – IE - CTC COLLECTIF BASKET VAL DE LORRAINE 
+ SUD
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs IE - CTC COLLECTIF 
+ BASKET VAL DE LORRAINE SUD\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'Éc
+ ole Normale Bar-le-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,
+ 5.1546&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20
+ 0000014632472
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632472
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-09-20-30-champagne-basket-feminin-cslb-bar-le-duc@ffbb-
+ agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270109T203000
+DTEND;TZID=Europe/Paris:20270109T223000
+SUMMARY:✈️ CHAMPAGNE BASKET FEMININ – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs CSLB BAR L
+ E DUC\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauriac Reims 5110
+ 0\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632490
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632490
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-16-20-30-cslb-bar-le-duc-rombas-oc@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270116T203000
+DTEND;TZID=Europe/Paris:20270116T223000
+SUMMARY:🏠 CSLB BAR LE DUC – ROMBAS OC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs ROMBAS OC\n\nSALLE 
+ JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-le-Duc 55000\n🚗 W
+ aze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/competitions/rf2/match/200000014632509
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632509
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-24-15-30-as-champigneulles-basketball-cslb-bar-le-duc@f
+ fbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270124T153000
+DTEND;TZID=Europe/Paris:20270124T173000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ AS CHAMPIGNEULLES BASKETBALL vs CSLB B
+ AR LE DUC\n\nCOMPLEXE SPORTIF BELLEFONTAINE\n📍 Rue de Roncevaux Champig
+ neulles 54250\n🚗 Waze : https://waze.com/ul?ll=48.72533\,6.14893&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632528
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux Champigneulles 5
+ 4250
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632528
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-30-20-30-cslb-bar-le-duc-asp-ste-marie-aux-chenes-2@ffb
+ b-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270130T203000
+DTEND;TZID=Europe/Paris:20270130T223000
+SUMMARY:🏠 CSLB BAR LE DUC – ASP SMAC - 2
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs ASP STE MARIE AUX C
+ HENES - 2\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-l
+ e-Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632547
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632547
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-02-07-15-30-dukes-de-fameck-cslb-bar-le-duc@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270207T153000
+DTEND;TZID=Europe/Paris:20270207T173000
+SUMMARY:✈️ DUKES DE FAMECK – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ DUKES DE FAMECK vs CSLB BAR LE DUC\n\n
+ SALLE LAURENT LUCIE\n📍 Rue Antoine de Saint-Exupéry Fameck 57290\n🚗
+  Waze : https://waze.com/ul?ll=49.30381\,6.11256&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/competitions/rf2/match/200000014632564
+LOCATION:SALLE LAURENT LUCIE\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632564
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-03-13-18-00-asc-charny-sur-meuse-cslb-bar-le-duc@ffbb-agen
+ da
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270313T180000
+DTEND;TZID=Europe/Paris:20270313T200000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASC CHARNY SUR MEUSE vs CSLB BAR LE DU
+ C\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Moulin Charny-sur-Meuse 
+ 55100\n🚗 Waze : https://waze.com/ul?ll=49.21061\,5.36486&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632600
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632600
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-03-20-20-30-cslb-bar-le-duc-e-l-witry-les-reims-basket@ffb
+ b-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:🏠 CSLB BAR LE DUC – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs E- L-WITRY LES REIM
+ S BASKET\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-le
+ -Duc 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632617
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632617
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-03-20-30-cslb-bar-le-duc-us-boulange-fontoy-bb@ffbb-age
+ nda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270403T203000
+DTEND;TZID=Europe/Paris:20270403T223000
+SUMMARY:🏠 CSLB BAR LE DUC – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs US BOULANGE FONTOY 
+ BB\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-le-Duc 5
+ 5000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632634
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632634
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-11-15-30-us-silvange-basket-cslb-bar-le-duc@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:✈️ US SILVANGE BASKET – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs CSLB BAR LE DUC\
+ n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange 57535\n🚗 
+ Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/competitions/rf2/match/200000014632654
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632654
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-18-13-30-ie-ctc-collectif-basket-val-de-lorraine-sud-cs
+ lb-bar-le@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270418T133000
+DTEND;TZID=Europe/Paris:20270418T153000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – CSLB BAR L
+ E DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ IE - CTC COLLECTIF BASKET VAL DE LORRA
+ INE SUD vs CSLB BAR LE DUC\n\nSALLE INTERCOMMUNALE\n📍 Rue de la Salle F
+ rouard 54390\n🚗 Waze : https://waze.com/ul?ll=48.76451\,6.12864&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632670
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632670
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-05-08-20-30-cslb-bar-le-duc-champagne-basket-feminin@ffbb-
+ agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270508T203000
+DTEND;TZID=Europe/Paris:20270508T223000
+SUMMARY:🏠 CSLB BAR LE DUC – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs CHAMPAGNE BASKET FE
+ MININ\n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-le-Du
+ c 55000\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632688
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632688
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-05-16-15-30-rombas-oc-cslb-bar-le-duc@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270516T153000
+DTEND;TZID=Europe/Paris:20270516T173000
+SUMMARY:✈️ ROMBAS OC – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ROMBAS OC vs CSLB BAR LE DUC\n\nCOSEC 
+ ANDRE RUPPERT\n📍 Rue Maréchal Joffre Rombas 57120\n🚗 Waze : https:/
+ /waze.com/ul?ll=49.2535\,6.09994&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/competitions/rf2/match/200000014632707
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632707
+END:VEVENT
+END:VCALENDAR

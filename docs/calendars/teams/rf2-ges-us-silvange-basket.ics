@@ -1,0 +1,350 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – US SILVANGE BASKET  [RF2 – GES]
+X-WR-CALDESC:Matchs de US SILVANGE BASKET – RF2 – GES
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-10-18-00-asc-charny-sur-meuse-us-silvange-basket@ffbb-a
+ genda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:✈️ ASC CHARNY SUR MEUSE – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASC CHARNY SUR MEUSE vs US SILVANGE BA
+ SKET\n\nSALLE DES SPORTS 1\n📍 Lotissement Sous le Moulin Charny-sur-Meu
+ se 55100\n🚗 Waze : https://waze.com/ul?ll=49.21061\,5.36486&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632346
+LOCATION:SALLE DES SPORTS 1\, Lotissement Sous le Moulin Charny-sur-Meuse 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632346
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-18-15-30-us-silvange-basket-e-l-witry-les-reims-basket@
+ ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261018T153000
+DTEND;TZID=Europe/Paris:20261018T173000
+SUMMARY:🏠 US SILVANGE BASKET – E- L-WITRY LES REIMS BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs E- L-WITRY LES R
+ EIMS BASKET\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange 
+ 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632369
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632369
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-08-15-30-as-champigneulles-basketball-us-silvange-baske
+ t@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ AS CHAMPIGNEULLES BASKETBALL – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ AS CHAMPIGNEULLES BASKETBALL vs US SIL
+ VANGE BASKET\n\nCOMPLEXE SPORTIF BELLEFONTAINE\n📍 Rue de Roncevaux Cham
+ pigneulles 54250\n🚗 Waze : https://waze.com/ul?ll=48.72533\,6.14893&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632
+ 384
+LOCATION:COMPLEXE SPORTIF BELLEFONTAINE\, Rue de Roncevaux Champigneulles 5
+ 4250
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632384
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-15-15-30-us-silvange-basket-asp-ste-marie-aux-chenes-2@
+ ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:🏠 US SILVANGE BASKET – ASP SMAC - 2
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs ASP STE MARIE AU
+ X CHENES - 2\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange
+  57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632405
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632405
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-22-15-30-dukes-de-fameck-us-silvange-basket@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261122T153000
+DTEND;TZID=Europe/Paris:20261122T173000
+SUMMARY:✈️ DUKES DE FAMECK – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ DUKES DE FAMECK vs US SILVANGE BASKET\
+ n\nSALLE LAURENT LUCIE\n📍 Rue Antoine de Saint-Exupéry Fameck 57290\n
+ 🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rf2/match/200000014632422
+LOCATION:SALLE LAURENT LUCIE\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632422
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-29-13-15-champagne-basket-feminin-us-silvange-basket@ff
+ bb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:✈️ CHAMPAGNE BASKET FEMININ – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CHAMPAGNE BASKET FEMININ vs US SILVANG
+ E BASKET\n\nGYMNASE ROLAND BOURGOIN\n📍 Avenue François Mauriac Reims 5
+ 1100\n🚗 Waze : https://waze.com/ul?ll=49.24065\,3.99742&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632438
+LOCATION:GYMNASE ROLAND BOURGOIN\, Avenue François Mauriac Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632438
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-05-20-30-cslb-bar-le-duc-us-silvange-basket@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T223000
+SUMMARY:✈️ CSLB BAR LE DUC – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSLB BAR LE DUC vs US SILVANGE BASKET\
+ n\nSALLE JEAN PAUL BEUGNOT\n📍 Place de l'École Normale Bar-le-Duc 5500
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.7636\,5.1546&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/competitions/rf2/match/200000014632456
+LOCATION:SALLE JEAN PAUL BEUGNOT\, Place de l'École Normale Bar-le-Duc 550
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632456
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-13-15-30-us-silvange-basket-rombas-oc@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:🏠 US SILVANGE BASKET – ROMBAS OC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs ROMBAS OC\n\nCOS
+ EC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange 57535\n🚗 Waze :
+  https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/competitions/rf2/match/200000014632474
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632474
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-10-13-30-ie-ctc-collectif-basket-val-de-lorraine-sud-us
+ -silvange@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270110T133000
+DTEND;TZID=Europe/Paris:20270110T153000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – US SILVANG
+ E BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ IE - CTC COLLECTIF BASKET VAL DE LORRA
+ INE SUD vs US SILVANGE BASKET\n\nSALLE INTERCOMMUNALE\n📍 Rue de la Sall
+ e Frouard 54390\n🚗 Waze : https://waze.com/ul?ll=48.76451\,6.12864&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000146324
+ 91
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632491
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-17-15-30-us-boulange-fontoy-bb-us-silvange-basket@ffbb-
+ agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270117T153000
+DTEND;TZID=Europe/Paris:20270117T173000
+SUMMARY:✈️ US BOULANGE FONTOY BB – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US BOULANGE FONTOY BB vs US SILVANGE B
+ ASKET\n\nSALLE DES SPORTS\n📍 Rue du Stade Boulange 57655\n🚗 Waze : h
+ ttps://waze.com/ul?ll=49.38405\,5.93735&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/competitions/rf2/match/200000014632510
+LOCATION:SALLE DES SPORTS\, Rue du Stade Boulange 57655
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632510
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-31-15-30-us-silvange-basket-asc-charny-sur-meuse@ffbb-a
+ genda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:🏠 US SILVANGE BASKET – ASC CHARNY SUR MEUSE
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs ASC CHARNY SUR M
+ EUSE\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange 57535\n
+ 🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rf2/match/200000014632544
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632544
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-02-06-18-00-e-l-witry-les-reims-basket-us-silvange-basket@
+ ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270206T180000
+DTEND;TZID=Europe/Paris:20270206T200000
+SUMMARY:✈️ E- L-WITRY LES REIMS BASKET – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ E- L-WITRY LES REIMS BASKET vs US SILV
+ ANGE BASKET\n\nGYMNASE JEAN BOUCTON SALLE (n1)\n📍 Rue de Bétheny Witry
+ -lès-Reims 51420\n🚗 Waze : https://waze.com/ul?ll=49.29189\,4.11144&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20000001463
+ 2567
+LOCATION:GYMNASE JEAN BOUCTON SALLE (n1)\, Rue de Bétheny Witry-lès-Reims
+  51420
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632567
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-02-14-15-30-us-silvange-basket-as-champigneulles-basketbal
+ l@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:🏠 US SILVANGE BASKET – AS CHAMPIGNEULLES BASKETBALL
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs AS CHAMPIGNEULLE
+ S BASKETBALL\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange
+  57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632582
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632582
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-03-14-13-15-asp-ste-marie-aux-chenes-2-us-silvange-basket@
+ ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270314T131500
+DTEND;TZID=Europe/Paris:20270314T151500
+SUMMARY:✈️ ASP SMAC - 2 – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASP STE MARIE AUX CHENES - 2 vs US SIL
+ VANGE BASKET\n\nGYMNASE BERTHELOT\n📍 Rue Berthelot Sainte-Marie-aux-Ch
+ ênes 57255\n🚗 Waze : https://waze.com/ul?ll=49.19465\,5.99704&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632603
+LOCATION:GYMNASE BERTHELOT\, Rue Berthelot Sainte-Marie-aux-Chênes 57255
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632603
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-03-21-15-30-us-silvange-basket-dukes-de-fameck@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270321T153000
+DTEND;TZID=Europe/Paris:20270321T173000
+SUMMARY:🏠 US SILVANGE BASKET – DUKES DE FAMECK
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs DUKES DE FAMECK\
+ n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange 57535\n🚗 
+ Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/competitions/rf2/match/200000014632620
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632620
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-04-15-30-us-silvange-basket-champagne-basket-feminin@ff
+ bb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270404T153000
+DTEND;TZID=Europe/Paris:20270404T173000
+SUMMARY:🏠 US SILVANGE BASKET – CHAMPAGNE BASKET FEMININ
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs CHAMPAGNE BASKET
+  FEMININ\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange 575
+ 35\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632636
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632636
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-11-15-30-us-silvange-basket-cslb-bar-le-duc@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270411T153000
+DTEND;TZID=Europe/Paris:20270411T173000
+SUMMARY:🏠 US SILVANGE BASKET – CSLB BAR LE DUC
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs CSLB BAR LE DUC\
+ n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange 57535\n🚗 
+ Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/competitions/rf2/match/200000014632654
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632654
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-18-15-30-rombas-oc-us-silvange-basket@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270418T153000
+DTEND;TZID=Europe/Paris:20270418T173000
+SUMMARY:✈️ ROMBAS OC – US SILVANGE BASKET
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ROMBAS OC vs US SILVANGE BASKET\n\nCOS
+ EC ANDRE RUPPERT\n📍 Rue Maréchal Joffre Rombas 57120\n🚗 Waze : http
+ s://waze.com/ul?ll=49.2535\,6.09994&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/competitions/rf2/match/200000014632672
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632672
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-05-09-15-30-us-silvange-basket-ie-ctc-collectif-basket-val
+ -de-lorra@ffbb-agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270509T153000
+DTEND;TZID=Europe/Paris:20270509T173000
+SUMMARY:🏠 US SILVANGE BASKET – IE - CTC COLLECTIF BASKET VAL DE LORRAI
+ NE SUD
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs IE - CTC COLLECT
+ IF BASKET VAL DE LORRAINE SUD\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette
+  Marange-Silvange 57535\n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11
+ 352&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/20000
+ 0014632689
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632689
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-05-16-15-30-us-silvange-basket-us-boulange-fontoy-bb@ffbb-
+ agenda
+DTSTAMP:20260920T224920Z
+DTSTART;TZID=Europe/Paris:20270516T153000
+DTEND;TZID=Europe/Paris:20270516T173000
+SUMMARY:🏠 US SILVANGE BASKET – US BOULANGE FONTOY BB
+DESCRIPTION:🏀 RF2 – GES\n⚔️ US SILVANGE BASKET vs US BOULANGE FONT
+ OY BB\n\nCOSEC LA ROUSSE\n📍 Rue Auguste Migette Marange-Silvange 57535\
+ n🚗 Waze : https://waze.com/ul?ll=49.21214\,6.11352&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/competitions/rf2/match/200000014632708
+LOCATION:COSEC LA ROUSSE\, Rue Auguste Migette Marange-Silvange 57535
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632708
+END:VEVENT
+END:VCALENDAR

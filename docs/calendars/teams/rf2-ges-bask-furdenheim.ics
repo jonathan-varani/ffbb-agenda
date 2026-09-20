@@ -1,0 +1,342 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BASK FURDENHEIM  [RF2 – GES]
+X-WR-CALDESC:Matchs de BASK FURDENHEIM – RF2 – GES
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-04-15-30-sluc-nancy-basket-association-bask-furdenheim@
+ ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ SLUC NANCY BASKET ASSOCIATION vs BASK 
+ FURDENHEIM\n\nGYMNASE DU PLACIEUX\n📍 Rue John Fitzgerald Kennedy Viller
+ s-lès-Nancy 54600\n🚗 Waze : https://waze.com/ul?ll=48.67325\,6.16224&n
+ avigate=yes\n\n📢 Arbitres : Thomas DURST\, Matthias BREITEL\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/matc
+ h/200000014632337
+LOCATION:GYMNASE DU PLACIEUX\, Rue John Fitzgerald Kennedy Villers-lès-Nan
+ cy 54600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632337
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-10-17-15-bask-furdenheim-entente-sportive-thaon-basket-
+ ball-e-s-@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261010T171500
+DTEND;TZID=Europe/Paris:20261010T191500
+SUMMARY:🏠 BASK FURDENHEIM – ENTENTE SPORTIVE THAON BASKET BALL (E.S. T
+ HAON BASKET BALL)
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs ENTENTE SPORTIVE TH
+ AON BASKET BALL (E.S. THAON BASKET BALL)\n\nESPACE SPORTIF DE L'UNION\n
+ 📍 Rue du Stade Furdenheim 67117\n🚗 Waze : https://waze.com/ul?ll=48.
+ 61652\,7.56331&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/
+ match/200000014632355
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632355
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-18-15-30-asa-weyersheim-bask-furdenheim@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261018T153000
+DTEND;TZID=Europe/Paris:20261018T173000
+SUMMARY:✈️ ASA WEYERSHEIM – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASA WEYERSHEIM vs BASK FURDENHEIM\n\nE
+ SPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67720\n🚗 Waze : 
+ https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/competitions/rf2/match/200000014632371
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632371
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-07-17-15-bask-furdenheim-cse-folkling@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261107T171500
+DTEND;TZID=Europe/Paris:20261107T191500
+SUMMARY:🏠 BASK FURDENHEIM – CSE FOLKLING
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs CSE FOLKLING\n\nESP
+ ACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/competitions/rf2/match/200000014632391
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632391
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-14-20-15-phalsbourg-b-c-bask-furdenheim@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261114T201500
+DTEND;TZID=Europe/Paris:20261114T221500
+SUMMARY:✈️ PHALSBOURG B.C. – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ PHALSBOURG B.C. vs BASK FURDENHEIM\n\n
+ SALLE VAUBAN\n📍 Allée des Sports Phalsbourg 57370\n🚗 Waze : https:/
+ /waze.com/ul?ll=48.76986\,7.25521&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/competitions/rf2/match/200000014632411
+LOCATION:SALLE VAUBAN\, Allée des Sports Phalsbourg 57370
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632411
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-21-20-00-bask-furdenheim-nbc-sarrebourg@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261121T200000
+DTEND;TZID=Europe/Paris:20261121T220000
+SUMMARY:🏠 BASK FURDENHEIM – NBC SARREBOURG
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs NBC SARREBOURG\n\nE
+ SPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗 Waze : 
+ https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/competitions/rf2/match/200000014632427
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632427
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-28-17-15-bask-furdenheim-asptt-nancy-tomblaine-2@ffbb-a
+ genda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261128T171500
+DTEND;TZID=Europe/Paris:20261128T191500
+SUMMARY:🏠 BASK FURDENHEIM – ASPTT NANCY TOMBLAINE - 2
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs ASPTT NANCY TOMBLAI
+ NE - 2\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n
+ 🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rf2/match/200000014632445
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632445
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-05-17-30-s-i-graffenstaden-3-bask-furdenheim@ffbb-agend
+ a
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261205T173000
+DTEND;TZID=Europe/Paris:20261205T193000
+SUMMARY:✈️ S.I. GRAFFENSTADEN - 3 – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs BASK FURDENH
+ EIM\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graffenstaden 674
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632464
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632464
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-13-15-30-bask-furdenheim-vendenheim-bc-2@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:🏠 BASK FURDENHEIM – VENDENHEIM BC - 2
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs VENDENHEIM BC - 2\n
+ \nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗 Waze
+  : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbitres 
+ : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com
+ /ligues/ges/competitions/rf2/match/200000014632482
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632482
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-10-15-30-basket-club-chavelotais-bask-furdenheim@ffbb-a
+ genda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270110T153000
+DTEND;TZID=Europe/Paris:20270110T173000
+SUMMARY:✈️ BASKET CLUB CHAVELOTAIS – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASKET CLUB CHAVELOTAIS vs BASK FURDEN
+ HEIM\n\nSALLE DES SPORTS\n📍 Place de la République Chavelot 88150\n
+ 🚗 Waze : https://waze.com/ul?ll=48.23758\,6.43697&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rf2/match/200000014632501
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632501
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-23-17-45-bask-furdenheim-sluc-nancy-basket-association@
+ ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270123T174500
+DTEND;TZID=Europe/Paris:20270123T194500
+SUMMARY:🏠 BASK FURDENHEIM – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs SLUC NANCY BASKET A
+ SSOCIATION\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 6711
+ 7\n🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632535
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632535
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-31-15-30-entente-sportive-thaon-basket-ball-e-s-thaon-b
+ asket-bal@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) 
+ – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ENTENTE SPORTIVE THAON BASKET BALL (E.
+ S. THAON BASKET BALL) vs BASK FURDENHEIM\n\nGYMNASE DE LA POSTE\n📍 Rue 
+ Thiers Thaon-les-Vosges 88150\n🚗 Waze : https://waze.com/ul?ll=48.25107
+ \,6.42202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match
+ /200000014632553
+LOCATION:GYMNASE DE LA POSTE\, Rue Thiers Thaon-les-Vosges 88150
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632553
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-02-06-17-15-bask-furdenheim-asa-weyersheim@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270206T171500
+DTEND;TZID=Europe/Paris:20270206T191500
+SUMMARY:🏠 BASK FURDENHEIM – ASA WEYERSHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs ASA WEYERSHEIM\n\nE
+ SPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗 Waze : 
+ https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/competitions/rf2/match/200000014632569
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632569
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-02-14-15-30-cse-folkling-bask-furdenheim@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270214T153000
+DTEND;TZID=Europe/Paris:20270214T173000
+SUMMARY:✈️ CSE FOLKLING – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSE FOLKLING vs BASK FURDENHEIM\n\nGYM
+ NASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Folkling 57600\n🚗 Waze : h
+ ttps://waze.com/ul?ll=49.14622\,6.89305&navigate=yes\n\n📢 Arbitres : Pa
+ s de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/lig
+ ues/ges/competitions/rf2/match/200000014632589
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632589
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-03-14-15-30-bask-furdenheim-phalsbourg-b-c@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270314T153000
+DTEND;TZID=Europe/Paris:20270314T173000
+SUMMARY:🏠 BASK FURDENHEIM – PHALSBOURG B.C.
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs PHALSBOURG B.C.\n\n
+ ESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗 Waze :
+  https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/competitions/rf2/match/200000014632609
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632609
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-03-20-18-00-nbc-sarrebourg-bask-furdenheim@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270320T180000
+DTEND;TZID=Europe/Paris:20270320T200000
+SUMMARY:✈️ NBC SARREBOURG – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ NBC SARREBOURG vs BASK FURDENHEIM\n\nC
+ OSEC\n📍 Rue Pierre de Coubertin Sarrebourg 57400\n🚗 Waze : https://w
+ aze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ competitions/rf2/match/200000014632625
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632625
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-04-11-00-asptt-nancy-tomblaine-2-bask-furdenheim@ffbb-a
+ genda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270404T110000
+DTEND;TZID=Europe/Paris:20270404T130000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE - 2 – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASPTT NANCY TOMBLAINE - 2 vs BASK FURD
+ ENHEIM\n\nCOSEC 1\n📍 Rue Jean Moulin Tomblaine 54510\n🚗 Waze : https
+ ://waze.com/ul?ll=48.69542\,6.21374&navigate=yes\n\n📢 Arbitres : Pas de
+  désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/
+ ges/competitions/rf2/match/200000014632643
+LOCATION:COSEC 1\, Rue Jean Moulin Tomblaine 54510
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632643
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-10-20-00-bask-furdenheim-s-i-graffenstaden-3@ffbb-agend
+ a
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:🏠 BASK FURDENHEIM – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs S.I. GRAFFENSTADEN 
+ - 3\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗
+  Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/competitions/rf2/match/200000014632662
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632662
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-16-20-30-vendenheim-bc-2-bask-furdenheim@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270416T203000
+DTEND;TZID=Europe/Paris:20270416T223000
+SUMMARY:✈️ VENDENHEIM BC - 2 – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ VENDENHEIM BC - 2 vs BASK FURDENHEIM\n
+ \nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod Vendenheim 67550\n🚗 
+ Waze : https://waze.com/ul?ll=48.66623\,7.71054&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/competitions/rf2/match/200000014632680
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632680
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-05-01-17-45-bask-furdenheim-basket-club-chavelotais@ffbb-a
+ genda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270501T174500
+DTEND;TZID=Europe/Paris:20270501T194500
+SUMMARY:🏠 BASK FURDENHEIM – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs BASKET CLUB CHAVELO
+ TAIS\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n
+ 🚗 Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rf2/match/200000014632699
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632699
+END:VEVENT
+END:VCALENDAR

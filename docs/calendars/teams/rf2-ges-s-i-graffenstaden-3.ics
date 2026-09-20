@@ -1,0 +1,345 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – S.I. GRAFFENSTADEN - 3  [RF2 – GES]
+X-WR-CALDESC:Matchs de S.I. GRAFFENSTADEN - 3 – RF2 – GES
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-04-17-30-asa-weyersheim-s-i-graffenstaden-3@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261004T173000
+DTEND;TZID=Europe/Paris:20261004T193000
+SUMMARY:✈️ ASA WEYERSHEIM – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASA WEYERSHEIM vs S.I. GRAFFENSTADEN -
+  3\n\nESPACE W - Salle JUPITER\n📍 Rue des Prés Weyersheim 67720\n🚗 
+ Waze : https://waze.com/ul?ll=48.71464\,7.80788&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/competitions/rf2/match/200000014632335
+LOCATION:ESPACE W - Salle JUPITER\, Rue des Prés Weyersheim 67720
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632335
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-10-18-00-s-i-graffenstaden-3-cse-folkling@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – CSE FOLKLING
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs CSE FOLKLING
+ \n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Lixenbuhl Illkirch-Graffenstaden 67400
+ \n🚗 Waze : https://waze.com/ul?ll=48.53006\,7.72821&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632353
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632353
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-10-17-20-15-phalsbourg-b-c-s-i-graffenstaden-3@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261017T201500
+DTEND;TZID=Europe/Paris:20261017T221500
+SUMMARY:✈️ PHALSBOURG B.C. – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ PHALSBOURG B.C. vs S.I. GRAFFENSTADEN 
+ - 3\n\nSALLE VAUBAN\n📍 Allée des Sports Phalsbourg 57370\n🚗 Waze : 
+ https://waze.com/ul?ll=48.76986\,7.25521&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/competitions/rf2/match/200000014632375
+LOCATION:SALLE VAUBAN\, Allée des Sports Phalsbourg 57370
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632375
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-08-17-30-s-i-graffenstaden-3-nbc-sarrebourg@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261108T173000
+DTEND;TZID=Europe/Paris:20261108T193000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – NBC SARREBOURG
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs NBC SARREBOU
+ RG\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graffenstaden 6740
+ 0\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632389
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632389
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-15-15-30-sluc-nancy-basket-association-s-i-graffenstade
+ n-3@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:✈️ SLUC NANCY BASKET ASSOCIATION – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ SLUC NANCY BASKET ASSOCIATION vs S.I. 
+ GRAFFENSTADEN - 3\n\nGYMNASE DU PLACIEUX\n📍 Rue John Fitzgerald Kennedy
+  Villers-lès-Nancy 54600\n🚗 Waze : https://waze.com/ul?ll=48.67325\,6.
+ 16224&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200
+ 000014632409
+LOCATION:GYMNASE DU PLACIEUX\, Rue John Fitzgerald Kennedy Villers-lès-Nan
+ cy 54600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632409
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-21-18-00-s-i-graffenstaden-3-entente-sportive-thaon-bas
+ ket-ball-@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – ENTENTE SPORTIVE THAON BASKET BALL 
+ (E.S. THAON BASKET BALL)
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs ENTENTE SPOR
+ TIVE THAON BASKET BALL (E.S. THAON BASKET BALL)\n\nCOMPLEXE DU LIXENBUHL\n
+ 📍 Rue Lixenbuhl Illkirch-Graffenstaden 67400\n🚗 Waze : https://waze.
+ com/ul?ll=48.53006\,7.72821&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comp
+ etitions/rf2/match/200000014632425
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632425
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-11-29-15-30-basket-club-chavelotais-s-i-graffenstaden-3@ff
+ bb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:✈️ BASKET CLUB CHAVELOTAIS – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASKET CLUB CHAVELOTAIS vs S.I. GRAFFE
+ NSTADEN - 3\n\nSALLE DES SPORTS\n📍 Place de la République Chavelot 881
+ 50\n🚗 Waze : https://waze.com/ul?ll=48.23758\,6.43697&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632446
+LOCATION:SALLE DES SPORTS\, Place de la République Chavelot 88150
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632446
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-05-17-30-s-i-graffenstaden-3-bask-furdenheim@ffbb-agend
+ a
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261205T173000
+DTEND;TZID=Europe/Paris:20261205T193000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – BASK FURDENHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs BASK FURDENH
+ EIM\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graffenstaden 674
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632464
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632464
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2026-12-13-15-30-asptt-nancy-tomblaine-2-s-i-graffenstaden-3@ff
+ bb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20261213T153000
+DTEND;TZID=Europe/Paris:20261213T173000
+SUMMARY:✈️ ASPTT NANCY TOMBLAINE - 2 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ASPTT NANCY TOMBLAINE - 2 vs S.I. GRAF
+ FENSTADEN - 3\n\nCOSEC 1\n📍 Rue Jean Moulin Tomblaine 54510\n🚗 Waze 
+ : https://waze.com/ul?ll=48.69542\,6.21374&navigate=yes\n\n📢 Arbitres :
+  Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/
+ ligues/ges/competitions/rf2/match/200000014632481
+LOCATION:COSEC 1\, Rue Jean Moulin Tomblaine 54510
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632481
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-16-18-00-s-i-graffenstaden-3-vendenheim-bc-2@ffbb-agend
+ a
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270116T180000
+DTEND;TZID=Europe/Paris:20270116T200000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – VENDENHEIM BC - 2
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs VENDENHEIM B
+ C - 2\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graffenstaden 6
+ 7400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632517
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632517
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-23-18-00-s-i-graffenstaden-3-asa-weyersheim@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270123T180000
+DTEND;TZID=Europe/Paris:20270123T200000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – ASA WEYERSHEIM
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs ASA WEYERSHE
+ IM\n\nCOMPLEXE DU LIXENBUHL\n📍 Rue Lixenbuhl Illkirch-Graffenstaden 674
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.53006\,7.72821&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632533
+LOCATION:COMPLEXE DU LIXENBUHL\, Rue Lixenbuhl Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632533
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-01-31-15-30-cse-folkling-s-i-graffenstaden-3@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270131T153000
+DTEND;TZID=Europe/Paris:20270131T173000
+SUMMARY:✈️ CSE FOLKLING – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ CSE FOLKLING vs S.I. GRAFFENSTADEN - 3
+ \n\nGYMNASE MUNICIPAL\n📍 Rue du 6 Décembre 1944 Folkling 57600\n🚗 W
+ aze : https://waze.com/ul?ll=49.14622\,6.89305&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/ligues/ges/competitions/rf2/match/200000014632551
+LOCATION:GYMNASE MUNICIPAL\, Rue du 6 Décembre 1944 Folkling 57600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632551
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-02-06-18-00-s-i-graffenstaden-3-phalsbourg-b-c@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270206T180000
+DTEND;TZID=Europe/Paris:20270206T200000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – PHALSBOURG B.C.
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs PHALSBOURG B
+ .C.\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graffenstaden 674
+ 00\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632573
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632573
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-02-13-18-00-nbc-sarrebourg-s-i-graffenstaden-3@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270213T180000
+DTEND;TZID=Europe/Paris:20270213T200000
+SUMMARY:✈️ NBC SARREBOURG – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ NBC SARREBOURG vs S.I. GRAFFENSTADEN -
+  3\n\nCOSEC\n📍 Rue Pierre de Coubertin Sarrebourg 57400\n🚗 Waze : ht
+ tps://waze.com/ul?ll=48.73527\,7.06881&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/competitions/rf2/match/200000014632587
+LOCATION:COSEC\, Rue Pierre de Coubertin Sarrebourg 57400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632587
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-03-13-20-00-s-i-graffenstaden-3-sluc-nancy-basket-associat
+ ion@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – SLUC NANCY BASKET ASSOCIATION
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs SLUC NANCY B
+ ASKET ASSOCIATION\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Gra
+ ffenstaden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632
+ 607
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632607
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-03-20-20-30-entente-sportive-thaon-basket-ball-e-s-thaon-b
+ asket-bal@ffbb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270320T203000
+DTEND;TZID=Europe/Paris:20270320T223000
+SUMMARY:✈️ ENTENTE SPORTIVE THAON BASKET BALL (E.S. THAON BASKET BALL) 
+ – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ ENTENTE SPORTIVE THAON BASKET BALL (E.
+ S. THAON BASKET BALL) vs S.I. GRAFFENSTADEN - 3\n\nGYMNASE DE LA POSTE\n
+ 📍 Rue Thiers Thaon-les-Vosges 88150\n🚗 Waze : https://waze.com/ul?ll
+ =48.25107\,6.42202&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions/
+ rf2/match/200000014632623
+LOCATION:GYMNASE DE LA POSTE\, Rue Thiers Thaon-les-Vosges 88150
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632623
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-03-17-30-s-i-graffenstaden-3-basket-club-chavelotais@ff
+ bb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270403T173000
+DTEND;TZID=Europe/Paris:20270403T193000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – BASKET CLUB CHAVELOTAIS
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs BASKET CLUB 
+ CHAVELOTAIS\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graffenst
+ aden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632644
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632644
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-10-20-00-bask-furdenheim-s-i-graffenstaden-3@ffbb-agend
+ a
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:✈️ BASK FURDENHEIM – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ BASK FURDENHEIM vs S.I. GRAFFENSTADEN 
+ - 3\n\nESPACE SPORTIF DE L'UNION\n📍 Rue du Stade Furdenheim 67117\n🚗
+  Waze : https://waze.com/ul?ll=48.61652\,7.56331&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/competitions/rf2/match/200000014632662
+LOCATION:ESPACE SPORTIF DE L'UNION\, Rue du Stade Furdenheim 67117
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632662
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-04-17-18-00-s-i-graffenstaden-3-asptt-nancy-tomblaine-2@ff
+ bb-agenda
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270417T180000
+DTEND;TZID=Europe/Paris:20270417T200000
+SUMMARY:🏠 S.I. GRAFFENSTADEN - 3 – ASPTT NANCY TOMBLAINE - 2
+DESCRIPTION:🏀 RF2 – GES\n⚔️ S.I. GRAFFENSTADEN - 3 vs ASPTT NANCY 
+ TOMBLAINE - 2\n\nSALLE DE LA S.I.G.\n📍 Rue de la Poste Illkirch-Graffen
+ staden 67400\n🚗 Waze : https://waze.com/ul?ll=48.52678\,7.71258&navigat
+ e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632679
+LOCATION:SALLE DE LA S.I.G.\, Rue de la Poste Illkirch-Graffenstaden 67400
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632679
+END:VEVENT
+BEGIN:VEVENT
+UID:rf2-ges-2027-05-16-14-45-vendenheim-bc-2-s-i-graffenstaden-3@ffbb-agend
+ a
+DTSTAMP:20260920T224942Z
+DTSTART;TZID=Europe/Paris:20270516T144500
+DTEND;TZID=Europe/Paris:20270516T164500
+SUMMARY:✈️ VENDENHEIM BC - 2 – S.I. GRAFFENSTADEN - 3
+DESCRIPTION:🏀 RF2 – GES\n⚔️ VENDENHEIM BC - 2 vs S.I. GRAFFENSTADE
+ N - 3\n\nGYMNASE CLAUDE MAILFERT\n📍 Rue Charles Gounod Vendenheim 67550
+ \n🚗 Waze : https://waze.com/ul?ll=48.66623\,7.71054&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rf2/match/200000014632715
+LOCATION:GYMNASE CLAUDE MAILFERT\, Rue Charles Gounod Vendenheim 67550
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rf2/match/2000000
+ 14632715
+END:VEVENT
+END:VCALENDAR

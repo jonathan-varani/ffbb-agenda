@@ -24,9 +24,27 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:nfu15-elite-poule-e-2026-09-13-13-15-landerneau-bretagne-basket-hn-ie-a
+ lpc-mouli@ffbb-agenda
+DTSTAMP:20260922T001918Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:LANDERNEAU BRETAGNE BASKET HN – IE - ALPC MOULIN NANTES BASKET - 
+ 1 (60-68)
+DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ LANDERNEAU BRETAGNE BASKET
+  HN vs IE - ALPC MOULIN NANTES BASKET - 1\n📊 Score : 60-68\n\nLA CIMENT
+ ERIE\n📍 Rue Saint-Ernel Landerneau 29800\n🚗 Waze : https://waze.com/
+ ul?ll=48.44391\,-4.26253&navigate=yes\n\n📢 Arbitres : Arnaud MACÉ\, Ag
+ athe BOURREAU-LAIR--MELO\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nfu15-elite/match/200000014602671
+LOCATION:LA CIMENTERIE\, Rue Saint-Ernel Landerneau 29800
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02671
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-09-13-13-15-rennes-avenir-1-ie-ctc-vannes-aggl
  omeration@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20260913T131500
 DTEND;TZID=Europe/Paris:20260913T151500
 SUMMARY:RENNES AVENIR - 1 – IE - CTC VANNES AGGLOMERATION 56 (70-64)
@@ -43,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-09-13-13-15-ie-ctc-snbc-les-frechets-bc-st-naz
  aire-1-an@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20260913T131500
 DTEND;TZID=Europe/Paris:20260913T151500
 SUMMARY:IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1 – ANGERS - UNION F
@@ -61,36 +79,18 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02669
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu15-elite-poule-e-2026-09-13-13-15-landerneau-bretagne-basket-hn-ie-a
- lpc-mouli@ffbb-agenda
-DTSTAMP:20260919T231531Z
-DTSTART;TZID=Europe/Paris:20260913T131500
-DTEND;TZID=Europe/Paris:20260913T151500
-SUMMARY:LANDERNEAU BRETAGNE BASKET HN – IE - ALPC MOULIN NANTES BASKET - 
- 1 (60-68)
-DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ LANDERNEAU BRETAGNE BASKET
-  HN vs IE - ALPC MOULIN NANTES BASKET - 1\n📊 Score : 60-68\n\nLA CIMENT
- ERIE\n📍 Rue Saint-Ernel Landerneau 29800\n🚗 Waze : https://waze.com/
- ul?ll=48.44391\,-4.26253&navigate=yes\n\n📢 Arbitres : Arnaud MACÉ\, Ag
- athe BOURREAU-LAIR--MELO\n\n🔗 Feuille FFBB : https://competitions.ffbb.
- com/competitions/nfu15-elite/match/200000014602671
-LOCATION:LA CIMENTERIE\, Rue Saint-Ernel Landerneau 29800
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02671
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-09-20-11-00-ie-alpc-moulin-nantes-basket-1-ren
  nes-aveni@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20260920T110000
 DTEND;TZID=Europe/Paris:20260920T130000
-SUMMARY:IE - ALPC MOULIN NANTES BASKET - 1 – RENNES AVENIR - 1
+SUMMARY:IE - ALPC MOULIN NANTES BASKET - 1 – RENNES AVENIR - 1 (66-69)
 DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ IE - ALPC MOULIN NANTES BA
- SKET - 1 vs RENNES AVENIR - 1\n\nGYMNASE DU COUDRAY\n📍 Rue du Coudray N
- antes 44000\n🚗 Waze : https://waze.com/ul?ll=47.23305\,-1.54255&navigat
- e=yes\n\n📢 Arbitres : Arthur GUERINEL\, Nathys MENEGON\n\n🔗 Feuille 
- FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/match/200000
- 014602698
+ SKET - 1 vs RENNES AVENIR - 1\n📊 Score : 66-69\n\nGYMNASE DU COUDRAY\n
+ 📍 Rue du Coudray Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47.23
+ 305\,-1.54255&navigate=yes\n\n📢 Arbitres : Arthur GUERINEL\, Nathys MEN
+ EGON\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu
+ 15-elite/match/200000014602698
 LOCATION:GYMNASE DU COUDRAY\, Rue du Coudray Nantes 44000
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02698
@@ -98,17 +98,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-09-20-13-15-ie-ctc-vannes-agglomeration-56-ie-
  ctc-snbc-@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20260920T131500
 DTEND;TZID=Europe/Paris:20260920T151500
 SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – IE - CTC SNBC - LES FRECHETS B
- C ST NAZAIRE - 1
+ C ST NAZAIRE - 1 (93-42)
 DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ IE - CTC VANNES AGGLOMERAT
- ION 56 vs IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1\n\nJO LE DREVO\n
- 📍 Rue des Droits de l'Homme Saint-AvÃ© 56890\n🚗 Waze : https://waz
- e.com/ul?ll=47.69143\,-2.74106&navigate=yes\n\n📢 Arbitres : Clément IV
- ARS\, Imed-eddine TOUATI\n\n🔗 Feuille FFBB : https://competitions.ffbb.
- com/competitions/nfu15-elite/match/200000014602696
+ ION 56 vs IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1\n📊 Score : 93-
+ 42\n\nJO LE DREVO\n📍 Rue des Droits de l'Homme Saint-AvÃ© 56890\n🚗
+  Waze : https://waze.com/ul?ll=47.69143\,-2.74106&navigate=yes\n\n📢 Arb
+ itres : Clément IVARS\, Imed-eddine TOUATI\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nfu15-elite/match/200000014602696
 LOCATION:JO LE DREVO\, Rue des Droits de l'Homme Saint-AvÃ© 56890
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02696
@@ -116,25 +116,43 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-09-20-13-15-angers-union-feminine-basket-49-la
  nderneau-@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20260920T131500
 DTEND;TZID=Europe/Paris:20260920T151500
 SUMMARY:ANGERS - UNION FEMININE  BASKET 49 – LANDERNEAU BRETAGNE BASKET H
- N
+ N (82-44)
 DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ ANGERS - UNION FEMININE  B
- ASKET 49 vs LANDERNEAU BRETAGNE BASKET HN\n\nSALLE DE L'EUROPE\n📍 Rue d
- e l'Ãcriture Angers 49100\n🚗 Waze : https://waze.com/ul?ll=47.4873\,
- -0.52502&navigate=yes\n\n📢 Arbitres : Emeline TROUSSIER\, Coline BOURSI
- ER\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15
- -elite/match/200000014602697
+ ASKET 49 vs LANDERNEAU BRETAGNE BASKET HN\n📊 Score : 82-44\n\nSALLE DE 
+ L'EUROPE\n📍 Rue de l'Ãcriture Angers 49100\n🚗 Waze : https://waze
+ .com/ul?ll=47.4873\,-0.52502&navigate=yes\n\n📢 Arbitres : Emeline TROUS
+ SIER\, Coline BOURSIER\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/competitions/nfu15-elite/match/200000014602697
 LOCATION:SALLE DE L'EUROPE\, Rue de l'Ãcriture Angers 49100
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02697
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu15-elite-poule-e-2026-09-27-13-15-ie-ctc-vannes-agglomeration-56-ang
+ ers-union@ffbb-agenda
+DTSTAMP:20260922T001918Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – ANGERS - UNION FEMININE  BASKE
+ T 49
+DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ IE - CTC VANNES AGGLOMERAT
+ ION 56 vs ANGERS - UNION FEMININE  BASKET 49\n\nJO LE DREVO\n📍 Rue des 
+ Droits de l'Homme Saint-AvÃ© 56890\n🚗 Waze : https://waze.com/ul?ll=4
+ 7.69143\,-2.74106&navigate=yes\n\n📢 Arbitres : Celestin LAMY\, Quentin 
+ SIBILEAU\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nfu15-elite/match/200000014602725
+LOCATION:JO LE DREVO\, Rue des Droits de l'Homme Saint-AvÃ© 56890
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02725
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-09-27-13-15-ie-ctc-snbc-les-frechets-bc-st-naz
  aire-1-ie@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20260927T131500
 DTEND;TZID=Europe/Paris:20260927T151500
 SUMMARY:IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1 – IE - ALPC MOULIN
@@ -153,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-09-27-13-15-rennes-avenir-1-landerneau-bretagn
  e-basket-@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20260927T131500
 DTEND;TZID=Europe/Paris:20260927T151500
 SUMMARY:RENNES AVENIR - 1 – LANDERNEAU BRETAGNE BASKET HN
@@ -168,27 +186,26 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02723
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu15-elite-poule-e-2026-09-27-13-15-ie-ctc-vannes-agglomeration-56-ang
- ers-union@ffbb-agenda
-DTSTAMP:20260919T231531Z
-DTSTART;TZID=Europe/Paris:20260927T131500
-DTEND;TZID=Europe/Paris:20260927T151500
-SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – ANGERS - UNION FEMININE  BASKE
- T 49
-DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ IE - CTC VANNES AGGLOMERAT
- ION 56 vs ANGERS - UNION FEMININE  BASKET 49\n\nJO LE DREVO\n📍 Rue des 
- Droits de l'Homme Saint-AvÃ© 56890\n🚗 Waze : https://waze.com/ul?ll=4
- 7.69143\,-2.74106&navigate=yes\n\n📢 Arbitres : Celestin LAMY\, Quentin 
- SIBILEAU\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
- /nfu15-elite/match/200000014602725
-LOCATION:JO LE DREVO\, Rue des Droits de l'Homme Saint-AvÃ© 56890
+UID:nfu15-elite-poule-e-2026-10-04-13-15-angers-union-feminine-basket-49-re
+ nnes-aven@ffbb-agenda
+DTSTAMP:20260922T001918Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:ANGERS - UNION FEMININE  BASKET 49 – RENNES AVENIR - 1
+DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ ANGERS - UNION FEMININE  B
+ ASKET 49 vs RENNES AVENIR - 1\n\nSALLE JEAN BOUIN\n📍 Boulevard Pierre d
+ e Coubertin Angers 49000\n🚗 Waze : https://waze.com/ul?ll=47.46186\,-0.
+ 53251&navigate=yes\n\n📢 Arbitres : Valentin DEHOUX\, Mélysende BELLON\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-el
+ ite/match/200000014602751
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02725
+ 02751
 END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-10-04-13-15-ie-alpc-moulin-nantes-basket-1-ie-
  ctc-vanne@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261004T131500
 DTEND;TZID=Europe/Paris:20261004T151500
 SUMMARY:IE - ALPC MOULIN NANTES BASKET - 1 – IE - CTC VANNES AGGLOMERATIO
@@ -196,33 +213,17 @@ SUMMARY:IE - ALPC MOULIN NANTES BASKET - 1 – IE - CTC VANNES AGGLOMERATIO
 DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ IE - ALPC MOULIN NANTES BA
  SKET - 1 vs IE - CTC VANNES AGGLOMERATION 56\n\nCOMPLEXE JEAN GAUVRIT N1\n
  📍 Rue Louis Armand Carquefou 44470\n🚗 Waze : https://waze.com/ul?ll=
- 47.29603\,-1.48851&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite
- /match/200000014602752
+ 47.29603\,-1.48851&navigate=yes\n\n📢 Arbitres : Louen CADORET\, Alexand
+ re HUBERT\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competition
+ s/nfu15-elite/match/200000014602752
 LOCATION:COMPLEXE JEAN GAUVRIT N1\, Rue Louis Armand Carquefou 44470
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02752
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu15-elite-poule-e-2026-10-04-13-15-angers-union-feminine-basket-49-re
- nnes-aven@ffbb-agenda
-DTSTAMP:20260919T231531Z
-DTSTART;TZID=Europe/Paris:20261004T131500
-DTEND;TZID=Europe/Paris:20261004T151500
-SUMMARY:ANGERS - UNION FEMININE  BASKET 49 – RENNES AVENIR - 1
-DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ ANGERS - UNION FEMININE  B
- ASKET 49 vs RENNES AVENIR - 1\n\nSALLE DE L'EUROPE\n📍 Rue de l'Ãcrit
- ure Angers 49100\n🚗 Waze : https://waze.com/ul?ll=47.4873\,-0.52502&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/competitions/nfu15-elite/match/200000014602751
-LOCATION:SALLE DE L'EUROPE\, Rue de l'Ãcriture Angers 49100
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02751
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-10-04-13-15-landerneau-bretagne-basket-hn-ie-c
  tc-snbc-l@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261004T131500
 DTEND;TZID=Europe/Paris:20261004T151500
 SUMMARY:LANDERNEAU BRETAGNE BASKET HN – IE - CTC SNBC - LES FRECHETS BC S
@@ -230,9 +231,9 @@ SUMMARY:LANDERNEAU BRETAGNE BASKET HN – IE - CTC SNBC - LES FRECHETS BC S
 DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ LANDERNEAU BRETAGNE BASKET
   HN vs IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1\n\nLA CIMENTERIE\n
  📍 Rue Saint-Ernel Landerneau 29800\n🚗 Waze : https://waze.com/ul?ll=
- 48.44391\,-4.26253&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite
- /match/200000014602750
+ 48.44391\,-4.26253&navigate=yes\n\n📢 Arbitres : Tangi GOURVENNEC\, Imed
+ -eddine TOUATI\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/compet
+ itions/nfu15-elite/match/200000014602750
 LOCATION:LA CIMENTERIE\, Rue Saint-Ernel Landerneau 29800
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02750
@@ -240,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-10-11-13-15-ie-ctc-snbc-les-frechets-bc-st-naz
  aire-1-re@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261011T131500
 DTEND;TZID=Europe/Paris:20261011T151500
 SUMMARY:IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1 – RENNES AVENIR - 
@@ -259,25 +260,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-10-11-13-15-angers-union-feminine-basket-49-ie
  -alpc-mou@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261011T131500
 DTEND;TZID=Europe/Paris:20261011T151500
 SUMMARY:ANGERS - UNION FEMININE  BASKET 49 – IE - ALPC MOULIN NANTES BASK
  ET - 1
 DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ ANGERS - UNION FEMININE  B
- ASKET 49 vs IE - ALPC MOULIN NANTES BASKET - 1\n\nSALLE DE L'EUROPE\n📍 
- Rue de l'Ãcriture Angers 49100\n🚗 Waze : https://waze.com/ul?ll=47.4
- 873\,-0.52502&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
- Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/matc
- h/200000014602778
-LOCATION:SALLE DE L'EUROPE\, Rue de l'Ãcriture Angers 49100
+ ASKET 49 vs IE - ALPC MOULIN NANTES BASKET - 1\n\nSALLE JEAN BOUIN\n📍 B
+ oulevard Pierre de Coubertin Angers 49000\n🚗 Waze : https://waze.com/ul
+ ?ll=47.46186\,-0.53251&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-e
+ lite/match/200000014602778
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02778
 END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-10-11-13-15-ie-ctc-vannes-agglomeration-56-lan
  derneau-b@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261011T131500
 DTEND;TZID=Europe/Paris:20261011T151500
 SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – LANDERNEAU BRETAGNE BASKET HN
@@ -294,25 +295,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-01-13-15-angers-union-feminine-basket-49-ie
  -ctc-snbc@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261101T131500
 DTEND;TZID=Europe/Paris:20261101T151500
 SUMMARY:ANGERS - UNION FEMININE  BASKET 49 – IE - CTC SNBC - LES FRECHETS
   BC ST NAZAIRE - 1
 DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ ANGERS - UNION FEMININE  B
- ASKET 49 vs IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1\n\nSALLE DE L'E
- UROPE\n📍 Rue de l'Ãcriture Angers 49100\n🚗 Waze : https://waze.co
- m/ul?ll=47.4873\,-0.52502&navigate=yes\n\n📢 Arbitres : Pas de désignat
- ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu1
- 5-elite/match/200000014602804
-LOCATION:SALLE DE L'EUROPE\, Rue de l'Ãcriture Angers 49100
+ ASKET 49 vs IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1\n\nSALLE JEAN B
+ OUIN\n📍 Boulevard Pierre de Coubertin Angers 49000\n🚗 Waze : https:/
+ /waze.com/ul?ll=47.46186\,-0.53251&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
+ ions/nfu15-elite/match/200000014602804
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02804
 END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-01-13-15-ie-ctc-vannes-agglomeration-56-ren
  nes-aveni@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261101T131500
 DTEND;TZID=Europe/Paris:20261101T151500
 SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – RENNES AVENIR - 1
@@ -329,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-01-13-15-ie-alpc-moulin-nantes-basket-1-lan
  derneau-b@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261101T131500
 DTEND;TZID=Europe/Paris:20261101T151500
 SUMMARY:IE - ALPC MOULIN NANTES BASKET - 1 – LANDERNEAU BRETAGNE BASKET H
@@ -347,7 +348,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-08-11-00-rennes-avenir-1-ie-alpc-moulin-nan
  tes-baske@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261108T110000
 DTEND;TZID=Europe/Paris:20261108T130000
 SUMMARY:RENNES AVENIR - 1 – IE - ALPC MOULIN NANTES BASKET - 1
@@ -364,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-08-13-15-landerneau-bretagne-basket-hn-ange
  rs-union-@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261108T131500
 DTEND;TZID=Europe/Paris:20261108T151500
 SUMMARY:LANDERNEAU BRETAGNE BASKET HN – ANGERS - UNION FEMININE  BASKET 4
@@ -382,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-08-13-15-ie-ctc-snbc-les-frechets-bc-st-naz
  aire-1-ie@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261108T131500
 DTEND;TZID=Europe/Paris:20261108T151500
 SUMMARY:IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1 – IE - CTC VANNES 
@@ -399,43 +400,43 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02831
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu15-elite-poule-e-2026-11-15-13-15-landerneau-bretagne-basket-hn-renn
- es-avenir@ffbb-agenda
-DTSTAMP:20260919T231531Z
-DTSTART;TZID=Europe/Paris:20261115T131500
-DTEND;TZID=Europe/Paris:20261115T151500
-SUMMARY:LANDERNEAU BRETAGNE BASKET HN – RENNES AVENIR - 1
-DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ LANDERNEAU BRETAGNE BASKET
-  HN vs RENNES AVENIR - 1\n\nLA CIMENTERIE\n📍 Rue Saint-Ernel Landerneau
-  29800\n🚗 Waze : https://waze.com/ul?ll=48.44391\,-4.26253&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/competitions/nfu15-elite/match/200000014602858
-LOCATION:LA CIMENTERIE\, Rue Saint-Ernel Landerneau 29800
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02858
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-15-13-15-angers-union-feminine-basket-49-ie
  -ctc-vann@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261115T131500
 DTEND;TZID=Europe/Paris:20261115T151500
 SUMMARY:ANGERS - UNION FEMININE  BASKET 49 – IE - CTC VANNES AGGLOMERATIO
  N 56
 DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ ANGERS - UNION FEMININE  B
- ASKET 49 vs IE - CTC VANNES AGGLOMERATION 56\n\nSALLE DE L'EUROPE\n📍 Ru
- e de l'Ãcriture Angers 49100\n🚗 Waze : https://waze.com/ul?ll=47.487
- 3\,-0.52502&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
- uille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/match/
- 200000014602860
-LOCATION:SALLE DE L'EUROPE\, Rue de l'Ãcriture Angers 49100
+ ASKET 49 vs IE - CTC VANNES AGGLOMERATION 56\n\nSALLE JEAN BOUIN\n📍 Bou
+ levard Pierre de Coubertin Angers 49000\n🚗 Waze : https://waze.com/ul?l
+ l=47.46186\,-0.53251&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-eli
+ te/match/200000014602860
+LOCATION:SALLE JEAN BOUIN\, Boulevard Pierre de Coubertin Angers 49000
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02860
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu15-elite-poule-e-2026-11-15-13-15-landerneau-bretagne-basket-hn-renn
+ es-avenir@ffbb-agenda
+DTSTAMP:20260922T001918Z
+DTSTART;TZID=Europe/Paris:20261115T131500
+DTEND;TZID=Europe/Paris:20261115T151500
+SUMMARY:LANDERNEAU BRETAGNE BASKET HN – RENNES AVENIR - 1
+DESCRIPTION:🏀 NFU15-ELITE – Poule E\n⚔️ LANDERNEAU BRETAGNE BASKET
+  HN vs RENNES AVENIR - 1\n\nSALLE OMNISPORTS (St HOUARDON)\n📍 Saint-Urb
+ ain 29800\n🚗 Waze : https://waze.com/ul?ll=48.40126\,-4.22771&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nfu15-elite/match/200000014602858
+LOCATION:SALLE OMNISPORTS (St HOUARDON)\, Saint-Urbain 29800
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02858
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-15-13-15-ie-alpc-moulin-nantes-basket-1-ie-
  ctc-snbc-@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261115T131500
 DTEND;TZID=Europe/Paris:20261115T151500
 SUMMARY:IE - ALPC MOULIN NANTES BASKET - 1 – IE - CTC SNBC - LES FRECHETS
@@ -453,7 +454,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-29-13-15-ie-ctc-snbc-les-frechets-bc-st-naz
  aire-1-la@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261129T131500
 DTEND;TZID=Europe/Paris:20261129T151500
 SUMMARY:IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 1 – LANDERNEAU BRETA
@@ -472,7 +473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-29-13-15-rennes-avenir-1-angers-union-femin
  ine-baske@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261129T131500
 DTEND;TZID=Europe/Paris:20261129T151500
 SUMMARY:RENNES AVENIR - 1 – ANGERS - UNION FEMININE  BASKET 49
@@ -489,7 +490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-11-29-13-15-ie-ctc-vannes-agglomeration-56-ie-
  alpc-moul@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261129T131500
 DTEND;TZID=Europe/Paris:20261129T151500
 SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – IE - ALPC MOULIN NANTES BASKET
@@ -507,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-12-06-11-00-rennes-avenir-1-ie-ctc-snbc-les-fr
  echets-bc@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261206T110000
 DTEND;TZID=Europe/Paris:20261206T130000
 SUMMARY:RENNES AVENIR - 1 – IE - CTC SNBC - LES FRECHETS BC ST NAZAIRE - 
@@ -525,7 +526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-12-06-13-15-ie-alpc-moulin-nantes-basket-1-ang
  ers-union@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261206T131500
 DTEND;TZID=Europe/Paris:20261206T151500
 SUMMARY:IE - ALPC MOULIN NANTES BASKET - 1 – ANGERS - UNION FEMININE  BAS
@@ -543,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-e-2026-12-06-13-15-landerneau-bretagne-basket-hn-ie-c
  tc-vannes@ffbb-agenda
-DTSTAMP:20260919T231531Z
+DTSTAMP:20260922T001918Z
 DTSTART;TZID=Europe/Paris:20261206T131500
 DTEND;TZID=Europe/Paris:20261206T151500
 SUMMARY:LANDERNEAU BRETAGNE BASKET HN – IE - CTC VANNES AGGLOMERATION 56

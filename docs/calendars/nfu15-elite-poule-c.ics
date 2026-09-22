@@ -24,26 +24,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:nfu15-elite-poule-c-2026-09-13-13-15-albi-basket-81-1-ie-nord-est-toulo
- usain-bc@ffbb-agenda
-DTSTAMP:20260919T231453Z
-DTSTART;TZID=Europe/Paris:20260913T131500
-DTEND;TZID=Europe/Paris:20260913T151500
-SUMMARY:ALBI BASKET 81 - 1 – IE - NORD EST TOULOUSAIN BC (52-67)
-DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ ALBI BASKET 81 - 1 vs IE -
-  NORD EST TOULOUSAIN BC\n📊 Score : 52-67\n\nSALLE DU COSEC\n📍 Avenue
-  Colonel Teyssier Albi 81000\n🚗 Waze : https://waze.com/ul?ll=43.9225\,
- 2.16223&navigate=yes\n\n📢 Arbitres : Ines ACHOUR\, Yoan TOURE\n\n🔗 F
- euille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/match
- /200000014602663
-LOCATION:SALLE DU COSEC\, Avenue Colonel Teyssier Albi 81000
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02663
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-09-13-13-15-lons-basket-ie-ctc-cap-de-gascogne
  -basket-l@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20260913T131500
 DTEND;TZID=Europe/Paris:20260913T151500
 SUMMARY:LONS BASKET – IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1 (68-48
@@ -59,9 +42,26 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02665
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu15-elite-poule-c-2026-09-13-13-15-albi-basket-81-1-ie-nord-est-toulo
+ usain-bc@ffbb-agenda
+DTSTAMP:20260922T001835Z
+DTSTART;TZID=Europe/Paris:20260913T131500
+DTEND;TZID=Europe/Paris:20260913T151500
+SUMMARY:ALBI BASKET 81 - 1 – IE - NORD EST TOULOUSAIN BC (52-67)
+DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ ALBI BASKET 81 - 1 vs IE -
+  NORD EST TOULOUSAIN BC\n📊 Score : 52-67\n\nSALLE DU COSEC\n📍 Avenue
+  Colonel Teyssier Albi 81000\n🚗 Waze : https://waze.com/ul?ll=43.9225\,
+ 2.16223&navigate=yes\n\n📢 Arbitres : Ines ACHOUR\, Yoan TOURE\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/match
+ /200000014602663
+LOCATION:SALLE DU COSEC\, Avenue Colonel Teyssier Albi 81000
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02663
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-09-13-14-00-as-tournefeuille-anglet-cote-basqu
  e-basket-@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20260913T140000
 DTEND;TZID=Europe/Paris:20260913T160000
 SUMMARY:AS TOURNEFEUILLE – ANGLET COTE BASQUE BASKET - 1 (87-80)
@@ -78,16 +78,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-09-20-11-00-anglet-cote-basque-basket-1-albi-b
  asket-81-@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20260920T110000
 DTEND;TZID=Europe/Paris:20260920T130000
-SUMMARY:ANGLET COTE BASQUE BASKET - 1 – ALBI BASKET 81 - 1
+SUMMARY:ANGLET COTE BASQUE BASKET - 1 – ALBI BASKET 81 - 1 (105-43)
 DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ ANGLET COTE BASQUE BASKET 
- - 1 vs ALBI BASKET 81 - 1\n\nC.SP. EL HOGAR\n📍 Rue de Hausquette Anglet
-  64600\n🚗 Waze : https://waze.com/ul?ll=43.49495\,-1.50988&navigate=yes
- \n\n📢 Arbitres : Jennifer BEAUDEVIN\, Mathieu TACHOIRES\n\n🔗 Feuille
-  FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/match/20000
- 0014602690
+ - 1 vs ALBI BASKET 81 - 1\n📊 Score : 105-43\n\nC.SP. EL HOGAR\n📍 Rue
+  de Hausquette Anglet 64600\n🚗 Waze : https://waze.com/ul?ll=43.49495\,
+ -1.50988&navigate=yes\n\n📢 Arbitres : Jennifer BEAUDEVIN\, Mathieu TACH
+ OIRES\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf
+ u15-elite/match/200000014602690
 LOCATION:C.SP. EL HOGAR\, Rue de Hausquette Anglet 64600
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02690
@@ -95,16 +95,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-09-20-13-15-ie-ctc-cap-de-gascogne-basket-land
  es-1-as-t@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20260920T131500
 DTEND;TZID=Europe/Paris:20260920T151500
-SUMMARY:IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1 – AS TOURNEFEUILLE
+SUMMARY:IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1 – AS TOURNEFEUILLE (
+ 63-68)
 DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ IE - CTC CAP DE GASCOGNE -
-  BASKET LANDES - 1 vs AS TOURNEFEUILLE\n\nESPACE MULTI. SAINT PIERROI (D)\
- n📍 Rue de la Provence Saint-Pierre-du-Mont 40280\n🚗 Waze : https://w
- aze.com/ul?ll=43.8784\,-0.51176&navigate=yes\n\n📢 Arbitres : Romain CHI
- ON\, Selma HAMAMA\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/com
- petitions/nfu15-elite/match/200000014602692
+  BASKET LANDES - 1 vs AS TOURNEFEUILLE\n📊 Score : 63-68\n\nESPACE MULTI
+ . SAINT PIERROI (D)\n📍 Rue de la Provence Saint-Pierre-du-Mont 40280\n
+ 🚗 Waze : https://waze.com/ul?ll=43.8784\,-0.51176&navigate=yes\n\n📢 
+ Arbitres : Romain CHION\, Selma HAMAMA\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nfu15-elite/match/200000014602692
 LOCATION:ESPACE MULTI. SAINT PIERROI (D)\, Rue de la Provence Saint-Pierre-
  du-Mont 40280
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
@@ -113,23 +114,41 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-09-20-13-15-ie-nord-est-toulousain-bc-lons-bas
  ket@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20260920T131500
 DTEND;TZID=Europe/Paris:20260920T151500
-SUMMARY:IE - NORD EST TOULOUSAIN BC – LONS BASKET
+SUMMARY:IE - NORD EST TOULOUSAIN BC – LONS BASKET (73-48)
 DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ IE - NORD EST TOULOUSAIN B
- C vs LONS BASKET\n\nSALLE ALEX JANY\n📍 Chemin de BelbÃ¨ze Saint-Jean 
- 31240\n🚗 Waze : https://waze.com/ul?ll=43.65887\,1.5036&navigate=yes\n\
- n📢 Arbitres : Hugo QUINTANA\, Martin CRETON\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nfu15-elite/match/200000014602691
+ C vs LONS BASKET\n📊 Score : 73-48\n\nSALLE ALEX JANY\n📍 Chemin de Be
+ lbÃ¨ze Saint-Jean 31240\n🚗 Waze : https://waze.com/ul?ll=43.65887\,1.
+ 5036&navigate=yes\n\n📢 Arbitres : Hugo QUINTANA\, Martin CRETON\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite/mat
+ ch/200000014602691
 LOCATION:SALLE ALEX JANY\, Chemin de BelbÃ¨ze Saint-Jean 31240
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02691
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu15-elite-poule-c-2026-09-27-13-15-anglet-cote-basque-basket-1-ie-nor
+ d-est-tou@ffbb-agenda
+DTSTAMP:20260922T001835Z
+DTSTART;TZID=Europe/Paris:20260927T131500
+DTEND;TZID=Europe/Paris:20260927T151500
+SUMMARY:ANGLET COTE BASQUE BASKET - 1 – IE - NORD EST TOULOUSAIN BC
+DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ ANGLET COTE BASQUE BASKET 
+ - 1 vs IE - NORD EST TOULOUSAIN BC\n\nC.SP. EL HOGAR\n📍 Rue de Hausquet
+ te Anglet 64600\n🚗 Waze : https://waze.com/ul?ll=43.49495\,-1.50988&nav
+ igate=yes\n\n📢 Arbitres : Eddy SIMARD\, Lana BROUTIN\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/competitions/nfu15-elite/match/20000001
+ 4602719
+LOCATION:C.SP. EL HOGAR\, Rue de Hausquette Anglet 64600
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02719
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-09-27-13-15-albi-basket-81-1-ie-ctc-cap-de-gas
  cogne-bas@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20260927T131500
 DTEND;TZID=Europe/Paris:20260927T151500
 SUMMARY:ALBI BASKET 81 - 1 – IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1
@@ -146,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-09-27-13-15-as-tournefeuille-lons-basket@ffbb-
  agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20260927T131500
 DTEND;TZID=Europe/Paris:20260927T151500
 SUMMARY:AS TOURNEFEUILLE – LONS BASKET
@@ -160,42 +179,42 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02717
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu15-elite-poule-c-2026-09-27-13-15-anglet-cote-basque-basket-1-ie-nor
- d-est-tou@ffbb-agenda
-DTSTAMP:20260919T231453Z
-DTSTART;TZID=Europe/Paris:20260927T131500
-DTEND;TZID=Europe/Paris:20260927T151500
-SUMMARY:ANGLET COTE BASQUE BASKET - 1 – IE - NORD EST TOULOUSAIN BC
-DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ ANGLET COTE BASQUE BASKET 
- - 1 vs IE - NORD EST TOULOUSAIN BC\n\nC.SP. EL HOGAR\n📍 Rue de Hausquet
- te Anglet 64600\n🚗 Waze : https://waze.com/ul?ll=43.49495\,-1.50988&nav
- igate=yes\n\n📢 Arbitres : Eddy SIMARD\, Lana BROUTIN\n\n🔗 Feuille FF
- BB : https://competitions.ffbb.com/competitions/nfu15-elite/match/20000001
- 4602719
-LOCATION:C.SP. EL HOGAR\, Rue de Hausquette Anglet 64600
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02719
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-10-04-11-00-lons-basket-albi-basket-81-1@ffbb-
  agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261004T110000
 DTEND;TZID=Europe/Paris:20261004T130000
 SUMMARY:LONS BASKET – ALBI BASKET 81 - 1
 DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ LONS BASKET vs ALBI BASKET
   81 - 1\n\nSALLE SP. J.R.BELLOCQ\n📍 Avenue de Pau Lons 64140\n🚗 Waze
   : https://waze.com/ul?ll=43.30951\,-0.40772&navigate=yes\n\n📢 Arbitres
-  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
- m/competitions/nfu15-elite/match/200000014602744
+  : Enzo LUCAS GROUSSET\, Anias AIT-OUARET\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nfu15-elite/match/200000014602744
 LOCATION:SALLE SP. J.R.BELLOCQ\, Avenue de Pau Lons 64140
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02744
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu15-elite-poule-c-2026-10-04-13-15-ie-nord-est-toulousain-bc-as-tourn
+ efeuille@ffbb-agenda
+DTSTAMP:20260922T001835Z
+DTSTART;TZID=Europe/Paris:20261004T131500
+DTEND;TZID=Europe/Paris:20261004T151500
+SUMMARY:IE - NORD EST TOULOUSAIN BC – AS TOURNEFEUILLE
+DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ IE - NORD EST TOULOUSAIN B
+ C vs AS TOURNEFEUILLE\n\nSALLE ALEX JANY\n📍 Chemin de BelbÃ¨ze Saint-
+ Jean 31240\n🚗 Waze : https://waze.com/ul?ll=43.65887\,1.5036&navigate=y
+ es\n\n📢 Arbitres : Ines ACHOUR\, Matéo NOUYRIGAT\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nfu15-elite/match/20000001460
+ 2745
+LOCATION:SALLE ALEX JANY\, Chemin de BelbÃ¨ze Saint-Jean 31240
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02745
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-10-04-13-15-ie-ctc-cap-de-gascogne-basket-land
  es-1-angl@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261004T131500
 DTEND;TZID=Europe/Paris:20261004T151500
 SUMMARY:IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1 – ANGLET COTE BASQUE
@@ -203,34 +222,18 @@ SUMMARY:IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1 – ANGLET COTE BASQUE
 DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ IE - CTC CAP DE GASCOGNE -
   BASKET LANDES - 1 vs ANGLET COTE BASQUE BASKET - 1\n\nESPACE F. MITTERRAN
  D\n📍 Rue de la Ferme du Conte Mont-de-Marsan 40000\n🚗 Waze : https:/
- /waze.com/ul?ll=43.89754\,-0.46468&navigate=yes\n\n📢 Arbitres : Pas de 
- désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competit
- ions/nfu15-elite/match/200000014602746
+ /waze.com/ul?ll=43.89754\,-0.46468&navigate=yes\n\n📢 Arbitres : Baptist
+ e BORIE\, Thomas JOUGLET\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nfu15-elite/match/200000014602746
 LOCATION:ESPACE F. MITTERRAND\, Rue de la Ferme du Conte Mont-de-Marsan 400
  00
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02746
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu15-elite-poule-c-2026-10-04-13-15-ie-nord-est-toulousain-bc-as-tourn
- efeuille@ffbb-agenda
-DTSTAMP:20260919T231453Z
-DTSTART;TZID=Europe/Paris:20261004T131500
-DTEND;TZID=Europe/Paris:20261004T151500
-SUMMARY:IE - NORD EST TOULOUSAIN BC – AS TOURNEFEUILLE
-DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ IE - NORD EST TOULOUSAIN B
- C vs AS TOURNEFEUILLE\n\nSALLE ALEX JANY\n📍 Chemin de BelbÃ¨ze Saint-
- Jean 31240\n🚗 Waze : https://waze.com/ul?ll=43.65887\,1.5036&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/competitions/nfu15-elite/match/200000014602745
-LOCATION:SALLE ALEX JANY\, Chemin de BelbÃ¨ze Saint-Jean 31240
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02745
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-10-11-13-15-anglet-cote-basque-basket-1-lons-b
  asket@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261011T131500
 DTEND;TZID=Europe/Paris:20261011T151500
 SUMMARY:ANGLET COTE BASQUE BASKET - 1 – LONS BASKET
@@ -246,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-10-11-13-15-ie-nord-est-toulousain-bc-ie-ctc-c
  ap-de-gas@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261011T131500
 DTEND;TZID=Europe/Paris:20261011T151500
 SUMMARY:IE - NORD EST TOULOUSAIN BC – IE - CTC CAP DE GASCOGNE - BASKET L
@@ -264,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-10-11-13-15-albi-basket-81-1-as-tournefeuille@
  ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261011T131500
 DTEND;TZID=Europe/Paris:20261011T151500
 SUMMARY:ALBI BASKET 81 - 1 – AS TOURNEFEUILLE
@@ -280,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-11-01-11-00-ie-nord-est-toulousain-bc-albi-bas
  ket-81-1@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261101T110000
 DTEND;TZID=Europe/Paris:20261101T130000
 SUMMARY:IE - NORD EST TOULOUSAIN BC – ALBI BASKET 81 - 1
@@ -294,25 +297,9 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02798
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu15-elite-poule-c-2026-11-01-13-15-anglet-cote-basque-basket-1-as-tou
- rnefeuill@ffbb-agenda
-DTSTAMP:20260919T231453Z
-DTSTART;TZID=Europe/Paris:20261101T131500
-DTEND;TZID=Europe/Paris:20261101T151500
-SUMMARY:ANGLET COTE BASQUE BASKET - 1 – AS TOURNEFEUILLE
-DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ ANGLET COTE BASQUE BASKET 
- - 1 vs AS TOURNEFEUILLE\n\nC.SP. EL HOGAR\n📍 Rue de Hausquette Anglet 6
- 4600\n🚗 Waze : https://waze.com/ul?ll=43.49495\,-1.50988&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/competitions/nfu15-elite/match/200000014602799
-LOCATION:C.SP. EL HOGAR\, Rue de Hausquette Anglet 64600
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02799
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-11-01-13-15-ie-ctc-cap-de-gascogne-basket-land
  es-1-lons@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261101T131500
 DTEND;TZID=Europe/Paris:20261101T151500
 SUMMARY:IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1 – LONS BASKET
@@ -328,9 +315,42 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02800
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu15-elite-poule-c-2026-11-01-13-15-anglet-cote-basque-basket-1-as-tou
+ rnefeuill@ffbb-agenda
+DTSTAMP:20260922T001835Z
+DTSTART;TZID=Europe/Paris:20261101T131500
+DTEND;TZID=Europe/Paris:20261101T151500
+SUMMARY:ANGLET COTE BASQUE BASKET - 1 – AS TOURNEFEUILLE
+DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ ANGLET COTE BASQUE BASKET 
+ - 1 vs AS TOURNEFEUILLE\n\nC.SP. EL HOGAR\n📍 Rue de Hausquette Anglet 6
+ 4600\n🚗 Waze : https://waze.com/ul?ll=43.49495\,-1.50988&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nfu15-elite/match/200000014602799
+LOCATION:C.SP. EL HOGAR\, Rue de Hausquette Anglet 64600
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02799
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu15-elite-poule-c-2026-11-08-13-15-as-tournefeuille-ie-ctc-cap-de-gas
+ cogne-bas@ffbb-agenda
+DTSTAMP:20260922T001835Z
+DTSTART;TZID=Europe/Paris:20261108T131500
+DTEND;TZID=Europe/Paris:20261108T151500
+SUMMARY:AS TOURNEFEUILLE – IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1
+DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ AS TOURNEFEUILLE vs IE - C
+ TC CAP DE GASCOGNE - BASKET LANDES - 1\n\nGYMNASE CES P.LABITRIE\n📍 Rue
+  Pierre Labitrie Tournefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=4
+ 3.57838\,1.32654&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite
+ /match/200000014602827
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02827
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-11-08-13-15-albi-basket-81-1-anglet-cote-basqu
  e-basket-@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261108T131500
 DTEND;TZID=Europe/Paris:20261108T151500
 SUMMARY:ALBI BASKET 81 - 1 – ANGLET COTE BASQUE BASKET - 1
@@ -346,7 +366,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-11-08-13-15-lons-basket-ie-nord-est-toulousain
  -bc@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261108T131500
 DTEND;TZID=Europe/Paris:20261108T151500
 SUMMARY:LONS BASKET – IE - NORD EST TOULOUSAIN BC
@@ -360,26 +380,9 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02826
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu15-elite-poule-c-2026-11-08-13-15-as-tournefeuille-ie-ctc-cap-de-gas
- cogne-bas@ffbb-agenda
-DTSTAMP:20260919T231453Z
-DTSTART;TZID=Europe/Paris:20261108T131500
-DTEND;TZID=Europe/Paris:20261108T151500
-SUMMARY:AS TOURNEFEUILLE – IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1
-DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ AS TOURNEFEUILLE vs IE - C
- TC CAP DE GASCOGNE - BASKET LANDES - 1\n\nGYMNASE CES P.LABITRIE\n📍 Rue
-  Pierre Labitrie Tournefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=4
- 3.57838\,1.32654&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu15-elite
- /match/200000014602827
-LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02827
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-11-15-11-00-ie-ctc-cap-de-gascogne-basket-land
  es-1-albi@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261115T110000
 DTEND;TZID=Europe/Paris:20261115T130000
 SUMMARY:IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1 – ALBI BASKET 81 - 1
@@ -396,7 +399,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-11-15-13-15-ie-nord-est-toulousain-bc-anglet-c
  ote-basqu@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261115T131500
 DTEND;TZID=Europe/Paris:20261115T151500
 SUMMARY:IE - NORD EST TOULOUSAIN BC – ANGLET COTE BASQUE BASKET - 1
@@ -413,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-11-15-13-15-lons-basket-as-tournefeuille@ffbb-
  agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261115T131500
 DTEND;TZID=Europe/Paris:20261115T151500
 SUMMARY:LONS BASKET – AS TOURNEFEUILLE
@@ -427,9 +430,26 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02852
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu15-elite-poule-c-2026-11-29-13-15-as-tournefeuille-ie-nord-est-toulo
+ usain-bc@ffbb-agenda
+DTSTAMP:20260922T001835Z
+DTSTART;TZID=Europe/Paris:20261129T131500
+DTEND;TZID=Europe/Paris:20261129T151500
+SUMMARY:AS TOURNEFEUILLE – IE - NORD EST TOULOUSAIN BC
+DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ AS TOURNEFEUILLE vs IE - N
+ ORD EST TOULOUSAIN BC\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie 
+ Tournefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&
+ navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
+  https://competitions.ffbb.com/competitions/nfu15-elite/match/200000014602
+ 880
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02880
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-11-29-13-15-anglet-cote-basque-basket-1-ie-ctc
  -cap-de-g@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261129T131500
 DTEND;TZID=Europe/Paris:20261129T151500
 SUMMARY:ANGLET COTE BASQUE BASKET - 1 – IE - CTC CAP DE GASCOGNE - BASKET
@@ -445,26 +465,9 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02881
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu15-elite-poule-c-2026-11-29-13-15-as-tournefeuille-ie-nord-est-toulo
- usain-bc@ffbb-agenda
-DTSTAMP:20260919T231453Z
-DTSTART;TZID=Europe/Paris:20261129T131500
-DTEND;TZID=Europe/Paris:20261129T151500
-SUMMARY:AS TOURNEFEUILLE – IE - NORD EST TOULOUSAIN BC
-DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ AS TOURNEFEUILLE vs IE - N
- ORD EST TOULOUSAIN BC\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie 
- Tournefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&
- navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/competitions/nfu15-elite/match/200000014602
- 880
-LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02880
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-11-29-13-15-albi-basket-81-1-lons-basket@ffbb-
  agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261129T131500
 DTEND;TZID=Europe/Paris:20261129T151500
 SUMMARY:ALBI BASKET 81 - 1 – LONS BASKET
@@ -478,9 +481,25 @@ URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02879
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu15-elite-poule-c-2026-12-06-13-15-as-tournefeuille-albi-basket-81-1@
+ ffbb-agenda
+DTSTAMP:20260922T001835Z
+DTSTART;TZID=Europe/Paris:20261206T131500
+DTEND;TZID=Europe/Paris:20261206T151500
+SUMMARY:AS TOURNEFEUILLE – ALBI BASKET 81 - 1
+DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ AS TOURNEFEUILLE vs ALBI B
+ ASKET 81 - 1\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tournefeu
+ ille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nfu15-elite/match/200000014602906
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
+ 02906
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-12-06-13-15-lons-basket-anglet-cote-basque-bas
  ket-1@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261206T131500
 DTEND;TZID=Europe/Paris:20261206T151500
 SUMMARY:LONS BASKET – ANGLET COTE BASQUE BASKET - 1
@@ -496,7 +515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu15-elite-poule-c-2026-12-06-13-15-ie-ctc-cap-de-gascogne-basket-land
  es-1-ie-n@ffbb-agenda
-DTSTAMP:20260919T231453Z
+DTSTAMP:20260922T001835Z
 DTSTART;TZID=Europe/Paris:20261206T131500
 DTEND;TZID=Europe/Paris:20261206T151500
 SUMMARY:IE - CTC CAP DE GASCOGNE - BASKET LANDES - 1 – IE - NORD EST TOUL
@@ -511,21 +530,5 @@ LOCATION:ESPACE F. MITTERRAND\, Rue de la Ferme du Conte Mont-de-Marsan 400
  00
 URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
  02907
-END:VEVENT
-BEGIN:VEVENT
-UID:nfu15-elite-poule-c-2026-12-06-13-15-as-tournefeuille-albi-basket-81-1@
- ffbb-agenda
-DTSTAMP:20260919T231453Z
-DTSTART;TZID=Europe/Paris:20261206T131500
-DTEND;TZID=Europe/Paris:20261206T151500
-SUMMARY:AS TOURNEFEUILLE – ALBI BASKET 81 - 1
-DESCRIPTION:🏀 NFU15-ELITE – Poule C\n⚔️ AS TOURNEFEUILLE vs ALBI B
- ASKET 81 - 1\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tournefeu
- ille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&navigate=
- yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
- competitions.ffbb.com/competitions/nfu15-elite/match/200000014602906
-LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
-URL:https://competitions.ffbb.com/competitions/nfu15-elite/match/2000000146
- 02906
 END:VEVENT
 END:VCALENDAR

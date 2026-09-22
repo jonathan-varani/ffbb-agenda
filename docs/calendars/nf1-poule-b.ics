@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-12-18-00-lamboisieres-martin-basket-basket-feminin-
  escaudain@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260912T180000
 DTEND;TZID=Europe/Paris:20260912T200000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – BASKET FEMININ ESCAUDAIN PORTE DU HA
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-12-20-00-stade-francais-basket-1-alpc-moulin-nantes
  -basket-1@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260912T200000
 DTEND;TZID=Europe/Paris:20260912T220000
 SUMMARY:STADE FRANCAIS BASKET - 1 – ALPC MOULIN NANTES BASKET - 1 (68-67)
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-12-20-00-cote-d-opale-basket-calais-ie-basket-club-
  nord-alsa@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260912T200000
 DTEND;TZID=Europe/Paris:20260912T220000
 SUMMARY:COTE D'OPALE BASKET CALAIS – IE - BASKET CLUB NORD ALSACE - 1 (60
@@ -75,24 +75,9 @@ LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600817
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-09-12-20-00-asa-sceaux-centre-federal-bb@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20260912T200000
-DTEND;TZID=Europe/Paris:20260912T220000
-SUMMARY:ASA SCEAUX – CENTRE FEDERAL BB (93-55)
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs CENTRE FEDERAL BB\n
- 📊 Score : 93-55\n\nSALLE DES CLOS ST MARCEL\n📍 Rue des Clos-Saint-Ma
- rcel Sceaux 92330\n🚗 Waze : https://waze.com/ul?ll=48.78059\,2.28532&na
- vigate=yes\n\n📢 Arbitres : Elise LEROY\, Charles TOURNIER\, Laurent BOR
- ES\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf1/m
- atch/200000014600813
-LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600813
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-12-20-00-aplemont-le-havre-basket-1-estaires-bc@ffb
  b-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260912T200000
 DTEND;TZID=Europe/Paris:20260912T220000
 SUMMARY:APLEMONT LE HAVRE BASKET - 1 – ESTAIRES BC (78-49)
@@ -106,9 +91,24 @@ LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600814
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-09-12-20-00-asa-sceaux-centre-federal-bb@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20260912T200000
+DTEND;TZID=Europe/Paris:20260912T220000
+SUMMARY:ASA SCEAUX – CENTRE FEDERAL BB (93-55)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs CENTRE FEDERAL BB\n
+ 📊 Score : 93-55\n\nSALLE DES CLOS ST MARCEL\n📍 Rue des Clos-Saint-Ma
+ rcel Sceaux 92330\n🚗 Waze : https://waze.com/ul?ll=48.78059\,2.28532&na
+ vigate=yes\n\n📢 Arbitres : Elise LEROY\, Charles TOURNIER\, Laurent BOR
+ ES\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf1/m
+ atch/200000014600813
+LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600813
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-13-15-30-basket-club-franconville-bcf-ie-paris-bask
  etball-as@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260913T153000
 DTEND;TZID=Europe/Paris:20260913T173000
 SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – IE - PARIS BASKETBALL ASSOCIATIO
@@ -124,102 +124,106 @@ URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600816
 END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-19-18-00-estaires-bc-centre-federal-bb@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260919T180000
 DTEND;TZID=Europe/Paris:20260919T200000
-SUMMARY:ESTAIRES BC – CENTRE FEDERAL BB
+SUMMARY:ESTAIRES BC – CENTRE FEDERAL BB (89-82)
 DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs CENTRE FEDERAL BB\n
- \nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 59940\n🚗 Waze : ht
- tps://waze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n📢 Arbitres : Nic
- olas GRUSZCZYNSKI\, Paul MONDINO\n\n🔗 Feuille FFBB : https://competitio
- ns.ffbb.com/competitions/nf1/match/200000014600825
+ 📊 Score : 89-82\n\nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 5
+ 9940\n🚗 Waze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\
+ n📢 Arbitres : Nicolas GRUSZCZYNSKI\, Paul MONDINO\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf1/match/200000014600825
 LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600825
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-09-19-20-00-asa-sceaux-lamboisieres-martin-basket@ffbb
- -agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20260919T200000
-DTEND;TZID=Europe/Paris:20260919T220000
-SUMMARY:ASA SCEAUX – LAMBOISIERES-MARTIN BASKET
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs LAMBOISIERES-MARTIN 
- BASKET\n\nSALLE DES CLOS ST MARCEL\n📍 Rue des Clos-Saint-Marcel Sceaux 
- 92330\n🚗 Waze : https://waze.com/ul?ll=48.78059\,2.28532&navigate=yes\n
- \n📢 Arbitres : Aymen CHAKROUN\, Birane DIOP\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nf1/match/200000014600830
-LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600830
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-09-19-20-00-basket-club-franconville-bcf-stade-francai
- s-basket-@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20260919T200000
-DTEND;TZID=Europe/Paris:20260919T220000
-SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – STADE FRANCAIS BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
- STADE FRANCAIS BASKET - 1\n\nC.S.L.\n📍 Boulevard Rhin et Danube Francon
- ville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate=
- yes\n\n📢 Arbitres : Mohamed SLAMA\, Lamine ISKER\n\n🔗 Feuille FFBB :
-  https://competitions.ffbb.com/competitions/nf1/match/200000014600827
-LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600827
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-09-19-20-00-ie-basket-club-nord-alsace-1-ie-paris-bask
- etball-as@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20260919T200000
-DTEND;TZID=Europe/Paris:20260919T220000
-SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – IE - PARIS BASKETBALL ASSOCIAT
- ION
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
- s IE - PARIS BASKETBALL ASSOCIATION\n\nMAISON DES SPORTS\n📍 Impasse du 
- Tournoi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.792
- 53&navigate=yes\n\n📢 Arbitres : Arthaud LUX\, Rilès KHALFOUN\n\n🔗 F
- euille FFBB : https://competitions.ffbb.com/competitions/nf1/match/2000000
- 14600828
-LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600828
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-19-20-00-alpc-moulin-nantes-basket-1-aplemont-le-ha
  vre-baske@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260919T200000
 DTEND;TZID=Europe/Paris:20260919T220000
-SUMMARY:ALPC MOULIN NANTES BASKET - 1 – APLEMONT LE HAVRE BASKET - 1
+SUMMARY:ALPC MOULIN NANTES BASKET - 1 – APLEMONT LE HAVRE BASKET - 1 (86-
+ 89)
 DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ALPC MOULIN NANTES BASKET - 1 vs A
- PLEMONT LE HAVRE BASKET - 1\n\nGYMNASE GASTON TURPIN\n📍 Rue Gaston Turp
- in Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47.22456\,-1.54201&nav
- igate=yes\n\n📢 Arbitres : Nicolas JOULIN\, Corentin SODREAU\n\n🔗 Feu
- ille FFBB : https://competitions.ffbb.com/competitions/nf1/match/200000014
- 600826
+ PLEMONT LE HAVRE BASKET - 1\n📊 Score : 86-89\n\nGYMNASE GASTON TURPIN\n
+ 📍 Rue Gaston Turpin Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47
+ .22456\,-1.54201&navigate=yes\n\n📢 Arbitres : Nicolas JOULIN\, Corentin
+  SODREAU\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions
+ /nf1/match/200000014600826
 LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600826
 END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-19-20-00-basket-feminin-escaudain-porte-du-hainaut-
  cote-d-op@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260919T200000
 DTEND;TZID=Europe/Paris:20260919T220000
 SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – COTE D'OPALE BASKET C
- ALAIS
+ ALAIS (82-61)
 DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET FEMININ ESCAUDAIN PORTE DU 
- HAINAUT vs COTE D'OPALE BASKET CALAIS\n\nS. ALLENDE\n📍 Place Gambetta E
- scaudain 59124\n🚗 Waze : https://waze.com/ul?ll=50.3337\,3.34405&naviga
- te=yes\n\n📢 Arbitres : Jean-philippe DIAZ\, Aurelien BARBRY\n\n🔗 Feu
- ille FFBB : https://competitions.ffbb.com/competitions/nf1/match/200000014
- 600829
+ HAINAUT vs COTE D'OPALE BASKET CALAIS\n📊 Score : 82-61\n\nS. ALLENDE\n
+ 📍 Place Gambetta Escaudain 59124\n🚗 Waze : https://waze.com/ul?ll=50
+ .3337\,3.34405&navigate=yes\n\n📢 Arbitres : Jean-philippe DIAZ\, Aureli
+ en BARBRY\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competition
+ s/nf1/match/200000014600829
 LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600829
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-09-19-20-00-basket-club-franconville-bcf-stade-francai
+ s-basket-@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – STADE FRANCAIS BASKET - 1 (53-77
+ )
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ STADE FRANCAIS BASKET - 1\n📊 Score : 53-77\n\nC.S.L.\n📍 Boulevard Rh
+ in et Danube Franconville 95130\n🚗 Waze : https://waze.com/ul?ll=48.991
+ 3\,2.22552&navigate=yes\n\n📢 Arbitres : Mohamed SLAMA\, Lamine ISKER\n\
+ n🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nf1/match/
+ 200000014600827
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600827
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-09-19-20-00-ie-basket-club-nord-alsace-1-ie-paris-bask
+ etball-as@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – IE - PARIS BASKETBALL ASSOCIAT
+ ION (73-52)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
+ s IE - PARIS BASKETBALL ASSOCIATION\n📊 Score : 73-52\n\nMAISON DES SPOR
+ TS\n📍 Impasse du Tournoi Haguenau 67500\n🚗 Waze : https://waze.com/u
+ l?ll=48.81368\,7.79253&navigate=yes\n\n📢 Arbitres : Arthaud LUX\, Rilè
+ s KHALFOUN\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competitio
+ ns/nf1/match/200000014600828
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600828
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-09-19-20-00-asa-sceaux-lamboisieres-martin-basket@ffbb
+ -agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T220000
+SUMMARY:ASA SCEAUX – LAMBOISIERES-MARTIN BASKET (76-62)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs LAMBOISIERES-MARTIN 
+ BASKET\n📊 Score : 76-62\n\nSALLE DES CLOS ST MARCEL\n📍 Rue des Clos-
+ Saint-Marcel Sceaux 92330\n🚗 Waze : https://waze.com/ul?ll=48.78059\,2.
+ 28532&navigate=yes\n\n📢 Arbitres : Aymen CHAKROUN\, Birane DIOP\n\n🔗
+  Feuille FFBB : https://competitions.ffbb.com/competitions/nf1/match/20000
+ 0014600830
+LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600830
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-26-18-00-centre-federal-bb-alpc-moulin-nantes-baske
  t-1@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260926T180000
 DTEND;TZID=Europe/Paris:20260926T200000
 SUMMARY:CENTRE FEDERAL BB – ALPC MOULIN NANTES BASKET - 1
@@ -232,24 +236,9 @@ LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600837
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-09-26-20-00-cote-d-opale-basket-calais-asa-sceaux@ffbb
- -agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20260926T200000
-DTEND;TZID=Europe/Paris:20260926T220000
-SUMMARY:COTE D'OPALE BASKET CALAIS – ASA SCEAUX
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ COTE D'OPALE BASKET CALAIS vs ASA 
- SCEAUX\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard Calais 62100\n🚗 
- Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigate=yes\n\n📢 Arbit
- res : Nicolas GRUSZCZYNSKI\, Guillaume BREUX\n\n🔗 Feuille FFBB : https:
- //competitions.ffbb.com/competitions/nf1/match/200000014600841
-LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600841
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-26-20-00-aplemont-le-havre-basket-1-basket-club-fra
  nconville@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260926T200000
 DTEND;TZID=Europe/Paris:20260926T220000
 SUMMARY:APLEMONT LE HAVRE BASKET - 1 – BASKET CLUB FRANCONVILLE (BCF)
@@ -265,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-26-20-00-lamboisieres-martin-basket-estaires-bc@ffb
  b-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260926T200000
 DTEND;TZID=Europe/Paris:20260926T220000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – ESTAIRES BC
@@ -280,9 +269,40 @@ LOCATION:SALLE DE LA COUDRE\, Rue des FerriÃ¨res Saint-LÃ©ger-de-LiniÃ
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600842
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-09-26-20-00-cote-d-opale-basket-calais-asa-sceaux@ffbb
+ -agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:COTE D'OPALE BASKET CALAIS – ASA SCEAUX
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ COTE D'OPALE BASKET CALAIS vs ASA 
+ SCEAUX\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard Calais 62100\n🚗 
+ Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigate=yes\n\n📢 Arbit
+ res : Nicolas GRUSZCZYNSKI\, Guillaume BREUX\n\n🔗 Feuille FFBB : https:
+ //competitions.ffbb.com/competitions/nf1/match/200000014600841
+LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600841
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-09-26-20-00-stade-francais-basket-1-ie-basket-club-nor
+ d-alsace-@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T220000
+SUMMARY:STADE FRANCAIS BASKET - 1 – IE - BASKET CLUB NORD ALSACE - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs IE - 
+ BASKET CLUB NORD ALSACE - 1\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Gui
+ lbaud Paris 75016\n🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&na
+ vigate=yes\n\n📢 Arbitres : Laurent MENDY\, Cédric OKEMBA\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nf1/match/20000001460
+ 0839
+LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600839
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-09-26-20-00-ie-paris-basketball-association-basket-fem
  inin-esca@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20260926T200000
 DTEND;TZID=Europe/Paris:20260926T220000
 SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – BASKET FEMININ ESCAUDAIN PORT
@@ -297,25 +317,9 @@ LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600840
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-09-26-20-00-stade-francais-basket-1-ie-basket-club-nor
- d-alsace-@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20260926T200000
-DTEND;TZID=Europe/Paris:20260926T220000
-SUMMARY:STADE FRANCAIS BASKET - 1 – IE - BASKET CLUB NORD ALSACE - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs IE - 
- BASKET CLUB NORD ALSACE - 1\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Gui
- lbaud Paris 75016\n🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&na
- vigate=yes\n\n📢 Arbitres : Laurent MENDY\, Cédric OKEMBA\n\n🔗 Feuil
- le FFBB : https://competitions.ffbb.com/competitions/nf1/match/20000001460
- 0839
-LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600839
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-03-20-00-asa-sceaux-ie-paris-basketball-association
  @ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
 SUMMARY:ASA SCEAUX – IE - PARIS BASKETBALL ASSOCIATION
@@ -329,24 +333,9 @@ LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600852
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-10-03-20-00-basket-club-franconville-bcf-centre-federa
- l-bb@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261003T200000
-DTEND;TZID=Europe/Paris:20261003T220000
-SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – CENTRE FEDERAL BB
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
- CENTRE FEDERAL BB\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franconville 95
- 130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate=yes\n\n
- 📢 Arbitres : Guillaume YVIQUEL\, Birane DIOP\n\n🔗 Feuille FFBB : htt
- ps://competitions.ffbb.com/competitions/nf1/match/200000014600849
-LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600849
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-03-20-00-estaires-bc-cote-d-opale-basket-calais@ffb
  b-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
 SUMMARY:ESTAIRES BC – COTE D'OPALE BASKET CALAIS
@@ -361,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-03-20-00-basket-feminin-escaudain-porte-du-hainaut-
  stade-fra@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
 SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – STADE FRANCAIS BASKET
@@ -376,25 +365,24 @@ LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600851
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-10-03-20-00-alpc-moulin-nantes-basket-1-lamboisieres-m
- artin-bas@ffbb-agenda
-DTSTAMP:20260920T231835Z
+UID:nf1-poule-b-2026-10-03-20-00-basket-club-franconville-bcf-centre-federa
+ l-bb@ffbb-agenda
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
-SUMMARY:ALPC MOULIN NANTES BASKET - 1 – LAMBOISIERES-MARTIN BASKET
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ALPC MOULIN NANTES BASKET - 1 vs L
- AMBOISIERES-MARTIN BASKET\n\nGYMNASE GASTON TURPIN\n📍 Rue Gaston Turpin
-  Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47.22456\,-1.54201&navig
- ate=yes\n\n📢 Arbitres : Amaury HAUDEBOURG\, Jules LACROIX\n\n🔗 Feuil
- le FFBB : https://competitions.ffbb.com/competitions/nf1/match/20000001460
- 0854
-LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600854
+SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ CENTRE FEDERAL BB\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franconville 95
+ 130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate=yes\n\n
+ 📢 Arbitres : Guillaume YVIQUEL\, Birane DIOP\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf1/match/200000014600849
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600849
 END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-03-20-00-ie-basket-club-nord-alsace-1-aplemont-le-h
  avre-bask@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261003T200000
 DTEND;TZID=Europe/Paris:20261003T220000
 SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – APLEMONT LE HAVRE BASKET - 1
@@ -408,9 +396,25 @@ LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600850
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-03-20-00-alpc-moulin-nantes-basket-1-lamboisieres-m
+ artin-bas@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:ALPC MOULIN NANTES BASKET - 1 – LAMBOISIERES-MARTIN BASKET
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ALPC MOULIN NANTES BASKET - 1 vs L
+ AMBOISIERES-MARTIN BASKET\n\nGYMNASE GASTON TURPIN\n📍 Rue Gaston Turpin
+  Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47.22456\,-1.54201&navig
+ ate=yes\n\n📢 Arbitres : Amaury HAUDEBOURG\, Jules LACROIX\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/competitions/nf1/match/20000001460
+ 0854
+LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600854
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-10-16-00-centre-federal-bb-ie-basket-club-nord-alsa
  ce-1@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261010T160000
 DTEND;TZID=Europe/Paris:20261010T180000
 SUMMARY:CENTRE FEDERAL BB – IE - BASKET CLUB NORD ALSACE - 1
@@ -423,26 +427,9 @@ LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600861
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-10-10-20-00-aplemont-le-havre-basket-1-basket-feminin-
- escaudain@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261010T200000
-DTEND;TZID=Europe/Paris:20261010T220000
-SUMMARY:APLEMONT LE HAVRE BASKET - 1 – BASKET FEMININ ESCAUDAIN PORTE DU 
- HAINAUT
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs BA
- SKET FEMININ ESCAUDAIN PORTE DU HAINAUT\n\nSALLE PIERRE DE COUBERTIN\n📍
-  Rue des Oeillets Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50
- 857\,0.16295&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
- euille FFBB : https://competitions.ffbb.com/competitions/nf1/match/2000000
- 14600862
-LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600862
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-10-20-00-lamboisieres-martin-basket-basket-club-fra
  nconville@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261010T200000
 DTEND;TZID=Europe/Paris:20261010T220000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – BASKET CLUB FRANCONVILLE (BCF)
@@ -459,7 +446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-10-20-00-cote-d-opale-basket-calais-alpc-moulin-nan
  tes-baske@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261010T200000
 DTEND;TZID=Europe/Paris:20261010T220000
 SUMMARY:COTE D'OPALE BASKET CALAIS – ALPC MOULIN NANTES BASKET - 1
@@ -474,7 +461,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-10-20-00-ie-paris-basketball-association-estaires-b
  c@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261010T200000
 DTEND;TZID=Europe/Paris:20261010T220000
 SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – ESTAIRES BC
@@ -489,7 +476,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-10-20-00-stade-francais-basket-1-asa-sceaux@ffbb-ag
  enda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261010T200000
 DTEND;TZID=Europe/Paris:20261010T220000
 SUMMARY:STADE FRANCAIS BASKET - 1 – ASA SCEAUX
@@ -502,9 +489,26 @@ LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600863
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-10-20-00-aplemont-le-havre-basket-1-basket-feminin-
+ escaudain@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T220000
+SUMMARY:APLEMONT LE HAVRE BASKET - 1 – BASKET FEMININ ESCAUDAIN PORTE DU 
+ HAINAUT
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs BA
+ SKET FEMININ ESCAUDAIN PORTE DU HAINAUT\n\nSALLE PIERRE DE COUBERTIN\n📍
+  Rue des Oeillets Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50
+ 857\,0.16295&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nf1/match/2000000
+ 14600862
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600862
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-24-20-00-asa-sceaux-aplemont-le-havre-basket-1@ffbb
  -agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261024T200000
 DTEND;TZID=Europe/Paris:20261024T220000
 SUMMARY:ASA SCEAUX – APLEMONT LE HAVRE BASKET - 1
@@ -517,69 +521,9 @@ LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600874
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-10-24-20-00-basket-feminin-escaudain-porte-du-hainaut-
- centre-fe@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261024T200000
-DTEND;TZID=Europe/Paris:20261024T220000
-SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – CENTRE FEDERAL BB
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET FEMININ ESCAUDAIN PORTE DU 
- HAINAUT vs CENTRE FEDERAL BB\n\nS. ALLENDE\n📍 Place Gambetta Escaudain 
- 59124\n🚗 Waze : https://waze.com/ul?ll=50.3337\,3.34405&navigate=yes\n\
- n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
- itions.ffbb.com/competitions/nf1/match/200000014600873
-LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600873
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-10-24-20-00-estaires-bc-stade-francais-basket-1@ffbb-a
- genda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261024T200000
-DTEND;TZID=Europe/Paris:20261024T220000
-SUMMARY:ESTAIRES BC – STADE FRANCAIS BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs STADE FRANCAIS BASK
- ET - 1\n\nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 59940\n🚗 W
- aze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n📢 Arbitr
- es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
- com/competitions/nf1/match/200000014600875
-LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600875
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-10-24-20-00-alpc-moulin-nantes-basket-1-ie-paris-baske
- tball-ass@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261024T200000
-DTEND;TZID=Europe/Paris:20261024T220000
-SUMMARY:ALPC MOULIN NANTES BASKET - 1 – IE - PARIS BASKETBALL ASSOCIATION
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ALPC MOULIN NANTES BASKET - 1 vs I
- E - PARIS BASKETBALL ASSOCIATION\n\nGYMNASE GASTON TURPIN\n📍 Rue Gaston
-  Turpin Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47.22456\,-1.5420
- 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
-  : https://competitions.ffbb.com/competitions/nf1/match/200000014600876
-LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600876
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-10-24-20-00-basket-club-franconville-bcf-cote-d-opale-
- basket-ca@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261024T200000
-DTEND;TZID=Europe/Paris:20261024T220000
-SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – COTE D'OPALE BASKET CALAIS
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
- COTE D'OPALE BASKET CALAIS\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franco
- nville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/competitions/nf1/match/200000014600877
-LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600877
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-24-20-00-ie-basket-club-nord-alsace-1-lamboisieres-
  martin-ba@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261024T200000
 DTEND;TZID=Europe/Paris:20261024T220000
 SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – LAMBOISIERES-MARTIN BASKET
@@ -592,9 +536,69 @@ LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600878
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-24-20-00-basket-club-franconville-bcf-cote-d-opale-
+ basket-ca@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – COTE D'OPALE BASKET CALAIS
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ COTE D'OPALE BASKET CALAIS\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franco
+ nville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf1/match/200000014600877
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600877
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-24-20-00-alpc-moulin-nantes-basket-1-ie-paris-baske
+ tball-ass@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:ALPC MOULIN NANTES BASKET - 1 – IE - PARIS BASKETBALL ASSOCIATION
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ALPC MOULIN NANTES BASKET - 1 vs I
+ E - PARIS BASKETBALL ASSOCIATION\n\nGYMNASE GASTON TURPIN\n📍 Rue Gaston
+  Turpin Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47.22456\,-1.5420
+ 1&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nf1/match/200000014600876
+LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600876
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-24-20-00-estaires-bc-stade-francais-basket-1@ffbb-a
+ genda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:ESTAIRES BC – STADE FRANCAIS BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs STADE FRANCAIS BASK
+ ET - 1\n\nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 59940\n🚗 W
+ aze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n📢 Arbitr
+ es : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.
+ com/competitions/nf1/match/200000014600875
+LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600875
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-24-20-00-basket-feminin-escaudain-porte-du-hainaut-
+ centre-fe@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET FEMININ ESCAUDAIN PORTE DU 
+ HAINAUT vs CENTRE FEDERAL BB\n\nS. ALLENDE\n📍 Place Gambetta Escaudain 
+ 59124\n🚗 Waze : https://waze.com/ul?ll=50.3337\,3.34405&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/competitions/nf1/match/200000014600873
+LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600873
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-31-16-00-lamboisieres-martin-basket-centre-federal-
  bb@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261031T160000
 DTEND;TZID=Europe/Paris:20261031T180000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – CENTRE FEDERAL BB
@@ -608,39 +612,9 @@ LOCATION:SALLE DE LA COUDRE\, Rue des FerriÃ¨res Saint-LÃ©ger-de-LiniÃ
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600885
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-10-31-20-00-basket-club-franconville-bcf-alpc-moulin-n
- antes-bas@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261031T200000
-DTEND;TZID=Europe/Paris:20261031T220000
-SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – ALPC MOULIN NANTES BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
- ALPC MOULIN NANTES BASKET - 1\n\nC.S.L.\n📍 Boulevard Rhin et Danube Fra
- nconville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nf1/match/200000014600890
-LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600890
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-10-31-20-00-ie-basket-club-nord-alsace-1-estaires-bc@f
- fbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261031T200000
-DTEND;TZID=Europe/Paris:20261031T220000
-SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – ESTAIRES BC
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
- s ESTAIRES BC\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500
- \n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nf1/match/200000014600889
-LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600889
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-31-20-00-basket-feminin-escaudain-porte-du-hainaut-
  asa-sceau@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261031T200000
 DTEND;TZID=Europe/Paris:20261031T220000
 SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – ASA SCEAUX
@@ -655,7 +629,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-31-20-00-ie-paris-basketball-association-stade-fran
  cais-bask@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261031T200000
 DTEND;TZID=Europe/Paris:20261031T220000
 SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – STADE FRANCAIS BASKET - 1
@@ -670,7 +644,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-10-31-20-00-cote-d-opale-basket-calais-aplemont-le-hav
  re-basket@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261031T200000
 DTEND;TZID=Europe/Paris:20261031T220000
 SUMMARY:COTE D'OPALE BASKET CALAIS – APLEMONT LE HAVRE BASKET - 1
@@ -683,9 +657,39 @@ LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600886
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-31-20-00-basket-club-franconville-bcf-alpc-moulin-n
+ antes-bas@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – ALPC MOULIN NANTES BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ ALPC MOULIN NANTES BASKET - 1\n\nC.S.L.\n📍 Boulevard Rhin et Danube Fra
+ nconville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf1/match/200000014600890
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600890
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-10-31-20-00-ie-basket-club-nord-alsace-1-estaires-bc@f
+ fbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T220000
+SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – ESTAIRES BC
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
+ s ESTAIRES BC\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500
+ \n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf1/match/200000014600889
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600889
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-07-18-00-centre-federal-bb-cote-d-opale-basket-cala
  is@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261107T180000
 DTEND;TZID=Europe/Paris:20261107T200000
 SUMMARY:CENTRE FEDERAL BB – COTE D'OPALE BASKET CALAIS
@@ -698,39 +702,9 @@ LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600897
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-11-07-20-00-asa-sceaux-ie-basket-club-nord-alsace-1@ff
- bb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261107T200000
-DTEND;TZID=Europe/Paris:20261107T220000
-SUMMARY:ASA SCEAUX – IE - BASKET CLUB NORD ALSACE - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs IE - BASKET CLUB NOR
- D ALSACE - 1\n\nSALLE DES CLOS ST MARCEL\n📍 Rue des Clos-Saint-Marcel S
- ceaux 92330\n🚗 Waze : https://waze.com/ul?ll=48.78059\,2.28532&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/competitions/nf1/match/200000014600900
-LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600900
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-11-07-20-00-stade-francais-basket-1-lamboisieres-marti
- n-basket@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261107T200000
-DTEND;TZID=Europe/Paris:20261107T220000
-SUMMARY:STADE FRANCAIS BASKET - 1 – LAMBOISIERES-MARTIN BASKET
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs LAMBO
- ISIERES-MARTIN BASKET\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Guilbaud 
- Paris 75016\n🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/competitions/nf1/match/200000014600899
-LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600899
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-07-20-00-aplemont-le-havre-basket-1-ie-paris-basket
  ball-asso@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:APLEMONT LE HAVRE BASKET - 1 – IE - PARIS BASKETBALL ASSOCIATION
@@ -745,7 +719,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-07-20-00-estaires-bc-basket-club-franconville-bcf@f
  fbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:ESTAIRES BC – BASKET CLUB FRANCONVILLE (BCF)
@@ -758,9 +732,24 @@ LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600901
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-11-07-20-00-stade-francais-basket-1-lamboisieres-marti
+ n-basket@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:STADE FRANCAIS BASKET - 1 – LAMBOISIERES-MARTIN BASKET
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs LAMBO
+ ISIERES-MARTIN BASKET\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Guilbaud 
+ Paris 75016\n🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf1/match/200000014600899
+LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600899
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-07-20-00-alpc-moulin-nantes-basket-1-basket-feminin
  -escaudai@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:ALPC MOULIN NANTES BASKET - 1 – BASKET FEMININ ESCAUDAIN PORTE DU
@@ -775,9 +764,24 @@ LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600902
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-11-07-20-00-asa-sceaux-ie-basket-club-nord-alsace-1@ff
+ bb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T220000
+SUMMARY:ASA SCEAUX – IE - BASKET CLUB NORD ALSACE - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs IE - BASKET CLUB NOR
+ D ALSACE - 1\n\nSALLE DES CLOS ST MARCEL\n📍 Rue des Clos-Saint-Marcel S
+ ceaux 92330\n🚗 Waze : https://waze.com/ul?ll=48.78059\,2.28532&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf1/match/200000014600900
+LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600900
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-14-20-00-basket-club-franconville-bcf-asa-sceaux@ff
  bb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – ASA SCEAUX
@@ -792,7 +796,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-14-20-00-alpc-moulin-nantes-basket-1-estaires-bc@ff
  bb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:ALPC MOULIN NANTES BASKET - 1 – ESTAIRES BC
@@ -805,24 +809,9 @@ LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600913
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-11-14-20-00-stade-francais-basket-1-aplemont-le-havre-
- basket-1@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261114T200000
-DTEND;TZID=Europe/Paris:20261114T220000
-SUMMARY:STADE FRANCAIS BASKET - 1 – APLEMONT LE HAVRE BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs APLEM
- ONT LE HAVRE BASKET - 1\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Guilbau
- d Paris 75016\n🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&naviga
- te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
- ://competitions.ffbb.com/competitions/nf1/match/200000014600910
-LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600910
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-14-20-00-lamboisieres-martin-basket-cote-d-opale-ba
  sket-cala@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – COTE D'OPALE BASKET CALAIS
@@ -837,9 +826,39 @@ LOCATION:SALLE DE LA COUDRE\, Rue des FerriÃ¨res Saint-LÃ©ger-de-LiniÃ
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600911
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-11-14-20-00-stade-francais-basket-1-aplemont-le-havre-
+ basket-1@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:STADE FRANCAIS BASKET - 1 – APLEMONT LE HAVRE BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs APLEM
+ ONT LE HAVRE BASKET - 1\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Guilbau
+ d Paris 75016\n🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/competitions/nf1/match/200000014600910
+LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600910
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-11-14-20-00-ie-paris-basketball-association-centre-fed
+ eral-bb@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - PARIS BASKETBALL ASSOCIATION 
+ vs CENTRE FEDERAL BB\n\nHALLE CARPENTIER\n📍 Boulevard MassÃ©na Paris 
+ 75013\n🚗 Waze : https://waze.com/ul?ll=48.82084\,2.36825&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/competitions/nf1/match/200000014600909
+LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600909
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-14-20-00-basket-feminin-escaudain-porte-du-hainaut-
  ie-basket@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – IE - BASKET CLUB NORD
@@ -853,39 +872,9 @@ LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600914
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-11-14-20-00-ie-paris-basketball-association-centre-fed
- eral-bb@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261114T200000
-DTEND;TZID=Europe/Paris:20261114T220000
-SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – CENTRE FEDERAL BB
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - PARIS BASKETBALL ASSOCIATION 
- vs CENTRE FEDERAL BB\n\nHALLE CARPENTIER\n📍 Boulevard MassÃ©na Paris 
- 75013\n🚗 Waze : https://waze.com/ul?ll=48.82084\,2.36825&navigate=yes\n
- \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
- titions.ffbb.com/competitions/nf1/match/200000014600909
-LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600909
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-11-28-20-00-centre-federal-bb-stade-francais-basket-1@
- ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261128T200000
-DTEND;TZID=Europe/Paris:20261128T220000
-SUMMARY:CENTRE FEDERAL BB – STADE FRANCAIS BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ CENTRE FEDERAL BB vs STADE FRANCAI
- S BASKET - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Pari
- s 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/competitions/nf1/match/200000014600921
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600921
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-28-20-00-aplemont-le-havre-basket-1-lamboisieres-ma
  rtin-bask@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:APLEMONT LE HAVRE BASKET - 1 – LAMBOISIERES-MARTIN BASKET
@@ -900,7 +889,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-28-20-00-asa-sceaux-alpc-moulin-nantes-basket-1@ffb
  b-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:ASA SCEAUX – ALPC MOULIN NANTES BASKET - 1
@@ -913,9 +902,39 @@ LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600924
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-11-28-20-00-estaires-bc-basket-feminin-escaudain-porte
+ -du-haina@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:ESTAIRES BC – BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs BASKET FEMININ ESCA
+ UDAIN PORTE DU HAINAUT\n\nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estair
+ es 59940\n🚗 Waze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf1/match/200000014600925
+LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600925
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-11-28-20-00-centre-federal-bb-stade-francais-basket-1@
+ ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:CENTRE FEDERAL BB – STADE FRANCAIS BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ CENTRE FEDERAL BB vs STADE FRANCAI
+ S BASKET - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay Pari
+ s 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=yes
+ \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
+ petitions.ffbb.com/competitions/nf1/match/200000014600921
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600921
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-28-20-00-ie-basket-club-nord-alsace-1-basket-club-f
  ranconvil@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – BASKET CLUB FRANCONVILLE (BCF)
@@ -930,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2026-11-28-20-00-cote-d-opale-basket-calais-ie-paris-basket
  ball-asso@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:COTE D'OPALE BASKET CALAIS – IE - PARIS BASKETBALL ASSOCIATION
@@ -943,68 +962,9 @@ LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600923
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2026-11-28-20-00-estaires-bc-basket-feminin-escaudain-porte
- -du-haina@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261128T200000
-DTEND;TZID=Europe/Paris:20261128T220000
-SUMMARY:ESTAIRES BC – BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs BASKET FEMININ ESCA
- UDAIN PORTE DU HAINAUT\n\nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estair
- es 59940\n🚗 Waze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=ye
- s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
- mpetitions.ffbb.com/competitions/nf1/match/200000014600925
-LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600925
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-12-05-20-00-aplemont-le-havre-basket-1-centre-federal-
- bb@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261205T200000
-DTEND;TZID=Europe/Paris:20261205T220000
-SUMMARY:APLEMONT LE HAVRE BASKET - 1 – CENTRE FEDERAL BB
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs CE
- NTRE FEDERAL BB\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oeillets Le Hav
- re 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.16295&navigate=ye
- s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
- mpetitions.ffbb.com/competitions/nf1/match/200000014600933
-LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600933
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-12-05-20-00-estaires-bc-asa-sceaux@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261205T200000
-DTEND;TZID=Europe/Paris:20261205T220000
-SUMMARY:ESTAIRES BC – ASA SCEAUX
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs ASA SCEAUX\n\nSALLE
-  LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 59940\n🚗 Waze : https://w
- aze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n📢 Arbitres : Pas de dé
- signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competition
- s/nf1/match/200000014600936
-LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600936
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2026-12-05-20-00-ie-paris-basketball-association-lamboisier
- es-martin@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20261205T200000
-DTEND;TZID=Europe/Paris:20261205T220000
-SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – LAMBOISIERES-MARTIN BASKET
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - PARIS BASKETBALL ASSOCIATION 
- vs LAMBOISIERES-MARTIN BASKET\n\nHALLE CARPENTIER\n📍 Boulevard MassÃ©
- na Paris 75013\n🚗 Waze : https://waze.com/ul?ll=48.82084\,2.36825&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nf1/match/200000014600935
-LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600935
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2026-12-05-20-00-basket-club-franconville-bcf-basket-femini
  n-escauda@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T220000
 SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – BASKET FEMININ ESCAUDAIN PORTE D
@@ -1019,9 +979,24 @@ LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600938
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-12-05-20-00-ie-paris-basketball-association-lamboisier
+ es-martin@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – LAMBOISIERES-MARTIN BASKET
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - PARIS BASKETBALL ASSOCIATION 
+ vs LAMBOISIERES-MARTIN BASKET\n\nHALLE CARPENTIER\n📍 Boulevard MassÃ©
+ na Paris 75013\n🚗 Waze : https://waze.com/ul?ll=48.82084\,2.36825&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf1/match/200000014600935
+LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600935
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-12-05-20-00-alpc-moulin-nantes-basket-1-ie-basket-club
  -nord-als@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T220000
 SUMMARY:ALPC MOULIN NANTES BASKET - 1 – IE - BASKET CLUB NORD ALSACE - 1
@@ -1034,9 +1009,38 @@ LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600937
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2026-12-05-20-00-estaires-bc-asa-sceaux@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:ESTAIRES BC – ASA SCEAUX
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs ASA SCEAUX\n\nSALLE
+  LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 59940\n🚗 Waze : https://w
+ aze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/competition
+ s/nf1/match/200000014600936
+LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600936
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2026-12-05-20-00-aplemont-le-havre-basket-1-centre-federal-
+ bb@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:APLEMONT LE HAVRE BASKET - 1 – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs CE
+ NTRE FEDERAL BB\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oeillets Le Hav
+ re 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.16295&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf1/match/200000014600933
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600933
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2026-12-12-20-00-stade-francais-basket-1-cote-d-opale-baske
  t-calais@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20261212T200000
 DTEND;TZID=Europe/Paris:20261212T220000
 SUMMARY:STADE FRANCAIS BASKET - 1 – COTE D'OPALE BASKET CALAIS
@@ -1049,9 +1053,25 @@ LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600934
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2027-01-09-20-00-ie-paris-basketball-association-basket-clu
+ b-francon@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270109T200000
+DTEND;TZID=Europe/Paris:20270109T220000
+SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – BASKET CLUB FRANCONVILLE (BCF
+ )
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - PARIS BASKETBALL ASSOCIATION 
+ vs BASKET CLUB FRANCONVILLE (BCF)\n\nHALLE CARPENTIER\n📍 Boulevard Mass
+ Ã©na Paris 75013\n🚗 Waze : https://waze.com/ul?ll=48.82084\,2.36825&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf1/match/200000014600948
+LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600948
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-09-20-00-ie-basket-club-nord-alsace-1-cote-d-opale-
  basket-ca@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270109T200000
 DTEND;TZID=Europe/Paris:20270109T220000
 SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – COTE D'OPALE BASKET CALAIS
@@ -1066,7 +1086,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-09-20-00-basket-feminin-escaudain-porte-du-hainaut-
  lamboisie@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270109T200000
 DTEND;TZID=Europe/Paris:20270109T220000
 SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – LAMBOISIERES-MARTIN B
@@ -1082,7 +1102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-09-20-00-estaires-bc-aplemont-le-havre-basket-1@ffb
  b-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270109T200000
 DTEND;TZID=Europe/Paris:20270109T220000
 SUMMARY:ESTAIRES BC – APLEMONT LE HAVRE BASKET - 1
@@ -1097,7 +1117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-09-20-00-alpc-moulin-nantes-basket-1-stade-francais
  -basket-1@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270109T200000
 DTEND;TZID=Europe/Paris:20270109T220000
 SUMMARY:ALPC MOULIN NANTES BASKET - 1 – STADE FRANCAIS BASKET - 1
@@ -1110,24 +1130,8 @@ LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600947
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-01-09-20-00-ie-paris-basketball-association-basket-clu
- b-francon@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270109T200000
-DTEND;TZID=Europe/Paris:20270109T220000
-SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – BASKET CLUB FRANCONVILLE (BCF
- )
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - PARIS BASKETBALL ASSOCIATION 
- vs BASKET CLUB FRANCONVILLE (BCF)\n\nHALLE CARPENTIER\n📍 Boulevard Mass
- Ã©na Paris 75013\n🚗 Waze : https://waze.com/ul?ll=48.82084\,2.36825&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/competitions/nf1/match/200000014600948
-LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600948
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-09-20-30-centre-federal-bb-asa-sceaux@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270109T203000
 DTEND;TZID=Europe/Paris:20270109T223000
 SUMMARY:CENTRE FEDERAL BB – ASA SCEAUX
@@ -1141,7 +1145,7 @@ URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600945
 END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-16-18-00-centre-federal-bb-estaires-bc@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270116T180000
 DTEND;TZID=Europe/Paris:20270116T200000
 SUMMARY:CENTRE FEDERAL BB – ESTAIRES BC
@@ -1154,24 +1158,9 @@ LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600957
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-01-16-20-00-aplemont-le-havre-basket-1-alpc-moulin-nan
- tes-baske@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270116T200000
-DTEND;TZID=Europe/Paris:20270116T220000
-SUMMARY:APLEMONT LE HAVRE BASKET - 1 – ALPC MOULIN NANTES BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs AL
- PC MOULIN NANTES BASKET - 1\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oei
- llets Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.16295
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/competitions/nf1/match/200000014600958
-LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600958
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-16-20-00-stade-francais-basket-1-basket-club-franco
  nville-bc@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270116T200000
 DTEND;TZID=Europe/Paris:20270116T220000
 SUMMARY:STADE FRANCAIS BASKET - 1 – BASKET CLUB FRANCONVILLE (BCF)
@@ -1186,7 +1175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-16-20-00-ie-paris-basketball-association-ie-basket-
  club-nord@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270116T200000
 DTEND;TZID=Europe/Paris:20270116T220000
 SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – IE - BASKET CLUB NORD ALSACE 
@@ -1200,25 +1189,24 @@ LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600960
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-01-16-20-00-lamboisieres-martin-basket-asa-sceaux@ffbb
- -agenda
-DTSTAMP:20260920T231835Z
+UID:nf1-poule-b-2027-01-16-20-00-aplemont-le-havre-basket-1-alpc-moulin-nan
+ tes-baske@ffbb-agenda
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270116T200000
 DTEND;TZID=Europe/Paris:20270116T220000
-SUMMARY:LAMBOISIERES-MARTIN BASKET – ASA SCEAUX
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ LAMBOISIERES-MARTIN BASKET vs ASA 
- SCEAUX\n\nSALLE DE LA COUDRE\n📍 Rue des FerriÃ¨res Saint-LÃ©ger-de-
- LiniÃ¨res 49170\n🚗 Waze : https://waze.com/ul?ll=47.4617\,-0.71148&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/competitions/nf1/match/200000014600962
-LOCATION:SALLE DE LA COUDRE\, Rue des FerriÃ¨res Saint-LÃ©ger-de-LiniÃ
- ¨res 49170
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600962
+SUMMARY:APLEMONT LE HAVRE BASKET - 1 – ALPC MOULIN NANTES BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs AL
+ PC MOULIN NANTES BASKET - 1\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oei
+ llets Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.16295
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf1/match/200000014600958
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600958
 END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-16-20-00-cote-d-opale-basket-calais-basket-feminin-
  escaudain@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270116T200000
 DTEND;TZID=Europe/Paris:20270116T220000
 SUMMARY:COTE D'OPALE BASKET CALAIS – BASKET FEMININ ESCAUDAIN PORTE DU HA
@@ -1232,9 +1220,25 @@ LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600961
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2027-01-16-20-00-lamboisieres-martin-basket-asa-sceaux@ffbb
+ -agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270116T200000
+DTEND;TZID=Europe/Paris:20270116T220000
+SUMMARY:LAMBOISIERES-MARTIN BASKET – ASA SCEAUX
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ LAMBOISIERES-MARTIN BASKET vs ASA 
+ SCEAUX\n\nSALLE DE LA COUDRE\n📍 Rue des FerriÃ¨res Saint-LÃ©ger-de-
+ LiniÃ¨res 49170\n🚗 Waze : https://waze.com/ul?ll=47.4617\,-0.71148&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf1/match/200000014600962
+LOCATION:SALLE DE LA COUDRE\, Rue des FerriÃ¨res Saint-LÃ©ger-de-LiniÃ
+ ¨res 49170
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600962
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-30-20-00-estaires-bc-lamboisieres-martin-basket@ffb
  b-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270130T200000
 DTEND;TZID=Europe/Paris:20270130T220000
 SUMMARY:ESTAIRES BC – LAMBOISIERES-MARTIN BASKET
@@ -1247,40 +1251,9 @@ LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600974
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-01-30-20-00-basket-feminin-escaudain-porte-du-hainaut-
- ie-paris-@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270130T200000
-DTEND;TZID=Europe/Paris:20270130T220000
-SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – IE - PARIS BASKETBALL
-  ASSOCIATION
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET FEMININ ESCAUDAIN PORTE DU 
- HAINAUT vs IE - PARIS BASKETBALL ASSOCIATION\n\nS. ALLENDE\n📍 Place Gam
- betta Escaudain 59124\n🚗 Waze : https://waze.com/ul?ll=50.3337\,3.34405
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/competitions/nf1/match/200000014600972
-LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600972
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-01-30-20-00-ie-basket-club-nord-alsace-1-stade-francai
- s-basket-@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270130T200000
-DTEND;TZID=Europe/Paris:20270130T220000
-SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – STADE FRANCAIS BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
- s STADE FRANCAIS BASKET - 1\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi 
- Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navig
- ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
- s://competitions.ffbb.com/competitions/nf1/match/200000014600971
-LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600971
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-30-20-00-asa-sceaux-cote-d-opale-basket-calais@ffbb
  -agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270130T200000
 DTEND;TZID=Europe/Paris:20270130T220000
 SUMMARY:ASA SCEAUX – COTE D'OPALE BASKET CALAIS
@@ -1295,7 +1268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-30-20-00-basket-club-franconville-bcf-aplemont-le-h
  avre-bask@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270130T200000
 DTEND;TZID=Europe/Paris:20270130T220000
 SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – APLEMONT LE HAVRE BASKET - 1
@@ -1308,9 +1281,40 @@ LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600970
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2027-01-30-20-00-ie-basket-club-nord-alsace-1-stade-francai
+ s-basket-@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – STADE FRANCAIS BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
+ s STADE FRANCAIS BASKET - 1\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi 
+ Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navig
+ ate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : http
+ s://competitions.ffbb.com/competitions/nf1/match/200000014600971
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600971
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-01-30-20-00-basket-feminin-escaudain-porte-du-hainaut-
+ ie-paris-@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T220000
+SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – IE - PARIS BASKETBALL
+  ASSOCIATION
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET FEMININ ESCAUDAIN PORTE DU 
+ HAINAUT vs IE - PARIS BASKETBALL ASSOCIATION\n\nS. ALLENDE\n📍 Place Gam
+ betta Escaudain 59124\n🚗 Waze : https://waze.com/ul?ll=50.3337\,3.34405
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/competitions/nf1/match/200000014600972
+LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600972
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2027-01-30-20-00-alpc-moulin-nantes-basket-1-centre-federal
  -bb@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270130T200000
 DTEND;TZID=Europe/Paris:20270130T220000
 SUMMARY:ALPC MOULIN NANTES BASKET - 1 – CENTRE FEDERAL BB
@@ -1325,7 +1329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-06-20-00-stade-francais-basket-1-basket-feminin-esc
  audain-po@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:STADE FRANCAIS BASKET - 1 – BASKET FEMININ ESCAUDAIN PORTE DU HAI
@@ -1342,7 +1346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-06-20-00-centre-federal-bb-basket-club-franconville
  -bcf@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:CENTRE FEDERAL BB – BASKET CLUB FRANCONVILLE (BCF)
@@ -1357,7 +1361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-06-20-00-aplemont-le-havre-basket-1-ie-basket-club-
  nord-alsa@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:APLEMONT LE HAVRE BASKET - 1 – IE - BASKET CLUB NORD ALSACE - 1
@@ -1372,7 +1376,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-06-20-00-ie-paris-basketball-association-asa-sceaux
  @ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – ASA SCEAUX
@@ -1387,7 +1391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-06-20-00-cote-d-opale-basket-calais-estaires-bc@ffb
  b-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:COTE D'OPALE BASKET CALAIS – ESTAIRES BC
@@ -1402,7 +1406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-06-20-00-lamboisieres-martin-basket-alpc-moulin-nan
  tes-baske@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270206T200000
 DTEND;TZID=Europe/Paris:20270206T220000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – ALPC MOULIN NANTES BASKET - 1
@@ -1417,39 +1421,9 @@ LOCATION:SALLE DE LA COUDRE\, Rue des FerriÃ¨res Saint-LÃ©ger-de-LiniÃ
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600986
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-02-13-20-00-basket-club-franconville-bcf-lamboisieres-
- martin-ba@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270213T200000
-DTEND;TZID=Europe/Paris:20270213T220000
-SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – LAMBOISIERES-MARTIN BASKET
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
- LAMBOISIERES-MARTIN BASKET\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franco
- nville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/competitions/nf1/match/200000014600998
-LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600998
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-02-13-20-00-ie-basket-club-nord-alsace-1-centre-federa
- l-bb@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270213T200000
-DTEND;TZID=Europe/Paris:20270213T220000
-SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – CENTRE FEDERAL BB
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
- s CENTRE FEDERAL BB\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau
-  67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/competitions/nf1/match/200000014600993
-LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600993
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-13-20-00-asa-sceaux-stade-francais-basket-1@ffbb-ag
  enda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270213T200000
 DTEND;TZID=Europe/Paris:20270213T220000
 SUMMARY:ASA SCEAUX – STADE FRANCAIS BASKET - 1
@@ -1462,24 +1436,24 @@ LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600995
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-02-13-20-00-estaires-bc-ie-paris-basketball-associatio
- n@ffbb-agenda
-DTSTAMP:20260920T231835Z
+UID:nf1-poule-b-2027-02-13-20-00-ie-basket-club-nord-alsace-1-centre-federa
+ l-bb@ffbb-agenda
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270213T200000
 DTEND;TZID=Europe/Paris:20270213T220000
-SUMMARY:ESTAIRES BC – IE - PARIS BASKETBALL ASSOCIATION
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs IE - PARIS BASKETBA
- LL ASSOCIATION\n\nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 59940
- \n🚗 Waze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nf1/match/200000014600996
-LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600996
+SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
+ s CENTRE FEDERAL BB\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau
+  67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nf1/match/200000014600993
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600993
 END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-13-20-00-basket-feminin-escaudain-porte-du-hainaut-
  aplemont-@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270213T200000
 DTEND;TZID=Europe/Paris:20270213T220000
 SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – APLEMONT LE HAVRE BAS
@@ -1493,9 +1467,24 @@ LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600994
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2027-02-13-20-00-estaires-bc-ie-paris-basketball-associatio
+ n@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:ESTAIRES BC – IE - PARIS BASKETBALL ASSOCIATION
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs IE - PARIS BASKETBA
+ LL ASSOCIATION\n\nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 59940
+ \n🚗 Waze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf1/match/200000014600996
+LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600996
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-13-20-00-alpc-moulin-nantes-basket-1-cote-d-opale-b
  asket-cal@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270213T200000
 DTEND;TZID=Europe/Paris:20270213T220000
 SUMMARY:ALPC MOULIN NANTES BASKET - 1 – COTE D'OPALE BASKET CALAIS
@@ -1508,9 +1497,39 @@ LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600997
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2027-02-13-20-00-basket-club-franconville-bcf-lamboisieres-
+ martin-ba@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T220000
+SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – LAMBOISIERES-MARTIN BASKET
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ LAMBOISIERES-MARTIN BASKET\n\nC.S.L.\n📍 Boulevard Rhin et Danube Franco
+ nville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nf1/match/200000014600998
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014600998
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-02-27-20-00-stade-francais-basket-1-estaires-bc@ffbb-a
+ genda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T220000
+SUMMARY:STADE FRANCAIS BASKET - 1 – ESTAIRES BC
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs ESTAI
+ RES BC\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Guilbaud Paris 75016\n
+ 🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/competitions/nf1/match/200000014601007
+LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601007
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-27-20-00-ie-paris-basketball-association-alpc-mouli
  n-nantes-@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270227T200000
 DTEND;TZID=Europe/Paris:20270227T220000
 SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – ALPC MOULIN NANTES BASKET - 1
@@ -1525,7 +1544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-27-20-00-cote-d-opale-basket-calais-basket-club-fra
  nconville@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270227T200000
 DTEND;TZID=Europe/Paris:20270227T220000
 SUMMARY:COTE D'OPALE BASKET CALAIS – BASKET CLUB FRANCONVILLE (BCF)
@@ -1540,7 +1559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-27-20-00-lamboisieres-martin-basket-ie-basket-club-
  nord-alsa@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270227T200000
 DTEND;TZID=Europe/Paris:20270227T220000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – IE - BASKET CLUB NORD ALSACE - 1
@@ -1557,7 +1576,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-27-20-00-aplemont-le-havre-basket-1-asa-sceaux@ffbb
  -agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270227T200000
 DTEND;TZID=Europe/Paris:20270227T220000
 SUMMARY:APLEMONT LE HAVRE BASKET - 1 – ASA SCEAUX
@@ -1572,7 +1591,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-02-27-20-00-centre-federal-bb-basket-feminin-escaudain
  -porte-du@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270227T200000
 DTEND;TZID=Europe/Paris:20270227T220000
 SUMMARY:CENTRE FEDERAL BB – BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT
@@ -1585,84 +1604,9 @@ LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601005
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-02-27-20-00-stade-francais-basket-1-estaires-bc@ffbb-a
- genda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270227T200000
-DTEND;TZID=Europe/Paris:20270227T220000
-SUMMARY:STADE FRANCAIS BASKET - 1 – ESTAIRES BC
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs ESTAI
- RES BC\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Guilbaud Paris 75016\n
- 🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&navigate=yes\n\n📢 
- Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
- .ffbb.com/competitions/nf1/match/200000014601007
-LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601007
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-06-20-00-alpc-moulin-nantes-basket-1-basket-club-fr
- anconvill@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270306T200000
-DTEND;TZID=Europe/Paris:20270306T220000
-SUMMARY:ALPC MOULIN NANTES BASKET - 1 – BASKET CLUB FRANCONVILLE (BCF)
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ALPC MOULIN NANTES BASKET - 1 vs B
- ASKET CLUB FRANCONVILLE (BCF)\n\nGYMNASE GASTON TURPIN\n📍 Rue Gaston Tu
- rpin Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47.22456\,-1.54201&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/competitions/nf1/match/200000014601022
-LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601022
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-06-20-00-estaires-bc-ie-basket-club-nord-alsace-1@f
- fbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270306T200000
-DTEND;TZID=Europe/Paris:20270306T220000
-SUMMARY:ESTAIRES BC – IE - BASKET CLUB NORD ALSACE - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs IE - BASKET CLUB NO
- RD ALSACE - 1\n\nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 59940\
- n🚗 Waze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n📢
-  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
- s.ffbb.com/competitions/nf1/match/200000014601021
-LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601021
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-06-20-00-stade-francais-basket-1-ie-paris-basketbal
- l-associa@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270306T200000
-DTEND;TZID=Europe/Paris:20270306T220000
-SUMMARY:STADE FRANCAIS BASKET - 1 – IE - PARIS BASKETBALL ASSOCIATION
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs IE - 
- PARIS BASKETBALL ASSOCIATION\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Gu
- ilbaud Paris 75016\n🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/competitions/nf1/match/200000014601019
-LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601019
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-06-20-00-aplemont-le-havre-basket-1-cote-d-opale-ba
- sket-cala@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270306T200000
-DTEND;TZID=Europe/Paris:20270306T220000
-SUMMARY:APLEMONT LE HAVRE BASKET - 1 – COTE D'OPALE BASKET CALAIS
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs CO
- TE D'OPALE BASKET CALAIS\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oeille
- ts Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.16295&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/competitions/nf1/match/200000014601018
-LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601018
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2027-03-06-20-00-centre-federal-bb-lamboisieres-martin-bask
  et@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270306T200000
 DTEND;TZID=Europe/Paris:20270306T220000
 SUMMARY:CENTRE FEDERAL BB – LAMBOISIERES-MARTIN BASKET
@@ -1675,9 +1619,69 @@ LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601017
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-06-20-00-aplemont-le-havre-basket-1-cote-d-opale-ba
+ sket-cala@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:APLEMONT LE HAVRE BASKET - 1 – COTE D'OPALE BASKET CALAIS
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs CO
+ TE D'OPALE BASKET CALAIS\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oeille
+ ts Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.16295&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf1/match/200000014601018
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601018
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-06-20-00-stade-francais-basket-1-ie-paris-basketbal
+ l-associa@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:STADE FRANCAIS BASKET - 1 – IE - PARIS BASKETBALL ASSOCIATION
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ STADE FRANCAIS BASKET - 1 vs IE - 
+ PARIS BASKETBALL ASSOCIATION\n\nSALLE GEO ANDRE\n📍 Rue du Commandant Gu
+ ilbaud Paris 75016\n🚗 Waze : https://waze.com/ul?ll=48.83892\,2.25187&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf1/match/200000014601019
+LOCATION:SALLE GEO ANDRE\, Rue du Commandant Guilbaud Paris 75016
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601019
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-06-20-00-estaires-bc-ie-basket-club-nord-alsace-1@f
+ fbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:ESTAIRES BC – IE - BASKET CLUB NORD ALSACE - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ESTAIRES BC vs IE - BASKET CLUB NO
+ RD ALSACE - 1\n\nSALLE LES TULIPES\n📍 Rue du CollÃ¨ge Estaires 59940\
+ n🚗 Waze : https://waze.com/ul?ll=50.64808\,2.71995&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf1/match/200000014601021
+LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601021
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-06-20-00-alpc-moulin-nantes-basket-1-basket-club-fr
+ anconvill@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T220000
+SUMMARY:ALPC MOULIN NANTES BASKET - 1 – BASKET CLUB FRANCONVILLE (BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ALPC MOULIN NANTES BASKET - 1 vs B
+ ASKET CLUB FRANCONVILLE (BCF)\n\nGYMNASE GASTON TURPIN\n📍 Rue Gaston Tu
+ rpin Nantes 44000\n🚗 Waze : https://waze.com/ul?ll=47.22456\,-1.54201&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf1/match/200000014601022
+LOCATION:GYMNASE GASTON TURPIN\, Rue Gaston Turpin Nantes 44000
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601022
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2027-03-06-20-00-asa-sceaux-basket-feminin-escaudain-porte-
  du-hainau@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270306T200000
 DTEND;TZID=Europe/Paris:20270306T220000
 SUMMARY:ASA SCEAUX – BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT
@@ -1690,24 +1694,9 @@ LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601020
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-13-20-00-ie-basket-club-nord-alsace-1-asa-sceaux@ff
- bb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270313T200000
-DTEND;TZID=Europe/Paris:20270313T220000
-SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – ASA SCEAUX
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
- s ASA SCEAUX\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\
- n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢
-  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
- s.ffbb.com/competitions/nf1/match/200000014601032
-LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601032
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2027-03-13-20-00-lamboisieres-martin-basket-stade-francais-
  basket-1@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270313T200000
 DTEND;TZID=Europe/Paris:20270313T220000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – STADE FRANCAIS BASKET - 1
@@ -1722,39 +1711,9 @@ LOCATION:SALLE DE LA COUDRE\, Rue des FerriÃ¨res Saint-LÃ©ger-de-LiniÃ
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601031
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-13-20-00-cote-d-opale-basket-calais-centre-federal-
- bb@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270313T200000
-DTEND;TZID=Europe/Paris:20270313T220000
-SUMMARY:COTE D'OPALE BASKET CALAIS – CENTRE FEDERAL BB
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ COTE D'OPALE BASKET CALAIS vs CENT
- RE FEDERAL BB\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard Calais 62100
- \n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nf1/match/200000014601029
-LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601029
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-13-20-00-ie-paris-basketball-association-aplemont-l
- e-havre-b@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270313T200000
-DTEND;TZID=Europe/Paris:20270313T220000
-SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – APLEMONT LE HAVRE BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - PARIS BASKETBALL ASSOCIATION 
- vs APLEMONT LE HAVRE BASKET - 1\n\nHALLE CARPENTIER\n📍 Boulevard MassÃ
- ©na Paris 75013\n🚗 Waze : https://waze.com/ul?ll=48.82084\,2.36825&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/competitions/nf1/match/200000014601030
-LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601030
-END:VEVENT
-BEGIN:VEVENT
 UID:nf1-poule-b-2027-03-13-20-00-basket-feminin-escaudain-porte-du-hainaut-
  alpc-moul@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270313T200000
 DTEND;TZID=Europe/Paris:20270313T220000
 SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – ALPC MOULIN NANTES BA
@@ -1768,9 +1727,24 @@ LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601034
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-13-20-00-ie-basket-club-nord-alsace-1-asa-sceaux@ff
+ bb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – ASA SCEAUX
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
+ s ASA SCEAUX\n\nMAISON DES SPORTS\n📍 Impasse du Tournoi Haguenau 67500\
+ n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nf1/match/200000014601032
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601032
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2027-03-13-20-00-basket-club-franconville-bcf-estaires-bc@f
  fbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270313T200000
 DTEND;TZID=Europe/Paris:20270313T220000
 SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – ESTAIRES BC
@@ -1783,24 +1757,84 @@ LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601033
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-27-20-00-centre-federal-bb-ie-paris-basketball-asso
- ciation@ffbb-agenda
-DTSTAMP:20260920T231835Z
+UID:nf1-poule-b-2027-03-13-20-00-ie-paris-basketball-association-aplemont-l
+ e-havre-b@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – APLEMONT LE HAVRE BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - PARIS BASKETBALL ASSOCIATION 
+ vs APLEMONT LE HAVRE BASKET - 1\n\nHALLE CARPENTIER\n📍 Boulevard MassÃ
+ ©na Paris 75013\n🚗 Waze : https://waze.com/ul?ll=48.82084\,2.36825&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf1/match/200000014601030
+LOCATION:HALLE CARPENTIER\, Boulevard MassÃ©na Paris 75013
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601030
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-13-20-00-cote-d-opale-basket-calais-centre-federal-
+ bb@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270313T200000
+DTEND;TZID=Europe/Paris:20270313T220000
+SUMMARY:COTE D'OPALE BASKET CALAIS – CENTRE FEDERAL BB
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ COTE D'OPALE BASKET CALAIS vs CENT
+ RE FEDERAL BB\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard Calais 62100
+ \n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nf1/match/200000014601029
+LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601029
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-27-20-00-aplemont-le-havre-basket-1-stade-francais-
+ basket-1@ffbb-agenda
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270327T200000
 DTEND;TZID=Europe/Paris:20270327T220000
-SUMMARY:CENTRE FEDERAL BB – IE - PARIS BASKETBALL ASSOCIATION
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ CENTRE FEDERAL BB vs IE - PARIS BA
- SKETBALL ASSOCIATION\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremb
- lay Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navi
- gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
- ps://competitions.ffbb.com/competitions/nf1/match/200000014601041
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601041
+SUMMARY:APLEMONT LE HAVRE BASKET - 1 – STADE FRANCAIS BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs ST
+ ADE FRANCAIS BASKET - 1\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oeillet
+ s Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.16295&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nf1/match/200000014601042
+LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601042
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-27-20-00-asa-sceaux-basket-club-franconville-bcf@ff
+ bb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:ASA SCEAUX – BASKET CLUB FRANCONVILLE (BCF)
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs BASKET CLUB FRANCONV
+ ILLE (BCF)\n\nSALLE DES CLOS ST MARCEL\n📍 Rue des Clos-Saint-Marcel Sce
+ aux 92330\n🚗 Waze : https://waze.com/ul?ll=48.78059\,2.28532&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf1/match/200000014601044
+LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601044
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-03-27-20-00-cote-d-opale-basket-calais-lamboisieres-ma
+ rtin-bask@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270327T200000
+DTEND;TZID=Europe/Paris:20270327T220000
+SUMMARY:COTE D'OPALE BASKET CALAIS – LAMBOISIERES-MARTIN BASKET
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ COTE D'OPALE BASKET CALAIS vs LAMB
+ OISIERES-MARTIN BASKET\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard Cal
+ ais 62100\n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nf1/match/200000014601043
+LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601043
 END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-03-27-20-00-ie-basket-club-nord-alsace-1-basket-femini
  n-escauda@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270327T200000
 DTEND;TZID=Europe/Paris:20270327T220000
 SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – BASKET FEMININ ESCAUDAIN PORTE
@@ -1817,7 +1851,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-03-27-20-00-estaires-bc-alpc-moulin-nantes-basket-1@ff
  bb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270327T200000
 DTEND;TZID=Europe/Paris:20270327T220000
 SUMMARY:ESTAIRES BC – ALPC MOULIN NANTES BASKET - 1
@@ -1830,69 +1864,24 @@ LOCATION:SALLE LES TULIPES\, Rue du CollÃ¨ge Estaires 59940
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601045
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-27-20-00-asa-sceaux-basket-club-franconville-bcf@ff
- bb-agenda
-DTSTAMP:20260920T231835Z
+UID:nf1-poule-b-2027-03-27-20-00-centre-federal-bb-ie-paris-basketball-asso
+ ciation@ffbb-agenda
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270327T200000
 DTEND;TZID=Europe/Paris:20270327T220000
-SUMMARY:ASA SCEAUX – BASKET CLUB FRANCONVILLE (BCF)
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs BASKET CLUB FRANCONV
- ILLE (BCF)\n\nSALLE DES CLOS ST MARCEL\n📍 Rue des Clos-Saint-Marcel Sce
- aux 92330\n🚗 Waze : https://waze.com/ul?ll=48.78059\,2.28532&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/competitions/nf1/match/200000014601044
-LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601044
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-27-20-00-cote-d-opale-basket-calais-lamboisieres-ma
- rtin-bask@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270327T200000
-DTEND;TZID=Europe/Paris:20270327T220000
-SUMMARY:COTE D'OPALE BASKET CALAIS – LAMBOISIERES-MARTIN BASKET
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ COTE D'OPALE BASKET CALAIS vs LAMB
- OISIERES-MARTIN BASKET\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard Cal
- ais 62100\n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/competitions/nf1/match/200000014601043
-LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601043
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-03-27-20-00-aplemont-le-havre-basket-1-stade-francais-
- basket-1@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270327T200000
-DTEND;TZID=Europe/Paris:20270327T220000
-SUMMARY:APLEMONT LE HAVRE BASKET - 1 – STADE FRANCAIS BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ APLEMONT LE HAVRE BASKET - 1 vs ST
- ADE FRANCAIS BASKET - 1\n\nSALLE PIERRE DE COUBERTIN\n📍 Rue des Oeillet
- s Le Havre 76610\n🚗 Waze : https://waze.com/ul?ll=49.50857\,0.16295&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/competitions/nf1/match/200000014601042
-LOCATION:SALLE PIERRE DE COUBERTIN\, Rue des Oeillets Le Havre 76610
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601042
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-04-10-20-00-basket-club-franconville-bcf-ie-basket-clu
- b-nord-al@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270410T200000
-DTEND;TZID=Europe/Paris:20270410T220000
-SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – IE - BASKET CLUB NORD ALSACE - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
- IE - BASKET CLUB NORD ALSACE - 1\n\nC.S.L.\n📍 Boulevard Rhin et Danube 
- Franconville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/competitions/nf1/match/200000014601058
-LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601058
+SUMMARY:CENTRE FEDERAL BB – IE - PARIS BASKETBALL ASSOCIATION
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ CENTRE FEDERAL BB vs IE - PARIS BA
+ SKETBALL ASSOCIATION\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremb
+ lay Paris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navi
+ gate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : htt
+ ps://competitions.ffbb.com/competitions/nf1/match/200000014601041
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601041
 END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-04-10-20-00-lamboisieres-martin-basket-aplemont-le-hav
  re-basket@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270410T200000
 DTEND;TZID=Europe/Paris:20270410T220000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – APLEMONT LE HAVRE BASKET - 1
@@ -1909,7 +1898,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-04-10-20-00-stade-francais-basket-1-centre-federal-bb@
  ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270410T200000
 DTEND;TZID=Europe/Paris:20270410T220000
 SUMMARY:STADE FRANCAIS BASKET - 1 – CENTRE FEDERAL BB
@@ -1924,7 +1913,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-04-10-20-00-ie-paris-basketball-association-cote-d-opa
  le-basket@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270410T200000
 DTEND;TZID=Europe/Paris:20270410T220000
 SUMMARY:IE - PARIS BASKETBALL ASSOCIATION – COTE D'OPALE BASKET CALAIS
@@ -1939,7 +1928,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-04-10-20-00-alpc-moulin-nantes-basket-1-asa-sceaux@ffb
  b-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270410T200000
 DTEND;TZID=Europe/Paris:20270410T220000
 SUMMARY:ALPC MOULIN NANTES BASKET - 1 – ASA SCEAUX
@@ -1954,7 +1943,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-04-10-20-00-basket-feminin-escaudain-porte-du-hainaut-
  estaires-@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270410T200000
 DTEND;TZID=Europe/Paris:20270410T220000
 SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – ESTAIRES BC
@@ -1967,24 +1956,39 @@ LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601057
 END:VEVENT
 BEGIN:VEVENT
-UID:nf1-poule-b-2027-04-17-20-00-cote-d-opale-basket-calais-stade-francais-
- basket-1@ffbb-agenda
-DTSTAMP:20260920T231835Z
+UID:nf1-poule-b-2027-04-10-20-00-basket-club-franconville-bcf-ie-basket-clu
+ b-nord-al@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T220000
+SUMMARY:BASKET CLUB FRANCONVILLE (BCF) – IE - BASKET CLUB NORD ALSACE - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ BASKET CLUB FRANCONVILLE (BCF) vs 
+ IE - BASKET CLUB NORD ALSACE - 1\n\nC.S.L.\n📍 Boulevard Rhin et Danube 
+ Franconville 95130\n🚗 Waze : https://waze.com/ul?ll=48.9913\,2.22552&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/competitions/nf1/match/200000014601058
+LOCATION:C.S.L.\, Boulevard Rhin et Danube Franconville 95130
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601058
+END:VEVENT
+BEGIN:VEVENT
+UID:nf1-poule-b-2027-04-17-20-00-centre-federal-bb-aplemont-le-havre-basket
+ -1@ffbb-agenda
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270417T200000
 DTEND;TZID=Europe/Paris:20270417T220000
-SUMMARY:COTE D'OPALE BASKET CALAIS – STADE FRANCAIS BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ COTE D'OPALE BASKET CALAIS vs STAD
- E FRANCAIS BASKET - 1\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard Cala
- is 62100\n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigate=ye
- s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
- mpetitions.ffbb.com/competitions/nf1/match/200000014601066
-LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601066
+SUMMARY:CENTRE FEDERAL BB – APLEMONT LE HAVRE BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ CENTRE FEDERAL BB vs APLEMONT LE H
+ AVRE BASKET - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay P
+ aris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=
+ yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
+ competitions.ffbb.com/competitions/nf1/match/200000014601065
+LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601065
 END:VEVENT
 BEGIN:VEVENT
 UID:nf1-poule-b-2027-04-17-20-00-basket-feminin-escaudain-porte-du-hainaut-
  basket-cl@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270417T200000
 DTEND;TZID=Europe/Paris:20270417T220000
 SUMMARY:BASKET FEMININ ESCAUDAIN PORTE DU HAINAUT – BASKET CLUB FRANCONVI
@@ -1998,9 +2002,24 @@ LOCATION:S. ALLENDE\, Place Gambetta Escaudain 59124
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601070
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2027-04-17-20-00-ie-basket-club-nord-alsace-1-alpc-moulin-n
+ antes-bas@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – ALPC MOULIN NANTES BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
+ s ALPC MOULIN NANTES BASKET - 1\n\nMAISON DES SPORTS\n📍 Impasse du Tour
+ noi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/competitions/nf1/match/200000014601069
+LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601069
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2027-04-17-20-00-lamboisieres-martin-basket-ie-paris-basket
  ball-asso@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270417T200000
 DTEND;TZID=Europe/Paris:20270417T220000
 SUMMARY:LAMBOISIERES-MARTIN BASKET – IE - PARIS BASKETBALL ASSOCIATION
@@ -2015,8 +2034,23 @@ LOCATION:SALLE DE LA COUDRE\, Rue des FerriÃ¨res Saint-LÃ©ger-de-LiniÃ
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601067
 END:VEVENT
 BEGIN:VEVENT
+UID:nf1-poule-b-2027-04-17-20-00-cote-d-opale-basket-calais-stade-francais-
+ basket-1@ffbb-agenda
+DTSTAMP:20260922T000626Z
+DTSTART;TZID=Europe/Paris:20270417T200000
+DTEND;TZID=Europe/Paris:20270417T220000
+SUMMARY:COTE D'OPALE BASKET CALAIS – STADE FRANCAIS BASKET - 1
+DESCRIPTION:🏀 NF1 – Poule B\n⚔️ COTE D'OPALE BASKET CALAIS vs STAD
+ E FRANCAIS BASKET - 1\n\nSALLE CALYPSO\n📍 Rue Roger Martin du Gard Cala
+ is 62100\n🚗 Waze : https://waze.com/ul?ll=50.95652\,1.88857&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/competitions/nf1/match/200000014601066
+LOCATION:SALLE CALYPSO\, Rue Roger Martin du Gard Calais 62100
+URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601066
+END:VEVENT
+BEGIN:VEVENT
 UID:nf1-poule-b-2027-04-17-20-00-asa-sceaux-estaires-bc@ffbb-agenda
-DTSTAMP:20260920T231835Z
+DTSTAMP:20260922T000626Z
 DTSTART;TZID=Europe/Paris:20270417T200000
 DTEND;TZID=Europe/Paris:20270417T220000
 SUMMARY:ASA SCEAUX – ESTAIRES BC
@@ -2027,35 +2061,5 @@ DESCRIPTION:🏀 NF1 – Poule B\n⚔️ ASA SCEAUX vs ESTAIRES BC\n\nSALLE
  m/competitions/nf1/match/200000014601068
 LOCATION:SALLE DES CLOS ST MARCEL\, Rue des Clos-Saint-Marcel Sceaux 92330
 URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601068
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-04-17-20-00-centre-federal-bb-aplemont-le-havre-basket
- -1@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270417T200000
-DTEND;TZID=Europe/Paris:20270417T220000
-SUMMARY:CENTRE FEDERAL BB – APLEMONT LE HAVRE BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ CENTRE FEDERAL BB vs APLEMONT LE H
- AVRE BASKET - 1\n\nINSEP C.S NELSON PAILLOU (1)\n📍 Avenue du Tremblay P
- aris 75012\n🚗 Waze : https://waze.com/ul?ll=48.83395\,2.45456&navigate=
- yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
- competitions.ffbb.com/competitions/nf1/match/200000014601065
-LOCATION:INSEP C.S NELSON PAILLOU (1)\, Avenue du Tremblay Paris 75012
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601065
-END:VEVENT
-BEGIN:VEVENT
-UID:nf1-poule-b-2027-04-17-20-00-ie-basket-club-nord-alsace-1-alpc-moulin-n
- antes-bas@ffbb-agenda
-DTSTAMP:20260920T231835Z
-DTSTART;TZID=Europe/Paris:20270417T200000
-DTEND;TZID=Europe/Paris:20270417T220000
-SUMMARY:IE - BASKET CLUB NORD ALSACE - 1 – ALPC MOULIN NANTES BASKET - 1
-DESCRIPTION:🏀 NF1 – Poule B\n⚔️ IE - BASKET CLUB NORD ALSACE - 1 v
- s ALPC MOULIN NANTES BASKET - 1\n\nMAISON DES SPORTS\n📍 Impasse du Tour
- noi Haguenau 67500\n🚗 Waze : https://waze.com/ul?ll=48.81368\,7.79253&n
- avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
- https://competitions.ffbb.com/competitions/nf1/match/200000014601069
-LOCATION:MAISON DES SPORTS\, Impasse du Tournoi Haguenau 67500
-URL:https://competitions.ffbb.com/competitions/nf1/match/200000014601069
 END:VEVENT
 END:VCALENDAR

@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-17-17-00-basket-club-golbe
  y-epinal-@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261017T170000
 DTEND;TZID=Europe/Paris:20261017T190000
 SUMMARY:BASKET CLUB GOLBEY EPINAL – COLMAR BASKET
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-17-17-30-s-i-graffenstaden
  -2-strasb@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261017T173000
 DTEND;TZID=Europe/Paris:20261017T193000
 SUMMARY:S.I. GRAFFENSTADEN - 2 – STRASBOURG LIBELLULES B.C.
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-17-18-00-cse-folkling-asc-
  charny-su@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261017T180000
 DTEND;TZID=Europe/Paris:20261017T200000
 SUMMARY:CSE FOLKLING – ASC CHARNY SUR MEUSE
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-17-18-00-sluc-nancy-basket
  -associat@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261017T180000
 DTEND;TZID=Europe/Paris:20261017T200000
 SUMMARY:SLUC NANCY BASKET ASSOCIATION – NBC SARREBOURG
@@ -92,26 +92,9 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18m-t1-preli
  minaire/match/200000014794833
 END:VEVENT
 BEGIN:VEVENT
-UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-17-18-00-geispolsheim-c-j-
- s-westhou@ffbb-agenda
-DTSTAMP:20260921T235028Z
-DTSTART;TZID=Europe/Paris:20261017T180000
-DTEND;TZID=Europe/Paris:20261017T200000
-SUMMARY:GEISPOLSHEIM C.J.S. – WESTHOUSE E.S.
-DESCRIPTION:🏀 CPE-U18M-T1-PRELIMINAIRE – GES – Poule A\n⚔️ GEISP
- OLSHEIM C.J.S. vs WESTHOUSE E.S.\n\nCENTRE SPORTIF\n📍 Rue de la Porte B
- asse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65
- 343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
- BB : https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18m-t1-pre
- liminaire/match/200000014794840
-LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
-URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18m-t1-preli
- minaire/match/200000014794840
-END:VEVENT
-BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-17-18-00-asa-gries-oberhof
  fen-2-mol@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261017T180000
 DTEND;TZID=Europe/Paris:20261017T200000
 SUMMARY:ASA GRIES / OBERHOFFEN - 2 – MOLSHEIM CSTG
@@ -128,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-17-18-00-rosheim-ca-basket
  -club-de-@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261017T180000
 DTEND;TZID=Europe/Paris:20261017T200000
 SUMMARY:ROSHEIM CA – BASKET CLUB DE KINGERSHEIM
@@ -143,9 +126,26 @@ URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18m-t1-preli
  minaire/match/200000014794838
 END:VEVENT
 BEGIN:VEVENT
+UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-17-18-00-geispolsheim-c-j-
+ s-westhou@ffbb-agenda
+DTSTAMP:20260922T104719Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:GEISPOLSHEIM C.J.S. – WESTHOUSE E.S.
+DESCRIPTION:🏀 CPE-U18M-T1-PRELIMINAIRE – GES – Poule A\n⚔️ GEISP
+ OLSHEIM C.J.S. vs WESTHOUSE E.S.\n\nCENTRE SPORTIF\n📍 Rue de la Porte B
+ asse Geispolsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65
+ 343&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18m-t1-pre
+ liminaire/match/200000014794840
+LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
+URL:https://competitions.ffbb.com/ligues/ges/competitions/cpe-u18m-t1-preli
+ minaire/match/200000014794840
+END:VEVENT
+BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-18-13-30-bc-kunheim-basket
  -club-ill@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261018T133000
 DTEND;TZID=Europe/Paris:20261018T153000
 SUMMARY:BC KUNHEIM – BASKET CLUB ILLZACH
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-18-15-30-s-u-schiltigheim-
  basket-ba@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261018T153000
 DTEND;TZID=Europe/Paris:20261018T173000
 SUMMARY:S.U. SCHILTIGHEIM BASKET BALL – ASA SOUFFELWEYERSHEIM
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-24-17-00-gauloise-de-vitry
  -le-franc@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261024T170000
 DTEND;TZID=Europe/Paris:20261024T190000
 SUMMARY:GAULOISE DE VITRY LE FRANCOIS – REIMS CHAMPAGNE BASKET
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpe-u18m-t1-preliminaire-ges-poule-a-2026-10-31-18-00-ludres-pont-st-vi
  ncent-bas@ffbb-agenda
-DTSTAMP:20260921T235028Z
+DTSTAMP:20260922T104719Z
 DTSTART;TZID=Europe/Paris:20261031T180000
 DTEND;TZID=Europe/Paris:20261031T200000
 SUMMARY:LUDRES PONT ST VINCENT BASKET CL – CSLB BAR LE DUC

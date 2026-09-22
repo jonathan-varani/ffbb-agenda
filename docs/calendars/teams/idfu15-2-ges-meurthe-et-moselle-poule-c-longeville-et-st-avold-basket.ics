@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – LONGEVILLE ET ST AVOLD BASKET  [IDFU15-2 – GES – Poule C]
+X-WR-CALDESC:Matchs de LONGEVILLE ET ST AVOLD BASKET – IDFU15-2 – GES – Meurthe-et-Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-10-03-16-30-longeville-et-
+ st-avold-@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261003T163000
+DTEND;TZID=Europe/Paris:20261003T183000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – USBB UCKANGE
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ LONGEVILLE ET ST AVOLD BASKET vs USBB UCKANGE\n\nGYMNASE DU CASTEL\n
+ 📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : http
+ s://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/idfu15-2/match/200000014797063
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797063
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-10-10-16-30-longeville-et-
+ st-avold-@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261010T163000
+DTEND;TZID=Europe/Paris:20261010T183000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – CREUTZWALD BC
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ LONGEVILLE ET ST AVOLD BASKET vs CREUTZWALD BC\n\nGYMNASE DU CASTEL\n
+ 📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : http
+ s://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/idfu15-2/match/200000014797075
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797075
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-07-16-30-entente-basket
+ -nilvange@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261107T163000
+DTEND;TZID=Europe/Paris:20261107T183000
+SUMMARY:✈️ ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE – LONGEVILLE ET
+  ST AVOLD BASKET
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE vs LONGEVILLE ET ST AVOLD B
+ ASKET\n\nSALLE ALBERT BASSETTO\n📍 Rue de la Moselle Nilvange 57240\n
+ 🚗 Waze : https://waze.com/ul?ll=49.34299\,6.04802&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/comites/0054/competitions/idfu15-2/match/200000014797
+ 086
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797086
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-21-16-30-district-baske
+ t-rodemac@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261121T163000
+DTEND;TZID=Europe/Paris:20261121T183000
+SUMMARY:✈️ DISTRICT BASKET RODEMACK KANFEN (DBRK) – LONGEVILLE ET ST 
+ AVOLD BASKET
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ DISTRICT BASKET RODEMACK KANFEN (DBRK) vs LONGEVILLE ET ST AVOLD BASKE
+ T\n\nESPACE OMNISPORTS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : h
+ ttps://waze.com/ul?ll=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0054/competitions/idfu15-2/match/200000014797108
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797108
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-28-16-30-longeville-et-
+ st-avold-@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261128T163000
+DTEND;TZID=Europe/Paris:20261128T183000
+SUMMARY:🏠 LONGEVILLE ET ST AVOLD BASKET – AS SAINT NICOLAS EN FORET
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ LONGEVILLE ET ST AVOLD BASKET vs AS SAINT NICOLAS EN FORET\n\nGYMNASE 
+ DU CASTEL\n📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 
+ Waze : https://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbit
+ res : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb
+ .com/ligues/ges/comites/0054/competitions/idfu15-2/match/200000014797121
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797121
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-12-12-16-30-bc-aumetz-long
+ eville-et@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261212T163000
+DTEND;TZID=Europe/Paris:20261212T183000
+SUMMARY:✈️ BC AUMETZ – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ BC AUMETZ vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE SAINT LEGER\n
+ 📍 Rue Saint-Léger de Montbrillais Aumetz 57710\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.42194\,5.94911&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/idfu15-2/match/200000014797134
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797134
+END:VEVENT
+END:VCALENDAR

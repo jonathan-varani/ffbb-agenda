@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC MAIZIERES LES METZ  [IDFU15-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de BC MAIZIERES LES METZ – IDFU15-2 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-10-03-16-30-bc-maizieres-l
+ es-metz-v@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261003T163000
+DTEND;TZID=Europe/Paris:20261003T183000
+SUMMARY:🏠 BC MAIZIERES LES METZ – VANDOEUVRE BASKETBALL
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ BC MAIZIERES LES METZ vs VANDOEUVRE BASKETBALL\n\nGymnase Joël Bommer
+ sheim\n📍 Rue Lothaire Maizières-lès-Metz 57280\n🚗 Waze : https://w
+ aze.com/ul?ll=49.21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0054/competitions/idfu15-2/match/200000014797056
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797056
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-10-10-16-30-csj-augny-bc-m
+ aizieres-@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261010T163000
+DTEND;TZID=Europe/Paris:20261010T183000
+SUMMARY:✈️ CSJ AUGNY – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ CSJ AUGNY vs BC MAIZIERES LES METZ\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n
+ 📍 Rue de la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll
+ =49.05926\,6.12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idfu15-2/match/200000014797071
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797071
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-11-07-16-30-rombas-oc-bc-m
+ aizieres-@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261107T163000
+DTEND;TZID=Europe/Paris:20261107T183000
+SUMMARY:✈️ ROMBAS OC – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ ROMBAS OC vs BC MAIZIERES LES METZ\n\nCOSEC ANDRE RUPPERT\n📍 Rue Ma
+ réchal Joffre Rombas 57120\n🚗 Waze : https://waze.com/ul?ll=49.2535\,6
+ .09994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /idfu15-2/match/200000014797083
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797083
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-11-14-16-30-bc-maizieres-l
+ es-metz-l@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261114T163000
+DTEND;TZID=Europe/Paris:20261114T183000
+SUMMARY:🏠 BC MAIZIERES LES METZ – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ BC MAIZIERES LES METZ vs LOISIRS SPORT MONTIGNY\n\nGymnase Joël Bomme
+ rsheim\n📍 Rue Lothaire Maizières-lès-Metz 57280\n🚗 Waze : https://
+ waze.com/ul?ll=49.21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de d
+ ésignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ge
+ s/comites/0054/competitions/idfu15-2/match/200000014797095
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797095
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-11-21-16-30-asptt-metz-bas
+ ket-bc-ma@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261121T163000
+DTEND;TZID=Europe/Paris:20261121T183000
+SUMMARY:✈️ ASPTT METZ - BASKET – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ ASPTT METZ - BASKET vs BC MAIZIERES LES METZ\n\nCOSEC DE QUEULEU\n📍
+  Rue de Tivoli Metz 57070\n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.
+ 19469&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
+ FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/
+ idfu15-2/match/200000014797106
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797106
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-11-28-16-30-ie-ctc-collect
+ if-basket@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261128T163000
+DTEND;TZID=Europe/Paris:20261128T183000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – BC MAIZIER
+ ES LES METZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD vs BC MAIZIERES LES METZ
+ \n\nSALLE INTERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : 
+ https://waze.com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : P
+ as de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/li
+ gues/ges/comites/0054/competitions/idfu15-2/match/200000014797119
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797119
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-12-12-16-30-bc-maizieres-l
+ es-metz-d@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261212T163000
+DTEND;TZID=Europe/Paris:20261212T183000
+SUMMARY:🏠 BC MAIZIERES LES METZ – DUKES DE FAMECK
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ BC MAIZIERES LES METZ vs DUKES DE FAMECK\n\nGymnase Joël Bommersheim\
+ n📍 Rue Lothaire Maizières-lès-Metz 57280\n🚗 Waze : https://waze.co
+ m/ul?ll=49.21847\,6.14689&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0054/competitions/idfu15-2/match/200000014797129
+LOCATION:Gymnase Joël Bommersheim\, Rue Lothaire Maizières-lès-Metz 5728
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797129
+END:VEVENT
+END:VCALENDAR

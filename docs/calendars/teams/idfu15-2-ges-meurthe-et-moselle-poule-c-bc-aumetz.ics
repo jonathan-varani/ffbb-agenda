@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – BC AUMETZ  [IDFU15-2 – GES – Poule C]
+X-WR-CALDESC:Matchs de BC AUMETZ – IDFU15-2 – GES – Meurthe-et-Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-10-03-16-30-entente-basket
+ -nilvange@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261003T163000
+DTEND;TZID=Europe/Paris:20261003T183000
+SUMMARY:✈️ ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE – BC AUMETZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE vs BC AUMETZ\n\nSALLE ALBER
+ T BASSETTO\n📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waz
+ e.com/ul?ll=49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0054/competitions/idfu15-2/match/200000014797062
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797062
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-07-16-30-district-baske
+ t-rodemac@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261107T163000
+DTEND;TZID=Europe/Paris:20261107T183000
+SUMMARY:✈️ DISTRICT BASKET RODEMACK KANFEN (DBRK) – BC AUMETZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ DISTRICT BASKET RODEMACK KANFEN (DBRK) vs BC AUMETZ\n\nESPACE OMNISPOR
+ TS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https://waze.com/ul?l
+ l=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idfu15-2/match/200000014797084
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797084
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-14-16-30-bc-aumetz-as-s
+ aint-nico@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261114T163000
+DTEND;TZID=Europe/Paris:20261114T183000
+SUMMARY:🏠 BC AUMETZ – AS SAINT NICOLAS EN FORET
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ BC AUMETZ vs AS SAINT NICOLAS EN FORET\n\nGYMNASE SAINT LEGER\n📍 Ru
+ e Saint-Léger de Montbrillais Aumetz 57710\n🚗 Waze : https://waze.com/
+ ul?ll=49.42194\,5.94911&navigate=yes\n\n📢 Arbitres : Pas de désignatio
+ n\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/
+ 0054/competitions/idfu15-2/match/200000014797098
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797098
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-21-16-30-bc-aumetz-creu
+ tzwald-bc@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261121T163000
+DTEND;TZID=Europe/Paris:20261121T183000
+SUMMARY:🏠 BC AUMETZ – CREUTZWALD BC
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ BC AUMETZ vs CREUTZWALD BC\n\nGYMNASE SAINT LEGER\n📍 Rue Saint-Lég
+ er de Montbrillais Aumetz 57710\n🚗 Waze : https://waze.com/ul?ll=49.421
+ 94\,5.94911&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/idfu15-2/match/200000014797110
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797110
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-28-16-30-usbb-uckange-b
+ c-aumetz@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261128T163000
+DTEND;TZID=Europe/Paris:20261128T183000
+SUMMARY:✈️ USBB UCKANGE – BC AUMETZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ USBB UCKANGE vs BC AUMETZ\n\nGYMNASE PETITE FONTAINE\n📍 Rue Jean Mo
+ ulin Uckange 57270\n🚗 Waze : https://waze.com/ul?ll=49.30388\,6.14409&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu15-
+ 2/match/200000014797122
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797122
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-12-12-16-30-bc-aumetz-long
+ eville-et@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261212T163000
+DTEND;TZID=Europe/Paris:20261212T183000
+SUMMARY:🏠 BC AUMETZ – LONGEVILLE ET ST AVOLD BASKET
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ BC AUMETZ vs LONGEVILLE ET ST AVOLD BASKET\n\nGYMNASE SAINT LEGER\n
+ 📍 Rue Saint-Léger de Montbrillais Aumetz 57710\n🚗 Waze : https://wa
+ ze.com/ul?ll=49.42194\,5.94911&navigate=yes\n\n📢 Arbitres : Pas de dés
+ ignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/c
+ omites/0054/competitions/idfu15-2/match/200000014797134
+LOCATION:GYMNASE SAINT LEGER\, Rue Saint-Léger de Montbrillais Aumetz 5771
+ 0
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797134
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DISTRICT BASKET RODEMACK KANFEN (DBRK)  [IDFU15-2 – GES – Poule C]
+X-WR-CALDESC:Matchs de DISTRICT BASKET RODEMACK KANFEN (DBRK) – IDFU15-2 – GES – Meurthe-et-Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-10-03-16-30-creutzwald-bc-
+ district-@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261003T163000
+DTEND;TZID=Europe/Paris:20261003T183000
+SUMMARY:✈️ CREUTZWALD BC – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ CREUTZWALD BC vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nGYMNASE DU 
+ BRECKELBERG\n📍 Square Georges Bastide Creutzwald 57150\n🚗 Waze : htt
+ ps://waze.com/ul?ll=49.19891\,6.69796&navigate=yes\n\n📢 Arbitres : Pas 
+ de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligue
+ s/ges/comites/0054/competitions/idfu15-2/match/200000014797060
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797060
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-10-10-16-30-district-baske
+ t-rodemac@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261010T163000
+DTEND;TZID=Europe/Paris:20261010T183000
+SUMMARY:🏠 DISTRICT BASKET RODEMACK KANFEN (DBRK) – AS SAINT NICOLAS EN
+  FORET
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ DISTRICT BASKET RODEMACK KANFEN (DBRK) vs AS SAINT NICOLAS EN FORET\n\
+ nESPACE OMNISPORTS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https
+ ://waze.com/ul?ll=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0054/competitions/idfu15-2/match/200000014797074
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797074
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-07-16-30-district-baske
+ t-rodemac@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261107T163000
+DTEND;TZID=Europe/Paris:20261107T183000
+SUMMARY:🏠 DISTRICT BASKET RODEMACK KANFEN (DBRK) – BC AUMETZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ DISTRICT BASKET RODEMACK KANFEN (DBRK) vs BC AUMETZ\n\nESPACE OMNISPOR
+ TS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : https://waze.com/ul?l
+ l=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/
+ competitions/idfu15-2/match/200000014797084
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797084
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-14-16-30-usbb-uckange-d
+ istrict-b@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261114T163000
+DTEND;TZID=Europe/Paris:20261114T183000
+SUMMARY:✈️ USBB UCKANGE – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ USBB UCKANGE vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nGYMNASE PETI
+ TE FONTAINE\n📍 Rue Jean Moulin Uckange 57270\n🚗 Waze : https://waze.
+ com/ul?ll=49.30388\,6.14409&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/idfu15-2/match/200000014797097
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797097
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-21-16-30-district-baske
+ t-rodemac@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261121T163000
+DTEND;TZID=Europe/Paris:20261121T183000
+SUMMARY:🏠 DISTRICT BASKET RODEMACK KANFEN (DBRK) – LONGEVILLE ET ST AV
+ OLD BASKET
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ DISTRICT BASKET RODEMACK KANFEN (DBRK) vs LONGEVILLE ET ST AVOLD BASKE
+ T\n\nESPACE OMNISPORTS\n📍 Impasse Jean II Rodemack 57570\n🚗 Waze : h
+ ttps://waze.com/ul?ll=49.46949\,6.2398&navigate=yes\n\n📢 Arbitres : Pas
+  de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligu
+ es/ges/comites/0054/competitions/idfu15-2/match/200000014797108
+LOCATION:ESPACE OMNISPORTS\, Impasse Jean II Rodemack 57570
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797108
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-28-16-30-entente-basket
+ -nilvange@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261128T163000
+DTEND;TZID=Europe/Paris:20261128T183000
+SUMMARY:✈️ ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE – DISTRICT BASK
+ ET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE vs DISTRICT BASKET RODEMACK
+  KANFEN (DBRK)\n\nSALLE ALBERT BASSETTO\n📍 Rue de la Moselle Nilvange 5
+ 7240\n🚗 Waze : https://waze.com/ul?ll=49.34299\,6.04802&navigate=yes\n\
+ n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compet
+ itions.ffbb.com/ligues/ges/comites/0054/competitions/idfu15-2/match/200000
+ 014797120
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797120
+END:VEVENT
+END:VCALENDAR

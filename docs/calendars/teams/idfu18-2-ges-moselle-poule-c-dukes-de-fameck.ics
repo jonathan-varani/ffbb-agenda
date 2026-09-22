@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – DUKES DE FAMECK  [IDFU18-2 – GES – Poule C]
+X-WR-CALDESC:Matchs de DUKES DE FAMECK – IDFU18-2 – GES – Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-10-03-16-00-dukes-de-fameck-fensch-ba
+ sket-aven@ffbb-agenda
+DTSTAMP:20260922T022050Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:🏠 DUKES DE FAMECK – FENSCH BASKET AVENIR FBA - 2
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ DUKES DE 
+ FAMECK vs FENSCH BASKET AVENIR FBA - 2\n\nSalle VISOSA\n📍 Rue Antoine d
+ e Saint-Exupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381
+ \,6.11256&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/idfu18-2/match/200000014796918
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014796918
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-10-10-15-30-basket-club-tucquenois-du
+ kes-de-fa@ffbb-agenda
+DTSTAMP:20260922T022050Z
+DTSTART;TZID=Europe/Paris:20261010T153000
+DTEND;TZID=Europe/Paris:20261010T173000
+SUMMARY:✈️ BASKET CLUB TUCQUENOIS – DUKES DE FAMECK
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ BASKET CL
+ UB TUCQUENOIS vs DUKES DE FAMECK\n\nSALLE MUNICIPALE\n📍 Rue Clemenceau 
+ Tucquegnieux 54640\n🚗 Waze : https://waze.com/ul?ll=49.31183\,5.9016&na
+ vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
+ ttps://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18-2
+ /match/200000014796928
+LOCATION:SALLE MUNICIPALE\, Rue Clemenceau Tucquegnieux 54640
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014796928
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-10-17-18-00-basket-club-de-valleroy-b
+ riey-duke@ffbb-agenda
+DTSTAMP:20260922T022050Z
+DTSTART;TZID=Europe/Paris:20261017T180000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:✈️ BASKET CLUB DE VALLEROY-BRIEY – DUKES DE FAMECK
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ BASKET CL
+ UB DE VALLEROY-BRIEY vs DUKES DE FAMECK\n\nSALLE OMNISPORTS\n📍 Rue du S
+ tade Valleroy 54910\n🚗 Waze : https://waze.com/ul?ll=49.2124\,5.94334&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18-
+ 2/match/200000014796936
+LOCATION:SALLE OMNISPORTS\, Rue du Stade Valleroy 54910
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014796936
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-11-14-18-00-dukes-de-fameck-bcv-verdu
+ n@ffbb-agenda
+DTSTAMP:20260922T022050Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 DUKES DE FAMECK – BCV VERDUN
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ DUKES DE 
+ FAMECK vs BCV VERDUN\n\nSALLE LAURENT LUCIE\n📍 Rue Antoine de Saint-Exu
+ péry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381\,6.11256&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu18-
+ 2/match/200000014796955
+LOCATION:SALLE LAURENT LUCIE\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014796955
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-11-21-18-00-fensch-basket-avenir-fba-
+ 2-dukes-d@ffbb-agenda
+DTSTAMP:20260922T022050Z
+DTSTART;TZID=Europe/Paris:20261121T180000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:✈️ FENSCH BASKET AVENIR FBA - 2 – DUKES DE FAMECK
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ FENSCH BA
+ SKET AVENIR FBA - 2 vs DUKES DE FAMECK\n\nSALLE ALBERT BASSETTO\n📍 Rue 
+ de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=49.34299\
+ ,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitio
+ ns/idfu18-2/match/200000014796963
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014796963
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-11-28-18-00-dukes-de-fameck-basket-cl
+ ub-tucque@ffbb-agenda
+DTSTAMP:20260922T022050Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:🏠 DUKES DE FAMECK – BASKET CLUB TUCQUENOIS
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ DUKES DE 
+ FAMECK vs BASKET CLUB TUCQUENOIS\n\nSALLE LAURENT LUCIE\n📍 Rue Antoine 
+ de Saint-Exupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.3038
+ 1\,6.11256&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feu
+ ille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competit
+ ions/idfu18-2/match/200000014796973
+LOCATION:SALLE LAURENT LUCIE\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014796973
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-12-05-18-00-dukes-de-fameck-basket-cl
+ ub-de-val@ffbb-agenda
+DTSTAMP:20260922T022050Z
+DTSTART;TZID=Europe/Paris:20261205T180000
+DTEND;TZID=Europe/Paris:20261205T200000
+SUMMARY:🏠 DUKES DE FAMECK – BASKET CLUB DE VALLEROY-BRIEY
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ DUKES DE 
+ FAMECK vs BASKET CLUB DE VALLEROY-BRIEY\n\nSALLE LAURENT LUCIE\n📍 Rue A
+ ntoine de Saint-Exupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=
+ 49.30381\,6.11256&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/idfu18-2/match/200000014796981
+LOCATION:SALLE LAURENT LUCIE\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014796981
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-12-19-18-00-bcv-verdun-dukes-de-famec
+ k@ffbb-agenda
+DTSTAMP:20260922T022050Z
+DTSTART;TZID=Europe/Paris:20261219T180000
+DTEND;TZID=Europe/Paris:20261219T200000
+SUMMARY:✈️ BCV VERDUN – DUKES DE FAMECK
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ BCV VERDU
+ N vs DUKES DE FAMECK\n\nCOSEC DES PLANCHETTES\n📍 Rue Général Séré d
+ e Rivières Verdun 55100\n🚗 Waze : https://waze.com/ul?ll=49.15282\,5.4
+ 0878&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille F
+ FBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/i
+ dfu18-2/match/200000014797000
+LOCATION:COSEC DES PLANCHETTES\, Rue Général Séré de Rivières Verdun 5
+ 5100
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014797000
+END:VEVENT
+END:VCALENDAR

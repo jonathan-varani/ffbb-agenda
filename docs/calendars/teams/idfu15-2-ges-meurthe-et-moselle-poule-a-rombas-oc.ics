@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ROMBAS OC  [IDFU15-2 – GES – Poule A]
+X-WR-CALDESC:Matchs de ROMBAS OC – IDFU15-2 – GES – Meurthe-et-Moselle – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-10-03-16-30-ie-ctc-collect
+ if-basket@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261003T163000
+DTEND;TZID=Europe/Paris:20261003T183000
+SUMMARY:✈️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD – ROMBAS OC
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ IE - CTC COLLECTIF BASKET VAL DE LORRAINE SUD vs ROMBAS OC\n\nSALLE IN
+ TERCOMMUNALE\n📍 Rue de la Salle Frouard 54390\n🚗 Waze : https://waze
+ .com/ul?ll=48.76451\,6.12864&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0054/competitions/idfu15-2/match/200000014797057
+LOCATION:SALLE INTERCOMMUNALE\, Rue de la Salle Frouard 54390
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797057
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-10-10-16-30-vandoeuvre-bas
+ ketball-r@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261010T163000
+DTEND;TZID=Europe/Paris:20261010T183000
+SUMMARY:✈️ VANDOEUVRE BASKETBALL – ROMBAS OC
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ VANDOEUVRE BASKETBALL vs ROMBAS OC\n\nGYMNASE DU HAUT DE PENOY\n📍 R
+ ue de Crevic Vandoeuvre-lès-Nancy 54500\n🚗 Waze : https://waze.com/ul?
+ ll=48.65417\,6.17622&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/005
+ 4/competitions/idfu15-2/match/200000014797070
+LOCATION:GYMNASE DU HAUT DE PENOY\, Rue de Crevic Vandoeuvre-lès-Nancy 545
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797070
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-11-07-16-30-rombas-oc-bc-m
+ aizieres-@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261107T163000
+DTEND;TZID=Europe/Paris:20261107T183000
+SUMMARY:🏠 ROMBAS OC – BC MAIZIERES LES METZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ ROMBAS OC vs BC MAIZIERES LES METZ\n\nCOSEC ANDRE RUPPERT\n📍 Rue Ma
+ réchal Joffre Rombas 57120\n🚗 Waze : https://waze.com/ul?ll=49.2535\,6
+ .09994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /idfu15-2/match/200000014797083
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797083
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-11-14-16-30-asptt-metz-bas
+ ket-romba@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261114T163000
+DTEND;TZID=Europe/Paris:20261114T183000
+SUMMARY:✈️ ASPTT METZ - BASKET – ROMBAS OC
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ ASPTT METZ - BASKET vs ROMBAS OC\n\nCOSEC DE QUEULEU\n📍 Rue de Tivo
+ li Metz 57070\n🚗 Waze : https://waze.com/ul?ll=49.09682\,6.19469&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu15-2/mat
+ ch/200000014797094
+LOCATION:COSEC DE QUEULEU\, Rue de Tivoli Metz 57070
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797094
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-11-21-16-30-rombas-oc-duke
+ s-de-fame@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261121T163000
+DTEND;TZID=Europe/Paris:20261121T183000
+SUMMARY:🏠 ROMBAS OC – DUKES DE FAMECK
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ ROMBAS OC vs DUKES DE FAMECK\n\nCOSEC ANDRE RUPPERT\n📍 Rue Marécha
+ l Joffre Rombas 57120\n🚗 Waze : https://waze.com/ul?ll=49.2535\,6.09994
+ &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
+ : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu1
+ 5-2/match/200000014797107
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797107
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-11-28-16-30-csj-augny-romb
+ as-oc@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261128T163000
+DTEND;TZID=Europe/Paris:20261128T183000
+SUMMARY:✈️ CSJ AUGNY – ROMBAS OC
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ CSJ AUGNY vs ROMBAS OC\n\nCOMPLEXE SPORTIF JEAN DZIEDZIC\n📍 Rue de 
+ la Libération Augny 57685\n🚗 Waze : https://waze.com/ul?ll=49.05926\,6
+ .12132&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille
+  FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competitions
+ /idfu15-2/match/200000014797117
+LOCATION:COMPLEXE SPORTIF JEAN DZIEDZIC\, Rue de la Libération Augny 57685
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797117
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-a-2026-12-12-16-30-rombas-oc-lois
+ irs-sport@ffbb-agenda
+DTSTAMP:20260922T020400Z
+DTSTART;TZID=Europe/Paris:20261212T163000
+DTEND;TZID=Europe/Paris:20261212T183000
+SUMMARY:🏠 ROMBAS OC – LOISIRS SPORT MONTIGNY
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule A\n⚔
+ ️ ROMBAS OC vs LOISIRS SPORT MONTIGNY\n\nCOSEC ANDRE RUPPERT\n📍 Rue M
+ aréchal Joffre Rombas 57120\n🚗 Waze : https://waze.com/ul?ll=49.2535\,
+ 6.09994&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competition
+ s/idfu15-2/match/200000014797131
+LOCATION:COSEC ANDRE RUPPERT\, Rue Maréchal Joffre Rombas 57120
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797131
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – USBB UCKANGE  [IDFU15-2 – GES – Poule C]
+X-WR-CALDESC:Matchs de USBB UCKANGE – IDFU15-2 – GES – Meurthe-et-Moselle – Poule C
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-10-03-16-30-longeville-et-
+ st-avold-@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261003T163000
+DTEND;TZID=Europe/Paris:20261003T183000
+SUMMARY:✈️ LONGEVILLE ET ST AVOLD BASKET – USBB UCKANGE
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ LONGEVILLE ET ST AVOLD BASKET vs USBB UCKANGE\n\nGYMNASE DU CASTEL\n
+ 📍 Rue des Myrtilles Longeville-lès-Saint-Avold 57740\n🚗 Waze : http
+ s://waze.com/ul?ll=49.11207\,6.64126&navigate=yes\n\n📢 Arbitres : Pas d
+ e désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues
+ /ges/comites/0054/competitions/idfu15-2/match/200000014797063
+LOCATION:GYMNASE DU CASTEL\, Rue des Myrtilles Longeville-lès-Saint-Avold 
+ 57740
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797063
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-10-10-16-30-usbb-uckange-e
+ ntente-ba@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261010T163000
+DTEND;TZID=Europe/Paris:20261010T183000
+SUMMARY:🏠 USBB UCKANGE – ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ USBB UCKANGE vs ENTENTE BASKET NILVANGE SEREMANGE ALGRANGE\n\nGYMNASE 
+ PETITE FONTAINE\n📍 Rue Jean Moulin Uckange 57270\n🚗 Waze : https://w
+ aze.com/ul?ll=49.30388\,6.14409&navigate=yes\n\n📢 Arbitres : Pas de dé
+ signation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/
+ comites/0054/competitions/idfu15-2/match/200000014797072
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797072
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-14-16-30-usbb-uckange-d
+ istrict-b@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261114T163000
+DTEND;TZID=Europe/Paris:20261114T183000
+SUMMARY:🏠 USBB UCKANGE – DISTRICT BASKET RODEMACK KANFEN (DBRK)
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ USBB UCKANGE vs DISTRICT BASKET RODEMACK KANFEN (DBRK)\n\nGYMNASE PETI
+ TE FONTAINE\n📍 Rue Jean Moulin Uckange 57270\n🚗 Waze : https://waze.
+ com/ul?ll=49.30388\,6.14409&navigate=yes\n\n📢 Arbitres : Pas de désign
+ ation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comi
+ tes/0054/competitions/idfu15-2/match/200000014797097
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797097
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-21-16-30-as-saint-nicol
+ as-en-for@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261121T163000
+DTEND;TZID=Europe/Paris:20261121T183000
+SUMMARY:✈️ AS SAINT NICOLAS EN FORET – USBB UCKANGE
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ AS SAINT NICOLAS EN FORET vs USBB UCKANGE\n\nSALLE JACQUES ROELANDT\n
+ 📍 Boulevard de la Tour Neuve Hayange 57700\n🚗 Waze : https://waze.co
+ m/ul?ll=49.31146\,6.08553&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0054/competitions/idfu15-2/match/200000014797111
+LOCATION:SALLE JACQUES ROELANDT\, Boulevard de la Tour Neuve Hayange 57700
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797111
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-11-28-16-30-usbb-uckange-b
+ c-aumetz@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261128T163000
+DTEND;TZID=Europe/Paris:20261128T183000
+SUMMARY:🏠 USBB UCKANGE – BC AUMETZ
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ USBB UCKANGE vs BC AUMETZ\n\nGYMNASE PETITE FONTAINE\n📍 Rue Jean Mo
+ ulin Uckange 57270\n🚗 Waze : https://waze.com/ul?ll=49.30388\,6.14409&n
+ avigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : 
+ https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu15-
+ 2/match/200000014797122
+LOCATION:GYMNASE PETITE FONTAINE\, Rue Jean Moulin Uckange 57270
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797122
+END:VEVENT
+BEGIN:VEVENT
+UID:idfu15-2-ges-meurthe-et-moselle-poule-c-2026-12-12-16-30-creutzwald-bc-
+ usbb-ucka@ffbb-agenda
+DTSTAMP:20260922T020407Z
+DTSTART;TZID=Europe/Paris:20261212T163000
+DTEND;TZID=Europe/Paris:20261212T183000
+SUMMARY:✈️ CREUTZWALD BC – USBB UCKANGE
+DESCRIPTION:🏀 IDFU15-2 – GES – Meurthe-et-Moselle – Poule C\n⚔
+ ️ CREUTZWALD BC vs USBB UCKANGE\n\nGYMNASE DU BRECKELBERG\n📍 Square G
+ eorges Bastide Creutzwald 57150\n🚗 Waze : https://waze.com/ul?ll=49.198
+ 91\,6.69796&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Fe
+ uille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0054/competi
+ tions/idfu15-2/match/200000014797133
+LOCATION:GYMNASE DU BRECKELBERG\, Square Georges Bastide Creutzwald 57150
+URL:https://competitions.ffbb.com/ligues/ges/comites/0054/competitions/idfu
+ 15-2/match/200000014797133
+END:VEVENT
+END:VCALENDAR

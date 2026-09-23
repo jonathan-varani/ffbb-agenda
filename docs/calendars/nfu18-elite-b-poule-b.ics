@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-09-13-11-00-as-tournefeuille-ie-ctc-vannes-a
  gglomerat@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20260913T110000
 DTEND;TZID=Europe/Paris:20260913T130000
 SUMMARY:AS TOURNEFEUILLE – IE - CTC VANNES AGGLOMERATION 56 (71-66)
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-09-13-15-30-ie-les-frechets-bc-st-nazaire-1-
  stade-roc@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20260913T153000
 DTEND;TZID=Europe/Paris:20260913T173000
 SUMMARY:IE - LES FRECHETS BC ST NAZAIRE - 1 – STADE ROCHELAIS BASKET (56-
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-09-13-15-30-feytiat-basket-87-cholet-basket@
  ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20260913T153000
 DTEND;TZID=Europe/Paris:20260913T173000
 SUMMARY:FEYTIAT BASKET 87 – CHOLET BASKET (84-53)
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-09-20-15-30-stade-rochelais-basket-feytiat-b
  asket-87@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
 SUMMARY:STADE ROCHELAIS BASKET – FEYTIAT BASKET 87 (50-69)
@@ -94,26 +94,9 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603064
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu18-elite-b-poule-b-2026-09-20-15-30-cholet-basket-as-tournefeuille@f
- fbb-agenda
-DTSTAMP:20260922T001645Z
-DTSTART;TZID=Europe/Paris:20260920T153000
-DTEND;TZID=Europe/Paris:20260920T173000
-SUMMARY:CHOLET BASKET – AS TOURNEFEUILLE (49-57)
-DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ CHOLET BASKET vs AS TOUR
- NEFEUILLE\n📊 Score : 49-57\n\nSALLE JOACHIM DU BELLAY\n📍 Square de L
- irÃ© Cholet 49300\n🚗 Waze : https://waze.com/ul?ll=47.04062\,-0.88702
- &navigate=yes\n\n📢 Arbitres : Frederic VINCENDEAU\, Marius GUILLET\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu18-elite
- -b/match/200000014603065
-LOCATION:SALLE JOACHIM DU BELLAY\, Square de LirÃ© Cholet 49300
-URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603065
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-09-20-15-30-ie-ctc-vannes-agglomeration-56-i
  e-les-fre@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20260920T153000
 DTEND;TZID=Europe/Paris:20260920T173000
 SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – IE - LES FRECHETS BC ST NAZAIR
@@ -129,9 +112,26 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603063
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-09-20-15-30-cholet-basket-as-tournefeuille@f
+ fbb-agenda
+DTSTAMP:20260923T001738Z
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T173000
+SUMMARY:CHOLET BASKET – AS TOURNEFEUILLE (49-57)
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ CHOLET BASKET vs AS TOUR
+ NEFEUILLE\n📊 Score : 49-57\n\nSALLE JOACHIM DU BELLAY\n📍 Square de L
+ irÃ© Cholet 49300\n🚗 Waze : https://waze.com/ul?ll=47.04062\,-0.88702
+ &navigate=yes\n\n📢 Arbitres : Frederic VINCENDEAU\, Marius GUILLET\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/competitions/nfu18-elite
+ -b/match/200000014603065
+LOCATION:SALLE JOACHIM DU BELLAY\, Square de LirÃ© Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603065
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-09-27-15-30-as-tournefeuille-feytiat-basket-
  87@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20260927T153000
 DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:AS TOURNEFEUILLE – FEYTIAT BASKET 87
@@ -148,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-09-27-15-30-ie-les-frechets-bc-st-nazaire-1-
  cholet-ba@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20260927T153000
 DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:IE - LES FRECHETS BC ST NAZAIRE - 1 – CHOLET BASKET
@@ -166,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-09-27-15-30-ie-ctc-vannes-agglomeration-56-s
  tade-roch@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20260927T153000
 DTEND;TZID=Europe/Paris:20260927T173000
 SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – STADE ROCHELAIS BASKET
@@ -181,43 +181,9 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603077
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu18-elite-b-poule-b-2026-10-04-15-30-feytiat-basket-87-ie-les-frechet
- s-bc-st-n@ffbb-agenda
-DTSTAMP:20260922T001645Z
-DTSTART;TZID=Europe/Paris:20261004T153000
-DTEND;TZID=Europe/Paris:20261004T173000
-SUMMARY:FEYTIAT BASKET 87 – IE - LES FRECHETS BC ST NAZAIRE - 1
-DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ FEYTIAT BASKET 87 vs IE 
- - LES FRECHETS BC ST NAZAIRE - 1\n\nSALLE ROGER COUDERC\n📍 Rue du ManÃ
- ¨ge Feytiat 87220\n🚗 Waze : https://waze.com/ul?ll=45.80542\,1.32598&n
- avigate=yes\n\n📢 Arbitres : Loucas VANMARCKE\, Nicolas DUBREU\n\n🔗 F
- euille FFBB : https://competitions.ffbb.com/competitions/nfu18-elite-b/mat
- ch/200000014603087
-LOCATION:SALLE ROGER COUDERC\, Rue du ManÃ¨ge Feytiat 87220
-URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603087
-END:VEVENT
-BEGIN:VEVENT
-UID:nfu18-elite-b-poule-b-2026-10-04-15-30-stade-rochelais-basket-as-tourne
- feuille@ffbb-agenda
-DTSTAMP:20260922T001645Z
-DTSTART;TZID=Europe/Paris:20261004T153000
-DTEND;TZID=Europe/Paris:20261004T173000
-SUMMARY:STADE ROCHELAIS BASKET – AS TOURNEFEUILLE
-DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ STADE ROCHELAIS BASKET v
- s AS TOURNEFEUILLE\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Roc
- helle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigat
- e=yes\n\n📢 Arbitres : Adam ERCHAM\, Arwen ROUGERON\n\n🔗 Feuille FFBB
-  : https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603088
-LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
-URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603088
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-10-04-15-30-cholet-basket-ie-ctc-vannes-aggl
  omeration@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261004T153000
 DTEND;TZID=Europe/Paris:20261004T173000
 SUMMARY:CHOLET BASKET – IE - CTC VANNES AGGLOMERATION 56
@@ -232,9 +198,59 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603089
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-10-04-15-30-stade-rochelais-basket-as-tourne
+ feuille@ffbb-agenda
+DTSTAMP:20260923T001738Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:STADE ROCHELAIS BASKET – AS TOURNEFEUILLE
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ STADE ROCHELAIS BASKET v
+ s AS TOURNEFEUILLE\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Roc
+ helle 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigat
+ e=yes\n\n📢 Arbitres : Adam ERCHAM\, Arwen ROUGERON\n\n🔗 Feuille FFBB
+  : https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603088
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603088
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-10-04-15-30-feytiat-basket-87-ie-les-frechet
+ s-bc-st-n@ffbb-agenda
+DTSTAMP:20260923T001738Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:FEYTIAT BASKET 87 – IE - LES FRECHETS BC ST NAZAIRE - 1
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ FEYTIAT BASKET 87 vs IE 
+ - LES FRECHETS BC ST NAZAIRE - 1\n\nSALLE ROGER COUDERC\n📍 Rue du ManÃ
+ ¨ge Feytiat 87220\n🚗 Waze : https://waze.com/ul?ll=45.80542\,1.32598&n
+ avigate=yes\n\n📢 Arbitres : Loucas VANMARCKE\, Nicolas DUBREU\n\n🔗 F
+ euille FFBB : https://competitions.ffbb.com/competitions/nfu18-elite-b/mat
+ ch/200000014603087
+LOCATION:SALLE ROGER COUDERC\, Rue du ManÃ¨ge Feytiat 87220
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603087
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-10-11-15-30-stade-rochelais-basket-cholet-ba
+ sket@ffbb-agenda
+DTSTAMP:20260923T001738Z
+DTSTART;TZID=Europe/Paris:20261011T153000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:STADE ROCHELAIS BASKET – CHOLET BASKET
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ STADE ROCHELAIS BASKET v
+ s CHOLET BASKET\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochel
+ le 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603100
+LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603100
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-10-11-15-30-ie-ctc-vannes-agglomeration-56-f
  eytiat-ba@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261011T153000
 DTEND;TZID=Europe/Paris:20261011T173000
 SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – FEYTIAT BASKET 87
@@ -249,25 +265,9 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603101
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu18-elite-b-poule-b-2026-10-11-15-30-stade-rochelais-basket-cholet-ba
- sket@ffbb-agenda
-DTSTAMP:20260922T001645Z
-DTSTART;TZID=Europe/Paris:20261011T153000
-DTEND;TZID=Europe/Paris:20261011T173000
-SUMMARY:STADE ROCHELAIS BASKET – CHOLET BASKET
-DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ STADE ROCHELAIS BASKET v
- s CHOLET BASKET\n\nSALLE GASTON NEVEUR\n📍 Chemin des Remparts La Rochel
- le 17000\n🚗 Waze : https://waze.com/ul?ll=46.16593\,-1.15366&navigate=y
- es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
- ompetitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603100
-LOCATION:SALLE GASTON NEVEUR\, Chemin des Remparts La Rochelle 17000
-URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603100
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-10-30-18-00-ie-les-frechets-bc-st-nazaire-1-
  as-tourne@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261030T180000
 DTEND;TZID=Europe/Paris:20261030T200000
 SUMMARY:IE - LES FRECHETS BC ST NAZAIRE - 1 – AS TOURNEFEUILLE
@@ -285,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-10-31-14-00-ie-ctc-vannes-agglomeration-56-a
  s-tournef@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261031T140000
 DTEND;TZID=Europe/Paris:20261031T160000
 SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – AS TOURNEFEUILLE
@@ -300,25 +300,9 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603112
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu18-elite-b-poule-b-2026-11-01-15-30-cholet-basket-feytiat-basket-87@
- ffbb-agenda
-DTSTAMP:20260922T001645Z
-DTSTART;TZID=Europe/Paris:20261101T153000
-DTEND;TZID=Europe/Paris:20261101T173000
-SUMMARY:CHOLET BASKET – FEYTIAT BASKET 87
-DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ CHOLET BASKET vs FEYTIAT
-  BASKET 87\n\nSALLE JOACHIM DU BELLAY\n📍 Square de LirÃ© Cholet 49300
- \n🚗 Waze : https://waze.com/ul?ll=47.04062\,-0.88702&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/competitions/nfu18-elite-b/match/200000014603113
-LOCATION:SALLE JOACHIM DU BELLAY\, Square de LirÃ© Cholet 49300
-URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603113
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-11-01-15-30-stade-rochelais-basket-ie-les-fr
  echets-bc@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261101T153000
 DTEND;TZID=Europe/Paris:20261101T173000
 SUMMARY:STADE ROCHELAIS BASKET – IE - LES FRECHETS BC ST NAZAIRE - 1
@@ -333,9 +317,25 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603111
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-11-01-15-30-cholet-basket-feytiat-basket-87@
+ ffbb-agenda
+DTSTAMP:20260923T001738Z
+DTSTART;TZID=Europe/Paris:20261101T153000
+DTEND;TZID=Europe/Paris:20261101T173000
+SUMMARY:CHOLET BASKET – FEYTIAT BASKET 87
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ CHOLET BASKET vs FEYTIAT
+  BASKET 87\n\nSALLE JOACHIM DU BELLAY\n📍 Square de LirÃ© Cholet 49300
+ \n🚗 Waze : https://waze.com/ul?ll=47.04062\,-0.88702&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/competitions/nfu18-elite-b/match/200000014603113
+LOCATION:SALLE JOACHIM DU BELLAY\, Square de LirÃ© Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603113
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-11-08-13-00-feytiat-basket-87-stade-rochelai
  s-basket@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261108T130000
 DTEND;TZID=Europe/Paris:20261108T150000
 SUMMARY:FEYTIAT BASKET 87 – STADE ROCHELAIS BASKET
@@ -351,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-11-08-15-30-ie-les-frechets-bc-st-nazaire-1-
  ie-ctc-va@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:IE - LES FRECHETS BC ST NAZAIRE - 1 – IE - CTC VANNES AGGLOMERATI
@@ -370,7 +370,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-11-08-15-30-as-tournefeuille-cholet-basket@f
  fbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:AS TOURNEFEUILLE – CHOLET BASKET
@@ -384,25 +384,9 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603125
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu18-elite-b-poule-b-2026-11-15-15-30-feytiat-basket-87-as-tournefeuil
- le@ffbb-agenda
-DTSTAMP:20260922T001645Z
-DTSTART;TZID=Europe/Paris:20261115T153000
-DTEND;TZID=Europe/Paris:20261115T173000
-SUMMARY:FEYTIAT BASKET 87 – AS TOURNEFEUILLE
-DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ FEYTIAT BASKET 87 vs AS 
- TOURNEFEUILLE\n\nSALLE ROGER COUDERC\n📍 Rue du ManÃ¨ge Feytiat 87220\
- n🚗 Waze : https://waze.com/ul?ll=45.80542\,1.32598&navigate=yes\n\n📢
-  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
- s.ffbb.com/competitions/nfu18-elite-b/match/200000014603135
-LOCATION:SALLE ROGER COUDERC\, Rue du ManÃ¨ge Feytiat 87220
-URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603135
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-11-15-15-30-cholet-basket-ie-les-frechets-bc
  -st-nazai@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:CHOLET BASKET – IE - LES FRECHETS BC ST NAZAIRE - 1
@@ -419,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-11-15-15-30-stade-rochelais-basket-ie-ctc-va
  nnes-aggl@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:STADE ROCHELAIS BASKET – IE - CTC VANNES AGGLOMERATION 56
@@ -434,9 +418,58 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603137
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-11-15-15-30-feytiat-basket-87-as-tournefeuil
+ le@ffbb-agenda
+DTSTAMP:20260923T001738Z
+DTSTART;TZID=Europe/Paris:20261115T153000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:FEYTIAT BASKET 87 – AS TOURNEFEUILLE
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ FEYTIAT BASKET 87 vs AS 
+ TOURNEFEUILLE\n\nSALLE ROGER COUDERC\n📍 Rue du ManÃ¨ge Feytiat 87220\
+ n🚗 Waze : https://waze.com/ul?ll=45.80542\,1.32598&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/competitions/nfu18-elite-b/match/200000014603135
+LOCATION:SALLE ROGER COUDERC\, Rue du ManÃ¨ge Feytiat 87220
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603135
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-11-29-15-30-ie-ctc-vannes-agglomeration-56-c
+ holet-bas@ffbb-agenda
+DTSTAMP:20260923T001738Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – CHOLET BASKET
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ IE - CTC VANNES AGGLOMER
+ ATION 56 vs CHOLET BASKET\n\nGYMNASE LE BONDON\n📍 Rue Georges Caldray V
+ annes 56000\n🚗 Waze : https://waze.com/ul?ll=47.66348\,-2.7782&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603149
+LOCATION:GYMNASE LE BONDON\, Rue Georges Caldray Vannes 56000
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603149
+END:VEVENT
+BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-11-29-15-30-as-tournefeuille-stade-rochelais
+ -basket@ffbb-agenda
+DTSTAMP:20260923T001738Z
+DTSTART;TZID=Europe/Paris:20261129T153000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:AS TOURNEFEUILLE – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ AS TOURNEFEUILLE vs STAD
+ E ROCHELAIS BASKET\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tou
+ rnefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&nav
+ igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
+ tps://competitions.ffbb.com/competitions/nfu18-elite-b/match/2000000146031
+ 48
+LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603148
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-11-29-15-30-ie-les-frechets-bc-st-nazaire-1-
  feytiat-b@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261129T153000
 DTEND;TZID=Europe/Paris:20261129T173000
 SUMMARY:IE - LES FRECHETS BC ST NAZAIRE - 1 – FEYTIAT BASKET 87
@@ -452,42 +485,9 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603147
 END:VEVENT
 BEGIN:VEVENT
-UID:nfu18-elite-b-poule-b-2026-11-29-15-30-as-tournefeuille-stade-rochelais
- -basket@ffbb-agenda
-DTSTAMP:20260922T001645Z
-DTSTART;TZID=Europe/Paris:20261129T153000
-DTEND;TZID=Europe/Paris:20261129T173000
-SUMMARY:AS TOURNEFEUILLE – STADE ROCHELAIS BASKET
-DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ AS TOURNEFEUILLE vs STAD
- E ROCHELAIS BASKET\n\nGYMNASE CES P.LABITRIE\n📍 Rue Pierre Labitrie Tou
- rnefeuille 31170\n🚗 Waze : https://waze.com/ul?ll=43.57838\,1.32654&nav
- igate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : ht
- tps://competitions.ffbb.com/competitions/nfu18-elite-b/match/2000000146031
- 48
-LOCATION:GYMNASE CES P.LABITRIE\, Rue Pierre Labitrie Tournefeuille 31170
-URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603148
-END:VEVENT
-BEGIN:VEVENT
-UID:nfu18-elite-b-poule-b-2026-11-29-15-30-ie-ctc-vannes-agglomeration-56-c
- holet-bas@ffbb-agenda
-DTSTAMP:20260922T001645Z
-DTSTART;TZID=Europe/Paris:20261129T153000
-DTEND;TZID=Europe/Paris:20261129T173000
-SUMMARY:IE - CTC VANNES AGGLOMERATION 56 – CHOLET BASKET
-DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ IE - CTC VANNES AGGLOMER
- ATION 56 vs CHOLET BASKET\n\nGYMNASE LE BONDON\n📍 Rue Georges Caldray V
- annes 56000\n🚗 Waze : https://waze.com/ul?ll=47.66348\,-2.7782&navigate
- =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
- /competitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603149
-LOCATION:GYMNASE LE BONDON\, Rue Georges Caldray Vannes 56000
-URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603149
-END:VEVENT
-BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-12-06-11-00-as-tournefeuille-ie-les-frechets
  -bc-st-na@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261206T110000
 DTEND;TZID=Europe/Paris:20261206T130000
 SUMMARY:AS TOURNEFEUILLE – IE - LES FRECHETS BC ST NAZAIRE - 1
@@ -502,9 +502,25 @@ URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603159
 END:VEVENT
 BEGIN:VEVENT
+UID:nfu18-elite-b-poule-b-2026-12-06-15-30-cholet-basket-stade-rochelais-ba
+ sket@ffbb-agenda
+DTSTAMP:20260923T001738Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:CHOLET BASKET – STADE ROCHELAIS BASKET
+DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ CHOLET BASKET vs STADE R
+ OCHELAIS BASKET\n\nSALLE JOACHIM DU BELLAY\n📍 Square de LirÃ© Cholet 
+ 49300\n🚗 Waze : https://waze.com/ul?ll=47.04062\,-0.88702&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603160
+LOCATION:SALLE JOACHIM DU BELLAY\, Square de LirÃ© Cholet 49300
+URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
+ 4603160
+END:VEVENT
+BEGIN:VEVENT
 UID:nfu18-elite-b-poule-b-2026-12-06-15-30-feytiat-basket-87-ie-ctc-vannes-
  agglomera@ffbb-agenda
-DTSTAMP:20260922T001645Z
+DTSTAMP:20260923T001738Z
 DTSTART;TZID=Europe/Paris:20261206T153000
 DTEND;TZID=Europe/Paris:20261206T173000
 SUMMARY:FEYTIAT BASKET 87 – IE - CTC VANNES AGGLOMERATION 56
@@ -517,21 +533,5 @@ DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ FEYTIAT BASKET 87 vs IE
 LOCATION:SALLE ROGER COUDERC\, Rue du ManÃ¨ge Feytiat 87220
 URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
  4603161
-END:VEVENT
-BEGIN:VEVENT
-UID:nfu18-elite-b-poule-b-2026-12-06-15-30-cholet-basket-stade-rochelais-ba
- sket@ffbb-agenda
-DTSTAMP:20260922T001645Z
-DTSTART;TZID=Europe/Paris:20261206T153000
-DTEND;TZID=Europe/Paris:20261206T173000
-SUMMARY:CHOLET BASKET – STADE ROCHELAIS BASKET
-DESCRIPTION:🏀 NFU18-ELITE-B – Poule B\n⚔️ CHOLET BASKET vs STADE R
- OCHELAIS BASKET\n\nSALLE JOACHIM DU BELLAY\n📍 Square de LirÃ© Cholet 
- 49300\n🚗 Waze : https://waze.com/ul?ll=47.04062\,-0.88702&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/competitions/nfu18-elite-b/match/200000014603160
-LOCATION:SALLE JOACHIM DU BELLAY\, Square de LirÃ© Cholet 49300
-URL:https://competitions.ffbb.com/competitions/nfu18-elite-b/match/20000001
- 4603160
 END:VEVENT
 END:VCALENDAR

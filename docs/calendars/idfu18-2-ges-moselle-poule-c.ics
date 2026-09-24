@@ -24,9 +24,26 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-10-03-16-00-dukes-de-fameck-fensch-ba
+ sket-aven@ffbb-agenda
+DTSTAMP:20260924T021012Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T180000
+SUMMARY:DUKES DE FAMECK – FENSCH BASKET AVENIR FBA - 2
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ DUKES DE 
+ FAMECK vs FENSCH BASKET AVENIR FBA - 2\n\nSalle VISOSA\n📍 Rue Antoine d
+ e Saint-Exupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381
+ \,6.11256&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
+ lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
+ ons/idfu18-2/match/200000014796918
+LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014796918
+END:VEVENT
+BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-10-03-16-00-bcv-verdun-basket-club-de
  -valleroy@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261003T160000
 DTEND;TZID=Europe/Paris:20261003T180000
 SUMMARY:BCV VERDUN – BASKET CLUB DE VALLEROY-BRIEY
@@ -42,26 +59,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
  18-2/match/200000014796919
 END:VEVENT
 BEGIN:VEVENT
-UID:idfu18-2-ges-moselle-poule-c-2026-10-03-16-00-dukes-de-fameck-fensch-ba
- sket-aven@ffbb-agenda
-DTSTAMP:20260922T235356Z
-DTSTART;TZID=Europe/Paris:20261003T160000
-DTEND;TZID=Europe/Paris:20261003T180000
-SUMMARY:DUKES DE FAMECK – FENSCH BASKET AVENIR FBA - 2
-DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ DUKES DE 
- FAMECK vs FENSCH BASKET AVENIR FBA - 2\n\nSalle VISOSA\n📍 Rue Antoine d
- e Saint-Exupéry Fameck 57290\n🚗 Waze : https://waze.com/ul?ll=49.30381
- \,6.11256&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feui
- lle FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/competiti
- ons/idfu18-2/match/200000014796918
-LOCATION:Salle VISOSA\, Rue Antoine de Saint-Exupéry Fameck 57290
-URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
- 18-2/match/200000014796918
-END:VEVENT
-BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-10-10-15-30-basket-club-tucquenois-du
  kes-de-fa@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261010T153000
 DTEND;TZID=Europe/Paris:20261010T173000
 SUMMARY:BASKET CLUB TUCQUENOIS – DUKES DE FAMECK
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-10-10-18-00-fensch-basket-avenir-fba-
  2-bcv-ver@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261010T180000
 DTEND;TZID=Europe/Paris:20261010T200000
 SUMMARY:FENSCH BASKET AVENIR FBA - 2 – BCV VERDUN
@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-10-17-14-00-basket-club-tucquenois-fe
  nsch-bask@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261017T140000
 DTEND;TZID=Europe/Paris:20261017T160000
 SUMMARY:BASKET CLUB TUCQUENOIS – FENSCH BASKET AVENIR FBA - 2
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-10-17-18-00-basket-club-de-valleroy-b
  riey-duke@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261017T180000
 DTEND;TZID=Europe/Paris:20261017T200000
 SUMMARY:BASKET CLUB DE VALLEROY-BRIEY – DUKES DE FAMECK
@@ -129,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-11-07-17-30-basket-club-tucquenois-bc
  v-verdun@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261107T173000
 DTEND;TZID=Europe/Paris:20261107T193000
 SUMMARY:BASKET CLUB TUCQUENOIS – BCV VERDUN
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-11-07-18-00-fensch-basket-avenir-fba-
  2-basket-@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261107T180000
 DTEND;TZID=Europe/Paris:20261107T200000
 SUMMARY:FENSCH BASKET AVENIR FBA - 2 – BASKET CLUB DE VALLEROY-BRIEY
@@ -163,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-11-14-20-00-basket-club-de-valleroy-b
  riey-bask@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:BASKET CLUB DE VALLEROY-BRIEY – BASKET CLUB TUCQUENOIS
@@ -180,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-11-15-16-00-dukes-de-fameck-bcv-verdu
  n@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261115T160000
 DTEND;TZID=Europe/Paris:20261115T180000
 SUMMARY:DUKES DE FAMECK – BCV VERDUN
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-11-21-18-00-fensch-basket-avenir-fba-
  2-dukes-d@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261121T180000
 DTEND;TZID=Europe/Paris:20261121T200000
 SUMMARY:FENSCH BASKET AVENIR FBA - 2 – DUKES DE FAMECK
@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-11-21-20-00-basket-club-de-valleroy-b
  riey-bcv-@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261121T200000
 DTEND;TZID=Europe/Paris:20261121T220000
 SUMMARY:BASKET CLUB DE VALLEROY-BRIEY – BCV VERDUN
@@ -231,7 +231,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-11-28-14-00-bcv-verdun-fensch-basket-
  avenir-fb@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261128T140000
 DTEND;TZID=Europe/Paris:20261128T160000
 SUMMARY:BCV VERDUN – FENSCH BASKET AVENIR FBA - 2
@@ -249,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-11-28-16-00-dukes-de-fameck-basket-cl
  ub-tucque@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261128T160000
 DTEND;TZID=Europe/Paris:20261128T180000
 SUMMARY:DUKES DE FAMECK – BASKET CLUB TUCQUENOIS
@@ -264,26 +264,9 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
  18-2/match/200000014796973
 END:VEVENT
 BEGIN:VEVENT
-UID:idfu18-2-ges-moselle-poule-c-2026-12-05-18-00-fensch-basket-avenir-fba-
- 2-basket-@ffbb-agenda
-DTSTAMP:20260922T235356Z
-DTSTART;TZID=Europe/Paris:20261205T180000
-DTEND;TZID=Europe/Paris:20261205T200000
-SUMMARY:FENSCH BASKET AVENIR FBA - 2 – BASKET CLUB TUCQUENOIS
-DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ FENSCH BA
- SKET AVENIR FBA - 2 vs BASKET CLUB TUCQUENOIS\n\nSALLE ALBERT BASSETTO\n
- 📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=
- 49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
- 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
- competitions/idfu18-2/match/200000014796982
-LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
-URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
- 18-2/match/200000014796982
-END:VEVENT
-BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-12-05-18-00-dukes-de-fameck-basket-cl
  ub-de-val@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261205T180000
 DTEND;TZID=Europe/Paris:20261205T200000
 SUMMARY:DUKES DE FAMECK – BASKET CLUB DE VALLEROY-BRIEY
@@ -298,9 +281,26 @@ URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
  18-2/match/200000014796981
 END:VEVENT
 BEGIN:VEVENT
+UID:idfu18-2-ges-moselle-poule-c-2026-12-05-18-00-fensch-basket-avenir-fba-
+ 2-basket-@ffbb-agenda
+DTSTAMP:20260924T021012Z
+DTSTART;TZID=Europe/Paris:20261205T180000
+DTEND;TZID=Europe/Paris:20261205T200000
+SUMMARY:FENSCH BASKET AVENIR FBA - 2 – BASKET CLUB TUCQUENOIS
+DESCRIPTION:🏀 IDFU18-2 – GES – Moselle – Poule C\n⚔️ FENSCH BA
+ SKET AVENIR FBA - 2 vs BASKET CLUB TUCQUENOIS\n\nSALLE ALBERT BASSETTO\n
+ 📍 Rue de la Moselle Nilvange 57240\n🚗 Waze : https://waze.com/ul?ll=
+ 49.34299\,6.04802&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n
+ 🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0057/
+ competitions/idfu18-2/match/200000014796982
+LOCATION:SALLE ALBERT BASSETTO\, Rue de la Moselle Nilvange 57240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0057/competitions/idfu
+ 18-2/match/200000014796982
+END:VEVENT
+BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-12-12-14-00-bcv-verdun-basket-club-tu
  cquenois@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261212T140000
 DTEND;TZID=Europe/Paris:20261212T160000
 SUMMARY:BCV VERDUN – BASKET CLUB TUCQUENOIS
@@ -318,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-12-12-20-00-basket-club-de-valleroy-b
  riey-fens@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261212T200000
 DTEND;TZID=Europe/Paris:20261212T220000
 SUMMARY:BASKET CLUB DE VALLEROY-BRIEY – FENSCH BASKET AVENIR FBA - 2
@@ -335,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-12-19-14-00-basket-club-tucquenois-ba
  sket-club@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261219T140000
 DTEND;TZID=Europe/Paris:20261219T160000
 SUMMARY:BASKET CLUB TUCQUENOIS – BASKET CLUB DE VALLEROY-BRIEY
@@ -352,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:idfu18-2-ges-moselle-poule-c-2026-12-19-16-00-bcv-verdun-dukes-de-famec
  k@ffbb-agenda
-DTSTAMP:20260922T235356Z
+DTSTAMP:20260924T021012Z
 DTSTART;TZID=Europe/Paris:20261219T160000
 DTEND;TZID=Europe/Paris:20261219T180000
 SUMMARY:BCV VERDUN – DUKES DE FAMECK

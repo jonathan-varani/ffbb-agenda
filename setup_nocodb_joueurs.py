@@ -24,17 +24,23 @@ NOCODB_TABLE = "m135lw76cfsqy0a"          # table "Contacts Joueurs"
 COL_LICENCE   = "joueur_licence"
 COL_NAISSANCE = "joueur_naissance"
 
-# Données relevées sur la capture d'écran FFBB
+# Données relevées sur le trombinoscope FFBB (équipe U15M, ASP STE MARIE AUX CHENES)
 # (initiale du nom, prénom, licence, année de naissance)
 JOUEURS = [
-    ("B", "Gabriel", "BC133160", 2013),
-    ("G", "Nolan",   "BC128938", 2012),
-    ("G", "Evan",    "BC128194", 2012),
-    ("K", "Tom",     "BC135000", 2013),
-    ("K", "Martin",  "BC124583", 2012),
-    ("R", "Camille", "BC130875", 2013),
-    ("S", "Noah",    "BC138560", 2013),
-    ("S", "Maël",    "BC128424", 2012),
+    ("A", "Louis",    "VT640304", 1964),
+    ("B", "Gabriel",  "BC133160", 2013),
+    ("D", "Jules",    "BC137136", 2013),
+    ("G", "Nolan",    "BC128938", 2012),
+    ("G", "Evan",     "BC128194", 2012),
+    ("K", "Younès",   "BC134692", 2013),
+    ("K", "Tom",      "BC135000", 2013),
+    ("K", "Martin",   "BC124583", 2012),
+    ("M", "Tiago",    "BC120567", 2012),
+    ("R", "Camille",  "BC130875", 2013),
+    ("S", "Noah",     "BC138560", 2013),
+    ("S", "Maël",     "BC128424", 2012),
+    ("V", "Jonathan", "VT880029", 1988),
+    ("V", "Léo",      "BC133888", 2013),
 ]
 
 

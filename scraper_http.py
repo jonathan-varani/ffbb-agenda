@@ -481,8 +481,16 @@ async def find_all_poule_urls(url: str) -> list[str]:
     sep  = "&" if "?" in base else "?"
 
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as session:
-        async with session.get(url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
-            html = await resp.text()
+        for attempt in range(3):
+            try:
+                async with session.get(url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
+                    html = await resp.text()
+                break
+            except Exception as e:
+                if attempt == 2:
+                    print(f"  ⚠️  find_all_poule_urls erreur après 3 tentatives : {e}")
+                    return [url]
+                await asyncio.sleep(2 ** attempt)  # 1s, 2s
 
     soup = BeautifulSoup(html, "html.parser")
 
@@ -579,8 +587,16 @@ async def discover_competitions(
     print(f"\n  Découverte des compétitions : {region_url}")
 
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as session:
-        async with session.get(region_url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
-            html = await resp.text()
+        for attempt in range(3):
+            try:
+                async with session.get(region_url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
+                    html = await resp.text()
+                break
+            except Exception as e:
+                if attempt == 2:
+                    print(f"  ⚠️  discover_competitions erreur après 3 tentatives : {e}")
+                    return []
+                await asyncio.sleep(2 ** attempt)  # 1s, 2s
 
     soup  = BeautifulSoup(html, "html.parser")
     slugs: dict[str, str] = {}   # slug_path → label

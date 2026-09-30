@@ -1,0 +1,270 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – FLAMMES CAROLO BASKET ARDENNES  [DMU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de FLAMMES CAROLO BASKET ARDENNES – DMU15 – GES – Ardennes – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2026-10-03-17-30-flammes-carolo-basket-arden
+ nes-rethe@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20261003T173000
+DTEND;TZID=Europe/Paris:20261003T193000
+SUMMARY:🏠 FLAMMES CAROLO BASKET ARDENNES – RETHEL SPORTIF BASKET
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES vs RETHEL SPORTIF BASKET\n\nSALLE BAYARD\n📍 Avenue 
+ Louis Tirman Charleville-Mézières 08000\n🚗 Waze : https://waze.com/ul
+ ?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de désignation\
+ n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/00
+ 08/competitions/dmu15/match/200000014818371
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818371
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2026-10-10-14-00-flammes-carolo-basket-arden
+ nes-ea-va@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 FLAMMES CAROLO BASKET ARDENNES – EA VAILLANTE VRIGNE AUX BOI
+ S
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES vs EA VAILLANTE VRIGNE AUX BOIS\n\nSALLE BAYARD\n📍 
+ Avenue Louis Tirman Charleville-Mézières 08000\n🚗 Waze : https://waze
+ .com/ul?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de désig
+ nation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/com
+ ites/0008/competitions/dmu15/match/200000014818374
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818374
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2026-11-07-00-00-basket-club-mouzonnais-flam
+ mes-carol@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20261107T000000
+DTEND;TZID=Europe/Paris:20261107T020000
+SUMMARY:✈️ BASKET CLUB MOUZONNAIS – FLAMMES CAROLO BASKET ARDENNES
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  MOUZONNAIS vs FLAMMES CAROLO BASKET ARDENNES\n\nGYMNASE DE MOUZON\n📍 R
+ ue Jean-Claude Stolz Mouzon 08210\n🚗 Waze : https://waze.com/ul?ll=49.6
+ 0599\,5.07328&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 
+ Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/compe
+ titions/dmu15/match/200000014818379
+LOCATION:GYMNASE DE MOUZON\, Rue Jean-Claude Stolz Mouzon 08210
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818379
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2026-11-14-00-00-basket-club-givetois-flamme
+ s-carolo-@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20261114T000000
+DTEND;TZID=Europe/Paris:20261114T020000
+SUMMARY:✈️ BASKET CLUB GIVETOIS – FLAMMES CAROLO BASKET ARDENNES
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ BASKET CLUB
+  GIVETOIS vs FLAMMES CAROLO BASKET ARDENNES\n\nSALLE GERARD TASSIN\n📍 R
+ ue Berthelot Givet 08600\n🚗 Waze : https://waze.com/ul?ll=50.1422\,4.82
+ 607&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
+ BB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dm
+ u15/match/200000014818383
+LOCATION:SALLE GERARD TASSIN\, Rue Berthelot Givet 08600
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818383
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2026-11-22-10-00-etoile-de-charleville-mezie
+ res-2-fla@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20261122T100000
+DTEND;TZID=Europe/Paris:20261122T120000
+SUMMARY:✈️ ETOILE DE CHARLEVILLE MEZIERES - 2 – FLAMMES CAROLO BASKET
+  ARDENNES
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ ETOILE DE C
+ HARLEVILLE MEZIERES - 2 vs FLAMMES CAROLO BASKET ARDENNES\n\nComplexe Spor
+ tif Robert Hemmler\n📍 Rue du Pâquis des Boulets Charleville-Mézières
+  08000\n🚗 Waze : https://waze.com/ul?ll=49.76057\,4.70955&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu15/match/2000000
+ 14818388
+LOCATION:Complexe Sportif Robert Hemmler\, Rue du Pâquis des Boulets Charl
+ eville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818388
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2026-11-28-14-00-flammes-carolo-basket-arden
+ nes-union@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20261128T140000
+DTEND;TZID=Europe/Paris:20261128T160000
+SUMMARY:🏠 FLAMMES CAROLO BASKET ARDENNES – UNION SPORTIVE DE LAIFOUR
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES vs UNION SPORTIVE DE LAIFOUR\n\nSALLE DELVINCOURT\n
+ 📍 Rue Delvincourt Charleville-Mézières 08000\n🚗 Waze : https://waz
+ e.com/ul?ll=49.77243\,4.73088&navigate=yes\n\n📢 Arbitres : Pas de dési
+ gnation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/co
+ mites/0008/competitions/dmu15/match/200000014818393
+LOCATION:SALLE DELVINCOURT\, Rue Delvincourt Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818393
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2026-12-05-00-00-flammes-carolo-basket-arden
+ nes-ville@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20261205T000000
+DTEND;TZID=Europe/Paris:20261205T020000
+SUMMARY:🏠 FLAMMES CAROLO BASKET ARDENNES – VILLERS SEMEUSE BASKET
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES vs VILLERS SEMEUSE BASKET\n\nSALLE BAYARD\n📍 Avenue
+  Louis Tirman Charleville-Mézières 08000\n🚗 Waze : https://waze.com/u
+ l?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 008/competitions/dmu15/match/200000014818394
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818394
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2026-12-12-00-00-rethel-sportif-basket-flamm
+ es-carolo@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20261212T000000
+DTEND;TZID=Europe/Paris:20261212T020000
+SUMMARY:✈️ RETHEL SPORTIF BASKET – FLAMMES CAROLO BASKET ARDENNES
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ RETHEL SPOR
+ TIF BASKET vs FLAMMES CAROLO BASKET ARDENNES\n\nGYMNASE MERMOZ\n📍 Rue N
+ ormandie-Niémen Rethel 08300\n🚗 Waze : https://waze.com/ul?ll=49.5165\
+ ,4.37261&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitio
+ ns/dmu15/match/200000014818399
+LOCATION:GYMNASE MERMOZ\, Rue Normandie-Niémen Rethel 08300
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818399
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2027-01-09-14-00-ea-vaillante-vrigne-aux-boi
+ s-flammes@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20270109T140000
+DTEND;TZID=Europe/Paris:20270109T160000
+SUMMARY:✈️ EA VAILLANTE VRIGNE AUX BOIS – FLAMMES CAROLO BASKET ARDEN
+ NES
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ EA VAILLANT
+ E VRIGNE AUX BOIS vs FLAMMES CAROLO BASKET ARDENNES\n\nSALLE BEREGOVOY\n
+ 📍 Avenue Jean Jaurès Vrigne aux Bois 08330\n🚗 Waze : https://waze.c
+ om/ul?ll=49.73658\,4.85224&navigate=yes\n\n📢 Arbitres : Pas de désigna
+ tion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comit
+ es/0008/competitions/dmu15/match/200000014818402
+LOCATION:SALLE BEREGOVOY\, Avenue Jean Jaurès Vrigne aux Bois 08330
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818402
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2027-01-16-00-00-flammes-carolo-basket-arden
+ nes-baske@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20270116T000000
+DTEND;TZID=Europe/Paris:20270116T020000
+SUMMARY:🏠 FLAMMES CAROLO BASKET ARDENNES – BASKET CLUB MOUZONNAIS
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES vs BASKET CLUB MOUZONNAIS\n\nSALLE BAYARD\n📍 Avenue
+  Louis Tirman Charleville-Mézières 08000\n🚗 Waze : https://waze.com/u
+ l?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 008/competitions/dmu15/match/200000014818407
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818407
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2027-01-23-00-00-flammes-carolo-basket-arden
+ nes-baske@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20270123T000000
+DTEND;TZID=Europe/Paris:20270123T020000
+SUMMARY:🏠 FLAMMES CAROLO BASKET ARDENNES – BASKET CLUB GIVETOIS
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES vs BASKET CLUB GIVETOIS\n\nSALLE BAYARD\n📍 Avenue L
+ ouis Tirman Charleville-Mézières 08000\n🚗 Waze : https://waze.com/ul?
+ ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de désignation\n
+ \n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/000
+ 8/competitions/dmu15/match/200000014818411
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818411
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2027-01-30-00-00-flammes-carolo-basket-arden
+ nes-etoil@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20270130T000000
+DTEND;TZID=Europe/Paris:20270130T020000
+SUMMARY:🏠 FLAMMES CAROLO BASKET ARDENNES – ETOILE DE CHARLEVILLE MEZIE
+ RES - 2
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ FLAMMES CAR
+ OLO BASKET ARDENNES vs ETOILE DE CHARLEVILLE MEZIERES - 2\n\nSALLE BAYARD\
+ n📍 Avenue Louis Tirman Charleville-Mézières 08000\n🚗 Waze : https:
+ //waze.com/ul?ll=49.76225\,4.71403&navigate=yes\n\n📢 Arbitres : Pas de 
+ désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/g
+ es/comites/0008/competitions/dmu15/match/200000014818416
+LOCATION:SALLE BAYARD\, Avenue Louis Tirman Charleville-Mézières 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818416
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2027-02-13-14-00-union-sportive-de-laifour-f
+ lammes-ca@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20270213T140000
+DTEND;TZID=Europe/Paris:20270213T160000
+SUMMARY:✈️ UNION SPORTIVE DE LAIFOUR – FLAMMES CAROLO BASKET ARDENNES
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ UNION SPORT
+ IVE DE LAIFOUR vs FLAMMES CAROLO BASKET ARDENNES\n\nSALLE J.GILLARD\n📍 
+ Rue de la Gare Laifour 08800\n🚗 Waze : https://waze.com/ul?ll=49.91125\
+ ,4.69269&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitio
+ ns/dmu15/match/200000014818421
+LOCATION:SALLE J.GILLARD\, Rue de la Gare Laifour 08800
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818421
+END:VEVENT
+BEGIN:VEVENT
+UID:dmu15-ges-ardennes-poule-a-2027-03-13-00-00-villers-semeuse-basket-flam
+ mes-carol@ffbb-agenda
+DTSTAMP:20260930T082423Z
+DTSTART;TZID=Europe/Paris:20270313T000000
+DTEND;TZID=Europe/Paris:20270313T020000
+SUMMARY:✈️ VILLERS SEMEUSE BASKET – FLAMMES CAROLO BASKET ARDENNES
+DESCRIPTION:🏀 DMU15 – GES – Ardennes – Poule A\n⚔️ VILLERS SEM
+ EUSE BASKET vs FLAMMES CAROLO BASKET ARDENNES\n\nCOSEC\n📍 Avenue Jean J
+ aurès Villers-Semeuse 08000\n🚗 Waze : https://waze.com/ul?ll=49.74096\
+ ,4.74446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0008/competitio
+ ns/dmu15/match/200000014818422
+LOCATION:COSEC\, Avenue Jean Jaurès Villers-Semeuse 08000
+URL:https://competitions.ffbb.com/ligues/ges/comites/0008/competitions/dmu1
+ 5/match/200000014818422
+END:VEVENT
+END:VCALENDAR

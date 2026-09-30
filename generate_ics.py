@@ -363,6 +363,11 @@ async def main():
         print("MODE NATIONAL : championnats nationaux")
         print(f"{'='*60}")
         comp_urls = await discover_national_competitions()
+        if not comp_urls:
+            raise RuntimeError(
+                "Aucune compétition nationale découverte : échec probable de "
+                "discover_national_competitions (page bloquée/changée)."
+            )
         for comp_url in comp_urls:
             print(f"\n{'='*60}\n{comp_url}\n{'='*60}")
             poule_urls = await find_all_poule_urls(comp_url)
@@ -375,11 +380,13 @@ async def main():
 
     elif region:
         # Mode région : découverte automatique de toutes les compétitions
+        total_comp_urls = 0
         for region_url in urls:
             print(f"\n{'='*60}")
             print(f"MODE RÉGION : {region_url}")
             print(f"{'='*60}")
             comp_urls = await discover_competitions(region_url)
+            total_comp_urls += len(comp_urls)
             for comp_url in comp_urls:
                 print(f"\n{'='*60}\n{comp_url}\n{'='*60}")
                 poule_urls = await find_all_poule_urls(comp_url)
@@ -389,6 +396,12 @@ async def main():
                         await process_poule(purl, manifest)
                     except Exception as e:
                         print(f"  ⚠️  Poule ignorée après échec : {purl} — {e}")
+        if total_comp_urls == 0:
+            raise RuntimeError(
+                "Aucune compétition découverte sur aucune des régions demandées : "
+                "échec probable de discover_competitions (page bloquée/changée), "
+                "à ne pas confondre avec un simple 'rien de nouveau'."
+            )
 
     elif direct:
         for url in urls:

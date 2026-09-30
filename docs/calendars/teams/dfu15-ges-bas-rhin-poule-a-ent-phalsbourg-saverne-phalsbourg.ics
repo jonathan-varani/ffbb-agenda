@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – ENT Phalsbourg/Saverne - Phalsbourg  [DFU15 – GES – Poule A]
+X-WR-CALDESC:Matchs de ENT Phalsbourg/Saverne - Phalsbourg – DFU15 – GES – Bas-Rhin – Poule A
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-a-2026-09-19-16-00-ent-phalsbourg-saverne-phal
+ sbourg-nb@ffbb-agenda
+DTSTAMP:20260930T084002Z
+DTSTART;TZID=Europe/Paris:20260919T160000
+DTEND;TZID=Europe/Paris:20260919T180000
+SUMMARY:🏠 ENT Phalsbourg/Saverne - Phalsbourg – NBC SARREBOURG (51-50)
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule A\n⚔️ ENT Phalsbo
+ urg/Saverne - Phalsbourg vs NBC SARREBOURG\n📊 Score : 51-50\n\nSALLE VA
+ UBAN\n📍 Allée des Sports Phalsbourg 57370\n🚗 Waze : https://waze.co
+ m/ul?ll=48.76986\,7.25521&navigate=yes\n\n📢 Arbitres : Pas de désignat
+ ion\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comite
+ s/0067/competitions/dfu15/match/200000014660573
+LOCATION:SALLE VAUBAN\, Allée des Sports Phalsbourg 57370
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660573
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-a-2026-09-26-16-00-niederschaeffolsheim-c-s-m-
+ ent-phals@ffbb-agenda
+DTSTAMP:20260930T084002Z
+DTSTART;TZID=Europe/Paris:20260926T160000
+DTEND;TZID=Europe/Paris:20260926T180000
+SUMMARY:✈️ NIEDERSCHAEFFOLSHEIM C.S.M. – ENT Phalsbourg/Saverne - Pha
+ lsbourg (64-23)
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule A\n⚔️ NIEDERSCHAE
+ FFOLSHEIM C.S.M. vs ENT Phalsbourg/Saverne - Phalsbourg\n📊 Score : 64-2
+ 3\n\nESPACE SPORTIF ET CULTUREL\n📍 Rue du Stade Niederschaeffolsheim 67
+ 500\n🚗 Waze : https://waze.com/ul?ll=48.76974\,7.74211&navigate=yes\n\n
+ 📢 Arbitres : Florent FRANÇOIS\n\n🔗 Feuille FFBB : https://competiti
+ ons.ffbb.com/ligues/ges/comites/0067/competitions/dfu15/match/200000014660
+ 574
+LOCATION:ESPACE SPORTIF ET CULTUREL\, Rue du Stade Niederschaeffolsheim 675
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660574
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-a-2026-10-03-14-00-schirrhein-c-s-c-sn-2-ent-p
+ halsbourg@ffbb-agenda
+DTSTAMP:20260930T084002Z
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T160000
+SUMMARY:✈️ SCHIRRHEIN C.S.C.SN - 2 – ENT Phalsbourg/Saverne - Phalsbo
+ urg
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule A\n⚔️ SCHIRRHEIN 
+ C.S.C.SN - 2 vs ENT Phalsbourg/Saverne - Phalsbourg\n\nSALLE POLYVALENTE (
+ ANNEXE)\n📍 Rue du Foyer Schirrhein 67240\n🚗 Waze : https://waze.com/
+ ul?ll=48.80224\,7.9068&navigate=yes\n\n📢 Arbitres : Pas de désignation
+ \n\n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/comites/0
+ 067/competitions/dfu15/match/200000014660578
+LOCATION:SALLE POLYVALENTE (ANNEXE)\, Rue du Foyer Schirrhein 67240
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660578
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-a-2026-10-10-14-00-ent-phalsbourg-saverne-phal
+ sbourg-sc@ffbb-agenda
+DTSTAMP:20260930T084002Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T160000
+SUMMARY:🏠 ENT Phalsbourg/Saverne - Phalsbourg – SCHWEIGHOUSE/OHLUNGEN 
+ B.C.
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule A\n⚔️ ENT Phalsbo
+ urg/Saverne - Phalsbourg vs SCHWEIGHOUSE/OHLUNGEN B.C.\n\n📢 Arbitres : 
+ Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.com/l
+ igues/ges/comites/0067/competitions/dfu15/match/200000014660582
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660582
+END:VEVENT
+BEGIN:VEVENT
+UID:dfu15-ges-bas-rhin-poule-a-2026-10-14-15-00-keskastel-bc-ent-phalsbourg
+ -saverne-@ffbb-agenda
+DTSTAMP:20260930T084002Z
+DTSTART;TZID=Europe/Paris:20261014T150000
+DTEND;TZID=Europe/Paris:20261014T170000
+SUMMARY:✈️ KESKASTEL BC – ENT Phalsbourg/Saverne - Phalsbourg
+DESCRIPTION:🏀 DFU15 – GES – Bas-Rhin – Poule A\n⚔️ KESKASTEL B
+ C vs ENT Phalsbourg/Saverne - Phalsbourg\n\nSALLE POLYVALENTE\n📍 Rue de
+  la Fontaine Keskastel 67260\n🚗 Waze : https://waze.com/ul?ll=48.97217\
+ ,7.04804&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuil
+ le FFBB : https://competitions.ffbb.com/ligues/ges/comites/0067/competitio
+ ns/dfu15/match/200000014660569
+LOCATION:SALLE POLYVALENTE\, Rue de la Fontaine Keskastel 67260
+URL:https://competitions.ffbb.com/ligues/ges/comites/0067/competitions/dfu1
+ 5/match/200000014660569
+END:VEVENT
+END:VCALENDAR

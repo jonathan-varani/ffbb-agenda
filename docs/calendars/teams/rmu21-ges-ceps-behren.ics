@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FFBB Agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 FFBB – CEPS BEHREN  [RMU21 – GES]
+X-WR-CALDESC:Matchs de CEPS BEHREN – RMU21 – GES
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rmu21-ges-2026-10-04-15-30-asa-souffelweyersheim-ceps-behren@ffbb-agend
+ a
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20261004T153000
+DTEND;TZID=Europe/Paris:20261004T173000
+SUMMARY:✈️ ASA SOUFFELWEYERSHEIM – CEPS BEHREN
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ ASA SOUFFELWEYERSHEIM vs CEPS BEHREN
+ \n\nGYMNASE MUNICIPAL\n📍 Rue des Sept Arpents Souffelweyersheim 67460\n
+ 🚗 Waze : https://waze.com/ul?ll=48.6319\,7.74&navigate=yes\n\n📢 Arbi
+ tres : Mathias DOUZAMY\, Anisse BOUDJI\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753211
+LOCATION:GYMNASE MUNICIPAL\, Rue des Sept Arpents Souffelweyersheim 67460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753211
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2026-10-10-18-00-ceps-behren-cos-villers-les-nancy@ffbb-agend
+ a
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20261010T180000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:🏠 CEPS BEHREN – COS VILLERS LES NANCY
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ CEPS BEHREN vs COS VILLERS LES NANCY
+ \n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Behren-lès-Forbach 57460\n
+ 🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93507&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rmu21/match/200000014753218
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753218
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2026-11-08-15-30-reims-champagne-basket-ceps-behren@ffbb-agen
+ da
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20261108T153000
+DTEND;TZID=Europe/Paris:20261108T173000
+SUMMARY:✈️ REIMS CHAMPAGNE BASKET – CEPS BEHREN
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ REIMS CHAMPAGNE BASKET vs CEPS BEHRE
+ N\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue François Arago Reims 51100\n
+ 🚗 Waze : https://waze.com/ul?ll=49.22861\,4.00473&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rmu21/match/200000014753225
+LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago Reims 51100
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753225
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2026-11-14-18-00-ceps-behren-s-u-schiltigheim-basket-ball@ffb
+ b-agenda
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:🏠 CEPS BEHREN – S.U. SCHILTIGHEIM BASKET BALL
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ CEPS BEHREN vs S.U. SCHILTIGHEIM BAS
+ KET BALL\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Behren-lès-Forbach
+  57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93507&navigate=yes\
+ n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
+ etitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753235
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753235
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2026-12-06-15-30-joeuf-homecourt-basket-ceps-behren@ffbb-agen
+ da
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20261206T153000
+DTEND;TZID=Europe/Paris:20261206T173000
+SUMMARY:✈️ JHB – CEPS BEHREN
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ JOEUF HOMECOURT BASKET vs CEPS BEHRE
+ N\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bastien Joeuf 54240\n
+ 🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/competitions/rmu21/match/200000014753251
+LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753251
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2026-12-12-18-00-ceps-behren-espe-basket-chalons-en-champagne
+ @ffbb-agenda
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20261212T180000
+DTEND;TZID=Europe/Paris:20261212T200000
+SUMMARY:🏠 CEPS BEHREN – ESPE BASKET CHALONS EN CHAMPAGNE
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ CEPS BEHREN vs ESPE BASKET CHALONS E
+ N CHAMPAGNE\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Behren-lès-Forb
+ ach 57460\n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93507&navigate=y
+ es\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://c
+ ompetitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753259
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753259
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2027-01-09-18-00-ceps-behren-asa-souffelweyersheim@ffbb-agend
+ a
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20270109T180000
+DTEND;TZID=Europe/Paris:20270109T200000
+SUMMARY:🏠 CEPS BEHREN – ASA SOUFFELWEYERSHEIM
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ CEPS BEHREN vs ASA SOUFFELWEYERSHEIM
+ \n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Behren-lès-Forbach 57460\n
+ 🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93507&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rmu21/match/200000014753267
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753267
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2027-01-17-13-30-cos-villers-les-nancy-ceps-behren@ffbb-agend
+ a
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20270117T133000
+DTEND;TZID=Europe/Paris:20270117T153000
+SUMMARY:✈️ COS VILLERS LES NANCY – CEPS BEHREN
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ COS VILLERS LES NANCY vs CEPS BEHREN
+ \n\nSALLE GILBERT BAUVIN\n📍 Rue Maurice André Villers-lès-Nancy 54600
+ \n🚗 Waze : https://waze.com/ul?ll=48.67362\,6.15439&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753274
+LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753274
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2027-01-23-18-00-ceps-behren-reims-champagne-basket@ffbb-agen
+ da
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20270123T180000
+DTEND;TZID=Europe/Paris:20270123T200000
+SUMMARY:🏠 CEPS BEHREN – REIMS CHAMPAGNE BASKET
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ CEPS BEHREN vs REIMS CHAMPAGNE BASKE
+ T\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Behren-lès-Forbach 57460\
+ n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93507&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753281
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753281
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2027-02-07-13-30-s-u-schiltigheim-basket-ball-ceps-behren@ffb
+ b-agenda
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20270207T133000
+DTEND;TZID=Europe/Paris:20270207T153000
+SUMMARY:✈️ S.U. SCHILTIGHEIM BASKET BALL – CEPS BEHREN
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ S.U. SCHILTIGHEIM BASKET BALL vs CEP
+ S BEHREN\n\nCOMPLEXE NELSON MANDELA SALLE 1\n📍 Rue du Marais Schiltighe
+ im 67300\n🚗 Waze : https://waze.com/ul?ll=48.61103\,7.76747&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753291
+LOCATION:COMPLEXE NELSON MANDELA SALLE 1\, Rue du Marais Schiltigheim 67300
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753291
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2027-03-13-18-00-ceps-behren-joeuf-homecourt-basket@ffbb-agen
+ da
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20270313T180000
+DTEND;TZID=Europe/Paris:20270313T200000
+SUMMARY:🏠 CEPS BEHREN – JHB
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ CEPS BEHREN vs JOEUF HOMECOURT BASKE
+ T\n\nPALAIS DES SPORTS\n📍 Rue Robert Schuman Behren-lès-Forbach 57460\
+ n🚗 Waze : https://waze.com/ul?ll=49.16707\,6.93507&navigate=yes\n\n📢
+  Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competition
+ s.ffbb.com/ligues/ges/competitions/rmu21/match/200000014753307
+LOCATION:PALAIS DES SPORTS\, Rue Robert Schuman Behren-lès-Forbach 57460
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753307
+END:VEVENT
+BEGIN:VEVENT
+UID:rmu21-ges-2027-03-21-15-00-espe-basket-chalons-en-champagne-ceps-behren
+ @ffbb-agenda
+DTSTAMP:20260925T105618Z
+DTSTART;TZID=Europe/Paris:20270321T150000
+DTEND;TZID=Europe/Paris:20270321T170000
+SUMMARY:✈️ ESPE BASKET CHALONS EN CHAMPAGNE – CEPS BEHREN
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ ESPE BASKET CHALONS EN CHAMPAGNE vs 
+ CEPS BEHREN\n\nGYMNASE DANIEL CABOT\n📍 Rue René Lemoine Châlons-en-Ch
+ ampagne 51000\n🚗 Waze : https://waze.com/ul?ll=48.94936\,4.37276&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/2000000147533
+ 15
+LOCATION:GYMNASE DANIEL CABOT\, Rue René Lemoine Châlons-en-Champagne 510
+ 00
+URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
+ 0014753315
+END:VEVENT
+END:VCALENDAR

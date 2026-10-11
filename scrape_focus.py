@@ -5,7 +5,7 @@ Remplace, pour l'usage courant, generate_ics.py (--region / --national) qui
 parcourait des centaines de poules et déclenchait le blocage de la FFBB.
 Les anciens scripts (generate_ics.py, scraper_http.py, scraper.py) sont conservés.
 
-Ici : 4 poules, 2 requêtes en parallèle, arbitres récupérés pour l'équipe
+Ici : 7 poules, 2 requêtes en parallèle, arbitres récupérés pour l'équipe
 suivie seulement, et un .ics n'est réécrit que si son contenu a vraiment changé
 (le DTSTAMP est ignoré) — donc pas de commit inutile. En cas d'échec réseau ou de
 poule vide, le fichier existant est conservé tel quel.
@@ -54,6 +54,26 @@ FOCUS = [
         "equipe": "JOEUF HOMECOURT BASKET",
         "slug":   "pnm-ges-poule-c-joeuf-homecourt-basket",
         "url":    "https://competitions.ffbb.com/ligues/ges/competitions/pnm?phase=200000002897412&poule=200000003054920",
+    },
+    {
+        "equipe": "JOEUF HOMECOURT BASKET",
+        "slug":   "dmu13-ges-meurthe-et-moselle-poule-c-joeuf-homecourt-basket",
+        "url":    f"{BASE}/0054/competitions/dmu13?phase=200000002900113&poule=200000003060682",
+    },
+    {
+        "equipe": "JOEUF HOMECOURT BASKET",
+        "slug":   "dmu15-ges-meurthe-et-moselle-poule-d-joeuf-homecourt-basket",
+        "url":    f"{BASE}/0054/competitions/dmu15?phase=200000002900145&poule=200000003060720",
+    },
+    {
+        "equipe": "JOEUF HOMECOURT BASKET",
+        "slug":   "dvm-4-ges-moselle-poule-a-joeuf-homecourt-basket",
+        "url":    f"{BASE}/0057/competitions/dvm-4?phase=200000002900066&poule=200000002900066",
+    },
+    {
+        "equipe": "JOEUF HOMECOURT BASKET",
+        "slug":   "rmu21-ges-poule-a-joeuf-homecourt-basket",
+        "url":    "https://competitions.ffbb.com/ligues/ges/competitions/rmu21?phase=200000002899909&poule=200000003060327",
     },
 ]
 

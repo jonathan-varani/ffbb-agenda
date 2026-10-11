@@ -12,6 +12,7 @@ on:
     workflows:
       - "Scrape FFBB — région GES"
       - "Scrape FFBB — championnats nationaux"
+      - "Scrape FFBB — équipes suivies"
     types: [completed]
   workflow_dispatch: {}   # lancement manuel depuis l'onglet Actions
 

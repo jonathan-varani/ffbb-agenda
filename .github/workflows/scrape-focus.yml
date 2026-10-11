@@ -1,0 +1,55 @@
+name: Scrape FFBB — équipes suivies
+
+# Remplace les 3 anciens workflows de scraping global (désactivés : la FFBB
+# bloquait les runners GitHub à cause du volume). Ne lit que les poules listées
+# dans scrape_focus.py (~60 requêtes, 2 en parallèle).
+
+on:
+  schedule:
+    # Toutes les 3 h (UTC). Décaler au besoin : GitHub Actions ne gère que l'UTC.
+    - cron: "10 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-focus
+  cancel-in-progress: false
+
+jobs:
+  scrape-focus:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le scraping (équipes suivies)
+        env:
+          NOCODB_TOKEN: ${{ secrets.NOCODB_TOKEN }}
+        run: python scrape_focus.py
+
+      - name: Commit + push si changements
+        run: |
+          git config user.name "ffbb-bot"
+          git config user.email "actions@github.com"
+          git add docs/calendars/teams
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Auto: mise à jour calendriers équipes suivies $(date -u +'%Y-%m-%d %H:%M UTC')"
+            for i in 1 2 3; do
+              git push && exit 0
+              git pull --rebase origin main
+            done
+            echo "::error::Échec du push après 3 tentatives."
+            exit 1
+          fi

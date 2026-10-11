@@ -5,7 +5,7 @@ Remplace, pour l'usage courant, generate_ics.py (--region / --national) qui
 parcourait des centaines de poules et déclenchait le blocage de la FFBB.
 Les anciens scripts (generate_ics.py, scraper_http.py, scraper.py) sont conservés.
 
-Ici : 3 poules, 2 requêtes en parallèle, arbitres récupérés pour l'équipe
+Ici : 4 poules, 2 requêtes en parallèle, arbitres récupérés pour l'équipe
 suivie seulement, et un .ics n'est réécrit que si son contenu a vraiment changé
 (le DTSTAMP est ignoré) — donc pas de commit inutile. En cas d'échec réseau ou de
 poule vide, le fichier existant est conservé tel quel.
@@ -49,6 +49,11 @@ FOCUS = [
         "equipe": "ASP STE MARIE AUX CHENES",
         "slug":   "idmu18-ges-meurthe-et-moselle-poule-d-asp-ste-marie-aux-chenes",
         "url":    f"{BASE}/0054/competitions/idmu18?phase=200000002898335&poule=200000003056772",
+    },
+    {
+        "equipe": "JOEUF HOMECOURT BASKET",
+        "slug":   "pnm-ges-poule-c-joeuf-homecourt-basket",
+        "url":    "https://competitions.ffbb.com/ligues/ges/competitions/pnm?phase=200000002897412&poule=200000003054920",
     },
 ]
 

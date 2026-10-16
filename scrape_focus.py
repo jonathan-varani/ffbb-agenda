@@ -89,6 +89,7 @@ OVERRIDES = {
         "equipe2":   "BC RODEMACK (match amical)",
         "heure":     "13:00",
         "match_url": "",
+        "arbitres":  ["Rafael", "Nathan"],
     },
 }
 

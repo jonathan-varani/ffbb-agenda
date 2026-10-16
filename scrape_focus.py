@@ -79,6 +79,27 @@ FOCUS = [
 
 ARBITRES_HORIZON_JOURS = 14
 
+# Corrections manuelles : la FFBB n'est pas à jour pour ces matchs. Le match FFBB
+# est repéré par la fin de son match_url ; les champs donnés remplacent ceux de
+# la FFBB. `match_url` vide = pas de lien ni d'arbitres FFBB. À retirer une fois
+# la date passée.
+OVERRIDES = {
+    # Longwy Rehon 2 forfait général -> match amical contre Rodemack (confirmé par le club)
+    "200000014610474": {
+        "equipe2":   "BC RODEMACK (match amical)",
+        "heure":     "13:00",
+        "match_url": "",
+    },
+}
+
+
+def _applique_overrides(matches: list[dict]) -> None:
+    for m in matches:
+        for match_id, champs in OVERRIDES.items():
+            if (m.get("match_url") or "").endswith(f"/{match_id}"):
+                m.update(champs)
+                print(f"  ✎ override manuel appliqué ({match_id})")
+
 
 def _sans_dtstamp(ics: str) -> str:
     return re.sub(r"^DTSTAMP:.*\r?\n", "", ics, flags=re.M)
@@ -116,6 +137,7 @@ async def traite(cfg: dict, dry_run: bool) -> bool:
         print(f"  ❌ Aucun match pour « {equipe} » ({len(matches)} matchs dans la poule) — fichier conservé.")
         return False
 
+    _applique_overrides(mes_matchs)
     await _ajoute_arbitres(mes_matchs)
 
     comp_nom   = build_calendar_name(meta)

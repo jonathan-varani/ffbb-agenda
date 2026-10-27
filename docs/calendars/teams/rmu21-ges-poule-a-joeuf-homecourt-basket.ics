@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FFBB Agenda//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:🏀 FFBB – JOEUF HOMECOURT BASKET  [RMU21 – GES – Poule A]
-X-WR-CALDESC:Matchs de JOEUF HOMECOURT BASKET – RMU21 – GES – Poule A
+X-WR-CALNAME:🏀 FFBB – JOEUF HOMECOURT BASKET  [RMU21 – GES]
+X-WR-CALDESC:Matchs de JOEUF HOMECOURT BASKET – RMU21 – GES
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -24,200 +24,195 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2026-11-01-15-00-joeuf-homecourt-basket-racing-club-d
- e-strasbo@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2026-11-01-15-00-joeuf-homecourt-basket-racing-club-de-strasb
+ ourg@ffbb-agenda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20261101T150000
 DTEND;TZID=Europe/Paris:20261101T170000
 SUMMARY:🏠 JHB – RACING CLUB DE STRASBOURG
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ JOEUF HOMECOURT BASKET v
- s RACING CLUB DE STRASBOURG\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugè
- ne Bastien Joeuf 54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.0044
- 6&navigate=yes\n\n📢 Arbitres : Baptiste ORTOLAN\, Raphael FEUERSTOSS\n\
- n🔗 Feuille FFBB : https://competitions.ffbb.com/ligues/ges/competitions
- /rmu21/match/200000014846349
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ JOEUF HOMECOURT BASKET vs RACING CLU
+ B DE STRASBOURG\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bastien J
+ oeuf 54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navigate=y
+ es\n\n📢 Arbitres : Baptiste ORTOLAN\, Raphael FEUERSTOSS\n\n🔗 Feuill
+ e FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match
+ /200000014846349
 LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846349
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2026-11-08-15-30-joeuf-homecourt-basket-asa-souffelwe
- yersheim@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2026-11-08-15-30-joeuf-homecourt-basket-asa-souffelweyersheim
+ @ffbb-agenda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20261108T153000
 DTEND;TZID=Europe/Paris:20261108T173000
 SUMMARY:🏠 JHB – ASA SOUFFELWEYERSHEIM
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ JOEUF HOMECOURT BASKET v
- s ASA SOUFFELWEYERSHEIM\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène B
- astien Joeuf 54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&na
- vigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : h
- ttps://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014
- 846356
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ JOEUF HOMECOURT BASKET vs ASA SOUFFE
+ LWEYERSHEIM\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bastien Joeuf
+  54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navigate=yes\n
+ \n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://compe
+ titions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846356
 LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846356
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2026-11-15-15-30-holtzheim-vogesia-joeuf-homecourt-ba
- sket@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2026-11-15-15-30-holtzheim-vogesia-joeuf-homecourt-basket@ffb
+ b-agenda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20261115T153000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:✈️ HOLTZHEIM VOGESIA – JHB
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ HOLTZHEIM VOGESIA vs JOE
- UF HOMECOURT BASKET\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 678
- 10\n🚗 Waze : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\n
- 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
- tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846366
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ HOLTZHEIM VOGESIA vs JOEUF HOMECOURT
+  BASKET\n\nSALLE DE LA BRUCHE\n📍 Rue du Stade Holtzheim 67810\n🚗 Waz
+ e : https://waze.com/ul?ll=48.55686\,7.63555&navigate=yes\n\n📢 Arbitres
+  : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffbb.co
+ m/ligues/ges/competitions/rmu21/match/200000014846366
 LOCATION:SALLE DE LA BRUCHE\, Rue du Stade Holtzheim 67810
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846366
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2026-11-22-15-30-joeuf-homecourt-basket-strasbourg-as
- s@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2026-11-22-15-30-joeuf-homecourt-basket-strasbourg-ass@ffbb-a
+ genda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20261122T153000
 DTEND;TZID=Europe/Paris:20261122T173000
 SUMMARY:🏠 JHB – STRASBOURG ASS
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ JOEUF HOMECOURT BASKET v
- s STRASBOURG ASS\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bastien 
- Joeuf 54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navigate=
- yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://
- competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846370
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ JOEUF HOMECOURT BASKET vs STRASBOURG
+  ASS\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bastien Joeuf 54240\
+ n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navigate=yes\n\n📢 
+ Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions
+ .ffbb.com/ligues/ges/competitions/rmu21/match/200000014846370
 LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846370
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2026-12-06-15-30-cos-villers-les-nancy-joeuf-homecour
- t-basket@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2026-12-06-15-30-cos-villers-les-nancy-joeuf-homecourt-basket
+ @ffbb-agenda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20261206T153000
 DTEND;TZID=Europe/Paris:20261206T173000
 SUMMARY:✈️ COS VILLERS LES NANCY – JHB
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ COS VILLERS LES NANCY vs
-  JOEUF HOMECOURT BASKET\n\nSALLE GILBERT BAUVIN\n📍 Rue Maurice André V
- illers-lès-Nancy 54600\n🚗 Waze : https://waze.com/ul?ll=48.67362\,6.15
- 439&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
- BB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200
- 000014846377
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ COS VILLERS LES NANCY vs JOEUF HOMEC
+ OURT BASKET\n\nSALLE GILBERT BAUVIN\n📍 Rue Maurice André Villers-lès-
+ Nancy 54600\n🚗 Waze : https://waze.com/ul?ll=48.67362\,6.15439&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846377
 LOCATION:SALLE GILBERT BAUVIN\, Rue Maurice André Villers-lès-Nancy 54600
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846377
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2026-12-13-15-30-reims-champagne-basket-joeuf-homecou
- rt-basket@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2026-12-13-15-30-reims-champagne-basket-joeuf-homecourt-baske
+ t@ffbb-agenda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20261213T153000
 DTEND;TZID=Europe/Paris:20261213T173000
 SUMMARY:✈️ REIMS CHAMPAGNE BASKET – JHB
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ REIMS CHAMPAGNE BASKET v
- s JOEUF HOMECOURT BASKET\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue Franço
- is Arago Reims 51100\n🚗 Waze : https://waze.com/ul?ll=49.22861\,4.00473
- &navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB 
- : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000
- 014846384
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ REIMS CHAMPAGNE BASKET vs JOEUF HOME
+ COURT BASKET\n\nGYMNASE JEAN-JACQUES LAPIQUE\n📍 Rue François Arago Rei
+ ms 51100\n🚗 Waze : https://waze.com/ul?ll=49.22861\,4.00473&navigate=ye
+ s\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://co
+ mpetitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846384
 LOCATION:GYMNASE JEAN-JACQUES LAPIQUE\, Rue François Arago Reims 51100
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846384
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2027-01-16-18-00-asa-gries-oberhoffen-joeuf-homecourt
- -basket@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2027-01-16-18-00-asa-gries-oberhoffen-joeuf-homecourt-basket@
+ ffbb-agenda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20270116T180000
 DTEND;TZID=Europe/Paris:20270116T200000
 SUMMARY:✈️ ASA GRIES / OBERHOFFEN – JHB
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ ASA GRIES / OBERHOFFEN v
- s JOEUF HOMECOURT BASKET\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries
-  67240\n🚗 Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\
- n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://comp
- etitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846395
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ ASA GRIES / OBERHOFFEN vs JOEUF HOME
+ COURT BASKET\n\nESPACE SPORT LA FORET\n📍 Rue du Stade Gries 67240\n🚗
+  Waze : https://waze.com/ul?ll=48.75654\,7.81972&navigate=yes\n\n📢 Arbi
+ tres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.ffb
+ b.com/ligues/ges/competitions/rmu21/match/200000014846395
 LOCATION:ESPACE SPORT LA FORET\, Rue du Stade Gries 67240
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846395
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2027-01-24-15-30-joeuf-homecourt-basket-ceps-behren@f
- fbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2027-01-24-15-30-joeuf-homecourt-basket-ceps-behren@ffbb-agen
+ da
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20270124T153000
 DTEND;TZID=Europe/Paris:20270124T173000
 SUMMARY:🏠 JHB – CEPS BEHREN
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ JOEUF HOMECOURT BASKET v
- s CEPS BEHREN\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bastien Joe
- uf 54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846398
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ JOEUF HOMECOURT BASKET vs CEPS BEHRE
+ N\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bastien Joeuf 54240\n
+ 🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/competitions/rmu21/match/200000014846398
 LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846398
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2027-01-31-13-15-geispolsheim-c-j-s-joeuf-homecourt-b
- asket@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2027-01-31-13-15-geispolsheim-c-j-s-joeuf-homecourt-basket@ff
+ bb-agenda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20270131T131500
 DTEND;TZID=Europe/Paris:20270131T151500
 SUMMARY:✈️ GEISPOLSHEIM C.J.S. – JHB
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ GEISPOLSHEIM C.J.S. vs J
- OEUF HOMECOURT BASKET\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispo
- lsheim 67118\n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigat
- e=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:
- //competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000001484640
- 8
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ GEISPOLSHEIM C.J.S. vs JOEUF HOMECOU
+ RT BASKET\n\nCENTRE SPORTIF\n📍 Rue de la Porte Basse Geispolsheim 67118
+ \n🚗 Waze : https://waze.com/ul?ll=48.51681\,7.65343&navigate=yes\n\n
+ 📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competi
+ tions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846408
 LOCATION:CENTRE SPORTIF\, Rue de la Porte Basse Geispolsheim 67118
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846408
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2027-02-07-15-30-joeuf-homecourt-basket-s-u-schiltigh
- eim-baske@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2027-02-07-15-30-joeuf-homecourt-basket-s-u-schiltigheim-bask
+ et-ball@ffbb-agenda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20270207T153000
 DTEND;TZID=Europe/Paris:20270207T173000
 SUMMARY:🏠 JHB – S.U. SCHILTIGHEIM BASKET BALL
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ JOEUF HOMECOURT BASKET v
- s S.U. SCHILTIGHEIM BASKET BALL\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue E
- ugène Bastien Joeuf 54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.
- 00446&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille 
- FFBB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/2
- 00000014846412
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ JOEUF HOMECOURT BASKET vs S.U. SCHIL
+ TIGHEIM BASKET BALL\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Basti
+ en Joeuf 54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&naviga
+ te=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https
+ ://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/2000000148464
+ 12
 LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846412
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2027-02-14-15-30-basket-club-de-kingersheim-joeuf-hom
- ecourt-ba@ffbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2027-02-14-15-30-basket-club-de-kingersheim-joeuf-homecourt-b
+ asket@ffbb-agenda
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20270214T153000
 DTEND;TZID=Europe/Paris:20270214T173000
 SUMMARY:✈️ BASKET CLUB DE KINGERSHEIM – JHB
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ BASKET CLUB DE KINGERSHE
- IM vs JOEUF HOMECOURT BASKET\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Coub
- ertin Kingersheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.32
- 801&navigate=yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FF
- BB : https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200
- 000014846424
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ BASKET CLUB DE KINGERSHEIM vs JOEUF 
+ HOMECOURT BASKET\n\nCOSEC KINGERSHEIM\n📍 Rue Pierre de Coubertin Kinger
+ sheim 68260\n🚗 Waze : https://waze.com/ul?ll=47.78757\,7.32801&navigate
+ =yes\n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https:/
+ /competitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846424
 LOCATION:COSEC KINGERSHEIM\, Rue Pierre de Coubertin Kingersheim 68260
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846424
 END:VEVENT
 BEGIN:VEVENT
-UID:rmu21-ges-poule-a-2027-03-14-15-30-joeuf-homecourt-basket-selestat-bc@f
- fbb-agenda
-DTSTAMP:20261019T160049Z
+UID:rmu21-ges-2027-03-14-15-30-joeuf-homecourt-basket-selestat-bc@ffbb-agen
+ da
+DTSTAMP:20261027T075416Z
 DTSTART;TZID=Europe/Paris:20270314T153000
 DTEND;TZID=Europe/Paris:20270314T173000
 SUMMARY:🏠 JHB – SELESTAT BC
-DESCRIPTION:🏀 RMU21 – GES – Poule A\n⚔️ JOEUF HOMECOURT BASKET v
- s SELESTAT BC\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bastien Joe
- uf 54240\n🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navigate=yes
- \n\n📢 Arbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://com
- petitions.ffbb.com/ligues/ges/competitions/rmu21/match/200000014846426
+DESCRIPTION:🏀 RMU21 – GES\n⚔️ JOEUF HOMECOURT BASKET vs SELESTAT B
+ C\n\nSALLE MUNICIPALE DES SPORTS\n📍 Rue Eugène Bastien Joeuf 54240\n
+ 🚗 Waze : https://waze.com/ul?ll=49.2276\,6.00446&navigate=yes\n\n📢 A
+ rbitres : Pas de désignation\n\n🔗 Feuille FFBB : https://competitions.
+ ffbb.com/ligues/ges/competitions/rmu21/match/200000014846426
 LOCATION:SALLE MUNICIPALE DES SPORTS\, Rue Eugène Bastien Joeuf 54240
 URL:https://competitions.ffbb.com/ligues/ges/competitions/rmu21/match/20000
  0014846426
